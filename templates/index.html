@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>IASMENTOR Test Portal</title>
+  <style>
+    body { font-family: Arial; text-align: center; padding: 2rem; }
+    h1 { font-size: 2rem; }
+    select, button { padding: 10px; font-size: 1rem; margin-top: 1rem; }
+  </style>
+</head>
+<body>
+  <h1>🧭 IASMENTOR TEST PORTAL</h1>
+  <p><strong>NCERT से UPSC तक</strong><br><em>NCERT – the basic of UPSC</em></p>
+  <form method="get">
+    <select name="qset" onchange="window.location='/test/' + this.value">
+      <option selected disabled>-- Select a test --</option>
+      {% for qset in qsets %}
+      <option value="{{ qset }}">{{ qset }}</option>
+      {% endfor %}
+    </select>
+  </form>
+</body>
+</html>
