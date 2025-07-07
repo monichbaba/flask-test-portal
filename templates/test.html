@@ -1,36 +1,26 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>IASMENTOR Test Portal</title>
-  <style>
-    body { font-family: Arial; max-width: 700px; margin: auto; padding: 2rem; }
-    h1 { text-align: center; }
-    .question { margin-bottom: 2rem; }
-    .question p { font-weight: bold; }
-    input[type="submit"] {
-      padding: 10px 20px;
-      font-size: 1rem;
-    }
-  </style>
+  <meta charset="UTF-8">
+  <title>IAS Mentor – {{ qset }}</title>
 </head>
 <body>
-  <h1>📘 IASMENTOR – Test</h1>
-  <form method="POST" action="/submit">
+  <h1>IAS Mentor – {{ qset }}</h1>
+  <form action="/submit" method="POST">
     <input type="hidden" name="qset" value="{{ qset }}">
-    {% for q in questions %}
-      <div class="question">
-        <p>Q{{ loop.index }}. {{ q.q }}</p>
+    {% for i, q in enumerate(questions) %}
+      <div>
+        <p><b>Q{{ i+1 }}. {{ q.q }}</b></p>
         {% for opt in q.options %}
           <label>
-            <input type="radio" name="q{{ loop.index0 }}" value="{{ loop.index0 }}">
+            <input type="radio" name="q{{ i }}" value="{{ loop.index0 }}">
             {{ opt }}
           </label><br>
         {% endfor %}
       </div>
+      <hr>
     {% endfor %}
-    <div style="text-align: center;">
-      <input type="submit" value="📤 Submit Test">
-    </div>
+    <button type="submit">Submit</button>
   </form>
 </body>
 </html>
