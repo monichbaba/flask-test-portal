@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "q": "भारत का सबसे बड़ा राज्य कौन सा है? / Which is the largest Indian state?",
+      "options": [
+        "राजस्थान / Rajasthan",
+        "उत्तर प्रदेश / Uttar Pradesh",
+        "महाराष्ट्र / Maharashtra",
+        "मध्य प्रदेश / Madhya Pradesh"
+      ],
+      "answer": "राजस्थान / Rajasthan"
+    },
+    {
+      "q": "पृथ्वी का सबसे अंदरूनी भाग क्या कहलाता है? / What is the innermost layer of the Earth?",
+      "options": [
+        "क्रस्ट / Crust",
+        "मैंटल / Mantle",
+        "कोर / Core",
+        "लिथोस्फीयर / Lithosphere"
+      ],
+      "answer": "कोर / Core"
+    }
+  ]
+}
