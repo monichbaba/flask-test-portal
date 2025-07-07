@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "मानचित्र बनाने के लिए किस विधि का उपयोग होता है? / Which method is used to draw maps?",
+      "options": ["स्केचिंग / Sketching", "प्रक्षेपण / Projection", "फोटोग्राफी / Photography", "ऑब्जर्वेशन / Observation"],
+      "answer": "प्रक्षेपण / Projection"
+    },
+    {
+      "question": "धरातल की ऊँचाई को दर्शाने के लिए किस रेखा का उपयोग किया जाता है? / Which line is used to represent elevation on a map?",
+      "options": ["रेखा चित्र / Line diagram", "कंटूर रेखा / Contour line", "काल्पनिक रेखा / Imaginary line", "उच्च रेखा / High line"],
+      "answer": "कंटूर रेखा / Contour line"
+    },
+    {
+      "question": "किस प्रकार की मिट्टी को जल धारण करने की क्षमता सबसे अधिक होती है? / Which type of soil has the highest water retention?",
+      "options": ["रेतीली / Sandy", "बलुई / Loamy", "काली / Black", "दोपहली / Clayey"],
+      "answer": "दोपहली / Clayey"
+    },
+    {
+      "question": "पृथ्वी के किस भाग में जीवन संभव है? / In which layer of Earth is life possible?",
+      "options": ["कोर / Core", "मंटल / Mantle", "क्रस्ट / Crust", "इनमें से कोई नहीं / None of these"],
+      "answer": "क्रस्ट / Crust"
+    },
+    {
+      "question": "धरातलीय प्लेटों की गति किस प्रक्रिया से संबंधित है? / The movement of tectonic plates is related to which process?",
+      "options": ["संवहन धारा / Convection current", "वाष्पीकरण / Evaporation", "वर्षा चक्र / Water cycle", "सौर विकिरण / Solar radiation"],
+      "answer": "संवहन धारा / Convection current"
+    },
+    {
+      "question": "सबसे लंबा पर्वत शृंखला कौन सी है? / Which is the longest mountain range?",
+      "options": ["हिमालय / Himalayas", "रॉकी / Rockies", "अंडीज / Andes", "आल्प्स / Alps"],
+      "answer": "अंडीज / Andes"
+    },
+    {
+      "question": "जलवायु को प्रभावित करने वाला प्रमुख तत्व कौन सा है? / What is the primary factor affecting climate?",
+      "options": ["वनस्पति / Vegetation", "सूर्य की ऊष्मा / Sun’s heat", "मिट्टी / Soil", "जनसंख्या / Population"],
+      "answer": "सूर्य की ऊष्मा / Sun’s heat"
+    },
+    {
+      "question": "पृथ्वी के सतह का कितना प्रतिशत जल है? / What percentage of Earth's surface is covered with water?",
+      "options": ["29%", "51%", "61%", "71%"],
+      "answer": "71%"
+    },
+    {
+      "question": "भारत में कितने प्रमुख प्रकार की मिट्टियाँ पाई जाती हैं? / How many major types of soils are found in India?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "6"
+    },
+    {
+      "question": "मानचित्र का दिशा सूचक कौन होता है? / What shows directions on a map?",
+      "options": ["स्केल / Scale", "दिशा सूचक / Compass", "चिह्न / Symbols", "अक्षांश / Latitude"],
+      "answer": "दिशा सूचक / Compass"
+    }
+  ]
+}
