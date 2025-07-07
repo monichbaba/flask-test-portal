@@ -1,25 +1,45 @@
-{
-  "password": "jai123",
-  "questions": [
-    {
-      "q": "भारत का पहला प्रधानमंत्री कौन था?",
-      "options": [
-        "जवाहरलाल नेहरू",
-        "सरदार पटेल",
-        "महात्मा गांधी",
-        "डॉ. राजेंद्र प्रसाद"
-      ],
-      "answer_index": 0
-    },
-    {
-      "q": "भारत की राजधानी क्या है?",
-      "options": [
-        "दिल्ली",
-        "मुंबई",
-        "चेन्नई",
-        "कोलकाता"
-      ],
-      "answer_index": 0
-    }
-  ]
-}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Demo Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+        .question-block {
+            margin-bottom: 30px;
+        }
+        .submit-btn {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        .submit-btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>📝 Demo Test</h1>
+
+    <form method="POST" action="/submit">
+        {% for q in questions %}
+            {% set i = loop.index0 %}
+            <div class="question-block">
+                <p><strong>Q{{ i + 1 }}:</strong> {{ q.question }}</p>
+                {% for option in q.options %}
+                    <label>
+                        <input type="radio" name="q{{ i }}" value="{{ option }}"> {{ option }}
+                    </label><br>
+                {% endfor %}
+            </div>
+        {% endfor %}
+
+        <button type="submit" class="submit-btn">🧠 Submit</button>
+    </form>
+</body>
+</html>
