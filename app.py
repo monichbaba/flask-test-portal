@@ -65,7 +65,6 @@ def submit():
 
     return render_template("result.html", score=score, total=len(questions), result=result)
 
-
-# 🚀 Start the server
-if __name__ == "__main__":
-    app.run(debug=True)
+# 🚫 Remove app.run() for Render
+# if __name__ == "__main__":
+#     app.run(debug=True)
