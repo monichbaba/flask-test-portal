@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"><title>Result</title></head>
+<body>
+  <h2>🎯 Your Score: {{ score }} / {{ total }}</h2>
+  {% for r in result %}
+    <p><strong>Q{{ loop.index }}:</strong> {{ r.q }}</p>
+    <ul>
+      {% for idx, opt in enumerate(r.options) %}
+        <li
+          {% if idx == r.correct_index %} style="color:green"
+          {% elif idx == r.selected and r.selected != r.correct_index %} style="color:red"
+          {% endif %}
+        >
+          {{ opt }} {% if idx == r.selected %} (Your answer) {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+    <hr>
+  {% endfor %}
+</body>
+</html>
