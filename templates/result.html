@@ -29,6 +29,9 @@
             {% if loop.index0 == r.selected %}
               (Your answer)
             {% endif %}
+            {% if loop.index0 == r.correct_index and r.selected != r.correct_index %}
+              (Correct answer)
+            {% endif %}
           </li>
         {% endfor %}
       </ul>
