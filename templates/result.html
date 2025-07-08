@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Result</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; }
+    .correct { color: green; }
+    .wrong { color: red; }
+    .box { border: 1px solid #ccc; padding: 1rem; margin-bottom: 1rem; border-radius: 10px; }
+  </style>
+</head>
+<body>
+
+  <h2>🎯 Your Score: {{ score }} / {{ total }}</h2>
+
+  {% for r in result %}
+    <div class="box">
+      <p><strong>Q{{ loop.index }}:</strong> {{ r.q }}</p>
+      <ul>
+        {% for opt in r.options %}
+          <li
+            {% if loop.index0 == r.correct_index %}
+              class="correct"
+            {% elif loop.index0 == r.selected and r.selected != r.correct_index %}
+              class="wrong"
+            {% endif %}
+          >
+            {{ opt }}
+            {% if loop.index0 == r.selected %}
+              (Your answer)
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+
+</body>
+</html>
