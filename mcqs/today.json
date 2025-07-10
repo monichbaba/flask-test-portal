@@ -1,0 +1,14 @@
+{
+  "questions": [
+    {
+      "q": "भारत का सबसे बड़ा राज्य कौन सा है? / Which is the largest Indian state?",
+      "options": [
+        "राजस्थान / Rajasthan",
+        "उत्तर प्रदेश / Uttar Pradesh",
+        "महाराष्ट्र / Maharashtra",
+        "मध्य प्रदेश / Madhya Pradesh"
+      ],
+      "answer": "राजस्थान / Rajasthan"
+    }
+  ]
+}
