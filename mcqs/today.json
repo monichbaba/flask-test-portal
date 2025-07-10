@@ -1,14 +1,104 @@
 {
   "questions": [
     {
-      "q": "भारत का सबसे बड़ा राज्य कौन सा है? / Which is the largest Indian state?",
-      "options": [
-        "राजस्थान / Rajasthan",
-        "उत्तर प्रदेश / Uttar Pradesh",
-        "महाराष्ट्र / Maharashtra",
-        "मध्य प्रदेश / Madhya Pradesh"
-      ],
-      "answer": "राजस्थान / Rajasthan"
+      "q": "पृथ्वी की सबसे ऊपरी ठोस परत को क्या कहते हैं? / What is the topmost solid layer of the Earth called?",
+      "options": ["क्रस्ट / Crust", "मेंटल / Mantle", "कोर / Core", "सतह / Surface"],
+      "answer": "क्रस्ट / Crust"
+    },
+    {
+      "q": "Which of the following is an example of an extrusive igneous rock? / निम्न में से कौन सी एक बाहरी आग्नेय चट्टान का उदाहरण है?",
+      "options": ["ग्रेनाइट / Granite", "डोलराइट / Dolerite", "बेसाल्ट / Basalt", "सैंडस्टोन / Sandstone"],
+      "answer": "बेसाल्ट / Basalt"
+    },
+    {
+      "q": "Which river valley is densely populated due to fertile soil? / किस नदी की घाटी उपजाऊ मिट्टी के कारण सघन आबादी वाली है?",
+      "options": ["गंगा घाटी / Ganga Valley", "नर्मदा घाटी / Narmada Valley", "गोदावरी घाटी / Godavari Valley", "कावेरी घाटी / Kaveri Valley"],
+      "answer": "गंगा घाटी / Ganga Valley"
+    },
+    {
+      "q": "Which process breaks down rocks without chemical change? / कौन सी प्रक्रिया चट्टानों को रासायनिक परिवर्तन के बिना तोड़ती है?",
+      "options": ["यांत्रिक अपक्षय / Mechanical weathering", "रासायनिक अपक्षय / Chemical weathering", "संक्षारण / Erosion", "क्षरण / Denudation"],
+      "answer": "यांत्रिक अपक्षय / Mechanical weathering"
+    },
+    {
+      "q": "Which landform is formed by river deposition? / नदी द्वारा जमा की गई भूमि संरचना को क्या कहते हैं?",
+      "options": ["डेल्टा / Delta", "वेली / Valley", "प्लेटफॉर्म / Platform", "प्लेन / Plain"],
+      "answer": "डेल्टा / Delta"
+    },
+    {
+      "q": "Which mineral is used to generate nuclear energy? / किस खनिज से नाभिकीय ऊर्जा उत्पन्न की जाती है?",
+      "options": ["कोयला / Coal", "यूरेनियम / Uranium", "बॉक्साइट / Bauxite", "लोहा / Iron"],
+      "answer": "यूरेनियम / Uranium"
+    },
+    {
+      "q": "Which of the following is a non-metallic mineral? / निम्न में से कौन सा खनिज अधात्विक है?",
+      "options": ["माइका / Mica", "लोहा / Iron", "मैंगनीज / Manganese", "क्रोमाइट / Chromite"],
+      "answer": "माइका / Mica"
+    },
+    {
+      "q": "Red soil is rich in which component? / लाल मिट्टी किस तत्व में समृद्ध होती है?",
+      "options": ["लौह ऑक्साइड / Iron oxide", "कैल्शियम / Calcium", "ह्यूमस / Humus", "सिलिका / Silica"],
+      "answer": "लौह ऑक्साइड / Iron oxide"
+    },
+    {
+      "q": "Which farming method involves clearing forests for cultivation? / किस खेती पद्धति में खेती के लिए जंगलों की सफाई की जाती है?",
+      "options": ["झूम खेती / Shifting cultivation", "व्यावसायिक खेती / Commercial farming", "सघन खेती / Intensive farming", "मिलेजुले खेती / Mixed farming"],
+      "answer": "झूम खेती / Shifting cultivation"
+    },
+    {
+      "q": "Which country is the largest producer of rice? / चावल का सबसे बड़ा उत्पादक देश कौन सा है?",
+      "options": ["भारत / India", "चीन / China", "इंडोनेशिया / Indonesia", "बांग्लादेश / Bangladesh"],
+      "answer": "चीन / China"
+    },
+    {
+      "q": "Which is not a conventional source of energy? / निम्न में से कौन पारंपरिक ऊर्जा स्रोत नहीं है?",
+      "options": ["कोयला / Coal", "पवन ऊर्जा / Wind energy", "लकड़ी / Wood", "तेल / Oil"],
+      "answer": "पवन ऊर्जा / Wind energy"
+    },
+    {
+      "q": "Which transport is most suitable for inaccessible hilly areas? / दुर्गम पहाड़ी क्षेत्रों के लिए कौन सा परिवहन सबसे उपयुक्त है?",
+      "options": ["सड़क / Road", "रेल / Rail", "जल / Water", "वायु / Air"],
+      "answer": "वायु / Air"
+    },
+    {
+      "q": "Which of the following is a tertiary activity? / निम्न में से कौन एक तृतीयक गतिविधि है?",
+      "options": ["बैंकिंग / Banking", "कृषि / Agriculture", "खनन / Mining", "मत्स्य पालन / Fishing"],
+      "answer": "बैंकिंग / Banking"
+    },
+    {
+      "q": "The Ganga-Brahmaputra delta is also called? / गंगा-ब्रह्मपुत्र डेल्टा को और क्या कहते हैं?",
+      "options": ["सुंदरबन / Sunderbans", "जलद्वीप / Archipelago", "खाड़ी / Gulf", "महा मैदान / Mega plain"],
+      "answer": "सुंदरबन / Sunderbans"
+    },
+    {
+      "q": "Which industry uses limestone as raw material? / कौन सी उद्योग कच्चे माल के रूप में चूना पत्थर का उपयोग करती है?",
+      "options": ["सीमेंट / Cement", "इस्पात / Steel", "कागज / Paper", "चमड़ा / Leather"],
+      "answer": "सीमेंट / Cement"
+    },
+    {
+      "q": "Which soil needs more irrigation? / किस मिट्टी को अधिक सिंचाई की आवश्यकता होती है?",
+      "options": ["रेतीली मिट्टी / Sandy soil", "काली मिट्टी / Black soil", "दुमट मिट्टी / Loamy soil", "लाल मिट्टी / Red soil"],
+      "answer": "रेतीली मिट्टी / Sandy soil"
+    },
+    {
+      "q": "Which region has black soil? / किस क्षेत्र में काली मिट्टी पाई जाती है?",
+      "options": ["दक्कन पठार / Deccan Plateau", "हिमालय / Himalayas", "गंगा घाटी / Ganga Valley", "थार मरुस्थल / Thar Desert"],
+      "answer": "दक्कन पठार / Deccan Plateau"
+    },
+    {
+      "q": "Which is the main cause of land degradation? / भूमि क्षरण का मुख्य कारण क्या है?",
+      "options": ["वनों की कटाई / Deforestation", "सिंचाई / Irrigation", "जैविक खेती / Organic farming", "खनन / Mining"],
+      "answer": "वनों की कटाई / Deforestation"
+    },
+    {
+      "q": "Which of the following is a biotic resource? / निम्न में से कौन जैविक संसाधन है?",
+      "options": ["पशु / Animals", "मिट्टी / Soil", "पानी / Water", "हवा / Air"],
+      "answer": "पशु / Animals"
+    },
+    {
+      "q": "Which metal is extracted from bauxite? / बॉक्साइट से किस धातु को निकाला जाता है?",
+      "options": ["एलुमिनियम / Aluminium", "लोहा / Iron", "तांबा / Copper", "जस्ता / Zinc"],
+      "answer": "एलुमिनियम / Aluminium"
     }
   ]
 }
