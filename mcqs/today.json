@@ -1,204 +1,104 @@
 {
   "questions": [
     {
-      "q": "भारत में सबसे पुराना पर्वत कौन सा है? / Which is the oldest mountain range in India?",
+      "q": "Assertion (A): भारत में मानसून की हवाएं जून से अक्टूबर तक चलती हैं। / Monsoon winds in India blow from June to October. \nReason (R): भारत विषुवत रेखा के दक्षिण में स्थित है। / India is located south of the Equator.",
       "options": [
-        "हिमालय / Himalayas",
-        "विंध्याचल / Vindhyas",
-        "सतपुड़ा / Satpura",
-        "अरावली / Aravalli"
+        "A and R both are true, and R is the correct explanation of A.",
+        "A and R both are true, but R is not the correct explanation of A.",
+        "A is true, R is false.",
+        "A is false, R is true."
       ],
-      "answer": "अरावली / Aravalli"
+      "answer": "A and R both are true, but R is not the correct explanation of A."
     },
     {
-      "q": "किस भू-आकृति को 'प्रायद्वीप पठार' कहा जाता है? / Which landform is known as the Peninsular Plateau?",
+      "q": "Assertion (A): हिमालय पर्वत भारत को शीत लहरों से बचाता है। / The Himalayas protect India from cold winds. \nReason (R): हिमालय पर्वत उत्तर से आने वाली ठंडी हवाओं को रोकता है। / The Himalayas block the cold winds coming from the north.",
       "options": [
-        "गंगा मैदान / Ganga Plains",
-        "दक्कन पठार / Deccan Plateau",
-        "थार मरुस्थल / Thar Desert",
-        "हिमालय / Himalayas"
+        "A and R both are true, and R is the correct explanation of A.",
+        "A and R both are true, but R is not the correct explanation of A.",
+        "A is true, R is false.",
+        "A is false, R is true."
       ],
-      "answer": "दक्कन पठार / Deccan Plateau"
+      "answer": "A and R both are true, and R is the correct explanation of A."
     },
     {
-      "q": "भारत की मुख्य भूमि का दक्षिणतम बिंदु कौन सा है? / What is the southernmost point of Indian mainland?",
+      "q": "Assertion (A): थार का रेगिस्तान भारत का सबसे उपजाऊ क्षेत्र है। / The Thar Desert is the most fertile region of India. \nReason (R): रेगिस्तानों में बहुत अधिक वर्षा होती है। / Deserts receive very high rainfall.",
       "options": [
-        "कन्याकुमारी / Kanyakumari",
-        "इंदिरा प्वाइंट / Indira Point",
-        "लक्षद्वीप / Lakshadweep",
-        "निकोबार द्वीप / Nicobar Islands"
+        "A and R both are true, and R is the correct explanation of A.",
+        "A and R both are true, but R is not the correct explanation of A.",
+        "A is true, R is false.",
+        "A is false, R is true."
       ],
-      "answer": "कन्याकुमारी / Kanyakumari"
+      "answer": "A is false, R is false."
     },
     {
-      "q": "कौन सा राज्य 'झीलों की नगरी' के लिए प्रसिद्ध है? / Which state is famous as 'City of Lakes'?",
+      "q": "Assertion (A): भारत में विविध जलवायु पाई जाती है। / India has a varied climate. \nReason (R): भारत एक विशाल देश है जिसकी भौगोलिक स्थिति विविध है। / India is a vast country with diverse geographical conditions.",
       "options": [
-        "केरल / Kerala",
-        "राजस्थान / Rajasthan",
-        "जम्मू-कश्मीर / Jammu & Kashmir",
-        "मेघालय / Meghalaya"
+        "A and R both are true, and R is the correct explanation of A.",
+        "A and R both are true, but R is not the correct explanation of A.",
+        "A is true, R is false.",
+        "A is false, R is true."
       ],
-      "answer": "राजस्थान / Rajasthan"
+      "answer": "A and R both are true, and R is the correct explanation of A."
     },
     {
-      "q": "भारत में सबसे अधिक वर्षा किस राज्य में होती है? / Which Indian state receives the highest rainfall?",
+      "q": "Assertion (A): गंगा का मैदान दुनिया के सबसे घने आबादी वाले क्षेत्रों में से एक है। / The Ganga plain is one of the most densely populated areas in the world. \nReason (R): गंगा का मैदान उपजाऊ मिट्टी, जल और परिवहन की सुविधा प्रदान करता है। / The Ganga plain offers fertile soil, water, and transport facilities.",
       "options": [
-        "असम / Assam",
-        "केरल / Kerala",
-        "मेघालय / Meghalaya",
-        "सिक्किम / Sikkim"
+        "A and R both are true, and R is the correct explanation of A.",
+        "A and R both are true, but R is not the correct explanation of A.",
+        "A is true, R is false.",
+        "A is false, R is true."
       ],
-      "answer": "मेघालय / Meghalaya"
+      "answer": "A and R both are true, and R is the correct explanation of A."
     },
     {
-      "q": "भारत की सबसे लंबी नदी कौन सी है? / Which is the longest river in India?",
+      "q": "Assertion (A): पश्चिमी घाट भारत के सबसे ऊंचे पर्वत हैं। / The Western Ghats are the tallest mountains in India. \nReason (R): वे हिमालय से भी ऊँचे हैं। / They are taller than the Himalayas.",
       "options": [
-        "गंगा / Ganga",
-        "यमुना / Yamuna",
-        "ब्रह्मपुत्र / Brahmaputra",
-        "गोदावरी / Godavari"
+        "A and R both are true, and R is the correct explanation of A.",
+        "A and R both are true, but R is not the correct explanation of A.",
+        "A is true, R is false.",
+        "A is false, R is true."
       ],
-      "answer": "गंगा / Ganga"
+      "answer": "A is false, R is false."
     },
     {
-      "q": "थार मरुस्थल किस क्षेत्र में फैला है? / Thar Desert is located in which region?",
+      "q": "Assertion (A): भारत में कर्क रेखा से उत्तर का भाग समशीतोष्ण जलवायु वाला है। / The part of India north of Tropic of Cancer has temperate climate. \nReason (R): ऊँचाई जलवायु को प्रभावित करती है। / Altitude affects climate.",
       "options": [
-        "गुजरात / Gujarat",
-        "राजस्थान / Rajasthan",
-        "मध्य प्रदेश / Madhya Pradesh",
-        "हरियाणा / Haryana"
+        "A and R both are true, and R is the correct explanation of A.",
+        "A and R both are true, but R is not the correct explanation of A.",
+        "A is true, R is false.",
+        "A is false, R is true."
       ],
-      "answer": "राजस्थान / Rajasthan"
+      "answer": "A and R both are true, and R is the correct explanation of A."
     },
     {
-      "q": "कौन सा द्वीपसमूह ज्वालामुखीय गतिविधियों के लिए जाना जाता है? / Which island group is known for volcanic activity?",
+      "q": "Assertion (A): भारत की तटीय रेखा पश्चिम से पूर्व की ओर ढलती है। / India’s coastline slopes from west to east. \nReason (R): तटीय क्षेत्रों में हिमालय से आने वाली नदियाँ गिरती हैं। / Rivers from the Himalayas drain into the coastal areas.",
       "options": [
-        "लक्षद्वीप / Lakshadweep",
-        "अंडमान और निकोबार / Andaman & Nicobar",
-        "मालदीव / Maldives",
-        "श्रीलंका / Sri Lanka"
+        "A and R both are true, and R is the correct explanation of A.",
+        "A and R both are true, but R is not the correct explanation of A.",
+        "A is true, R is false.",
+        "A is false, R is true."
       ],
-      "answer": "अंडमान और निकोबार / Andaman & Nicobar"
+      "answer": "A is false, R is false."
     },
     {
-      "q": "भारत की तटीय रेखा की कुल लंबाई लगभग कितनी है? / Approximate length of India’s coastline is:",
+      "q": "Assertion (A): भारत की अधिकांश नदियाँ बंगाल की खाड़ी में गिरती हैं। / Most Indian rivers drain into the Bay of Bengal. \nReason (R): भारत की स्थलाकृति पूर्व की ओर ढलती है। / The topography of India slopes eastward.",
       "options": [
-        "6000 किमी / 6000 km",
-        "7516 किमी / 7516 km",
-        "5000 किमी / 5000 km",
-        "8200 किमी / 8200 km"
+        "A and R both are true, and R is the correct explanation of A.",
+        "A and R both are true, but R is not the correct explanation of A.",
+        "A is true, R is false.",
+        "A is false, R is true."
       ],
-      "answer": "7516 किमी / 7516 km"
+      "answer": "A and R both are true, and R is the correct explanation of A."
     },
     {
-      "q": "भारत के कौन से क्षेत्र में 'भूकंपीय क्षेत्र V' आता है? / Which region lies in Earthquake Zone V?",
+      "q": "Assertion (A): चक्रवात भारत के पश्चिमी तट पर ज्यादा आते हैं। / Cyclones are more frequent on India’s west coast. \nReason (R): बंगाल की खाड़ी पूर्वी तट को अधिक प्रभावित करती है। / Bay of Bengal affects the eastern coast more.",
       "options": [
-        "पंजाब / Punjab",
-        "गुजरात / Gujarat",
-        "उत्तर पूर्व भारत / North-East India",
-        "राजस्थान / Rajasthan"
+        "A and R both are true, and R is the correct explanation of A.",
+        "A and R both are true, but R is not the correct explanation of A.",
+        "A is true, R is false.",
+        "A is false, R is true."
       ],
-      "answer": "उत्तर पूर्व भारत / North-East India"
-    },
-    {
-      "q": "भारत में सर्वाधिक पठारी भाग किस राज्य में है? / Which state has the largest plateau area?",
-      "options": [
-        "महाराष्ट्र / Maharashtra",
-        "छत्तीसगढ़ / Chhattisgarh",
-        "झारखंड / Jharkhand",
-        "मध्य प्रदेश / Madhya Pradesh"
-      ],
-      "answer": "मध्य प्रदेश / Madhya Pradesh"
-    },
-    {
-      "q": "भारत में बर्फ से ढके पर्वत कौन से हैं? / Which Indian mountains are snow-covered?",
-      "options": [
-        "विंध्य / Vindhyas",
-        "हिमालय / Himalayas",
-        "सतपुड़ा / Satpura",
-        "अजंता / Ajanta"
-      ],
-      "answer": "हिमालय / Himalayas"
-    },
-    {
-      "q": "अंडमान निकोबार द्वीप कहाँ स्थित हैं? / Where are Andaman Nicobar Islands located?",
-      "options": [
-        "अरब सागर / Arabian Sea",
-        "बंगाल की खाड़ी / Bay of Bengal",
-        "हिंद महासागर / Indian Ocean",
-        "लक्षद्वीप के पास / Near Lakshadweep"
-      ],
-      "answer": "बंगाल की खाड़ी / Bay of Bengal"
-    },
-    {
-      "q": "भारत में समुद्री सीमा कितने देशों से मिलती है? / India shares maritime border with how many countries?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "answer": "7"
-    },
-    {
-      "q": "भारत में सबसे बड़ी झील कौन सी है? / Which is the largest lake in India?",
-      "options": [
-        "वुलर झील / Wular Lake",
-        "चिल्का झील / Chilika Lake",
-        "सांभर झील / Sambhar Lake",
-        "पुलिकट झील / Pulicat Lake"
-      ],
-      "answer": "चिल्का झील / Chilika Lake"
-    },
-    {
-      "q": "भारत में सबसे कम जनसंख्या घनत्व किस राज्य का है? / Which state has lowest population density in India?",
-      "options": [
-        "गोवा / Goa",
-        "सिक्किम / Sikkim",
-        "अरुणाचल प्रदेश / Arunachal Pradesh",
-        "मेघालय / Meghalaya"
-      ],
-      "answer": "अरुणाचल प्रदेश / Arunachal Pradesh"
-    },
-    {
-      "q": "भारत की 'प्राकृतिक बंदरगाह' कौन सी है? / Which is a natural harbor in India?",
-      "options": [
-        "चेन्नई / Chennai",
-        "मुंबई / Mumbai",
-        "विशाखापत्तनम / Visakhapatnam",
-        "कोचीन / Kochi"
-      ],
-      "answer": "मुंबई / Mumbai"
-    },
-    {
-      "q": "भारत की कौन सी नदी 'डेल्टा' नहीं बनाती? / Which river does not form a delta in India?",
-      "options": [
-        "नर्मदा / Narmada",
-        "गंगा / Ganga",
-        "गोदावरी / Godavari",
-        "कावेरी / Kaveri"
-      ],
-      "answer": "नर्मदा / Narmada"
-    },
-    {
-      "q": "‘सियाचिन ग्लेशियर’ किस राज्य/केंद्र शासित प्रदेश में स्थित है? / Siachen Glacier lies in which union territory?",
-      "options": [
-        "लद्दाख / Ladakh",
-        "जम्मू और कश्मीर / Jammu & Kashmir",
-        "हिमाचल प्रदेश / Himachal Pradesh",
-        "उत्तराखंड / Uttarakhand"
-      ],
-      "answer": "लद्दाख / Ladakh"
-    },
-    {
-      "q": "भारत में तटीय मैदानों की चौड़ाई कहाँ सबसे अधिक है? / Where are coastal plains widest in India?",
-      "options": [
-        "गुजरात / Gujarat",
-        "पश्चिम बंगाल / West Bengal",
-        "ओडिशा / Odisha",
-        "तमिलनाडु / Tamil Nadu"
-      ],
-      "answer": "गुजरात / Gujarat"
+      "answer": "A is false, R is true."
     }
   ]
 }
