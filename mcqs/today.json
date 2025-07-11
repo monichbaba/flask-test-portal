@@ -1,0 +1,204 @@
+{
+  "questions": [
+    {
+      "q": "भारत में सबसे पुराना पर्वत कौन सा है? / Which is the oldest mountain range in India?",
+      "options": [
+        "हिमालय / Himalayas",
+        "विंध्याचल / Vindhyas",
+        "सतपुड़ा / Satpura",
+        "अरावली / Aravalli"
+      ],
+      "answer": "अरावली / Aravalli"
+    },
+    {
+      "q": "किस भू-आकृति को 'प्रायद्वीप पठार' कहा जाता है? / Which landform is known as the Peninsular Plateau?",
+      "options": [
+        "गंगा मैदान / Ganga Plains",
+        "दक्कन पठार / Deccan Plateau",
+        "थार मरुस्थल / Thar Desert",
+        "हिमालय / Himalayas"
+      ],
+      "answer": "दक्कन पठार / Deccan Plateau"
+    },
+    {
+      "q": "भारत की मुख्य भूमि का दक्षिणतम बिंदु कौन सा है? / What is the southernmost point of Indian mainland?",
+      "options": [
+        "कन्याकुमारी / Kanyakumari",
+        "इंदिरा प्वाइंट / Indira Point",
+        "लक्षद्वीप / Lakshadweep",
+        "निकोबार द्वीप / Nicobar Islands"
+      ],
+      "answer": "कन्याकुमारी / Kanyakumari"
+    },
+    {
+      "q": "कौन सा राज्य 'झीलों की नगरी' के लिए प्रसिद्ध है? / Which state is famous as 'City of Lakes'?",
+      "options": [
+        "केरल / Kerala",
+        "राजस्थान / Rajasthan",
+        "जम्मू-कश्मीर / Jammu & Kashmir",
+        "मेघालय / Meghalaya"
+      ],
+      "answer": "राजस्थान / Rajasthan"
+    },
+    {
+      "q": "भारत में सबसे अधिक वर्षा किस राज्य में होती है? / Which Indian state receives the highest rainfall?",
+      "options": [
+        "असम / Assam",
+        "केरल / Kerala",
+        "मेघालय / Meghalaya",
+        "सिक्किम / Sikkim"
+      ],
+      "answer": "मेघालय / Meghalaya"
+    },
+    {
+      "q": "भारत की सबसे लंबी नदी कौन सी है? / Which is the longest river in India?",
+      "options": [
+        "गंगा / Ganga",
+        "यमुना / Yamuna",
+        "ब्रह्मपुत्र / Brahmaputra",
+        "गोदावरी / Godavari"
+      ],
+      "answer": "गंगा / Ganga"
+    },
+    {
+      "q": "थार मरुस्थल किस क्षेत्र में फैला है? / Thar Desert is located in which region?",
+      "options": [
+        "गुजरात / Gujarat",
+        "राजस्थान / Rajasthan",
+        "मध्य प्रदेश / Madhya Pradesh",
+        "हरियाणा / Haryana"
+      ],
+      "answer": "राजस्थान / Rajasthan"
+    },
+    {
+      "q": "कौन सा द्वीपसमूह ज्वालामुखीय गतिविधियों के लिए जाना जाता है? / Which island group is known for volcanic activity?",
+      "options": [
+        "लक्षद्वीप / Lakshadweep",
+        "अंडमान और निकोबार / Andaman & Nicobar",
+        "मालदीव / Maldives",
+        "श्रीलंका / Sri Lanka"
+      ],
+      "answer": "अंडमान और निकोबार / Andaman & Nicobar"
+    },
+    {
+      "q": "भारत की तटीय रेखा की कुल लंबाई लगभग कितनी है? / Approximate length of India’s coastline is:",
+      "options": [
+        "6000 किमी / 6000 km",
+        "7516 किमी / 7516 km",
+        "5000 किमी / 5000 km",
+        "8200 किमी / 8200 km"
+      ],
+      "answer": "7516 किमी / 7516 km"
+    },
+    {
+      "q": "भारत के कौन से क्षेत्र में 'भूकंपीय क्षेत्र V' आता है? / Which region lies in Earthquake Zone V?",
+      "options": [
+        "पंजाब / Punjab",
+        "गुजरात / Gujarat",
+        "उत्तर पूर्व भारत / North-East India",
+        "राजस्थान / Rajasthan"
+      ],
+      "answer": "उत्तर पूर्व भारत / North-East India"
+    },
+    {
+      "q": "भारत में सर्वाधिक पठारी भाग किस राज्य में है? / Which state has the largest plateau area?",
+      "options": [
+        "महाराष्ट्र / Maharashtra",
+        "छत्तीसगढ़ / Chhattisgarh",
+        "झारखंड / Jharkhand",
+        "मध्य प्रदेश / Madhya Pradesh"
+      ],
+      "answer": "मध्य प्रदेश / Madhya Pradesh"
+    },
+    {
+      "q": "भारत में बर्फ से ढके पर्वत कौन से हैं? / Which Indian mountains are snow-covered?",
+      "options": [
+        "विंध्य / Vindhyas",
+        "हिमालय / Himalayas",
+        "सतपुड़ा / Satpura",
+        "अजंता / Ajanta"
+      ],
+      "answer": "हिमालय / Himalayas"
+    },
+    {
+      "q": "अंडमान निकोबार द्वीप कहाँ स्थित हैं? / Where are Andaman Nicobar Islands located?",
+      "options": [
+        "अरब सागर / Arabian Sea",
+        "बंगाल की खाड़ी / Bay of Bengal",
+        "हिंद महासागर / Indian Ocean",
+        "लक्षद्वीप के पास / Near Lakshadweep"
+      ],
+      "answer": "बंगाल की खाड़ी / Bay of Bengal"
+    },
+    {
+      "q": "भारत में समुद्री सीमा कितने देशों से मिलती है? / India shares maritime border with how many countries?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "7"
+    },
+    {
+      "q": "भारत में सबसे बड़ी झील कौन सी है? / Which is the largest lake in India?",
+      "options": [
+        "वुलर झील / Wular Lake",
+        "चिल्का झील / Chilika Lake",
+        "सांभर झील / Sambhar Lake",
+        "पुलिकट झील / Pulicat Lake"
+      ],
+      "answer": "चिल्का झील / Chilika Lake"
+    },
+    {
+      "q": "भारत में सबसे कम जनसंख्या घनत्व किस राज्य का है? / Which state has lowest population density in India?",
+      "options": [
+        "गोवा / Goa",
+        "सिक्किम / Sikkim",
+        "अरुणाचल प्रदेश / Arunachal Pradesh",
+        "मेघालय / Meghalaya"
+      ],
+      "answer": "अरुणाचल प्रदेश / Arunachal Pradesh"
+    },
+    {
+      "q": "भारत की 'प्राकृतिक बंदरगाह' कौन सी है? / Which is a natural harbor in India?",
+      "options": [
+        "चेन्नई / Chennai",
+        "मुंबई / Mumbai",
+        "विशाखापत्तनम / Visakhapatnam",
+        "कोचीन / Kochi"
+      ],
+      "answer": "मुंबई / Mumbai"
+    },
+    {
+      "q": "भारत की कौन सी नदी 'डेल्टा' नहीं बनाती? / Which river does not form a delta in India?",
+      "options": [
+        "नर्मदा / Narmada",
+        "गंगा / Ganga",
+        "गोदावरी / Godavari",
+        "कावेरी / Kaveri"
+      ],
+      "answer": "नर्मदा / Narmada"
+    },
+    {
+      "q": "‘सियाचिन ग्लेशियर’ किस राज्य/केंद्र शासित प्रदेश में स्थित है? / Siachen Glacier lies in which union territory?",
+      "options": [
+        "लद्दाख / Ladakh",
+        "जम्मू और कश्मीर / Jammu & Kashmir",
+        "हिमाचल प्रदेश / Himachal Pradesh",
+        "उत्तराखंड / Uttarakhand"
+      ],
+      "answer": "लद्दाख / Ladakh"
+    },
+    {
+      "q": "भारत में तटीय मैदानों की चौड़ाई कहाँ सबसे अधिक है? / Where are coastal plains widest in India?",
+      "options": [
+        "गुजरात / Gujarat",
+        "पश्चिम बंगाल / West Bengal",
+        "ओडिशा / Odisha",
+        "तमिलनाडु / Tamil Nadu"
+      ],
+      "answer": "गुजरात / Gujarat"
+    }
+  ]
+}
