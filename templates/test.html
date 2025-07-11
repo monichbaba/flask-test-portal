@@ -1,13 +1,22 @@
 <!DOCTYPE html>
 <html>
-<head><meta charset="UTF-8"><title>Test</title></head>
+<head>
+  <meta charset="UTF-8">
+  <title>📝 Today’s Test</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; }
+    h2 { color: #333; }
+  </style>
+</head>
 <body>
   <h2>📝 Today’s Test</h2>
   <form method="POST">
-    {% for q in questions %}
-      <p><strong>Q{{ loop.index }}:</strong> {{ q.q }}</p>
-      {% for opt in q.options %}
-        <label><input type="radio" name="q{{ loop.index0 }}" value="{{ loop.index }}"> {{ opt }}</label><br>
+    {% for i in range(questions|length) %}
+      <p><strong>Q{{ i+1 }}:</strong> {{ questions[i].q }}</p>
+      {% for j in range(questions[i].options|length) %}
+        <label>
+          <input type="radio" name="q{{ i }}" value="{{ j }}"> {{ questions[i].options[j] }}
+        </label><br>
       {% endfor %}
       <hr>
     {% endfor %}
