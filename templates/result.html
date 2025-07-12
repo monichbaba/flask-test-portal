@@ -3,10 +3,17 @@
 <head>
   <title>Result</title>
   <style>
-    body { font-family: sans-serif; padding: 2rem; }
-    .correct { color: green; }
-    .wrong { color: red; }
-    .box { border: 1px solid #ccc; padding: 1rem; margin-bottom: 1rem; border-radius: 10px; }
+    body { font-family: sans-serif; padding: 2rem; background: #f9f9f9; }
+    .correct { color: green; font-weight: bold; }
+    .wrong { color: red; font-weight: bold; }
+    .box {
+      background: white;
+      border: 1px solid #ccc;
+      padding: 1rem;
+      margin-bottom: 1.5rem;
+      border-radius: 10px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
   </style>
 </head>
 <body>
@@ -27,7 +34,7 @@
           >
             {{ opt }}
             {% if loop.index0 == r.selected %}
-              (Your answer)
+              <strong>← Your Answer</strong>
             {% endif %}
           </li>
         {% endfor %}
