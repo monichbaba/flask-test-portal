@@ -2,33 +2,37 @@ from flask import Flask, render_template, request
 import json, os
 
 app = Flask(__name__)
+app.jinja_env.globals.update(enumerate=enumerate)
 
 @app.route('/', methods=['GET', 'POST'])
 def test():
     filepath = 'mcqs/today.json'
     if not os.path.exists(filepath):
-        return "❌ mcqs/today.json file not found."
+        return "❌ File mcqs/today.json not found"
 
     with open(filepath, encoding='utf-8') as f:
-        data = json.load(f)
-        questions = data.get("questions", [])
+        questions = json.load(f).get('questions', [])
 
     if request.method == 'POST':
-        score = 0
         result = []
+        score = 0
         for i, q in enumerate(questions):
-            selected = request.form.get(f'q{i}')
-            correct_index = q["options"].index(q["answer"])
-            selected_index = int(selected) if selected and selected.isdigit() else -1
-            if selected_index == correct_index:
+            selected = request.form.getlist(f'q{i}')
+            selected_indices = sorted([int(x) for x in selected])
+            correct_indices = sorted(q['answer'])
+            is_correct = selected_indices == correct_indices
+            if is_correct:
                 score += 1
             result.append({
-                "q": q["q"],
-                "options": q["options"],
-                "correct_index": correct_index,
-                "selected": selected_index
+                "q": q['q'],
+                "options": q['options'],
+                "selected": selected_indices,
+                "correct": correct_indices,
+                "is_correct": is_correct
             })
+        return render_template('result.html', score=score, total=len(questions), result=result)
 
-        return render_template("result.html", score=score, total=len(questions), result=result)
+    return render_template('test.html', questions=questions)
 
-    return render_template("test.html", questions=questions)
+if __name__ == '__main__':
+    app.run(debug=True)

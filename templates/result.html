@@ -1,42 +1,29 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Result</title>
+  <meta charset="UTF-8">
+  <title>Test Result</title>
   <style>
-    body { font-family: sans-serif; padding: 2rem; }
-    .correct { color: green; }
-    .wrong { color: red; }
-    .box { border: 1px solid #ccc; padding: 1rem; margin-bottom: 1rem; border-radius: 10px; }
+    .correct { background-color: #c8f7c5; padding: 10px; }
+    .wrong { background-color: #f8c7c7; padding: 10px; }
   </style>
 </head>
 <body>
-
-  <h2>🎯 Your Score: {{ score }} / {{ total }}</h2>
-
+  <h2>Result: {{ score }}/{{ total }}</h2>
   {% for r in result %}
-    <div class="box">
-      <p><strong>Q{{ loop.index }}:</strong> {{ r.q }}</p>
-      <ul>
-        {% for opt in r.options %}
-          <li
-            {% if loop.index0 == r.correct_index %}
-              class="correct"
-            {% elif loop.index0 == r.selected and r.selected != r.correct_index %}
-              class="wrong"
-            {% endif %}
-          >
-            {{ opt }}
-            {% if loop.index0 == r.selected %}
-              (Your answer)
-            {% endif %}
-            {% if loop.index0 == r.correct_index and r.selected != r.correct_index %}
-              (Correct answer)
-            {% endif %}
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
-  {% endfor %}
+    <div class="{{ 'correct' if r.is_correct else 'wrong' }}">
+      <strong>Q: {{ r.q }}</strong><br><br>
 
+      <strong>Your Selection:</strong><br>
+      {% for i in r.selected %}
+        - {{ r.options[i] }}<br>
+      {% endfor %}
+
+      <strong>Correct Answer:</strong><br>
+      {% for i in r.correct %}
+        ✓ {{ r.options[i] }}<br>
+      {% endfor %}
+    </div><br>
+  {% endfor %}
 </body>
 </html>
