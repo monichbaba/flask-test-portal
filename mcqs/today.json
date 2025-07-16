@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "q": "भारत में प्रमुख जलवायु क्षेत्र कौन-कौन से हैं? / What are the major climatic zones in India?",
+      "options": [
+        "उष्णकटिबंधीय / Tropical",
+        "शीतोष्ण / Temperate",
+        "शीत / Frigid",
+        "भूमध्यरेखीय / Equatorial"
+      ],
+      "answer": [0, 1]
+    },
+    {
+      "q": "पश्चिमी घाट की विशेषताएँ क्या हैं? / What are the features of the Western Ghats?",
+      "options": [
+        "जैव विविधता का हॉटस्पॉट / Biodiversity hotspot",
+        "हिमालय से ऊँचा / Higher than Himalayas",
+        "विश्व धरोहर स्थल / UNESCO World Heritage Site",
+        "प्लावित मैदान / Flood plain"
+      ],
+      "answer": [0, 2]
+    },
+    {
+      "q": "कृष्णा नदी की सहायक नदियाँ कौन सी हैं? / Which are the tributaries of Krishna River?",
+      "options": [
+        "तुंगभद्रा / Tungabhadra",
+        "कोयना / Koyna",
+        "गोदावरी / Godavari",
+        "भीमा / Bhima"
+      ],
+      "answer": [0, 1, 3]
+    },
+    {
+      "q": "काली मिट्टी की विशेषताएँ क्या हैं? / What are the characteristics of Black Soil?",
+      "options": [
+        "कपास के लिए उपयुक्त / Suitable for cotton",
+        "जलधारण क्षमता अधिक / High water retention",
+        "रेतीली बनावट / Sandy texture",
+        "दक्षिण भारत में पाई जाती है / Found in South India"
+      ],
+      "answer": [0, 1, 3]
+    },
+    {
+      "q": "भारत में मानसून की प्रमुख विशेषताएँ क्या हैं? / What are the main features of Indian monsoon?",
+      "options": [
+        "असमय वर्षा / Irregular rainfall",
+        "अचानक शुरू और अंत / Sudden onset and withdrawal",
+        "पूरे वर्ष बारिश / Rainfall throughout year",
+        "आर्थिक गतिविधियों पर प्रभाव / Impact on economy"
+      ],
+      "answer": [0, 1, 3]
+    },
+    {
+      "q": "खनिज संसाधनों के संदर्भ में निम्नलिखित में से क्या सत्य है? / Which of the following is true about mineral resources?",
+      "options": [
+        "गैर-नवीकरणीय होते हैं / Non-renewable",
+        "असमान वितरण / Unevenly distributed",
+        "भारत में यूरेनियम भरपूर मात्रा में है / India has abundant Uranium",
+        "खनन पर्यावरण को प्रभावित करता है / Mining impacts environment"
+      ],
+      "answer": [0, 1, 3]
+    },
+    {
+      "q": "दक्षिण भारत में कौन-कौन से पर्वत श्रेणियाँ आती हैं? / Which mountain ranges are in South India?",
+      "options": [
+        "नीलगिरी / Nilgiri",
+        "अरावली / Aravalli",
+        "कार्डामोम / Cardamom Hills",
+        "अनामलाई / Anamalai"
+      ],
+      "answer": [0, 2, 3]
+    },
+    {
+      "q": "गंगा-ब्रह्मपुत्र डेल्टा की विशेषताएँ क्या हैं? / Features of Ganga-Brahmaputra Delta?",
+      "options": [
+        "दुनिया का सबसे बड़ा डेल्टा / World's largest delta",
+        "ज्वारीय जंगल / Tidal forests",
+        "रेगिस्तान से घिरा / Surrounded by desert",
+        "संधिपूर्ण नदी प्रणाली / Confluent river system"
+      ],
+      "answer": [0, 1, 3]
+    },
+    {
+      "q": "भारत के प्रमुख ताप विद्युत संयंत्र कहाँ हैं? / Where are major thermal power plants in India?",
+      "options": [
+        "कोरबा / Korba",
+        "तारापुर / Tarapur",
+        "सिंगरौली / Singrauli",
+        "विजयवाड़ा / Vijayawada"
+      ],
+      "answer": [0, 2, 3]
+    },
+    {
+      "q": "वनों का संरक्षण क्यों आवश्यक है? / Why is forest conservation important?",
+      "options": [
+        "जैव विविधता संरक्षण / Biodiversity preservation",
+        "कार्बन अवशोषण / Carbon absorption",
+        "औद्योगीकरण के लिए भूमि मिलती है / Land for industries",
+        "प्राकृतिक आपदाओं से सुरक्षा / Protection from disasters"
+      ],
+      "answer": [0, 1, 3]
+    }
+  ]
+}
