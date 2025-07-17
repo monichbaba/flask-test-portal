@@ -1,304 +1,77 @@
-{
-  "questions": [
-    {
-      "q": "महाद्वीपीय परिस्थितियों के प्रभाव से निम्न में से कौन प्रभावित होता है? / Which are affected by continentality?",
-      "options": [
-        "घंटीय तापमान भिन्नता / Large diurnal temperature variation",
-        "कम वर्षा / Low precipitation",
-        "तटवर्ती नमीयुक्त वायु / High humidity",
-        "शीतल जलवायु अंक / Cold maritime climates"
-      ],
-      "answer": [0, 1]
-    },
-    {
-      "q": "भारतीय मानसून किस वजह से एकीकृत रूप से कार्य करता है? / Why does Indian Monsoon act as a single system?",
-      "options": [
-        "हिमालय पर्वत / The Himalayas",
-        "आईटीजेडसी शिफ्ट / Shifting ITCZ",
-        "समुद्री वायु चैनेलिंग / Maritime air channelling",
-        "पश्चिमी विक्षोभ / Western Disturbances"
-      ],
-      "answer": [0, 1, 2]
-    },
-    {
-      "q": "भारतीय उपमहाद्वीप में जनसंख्या वितरण किस कारक से अधिक प्रभावित है? / Population distribution in Indian subcontinent most influenced by?",
-      "options": [
-        "नदियों के मैदान / River plains",
-        "पर्वतीय ढलान / Mountain slopes",
-        "क्षितिजीय जलस्तर / Coastal belts",
-        "उपजाऊ मिट्टी / Fertile soils"
-      ],
-      "answer": [0, 3]
-    },
-    {
-      "q": "काली मिट्टी की विशिष्ट विशेषताएं कौन सी हैं? / What are characteristic properties of black soils?",
-      "options": [
-        "जल धारण क्षमता अधिक / High moisture retention",
-        "क्षति के लिए उपयुक्त / Suitable for cotton",
-        "क्षरण प्रतिरोधी / Erosion-resistant",
-        "खारापन अधिक / High salinity"
-      ],
-      "answer": [0, 1]
-    },
-    {
-      "q": "भारत की वर्ल्ड हेरिटेज साइटों में से निम्न में से कौन भू-तत्व से संबंधित है? / Which of these world heritage sites are geomorphological?",
-      "options": [
-        "जंतर मंतर / Jantar Mantar",
-        "स्टालैगमाइट गुफा / Stalactite cave",
-        "कोणार्क सूर्य मंदिर / Konark Sun Temple",
-        "मानिकर्णिका घाट / Manikarnika Ghat"
-      ],
-      "answer": [1]
-    },
-    {
-      "q": "भारत में निम्न में से कौन–सी नदियाँ पश्चिम दिशा में प्रवाहित होती हैं? / Which of these rivers flow west?",
-      "options": [
-        "नर्मदा / Narmada",
-        "गोदावरी / Godavari",
-        "तापी / Tapi",
-        "सतलुज / Sutlej"
-      ],
-      "answer": [0, 2]
-    },
-    {
-      "q": "मनोरम परिवर्तनों (tipping points) के संकेत क्या हो सकते हैं जलवायु परिवर्तन में? / Which indicate climate change tipping points?",
-      "options": [
-        "ग्रीनलैंड ग्लेशियर का तेज़ पिघलना / Rapid melting of Greenland ice",
-        "समुद्र स्तर स्थिर रहना / Sea level remains constant",
-        "मॉनसून विघटन / Monsoon breakdown",
-        "उष्णकटिबंधीय चक्रवातों की आवृत्ति में वृद्धि / Increase in frequency of tropical cyclones"
-      ],
-      "answer": [0, 2, 3]
-    },
-    {
-      "q": "निम्न में से कौन सी मिट्टी जलोढ़ मिट्टी की विशेषताएँ है? / Which are properties of alluvial soil?",
-      "options": [
-        "उपजाऊ / Fertile",
-        "अलग-अलग परतों में तलछटी / Stratified deposits",
-        "तेज़ अपतटी / High acidity",
-        "मोटे तथा रेतयुक्त / Coarse & sandy"
-      ],
-      "answer": [0, 1, 3]
-    },
-    {
-      "q": "अंतरिक्ष आधारित GPS प्रणाली किस क्षेत्र के मानचित्रण में सहायक है? / GPS usable in?",
-      "options": [
-        "निगरानी भौतिक घटनाओं की / Monitoring physical processes",
-        "शहरी नियोजन में नाप लिए / Urban planning survey",
-        "खरीफ फसल के समय ज्ञान में मदद / Kharif sowing timing info",
-        "विपत्तियों में समायोजन / Disaster management"
-      ],
-      "answer": [0, 1, 3]
-    },
-    {
-      "q": "पश्चिमी घाट के पारिस्थितिकी तंत्र में क्या विशेषताएँ हैं? / Features of Western Ghats ecosystem?",
-      "options": [
-        "उच्च जैव विविधता / High biodiversity",
-        "वनस्पति आवरण न्यून / Sparse vegetation",
-        "बार-बार बाढ़ की स्थिति / Frequent flooding",
-        "विश्व धरोहर स्थल / UNESCO heritage site"
-      ],
-      "answer": [0, 3]
-    },
-    {
-      "q": "यूरेनियम खनन से क्या पर्यावरणीय प्रभाव हो सकते हैं? / Environmental impacts of uranium mining?",
-      "options": [
-        "रेडियोधर्मी कचरा / Radioactive waste",
-        "नदी का प्रदूषण / River pollution",
-        "वन्य जीवन खतरा / Wildlife threat",
-        "मिट्टी की उर्वरता बढना / Increased soil fertility"
-      ],
-      "answer": [0, 1, 2]
-    },
-    {
-      "q": "निम्नलिखित में से कौन–सी वन प्रकार बंगाल की खाड़ी तट से जुड़े हैं? / Which forest types are linked to Bay of Bengal coast?",
-      "options": [
-        "संकेदरी वन / Thorn forest",
-        "लौरी वन / Mangrove forest",
-        "शुष्क पर्णपाती / Dry deciduous",
-        "संवेदनशील वेतनशील वन / Swampy forests"
-      ],
-      "answer": [1, 3]
-    },
-    {
-      "q": "कोलियाबुरी पर्वतीय क्षेत्र किस राज्य में स्थित है? / In which state is Kolliyaburi range located?",
-      "options": [
-        "तमिलनाडु / Tamil Nadu",
-        "ओडिशा / Odisha",
-        "महाराष्ट्र / Maharashtra",
-        "त्रिपुरा / Tripura"
-      ],
-      "answer": [0]
-    },
-    {
-      "q": "भारत में वर्षा सैली (rain shadow) क्षेत्र कहाँ होता है? / Where are rain shadow regions in India?",
-      "options": [
-        "लेह ज़ोन / Leh region",
-        "कर्नाटक पठार का कुछ क्षेत्र / Parts of Karnataka plateau",
-        "चंडीगढ़ / Chandigarh",
-        "पूर्वी घाट का पार्श्व / Leeward side of Eastern Ghats"
-      ],
-      "answer": [1, 3]
-    },
-    {
-      "q": "टिन आयटी सेंटर (ITCZ) बदलने से क्या होता है मानसून पर? / Effect of ITCZ shift on monsoon?",
-      "options": [
-        "मानसून की ताकत बढ़ती है / Strengthens monsoon",
-        "मानसून की अवधि घटती है / Shortens monsoon period",
-        "वर्षा असममित होती है / Erratic rainfall",
-        "मानसून पूरी तरह निलंबित हो जाता है / Monsoon completely halts"
-      ],
-      "answer": [0, 2]
-    },
-    {
-      "q": "निम्न समशीतोष्ण वन (temperate forests) किस इलाकों में मिलते है? / Where are temperate forests found?",
-      "options": [
-        "उत्तर भारत की पहाड़ियाँ / Mountains of North India",
-        "थार रेगिस्तान / Thar Desert",
-        "पहाड़ी पश्चिमी घाट / Western Ghats hills",
-        "हिमाचल प्रदेश / Himachal Pradesh"
-      ],
-      "answer": [0, 3]
-    },
-    {
-      "q": "समुद्र तटीय तूफान (cyclones) के प्रभाव क्या होते हैं? / Impacts of coastal cyclones?",
-      "options": [
-        "आर्थिक क्षति / Economic damage",
-        "प्लवित भूमि का उपजाऊ होना / Land becoming fertile due to floods",
-        "मनुष्य और पशु जीवन जोखिम में / Risk to human & animal lives",
-        "शुष्क मौसम का आगमन / Onset of dry weather"
-      ],
-      "answer": [0, 2]
-    },
-    {
-      "q": "गंगा नदी में प्रदूषण कैसे अधिक होता है? / What increases pollution in Ganga?",
-      "options": [
-        "औद्योगिक अपशिष्ट / Industrial waste",
-        "धार्मिक गतिविधियाँ / Religious rituals",
-        "शहरी अपशिष्ट / Urban sewage",
-        "मछली पालन / Fish farming"
-      ],
-      "answer": [0, 1, 2]
-    },
-    {
-      "q": "भारत में ग्राम्य भूजल समस्या के प्रमुख कारण कौन हैं? / Major causes of groundwater issue in rural India?",
-      "options": [
-        "अधिक सिंचाई / Over-irrigation",
-        "अति चराई / Overgrazing",
-        "औद्योगिकीकरण / Industrialization",
-        "ऊर्ध्व प्रवाह / Upflow pollution"
-      ],
-      "answer": [0, 1, 2]
-    },
-    {
-      "q": "किस स्थिति में बायोडाइवर्सिटी कॉरिडोर फैल जाता है अधिक? / When does biodiversity corridor expand more?",
-      "options": [
-        "मानव हस्तक्षेप अधिक होने पर / High human intervention",
-        "वातावरणीय संरक्षण होने पर / Environmental protection",
-        "जलवायु परिवर्तन घटने पर / Less climate change",
-        "संरक्षित क्षेत्र होने पर / Protected area presence"
-      ],
-      "answer": [1, 3]
-    },
-    {
-      "q": "ऋतुओं में संक्रमण का महत्व क्या है भारत में? / Importance of transitions between seasons in India?",
-      "options": [
-        "कृषि चक्र निर्धारण / Determination of cropping cycles",
-        "दीर्घकालिक तापक्रम स्थिरता / Long term temperature stability",
-        "टूरिज़्म को बढ़ावा / Promotion of tourism",
-        "प्राकृतिक आपदाओं की आशंका / Possibility of natural disasters"
-      ],
-      "answer": [0, 2, 3]
-    },
-    {
-      "q": "भारत के तटीय संदर्भ में लालिमा (salinity) कितनी चुनौती है? / Challenge of salinity in coastal India?",
-      "options": [
-        "भूमि उपजाऊ होती है / Land becomes fertile",
-        "प्लवित क्षेत्र बनते हैं / Wetland areas form",
-        "मिट्टी नमीयुक्त हो जाती है / Soil becomes saline",
-        "कृषि खराब होती है / Crop yield decreases"
-      ],
-      "answer": [2, 3]
-    },
-    {
-      "q": "प्लावित मिट्टी (alluvial) ज्यादा किस इलाके में मिलती है? / Where alluvial soil majorly found?",
-      "options": [
-        "गंगा–ब्राह्मपुत्र मैदान / Ganga–Brahmaputra plains",
-        "राजस्थान का मरुस्थल / Rajasthan desert",
-        "दक्षिण भारत के पठार / Deccan plateau",
-        "सिंधु का मैदान / Indus plains"
-      ],
-      "answer": [0, 3]
-    },
-    {
-      "q": "फेनोली बायोर्डेबल प्लास्टिक किस प्रकार के तहत आता है? (non-geog) skip",
-      "options": [
-        "विकिरण-प्रतिक्रियाशील / Photo-reactive",
-        "बायोडिग्रेडेबल / Biodegradable",
-        "टेक्सटाइल / Textile",
-        "उद्योगिक उपयोग / Industrial use"
-      ],
-      "answer": [1]
-    },
-    {
-      "q": "भारत में भू–गर्मी क्षेत्र कहाँ पाए जाते है? / Where are geothermal zones in India?",
-      "options": [
-        "नामटिप्पणी / Manikaran, Himachal",
-        "काच्च प्रदेश / Kachchh region",
-        "केरल पठार / Kerala plateau",
-        "गुवाहाटी / Guwahati"
-      ],
-      "answer": [0, 1]
-    },
-    {
-      "q": "भारत में हैंगर आधुनिक मिट्टी कौन सी है? skip non-geo",
-      "options": [
-        "पोलिसर मिट्टी / Peaty soil",
-        "इयल मिट्टी / Clay soil",
-        "कम्पोस्ट मिट्टी / Composted soil",
-        "लैटराइट मिट्टी / Laterite soil"
-      ],
-      "answer": [0]
-    },
-    {
-      "q": "भारत में मानसूनी वर्षा का औसत समय है? / Average monsoon period in India?",
-      "options": [
-        "June से September / June to September",
-        "May में / In May",
-        "October तक / Till October",
-        "December तक / Till December"
-      ],
-      "answer": [0]
-    },
-    {
-      "q": "भारत में कृषि क्षेत्र में सिंचाई का प्रमुख स्रोत कौन है? / Main source of irrigation in Indian agriculture?",
-      "options": [
-        "नहर / Canal",
-        "भौगोलिक बारिश / Rain-fed",
-        "भूमिगत जल / Groundwater",
-        "तालाब / Tank"
-      ],
-      "answer": [0, 2]
-    },
-    {
-      "q": "भारत में पठारी स्थिति में किस तरह की मिट्टी प्रचलित हैं? / What soil prevails on plateau region?",
-      "options": [
-        "लैटराइट मिट्टी / Laterite soil",
-        "काली मिट्टी / Black soil",
-        "रेतीली मिट्टी / Sandy soil",
-        "गिलोई मिट्टी / Alluvial clay"
-      ],
-      "answer": [0]
-    },
-    {
-      "q": "निम्न में से कौन सी वन नीति का उद्देश्य है? / Which is objective of forest policy?",
-      "options": [
-        "वनों को निगम करना / Commercialise forests",
-        "पर्यावरण संतुलन सुनिश्चित करना / Ensure environmental balance",
-        "महाद्वीपीय सहयोग बढ़ाना / Increase continental cooperation",
-        "स्थानीय रोजगार देना / Provide local employment"
-      ],
-      "answer": [1, 3]
-    }
-  ]
-}
+[
+  {
+    "question": "भारत में कौन-कौन सी फसलें खरीफ की श्रेणी में आती हैं? / Which of the following crops are Kharif crops in India?",
+    "options": ["धान / Rice", "गेहूं / Wheat", "मक्का / Maize", "सरसों / Mustard"],
+    "correct_answers": [0, 2]
+  },
+  {
+    "question": "भारत के किस-किस क्षेत्र में काली मिट्टी पाई जाती है? / In which regions of India is black soil found?",
+    "options": ["दक्कन पठार / Deccan Plateau", "गंगा का मैदान / Gangetic plains", "मालवा क्षेत्र / Malwa region", "पूर्वोत्तर पर्वतीय क्षेत्र / North-Eastern hills"],
+    "correct_answers": [0, 2]
+  },
+  {
+    "question": "कौन-कौन से संसाधन अक्षय (renewable) माने जाते हैं? / Which of the following are considered renewable resources?",
+    "options": ["सौर ऊर्जा / Solar energy", "कोयला / Coal", "पवन ऊर्जा / Wind energy", "जल ऊर्जा / Hydropower"],
+    "correct_answers": [0, 2, 3]
+  },
+  {
+    "question": "भारत में सिंचाई के प्रमुख स्रोत कौन-कौन से हैं? / What are the major sources of irrigation in India?",
+    "options": ["कुएँ / Wells", "नहरें / Canals", "झीलें / Lakes", "ट्यूबवेल / Tube wells"],
+    "correct_answers": [0, 1, 3]
+  },
+  {
+    "question": "खनिज संसाधनों के संरक्षण के लिए कौन-कौन से उपाय आवश्यक हैं? / What are necessary steps for conservation of mineral resources?",
+    "options": ["री-साइकलिंग / Recycling", "बिना योजना खनन / Unplanned mining", "स्थायी उपयोग / Sustainable use", "खपत को बढ़ाना / Increasing consumption"],
+    "correct_answers": [0, 2]
+  },
+  {
+    "question": "भारत में प्रमुख जलवायु विशेषताएँ कौन-कौन सी हैं? / What are the major climatic features of India?",
+    "options": ["मॉनसून / Monsoon", "अत्यधिक तापमान विविधता / Extreme temperature variation", "सालभर एक जैसा तापमान / Uniform temperature", "ऋतु परिवर्तन / Seasonal changes"],
+    "correct_answers": [0, 1, 3]
+  },
+  {
+    "question": "भारत में किस प्रकार की मिट्टियाँ पाई जाती हैं? / What types of soils are found in India?",
+    "options": ["जलोढ़ मिट्टी / Alluvial soil", "काली मिट्टी / Black soil", "लाल मिट्टी / Red soil", "पीली मिट्टी / Yellow soil"],
+    "correct_answers": [0, 1, 2, 3]
+  },
+  {
+    "question": "भारत की कौन-कौन सी नदियाँ हिमालय से निकलती हैं? / Which rivers originate from the Himalayas?",
+    "options": ["गंगा / Ganga", "यमुना / Yamuna", "नर्मदा / Narmada", "ब्रह्मपुत्र / Brahmaputra"],
+    "correct_answers": [0, 1, 3]
+  },
+  {
+    "question": "इनमें से कौन-कौन से पर्यावरणीय मुद्दे भारत में गंभीर हैं? / Which of the following are serious environmental issues in India?",
+    "options": ["वनों की कटाई / Deforestation", "भूमि अपरदन / Land degradation", "समुद्र जल प्रदूषण / Marine water pollution", "ध्वनि प्रदूषण / Noise pollution"],
+    "correct_answers": [0, 1, 3]
+  },
+  {
+    "question": "भारत के किन क्षेत्रों में वर्षा अत्यधिक होती है? / Which regions in India receive heavy rainfall?",
+    "options": ["मेघालय / Meghalaya", "राजस्थान / Rajasthan", "पश्चिमी घाट / Western Ghats", "तमिलनाडु / Tamil Nadu"],
+    "correct_answers": [0, 2]
+  },
+  {
+    "question": "खनन से पर्यावरण पर कौन-कौन से प्रभाव पड़ते हैं? / What are the environmental impacts of mining?",
+    "options": ["वायु प्रदूषण / Air pollution", "जल स्रोतों की कमी / Water scarcity", "जैव विविधता की हानि / Loss of biodiversity", "मिट्टी की उर्वरता में वृद्धि / Increase in soil fertility"],
+    "correct_answers": [0, 1, 2]
+  },
+  {
+    "question": "भारत के किन-किन क्षेत्रों में ज्वालामुखी चट्टानें पाई जाती हैं? / In which parts of India are volcanic rocks found?",
+    "options": ["दक्कन ट्रैप / Deccan Trap", "राजस्थान / Rajasthan", "मिज़ोरम / Mizoram", "लद्दाख / Ladakh"],
+    "correct_answers": [0, 3]
+  },
+  {
+    "question": "भारत में भू-संरचनात्मक विभाजन कौन-कौन से हैं? / What are the major physiographic divisions of India?",
+    "options": ["हिमालय पर्वत / The Himalayas", "उत्तर भारतीय मैदान / Northern Plains", "पश्चिमी घाट / Western Ghats", "दक्कन पठार / Deccan Plateau"],
+    "correct_answers": [0, 1, 3]
+  },
+  {
+    "question": "भारत के किन क्षेत्रों में भूजल की समस्या गंभीर है? / In which regions of India is groundwater problem severe?",
+    "options": ["पंजाब / Punjab", "हरियाणा / Haryana", "झारखंड / Jharkhand", "कच्छ / Kutch"],
+    "correct_answers": [0, 1, 3]
+  },
+  {
+    "question": "इनमें से कौन से संसाधन जैविक (biotic) माने जाते हैं? / Which of the following are considered biotic resources?",
+    "options": ["वनस्पति / Flora", "जंतु / Fauna", "पानी / Water", "मानव संसाधन / Human resources"],
+    "correct_answers": [0, 1, 3]
+  }
+]
