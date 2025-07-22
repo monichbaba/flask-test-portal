@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Which of the following statements about India’s G20 Presidency in 2023 are correct?",
+    "options": [
+      "It was the first time India hosted the G20 Summit.",
+      "Delhi Declaration was adopted with unanimous consensus.",
+      "India permanently became G20 President after 2023.",
+      "African Union was admitted as a permanent member of G20."
+    ],
+    "answer": [0,1,3]
+  },
+  {
+    "question": "Which countries share a border with both Ukraine and Russia?",
+    "options": [
+      "Poland",
+      "Belarus",
+      "Moldova",
+      "Latvia"
+    ],
+    "answer": [1,3]
+  },
+  {
+    "question": "Which of these are part of India’s updated Digital Personal Data Protection Act, 2023?",
+    "options": [
+      "Right to correction and erasure",
+      "Establishment of a Data Protection Board",
+      "Social media platforms are exempt from compliance",
+      "Consent is mandatory before data processing"
+    ],
+    "answer": [0,1,3]
+  },
+  {
+    "question": "Which of these projects are related to India's space missions in 2024?",
+    "options": [
+      "Gaganyaan Human Spaceflight",
+      "Chandrayaan-4",
+      "Aditya-L1 Solar Mission",
+      "Shukrayaan (Venus Orbiter)"
+    ],
+    "answer": [0,2]
+  },
+  {
+    "question": "Which of the following are sustainable development goals (SDGs) of the UN?",
+    "options": [
+      "Zero Hunger",
+      "Affordable and Clean Energy",
+      "Right to Internet Access",
+      "Climate Action"
+    ],
+    "answer": [0,1,3]
+  },
+  {
+    "question": "What are the features of the PM Vishwakarma Yojana launched in 2023?",
+    "options": [
+      "Support to traditional artisans",
+      "Skill training and toolkit incentives",
+      "Only available to women artisans",
+      "Includes digital onboarding"
+    ],
+    "answer": [0,1,3]
+  },
+  {
+    "question": "Which of the following are members of BRICS as of July 2024?",
+    "options": [
+      "Brazil",
+      "Saudi Arabia",
+      "Russia",
+      "Argentina"
+    ],
+    "answer": [0,1,2]
+  },
+  {
+    "question": "India's Clean Energy Transition includes which of these initiatives?",
+    "options": [
+      "Green Hydrogen Mission",
+      "Faster Adoption of Electric Vehicles (FAME)",
+      "National Coal Mining Expansion",
+      "Solar Rooftop Subsidy Scheme"
+    ],
+    "answer": [0,1,3]
+  },
+  {
+    "question": "Which of these are features of the 2025 Interim Budget of India?",
+    "options": [
+      "Increase in capital expenditure",
+      "New income tax slabs",
+      "No changes in personal tax regime",
+      "Focus on infrastructure and startups"
+    ],
+    "answer": [0,2,3]
+  },
+  {
+    "question": "Which of the following are impacts of El Niño on Indian Monsoon?",
+    "options": [
+      "Reduced rainfall",
+      "Increased cyclone formation",
+      "Drought conditions in Central India",
+      "Favorable for Rabi crops"
+    ],
+    "answer": [0,2]
+  },
+  {
+    "question": "Which of the following statements about the Global Biofuel Alliance are correct?",
+    "options": [
+      "India is one of its founding members",
+      "It was launched during COP28",
+      "Focuses on ethanol and biogas trade",
+      "Only G7 countries are members"
+    ],
+    "answer": [0,2]
+  },
+  {
+    "question": "Which of the following schemes are under Ministry of Women and Child Development?",
+    "options": [
+      "POSHAN Abhiyaan",
+      "Beti Bachao Beti Padhao",
+      "PMAY (Urban)",
+      "Mission Shakti"
+    ],
+    "answer": [0,1,3]
+  },
+  {
+    "question": "Which countries are part of QUAD?",
+    "options": [
+      "India",
+      "Japan",
+      "Australia",
+      "Russia"
+    ],
+    "answer": [0,1,2]
+  },
+  {
+    "question": "Which of these states have a Legislative Council (Vidhan Parishad) in India?",
+    "options": [
+      "Uttar Pradesh",
+      "Bihar",
+      "Gujarat",
+      "Maharashtra"
+    ],
+    "answer": [0,1,3]
+  },
+  {
+    "question": "Which of the following are renewable energy sources?",
+    "options": [
+      "Hydropower",
+      "Nuclear",
+      "Wind",
+      "Geothermal"
+    ],
+    "answer": [0,2,3]
+  },
+  {
+    "question": "Which statements about India’s UPI are true?",
+    "options": [
+      "It enables instant real-time bank transfers",
+      "UPI is regulated by SEBI",
+      "UPI is interoperable between banks and apps",
+      "UPI is now linked with some international systems"
+    ],
+    "answer": [0,2,3]
+  },
+  {
+    "question": "Which rivers flow through more than one Indian state?",
+    "options": [
+      "Godavari",
+      "Tapi",
+      "Kaveri",
+      "Sabarmati"
+    ],
+    "answer": [0,1,2]
+  },
+  {
+    "question": "Which of the following institutions are constitutional bodies in India?",
+    "options": [
+      "Finance Commission",
+      "Election Commission",
+      "NITI Aayog",
+      "Comptroller and Auditor General"
+    ],
+    "answer": [0,1,3]
+  },
+  {
+    "question": "Which of the following cities were G20 Summit venues (2023-24)?",
+    "options": [
+      "New Delhi",
+      "Varanasi",
+      "Bengaluru",
+      "Jaipur"
+    ],
+    "answer": [0,1,2]
+  },
+  {
+    "question": "Which of the following are reasons behind inflation in India (2024)?",
+    "options": [
+      "Global supply chain disruptions",
+      "Low agricultural output",
+      "Currency appreciation",
+      "Crude oil price fluctuations"
+    ],
+    "answer": [0,1,3]
+  }
+]

@@ -1,23 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <title>IAS Pattern Test (Multiple Correct)</title>
+    <title>MCQ Test</title>
 </head>
 <body>
-  <h2>IAS Pattern MCQ Test (Multiple Correct Answers Allowed)</h2>
-  <form method="POST">
-    {% for i, q in enumerate(questions) %}
-      <div style="margin-bottom: 20px; border: 1px solid #aaa; padding: 10px;">
-        <strong>Q{{ i + 1 }}:</strong> {{ q.q }}<br><br>
-        {% for j, opt in enumerate(q.options) %}
-          <label>
-            <input type="checkbox" name="q{{ i }}" value="{{ j }}"> {{ opt }}
-          </label><br>
+    <h2>📝 Answer All Questions</h2>
+    <form method="POST">
+        {% for q in questions %}
+            <div>
+                <p><strong>{{ loop.index }}. {{ q.question }}</strong></p>
+                {% for opt in q.options %}
+                    <label><input type="checkbox" name="{{ q.id }}" value="{{ opt }}"> {{ opt }}</label><br>
+                {% endfor %}
+            </div>
         {% endfor %}
-      </div>
-    {% endfor %}
-    <button type="submit">Submit</button>
-  </form>
+        <button type="submit">Submit</button>
+    </form>
 </body>
 </html>
