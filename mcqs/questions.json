@@ -1,202 +1,112 @@
 [
   {
-    "question": "Which of the following statements about India’s G20 Presidency in 2023 are correct?",
-    "options": [
-      "It was the first time India hosted the G20 Summit.",
-      "Delhi Declaration was adopted with unanimous consensus.",
-      "India permanently became G20 President after 2023.",
-      "African Union was admitted as a permanent member of G20."
-    ],
-    "answer": [0,1,3]
+    "id": 1,
+    "question": "भारत में मौलिक अधिकारों की प्रकृति क्या है? (What is the nature of Fundamental Rights in India?)",
+    "options": {
+      "A": "न्यायालय द्वारा प्रवर्तनीय (Enforceable by courts)",
+      "B": "राज्य द्वारा दी गई कृपा (Privilege granted by the state)",
+      "C": "संविधान द्वारा गारंटीकृत (Guaranteed by the Constitution)",
+      "D": "शासन के विवेक पर निर्भर (Subject to executive discretion)"
+    },
+    "answer": ["A", "C"]
   },
   {
-    "question": "Which countries share a border with both Ukraine and Russia?",
-    "options": [
-      "Poland",
-      "Belarus",
-      "Moldova",
-      "Latvia"
-    ],
-    "answer": [1,3]
+    "id": 2,
+    "question": "अनुच्छेद 14 से 18 किस अधिकार से संबंधित हैं? (Articles 14 to 18 are related to which right?)",
+    "options": {
+      "A": "समानता का अधिकार (Right to Equality)",
+      "B": "स्वतंत्रता का अधिकार (Right to Freedom)",
+      "C": "शोषण के विरुद्ध अधिकार (Right against Exploitation)",
+      "D": "संवैधानिक उपचार का अधिकार (Right to Constitutional Remedies)"
+    },
+    "answer": ["A"]
   },
   {
-    "question": "Which of these are part of India’s updated Digital Personal Data Protection Act, 2023?",
-    "options": [
-      "Right to correction and erasure",
-      "Establishment of a Data Protection Board",
-      "Social media platforms are exempt from compliance",
-      "Consent is mandatory before data processing"
-    ],
-    "answer": [0,1,3]
+    "id": 3,
+    "question": "किस अनुच्छेद के तहत 'Speech & Expression' का अधिकार दिया गया है? (Under which article is the right to freedom of speech and expression granted?)",
+    "options": {
+      "A": "अनुच्छेद 19(1)(a) (Article 19(1)(a))",
+      "B": "अनुच्छेद 21 (Article 21)",
+      "C": "अनुच्छेद 25 (Article 25)",
+      "D": "अनुच्छेद 32 (Article 32)"
+    },
+    "answer": ["A"]
   },
   {
-    "question": "Which of these projects are related to India's space missions in 2024?",
-    "options": [
-      "Gaganyaan Human Spaceflight",
-      "Chandrayaan-4",
-      "Aditya-L1 Solar Mission",
-      "Shukrayaan (Venus Orbiter)"
-    ],
-    "answer": [0,2]
+    "id": 4,
+    "question": "निम्नलिखित में से किन अधिकारों को केवल भारतीय नागरिकों को ही प्रदान किया गया है? (Which of the following rights are available only to Indian citizens?)",
+    "options": {
+      "A": "अनुच्छेद 15 – भेदभाव का निषेध (Article 15 – Prohibition of discrimination)",
+      "B": "अनुच्छेद 19 – अभिव्यक्ति की स्वतंत्रता (Article 19 – Freedom of speech)",
+      "C": "अनुच्छेद 21 – जीवन और व्यक्तिगत स्वतंत्रता (Article 21 – Right to life and liberty)",
+      "D": "अनुच्छेद 29 – संस्कृति की रक्षा (Article 29 – Protection of culture)"
+    },
+    "answer": ["A", "B"]
   },
   {
-    "question": "Which of the following are sustainable development goals (SDGs) of the UN?",
-    "options": [
-      "Zero Hunger",
-      "Affordable and Clean Energy",
-      "Right to Internet Access",
-      "Climate Action"
-    ],
-    "answer": [0,1,3]
+    "id": 5,
+    "question": "मौलिक अधिकारों पर कौन-कौन से प्रतिबंध लगाए जा सकते हैं? (Which restrictions can be imposed on fundamental rights?)",
+    "options": {
+      "A": "लोक व्यवस्था (Public order)",
+      "B": "राज्य की सुरक्षा (Security of the State)",
+      "C": "व्यक्तिगत इच्छा (Personal desire)",
+      "D": "नैतिकता और शालीनता (Morality and decency)"
+    },
+    "answer": ["A", "B", "D"]
   },
   {
-    "question": "What are the features of the PM Vishwakarma Yojana launched in 2023?",
-    "options": [
-      "Support to traditional artisans",
-      "Skill training and toolkit incentives",
-      "Only available to women artisans",
-      "Includes digital onboarding"
-    ],
-    "answer": [0,1,3]
+    "id": 6,
+    "question": "अनुच्छेद 21 में 'जीवन का अधिकार' किन चीजों को समाहित करता है? (What does the Right to Life under Article 21 include?)",
+    "options": {
+      "A": "स्वच्छ पर्यावरण का अधिकार (Right to clean environment)",
+      "B": "शिक्षा का अधिकार (Right to education)",
+      "C": "मृत्यु का अधिकार (Right to die)",
+      "D": "गोपनीयता का अधिकार (Right to privacy)"
+    },
+    "answer": ["A", "B", "D"]
   },
   {
-    "question": "Which of the following are members of BRICS as of July 2024?",
-    "options": [
-      "Brazil",
-      "Saudi Arabia",
-      "Russia",
-      "Argentina"
-    ],
-    "answer": [0,1,2]
+    "id": 7,
+    "question": "संवैधानिक उपचार का अधिकार किस अनुच्छेद में दिया गया है? (Right to Constitutional Remedies is provided under which Article?)",
+    "options": {
+      "A": "अनुच्छेद 32 (Article 32)",
+      "B": "अनुच्छेद 226 (Article 226)",
+      "C": "अनुच्छेद 21 (Article 21)",
+      "D": "अनुच्छेद 14 (Article 14)"
+    },
+    "answer": ["A", "B"]
   },
   {
-    "question": "India's Clean Energy Transition includes which of these initiatives?",
-    "options": [
-      "Green Hydrogen Mission",
-      "Faster Adoption of Electric Vehicles (FAME)",
-      "National Coal Mining Expansion",
-      "Solar Rooftop Subsidy Scheme"
-    ],
-    "answer": [0,1,3]
+    "id": 8,
+    "question": "निम्नलिखित में से कौन-सा मौलिक अधिकार नहीं है? (Which of the following is NOT a Fundamental Right?)",
+    "options": {
+      "A": "संपत्ति का अधिकार (Right to property)",
+      "B": "धर्म की स्वतंत्रता (Freedom of religion)",
+      "C": "समान वेतन का अधिकार (Right to equal pay)",
+      "D": "संवैधानिक उपचार (Constitutional Remedies)"
+    },
+    "answer": ["A", "C"]
   },
   {
-    "question": "Which of these are features of the 2025 Interim Budget of India?",
-    "options": [
-      "Increase in capital expenditure",
-      "New income tax slabs",
-      "No changes in personal tax regime",
-      "Focus on infrastructure and startups"
-    ],
-    "answer": [0,2,3]
+    "id": 9,
+    "question": "न्यायपालिका किस आधार पर मौलिक अधिकारों की व्याख्या करती है? (On what basis does judiciary interpret Fundamental Rights?)",
+    "options": {
+      "A": "संविधान की भावना (Spirit of the Constitution)",
+      "B": "वर्तमान सामाजिक परिस्थिति (Present social context)",
+      "C": "राजनीतिक घोषणापत्र (Political manifesto)",
+      "D": "न्यायिक मिसालें (Judicial precedents)"
+    },
+    "answer": ["A", "B", "D"]
   },
   {
-    "question": "Which of the following are impacts of El Niño on Indian Monsoon?",
-    "options": [
-      "Reduced rainfall",
-      "Increased cyclone formation",
-      "Drought conditions in Central India",
-      "Favorable for Rabi crops"
-    ],
-    "answer": [0,2]
-  },
-  {
-    "question": "Which of the following statements about the Global Biofuel Alliance are correct?",
-    "options": [
-      "India is one of its founding members",
-      "It was launched during COP28",
-      "Focuses on ethanol and biogas trade",
-      "Only G7 countries are members"
-    ],
-    "answer": [0,2]
-  },
-  {
-    "question": "Which of the following schemes are under Ministry of Women and Child Development?",
-    "options": [
-      "POSHAN Abhiyaan",
-      "Beti Bachao Beti Padhao",
-      "PMAY (Urban)",
-      "Mission Shakti"
-    ],
-    "answer": [0,1,3]
-  },
-  {
-    "question": "Which countries are part of QUAD?",
-    "options": [
-      "India",
-      "Japan",
-      "Australia",
-      "Russia"
-    ],
-    "answer": [0,1,2]
-  },
-  {
-    "question": "Which of these states have a Legislative Council (Vidhan Parishad) in India?",
-    "options": [
-      "Uttar Pradesh",
-      "Bihar",
-      "Gujarat",
-      "Maharashtra"
-    ],
-    "answer": [0,1,3]
-  },
-  {
-    "question": "Which of the following are renewable energy sources?",
-    "options": [
-      "Hydropower",
-      "Nuclear",
-      "Wind",
-      "Geothermal"
-    ],
-    "answer": [0,2,3]
-  },
-  {
-    "question": "Which statements about India’s UPI are true?",
-    "options": [
-      "It enables instant real-time bank transfers",
-      "UPI is regulated by SEBI",
-      "UPI is interoperable between banks and apps",
-      "UPI is now linked with some international systems"
-    ],
-    "answer": [0,2,3]
-  },
-  {
-    "question": "Which rivers flow through more than one Indian state?",
-    "options": [
-      "Godavari",
-      "Tapi",
-      "Kaveri",
-      "Sabarmati"
-    ],
-    "answer": [0,1,2]
-  },
-  {
-    "question": "Which of the following institutions are constitutional bodies in India?",
-    "options": [
-      "Finance Commission",
-      "Election Commission",
-      "NITI Aayog",
-      "Comptroller and Auditor General"
-    ],
-    "answer": [0,1,3]
-  },
-  {
-    "question": "Which of the following cities were G20 Summit venues (2023-24)?",
-    "options": [
-      "New Delhi",
-      "Varanasi",
-      "Bengaluru",
-      "Jaipur"
-    ],
-    "answer": [0,1,2]
-  },
-  {
-    "question": "Which of the following are reasons behind inflation in India (2024)?",
-    "options": [
-      "Global supply chain disruptions",
-      "Low agricultural output",
-      "Currency appreciation",
-      "Crude oil price fluctuations"
-    ],
-    "answer": [0,1,3]
+    "id": 10,
+    "question": "निम्नलिखित में से कौन-से अधिकार संविधान द्वारा विशेष रूप से अल्पसंख्यकों को दिए गए हैं? (Which of the following rights are specifically granted to minorities by the Constitution?)",
+    "options": {
+      "A": "अपनी संस्कृति को सुरक्षित रखने का अधिकार (Right to conserve their culture)",
+      "B": "शैक्षणिक संस्थान स्थापित करने का अधिकार (Right to establish educational institutions)",
+      "C": "मतदान का अधिकार (Right to vote)",
+      "D": "धर्म परिवर्तन करने का अधिकार (Right to convert religion)"
+    },
+    "answer": ["A", "B"]
   }
 ]
