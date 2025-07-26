@@ -5,8 +5,8 @@ import os
 app = Flask(__name__)
 app.secret_key = 'your_secret_key_here'
 
-# questions.json file ka dynamic path
-file_path = os.path.join(os.path.dirname(__file__), 'questions.json')
+# ✅ Corrected path to match your structure
+file_path = os.path.join(os.path.dirname(__file__), 'mcqs', 'questions.json')
 with open(file_path, encoding='utf-8') as f:
     questions = json.load(f)
 
