@@ -1,30 +1,26 @@
+<!-- templates/result.html -->
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Test Result</title>
-  <style>
-    .correct-answer { background-color: #d4edda; padding: 5px; }
-    .wrong-answer { background-color: #f8d7da; padding: 5px; }
-    .question-box {
-      border: 1px solid #ccc;
-      margin-bottom: 15px;
-      padding: 10px;
-      border-radius: 5px;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <title>Test Result</title>
 </head>
 <body>
-  <h2>📊 Test Results</h2>
-  {% for res in results %}
-    <div class="question-box">
-      <p><strong>{{ loop.index }}. {{ res.question }}</strong></p>
-      {% if res.is_correct %}
-        <p class="correct-answer">✅ Your Answer: {{ res.selected | join(", ") }}</p>
-      {% else %}
-        <p class="wrong-answer">❌ Your Answer: {{ res.selected | join(", ") if res.selected else "No answer selected" }}</p>
-        <p class="correct-answer">✅ Correct Answer: {{ res.correct | join(", ") }}</p>
-      {% endif %}
-    </div>
-  {% endfor %}
+    <h2>Test Result</h2>
+    <p>Total Score: {{ score }} / {{ total }}</p>
+    <hr>
+    {% for r in results %}
+        <div style="margin-bottom: 20px;">
+            <strong>Q{{ loop.index }}. {{ r.question }}</strong><br><br>
+            <span>Your answer: <strong>{{ r.your_answer }}</strong></span><br>
+            <span>Correct answer: <strong>{{ r.correct_answer }}</strong></span><br>
+            {% if r.is_correct %}
+                <span style="color: green;">✔ Correct</span>
+            {% else %}
+                <span style="color: red;">✘ Incorrect</span>
+            {% endif %}
+        </div>
+        <hr>
+    {% endfor %}
 </body>
 </html>
