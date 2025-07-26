@@ -1,24 +1,24 @@
 [
   {
     "id": 1,
-    "question": "भारत का सबसे बड़ा राज्य कौन सा है क्षेत्रफल की दृष्टि से? (Which is the largest state in India by area?)",
+    "question": "भारत में कितने मौलिक अधिकार हैं? / How many Fundamental Rights are there in India?",
     "options": {
-      "A": "उत्तर प्रदेश (Uttar Pradesh)",
-      "B": "मध्य प्रदेश (Madhya Pradesh)",
-      "C": "राजस्थान (Rajasthan)",
-      "D": "महाराष्ट्र (Maharashtra)"
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
     },
-    "answer": ["C"]
+    "answer": "C"
   },
   {
     "id": 2,
-    "question": "निम्नलिखित में से कौन सी नदी गंगा की सहायक नदी नहीं है? (Which of the following is not a tributary of the Ganga?)",
+    "question": "Right to Equality किस अनुच्छेद में है? / Right to Equality is under which Article?",
     "options": {
-      "A": "यमुना (Yamuna)",
-      "B": "गोमती (Gomti)",
-      "C": "चंबल (Chambal)",
-      "D": "कावेरी (Kaveri)"
+      "A": "14–18",
+      "B": "19–22",
+      "C": "23–24",
+      "D": "25–28"
     },
-    "answer": ["D"]
+    "answer": "A"
   }
 ]
