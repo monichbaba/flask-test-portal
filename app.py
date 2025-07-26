@@ -3,17 +3,19 @@ import json
 import os
 
 app = Flask(__name__)
-app.secret_key = 'your_secret_key_here'  # Replace with a secure key
+app.secret_key = 'your_secret_key_here'
 
-# Load questions from mcqs/questions.json
+# ✅ Questions file ka correct path
 file_path = os.path.join(os.path.dirname(__file__), 'mcqs', 'questions.json')
 with open(file_path, encoding='utf-8') as f:
     questions = json.load(f)
 
+# ✅ Home page
 @app.route('/')
 def index():
     return render_template('index.html')
 
+# ✅ Password screen (GET + POST both allowed)
 @app.route('/password', methods=['GET', 'POST'])
 def password():
     if request.method == 'POST':
@@ -25,6 +27,7 @@ def password():
             return render_template('password.html', error='Galat password hai')
     return render_template('password.html')
 
+# ✅ Quiz page
 @app.route('/test', methods=['GET', 'POST'])
 def test():
     if not session.get('authenticated'):
@@ -52,10 +55,6 @@ def test():
 
     return render_template('test.html', questions=questions)
 
-@app.route('/logout')
-def logout():
-    session.clear()
-    return redirect(url_for('index'))
-
+# ✅ Local run (not used in Render, but useful for dev)
 if __name__ == '__main__':
     app.run(debug=True)
