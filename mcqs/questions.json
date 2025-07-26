@@ -1,112 +1,24 @@
 [
   {
     "id": 1,
-    "question": "भारत में मौलिक अधिकारों की प्रकृति क्या है? (What is the nature of Fundamental Rights in India?)",
+    "question": "भारत में मौलिक अधिकारों की प्रकृति क्या है?",
     "options": {
-      "A": "न्यायालय द्वारा प्रवर्तनीय (Enforceable by courts)",
-      "B": "राज्य द्वारा दी गई कृपा (Privilege granted by the state)",
-      "C": "संविधान द्वारा गारंटीकृत (Guaranteed by the Constitution)",
-      "D": "शासन के विवेक पर निर्भर (Subject to executive discretion)"
+      "A": "न्यायालय द्वारा प्रवर्तनीय",
+      "B": "राज्य द्वारा दी गई कृपा",
+      "C": "संविधान द्वारा गारंटीकृत",
+      "D": "शासन के विवेक पर निर्भर"
     },
     "answer": ["A", "C"]
   },
   {
     "id": 2,
-    "question": "अनुच्छेद 14 से 18 किस अधिकार से संबंधित हैं? (Articles 14 to 18 are related to which right?)",
+    "question": "अनुच्छेद 14 से 18 किस अधिकार से संबंधित हैं?",
     "options": {
-      "A": "समानता का अधिकार (Right to Equality)",
-      "B": "स्वतंत्रता का अधिकार (Right to Freedom)",
-      "C": "शोषण के विरुद्ध अधिकार (Right against Exploitation)",
-      "D": "संवैधानिक उपचार का अधिकार (Right to Constitutional Remedies)"
+      "A": "समानता का अधिकार",
+      "B": "स्वतंत्रता का अधिकार",
+      "C": "शोषण के विरुद्ध अधिकार",
+      "D": "संवैधानिक उपचार का अधिकार"
     },
     "answer": ["A"]
-  },
-  {
-    "id": 3,
-    "question": "किस अनुच्छेद के तहत 'Speech & Expression' का अधिकार दिया गया है? (Under which article is the right to freedom of speech and expression granted?)",
-    "options": {
-      "A": "अनुच्छेद 19(1)(a) (Article 19(1)(a))",
-      "B": "अनुच्छेद 21 (Article 21)",
-      "C": "अनुच्छेद 25 (Article 25)",
-      "D": "अनुच्छेद 32 (Article 32)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 4,
-    "question": "निम्नलिखित में से किन अधिकारों को केवल भारतीय नागरिकों को ही प्रदान किया गया है? (Which of the following rights are available only to Indian citizens?)",
-    "options": {
-      "A": "अनुच्छेद 15 – भेदभाव का निषेध (Article 15 – Prohibition of discrimination)",
-      "B": "अनुच्छेद 19 – अभिव्यक्ति की स्वतंत्रता (Article 19 – Freedom of speech)",
-      "C": "अनुच्छेद 21 – जीवन और व्यक्तिगत स्वतंत्रता (Article 21 – Right to life and liberty)",
-      "D": "अनुच्छेद 29 – संस्कृति की रक्षा (Article 29 – Protection of culture)"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 5,
-    "question": "मौलिक अधिकारों पर कौन-कौन से प्रतिबंध लगाए जा सकते हैं? (Which restrictions can be imposed on fundamental rights?)",
-    "options": {
-      "A": "लोक व्यवस्था (Public order)",
-      "B": "राज्य की सुरक्षा (Security of the State)",
-      "C": "व्यक्तिगत इच्छा (Personal desire)",
-      "D": "नैतिकता और शालीनता (Morality and decency)"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 6,
-    "question": "अनुच्छेद 21 में 'जीवन का अधिकार' किन चीजों को समाहित करता है? (What does the Right to Life under Article 21 include?)",
-    "options": {
-      "A": "स्वच्छ पर्यावरण का अधिकार (Right to clean environment)",
-      "B": "शिक्षा का अधिकार (Right to education)",
-      "C": "मृत्यु का अधिकार (Right to die)",
-      "D": "गोपनीयता का अधिकार (Right to privacy)"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 7,
-    "question": "संवैधानिक उपचार का अधिकार किस अनुच्छेद में दिया गया है? (Right to Constitutional Remedies is provided under which Article?)",
-    "options": {
-      "A": "अनुच्छेद 32 (Article 32)",
-      "B": "अनुच्छेद 226 (Article 226)",
-      "C": "अनुच्छेद 21 (Article 21)",
-      "D": "अनुच्छेद 14 (Article 14)"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 8,
-    "question": "निम्नलिखित में से कौन-सा मौलिक अधिकार नहीं है? (Which of the following is NOT a Fundamental Right?)",
-    "options": {
-      "A": "संपत्ति का अधिकार (Right to property)",
-      "B": "धर्म की स्वतंत्रता (Freedom of religion)",
-      "C": "समान वेतन का अधिकार (Right to equal pay)",
-      "D": "संवैधानिक उपचार (Constitutional Remedies)"
-    },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 9,
-    "question": "न्यायपालिका किस आधार पर मौलिक अधिकारों की व्याख्या करती है? (On what basis does judiciary interpret Fundamental Rights?)",
-    "options": {
-      "A": "संविधान की भावना (Spirit of the Constitution)",
-      "B": "वर्तमान सामाजिक परिस्थिति (Present social context)",
-      "C": "राजनीतिक घोषणापत्र (Political manifesto)",
-      "D": "न्यायिक मिसालें (Judicial precedents)"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 10,
-    "question": "निम्नलिखित में से कौन-से अधिकार संविधान द्वारा विशेष रूप से अल्पसंख्यकों को दिए गए हैं? (Which of the following rights are specifically granted to minorities by the Constitution?)",
-    "options": {
-      "A": "अपनी संस्कृति को सुरक्षित रखने का अधिकार (Right to conserve their culture)",
-      "B": "शैक्षणिक संस्थान स्थापित करने का अधिकार (Right to establish educational institutions)",
-      "C": "मतदान का अधिकार (Right to vote)",
-      "D": "धर्म परिवर्तन करने का अधिकार (Right to convert religion)"
-    },
-    "answer": ["A", "B"]
   }
 ]
