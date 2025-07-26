@@ -1,68 +1,60 @@
-from flask import Flask, render_template, request, redirect, session, url_for
+from flask import Flask, render_template, request, redirect, url_for, session
 import json
-import os
 
 app = Flask(__name__)
-app.secret_key = "your-secret-key"
+app.secret_key = 'your_secret_key'  # Needed for session
 
-# Load questions from JSON
-def load_questions():
-    with open("mcqs/questions.json", encoding='utf-8') as f:
-        return json.load(f)
+# Load questions
+with open('questions.json', encoding='utf-8') as f:
+    questions = json.load(f)
 
-# Home route – shows Start button
-@app.route("/", methods=["GET", "POST"])
-def index():
-    if request.method == "POST":
-        return redirect("/password")
-    return render_template("index.html")
+# Password to access test
+TEST_PASSWORD = "test123"  # You can change this
 
-# Password entry route
-@app.route("/password", methods=["GET", "POST"])
-def password():
-    if request.method == "POST":
-        entered = request.form.get("password")
-        if entered == "letmein":
-            session["authenticated"] = True
-            return redirect("/test")
+@app.route('/')
+def home():
+    return render_template('index.html')
+
+@app.route('/login', methods=['GET', 'POST'])
+def login():
+    if request.method == 'POST':
+        password = request.form['password']
+        if password == TEST_PASSWORD:
+            session['authenticated'] = True
+            return redirect(url_for('test'))
         else:
-            return render_template("password.html", error="Wrong password.")
-    return render_template("password.html")
+            return render_template('password.html', error="Galat password")
+    return render_template('password.html')
 
-# Main test page
-@app.route("/test", methods=["GET", "POST"])
+@app.route('/test', methods=['GET', 'POST'])
 def test():
-    if not session.get("authenticated"):
-        return redirect("/password")
+    if not session.get('authenticated'):
+        return redirect(url_for('login'))
 
-    questions = load_questions()
-
-    if request.method == "POST":
-        score = 0
+    if request.method == 'POST':
+        user_answers = {}
         results = []
-        for idx, question in enumerate(questions):
-            selected = request.form.getlist(f"q{idx}")
-            correct = set(question["answer"])  # expects 'answer': ["A", "C"]
-            selected_set = set(selected)
-            is_correct = selected_set == correct
-            if is_correct:
-                score += 1
+
+        for q in questions:
+            qid = str(q['id'])
+            selected = request.form.getlist(qid)
+            correct = q['answer']
+            is_correct = set(selected) == set(correct)
             results.append({
-                "question": question["question"],
-                "selected": selected,
-                "correct": list(correct),
-                "is_correct": is_correct
+                'question': q['question'],
+                'options': q['options'],
+                'selected': selected,
+                'correct': correct,
+                'is_correct': is_correct
             })
+        return render_template('result.html', results=results)
 
-        return render_template("result.html", results=results, score=score, total=len(questions))
+    return render_template('test.html', questions=questions)
 
-    return render_template("test.html", questions=questions)
-
-# Logout to clear session
-@app.route("/logout")
+@app.route('/logout')
 def logout():
-    session.clear()
-    return redirect("/")
+    session.pop('authenticated', None)
+    return redirect(url_for('home'))
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     app.run(debug=True)
