@@ -1,20 +1,25 @@
+<!-- templates/test.html -->
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
     <title>MCQ Test</title>
 </head>
 <body>
-    <h2>📝 Answer All Questions</h2>
-    <form method="POST">
+    <h2>MCQ Test</h2>
+    <form method="post">
         {% for q in questions %}
-            <div>
-                <p><strong>{{ loop.index }}. {{ q.question }}</strong></p>
-                {% for opt in q.options %}
-                    <label><input type="checkbox" name="{{ q.id }}" value="{{ opt }}"> {{ opt }}</label><br>
+            <div style="margin-bottom: 20px;">
+                <strong>Q{{ loop.index }}. {{ q.question }}</strong><br><br>
+                {% for key, value in q.options.items() %}
+                    <label>
+                        <input type="radio" name="q{{ q.id }}" value="{{ key }}" required>
+                        {{ value }}
+                    </label><br>
                 {% endfor %}
             </div>
         {% endfor %}
-        <button type="submit">Submit</button>
+        <input type="submit" value="Submit">
     </form>
 </body>
 </html>
