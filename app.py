@@ -3,9 +3,9 @@ import json
 import os
 
 app = Flask(__name__)
-app.secret_key = 'your_secret_key_here'
+app.secret_key = 'your_secret_key_here'  # Replace with a secure key
 
-# ✅ Corrected path to match your structure
+# Load questions from mcqs/questions.json
 file_path = os.path.join(os.path.dirname(__file__), 'mcqs', 'questions.json')
 with open(file_path, encoding='utf-8') as f:
     questions = json.load(f)
@@ -51,6 +51,11 @@ def test():
         return render_template('result.html', results=results, score=score, total=len(questions))
 
     return render_template('test.html', questions=questions)
+
+@app.route('/logout')
+def logout():
+    session.clear()
+    return redirect(url_for('index'))
 
 if __name__ == '__main__':
     app.run(debug=True)
