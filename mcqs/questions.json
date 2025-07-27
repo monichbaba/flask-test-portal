@@ -1,24 +1,222 @@
 [
   {
     "id": 1,
-    "question": "भारत में संसाधनों के संरक्षण के कौन-कौन से तरीके अपनाए गए हैं?",
+    "question": "भारत में मौलिक अधिकारों को संविधान के किस भाग में रखा गया है? / In which part of the Constitution are Fundamental Rights included?",
     "options": {
-      "A": "संसाधनों का पुनः उपयोग",
-      "B": "अपशिष्ट पदार्थों का पुनर्चक्रण",
-      "C": "जैव विविधता का संरक्षण",
-      "D": "ऊपर सभी"
+      "A": "भाग III / Part III",
+      "B": "भाग IV / Part IV",
+      "C": "भाग II / Part II",
+      "D": "प्रस्तावना / Preamble"
     },
-    "answer": "D"
+    "answer": "A"
   },
   {
     "id": 2,
-    "question": "निम्नलिखित में से कौन सा पारंपरिक जल संरक्षण विधि है?",
+    "question": "निम्न में से कौन-सा अधिकार भारत में अब मौलिक अधिकार नहीं है? / Which of the following is no longer a Fundamental Right in India?",
     "options": {
-      "A": "फ्लोरिडेशन",
-      "B": "रेनवाटर हार्वेस्टिंग",
-      "C": "डैम निर्माण",
-      "D": "वाटर प्यूरीफायर"
+      "A": "संपत्ति का अधिकार / Right to Property",
+      "B": "धर्म की स्वतंत्रता / Freedom of Religion",
+      "C": "जीवन और व्यक्तिगत स्वतंत्रता / Right to Life and Liberty",
+      "D": "शिक्षा का अधिकार / Right to Education"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 3,
+    "question": "अनुच्छेद 21 के तहत क्या गारंटी दी गई है? / What is guaranteed under Article 21?",
+    "options": {
+      "A": "शांति का अधिकार / Right to Peace",
+      "B": "जीवन और व्यक्तिगत स्वतंत्रता का अधिकार / Right to Life and Personal Liberty",
+      "C": "श्रम का अधिकार / Right to Work",
+      "D": "समान वेतन का अधिकार / Right to Equal Pay"
     },
     "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "कौन-सा मौलिक अधिकार 'नागरिकों' तक ही सीमित है? / Which Fundamental Right is limited only to citizens?",
+    "options": {
+      "A": "अभिव्यक्ति की स्वतंत्रता / Freedom of Speech",
+      "B": "धर्म की स्वतंत्रता / Freedom of Religion",
+      "C": "जीवन का अधिकार / Right to Life",
+      "D": "न्याय का अधिकार / Right to Constitutional Remedies"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 5,
+    "question": "निम्नलिखित में से कौन-सा अनुच्छेद 'समानता के अधिकार' से संबंधित नहीं है? / Which of the following Articles is NOT related to Right to Equality?",
+    "options": {
+      "A": "अनुच्छेद 14 / Article 14",
+      "B": "अनुच्छेद 15 / Article 15",
+      "C": "अनुच्छेद 19 / Article 19",
+      "D": "अनुच्छेद 18 / Article 18"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "question": "'राइट टू एजुकेशन' किस अनुच्छेद के अंतर्गत है? / Under which Article is the Right to Education included?",
+    "options": {
+      "A": "अनुच्छेद 45 / Article 45",
+      "B": "अनुच्छेद 21A / Article 21A",
+      "C": "अनुच्छेद 19 / Article 19",
+      "D": "अनुच्छेद 29 / Article 29"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "question": "‘Writ Jurisdiction’ किस अनुच्छेद से संबंधित है? / Which Article is related to the Writ Jurisdiction?",
+    "options": {
+      "A": "अनुच्छेद 32 / Article 32",
+      "B": "अनुच्छेद 14 / Article 14",
+      "C": "अनुच्छेद 356 / Article 356",
+      "D": "अनुच्छेद 124 / Article 124"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 8,
+    "question": "मौलिक अधिकारों का उल्लंघन होने पर व्यक्ति कहां जा सकता है? / Where can a person go if their Fundamental Rights are violated?",
+    "options": {
+      "A": "ग्राम सभा / Gram Sabha",
+      "B": "राज्यपाल / Governor",
+      "C": "सुप्रीम कोर्ट / Supreme Court",
+      "D": "पंचायत / Panchayat"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "question": "‘हबीयस कॉर्पस’ रिट किस स्थिति में जारी की जाती है? / In which situation is the Habeas Corpus writ issued?",
+    "options": {
+      "A": "मजदूरी विवाद / Labour Disputes",
+      "B": "अवैध हिरासत / Illegal Detention",
+      "C": "चुनावी धोखाधड़ी / Electoral Fraud",
+      "D": "टैक्स चोरी / Tax Evasion"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 10,
+    "question": "किस अनुच्छेद के तहत धार्मिक स्वतंत्रता दी गई है? / Under which Article is Freedom of Religion guaranteed?",
+    "options": {
+      "A": "अनुच्छेद 25 / Article 25",
+      "B": "अनुच्छेद 19 / Article 19",
+      "C": "अनुच्छेद 30 / Article 30",
+      "D": "अनुच्छेद 32 / Article 32"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 11,
+    "question": "भारत में कुल कितने मौलिक अधिकार हैं? / How many Fundamental Rights are there in India?",
+    "options": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "10"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "मूल रूप से संविधान में कितने मौलिक अधिकार थे? / How many Fundamental Rights were originally in the Constitution?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 13,
+    "question": "निम्न में से कौन-सा मौलिक अधिकार शिक्षण संस्थानों से संबंधित है? / Which Fundamental Right relates to educational institutions?",
+    "options": {
+      "A": "अनुच्छेद 29 / Article 29",
+      "B": "अनुच्छेद 17 / Article 17",
+      "C": "अनुच्छेद 21 / Article 21",
+      "D": "अनुच्छेद 19 / Article 19"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 14,
+    "question": "किस अनुच्छेद के अंतर्गत अस्पृश्यता को अपराध घोषित किया गया है? / Under which Article is untouchability declared an offense?",
+    "options": {
+      "A": "अनुच्छेद 14 / Article 14",
+      "B": "अनुच्छेद 15 / Article 15",
+      "C": "अनुच्छेद 17 / Article 17",
+      "D": "अनुच्छेद 19 / Article 19"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 15,
+    "question": "मौलिक अधिकारों पर प्रतिबंध किस स्थिति में लगाया जा सकता है? / When can restrictions be imposed on Fundamental Rights?",
+    "options": {
+      "A": "आपातकाल / Emergency",
+      "B": "निर्वाचन / Election",
+      "C": "विकास कार्य / Development Work",
+      "D": "धार्मिक उत्सव / Religious Festival"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "question": "किस अनुच्छेद में भाषायी अल्पसंख्यकों को संरक्षण दिया गया है? / Which Article provides protection to linguistic minorities?",
+    "options": {
+      "A": "अनुच्छेद 27 / Article 27",
+      "B": "अनुच्छेद 30 / Article 30",
+      "C": "अनुच्छेद 14 / Article 14",
+      "D": "अनुच्छेद 19 / Article 19"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 17,
+    "question": "‘प्रारंभिक शिक्षा’ का अधिकार किस आयु वर्ग के लिए लागू है? / Right to Elementary Education is for which age group?",
+    "options": {
+      "A": "3 से 6 वर्ष / 3 to 6 years",
+      "B": "6 से 14 वर्ष / 6 to 14 years",
+      "C": "14 से 18 वर्ष / 14 to 18 years",
+      "D": "18 से 21 वर्ष / 18 to 21 years"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 18,
+    "question": "‘समान कार्य के लिए समान वेतन’ किस अधिकार से संबंधित है? / ‘Equal pay for equal work’ is part of which right?",
+    "options": {
+      "A": "सामाजिक अधिकार / Social Right",
+      "B": "नैतिक अधिकार / Moral Right",
+      "C": "न्यायिक अधिकार / Legal Right",
+      "D": "मौलिक कर्तव्य / Fundamental Duty"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "question": "न्यायालय में याचिका दाखिल करने का अधिकार किस अनुच्छेद में है? / Which Article allows the right to move to courts?",
+    "options": {
+      "A": "अनुच्छेद 32 / Article 32",
+      "B": "अनुच्छेद 21 / Article 21",
+      "C": "अनुच्छेद 19 / Article 19",
+      "D": "अनुच्छेद 17 / Article 17"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 20,
+    "question": "कौन-सी संस्था मौलिक अधिकारों की संरक्षक मानी जाती है? / Which body is considered the guardian of Fundamental Rights?",
+    "options": {
+      "A": "संसद / Parliament",
+      "B": "राष्ट्रपति / President",
+      "C": "सुप्रीम कोर्ट / Supreme Court",
+      "D": "राज्यपाल / Governor"
+    },
+    "answer": "C"
   }
 ]

@@ -39,17 +39,14 @@ def test():
 
         for idx, question in enumerate(questions):
             selected = request.form.getlist(f"q{idx}")
-            answer = question["answer"]
-
-            # Handle both string and list formats for answers
-            correct_set = set([answer]) if isinstance(answer, str) else set(answer)
+            correct = set(question["answer"])
             selected_set = set(selected)
-            is_correct = selected_set == correct_set
+            is_correct = selected_set == correct
 
-            # Map keys to text
+            # Map keys to text, remove duplicate text by converting to dict
             option_map = question["options"]
-            selected_texts = ", ".join(option_map[key] for key in selected)
-            correct_texts = ", ".join(option_map[key] for key in correct_set)
+            selected_texts = list(dict.fromkeys([option_map[key] for key in selected]))
+            correct_texts = [option_map[key] for key in correct]
 
             if is_correct:
                 score += 1
