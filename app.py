@@ -1,4 +1,3 @@
-
 from flask import Flask, render_template, request, redirect, session, url_for
 import json
 
@@ -40,14 +39,17 @@ def test():
 
         for idx, question in enumerate(questions):
             selected = request.form.getlist(f"q{idx}")
-            correct = set(question["answer"])
+            answer = question["answer"]
+
+            # Handle both string and list formats for answers
+            correct_set = set([answer]) if isinstance(answer, str) else set(answer)
             selected_set = set(selected)
-            is_correct = selected_set == correct
+            is_correct = selected_set == correct_set
 
             # Map keys to text
             option_map = question["options"]
-            selected_texts = [option_map[key] for key in selected]
-            correct_texts = [option_map[key] for key in correct]
+            selected_texts = ", ".join(option_map[key] for key in selected)
+            correct_texts = ", ".join(option_map[key] for key in correct_set)
 
             if is_correct:
                 score += 1
