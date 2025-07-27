@@ -19,10 +19,10 @@
     <div class="question-box">
       <p><strong>{{ loop.index }}. {{ res.question }}</strong></p>
       {% if res.is_correct %}
-        <p class="correct-answer">✅ Your Answer: {{ res.selected | join(", ") }}</p>
+        <p class="correct-answer">✅ Your Answer: {{ res.selected }}</p>
       {% else %}
-        <p class="wrong-answer">❌ Your Answer: {{ res.selected | join(", ") if res.selected else "No answer selected" }}</p>
-        <p class="correct-answer">✅ Correct Answer: {{ res.correct | join(", ") }}</p>
+        <p class="wrong-answer">❌ Your Answer: {{ res.selected if res.selected else "No answer selected" }}</p>
+        <p class="correct-answer">✅ Correct Answer: {{ res.correct }}</p>
       {% endif %}
     </div>
   {% endfor %}
