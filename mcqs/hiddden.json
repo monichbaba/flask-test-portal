@@ -1,222 +1,223 @@
 [
   {
     "id": 1,
-    "question": "भारत में मौलिक अधिकारों को संविधान के किस भाग में रखा गया है? / In which part of the Constitution are Fundamental Rights included?",
+    "question": "निम्नलिखित में से कौन-सा अधिकार भारतीय संविधान में मूल अधिकार नहीं है, किंतु न्यायपालिका द्वारा मौलिक अधिकार का स्वरूप दिया गया है?",
     "options": {
-      "A": "भाग III / Part III",
-      "B": "भाग IV / Part IV",
-      "C": "भाग II / Part II",
-      "D": "प्रस्तावना / Preamble"
+      "A": "राइट टू प्राइवेसी (Right to Privacy)",
+      "B": "राइट टू एजुकेशन (Right to Education)",
+      "C": "राइट टू इनफॉर्मेशन (Right to Information)",
+      "D": "राइट टू वर्क (Right to Work)"
     },
     "answer": "A"
   },
   {
     "id": 2,
-    "question": "निम्न में से कौन-सा अधिकार भारत में अब मौलिक अधिकार नहीं है? / Which of the following is no longer a Fundamental Right in India?",
+    "question": "मेनका गांधी बनाम भारत सरकार (1978) में सर्वोच्च न्यायालय ने किस अनुच्छेद की व्याख्या करते हुए 'नैसर्गिक न्याय' की अवधारणा को मूल अधिकारों में जोड़ा?",
     "options": {
-      "A": "संपत्ति का अधिकार / Right to Property",
-      "B": "धर्म की स्वतंत्रता / Freedom of Religion",
-      "C": "जीवन और व्यक्तिगत स्वतंत्रता / Right to Life and Liberty",
-      "D": "शिक्षा का अधिकार / Right to Education"
-    },
-    "answer": "A"
-  },
-  {
-    "id": 3,
-    "question": "अनुच्छेद 21 के तहत क्या गारंटी दी गई है? / What is guaranteed under Article 21?",
-    "options": {
-      "A": "शांति का अधिकार / Right to Peace",
-      "B": "जीवन और व्यक्तिगत स्वतंत्रता का अधिकार / Right to Life and Personal Liberty",
-      "C": "श्रम का अधिकार / Right to Work",
-      "D": "समान वेतन का अधिकार / Right to Equal Pay"
+      "A": "अनुच्छेद 19",
+      "B": "अनुच्छेद 21",
+      "C": "अनुच्छेद 22",
+      "D": "अनुच्छेद 32"
     },
     "answer": "B"
   },
   {
-    "id": 4,
-    "question": "कौन-सा मौलिक अधिकार 'नागरिकों' तक ही सीमित है? / Which Fundamental Right is limited only to citizens?",
+    "id": 3,
+    "question": "केसवानंद भारती बनाम केरल राज्य (1973) निर्णय के संबंध में कौन-सा कथन सत्य है?",
     "options": {
-      "A": "अभिव्यक्ति की स्वतंत्रता / Freedom of Speech",
-      "B": "धर्म की स्वतंत्रता / Freedom of Religion",
-      "C": "जीवन का अधिकार / Right to Life",
-      "D": "न्याय का अधिकार / Right to Constitutional Remedies"
+      "A": "संसद संविधान में किसी भी प्रकार का संशोधन कर सकती है।",
+      "B": "मूल अधिकार स्थायी नहीं होते।",
+      "C": "संविधान की मूल संरचना को संशोधित नहीं किया जा सकता।",
+      "D": "न्यायपालिका संविधान संशोधन को रद्द नहीं कर सकती।"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 4,
+    "question": "अनुच्छेद 15(3) और 15(4) के संदर्भ में किस संशोधन द्वारा राज्य को सामाजिक और शैक्षिक पिछड़े वर्गों के लिए विशेष उपबंध बनाने की अनुमति दी गई?",
+    "options": {
+      "A": "1st संशोधन",
+      "B": "42nd संशोधन",
+      "C": "93rd संशोधन",
+      "D": "86th संशोधन"
     },
     "answer": "A"
   },
   {
     "id": 5,
-    "question": "निम्नलिखित में से कौन-सा अनुच्छेद 'समानता के अधिकार' से संबंधित नहीं है? / Which of the following Articles is NOT related to Right to Equality?",
+    "question": "संपत्ति का अधिकार अब मूल अधिकार नहीं है। यह परिवर्तन किस संशोधन के माध्यम से किया गया?",
     "options": {
-      "A": "अनुच्छेद 14 / Article 14",
-      "B": "अनुच्छेद 15 / Article 15",
-      "C": "अनुच्छेद 19 / Article 19",
-      "D": "अनुच्छेद 18 / Article 18"
+      "A": "42nd संशोधन",
+      "B": "44th संशोधन",
+      "C": "24th संशोधन",
+      "D": "86th संशोधन"
     },
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 6,
-    "question": "'राइट टू एजुकेशन' किस अनुच्छेद के अंतर्गत है? / Under which Article is the Right to Education included?",
+    "question": "Right to Education को Fundamental Right कब घोषित किया गया?",
     "options": {
-      "A": "अनुच्छेद 45 / Article 45",
-      "B": "अनुच्छेद 21A / Article 21A",
-      "C": "अनुच्छेद 19 / Article 19",
-      "D": "अनुच्छेद 29 / Article 29"
+      "A": "1992 के बाद",
+      "B": "86th Amendment, 2002 के द्वारा",
+      "C": "P.A. Inamdar केस द्वारा",
+      "D": "Unnikrishnan Judgment (1993) के द्वारा"
     },
     "answer": "B"
   },
   {
     "id": 7,
-    "question": "‘Writ Jurisdiction’ किस अनुच्छेद से संबंधित है? / Which Article is related to the Writ Jurisdiction?",
+    "question": "Puttaswamy Judgment (2017) के अनुसार, Right to Privacy किस पर आधारित मौलिक अधिकार है?",
     "options": {
-      "A": "अनुच्छेद 32 / Article 32",
-      "B": "अनुच्छेद 14 / Article 14",
-      "C": "अनुच्छेद 356 / Article 356",
-      "D": "अनुच्छेद 124 / Article 124"
-    },
-    "answer": "A"
-  },
-  {
-    "id": 8,
-    "question": "मौलिक अधिकारों का उल्लंघन होने पर व्यक्ति कहां जा सकता है? / Where can a person go if their Fundamental Rights are violated?",
-    "options": {
-      "A": "ग्राम सभा / Gram Sabha",
-      "B": "राज्यपाल / Governor",
-      "C": "सुप्रीम कोर्ट / Supreme Court",
-      "D": "पंचायत / Panchayat"
+      "A": "19, 21 और 25",
+      "B": "19 और 22",
+      "C": "14, 19 और 21",
+      "D": "14 और 17"
     },
     "answer": "C"
   },
   {
-    "id": 9,
-    "question": "‘हबीयस कॉर्पस’ रिट किस स्थिति में जारी की जाती है? / In which situation is the Habeas Corpus writ issued?",
+    "id": 8,
+    "question": "संसद किस स्थिति में अनुच्छेद 13 के अंतर्गत मौलिक अधिकारों को शून्य कर सकती है?",
     "options": {
-      "A": "मजदूरी विवाद / Labour Disputes",
-      "B": "अवैध हिरासत / Illegal Detention",
-      "C": "चुनावी धोखाधड़ी / Electoral Fraud",
-      "D": "टैक्स चोरी / Tax Evasion"
+      "A": "केवल संविधान संशोधन के माध्यम से",
+      "B": "साधारण विधेयक से",
+      "C": "अंतरिम अध्यादेश द्वारा",
+      "D": "कोई भी तरीका नहीं है"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 9,
+    "question": "Doctrine of Eclipse का संबंध किससे है?",
+    "options": {
+      "A": "मूल संरचना सिद्धांत से",
+      "B": "पूर्ववर्ती कानूनों की वैधता से",
+      "C": "लोकतांत्रिक सिद्धांतों से",
+      "D": "आपातकालीन प्रावधानों से"
     },
     "answer": "B"
   },
   {
     "id": 10,
-    "question": "किस अनुच्छेद के तहत धार्मिक स्वतंत्रता दी गई है? / Under which Article is Freedom of Religion guaranteed?",
+    "question": "न्यायपालिका के अनुसार, 'Right to Marry' किस अनुच्छेद के अंतर्गत आता है?",
     "options": {
-      "A": "अनुच्छेद 25 / Article 25",
-      "B": "अनुच्छेद 19 / Article 19",
-      "C": "अनुच्छेद 30 / Article 30",
-      "D": "अनुच्छेद 32 / Article 32"
-    },
-    "answer": "A"
-  },
-  {
-    "id": 11,
-    "question": "भारत में कुल कितने मौलिक अधिकार हैं? / How many Fundamental Rights are there in India?",
-    "options": {
-      "A": "6",
-      "B": "7",
-      "C": "8",
-      "D": "10"
-    },
-    "answer": "A"
-  },
-  {
-    "id": 12,
-    "question": "मूल रूप से संविधान में कितने मौलिक अधिकार थे? / How many Fundamental Rights were originally in the Constitution?",
-    "options": {
-      "A": "5",
-      "B": "6",
-      "C": "7",
-      "D": "8"
+      "A": "Article 14",
+      "B": "Article 19",
+      "C": "Article 21",
+      "D": "Article 25"
     },
     "answer": "C"
   },
   {
-    "id": 13,
-    "question": "निम्न में से कौन-सा मौलिक अधिकार शिक्षण संस्थानों से संबंधित है? / Which Fundamental Right relates to educational institutions?",
+    "id": 11,
+    "question": "संविधान के किस भाग में मौलिक अधिकार वर्णित हैं?",
     "options": {
-      "A": "अनुच्छेद 29 / Article 29",
-      "B": "अनुच्छेद 17 / Article 17",
-      "C": "अनुच्छेद 21 / Article 21",
-      "D": "अनुच्छेद 19 / Article 19"
+      "A": "भाग 2",
+      "B": "भाग 3",
+      "C": "भाग 4",
+      "D": "भाग 5"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 12,
+    "question": "किस अनुच्छेद के अंतर्गत राष्ट्रपति आपातकाल की स्थिति में मौलिक अधिकारों को निलंबित कर सकता है?",
+    "options": {
+      "A": "अनुच्छेद 356",
+      "B": "अनुच्छेद 360",
+      "C": "अनुच्छेद 352",
+      "D": "अनुच्छेद 359"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 13,
+    "question": "Supreme Court ने Right to Die को किस आधार पर अस्वीकार किया?",
+    "options": {
+      "A": "यह Article 21 का उल्लंघन करता है।",
+      "B": "यह Article 19 का उल्लंघन करता है।",
+      "C": "यह नैतिक रूप से अनुचित है।",
+      "D": "कोई स्पष्ट निर्णय नहीं है।"
     },
     "answer": "A"
   },
   {
     "id": 14,
-    "question": "किस अनुच्छेद के अंतर्गत अस्पृश्यता को अपराध घोषित किया गया है? / Under which Article is untouchability declared an offense?",
+    "question": "Equality before law and equal protection of laws किस अनुच्छेद में वर्णित है?",
     "options": {
-      "A": "अनुच्छेद 14 / Article 14",
-      "B": "अनुच्छेद 15 / Article 15",
-      "C": "अनुच्छेद 17 / Article 17",
-      "D": "अनुच्छेद 19 / Article 19"
-    },
-    "answer": "C"
-  },
-  {
-    "id": 15,
-    "question": "मौलिक अधिकारों पर प्रतिबंध किस स्थिति में लगाया जा सकता है? / When can restrictions be imposed on Fundamental Rights?",
-    "options": {
-      "A": "आपातकाल / Emergency",
-      "B": "निर्वाचन / Election",
-      "C": "विकास कार्य / Development Work",
-      "D": "धार्मिक उत्सव / Religious Festival"
+      "A": "अनुच्छेद 14",
+      "B": "अनुच्छेद 16",
+      "C": "अनुच्छेद 19",
+      "D": "अनुच्छेद 21"
     },
     "answer": "A"
   },
   {
-    "id": 16,
-    "question": "किस अनुच्छेद में भाषायी अल्पसंख्यकों को संरक्षण दिया गया है? / Which Article provides protection to linguistic minorities?",
+    "id": 15,
+    "question": "Nabam Rebia judgment का किस मौलिक सिद्धांत से संबंध है?",
     "options": {
-      "A": "अनुच्छेद 27 / Article 27",
-      "B": "अनुच्छेद 30 / Article 30",
-      "C": "अनुच्छेद 14 / Article 14",
-      "D": "अनुच्छेद 19 / Article 19"
+      "A": "Freedom of speech",
+      "B": "Doctrine of Basic Structure",
+      "C": "Speaker की निष्पक्षता",
+      "D": "Right to Equality"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 16,
+    "question": "Kesavananda Bharati केस का परिणाम क्या था?",
+    "options": {
+      "A": "आपातकाल घोषित हुआ",
+      "B": "मूल संरचना सिद्धांत स्थापित हुआ",
+      "C": "RTI लागू हुआ",
+      "D": "संपत्ति का अधिकार हटाया गया"
     },
     "answer": "B"
   },
   {
     "id": 17,
-    "question": "‘प्रारंभिक शिक्षा’ का अधिकार किस आयु वर्ग के लिए लागू है? / Right to Elementary Education is for which age group?",
+    "question": "कौन सा अधिकार केवल भारतीय नागरिकों को उपलब्ध है?",
     "options": {
-      "A": "3 से 6 वर्ष / 3 to 6 years",
-      "B": "6 से 14 वर्ष / 6 to 14 years",
-      "C": "14 से 18 वर्ष / 14 to 18 years",
-      "D": "18 से 21 वर्ष / 18 to 21 years"
+      "A": "Right to Equality",
+      "B": "Freedom of Speech and Expression",
+      "C": "Right to Life",
+      "D": "Freedom of Religion"
     },
     "answer": "B"
   },
   {
     "id": 18,
-    "question": "‘समान कार्य के लिए समान वेतन’ किस अधिकार से संबंधित है? / ‘Equal pay for equal work’ is part of which right?",
+    "question": "न्यायालय ने 'Triple Talaq' को किस मौलिक अधिकार का उल्लंघन माना?",
     "options": {
-      "A": "सामाजिक अधिकार / Social Right",
-      "B": "नैतिक अधिकार / Moral Right",
-      "C": "न्यायिक अधिकार / Legal Right",
-      "D": "मौलिक कर्तव्य / Fundamental Duty"
-    },
-    "answer": "C"
-  },
-  {
-    "id": 19,
-    "question": "न्यायालय में याचिका दाखिल करने का अधिकार किस अनुच्छेद में है? / Which Article allows the right to move to courts?",
-    "options": {
-      "A": "अनुच्छेद 32 / Article 32",
-      "B": "अनुच्छेद 21 / Article 21",
-      "C": "अनुच्छेद 19 / Article 19",
-      "D": "अनुच्छेद 17 / Article 17"
+      "A": "Article 14",
+      "B": "Article 19",
+      "C": "Article 25",
+      "D": "Article 29"
     },
     "answer": "A"
   },
   {
-    "id": 20,
-    "question": "कौन-सी संस्था मौलिक अधिकारों की संरक्षक मानी जाती है? / Which body is considered the guardian of Fundamental Rights?",
-    "options": {
-      "A": "संसद / Parliament",
-      "B": "राष्ट्रपति / President",
-      "C": "सुप्रीम कोर्ट / Supreme Court",
-      "D": "राज्यपाल / Governor"
-    },
-    "answer": "C"
-  }
+  "id": 19,
+  "question": "किस निर्णय में Supreme Court ने कहा कि 'निजता का अधिकार मौलिक अधिकार है'?",
+  "options": {
+    "A": "Maneka Gandhi Case",
+    "B": "A.K. Gopalan Case",
+    "C": "K.S. Puttaswamy Case",
+    "D": "Minerva Mills Case"
+  },
+  "answer": "C"
+},
+{
+  "id": 20,
+  "question": "किस निर्णय में Supreme Court ने कहा कि 'निजता का अधिकार मौलिक अधिकार है'?",
+  "options": {
+    "A": "Maneka Gandhi Case",
+    "B": "A.K. Gopalan Case",
+    "C": "K.S. Puttaswamy Case",
+    "D": "Minerva Mills Case"
+  },
+  "answer": "C"
+}
 ]
+

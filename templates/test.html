@@ -1,23 +1,50 @@
-
 <!DOCTYPE html>
 <html>
 <head>
-    <title>MCQ Test</title>
+  <h1 style="
+    background: linear-gradient(to right, #ff6a00, #ee0979);
+    -webkit-background-clip: text;
+    color: transparent;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+">
+  Current Revision
+</h1>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    .option-box {
+      border-radius: 10px;
+      padding: 10px;
+      margin: 5px 0;
+    }
+    .A { background-color: #e0f7fa; }
+    .B { background-color: #e8f5e9; }
+    .C { background-color: #fff3e0; }
+    .D { background-color: #fce4ec; }
+  </style>
 </head>
-<body>
-    <h2>📝 Answer All Questions</h2>
-    <form method="POST">
-        {% for q in questions %}
-            <div>
-                <p><strong>{{ loop.index }}. {{ q.question }}</strong></p>
-                {% for key, text in q.options.items() %}
-                    <label>
-                        <input type="checkbox" name="q{{ loop.index0 }}" value="{{ key }}"> {{ text }}
-                    </label><br>
-                {% endfor %}
-            </div>
-        {% endfor %}
-        <button type="submit">Submit</button>
+<body class="bg-light">
+  <div class="container mt-4">
+    <h2 class="mb-4">📝 MCQ Test</h2>
+    <form method="post" action="/submit">
+      {% for q in questions %}
+        <div class="card mb-4 shadow">
+          <div class="card-header fw-bold">
+            Q{{ q.id }}. {{ q.question }}
+          </div>
+          <div class="card-body">
+            {% for key, value in q.options.items() %}
+              <div class="form-check option-box {{ key }}">
+                <input class="form-check-input" type="checkbox" name="q{{ q.id }}" value="{{ key }}" id="{{ q.id }}{{ key }}">
+                <label class="form-check-label" for="{{ q.id }}{{ key }}">
+                  <strong>{{ key }}:</strong> {{ value }}
+                </label>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+      {% endfor %}
+      <button type="submit" class="btn btn-primary">Submit</button>
     </form>
+  </div>
 </body>
 </html>

@@ -1,30 +1,43 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Test Result</title>
-  <style>
-    .correct-answer { background-color: #d4edda; padding: 5px; }
-    .wrong-answer { background-color: #f8d7da; padding: 5px; }
-    .question-box {
-      border: 1px solid #ccc;
-      margin-bottom: 15px;
-      padding: 10px;
-      border-radius: 5px;
-    }
-  </style>
+  <title>Result</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
-<body>
-  <h2>📊 Test Results</h2>
-  {% for res in results %}
-    <div class="question-box">
-      <p><strong>{{ loop.index }}. {{ res.question }}</strong></p>
-      {% if res.is_correct %}
-        <p class="correct-answer">✅ Your Answer: {{ res.selected }}</p>
-      {% else %}
-        <p class="wrong-answer">❌ Your Answer: {{ res.selected if res.selected else "No answer selected" }}</p>
-        <p class="correct-answer">✅ Correct Answer: {{ res.correct }}</p>
-      {% endif %}
-    </div>
-  {% endfor %}
+<body class="bg-white">
+  <div class="container mt-5">
+    <h2>📊 Current Revision Result</h2>
+
+    {% for r in results %}
+      <div class="card mb-3 shadow">
+        <div class="card-header bg-info text-white">
+          {{ r.question }}
+        </div>
+        <div class="card-body">
+          <p><strong>Correct Answer:</strong> 
+            {% for c in r.correct %}
+              <span class="badge bg-success">{{ c }}</span>
+            {% endfor %}
+          </p>
+
+          <p><strong>Your Answer:</strong>
+            {% if r.selected %}
+              {% for s in r.selected %}
+                <span class="badge bg-{{ 'success' if s in r.correct else 'danger' }}">{{ s }}</span>
+              {% endfor %}
+            {% else %}
+              <span class="text-muted">No answer selected</span>
+            {% endif %}
+          </p>
+
+          {% if r.is_correct %}
+            <p class="text-success fw-bold">✅ Correct</p>
+          {% else %}
+            <p class="text-danger fw-bold">❌ Incorrect</p>
+          {% endif %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
 </body>
 </html>

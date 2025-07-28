@@ -1,71 +1,55 @@
-from flask import Flask, render_template, request, redirect, session, url_for
+from flask import Flask, render_template, request, redirect, session
 import json
+import os
 
 app = Flask(__name__)
-app.secret_key = "your-secret-key"
+app.secret_key = 'secret123'  # Session secret
 
-# Load questions from JSON
-def load_questions():
-    with open("mcqs/questions.json", encoding='utf-8') as f:
-        return json.load(f)
-
-@app.route("/", methods=["GET", "POST"])
-def index():
-    if request.method == "POST":
-        return redirect("/password")
-    return render_template("index.html")
-
-@app.route("/password", methods=["GET", "POST"])
+# ✅ Password page (GET + POST)
+@app.route('/', methods=['GET', 'POST'])
 def password():
-    if request.method == "POST":
-        entered = request.form.get("password")
-        if entered == "jaishreeram":
-            session["authenticated"] = True
-            return redirect("/test")
+    if request.method == 'POST':
+        if request.form.get('password') == '123':
+            session['authenticated'] = True
+            return redirect('/test')
         else:
-            return render_template("password.html", error="Wrong password.")
-    return render_template("password.html")
+            return render_template('password.html', error="❌ Incorrect password")
+    return render_template('password.html')
 
-@app.route("/test", methods=["GET", "POST"])
+# ✅ Test page
+@app.route('/test')
 def test():
-    if not session.get("authenticated"):
-        return redirect("/password")
+    if not session.get('authenticated'):
+        return redirect('/')
+    with open(os.path.join('mcqs', 'questions.json'), 'r', encoding='utf-8') as f:
+        questions = json.load(f)
+    return render_template('test.html', questions=questions)
 
-    questions = load_questions()
+# ✅ Submit answers and show result
+@app.route('/submit', methods=['POST'])
+def submit():
+    if not session.get('authenticated'):
+        return redirect('/')
+    with open(os.path.join('mcqs', 'questions.json'), 'r', encoding='utf-8') as f:
+        questions = json.load(f)
 
-    if request.method == "POST":
-        score = 0
-        results = []
+    results = []
 
-        for idx, question in enumerate(questions):
-            selected = request.form.getlist(f"q{idx}")
-            correct = set(question["answer"])
-            selected_set = set(selected)
-            is_correct = selected_set == correct
+    for q in questions:
+        qid = str(q["id"])
+        correct = q["answer"]
+        selected = request.form.get(qid)
 
-            # Map keys to text, remove duplicate text by converting to dict
-            option_map = question["options"]
-            selected_texts = list(dict.fromkeys([option_map[key] for key in selected]))
-            correct_texts = [option_map[key] for key in correct]
+        results.append({
+            "question": q["question"],
+            "options": q["options"],
+            "correct": correct,
+            "selected": selected,
+            "is_correct": selected == correct
+        })
 
-            if is_correct:
-                score += 1
+    return render_template('result.html', results=results)
 
-            results.append({
-                "question": question["question"],
-                "selected": selected_texts,
-                "correct": correct_texts,
-                "is_correct": is_correct
-            })
-
-        return render_template("result.html", results=results, score=score, total=len(questions))
-
-    return render_template("test.html", questions=questions)
-
-@app.route("/logout")
-def logout():
-    session.clear()
-    return redirect("/")
-
-if __name__ == "__main__":
+# ✅ Run app
+if __name__ == '__main__':
     app.run(debug=True)
