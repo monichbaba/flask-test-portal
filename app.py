@@ -13,7 +13,7 @@ QUESTIONS_PATH = os.path.join(BASE_DIR, 'mcqs', 'questions.json')
 @app.route('/', methods=['GET', 'POST'])
 def password():
     if request.method == 'POST':
-        if request.form.get('password') == '123':
+        if request.form.get('password') == 'jaishreeram':
             session['authenticated'] = True
             return redirect('/test')
         else:
