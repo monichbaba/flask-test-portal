@@ -1,112 +1,122 @@
 [
   {
     "id": 1,
-    "question": "निम्नलिखित में से कौन-सा अधिकार मूल अधिकारों में स्पष्ट रूप से नहीं लिखा गया है, लेकिन न्यायपालिका द्वारा Article 21 के अंतर्गत व्युत्पन्न किया गया है?",
-    "options": {
-      "A": "राइट टू डाई विद डिग्निटी (Right to Die with Dignity)",
-      "B": "राइट टू एजुकेशन (Right to Education)",
-      "C": "राइट टू मूवमेंट (Right to Movement)",
-      "D": "राइट टू लाइफ (Right to Life)"
-    },
-    "answer": "A"
+    "question": "G-20 का स्थायी सचिवालय कहाँ स्थित है? (Where is the permanent G-20 Secretariat located?)",
+    "options": ["Geneva", "New Delhi", "There is no permanent secretariat", "Brussels"],
+    "answer": "There is no permanent secretariat"
   },
   {
     "id": 2,
-    "question": "यदि कोई कानून Article 19(1)(c) के तहत संघ बनाने के अधिकार को प्रतिबंधित करता है, तो यह कब वैध माना जा सकता है?",
-    "options": {
-      "A": "जब यह पब्लिक ऑर्डर के हित में हो",
-      "B": "जब यह सोशियल ऑर्डर के लिए जरूरी हो",
-      "C": "जब यह संविधान संशोधन के तहत हो",
-      "D": "जब यह राष्ट्रीय सुरक्षा के लिए आवश्यक हो"
-    },
-    "answer": "D"
+    "question": "हाल ही में G-20 में अफ़्रीकी संघ को क्या दर्जा दिया गया है? (What status has the African Union recently received in the G-20?)",
+    "options": ["Observer", "Member", "Partner Country", "Guest Invitee"],
+    "answer": "Member"
   },
   {
     "id": 3,
-    "question": "यदि किसी नागरिक के भाषायी या सांस्कृतिक अधिकारों का हनन होता है, तो वह किस Article के तहत सर्वोच्च न्यायालय में सीधे याचिका दाखिल कर सकता है?",
-    "options": {
-      "A": "Article 32",
-      "B": "Article 226",
-      "C": "Article 29",
-      "D": "Article 21"
-    },
-    "answer": "A"
+    "question": "BRICS समूह के विस्तार में निम्न में से कौन शामिल नहीं हुआ? (Which of the following countries was NOT part of the recent BRICS expansion?)",
+    "options": ["Egypt", "Argentina", "Ethiopia", "Saudi Arabia"],
+    "answer": "Argentina"
   },
   {
     "id": 4,
-    "question": "निम्नलिखित में से किस न्यायिक निर्णय ने 'Procedure established by law' की व्याख्या को 'Due Process of Law' के समकक्ष बना दिया?",
-    "options": {
-      "A": "Maneka Gandhi v. Union of India",
-      "B": "A.K. Gopalan v. State of Madras",
-      "C": "Golaknath v. State of Punjab",
-      "D": "Indira Gandhi v. Raj Narain"
-    },
-    "answer": "A"
+    "question": "2024 में जारी WHO की रिपोर्ट में किस बीमारी को अगली संभावित महामारी बताया गया? (Which disease has WHO indicated as the next potential pandemic?)",
+    "options": ["Nipah Virus", "Disease X", "Zika", "H5N1 Flu"],
+    "answer": "Disease X"
   },
   {
     "id": 5,
-    "question": "अगर संसद कोई ऐसा कानून बनाती है जो Article 15(1) के तहत 'जाति के आधार पर भेदभाव' करता है लेकिन उसे 9वीं अनुसूची में डाल देती है, तो उसे किस आधार पर चुनौती दी जा सकती है?",
-    "options": {
-      "A": "Doctrine of Eclipse",
-      "B": "Basic Structure Doctrine",
-      "C": "Doctrine of Harmonious Construction",
-      "D": "Doctrine of Territorial Nexus"
-    },
-    "answer": "B"
+    "question": "United Nations में  veto power reform पर भारत का क्या रुख है? (What is Indias position on veto reform in the UN?)",
+    "options": ["Remove veto power entirely", "Retain veto only for P5", "Expand veto to new members", "No comment"],
+    "answer": "Expand veto to new members"
   },
   {
     "id": 6,
-    "question": "‘न्याय, स्वतंत्रता, समानता और बंधुत्व’ का विचार संविधान के किस भाग में अंतर्निहित है, जो मौलिक अधिकारों की व्याख्या में मार्गदर्शक होता है?",
-    "options": {
-      "A": "अनुच्छेद 13",
-      "B": "संविधान की प्रस्तावना (Preamble)",
-      "C": "अनुच्छेद 21",
-      "D": "अनुच्छेद 38"
-    },
-    "answer": "B"
+    "question": "हाल ही में किस देश ने 'AI Safety Summit 2024' की मेजबानी की? (Which country recently hosted the AI Safety Summit 2024?)",
+    "options": ["UK", "USA", "Germany", "Japan"],
+    "answer": "UK"
   },
   {
     "id": 7,
-    "question": "यदि कोई राज्य सरकार SC/ST विद्यार्थियों को छात्रवृत्ति प्रदान करती है लेकिन अन्य पिछड़े वर्ग (OBC) को नहीं, तो क्या यह Article 15(1) के तहत असंवैधानिक होगा?",
-    "options": {
-      "A": "हाँ, क्योंकि यह वर्ग विशेष का पक्षपात करता है",
-      "B": "नहीं, क्योंकि Article 15(4) सामाजिक पिछड़े वर्गों के लिए विशेष प्रावधान की अनुमति देता है",
-      "C": "हाँ, क्योंकि Article 14 का उल्लंघन है",
-      "D": "नहीं, क्योंकि यह Directive Principles के तहत आता है"
-    },
-    "answer": "B"
+    "question": "G-20 की स्थापना का मुख्य उद्देश्य क्या था? (What was the primary purpose behind the formation of G-20?)",
+    "options": ["Climate governance", "Global health coordination", "International trade regulation", "Financial stability"],
+    "answer": "Financial stability"
   },
   {
     "id": 8,
-    "question": "निम्नलिखित में से कौन-सा मौलिक अधिकार 'Negative Right' माना जाता है, जो राज्य को किसी कार्य से रोकता है?",
-    "options": {
-      "A": "Article 19 - भाषण और अभिव्यक्ति की स्वतंत्रता",
-      "B": "Article 21A - शिक्षा का अधिकार",
-      "C": "Article 24 - बच्चों को खतरनाक उद्योगों में काम से रोकना",
-      "D": "Article 17 - अस्पृश्यता का उन्मूलन"
-    },
-    "answer": "A"
+    "question": "कौन सा G-20 समूह का स्थायी सदस्य नहीं है? (Which of the following is NOT a permanent member of G-20?)",
+    "options": ["Spain", "Russia", "Japan", "Mexico"],
+    "answer": "Spain"
   },
   {
     "id": 9,
-    "question": "कोई गैर-सरकारी स्कूल अगर एक छात्रा को धर्म के आधार पर प्रवेश नहीं देता, तो क्या यह मौलिक अधिकार का उल्लंघन है?",
-    "options": {
-      "A": "हाँ, क्योंकि Article 15(2) सभी नागरिकों पर लागू होता है",
-      "B": "नहीं, क्योंकि Article 15 केवल राज्य पर लागू होता है",
-      "C": "हाँ, क्योंकि निजी संस्थान भी राज्य की परिभाषा में आते हैं",
-      "D": "नहीं, क्योंकि शिक्षा देना निजी अधिकार है"
-    },
-    "answer": "B"
+    "question": "UNFCCC COP-29 की मेजबानी किस देश को मिली? (Which country is hosting UNFCCC COP-29?)",
+    "options": ["Brazil", "UAE", "Azerbaijan", "India"],
+    "answer": "Azerbaijan"
   },
   {
     "id": 10,
-    "question": "Supreme Court द्वारा ‘Right to Shelter’ को मौलिक अधिकार के रूप में मान्यता किस आधार पर दी गई?",
-    "options": {
-      "A": "Directive Principles के तहत",
-      "B": "Article 19 के तहत",
-      "C": "Article 21 की व्यापक व्याख्या के तहत",
-      "D": "Article 38 के तहत"
-    },
-    "answer": "C"
+    "question": "भारत की G-20 Presidency में कौन-सा document प्रमुख था? (Which document was key during India's G-20 Presidency?)",
+    "options": ["Green Deal Charter", "Delhi Declaration", "Digital Finance Act", "Bharat Innovation Pact"],
+    "answer": "Delhi Declaration"
+  },
+  {
+    "id": 11,
+    "question": "Israel-Gaza संघर्ष में 2024 में पहली बार किसने मध्यस्थता की कोशिश की? (Who attempted mediation in the 2024 Israel-Gaza conflict for the first time?)",
+    "options": ["France", "China", "India", "South Africa"],
+    "answer": "China"
+  },
+  {
+    "id": 12,
+    "question": "कौन-सा संगठन 'One Future' थीम से जुड़ा है? (Which organization was linked with the 'One Future' theme?)",
+    "options": ["G-7", "G-20", "UNESCO", "SAARC"],
+    "answer": "G-20"
+  },
+  {
+    "id": 13,
+    "question": "किस देश ने हाल ही में 'AI Bill of Rights' जारी किया है? (Which country recently released the 'AI Bill of Rights'?)",
+    "options": ["USA", "India", "EU", "Canada"],
+    "answer": "USA"
+  },
+  {
+    "id": 14,
+    "question": "G-20 के अंतर्गत  Startup20 initiative का नेतृत्व किसने किया? (Who led the Startup20 initiative under G-20?)",
+    "options": ["France", "India", "Australia", "Germany"],
+    "answer": "India"
+  },
+  {
+    "id": 15,
+    "question": "कौन-सी संस्था जलवायु वित्त  Climate Finance पर निगरानी रखती है? (Which body oversees climate finance globally?)",
+    "options": ["IPCC", "Green Climate Fund", "UNESCO", "OECD"],
+    "answer": "Green Climate Fund"
+  },
+  {
+    "id": 16,
+    "question": "हाल ही में किस देश ने NATO छोड़ने की घोषणा की थी? (Which country recently announced intention to exit NATO?)",
+    "options": ["Turkey", "Hungary", "France", "None of the above"],
+    "answer": "None of the above"
+  },
+  {
+    "id": 17,
+    "question": "भारत किस global cybersecurity pact का हिस्सा है? (India is a part of which global cybersecurity agreement?)",
+    "options": ["Budapest Convention", "Paris Call", "Tallinn Manual", "Geneva Protocol"],
+    "answer": "Paris Call"
+  },
+  {
+    "id": 18,
+    "question": "Climate Loss and Damage Fund की स्थापना कब हुई? (When was the Climate Loss and Damage Fund established?)",
+    "options": ["COP-26", "COP-27", "COP-28", "COP-29"],
+    "answer": "COP-27"
+  },
+  {
+    "id": 19,
+    "question": "भारत की G-20 Presidency किस सिद्धांत पर आधारित थी? (India's G-20 Presidency was based on which principle?)",
+    "options": ["Collective Growth", "Vasudhaiva Kutumbakam", "Inclusive Finance", "One World, One Bank"],
+    "answer": "Vasudhaiva Kutumbakam"
+  },
+  {
+    "id": 20,
+    "question": "EU AI Act किस प्रकार की तकनीक को सबसे अधिक regulate करता है? (The EU AI Act primarily regulates which type of AI?)",
+    "options": ["Low-risk AI", "Social Media Filters", "High-risk AI", "Chatbots"],
+    "answer": "High-risk AI"
   }
 ]
