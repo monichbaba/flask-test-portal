@@ -1,112 +1,57 @@
 [
   {
     "id": 1,
-    "question": "भारत में मौलिक अधिकारों को न्यायालय द्वारा लागू किया जा सकता है। क्या अमेरिका में 'Bill of Rights' के अंतर्गत यही judicial enforceability की गारंटी होती है?",
+    "question": "Right to Equality (Article 14–18) का सम्बन्ध किन संविधानिक प्रावधानों से प्रत्यक्ष या अप्रत्यक्ष रूप से होता है? / Which constitutional provisions directly or indirectly relate to the Right to Equality (Articles 14–18)?",
     "options": {
-      "A": "Yes, but only for citizens.",
-      "B": "No, US Bill of Rights is not justiciable.",
-      "C": "Yes, and even non-citizens have some rights enforceable.",
-      "D": "Only the President can enforce rights in the US."
+      "A": "अनुच्छेद 335 – SCs और STs के सेवा और पदों में दावे / Article 335 – Claims of SCs and STs to services and posts",
+      "B": "अनुच्छेद 31C – कुछ नीति निदेशक तत्वों को लागू करने वाले कानूनों की सुरक्षा / Article 31C – Saving laws giving effect to certain Directive Principles",
+      "C": "अनुच्छेद 46 – SCs, STs और अन्य कमजोर वर्गों के हितों का संवर्धन / Article 46 – Promotion of SCs, STs and other weaker sections",
+      "D": "अनुच्छेद 368 – संविधान संशोधन की शक्ति / Article 368 – Power to amend the Constitution"
     },
-    "answer": "Yes, and even non-citizens have some rights enforceable."
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 2,
-    "question": "Right to Equality (Article 14) भारत में सभी के लिए है, परंतु क्या UK में ऐसा कोई codified fundamental right exist करता है?",
+    "question": "निम्नलिखित में से कौन से प्रावधान मौलिक अधिकारों की व्याख्या या सीमा निर्धारण करते हैं? / Which of the following provisions define or limit the scope of Fundamental Rights?",
     "options": {
-      "A": "Yes, under UK Human Rights Act 1998.",
-      "B": "No, UK follows unwritten conventions only.",
-      "C": "Only Parliament members enjoy such rights in UK.",
-      "D": "UK courts do not recognize equality before law."
+      "A": "अनुच्छेद 33 – सशस्त्र बलों पर मौलिक अधिकारों का प्रतिबंध / Article 33 – Restriction of FRs for Armed Forces",
+      "B": "अनुच्छेद 34 – आपातकालीन शक्तियाँ और क्षतिपूर्ति / Article 34 – Martial Law and Indemnity",
+      "C": "अनुच्छेद 13(2) – राज्य मौलिक अधिकारों के विरुद्ध कानून नहीं बना सकता / Article 13(2) – State cannot make laws violating FRs",
+      "D": "अनुच्छेद 39 – समान वेतन और नीति निदेशक तत्व / Article 39 – Equal pay and Directive Principles"
     },
-    "answer": "Yes, under UK Human Rights Act 1998."
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 3,
-    "question": "Article 19 में दिया गया freedom of speech क्या absolute है? अमेरिका में same freedom क्या 'clear and present danger' test से restrict किया जाता है?",
+    "question": "Right to Life (Article 21) के दायरे में निम्नलिखित में से कौन से तत्व न्यायिक रूप से शामिल किए गए हैं? / Which of the following elements have been judicially included under Article 21?",
     "options": {
-      "A": "Yes, both countries allow unrestricted speech.",
-      "B": "No, India has more restrictions than USA.",
-      "C": "Yes, India uses same test as USA.",
-      "D": "India does not allow political criticism; USA does."
+      "A": "स्वस्थ पर्यावरण का अधिकार / Right to Healthy Environment",
+      "B": "शिक्षा का अधिकार / Right to Education",
+      "C": "सूचना का अधिकार / Right to Information",
+      "D": "कर न देने का अधिकार / Right to not pay taxes"
     },
-    "answer": "No, India has more restrictions than USA."
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 4,
-    "question": "Right against self-incrimination (Article 20(3)) India mein hai. Kya USA mein bhi koi similar protection hai?",
+    "question": "Directive Principles of State Policy (DPSP) का कौन सा प्रावधान न्यायालयों द्वारा मौलिक अधिकारों के साथ जोड़ा गया है? / Which provision of DPSP has been linked with Fundamental Rights by the judiciary?",
     "options": {
-      "A": "Yes, under the 5th Amendment.",
-      "B": "No, forced confession is allowed in US.",
-      "C": "Only in civil cases it applies in US.",
-      "D": "Right to silence exists but not enforceable."
+      "A": "अनुच्छेद 38 – सामाजिक न्याय / Article 38 – Social Justice",
+      "B": "अनुच्छेद 39A – निःशुल्क विधिक सहायता / Article 39A – Free Legal Aid",
+      "C": "अनुच्छेद 44 – समान नागरिक संहिता / Article 44 – Uniform Civil Code",
+      "D": "अनुच्छेद 47 – शराबबंदी और पोषण / Article 47 – Prohibition and Nutrition"
     },
-    "answer": "Yes, under the 5th Amendment."
+    "answer": ["A", "B"]
   },
   {
     "id": 5,
-    "question": "भारत में writ jurisdiction SC और HC दोनों के पास है। क्या UK courts writs जैसे habeas corpus जारी कर सकती हैं?",
+    "question": "निम्नलिखित में से कौन से अधिकार मौलिक अधिकार और नीति निदेशक तत्वों दोनों में परिलक्षित होते हैं? / Which of the following rights are reflected both in Fundamental Rights and Directive Principles?",
     "options": {
-      "A": "Yes, but only with Parliament's permission.",
-      "B": "No, writs are not recognized in UK.",
-      "C": "Yes, UK courts can issue traditional writs.",
-      "D": "Only Supreme Court can issue writs in UK."
+      "A": "शिक्षा का अधिकार / Right to Education",
+      "B": "जीविका का अधिकार / Right to Livelihood",
+      "C": "धर्म की स्वतंत्रता / Freedom of Religion",
+      "D": "समान वेतन का अधिकार / Right to Equal Pay"
     },
-    "answer": "Yes, UK courts can issue traditional writs."
-  },
-  {
-    "id": 6,
-    "question": "Right to Constitutional Remedies (Article 32) को 'soul of Constitution' कहा गया। क्या US Constitution में aisa koi specific remedy clause hai?",
-    "options": {
-      "A": "No, remedies are left to state courts.",
-      "B": "Yes, but only for federal cases.",
-      "C": "No explicit clause like Article 32 exists.",
-      "D": "Yes, every amendment has its own remedy."
-    },
-    "answer": "No explicit clause like Article 32 exists."
-  },
-  {
-    "id": 7,
-    "question": "क्या Fundamental Rights automatically apply in private actions (जैसे private employers) India और USA दोनों में?",
-    "options": {
-      "A": "Yes, fully in both countries.",
-      "B": "Only in USA, not in India.",
-      "C": "No, generally they apply only against the State.",
-      "D": "In India, they apply even on private citizens."
-    },
-    "answer": "No, generally they apply only against the State."
-  },
-  {
-    "id": 8,
-    "question": "भारत में religion-based reservations allowed हैं या नहीं? क्या USA में भी affirmative action religion के आधार पर संभव है?",
-    "options": {
-      "A": "Yes in both, as long as it's for minorities.",
-      "B": "No in both, religion-based policies are banned.",
-      "C": "India allows religion-based quota, USA does not.",
-      "D": "USA allows religion-based affirmative action, India does not."
-    },
-    "answer": "India allows religion-based quota, USA does not."
-  },
-  {
-    "id": 9,
-    "question": "क्या UK में Fundamental Rights को amend करना भारत जितना कठिन है?",
-    "options": {
-      "A": "No, UK Parliament can change rights by simple majority.",
-      "B": "Yes, both follow rigid procedures.",
-      "C": "Only Supreme Court of UK can amend rights.",
-      "D": "Rights in UK are permanent and unchangeable."
-    },
-    "answer": "No, UK Parliament can change rights by simple majority."
-  },
-  {
-    "id": 10,
-    "question": "क्या Directive Principles को enforce ना करना fundamental rights violation माना जा सकता है?",
-    "options": {
-      "A": "Yes, SC can force implementation of DPSPs.",
-      "B": "No, DPSPs are non-justiciable.",
-      "C": "Only Parliament can decide this.",
-      "D": "DPSPs override Fundamental Rights if public interest demands."
-    },
-    "answer": "No, DPSPs are non-justiciable."
+    "answer": ["A", "B", "D"]
   }
 ]
