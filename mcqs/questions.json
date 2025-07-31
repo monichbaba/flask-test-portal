@@ -1,14 +1,112 @@
 [
   {
     "id": 1,
-    "question": "भारत का पहला राष्ट्रपति कौन था?",
-    "options": ["राजेन्द्र प्रसाद", "जवाहरलाल नेहरू", "सरदार पटेल", "डॉ. अम्बेडकर"],
-    "answer": "राजेन्द्र प्रसाद"
+    "question": "भारत में मौलिक अधिकारों को न्यायालय द्वारा लागू किया जा सकता है। क्या अमेरिका में 'Bill of Rights' के अंतर्गत यही judicial enforceability की गारंटी होती है?",
+    "options": {
+      "A": "Yes, but only for citizens.",
+      "B": "No, US Bill of Rights is not justiciable.",
+      "C": "Yes, and even non-citizens have some rights enforceable.",
+      "D": "Only the President can enforce rights in the US."
+    },
+    "answer": "Yes, and even non-citizens have some rights enforceable."
   },
   {
     "id": 2,
-    "question": "भारत का संविधान कब लागू हुआ?",
-    "options": ["15 अगस्त 1947", "26 जनवरी 1950", "2 अक्टूबर 1949", "26 नवंबर 1949"],
-    "answer": "26 जनवरी 1950"
+    "question": "Right to Equality (Article 14) भारत में सभी के लिए है, परंतु क्या UK में ऐसा कोई codified fundamental right exist करता है?",
+    "options": {
+      "A": "Yes, under UK Human Rights Act 1998.",
+      "B": "No, UK follows unwritten conventions only.",
+      "C": "Only Parliament members enjoy such rights in UK.",
+      "D": "UK courts do not recognize equality before law."
+    },
+    "answer": "Yes, under UK Human Rights Act 1998."
+  },
+  {
+    "id": 3,
+    "question": "Article 19 में दिया गया freedom of speech क्या absolute है? अमेरिका में same freedom क्या 'clear and present danger' test से restrict किया जाता है?",
+    "options": {
+      "A": "Yes, both countries allow unrestricted speech.",
+      "B": "No, India has more restrictions than USA.",
+      "C": "Yes, India uses same test as USA.",
+      "D": "India does not allow political criticism; USA does."
+    },
+    "answer": "No, India has more restrictions than USA."
+  },
+  {
+    "id": 4,
+    "question": "Right against self-incrimination (Article 20(3)) India mein hai. Kya USA mein bhi koi similar protection hai?",
+    "options": {
+      "A": "Yes, under the 5th Amendment.",
+      "B": "No, forced confession is allowed in US.",
+      "C": "Only in civil cases it applies in US.",
+      "D": "Right to silence exists but not enforceable."
+    },
+    "answer": "Yes, under the 5th Amendment."
+  },
+  {
+    "id": 5,
+    "question": "भारत में writ jurisdiction SC और HC दोनों के पास है। क्या UK courts writs जैसे habeas corpus जारी कर सकती हैं?",
+    "options": {
+      "A": "Yes, but only with Parliament's permission.",
+      "B": "No, writs are not recognized in UK.",
+      "C": "Yes, UK courts can issue traditional writs.",
+      "D": "Only Supreme Court can issue writs in UK."
+    },
+    "answer": "Yes, UK courts can issue traditional writs."
+  },
+  {
+    "id": 6,
+    "question": "Right to Constitutional Remedies (Article 32) को 'soul of Constitution' कहा गया। क्या US Constitution में aisa koi specific remedy clause hai?",
+    "options": {
+      "A": "No, remedies are left to state courts.",
+      "B": "Yes, but only for federal cases.",
+      "C": "No explicit clause like Article 32 exists.",
+      "D": "Yes, every amendment has its own remedy."
+    },
+    "answer": "No explicit clause like Article 32 exists."
+  },
+  {
+    "id": 7,
+    "question": "क्या Fundamental Rights automatically apply in private actions (जैसे private employers) India और USA दोनों में?",
+    "options": {
+      "A": "Yes, fully in both countries.",
+      "B": "Only in USA, not in India.",
+      "C": "No, generally they apply only against the State.",
+      "D": "In India, they apply even on private citizens."
+    },
+    "answer": "No, generally they apply only against the State."
+  },
+  {
+    "id": 8,
+    "question": "भारत में religion-based reservations allowed हैं या नहीं? क्या USA में भी affirmative action religion के आधार पर संभव है?",
+    "options": {
+      "A": "Yes in both, as long as it's for minorities.",
+      "B": "No in both, religion-based policies are banned.",
+      "C": "India allows religion-based quota, USA does not.",
+      "D": "USA allows religion-based affirmative action, India does not."
+    },
+    "answer": "India allows religion-based quota, USA does not."
+  },
+  {
+    "id": 9,
+    "question": "क्या UK में Fundamental Rights को amend करना भारत जितना कठिन है?",
+    "options": {
+      "A": "No, UK Parliament can change rights by simple majority.",
+      "B": "Yes, both follow rigid procedures.",
+      "C": "Only Supreme Court of UK can amend rights.",
+      "D": "Rights in UK are permanent and unchangeable."
+    },
+    "answer": "No, UK Parliament can change rights by simple majority."
+  },
+  {
+    "id": 10,
+    "question": "क्या Directive Principles को enforce ना करना fundamental rights violation माना जा सकता है?",
+    "options": {
+      "A": "Yes, SC can force implementation of DPSPs.",
+      "B": "No, DPSPs are non-justiciable.",
+      "C": "Only Parliament can decide this.",
+      "D": "DPSPs override Fundamental Rights if public interest demands."
+    },
+    "answer": "No, DPSPs are non-justiciable."
   }
 ]

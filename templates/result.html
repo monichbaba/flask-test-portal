@@ -6,7 +6,7 @@
 </head>
 <body class="bg-white">
   <div class="container mt-5">
-    <h2>📘 Indian Polity Revision Test</h2>
+    <h2>📊 Result</h2>
 
     {% for r in results %}
       <div class="card mb-3 shadow">
@@ -15,21 +15,17 @@
         </div>
         <div class="card-body">
           <p><strong>Correct Answer:</strong> 
-            {% for c in r.correct %}
-              <span class="badge bg-success">{{ c }}</span>
-            {% endfor %}
+            <span class="badge bg-success">{{ r.correct_answer_text }}</span>
           </p>
-
-          <p><strong>Your Answer:</strong>
-            {% if r.selected %}
-              {% for s in r.selected %}
-                <span class="badge bg-{{ 'success' if s in r.correct else 'danger' }}">{{ s }}</span>
-              {% endfor %}
+          <p><strong>Your Answer:</strong> 
+            {% if r.your_answer_text == "No option selected" %}
+              <span class="text-muted">No Answer Selected</span>
             {% else %}
-              <span class="text-muted">No answer selected</span>
+              <span class="badge bg-{{ 'success' if r.is_correct else 'danger' }}">
+                {{ r.your_answer_text }}
+              </span>
             {% endif %}
           </p>
-
           {% if r.is_correct %}
             <p class="text-success fw-bold">✅ Correct</p>
           {% else %}
@@ -38,6 +34,7 @@
         </div>
       </div>
     {% endfor %}
+
   </div>
 </body>
 </html>
