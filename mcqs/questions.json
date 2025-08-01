@@ -1,222 +1,258 @@
 [
   {
     "id": 1,
-    "question": "Which of the following rights has been declared as a part of Right to Life under Article 21? / निम्नलिखित में से किस अधिकार को अनुच्छेद 21 के तहत जीवन के अधिकार का हिस्सा घोषित किया गया है?",
+    "question": "Directive Principles को संविधान में किस भाग में रखा गया है? / In which part of the Constitution are the Directive Principles mentioned?",
     "options": {
-      "A": "Right to education / शिक्षा का अधिकार",
-      "B": "Right to vote / मतदान का अधिकार",
-      "C": "Right to property / संपत्ति का अधिकार",
-      "D": "Right to work / कार्य करने का अधिकार"
-    },
-    "answer": "A"
-  },
-  {
-    "id": 2,
-    "question": "In which case did the Supreme Court propound the doctrine of 'Basic Structure' of the Constitution? / सुप्रीम कोर्ट ने संविधान की 'मूल संरचना' के सिद्धांत को किस मामले में प्रतिपादित किया था?",
-    "options": {
-      "A": "Golak Nath Case / गोलक नाथ मामला",
-      "B": "Minerva Mills Case / मिनर्वा मिल्स मामला",
-      "C": "Kesavananda Bharati Case / केशवानंद भारती मामला",
-      "D": "A.K. Gopalan Case / ए.के. गोपालन मामला"
-    },
-    "answer": "C"
-  },
-  {
-    "id": 3,
-    "question": "Which Article of the Constitution deals with the Right to Constitutional Remedies? / संविधान का कौन-सा अनुच्छेद संवैधानिक उपचारों के अधिकार से संबंधित है?",
-    "options": {
-      "A": "Article 19",
-      "B": "Article 21",
-      "C": "Article 32",
-      "D": "Article 14"
-    },
-    "answer": "C"
-  },
-  {
-    "id": 4,
-    "question": "Right to Equality is ensured under which Articles of the Indian Constitution? / समानता का अधिकार भारतीय संविधान के किन अनुच्छेदों में सुनिश्चित किया गया है?",
-    "options": {
-      "A": "Articles 14 to 18 / अनुच्छेद 14 से 18",
-      "B": "Articles 19 to 22 / अनुच्छेद 19 से 22",
-      "C": "Articles 23 to 24 / अनुच्छेद 23 से 24",
-      "D": "Articles 25 to 28 / अनुच्छेद 25 से 28"
-    },
-    "answer": "A"
-  },
-  {
-    "id": 5,
-    "question": "Which of the following is not a Fundamental Right? / निम्नलिखित में से कौन एक मौलिक अधिकार नहीं है?",
-    "options": {
-      "A": "Right to Freedom / स्वतंत्रता का अधिकार",
-      "B": "Right to Property / संपत्ति का अधिकार",
-      "C": "Right to Equality / समानता का अधिकार",
-      "D": "Cultural and Educational Rights / सांस्कृतिक और शैक्षिक अधिकार"
+      "A": "भाग III / Part III",
+      "B": "भाग IV / Part IV",
+      "C": "भाग V / Part V",
+      "D": "भाग II / Part II"
     },
     "answer": "B"
   },
   {
-    "id": 6,
-    "question": "Which Fundamental Right is guaranteed only to citizens and not to foreigners? / कौन-सा मौलिक अधिकार केवल नागरिकों को प्राप्त है, विदेशियों को नहीं?",
+    "id": 2,
+    "question": "कौन-सा अनुच्छेद राज्य को समान कार्य के लिए समान वेतन सुनिश्चित करने का निर्देश देता है? / Which Article directs the State to ensure equal pay for equal work?",
     "options": {
-      "A": "Right to Equality before Law / कानून के समक्ष समानता का अधिकार",
-      "B": "Right against Exploitation / शोषण के विरुद्ध अधिकार",
-      "C": "Right to Freedom of Speech / वाक स्वतंत्रता का अधिकार",
-      "D": "Right to Protection of Life / जीवन की सुरक्षा का अधिकार"
+      "A": "अनुच्छेद 39(a) / Article 39(a)",
+      "B": "अनुच्छेद 42 / Article 42",
+      "C": "अनुच्छेद 41 / Article 41",
+      "D": "अनुच्छेद 39(d) / Article 39(d)"
+    },
+    "answer": "D"
+  },
+  {
+    "id": 3,
+    "question": "Directive Principles को किस देश के संविधान से प्रेरणा मिली है? / The Directive Principles are inspired by the Constitution of which country?",
+    "options": {
+      "A": "अमेरिका / USA",
+      "B": "आयरलैंड / Ireland",
+      "C": "कनाडा / Canada",
+      "D": "फ्रांस / France"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "Directive Principles को न्यायपालिका द्वारा कैसे वर्णित किया गया है? / How have the courts described the Directive Principles?",
+    "options": {
+      "A": "अपरिहार्य / Mandatory",
+      "B": "न्यायसंगत / Justiciable",
+      "C": "गैर-न्यायसंगत / Non-justiciable",
+      "D": "असंवैधानिक / Unconstitutional"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 5,
+    "question": "44वें संशोधन ने किस Directive Principle को जोड़ा? / Which Directive Principle was added by the 44th Amendment?",
+    "options": {
+      "A": "न्यायिक समीक्षा / Judicial review",
+      "B": "न्याय तक पहुँच / Access to justice",
+      "C": "परिवार नियोजन / Family planning",
+      "D": "न्यायपालिका की स्वतंत्रता / Independence of judiciary"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "question": "अनुच्छेद 48A किस विषय से संबंधित है? / Article 48A deals with which of the following?",
+    "options": {
+      "A": "श्रमिकों के अधिकार / Rights of workers",
+      "B": "न्यायिक स्वतंत्रता / Judicial independence",
+      "C": "पर्यावरण की सुरक्षा / Protection of environment",
+      "D": "महिलाओं के अधिकार / Rights of women"
     },
     "answer": "C"
   },
   {
     "id": 7,
-    "question": "Which Article of the Constitution abolishes Untouchability? / संविधान का कौन-सा अनुच्छेद अस्पृश्यता को समाप्त करता है?",
+    "question": "Directive Principles को कौन-सा संशोधन अधिक स्पष्ट और कार्यान्वयन योग्य बनाता है? / Which amendment made DPSPs more enforceable?",
     "options": {
-      "A": "Article 15",
-      "B": "Article 16",
-      "C": "Article 17",
-      "D": "Article 18"
+      "A": "42वाँ संशोधन / 42nd Amendment",
+      "B": "44वाँ संशोधन / 44th Amendment",
+      "C": "86वाँ संशोधन / 86th Amendment",
+      "D": "73वाँ संशोधन / 73rd Amendment"
     },
-    "answer": "C"
+    "answer": "A"
   },
   {
     "id": 8,
-    "question": "Right to Education was added to the Constitution through which Amendment? / शिक्षा का अधिकार संविधान में किस संशोधन के माध्यम से जोड़ा गया?",
+    "question": "Directive Principles और Fundamental Rights के बीच संबंध पर सुप्रीम कोर्ट का ऐतिहासिक निर्णय कौन-सा है? / Which landmark SC case defined the relationship between DPSPs and Fundamental Rights?",
     "options": {
-      "A": "42nd Amendment / 42वां संशोधन",
-      "B": "44th Amendment / 44वां संशोधन",
-      "C": "86th Amendment / 86वां संशोधन",
-      "D": "93rd Amendment / 93वां संशोधन"
+      "A": "केशवानंद भारती केस / Kesavananda Bharati Case",
+      "B": "गोलकनाथ केस / Golaknath Case",
+      "C": "मेनका गाँधी केस / Maneka Gandhi Case",
+      "D": "मिनर्वा मिल्स केस / Minerva Mills Case"
     },
-    "answer": "C"
+    "answer": "D"
   },
   {
     "id": 9,
-    "question": "Under which Article is Freedom of Religion guaranteed? / धर्म की स्वतंत्रता किस अनुच्छेद के अंतर्गत सुनिश्चित की गई है?",
+    "question": "Directive Principles को लागू करने की ज़िम्मेदारी किसकी है? / Who is primarily responsible for implementing the DPSPs?",
     "options": {
-      "A": "Article 19",
-      "B": "Article 20",
-      "C": "Article 25",
-      "D": "Article 23"
+      "A": "न्यायपालिका / Judiciary",
+      "B": "संविधान सभा / Constituent Assembly",
+      "C": "राज्य / State",
+      "D": "नागरिक / Citizens"
     },
     "answer": "C"
   },
   {
     "id": 10,
-    "question": "Which Article protects against arrest and detention in certain cases? / कौन-सा अनुच्छेद कुछ मामलों में गिरफ्तारी और नजरबंदी से सुरक्षा देता है?",
+    "question": "कौन-सा DPSP पंचायतों की स्थापना से संबंधित है? / Which DPSP relates to the organization of village panchayats?",
     "options": {
-      "A": "Article 20",
-      "B": "Article 21",
-      "C": "Article 22",
-      "D": "Article 18"
-    },
-    "answer": "C"
-  },
-  {
-    "id": 11,
-    "question": "Which of the following Articles ensures abolition of titles? / निम्नलिखित में से कौन-सा अनुच्छेद उपाधियों के उन्मूलन को सुनिश्चित करता है?",
-    "options": {
-      "A": "Article 14",
-      "B": "Article 17",
-      "C": "Article 18",
-      "D": "Article 21"
-    },
-    "answer": "C"
-  },
-  {
-    "id": 12,
-    "question": "Which Fundamental Right prohibits traffic in human beings and forced labour? / कौन-सा मौलिक अधिकार मानव तस्करी और जबरन श्रम पर रोक लगाता है?",
-    "options": {
-      "A": "Article 21",
-      "B": "Article 23",
-      "C": "Article 24",
-      "D": "Article 25"
+      "A": "अनुच्छेद 43 / Article 43",
+      "B": "अनुच्छेद 40 / Article 40",
+      "C": "अनुच्छेद 39A / Article 39A",
+      "D": "अनुच्छेद 45 / Article 45"
     },
     "answer": "B"
   },
   {
-    "id": 13,
-    "question": "Under which Article are minorities given the right to establish and administer educational institutions? / अल्पसंख्यकों को शैक्षिक संस्थानों की स्थापना और प्रबंधन का अधिकार किस अनुच्छेद के अंतर्गत दिया गया है?",
+    "id": 11,
+    "question": "अनुच्छेद 45 किस विषय से संबंधित है? / What is the subject of Article 45?",
     "options": {
-      "A": "Article 29",
-      "B": "Article 30",
-      "C": "Article 31",
-      "D": "Article 32"
+      "A": "निशुल्क और अनिवार्य शिक्षा / Free and compulsory education",
+      "B": "श्रमिक अधिकार / Workers' rights",
+      "C": "न्याय तक पहुँच / Access to justice",
+      "D": "कृषि सुधार / Agricultural reform"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "Directive Principles किस वर्ष लागू किए गए थे? / In which year were the DPSPs enforced?",
+    "options": {
+      "A": "1950",
+      "B": "1949",
+      "C": "1952",
+      "D": "1947"
+    },
+    "answer": "A"
+  },
+  {
+    "id": 13,
+    "question": "अनुच्छेद 43B किस अधिनियम के तहत जोड़ा गया? / Under which Act was Article 43B added?",
+    "options": {
+      "A": "86वाँ संशोधन / 86th Amendment",
+      "B": "97वाँ संशोधन / 97th Amendment",
+      "C": "42वाँ संशोधन / 42nd Amendment",
+      "D": "44वाँ संशोधन / 44th Amendment"
     },
     "answer": "B"
   },
   {
     "id": 14,
-    "question": "Which case is related to the implementation of Mid-Day Meal Scheme under Article 21? / मध्याह्न भोजन योजना को अनुच्छेद 21 के तहत लागू करने से संबंधित मामला कौन-सा है?",
+    "question": "Directive Principles का मुख्य उद्देश्य क्या है? / What is the primary objective of DPSPs?",
     "options": {
-      "A": "M.C. Mehta v. Union of India",
-      "B": "Unnikrishnan v. State of A.P.",
-      "C": "People’s Union for Civil Liberties (PUCL) v. Union of India",
-      "D": "Vishaka v. State of Rajasthan"
-    },
-    "answer": "C"
-  },
-  {
-    "id": 15,
-    "question": "Which Article guarantees Freedom of Speech and Expression? / कौन-सा अनुच्छेद वाक और अभिव्यक्ति की स्वतंत्रता की गारंटी देता है?",
-    "options": {
-      "A": "Article 14",
-      "B": "Article 19",
-      "C": "Article 21",
-      "D": "Article 22"
+      "A": "राजनीतिक स्वतंत्रता / Political liberty",
+      "B": "सामाजिक-आर्थिक लोकतंत्र / Socio-economic democracy",
+      "C": "धार्मिक स्वतंत्रता / Religious freedom",
+      "D": "संविधान की समीक्षा / Review of Constitution"
     },
     "answer": "B"
   },
   {
-    "id": 16,
-    "question": "Which Fundamental Right is violated when a person is not presented before a magistrate within 24 hours of arrest? / जब किसी व्यक्ति को गिरफ्तारी के 24 घंटे के भीतर मजिस्ट्रेट के सामने पेश नहीं किया जाता है, तब कौन-सा मौलिक अधिकार उल्लंघन होता है?",
+    "id": 15,
+    "question": "कौन-सा अनुच्छेद मानव श्रम के शोषण को रोकता है? / Which article seeks to prevent exploitation of human labour?",
     "options": {
-      "A": "Article 20",
-      "B": "Article 21",
-      "C": "Article 22",
-      "D": "Article 14"
+      "A": "अनुच्छेद 39(e) / Article 39(e)",
+      "B": "अनुच्छेद 46 / Article 46",
+      "C": "अनुच्छेद 48 / Article 48",
+      "D": "अनुच्छेद 45 / Article 45"
     },
-    "answer": "C"
+    "answer": "A"
+  },
+  {
+    "id": 16,
+    "question": "अनुच्छेद 47 का मुख्य उद्देश्य क्या है? / What is the main objective of Article 47?",
+    "options": {
+      "A": "शिक्षा सुधार / Education reform",
+      "B": "पोषण और स्वास्थ्य / Nutrition and health",
+      "C": "कृषि सुधार / Agricultural reform",
+      "D": "जलवायु नियंत्रण / Climate control"
+    },
+    "answer": "B"
   },
   {
     "id": 17,
-    "question": "Which Fundamental Right is related to environmental protection? / पर्यावरण संरक्षण से संबंधित मौलिक अधिकार कौन-सा है?",
+    "question": "Directive Principles के कार्यान्वयन में बाधा क्या है? / What is the main obstacle in implementing DPSPs?",
     "options": {
-      "A": "Article 14",
-      "B": "Article 19",
-      "C": "Article 21",
-      "D": "Article 23"
+      "A": "न्यायिक समीक्षा / Judicial review",
+      "B": "राजनीतिक इच्छाशक्ति की कमी / Lack of political will",
+      "C": "जन समर्थन / Public support",
+      "D": "नागरिक अधिकार / Civil rights"
     },
-    "answer": "C"
+    "answer": "B"
   },
   {
     "id": 18,
-    "question": "Which Article deals with the protection of interest of minorities? / अल्पसंख्यकों के हितों की सुरक्षा से संबंधित अनुच्छेद कौन-सा है?",
+    "question": "Directive Principles को किस रूप में जाना जाता है? / What are the DPSPs also known as?",
     "options": {
-      "A": "Article 14",
-      "B": "Article 29",
-      "C": "Article 30",
-      "D": "Article 32"
+      "A": "राजनीतिक उपकरण / Political instruments",
+      "B": "राज्य की नीतियों के दिशा-निर्देशक तत्व / Guidelines of State Policy",
+      "C": "संवैधानिक आदेश / Constitutional orders",
+      "D": "सरकारी संकल्प / Government declarations"
     },
     "answer": "B"
   },
   {
     "id": 19,
-    "question": "Which Article provides free legal aid to the poor? / गरीबों को निःशुल्क कानूनी सहायता देने वाला अनुच्छेद कौन-सा है?",
+    "question": "Directive Principles में शामिल नहीं है / Not included in DPSPs:",
     "options": {
-      "A": "Article 21",
-      "B": "Article 39A",
-      "C": "Article 32",
-      "D": "Article 19"
+      "A": "निशुल्क शिक्षा / Free education",
+      "B": "धार्मिक स्वतंत्रता / Religious freedom",
+      "C": "पशु संरक्षण / Animal protection",
+      "D": "श्रमिकों के लिए जीवन स्तर / Living wage for workers"
     },
     "answer": "B"
   },
   {
     "id": 20,
-    "question": "Under which Article are citizens protected from conviction for ex-post-facto laws? / किस अनुच्छेद के तहत नागरिकों को पूर्वव्यापी दंडात्मक कानूनों से सुरक्षा प्राप्त है?",
+    "question": "सर्वोच्च न्यायालय ने Directive Principles को किस केस में 'राज्य के लिए अनिवार्य कर्तव्य' बताया? / In which case did SC call DPSPs 'obligatory duties of the State'?",
     "options": {
-      "A": "Article 19",
-      "B": "Article 20",
-      "C": "Article 22",
-      "D": "Article 23"
+      "A": "मिनर्वा मिल्स केस / Minerva Mills Case",
+      "B": "केशवानंद भारती केस / Kesavananda Bharati Case",
+      "C": "ओल्गा टेलिस केस / Olga Tellis Case",
+      "D": "अहमदाबाद मिल्स केस / Ahmedabad Mills Case"
     },
-    "answer": "B"
+    "answer": "A"
+  },
+  {
+    "id": 21,
+    "question": "Which part of the Indian Constitution deals with Directive Principles of State Policy?\nभारतीय संविधान का कौन सा भाग राज्य के नीति निदेशक तत्वों से संबंधित है?",
+    "options": {
+      "A": "Part II / भाग II",
+      "B": "Part III / भाग III",
+      "C": "Part IV / भाग IV",
+      "D": "Part V / भाग V"
+    },
+    "answer": "C",
+    "explanation": "Directive Principles are enumerated in Part IV (Articles 36 to 51) / नीति निदेशक तत्व भाग IV (अनुच्छेद 36 से 51) में हैं।"
+  },
+  {
+    "id": 22,
+    "question": "Which Article of the Constitution declares that the Directive Principles are not enforceable by any court?\nसंविधान का कौन सा अनुच्छेद यह घोषित करता है कि नीति निदेशक तत्व न्यायालय द्वारा प्रवर्तनीय नहीं हैं?",
+    "options": {
+      "A": "Article 32 / अनुच्छेद 32",
+      "B": "Article 37 / अनुच्छेद 37",
+      "C": "Article 40 / अनुच्छेद 40",
+      "D": "Article 39 / अनुच्छेद 39"
+    },
+    "answer": "B",
+    "explanation": "Article 37 states that DPSPs are not enforceable but fundamental in governance / अनुच्छेद 37 कहता है कि नीति निदेशक तत्व प्रवर्तनीय नहीं हैं।"
+  },
+  {
+    "id": 23,
+    "question": "Which Constitutional Amendment Act added Article 39A to promote equal justice and free legal aid?\nकिस संविधान संशोधन अधिनियम ने समान न्याय और मुफ्त विधिक सहायता को बढ़ावा देने के लिए अनुच्छेद 39A जोड़ा था?",
+    "options": {
+      "A": "42nd Amendment / 42वां संशोधन",
+      "B": "44th Amendment / 44वां संशोधन",
+      "C": "86th Amendment / 86वां संशोधन",
+      "D": "73rd Amendment / 73वां संशोधन"
+    },
+    "answer": "A",
+    "explanation": "42nd Amendment Act, 1976 inserted Article 39A / 42वां संशोधन, 1976 ने अनुच्छेद 39A जोड़ा।"
   }
 ]
