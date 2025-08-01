@@ -1,258 +1,112 @@
 [
   {
     "id": 1,
-    "question": "Directive Principles को संविधान में किस भाग में रखा गया है? / In which part of the Constitution are the Directive Principles mentioned?",
+    "question": "निम्नलिखित में से कौन-कौन से अनुच्छेद यूनिफॉर्म सिविल कोड (समान नागरिक संहिता) से संबंधित हैं? / Which of the following Articles are directly or indirectly linked to securing Uniform Civil Code in India?",
     "options": {
-      "A": "भाग III / Part III",
-      "B": "भाग IV / Part IV",
-      "C": "भाग V / Part V",
-      "D": "भाग II / Part II"
+      "A": "अनुच्छेद 14 – विधि के समक्ष समानता / Article 14 – Equality before law",
+      "B": "अनुच्छेद 15 – भेदभाव का निषेध / Article 15 – Prohibition of discrimination",
+      "C": "अनुच्छेद 44 – समान नागरिक संहिता / Article 44 – Uniform Civil Code",
+      "D": "अनुच्छेद 25 – धर्म की स्वतंत्रता / Article 25 – Freedom of religion"
     },
-    "answer": "B"
+    "answer": ["A", "C", "D"]
   },
   {
     "id": 2,
-    "question": "कौन-सा अनुच्छेद राज्य को समान कार्य के लिए समान वेतन सुनिश्चित करने का निर्देश देता है? / Which Article directs the State to ensure equal pay for equal work?",
+    "question": "संविधान की प्रस्तावना की नैतिक भावना को लागू करने वाला भाग कौन-सा माना जाता है? / Which Part of the Constitution can be considered to operationalize the ethical spirit of the Preamble?",
     "options": {
-      "A": "अनुच्छेद 39(a) / Article 39(a)",
-      "B": "अनुच्छेद 42 / Article 42",
-      "C": "अनुच्छेद 41 / Article 41",
-      "D": "अनुच्छेद 39(d) / Article 39(d)"
+      "A": "भाग III – मूल अधिकार / Part III – Fundamental Rights",
+      "B": "भाग IV – राज्य के नीति निदेशक तत्व / Part IV – Directive Principles",
+      "C": "भाग IVA – मूल कर्तव्य / Part IVA – Fundamental Duties",
+      "D": "भाग VI – राज्य सरकारें / Part VI – State Governments"
     },
-    "answer": "D"
+    "answer": ["B", "C"]
   },
   {
     "id": 3,
-    "question": "Directive Principles को किस देश के संविधान से प्रेरणा मिली है? / The Directive Principles are inspired by the Constitution of which country?",
+    "question": "निम्नलिखित में से कौन-कौन से नीति निदेशक तत्व गांधीवादी माने जाते हैं? / Which DPSPs are classified as Gandhian principles?",
     "options": {
-      "A": "अमेरिका / USA",
-      "B": "आयरलैंड / Ireland",
-      "C": "कनाडा / Canada",
-      "D": "फ्रांस / France"
+      "A": "अनुच्छेद 43 – कुटीर उद्योग / Article 43 – Cottage industries",
+      "B": "अनुच्छेद 40 – पंचायतों का संगठन / Article 40 – Organisation of village panchayats",
+      "C": "अनुच्छेद 47 – नशीली वस्तुओं का निषेध / Article 47 – Prohibition of intoxicating drinks",
+      "D": "अनुच्छेद 48A – पर्यावरण की रक्षा / Article 48A – Protection of environment"
     },
-    "answer": "B"
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 4,
-    "question": "Directive Principles को न्यायपालिका द्वारा कैसे वर्णित किया गया है? / How have the courts described the Directive Principles?",
+    "question": "निम्न में से कौन-कौन से अनुच्छेद 'कल्याणकारी राज्य' की भावना दर्शाते हैं? / Which of the following Articles emphasize the 'welfare state' ideology?",
     "options": {
-      "A": "अपरिहार्य / Mandatory",
-      "B": "न्यायसंगत / Justiciable",
-      "C": "गैर-न्यायसंगत / Non-justiciable",
-      "D": "असंवैधानिक / Unconstitutional"
+      "A": "अनुच्छेद 38 – लोगों के कल्याण को बढ़ावा / Article 38 – Promotion of welfare of people",
+      "B": "अनुच्छेद 39 – नीति संबंधी सिद्धांत / Article 39 – Certain principles of policy",
+      "C": "अनुच्छेद 37 – नीति निदेशक तत्वों की न्यायालय में प्रवर्तनीयता नहीं / Article 37 – Non-justiciability of DPSPs",
+      "D": "अनुच्छेद 32 – संवैधानिक उपचारों का अधिकार / Article 32 – Right to Constitutional Remedies"
     },
-    "answer": "C"
+    "answer": ["A", "B"]
   },
   {
     "id": 5,
-    "question": "44वें संशोधन ने किस Directive Principle को जोड़ा? / Which Directive Principle was added by the 44th Amendment?",
+    "question": "मूल अधिकार और नीति निदेशक तत्वों के बीच संघर्ष पर आधारित सही जोड़े कौन-से हैं? / Which of these pairs are correctly matched with respect to Fundamental Rights vs DPSPs tension?",
     "options": {
-      "A": "न्यायिक समीक्षा / Judicial review",
-      "B": "न्याय तक पहुँच / Access to justice",
-      "C": "परिवार नियोजन / Family planning",
-      "D": "न्यायपालिका की स्वतंत्रता / Independence of judiciary"
+      "A": "मिनर्वा मिल्स मामला – FR और DPSP में सामंजस्य / Minerva Mills Case – Harmony between FR and DPSP",
+      "B": "केशवानंद भारती – मूल संरचना में DPSP शामिल / Kesavananda Bharati – Basic Structure includes DPSPs",
+      "C": "गोलकनाथ मामला – DPSP को FR से ऊपर माना / Golaknath Case – DPSPs given primacy over FRs",
+      "D": "चम्पकम दोरैराजन – FR का वरीयता / Champakam Dorairajan – FRs prevail over DPSPs"
     },
-    "answer": "C"
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 6,
-    "question": "अनुच्छेद 48A किस विषय से संबंधित है? / Article 48A deals with which of the following?",
+    "question": "न्याय की सामाजिक अवधारणा से जुड़े नीति निदेशक तत्व कौन-कौन से हैं? / Which DPSPs relate directly to social justice?",
     "options": {
-      "A": "श्रमिकों के अधिकार / Rights of workers",
-      "B": "न्यायिक स्वतंत्रता / Judicial independence",
-      "C": "पर्यावरण की सुरक्षा / Protection of environment",
-      "D": "महिलाओं के अधिकार / Rights of women"
+      "A": "अनुच्छेद 39A – समान न्याय और नि:शुल्क विधिक सहायता / Article 39A – Equal justice and free legal aid",
+      "B": "अनुच्छेद 41 – कार्य और शिक्षा का अधिकार / Article 41 – Right to work and education",
+      "C": "अनुच्छेद 42 – कार्य की मानवीय दशाएं / Article 42 – Just and humane conditions of work",
+      "D": "अनुच्छेद 50 – कार्यपालिका से न्यायपालिका की पृथक्करण / Article 50 – Separation of judiciary from executive"
     },
-    "answer": "C"
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 7,
-    "question": "Directive Principles को कौन-सा संशोधन अधिक स्पष्ट और कार्यान्वयन योग्य बनाता है? / Which amendment made DPSPs more enforceable?",
+    "question": "निम्नलिखित में से कौन-कौन से नीति निदेशक तत्व पर्यावरण संरक्षण से संबंधित हैं? / Which DPSPs deal directly with environmental concerns?",
     "options": {
-      "A": "42वाँ संशोधन / 42nd Amendment",
-      "B": "44वाँ संशोधन / 44th Amendment",
-      "C": "86वाँ संशोधन / 86th Amendment",
-      "D": "73वाँ संशोधन / 73rd Amendment"
+      "A": "अनुच्छेद 48 – कृषि और पशुपालन का संगठन / Article 48 – Organisation of agriculture and animal husbandry",
+      "B": "अनुच्छेद 48A – पर्यावरण और वनों की रक्षा / Article 48A – Protection of environment and forests",
+      "C": "अनुच्छेद 51A(g) – पर्यावरण की रक्षा करना नागरिक का कर्तव्य / Article 51A(g) – Duty to protect environment",
+      "D": "अनुच्छेद 21 – जीवन का अधिकार / Article 21 – Right to life"
     },
-    "answer": "A"
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 8,
-    "question": "Directive Principles और Fundamental Rights के बीच संबंध पर सुप्रीम कोर्ट का ऐतिहासिक निर्णय कौन-सा है? / Which landmark SC case defined the relationship between DPSPs and Fundamental Rights?",
+    "question": "नीति निदेशक तत्वों की प्रकृति को लेकर कौन-कौन से कथन सही हैं? / Which of the following are true about the nature of DPSPs?",
     "options": {
-      "A": "केशवानंद भारती केस / Kesavananda Bharati Case",
-      "B": "गोलकनाथ केस / Golaknath Case",
-      "C": "मेनका गाँधी केस / Maneka Gandhi Case",
-      "D": "मिनर्वा मिल्स केस / Minerva Mills Case"
+      "A": "वे प्रवर्तनीय और न्यायालय में लागू होते हैं / They are justiciable and legally enforceable",
+      "B": "उन्हें सामान्य कानूनों के माध्यम से लागू किया जा सकता है / They can be implemented through ordinary legislation",
+      "C": "वे न्यायालयों द्वारा निरंतर व्याख्या की मांग करते हैं / They require constant interpretation by judiciary",
+      "D": "वे राज्य की नीति निर्माण के लिए बाध्यकारी होते हैं / They are binding on the state for policy-making"
     },
-    "answer": "D"
+    "answer": ["B", "C", "D"]
   },
   {
     "id": 9,
-    "question": "Directive Principles को लागू करने की ज़िम्मेदारी किसकी है? / Who is primarily responsible for implementing the DPSPs?",
+    "question": "कौन-कौन से संविधान संशोधन ने नए नीति निदेशक तत्व जोड़े? / Which amendments added new Directive Principles?",
     "options": {
-      "A": "न्यायपालिका / Judiciary",
-      "B": "संविधान सभा / Constituent Assembly",
-      "C": "राज्य / State",
-      "D": "नागरिक / Citizens"
+      "A": "42वां संशोधन – अनुच्छेद 39A और 48A / 42nd Amendment – Article 39A & 48A",
+      "B": "44वां संशोधन – अनुच्छेद 31C को हटाया / 44th Amendment – Deleted Article 31C",
+      "C": "86वां संशोधन – अनुच्छेद 21A जोड़ा / 86th Amendment – Added Article 21A",
+      "D": "97वां संशोधन – अनुच्छेद 43B (सहकारी समितियां) / 97th Amendment – Added Co-operative societies (Article 43B)"
     },
-    "answer": "C"
+    "answer": ["A", "D"]
   },
   {
     "id": 10,
-    "question": "कौन-सा DPSP पंचायतों की स्थापना से संबंधित है? / Which DPSP relates to the organization of village panchayats?",
+    "question": "निम्नलिखित में से कौन-से अनुच्छेद भारत की अंतरराष्ट्रीय शांति की प्रतिबद्धता को दर्शाते हैं? / Which of the following Articles reflect India’s commitment to international peace?",
     "options": {
-      "A": "अनुच्छेद 43 / Article 43",
-      "B": "अनुच्छेद 40 / Article 40",
-      "C": "अनुच्छेद 39A / Article 39A",
-      "D": "अनुच्छेद 45 / Article 45"
+      "A": "अनुच्छेद 51 – अंतरराष्ट्रीय शांति को बढ़ावा / Article 51 – Promotion of international peace",
+      "B": "अनुच्छेद 47 – सार्वजनिक स्वास्थ्य / Article 47 – Public health and nutrition",
+      "C": "अनुच्छेद 38 – कल्याण का प्रचार / Article 38 – Welfare of people",
+      "D": "अनुच्छेद 19 – अभिव्यक्ति की स्वतंत्रता / Article 19 – Freedom of speech"
     },
-    "answer": "B"
-  },
-  {
-    "id": 11,
-    "question": "अनुच्छेद 45 किस विषय से संबंधित है? / What is the subject of Article 45?",
-    "options": {
-      "A": "निशुल्क और अनिवार्य शिक्षा / Free and compulsory education",
-      "B": "श्रमिक अधिकार / Workers' rights",
-      "C": "न्याय तक पहुँच / Access to justice",
-      "D": "कृषि सुधार / Agricultural reform"
-    },
-    "answer": "A"
-  },
-  {
-    "id": 12,
-    "question": "Directive Principles किस वर्ष लागू किए गए थे? / In which year were the DPSPs enforced?",
-    "options": {
-      "A": "1950",
-      "B": "1949",
-      "C": "1952",
-      "D": "1947"
-    },
-    "answer": "A"
-  },
-  {
-    "id": 13,
-    "question": "अनुच्छेद 43B किस अधिनियम के तहत जोड़ा गया? / Under which Act was Article 43B added?",
-    "options": {
-      "A": "86वाँ संशोधन / 86th Amendment",
-      "B": "97वाँ संशोधन / 97th Amendment",
-      "C": "42वाँ संशोधन / 42nd Amendment",
-      "D": "44वाँ संशोधन / 44th Amendment"
-    },
-    "answer": "B"
-  },
-  {
-    "id": 14,
-    "question": "Directive Principles का मुख्य उद्देश्य क्या है? / What is the primary objective of DPSPs?",
-    "options": {
-      "A": "राजनीतिक स्वतंत्रता / Political liberty",
-      "B": "सामाजिक-आर्थिक लोकतंत्र / Socio-economic democracy",
-      "C": "धार्मिक स्वतंत्रता / Religious freedom",
-      "D": "संविधान की समीक्षा / Review of Constitution"
-    },
-    "answer": "B"
-  },
-  {
-    "id": 15,
-    "question": "कौन-सा अनुच्छेद मानव श्रम के शोषण को रोकता है? / Which article seeks to prevent exploitation of human labour?",
-    "options": {
-      "A": "अनुच्छेद 39(e) / Article 39(e)",
-      "B": "अनुच्छेद 46 / Article 46",
-      "C": "अनुच्छेद 48 / Article 48",
-      "D": "अनुच्छेद 45 / Article 45"
-    },
-    "answer": "A"
-  },
-  {
-    "id": 16,
-    "question": "अनुच्छेद 47 का मुख्य उद्देश्य क्या है? / What is the main objective of Article 47?",
-    "options": {
-      "A": "शिक्षा सुधार / Education reform",
-      "B": "पोषण और स्वास्थ्य / Nutrition and health",
-      "C": "कृषि सुधार / Agricultural reform",
-      "D": "जलवायु नियंत्रण / Climate control"
-    },
-    "answer": "B"
-  },
-  {
-    "id": 17,
-    "question": "Directive Principles के कार्यान्वयन में बाधा क्या है? / What is the main obstacle in implementing DPSPs?",
-    "options": {
-      "A": "न्यायिक समीक्षा / Judicial review",
-      "B": "राजनीतिक इच्छाशक्ति की कमी / Lack of political will",
-      "C": "जन समर्थन / Public support",
-      "D": "नागरिक अधिकार / Civil rights"
-    },
-    "answer": "B"
-  },
-  {
-    "id": 18,
-    "question": "Directive Principles को किस रूप में जाना जाता है? / What are the DPSPs also known as?",
-    "options": {
-      "A": "राजनीतिक उपकरण / Political instruments",
-      "B": "राज्य की नीतियों के दिशा-निर्देशक तत्व / Guidelines of State Policy",
-      "C": "संवैधानिक आदेश / Constitutional orders",
-      "D": "सरकारी संकल्प / Government declarations"
-    },
-    "answer": "B"
-  },
-  {
-    "id": 19,
-    "question": "Directive Principles में शामिल नहीं है / Not included in DPSPs:",
-    "options": {
-      "A": "निशुल्क शिक्षा / Free education",
-      "B": "धार्मिक स्वतंत्रता / Religious freedom",
-      "C": "पशु संरक्षण / Animal protection",
-      "D": "श्रमिकों के लिए जीवन स्तर / Living wage for workers"
-    },
-    "answer": "B"
-  },
-  {
-    "id": 20,
-    "question": "सर्वोच्च न्यायालय ने Directive Principles को किस केस में 'राज्य के लिए अनिवार्य कर्तव्य' बताया? / In which case did SC call DPSPs 'obligatory duties of the State'?",
-    "options": {
-      "A": "मिनर्वा मिल्स केस / Minerva Mills Case",
-      "B": "केशवानंद भारती केस / Kesavananda Bharati Case",
-      "C": "ओल्गा टेलिस केस / Olga Tellis Case",
-      "D": "अहमदाबाद मिल्स केस / Ahmedabad Mills Case"
-    },
-    "answer": "A"
-  },
-  {
-    "id": 21,
-    "question": "Which part of the Indian Constitution deals with Directive Principles of State Policy?\nभारतीय संविधान का कौन सा भाग राज्य के नीति निदेशक तत्वों से संबंधित है?",
-    "options": {
-      "A": "Part II / भाग II",
-      "B": "Part III / भाग III",
-      "C": "Part IV / भाग IV",
-      "D": "Part V / भाग V"
-    },
-    "answer": "C",
-    "explanation": "Directive Principles are enumerated in Part IV (Articles 36 to 51) / नीति निदेशक तत्व भाग IV (अनुच्छेद 36 से 51) में हैं।"
-  },
-  {
-    "id": 22,
-    "question": "Which Article of the Constitution declares that the Directive Principles are not enforceable by any court?\nसंविधान का कौन सा अनुच्छेद यह घोषित करता है कि नीति निदेशक तत्व न्यायालय द्वारा प्रवर्तनीय नहीं हैं?",
-    "options": {
-      "A": "Article 32 / अनुच्छेद 32",
-      "B": "Article 37 / अनुच्छेद 37",
-      "C": "Article 40 / अनुच्छेद 40",
-      "D": "Article 39 / अनुच्छेद 39"
-    },
-    "answer": "B",
-    "explanation": "Article 37 states that DPSPs are not enforceable but fundamental in governance / अनुच्छेद 37 कहता है कि नीति निदेशक तत्व प्रवर्तनीय नहीं हैं।"
-  },
-  {
-    "id": 23,
-    "question": "Which Constitutional Amendment Act added Article 39A to promote equal justice and free legal aid?\nकिस संविधान संशोधन अधिनियम ने समान न्याय और मुफ्त विधिक सहायता को बढ़ावा देने के लिए अनुच्छेद 39A जोड़ा था?",
-    "options": {
-      "A": "42nd Amendment / 42वां संशोधन",
-      "B": "44th Amendment / 44वां संशोधन",
-      "C": "86th Amendment / 86वां संशोधन",
-      "D": "73rd Amendment / 73वां संशोधन"
-    },
-    "answer": "A",
-    "explanation": "42nd Amendment Act, 1976 inserted Article 39A / 42वां संशोधन, 1976 ने अनुच्छेद 39A जोड़ा।"
+    "answer": ["A"]
   }
 ]
