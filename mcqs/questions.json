@@ -1,57 +1,222 @@
 [
   {
     "id": 1,
-    "question": "Right to Equality (Article 14–18) का सम्बन्ध किन संविधानिक प्रावधानों से प्रत्यक्ष या अप्रत्यक्ष रूप से होता है? / Which constitutional provisions directly or indirectly relate to the Right to Equality (Articles 14–18)?",
+    "question": "Which of the following rights has been declared as a part of Right to Life under Article 21? / निम्नलिखित में से किस अधिकार को अनुच्छेद 21 के तहत जीवन के अधिकार का हिस्सा घोषित किया गया है?",
     "options": {
-      "A": "अनुच्छेद 335 – SCs और STs के सेवा और पदों में दावे / Article 335 – Claims of SCs and STs to services and posts",
-      "B": "अनुच्छेद 31C – कुछ नीति निदेशक तत्वों को लागू करने वाले कानूनों की सुरक्षा / Article 31C – Saving laws giving effect to certain Directive Principles",
-      "C": "अनुच्छेद 46 – SCs, STs और अन्य कमजोर वर्गों के हितों का संवर्धन / Article 46 – Promotion of SCs, STs and other weaker sections",
-      "D": "अनुच्छेद 368 – संविधान संशोधन की शक्ति / Article 368 – Power to amend the Constitution"
+      "A": "Right to education / शिक्षा का अधिकार",
+      "B": "Right to vote / मतदान का अधिकार",
+      "C": "Right to property / संपत्ति का अधिकार",
+      "D": "Right to work / कार्य करने का अधिकार"
     },
-    "answer": ["A", "B", "C"]
+    "answer": "A"
   },
   {
     "id": 2,
-    "question": "निम्नलिखित में से कौन से प्रावधान मौलिक अधिकारों की व्याख्या या सीमा निर्धारण करते हैं? / Which of the following provisions define or limit the scope of Fundamental Rights?",
+    "question": "In which case did the Supreme Court propound the doctrine of 'Basic Structure' of the Constitution? / सुप्रीम कोर्ट ने संविधान की 'मूल संरचना' के सिद्धांत को किस मामले में प्रतिपादित किया था?",
     "options": {
-      "A": "अनुच्छेद 33 – सशस्त्र बलों पर मौलिक अधिकारों का प्रतिबंध / Article 33 – Restriction of FRs for Armed Forces",
-      "B": "अनुच्छेद 34 – आपातकालीन शक्तियाँ और क्षतिपूर्ति / Article 34 – Martial Law and Indemnity",
-      "C": "अनुच्छेद 13(2) – राज्य मौलिक अधिकारों के विरुद्ध कानून नहीं बना सकता / Article 13(2) – State cannot make laws violating FRs",
-      "D": "अनुच्छेद 39 – समान वेतन और नीति निदेशक तत्व / Article 39 – Equal pay and Directive Principles"
+      "A": "Golak Nath Case / गोलक नाथ मामला",
+      "B": "Minerva Mills Case / मिनर्वा मिल्स मामला",
+      "C": "Kesavananda Bharati Case / केशवानंद भारती मामला",
+      "D": "A.K. Gopalan Case / ए.के. गोपालन मामला"
     },
-    "answer": ["A", "B", "C"]
+    "answer": "C"
   },
   {
     "id": 3,
-    "question": "Right to Life (Article 21) के दायरे में निम्नलिखित में से कौन से तत्व न्यायिक रूप से शामिल किए गए हैं? / Which of the following elements have been judicially included under Article 21?",
+    "question": "Which Article of the Constitution deals with the Right to Constitutional Remedies? / संविधान का कौन-सा अनुच्छेद संवैधानिक उपचारों के अधिकार से संबंधित है?",
     "options": {
-      "A": "स्वस्थ पर्यावरण का अधिकार / Right to Healthy Environment",
-      "B": "शिक्षा का अधिकार / Right to Education",
-      "C": "सूचना का अधिकार / Right to Information",
-      "D": "कर न देने का अधिकार / Right to not pay taxes"
+      "A": "Article 19",
+      "B": "Article 21",
+      "C": "Article 32",
+      "D": "Article 14"
     },
-    "answer": ["A", "B", "C"]
+    "answer": "C"
   },
   {
     "id": 4,
-    "question": "Directive Principles of State Policy (DPSP) का कौन सा प्रावधान न्यायालयों द्वारा मौलिक अधिकारों के साथ जोड़ा गया है? / Which provision of DPSP has been linked with Fundamental Rights by the judiciary?",
+    "question": "Right to Equality is ensured under which Articles of the Indian Constitution? / समानता का अधिकार भारतीय संविधान के किन अनुच्छेदों में सुनिश्चित किया गया है?",
     "options": {
-      "A": "अनुच्छेद 38 – सामाजिक न्याय / Article 38 – Social Justice",
-      "B": "अनुच्छेद 39A – निःशुल्क विधिक सहायता / Article 39A – Free Legal Aid",
-      "C": "अनुच्छेद 44 – समान नागरिक संहिता / Article 44 – Uniform Civil Code",
-      "D": "अनुच्छेद 47 – शराबबंदी और पोषण / Article 47 – Prohibition and Nutrition"
+      "A": "Articles 14 to 18 / अनुच्छेद 14 से 18",
+      "B": "Articles 19 to 22 / अनुच्छेद 19 से 22",
+      "C": "Articles 23 to 24 / अनुच्छेद 23 से 24",
+      "D": "Articles 25 to 28 / अनुच्छेद 25 से 28"
     },
-    "answer": ["A", "B"]
+    "answer": "A"
   },
   {
     "id": 5,
-    "question": "निम्नलिखित में से कौन से अधिकार मौलिक अधिकार और नीति निदेशक तत्वों दोनों में परिलक्षित होते हैं? / Which of the following rights are reflected both in Fundamental Rights and Directive Principles?",
+    "question": "Which of the following is not a Fundamental Right? / निम्नलिखित में से कौन एक मौलिक अधिकार नहीं है?",
     "options": {
-      "A": "शिक्षा का अधिकार / Right to Education",
-      "B": "जीविका का अधिकार / Right to Livelihood",
-      "C": "धर्म की स्वतंत्रता / Freedom of Religion",
-      "D": "समान वेतन का अधिकार / Right to Equal Pay"
+      "A": "Right to Freedom / स्वतंत्रता का अधिकार",
+      "B": "Right to Property / संपत्ति का अधिकार",
+      "C": "Right to Equality / समानता का अधिकार",
+      "D": "Cultural and Educational Rights / सांस्कृतिक और शैक्षिक अधिकार"
     },
-    "answer": ["A", "B", "D"]
+    "answer": "B"
+  },
+  {
+    "id": 6,
+    "question": "Which Fundamental Right is guaranteed only to citizens and not to foreigners? / कौन-सा मौलिक अधिकार केवल नागरिकों को प्राप्त है, विदेशियों को नहीं?",
+    "options": {
+      "A": "Right to Equality before Law / कानून के समक्ष समानता का अधिकार",
+      "B": "Right against Exploitation / शोषण के विरुद्ध अधिकार",
+      "C": "Right to Freedom of Speech / वाक स्वतंत्रता का अधिकार",
+      "D": "Right to Protection of Life / जीवन की सुरक्षा का अधिकार"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "question": "Which Article of the Constitution abolishes Untouchability? / संविधान का कौन-सा अनुच्छेद अस्पृश्यता को समाप्त करता है?",
+    "options": {
+      "A": "Article 15",
+      "B": "Article 16",
+      "C": "Article 17",
+      "D": "Article 18"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "question": "Right to Education was added to the Constitution through which Amendment? / शिक्षा का अधिकार संविधान में किस संशोधन के माध्यम से जोड़ा गया?",
+    "options": {
+      "A": "42nd Amendment / 42वां संशोधन",
+      "B": "44th Amendment / 44वां संशोधन",
+      "C": "86th Amendment / 86वां संशोधन",
+      "D": "93rd Amendment / 93वां संशोधन"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 9,
+    "question": "Under which Article is Freedom of Religion guaranteed? / धर्म की स्वतंत्रता किस अनुच्छेद के अंतर्गत सुनिश्चित की गई है?",
+    "options": {
+      "A": "Article 19",
+      "B": "Article 20",
+      "C": "Article 25",
+      "D": "Article 23"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "question": "Which Article protects against arrest and detention in certain cases? / कौन-सा अनुच्छेद कुछ मामलों में गिरफ्तारी और नजरबंदी से सुरक्षा देता है?",
+    "options": {
+      "A": "Article 20",
+      "B": "Article 21",
+      "C": "Article 22",
+      "D": "Article 18"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "question": "Which of the following Articles ensures abolition of titles? / निम्नलिखित में से कौन-सा अनुच्छेद उपाधियों के उन्मूलन को सुनिश्चित करता है?",
+    "options": {
+      "A": "Article 14",
+      "B": "Article 17",
+      "C": "Article 18",
+      "D": "Article 21"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 12,
+    "question": "Which Fundamental Right prohibits traffic in human beings and forced labour? / कौन-सा मौलिक अधिकार मानव तस्करी और जबरन श्रम पर रोक लगाता है?",
+    "options": {
+      "A": "Article 21",
+      "B": "Article 23",
+      "C": "Article 24",
+      "D": "Article 25"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "Under which Article are minorities given the right to establish and administer educational institutions? / अल्पसंख्यकों को शैक्षिक संस्थानों की स्थापना और प्रबंधन का अधिकार किस अनुच्छेद के अंतर्गत दिया गया है?",
+    "options": {
+      "A": "Article 29",
+      "B": "Article 30",
+      "C": "Article 31",
+      "D": "Article 32"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 14,
+    "question": "Which case is related to the implementation of Mid-Day Meal Scheme under Article 21? / मध्याह्न भोजन योजना को अनुच्छेद 21 के तहत लागू करने से संबंधित मामला कौन-सा है?",
+    "options": {
+      "A": "M.C. Mehta v. Union of India",
+      "B": "Unnikrishnan v. State of A.P.",
+      "C": "People’s Union for Civil Liberties (PUCL) v. Union of India",
+      "D": "Vishaka v. State of Rajasthan"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 15,
+    "question": "Which Article guarantees Freedom of Speech and Expression? / कौन-सा अनुच्छेद वाक और अभिव्यक्ति की स्वतंत्रता की गारंटी देता है?",
+    "options": {
+      "A": "Article 14",
+      "B": "Article 19",
+      "C": "Article 21",
+      "D": "Article 22"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "Which Fundamental Right is violated when a person is not presented before a magistrate within 24 hours of arrest? / जब किसी व्यक्ति को गिरफ्तारी के 24 घंटे के भीतर मजिस्ट्रेट के सामने पेश नहीं किया जाता है, तब कौन-सा मौलिक अधिकार उल्लंघन होता है?",
+    "options": {
+      "A": "Article 20",
+      "B": "Article 21",
+      "C": "Article 22",
+      "D": "Article 14"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "question": "Which Fundamental Right is related to environmental protection? / पर्यावरण संरक्षण से संबंधित मौलिक अधिकार कौन-सा है?",
+    "options": {
+      "A": "Article 14",
+      "B": "Article 19",
+      "C": "Article 21",
+      "D": "Article 23"
+    },
+    "answer": "C"
+  },
+  {
+    "id": 18,
+    "question": "Which Article deals with the protection of interest of minorities? / अल्पसंख्यकों के हितों की सुरक्षा से संबंधित अनुच्छेद कौन-सा है?",
+    "options": {
+      "A": "Article 14",
+      "B": "Article 29",
+      "C": "Article 30",
+      "D": "Article 32"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 19,
+    "question": "Which Article provides free legal aid to the poor? / गरीबों को निःशुल्क कानूनी सहायता देने वाला अनुच्छेद कौन-सा है?",
+    "options": {
+      "A": "Article 21",
+      "B": "Article 39A",
+      "C": "Article 32",
+      "D": "Article 19"
+    },
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "Under which Article are citizens protected from conviction for ex-post-facto laws? / किस अनुच्छेद के तहत नागरिकों को पूर्वव्यापी दंडात्मक कानूनों से सुरक्षा प्राप्त है?",
+    "options": {
+      "A": "Article 19",
+      "B": "Article 20",
+      "C": "Article 22",
+      "D": "Article 23"
+    },
+    "answer": "B"
   }
 ]
