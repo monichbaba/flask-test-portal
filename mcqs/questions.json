@@ -1,112 +1,154 @@
 [
   {
-    "id": 1,
-    "question": "निम्नलिखित में से कौन-कौन से अनुच्छेद यूनिफॉर्म सिविल कोड (समान नागरिक संहिता) से संबंधित हैं? / Which of the following Articles are directly or indirectly linked to securing Uniform Civil Code in India?",
+    "id": 11,
+    "question": "Directive Principles को लागू करने के लिए संसद ने किन अनुच्छेदों में संशोधन किए हैं? / Which Articles were amended by Parliament to implement Directive Principles?",
     "options": {
-      "A": "अनुच्छेद 14 – विधि के समक्ष समानता / Article 14 – Equality before law",
-      "B": "अनुच्छेद 15 – भेदभाव का निषेध / Article 15 – Prohibition of discrimination",
-      "C": "अनुच्छेद 44 – समान नागरिक संहिता / Article 44 – Uniform Civil Code",
-      "D": "अनुच्छेद 25 – धर्म की स्वतंत्रता / Article 25 – Freedom of religion"
+      "A": "अनुच्छेद 19 / Article 19",
+      "B": "अनुच्छेद 31C / Article 31C",
+      "C": "अनुच्छेद 21A / Article 21A",
+      "D": "अनुच्छेद 368 / Article 368"
     },
-    "answer": ["A", "C", "D"]
+    "answer": ["B", "C"],
+    "answer_text": [
+      "B – अनुच्छेद 31C / Article 31C",
+      "C – अनुच्छेद 21A / Article 21A"
+    ]
   },
   {
-    "id": 2,
-    "question": "संविधान की प्रस्तावना की नैतिक भावना को लागू करने वाला भाग कौन-सा माना जाता है? / Which Part of the Constitution can be considered to operationalize the ethical spirit of the Preamble?",
+    "id": 12,
+    "question": "नीति निर्देशक तत्त्वों को लागू करना किस संवैधानिक निकाय की जिम्मेदारी है? / Which constitutional body is responsible for implementing DPSPs?",
     "options": {
-      "A": "भाग III – मूल अधिकार / Part III – Fundamental Rights",
-      "B": "भाग IV – राज्य के नीति निदेशक तत्व / Part IV – Directive Principles",
-      "C": "भाग IVA – मूल कर्तव्य / Part IVA – Fundamental Duties",
-      "D": "भाग VI – राज्य सरकारें / Part VI – State Governments"
+      "A": "संसद / Parliament",
+      "B": "कार्यपालिका / Executive",
+      "C": "न्यायपालिका / Judiciary",
+      "D": "राज्य विधायिका / State Legislature"
     },
-    "answer": ["B", "C"]
+    "answer": ["A", "B", "D"],
+    "answer_text": [
+      "A – संसद / Parliament",
+      "B – कार्यपालिका / Executive",
+      "D – राज्य विधायिका / State Legislature"
+    ]
   },
   {
-    "id": 3,
-    "question": "निम्नलिखित में से कौन-कौन से नीति निदेशक तत्व गांधीवादी माने जाते हैं? / Which DPSPs are classified as Gandhian principles?",
+    "id": 13,
+    "question": "निम्न में से कौन-से DPSPs सामाजिक-आर्थिक न्याय को आगे बढ़ाते हैं? / Which of the following DPSPs promote socio-economic justice?",
     "options": {
-      "A": "अनुच्छेद 43 – कुटीर उद्योग / Article 43 – Cottage industries",
-      "B": "अनुच्छेद 40 – पंचायतों का संगठन / Article 40 – Organisation of village panchayats",
-      "C": "अनुच्छेद 47 – नशीली वस्तुओं का निषेध / Article 47 – Prohibition of intoxicating drinks",
-      "D": "अनुच्छेद 48A – पर्यावरण की रक्षा / Article 48A – Protection of environment"
+      "A": "अनुच्छेद 38(2) / Article 38(2)",
+      "B": "अनुच्छेद 39(b) और (c) / Article 39(b) and (c)",
+      "C": "अनुच्छेद 43 / Article 43",
+      "D": "अनुच्छेद 50 / Article 50"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B", "C"],
+    "answer_text": [
+      "A – अनुच्छेद 38(2) / Article 38(2)",
+      "B – अनुच्छेद 39(b) और (c) / Article 39(b) and (c)",
+      "C – अनुच्छेद 43 / Article 43"
+    ]
   },
   {
-    "id": 4,
-    "question": "निम्न में से कौन-कौन से अनुच्छेद 'कल्याणकारी राज्य' की भावना दर्शाते हैं? / Which of the following Articles emphasize the 'welfare state' ideology?",
+    "id": 14,
+    "question": "न्यायपालिका ने किस निर्णय में कहा कि DPSP और मौलिक अधिकारों में सामंजस्य बिठाया जाना चाहिए? / In which case did the judiciary rule that DPSPs and FRs must be harmonized?",
     "options": {
-      "A": "अनुच्छेद 38 – लोगों के कल्याण को बढ़ावा / Article 38 – Promotion of welfare of people",
-      "B": "अनुच्छेद 39 – नीति संबंधी सिद्धांत / Article 39 – Certain principles of policy",
-      "C": "अनुच्छेद 37 – नीति निदेशक तत्वों की न्यायालय में प्रवर्तनीयता नहीं / Article 37 – Non-justiciability of DPSPs",
-      "D": "अनुच्छेद 32 – संवैधानिक उपचारों का अधिकार / Article 32 – Right to Constitutional Remedies"
+      "A": "Minerva Mills केस / Minerva Mills case",
+      "B": "Kesavananda Bharati केस / Kesavananda Bharati case",
+      "C": "Maneka Gandhi केस / Maneka Gandhi case",
+      "D": "Golak Nath केस / Golak Nath case"
     },
-    "answer": ["A", "B"]
+    "answer": ["A", "B"],
+    "answer_text": [
+      "A – Minerva Mills केस / Minerva Mills case",
+      "B – Kesavananda Bharati केस / Kesavananda Bharati case"
+    ]
   },
   {
-    "id": 5,
-    "question": "मूल अधिकार और नीति निदेशक तत्वों के बीच संघर्ष पर आधारित सही जोड़े कौन-से हैं? / Which of these pairs are correctly matched with respect to Fundamental Rights vs DPSPs tension?",
+    "id": 15,
+    "question": "निम्नलिखित में से कौन-से प्रावधान ‘Gandhian Principles’ के अंतर्गत आते हैं? / Which provisions fall under Gandhian Principles?",
     "options": {
-      "A": "मिनर्वा मिल्स मामला – FR और DPSP में सामंजस्य / Minerva Mills Case – Harmony between FR and DPSP",
-      "B": "केशवानंद भारती – मूल संरचना में DPSP शामिल / Kesavananda Bharati – Basic Structure includes DPSPs",
-      "C": "गोलकनाथ मामला – DPSP को FR से ऊपर माना / Golaknath Case – DPSPs given primacy over FRs",
-      "D": "चम्पकम दोरैराजन – FR का वरीयता / Champakam Dorairajan – FRs prevail over DPSPs"
+      "A": "अनुच्छेद 40 / Article 40",
+      "B": "अनुच्छेद 43 / Article 43",
+      "C": "अनुच्छेद 48 / Article 48",
+      "D": "अनुच्छेद 50 / Article 50"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B", "C"],
+    "answer_text": [
+      "A – अनुच्छेद 40 / Article 40",
+      "B – अनुच्छेद 43 / Article 43",
+      "C – अनुच्छेद 48 / Article 48"
+    ]
   },
   {
-    "id": 6,
-    "question": "न्याय की सामाजिक अवधारणा से जुड़े नीति निदेशक तत्व कौन-कौन से हैं? / Which DPSPs relate directly to social justice?",
+    "id": 16,
+    "question": "DPSPs को न्यायालय में प्रवर्तनीय नहीं माना जाता, फिर भी उनका महत्व क्यों बना रहता है? / Why do DPSPs still hold significance despite being non-justiciable?",
     "options": {
-      "A": "अनुच्छेद 39A – समान न्याय और नि:शुल्क विधिक सहायता / Article 39A – Equal justice and free legal aid",
-      "B": "अनुच्छेद 41 – कार्य और शिक्षा का अधिकार / Article 41 – Right to work and education",
-      "C": "अनुच्छेद 42 – कार्य की मानवीय दशाएं / Article 42 – Just and humane conditions of work",
-      "D": "अनुच्छेद 50 – कार्यपालिका से न्यायपालिका की पृथक्करण / Article 50 – Separation of judiciary from executive"
+      "A": "वे नीतिगत मार्गदर्शन देते हैं / They offer policy guidance",
+      "B": "वे सरकार की वैधानिकता को परिभाषित करते हैं / Define state's legitimacy",
+      "C": "वे संविधान की आत्मा हैं / Spirit of the Constitution",
+      "D": "वे चुनाव आयोग के अधिकार क्षेत्र में आते हैं / Fall under Election Commission"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B", "C"],
+    "answer_text": [
+      "A – वे नीतिगत मार्गदर्शन देते हैं / They offer policy guidance",
+      "B – वे सरकार की वैधानिकता को परिभाषित करते हैं / Define state's legitimacy",
+      "C – वे संविधान की आत्मा हैं / Spirit of the Constitution"
+    ]
   },
   {
-    "id": 7,
-    "question": "निम्नलिखित में से कौन-कौन से नीति निदेशक तत्व पर्यावरण संरक्षण से संबंधित हैं? / Which DPSPs deal directly with environmental concerns?",
+    "id": 17,
+    "question": "‘State shall endeavor to secure just and humane conditions of work’ यह किस अनुच्छेद में है? / In which Article is ‘just and humane conditions of work’ mentioned?",
     "options": {
-      "A": "अनुच्छेद 48 – कृषि और पशुपालन का संगठन / Article 48 – Organisation of agriculture and animal husbandry",
-      "B": "अनुच्छेद 48A – पर्यावरण और वनों की रक्षा / Article 48A – Protection of environment and forests",
-      "C": "अनुच्छेद 51A(g) – पर्यावरण की रक्षा करना नागरिक का कर्तव्य / Article 51A(g) – Duty to protect environment",
-      "D": "अनुच्छेद 21 – जीवन का अधिकार / Article 21 – Right to life"
+      "A": "अनुच्छेद 41 / Article 41",
+      "B": "अनुच्छेद 42 / Article 42",
+      "C": "अनुच्छेद 43 / Article 43",
+      "D": "अनुच्छेद 47 / Article 47"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["B"],
+    "answer_text": [
+      "B – अनुच्छेद 42 / Article 42"
+    ]
   },
   {
-    "id": 8,
-    "question": "नीति निदेशक तत्वों की प्रकृति को लेकर कौन-कौन से कथन सही हैं? / Which of the following are true about the nature of DPSPs?",
+    "id": 18,
+    "question": "निम्न में से कौन-से DPSPs पर्यावरण संरक्षण से संबंधित हैं? / Which DPSPs relate to environmental protection?",
     "options": {
-      "A": "वे प्रवर्तनीय और न्यायालय में लागू होते हैं / They are justiciable and legally enforceable",
-      "B": "उन्हें सामान्य कानूनों के माध्यम से लागू किया जा सकता है / They can be implemented through ordinary legislation",
-      "C": "वे न्यायालयों द्वारा निरंतर व्याख्या की मांग करते हैं / They require constant interpretation by judiciary",
-      "D": "वे राज्य की नीति निर्माण के लिए बाध्यकारी होते हैं / They are binding on the state for policy-making"
+      "A": "अनुच्छेद 48A / Article 48A",
+      "B": "अनुच्छेद 47 / Article 47",
+      "C": "अनुच्छेद 51A(g) / Article 51A(g)",
+      "D": "अनुच्छेद 39(a) / Article 39(a)"
     },
-    "answer": ["B", "C", "D"]
+    "answer": ["A", "B"],
+    "answer_text": [
+      "A – अनुच्छेद 48A / Article 48A",
+      "B – अनुच्छेद 47 / Article 47"
+    ]
   },
   {
-    "id": 9,
-    "question": "कौन-कौन से संविधान संशोधन ने नए नीति निदेशक तत्व जोड़े? / Which amendments added new Directive Principles?",
+    "id": 19,
+    "question": "DPSPs किस देश के संविधान से मुख्य रूप से प्रभावित हैं? / DPSPs are primarily influenced by the constitution of which country?",
     "options": {
-      "A": "42वां संशोधन – अनुच्छेद 39A और 48A / 42nd Amendment – Article 39A & 48A",
-      "B": "44वां संशोधन – अनुच्छेद 31C को हटाया / 44th Amendment – Deleted Article 31C",
-      "C": "86वां संशोधन – अनुच्छेद 21A जोड़ा / 86th Amendment – Added Article 21A",
-      "D": "97वां संशोधन – अनुच्छेद 43B (सहकारी समितियां) / 97th Amendment – Added Co-operative societies (Article 43B)"
+      "A": "आयरलैंड / Ireland",
+      "B": "जर्मनी / Germany",
+      "C": "यूएसए / USA",
+      "D": "ऑस्ट्रेलिया / Australia"
     },
-    "answer": ["A", "D"]
+    "answer": ["A"],
+    "answer_text": [
+      "A – आयरलैंड / Ireland"
+    ]
   },
   {
-    "id": 10,
-    "question": "निम्नलिखित में से कौन-से अनुच्छेद भारत की अंतरराष्ट्रीय शांति की प्रतिबद्धता को दर्शाते हैं? / Which of the following Articles reflect India’s commitment to international peace?",
+    "id": 20,
+    "question": "DPSPs को लागू करने में सरकार की कौन-सी बाधाएं होती हैं? / What are the main obstacles in implementing DPSPs?",
     "options": {
-      "A": "अनुच्छेद 51 – अंतरराष्ट्रीय शांति को बढ़ावा / Article 51 – Promotion of international peace",
-      "B": "अनुच्छेद 47 – सार्वजनिक स्वास्थ्य / Article 47 – Public health and nutrition",
-      "C": "अनुच्छेद 38 – कल्याण का प्रचार / Article 38 – Welfare of people",
-      "D": "अनुच्छेद 19 – अभिव्यक्ति की स्वतंत्रता / Article 19 – Freedom of speech"
+      "A": "वित्तीय सीमाएं / Financial constraints",
+      "B": "राजनीतिक इच्छाशक्ति की कमी / Lack of political will",
+      "C": "संवैधानिक संशोधन की कठिनाई / Difficulty of amendment",
+      "D": "न्यायिक हस्तक्षेप / Judicial interference"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"],
+    "answer_text": [
+      "A – वित्तीय सीमाएं / Financial constraints",
+      "B – राजनीतिक इच्छाशक्ति की कमी / Lack of political will"
+    ]
   }
 ]
