@@ -1,154 +1,112 @@
 [
   {
-    "id": 11,
-    "question": "Directive Principles को लागू करने के लिए संसद ने किन अनुच्छेदों में संशोधन किए हैं? / Which Articles were amended by Parliament to implement Directive Principles?",
+    "id": 1,
+    "question": "अनुच्छेद 38(2) किस प्रकार की असमानताओं को समाप्त करने की बात करता है? / What kind of inequalities does Article 38(2) seek to eliminate?",
     "options": {
-      "A": "अनुच्छेद 19 / Article 19",
-      "B": "अनुच्छेद 31C / Article 31C",
-      "C": "अनुच्छेद 21A / Article 21A",
-      "D": "अनुच्छेद 368 / Article 368"
+      "A": "आर्थिक असमानता / Economic inequality",
+      "B": "स्तर और अवसर की असमानता / Inequality in status and opportunity",
+      "C": "भाषाई असमानता / Linguistic inequality",
+      "D": "धार्मिक असमानता / Religious inequality"
     },
-    "answer": ["B", "C"],
-    "answer_text": [
-      "B – अनुच्छेद 31C / Article 31C",
-      "C – अनुच्छेद 21A / Article 21A"
-    ]
+    "answer": ["A", "B"]
   },
   {
-    "id": 12,
-    "question": "नीति निर्देशक तत्त्वों को लागू करना किस संवैधानिक निकाय की जिम्मेदारी है? / Which constitutional body is responsible for implementing DPSPs?",
+    "id": 2,
+    "question": "अनुच्छेद 39(b) और 39(c) में किस अवधारणा को बढ़ावा दिया गया है? / What concept is promoted under Articles 39(b) and 39(c)?",
     "options": {
-      "A": "संसद / Parliament",
-      "B": "कार्यपालिका / Executive",
-      "C": "न्यायपालिका / Judiciary",
-      "D": "राज्य विधायिका / State Legislature"
+      "A": "समाजवाद / Socialism",
+      "B": "न्यायिक स्वतंत्रता / Judicial independence",
+      "C": "संपत्ति का समान वितरण / Equitable distribution of resources",
+      "D": "धार्मिक स्वतंत्रता / Religious freedom"
     },
-    "answer": ["A", "B", "D"],
-    "answer_text": [
-      "A – संसद / Parliament",
-      "B – कार्यपालिका / Executive",
-      "D – राज्य विधायिका / State Legislature"
-    ]
+    "answer": ["A", "C"]
   },
   {
-    "id": 13,
-    "question": "निम्न में से कौन-से DPSPs सामाजिक-आर्थिक न्याय को आगे बढ़ाते हैं? / Which of the following DPSPs promote socio-economic justice?",
+    "id": 3,
+    "question": "अनुच्छेद 44 समान नागरिक संहिता से संबंधित है। यह किस मौलिक अधिकार से संघर्ष कर सकता है? / Article 44 (Uniform Civil Code) may conflict with which Fundamental Right?",
     "options": {
-      "A": "अनुच्छेद 38(2) / Article 38(2)",
-      "B": "अनुच्छेद 39(b) और (c) / Article 39(b) and (c)",
-      "C": "अनुच्छेद 43 / Article 43",
-      "D": "अनुच्छेद 50 / Article 50"
+      "A": "अनुच्छेद 25 – धार्मिक स्वतंत्रता / Article 25 – Freedom of religion",
+      "B": "अनुच्छेद 21 – जीवन का अधिकार / Article 21 – Right to life",
+      "C": "अनुच्छेद 29 – सांस्कृतिक अधिकार / Article 29 – Cultural rights",
+      "D": "अनुच्छेद 14 – समानता / Article 14 – Equality"
     },
-    "answer": ["A", "B", "C"],
-    "answer_text": [
-      "A – अनुच्छेद 38(2) / Article 38(2)",
-      "B – अनुच्छेद 39(b) और (c) / Article 39(b) and (c)",
-      "C – अनुच्छेद 43 / Article 43"
-    ]
+    "answer": ["A", "D"]
   },
   {
-    "id": 14,
-    "question": "न्यायपालिका ने किस निर्णय में कहा कि DPSP और मौलिक अधिकारों में सामंजस्य बिठाया जाना चाहिए? / In which case did the judiciary rule that DPSPs and FRs must be harmonized?",
+    "id": 4,
+    "question": "Directive Principles को किस संविधान संशोधन के माध्यम से सर्वोच्चता दी गई थी? / Through which Constitutional Amendment were Directive Principles given primacy?",
     "options": {
-      "A": "Minerva Mills केस / Minerva Mills case",
-      "B": "Kesavananda Bharati केस / Kesavananda Bharati case",
-      "C": "Maneka Gandhi केस / Maneka Gandhi case",
-      "D": "Golak Nath केस / Golak Nath case"
+      "A": "42वां संशोधन / 42nd Amendment",
+      "B": "44वां संशोधन / 44th Amendment",
+      "C": "52वां संशोधन / 52nd Amendment",
+      "D": "86वां संशोधन / 86th Amendment"
     },
-    "answer": ["A", "B"],
-    "answer_text": [
-      "A – Minerva Mills केस / Minerva Mills case",
-      "B – Kesavananda Bharati केस / Kesavananda Bharati case"
-    ]
+    "answer": ["A"]
   },
   {
-    "id": 15,
-    "question": "निम्नलिखित में से कौन-से प्रावधान ‘Gandhian Principles’ के अंतर्गत आते हैं? / Which provisions fall under Gandhian Principles?",
+    "id": 5,
+    "question": "‘Minerva Mills’ केस का मुख्य निष्कर्ष क्या था? / What was the key ruling in the Minerva Mills case?",
     "options": {
-      "A": "अनुच्छेद 40 / Article 40",
-      "B": "अनुच्छेद 43 / Article 43",
-      "C": "अनुच्छेद 48 / Article 48",
-      "D": "अनुच्छेद 50 / Article 50"
+      "A": "मौलिक अधिकार सर्वोपरि हैं / Fundamental Rights are supreme",
+      "B": "DPSP मौलिक अधिकारों के विरुद्ध नहीं हो सकते / DPSPs cannot override Fundamental Rights",
+      "C": "DPSP को मौलिक अधिकारों के साथ संतुलित किया जाना चाहिए / DPSPs must be balanced with Fundamental Rights",
+      "D": "संविधान की मूल संरचना की पुष्टि की गई / Basic Structure was reaffirmed"
     },
-    "answer": ["A", "B", "C"],
-    "answer_text": [
-      "A – अनुच्छेद 40 / Article 40",
-      "B – अनुच्छेद 43 / Article 43",
-      "C – अनुच्छेद 48 / Article 48"
-    ]
+    "answer": ["B", "C", "D"]
   },
   {
-    "id": 16,
-    "question": "DPSPs को न्यायालय में प्रवर्तनीय नहीं माना जाता, फिर भी उनका महत्व क्यों बना रहता है? / Why do DPSPs still hold significance despite being non-justiciable?",
-    "options": {
-      "A": "वे नीतिगत मार्गदर्शन देते हैं / They offer policy guidance",
-      "B": "वे सरकार की वैधानिकता को परिभाषित करते हैं / Define state's legitimacy",
-      "C": "वे संविधान की आत्मा हैं / Spirit of the Constitution",
-      "D": "वे चुनाव आयोग के अधिकार क्षेत्र में आते हैं / Fall under Election Commission"
-    },
-    "answer": ["A", "B", "C"],
-    "answer_text": [
-      "A – वे नीतिगत मार्गदर्शन देते हैं / They offer policy guidance",
-      "B – वे सरकार की वैधानिकता को परिभाषित करते हैं / Define state's legitimacy",
-      "C – वे संविधान की आत्मा हैं / Spirit of the Constitution"
-    ]
-  },
-  {
-    "id": 17,
-    "question": "‘State shall endeavor to secure just and humane conditions of work’ यह किस अनुच्छेद में है? / In which Article is ‘just and humane conditions of work’ mentioned?",
-    "options": {
-      "A": "अनुच्छेद 41 / Article 41",
-      "B": "अनुच्छेद 42 / Article 42",
-      "C": "अनुच्छेद 43 / Article 43",
-      "D": "अनुच्छेद 47 / Article 47"
-    },
-    "answer": ["B"],
-    "answer_text": [
-      "B – अनुच्छेद 42 / Article 42"
-    ]
-  },
-  {
-    "id": 18,
-    "question": "निम्न में से कौन-से DPSPs पर्यावरण संरक्षण से संबंधित हैं? / Which DPSPs relate to environmental protection?",
+    "id": 6,
+    "question": "किस अनुच्छेद में राज्य को पर्यावरण की सुरक्षा और सुधार का निर्देश दिया गया है? / Under which Article is the State directed to protect and improve the environment?",
     "options": {
       "A": "अनुच्छेद 48A / Article 48A",
-      "B": "अनुच्छेद 47 / Article 47",
-      "C": "अनुच्छेद 51A(g) / Article 51A(g)",
-      "D": "अनुच्छेद 39(a) / Article 39(a)"
+      "B": "अनुच्छेद 51A(g) / Article 51A(g)",
+      "C": "अनुच्छेद 21 / Article 21",
+      "D": "अनुच्छेद 47 / Article 47"
     },
-    "answer": ["A", "B"],
-    "answer_text": [
-      "A – अनुच्छेद 48A / Article 48A",
-      "B – अनुच्छेद 47 / Article 47"
-    ]
+    "answer": ["A"]
   },
   {
-    "id": 19,
-    "question": "DPSPs किस देश के संविधान से मुख्य रूप से प्रभावित हैं? / DPSPs are primarily influenced by the constitution of which country?",
+    "id": 7,
+    "question": "किस अनुच्छेद में ग्राम पंचायतों को बढ़ावा देने की बात कही गई है? / Which Article mentions the promotion of Village Panchayats?",
     "options": {
-      "A": "आयरलैंड / Ireland",
-      "B": "जर्मनी / Germany",
-      "C": "यूएसए / USA",
-      "D": "ऑस्ट्रेलिया / Australia"
+      "A": "अनुच्छेद 40 / Article 40",
+      "B": "अनुच्छेद 243 / Article 243",
+      "C": "अनुच्छेद 48 / Article 48",
+      "D": "अनुच्छेद 51 / Article 51"
     },
-    "answer": ["A"],
-    "answer_text": [
-      "A – आयरलैंड / Ireland"
-    ]
+    "answer": ["A"]
   },
   {
-    "id": 20,
-    "question": "DPSPs को लागू करने में सरकार की कौन-सी बाधाएं होती हैं? / What are the main obstacles in implementing DPSPs?",
+    "id": 8,
+    "question": "कौन-से DPSPs ‘Gandhian Principles’ माने जाते हैं? / Which DPSPs are considered ‘Gandhian Principles’?",
     "options": {
-      "A": "वित्तीय सीमाएं / Financial constraints",
-      "B": "राजनीतिक इच्छाशक्ति की कमी / Lack of political will",
-      "C": "संवैधानिक संशोधन की कठिनाई / Difficulty of amendment",
-      "D": "न्यायिक हस्तक्षेप / Judicial interference"
+      "A": "अनुच्छेद 40 – पंचायत / Article 40 – Panchayats",
+      "B": "अनुच्छेद 43 – कुटीर उद्योग / Article 43 – Cottage industries",
+      "C": "अनुच्छेद 47 – मद्य निषेध / Article 47 – Prohibition of liquor",
+      "D": "अनुच्छेद 50 – न्यायिक स्वतंत्रता / Article 50 – Judicial Independence"
     },
-    "answer": ["A", "B"],
-    "answer_text": [
-      "A – वित्तीय सीमाएं / Financial constraints",
-      "B – राजनीतिक इच्छाशक्ति की कमी / Lack of political will"
-    ]
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 9,
+    "question": "निम्न में से कौन-से DPSP ‘Liberal Intellectual’ मूल्यों को दर्शाते हैं? / Which of the following DPSPs reflect ‘Liberal-Intellectual’ values?",
+    "options": {
+      "A": "अनुच्छेद 44 – समान नागरिक संहिता / Article 44 – Uniform Civil Code",
+      "B": "अनुच्छेद 48A – पर्यावरण / Article 48A – Environment",
+      "C": "अनुच्छेद 50 – न्यायपालिका की स्वतंत्रता / Article 50 – Separation of Judiciary",
+      "D": "अनुच्छेद 51 – अंतर्राष्ट्रीय शांति / Article 51 – International Peace"
+    },
+    "answer": ["A", "C", "D"]
+  },
+  {
+    "id": 10,
+    "question": "Directive Principles को किस भाग में रखा गया है और इसका संविधान में क्या महत्व है? / In which Part are the Directive Principles included and what is their constitutional significance?",
+    "options": {
+      "A": "भाग IV, नीति निर्देशक तत्व / Part IV, guiding principles to State policy",
+      "B": "भाग III, मौलिक अधिकारों से ऊपर / Part III, above Fundamental Rights",
+      "C": "भाग IV, राज्य को लक्ष्य की ओर निर्देशित करने हेतु / Part IV, to direct State towards goals",
+      "D": "भाग V, केवल अनुशंसा / Part V, only recommendations"
+    },
+    "answer": ["A", "C"]
   }
 ]
