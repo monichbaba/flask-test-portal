@@ -1,167 +1,112 @@
 [
   {
     "id": 1,
-    "question": "भारत में पशुपालन को किस मंत्रालय द्वारा संचालित किया जाता है?\nWhich ministry manages Animal Husbandry in India?",
+    "question": "खतरनाक पशु रोगों में कौन-कौन से शामिल हैं?\nWhich of the following are considered major contagious livestock diseases?",
     "options": {
-      "A": "कृषि और किसान कल्याण मंत्रालय / Ministry of Agriculture and Farmers Welfare",
-      "B": "पशुपालन, डेयरी और मत्स्य पालन मंत्रालय / Ministry of Animal Husbandry, Dairying and Fisheries",
-      "C": "ग्रामीण विकास मंत्रालय / Ministry of Rural Development",
-      "D": "स्वास्थ्य और परिवार कल्याण मंत्रालय / Ministry of Health and Family Welfare"
+      "A": "FMD / खुरपका-मुंहपका",
+      "B": "PPR / प्लेग (भेड़ों में)",
+      "C": "Brucellosis / ब्रुसेलोसिस",
+      "D": "Jaundice / पीलिया"
     },
-    "answer": ["B"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 2,
-    "question": "भारत में सर्वाधिक दूध उत्पादन करने वाला राज्य कौन है?\nWhich is the highest milk producing state in India?",
+    "question": "राष्ट्रीय पशु रोग नियंत्रण कार्यक्रम (NADCP) किस-किस रोग पर केंद्रित है?\nNADCP focuses on the control of which of the following diseases?",
     "options": {
-      "A": "राजस्थान / Rajasthan",
-      "B": "उत्तर प्रदेश / Uttar Pradesh",
-      "C": "गुजरात / Gujarat",
-      "D": "हरियाणा / Haryana"
+      "A": "FMD / खुरपका-मुंहपका",
+      "B": "Brucellosis / ब्रुसेलोसिस",
+      "C": "TB / क्षय रोग",
+      "D": "Anthrax / एंथ्रैक्स"
     },
-    "answer": ["B"]
+    "answer": ["A", "B"]
   },
   {
     "id": 3,
-    "question": "पशुपालन के अंतर्गत निम्नलिखित में से कौन-कौन सी गतिविधियाँ आती हैं?\nWhich of the following activities come under Animal Husbandry?",
+    "question": "निम्न में से कौन-कौन सी भारत सरकार की पशु चिकित्सा योजनाएँ हैं?\nWhich of the following are veterinary schemes launched by the Government of India?",
     "options": {
-      "A": "डेयरी पालन / Dairy farming",
-      "B": "मुर्गी पालन / Poultry farming",
-      "C": "मधुमक्खी पालन / Beekeeping",
-      "D": "बकरी पालन / Goat rearing"
+      "A": "राष्ट्रीय गोकुल मिशन / Rashtriya Gokul Mission",
+      "B": "राष्ट्रीय पशु रोग नियंत्रण कार्यक्रम / NADCP",
+      "C": "ई-पशुचिकित्सा सेवा / e-Vet Seva",
+      "D": "पशु बीमा योजना / Livestock Insurance Scheme"
     },
     "answer": ["A", "B", "D"]
   },
   {
     "id": 4,
-    "question": "2023 में विश्व का सबसे बड़ा दूध उत्पादक देश कौन था?\nWhich country was the largest milk producer in the world in 2023?",
+    "question": "निम्न में से कौन-कौन सी चारा फसलें रबी मौसम में बोई जाती हैं?\nWhich of the following fodder crops are grown in Rabi season?",
     "options": {
-      "A": "संयुक्त राज्य अमेरिका / USA",
-      "B": "भारत / India",
-      "C": "चीन / China",
-      "D": "ब्राजील / Brazil"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 5,
-    "question": "निम्नलिखित में से कौन सा पशुधन नस्ल दूध उत्पादन के लिए प्रसिद्ध है?\nWhich of the following livestock breeds is known for high milk yield?",
-    "options": {
-      "A": "मुर्रा भैंस / Murrah Buffalo",
-      "B": "गिर गाय / Gir Cow",
-      "C": "कांकरज / Kankrej",
-      "D": "हल्लीकर / Hallikar"
+      "A": "बरसीम / Berseem",
+      "B": "जई / Oats",
+      "C": "लोबिया / Cowpea",
+      "D": "सरसों / Mustard"
     },
     "answer": ["A", "B"]
   },
   {
-    "id": 6,
-    "question": "राष्ट्रीय गोकुल मिशन का मुख्य उद्देश्य क्या है?\nWhat is the main objective of the Rashtriya Gokul Mission?",
+    "id": 5,
+    "question": "कृत्रिम गर्भाधान (Artificial Insemination) कार्यक्रम के लाभ क्या हैं?\nWhat are the benefits of Artificial Insemination (AI) programme?",
     "options": {
-      "A": "देशी नस्लों का संरक्षण / Conservation of indigenous breeds",
-      "B": "दुग्ध आयात को बढ़ावा देना / Promote milk imports",
-      "C": "विदेशी नस्लों का प्रचार / Promote foreign breeds",
-      "D": "पशु चारे की सब्सिडी देना / Subsidize animal feed"
+      "A": "बेहतर नस्ल सुधार / Better breed improvement",
+      "B": "रोग का फैलाव कम / Reduced disease spread",
+      "C": "सस्ते में उच्च उत्पादन / High yield at lower cost",
+      "D": "प्राकृतिक संसर्ग तेज होता है / Natural mating is faster"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 6,
+    "question": "निम्न में से कौन-कौन सी चारा फसलें बहुवर्षीय (Perennial) हैं?\nWhich of the following are perennial fodder crops?",
+    "options": {
+      "A": "नेपियर घास / Napier Grass",
+      "B": "गिनी घास / Guinea Grass",
+      "C": "बरसीम / Berseem",
+      "D": "पैरा घास / Para Grass"
+    },
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 7,
-    "question": "भारत में पशुओं की जनगणना कितने वर्षों के अंतराल पर होती है?\nAt what interval is Livestock Census conducted in India?",
+    "question": "नीचे दिए गए में से कौन-सा रोग वायरस जनित है?\nWhich of the following diseases is viral in nature?",
     "options": {
-      "A": "हर 5 साल / Every 5 years",
-      "B": "हर 7 साल / Every 7 years",
-      "C": "हर 10 साल / Every 10 years",
-      "D": "हर 15 साल / Every 15 years"
+      "A": "FMD / खुरपका-मुंहपका",
+      "B": "PPR / प्लेग",
+      "C": "Brucellosis / ब्रुसेलोसिस",
+      "D": "Blue tongue / ब्लूटंग"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 8,
-    "question": "नीचे दिए गए में से कौन सा जानवर डबल डेयरी उपयोग के लिए नहीं माना जाता?\nWhich of the following animals is NOT considered dual-purpose dairy breed?",
+    "question": "पशुओं को संतुलित आहार के लिए क्या-क्या जरूरी है?\nWhat are essential components of balanced diet for livestock?",
     "options": {
-      "A": "साहीवाल / Sahiwal",
-      "B": "कृष्णा वली / Krishna Valley",
-      "C": "रेड सिंधी / Red Sindhi",
-      "D": "हल्लीकर / Hallikar"
+      "A": "हरी चारा / Green fodder",
+      "B": "सूखा चारा / Dry fodder",
+      "C": "कंसंट्रेट / Concentrates",
+      "D": "सिर्फ पानी / Only water"
     },
-    "answer": ["D"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 9,
-    "question": "पशुपालन GDP में कृषि का लगभग कितना प्रतिशत योगदान है (2023)?\nWhat is the approximate contribution of Animal Husbandry to Agriculture GDP in India (2023)?",
+    "question": "बछड़ों में अधिक मृत्यु दर किस कारण हो सकती है?\nWhich of the following are reasons for high mortality in calves?",
     "options": {
-      "A": "10% से कम / Less than 10%",
-      "B": "20% के आसपास / Around 20%",
-      "C": "30% से अधिक / More than 30%",
-      "D": "50% से अधिक / More than 50%"
+      "A": "कोलोस्ट्रम न देना / Not feeding colostrum",
+      "B": "संक्रमण / Infections",
+      "C": "अतिरिक्त प्रोटीन / Excess protein intake",
+      "D": "अस्वच्छ वातावरण / Unhygienic environment"
     },
-    "answer": ["B"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 10,
-    "question": "भारत में कृत्रिम गर्भाधान (Artificial Insemination) कार्यक्रम का उद्देश्य क्या है?\nWhat is the main aim of Artificial Insemination programs in India?",
+    "question": "राष्ट्रीय गोकुल मिशन के प्रमुख उद्देश्य क्या हैं?\nWhat are the key objectives of Rashtriya Gokul Mission?",
     "options": {
-      "A": "प्रजनन दर को बढ़ाना / Improve fertility rate",
-      "B": "विदेशी नस्लों को हटाना / Remove exotic breeds",
-      "C": "पशु चारे को बढ़ाना / Improve fodder quality",
-      "D": "दूध उत्पादन को घटाना / Reduce milk production"
+      "A": "देशी नस्लों का संरक्षण / Conservation of indigenous breeds",
+      "B": "दूध उत्पादन बढ़ाना / Increase milk production",
+      "C": "आधुनिक अनुसंधान प्रयोगशालाएं / Modern research labs",
+      "D": "पशुओं का आयात / Import of animals"
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 11,
-    "question": "पोल्ट्री उद्योग में भारत का वैश्विक रैंक क्या है (2023)?\nWhat is India’s global rank in poultry production (2023)?",
-    "options": {
-      "A": "पहला / 1st",
-      "B": "तीसरा / 3rd",
-      "C": "पांचवां / 5th",
-      "D": "दसवां / 10th"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 12,
-    "question": "निम्नलिखित में से कौन सा पक्षी अंडा उत्पादन के लिए विशेष रूप से पाला जाता है?\nWhich of the following birds is reared specifically for egg production?",
-    "options": {
-      "A": "लेघोर्न / Leghorn",
-      "B": "ब्रोइलर / Broiler",
-      "C": "गिनी फाउल / Guinea Fowl",
-      "D": "टर्की / Turkey"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 13,
-    "question": "‘Operation Flood’ कार्यक्रम किससे संबंधित था?\nOperation Flood was related to which of the following?",
-    "options": {
-      "A": "दूध क्रांति / White Revolution",
-      "B": "हरित क्रांति / Green Revolution",
-      "C": "नीली क्रांति / Blue Revolution",
-      "D": "गोल्डन क्रांति / Golden Revolution"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 14,
-    "question": "पशुपालन में कौन-कौन से लाभ होते हैं?\nWhat are the benefits of Animal Husbandry?",
-    "options": {
-      "A": "प्रोटीन स्रोत / Protein source",
-      "B": "ग्रामीण आय बढ़ाना / Rural income enhancement",
-      "C": "नवीकरणीय संसाधन / Renewable resource use",
-      "D": "भूमिहीनों को रोजगार / Employment to landless"
-    },
-    "answer": ["A", "B", "C", "D"]
-  },
-  {
-    "id": 15,
-    "question": "भारत में सबसे अधिक भैंसें किस राज्य में पाई जाती हैं?\nWhich Indian state has the largest buffalo population?",
-    "options": {
-      "A": "उत्तर प्रदेश / Uttar Pradesh",
-      "B": "राजस्थान / Rajasthan",
-      "C": "आंध्र प्रदेश / Andhra Pradesh",
-      "D": "मध्य प्रदेश / Madhya Pradesh"
-    },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   }
 ]
