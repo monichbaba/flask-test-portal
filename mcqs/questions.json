@@ -1,112 +1,753 @@
 [
   {
     "id": 1,
-    "question": "खतरनाक पशु रोगों में कौन-कौन से शामिल हैं?\nWhich of the following are considered major contagious livestock diseases?",
+    "question": "भारत के राष्ट्रपति की पात्रता से संबंधित कौन-कौन से कथन सही हैं?\nWhich of the following are correct regarding the eligibility of the President of India?",
     "options": {
-      "A": "FMD / खुरपका-मुंहपका",
-      "B": "PPR / प्लेग (भेड़ों में)",
-      "C": "Brucellosis / ब्रुसेलोसिस",
-      "D": "Jaundice / पीलिया"
+      "A": "भारत का नागरिक होना चाहिए / Must be a citizen of India",
+      "B": "35 वर्ष की आयु पूरी कर चुका हो / Must have completed 35 years of age",
+      "C": "राज्यसभा का सदस्य होना चाहिए / Must be a member of Rajya Sabha",
+      "D": "लोकसभा चुनाव लड़ने की योग्यता हो / Must be qualified to contest Lok Sabha election"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B", "D"],
+    "correct_answers": [
+      "A – भारत का नागरिक होना चाहिए / Must be a citizen of India",
+      "B – 35 वर्ष की आयु पूरी कर चुका हो / Must have completed 35 years of age",
+      "D – लोकसभा चुनाव लड़ने की योग्यता हो / Must be qualified to contest Lok Sabha election"
+    ]
   },
   {
     "id": 2,
-    "question": "राष्ट्रीय पशु रोग नियंत्रण कार्यक्रम (NADCP) किस-किस रोग पर केंद्रित है?\nNADCP focuses on the control of which of the following diseases?",
+    "question": "राष्ट्रपति के निर्वाचन हेतु निर्वाचक मंडल में कौन-कौन शामिल होते हैं?\nWho are included in the electoral college for Presidential election?",
     "options": {
-      "A": "FMD / खुरपका-मुंहपका",
-      "B": "Brucellosis / ब्रुसेलोसिस",
-      "C": "TB / क्षय रोग",
-      "D": "Anthrax / एंथ्रैक्स"
+      "A": "लोकसभा और राज्यसभा के निर्वाचित सदस्य / Elected members of Lok Sabha and Rajya Sabha",
+      "B": "राज्य विधानसभाओं के निर्वाचित सदस्य / Elected members of State Legislative Assemblies",
+      "C": "राज्य विधान परिषदों के सदस्य / Members of State Legislative Councils",
+      "D": "दिल्ली और पुदुचेरी के विधानसभा सदस्य / Elected MLAs of Delhi and Puducherry"
     },
-    "answer": ["A", "B"]
+    "answer": ["A", "B", "D"],
+    "correct_answers": [
+      "A – लोकसभा और राज्यसभा के निर्वाचित सदस्य / Elected members of Lok Sabha and Rajya Sabha",
+      "B – राज्य विधानसभाओं के निर्वाचित सदस्य / Elected members of State Legislative Assemblies",
+      "D – दिल्ली और पुदुचेरी के विधानसभा सदस्य / Elected MLAs of Delhi and Puducherry"
+    ]
   },
   {
     "id": 3,
-    "question": "निम्न में से कौन-कौन सी भारत सरकार की पशु चिकित्सा योजनाएँ हैं?\nWhich of the following are veterinary schemes launched by the Government of India?",
+    "question": "भारत के राष्ट्रपति को हटाने की प्रक्रिया क्या है?\nWhat is the procedure for removal of the President of India?",
     "options": {
-      "A": "राष्ट्रीय गोकुल मिशन / Rashtriya Gokul Mission",
-      "B": "राष्ट्रीय पशु रोग नियंत्रण कार्यक्रम / NADCP",
-      "C": "ई-पशुचिकित्सा सेवा / e-Vet Seva",
-      "D": "पशु बीमा योजना / Livestock Insurance Scheme"
+      "A": "महाभियोग द्वारा / By impeachment",
+      "B": "लोकसभा द्वारा बहुमत से प्रस्ताव / Simple majority resolution in Lok Sabha",
+      "C": "दोनों सदनों में दो-तिहाई बहुमत आवश्यक / Two-thirds majority in both Houses required",
+      "D": "प्रधानमंत्री की सिफारिश से हटाया जा सकता है / Can be removed on recommendation of Prime Minister"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "C"],
+    "correct_answers": [
+      "A – महाभियोग द्वारा / By impeachment",
+      "C – दोनों सदनों में दो-तिहाई बहुमत आवश्यक / Two-thirds majority in both Houses required"
+    ]
   },
   {
     "id": 4,
-    "question": "निम्न में से कौन-कौन सी चारा फसलें रबी मौसम में बोई जाती हैं?\nWhich of the following fodder crops are grown in Rabi season?",
+    "question": "भारत में राष्ट्रपति की शक्ति और कार्य से संबंधित कौन-कौन से कथन सही हैं?\nWhich of the following statements are correct about the powers and functions of the President of India?",
     "options": {
-      "A": "बरसीम / Berseem",
-      "B": "जई / Oats",
-      "C": "लोबिया / Cowpea",
-      "D": "सरसों / Mustard"
+      "A": "सभी विधेयकों को मंजूरी देना / Sanction all bills",
+      "B": "राज्यपालों की नियुक्ति करना / Appoint Governors",
+      "C": "सशस्त्र बलों का सर्वोच्च सेनापति होता है / Supreme Commander of the Armed Forces",
+      "D": "राज्य सरकारों को बर्खास्त कर सकता है / Can dismiss State Governments"
     },
-    "answer": ["A", "B"]
+    "answer": ["B", "C"],
+    "correct_answers": [
+      "B – राज्यपालों की नियुक्ति करना / Appoint Governors",
+      "C – सशस्त्र बलों का सर्वोच्च सेनापति होता है / Supreme Commander of the Armed Forces"
+    ]
   },
   {
     "id": 5,
-    "question": "कृत्रिम गर्भाधान (Artificial Insemination) कार्यक्रम के लाभ क्या हैं?\nWhat are the benefits of Artificial Insemination (AI) programme?",
+    "question": "भारत के उपराष्ट्रपति के बारे में निम्नलिखित में से क्या सही है?\nWhich of the following is correct about the Vice-President of India?",
     "options": {
-      "A": "बेहतर नस्ल सुधार / Better breed improvement",
-      "B": "रोग का फैलाव कम / Reduced disease spread",
-      "C": "सस्ते में उच्च उत्पादन / High yield at lower cost",
-      "D": "प्राकृतिक संसर्ग तेज होता है / Natural mating is faster"
+      "A": "राज्यसभा का सभापति होता है / Chairman of Rajya Sabha",
+      "B": "राष्ट्रपति की अनुपस्थिति में कार्यभार संभालता है / Acts as President in absence",
+      "C": "लोकसभा का सदस्य होना अनिवार्य है / Must be a member of Lok Sabha",
+      "D": "राज्यपाल द्वारा नियुक्त किया जाता है / Appointed by Governor"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B"],
+    "correct_answers": [
+      "A – राज्यसभा का सभापति होता है / Chairman of Rajya Sabha",
+      "B – राष्ट्रपति की अनुपस्थिति में कार्यभार संभालता है / Acts as President in absence"
+    ]
   },
   {
     "id": 6,
-    "question": "निम्न में से कौन-कौन सी चारा फसलें बहुवर्षीय (Perennial) हैं?\nWhich of the following are perennial fodder crops?",
+    "question": "राष्ट्रपति को महाभियोग द्वारा हटाने की प्रक्रिया निम्नलिखित में से किन अनुच्छेदों में वर्णित है?\nUnder which Articles is the procedure to impeach the President described?",
     "options": {
-      "A": "नेपियर घास / Napier Grass",
-      "B": "गिनी घास / Guinea Grass",
-      "C": "बरसीम / Berseem",
-      "D": "पैरा घास / Para Grass"
+      "A": "अनुच्छेद 61 / Article 61",
+      "B": "अनुच्छेद 53 / Article 53",
+      "C": "अनुच्छेद 124 / Article 124",
+      "D": "अनुच्छेद 74 / Article 74"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A"],
+    "correct_answers": ["A – अनुच्छेद 61 / Article 61"]
   },
   {
     "id": 7,
-    "question": "नीचे दिए गए में से कौन-सा रोग वायरस जनित है?\nWhich of the following diseases is viral in nature?",
+    "question": "भारत के राष्ट्रपति के निर्वाचन में कौन-कौन भाग लेते हैं?\nWho all participate in the election of the President of India?",
     "options": {
-      "A": "FMD / खुरपका-मुंहपका",
-      "B": "PPR / प्लेग",
-      "C": "Brucellosis / ब्रुसेलोसिस",
-      "D": "Blue tongue / ब्लूटंग"
+      "A": "संसद के दोनों सदनों के निर्वाचित सदस्य / Elected members of both Houses of Parliament",
+      "B": "राज्य विधानसभाओं के निर्वाचित सदस्य / Elected members of State Legislative Assemblies",
+      "C": "राज्यसभा के मनोनीत सदस्य / Nominated members of Rajya Sabha",
+      "D": "लोकसभा के मनोनीत सदस्य / Nominated members of Lok Sabha"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B"],
+    "correct_answers": [
+      "A – संसद के दोनों सदनों के निर्वाचित सदस्य / Elected members of both Houses of Parliament",
+      "B – राज्य विधानसभाओं के निर्वाचित सदस्य / Elected members of State Legislative Assemblies"
+    ]
   },
   {
     "id": 8,
-    "question": "पशुओं को संतुलित आहार के लिए क्या-क्या जरूरी है?\nWhat are essential components of balanced diet for livestock?",
+    "question": "राष्ट्रपति की सलाह पर कार्य करना किस अनुच्छेद के अंतर्गत बाध्यकारी है?\nUnder which Article is it mandatory for the President to act on the aid and advice?",
     "options": {
-      "A": "हरी चारा / Green fodder",
-      "B": "सूखा चारा / Dry fodder",
-      "C": "कंसंट्रेट / Concentrates",
-      "D": "सिर्फ पानी / Only water"
+      "A": "अनुच्छेद 74 / Article 74",
+      "B": "अनुच्छेद 75 / Article 75",
+      "C": "अनुच्छेद 53 / Article 53",
+      "D": "अनुच्छेद 77 / Article 77"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"],
+    "correct_answers": ["A – अनुच्छेद 74 / Article 74"]
   },
   {
     "id": 9,
-    "question": "बछड़ों में अधिक मृत्यु दर किस कारण हो सकती है?\nWhich of the following are reasons for high mortality in calves?",
+    "question": "भारत के उपराष्ट्रपति का निर्वाचन कौन करता है?\nWho elects the Vice-President of India?",
     "options": {
-      "A": "कोलोस्ट्रम न देना / Not feeding colostrum",
-      "B": "संक्रमण / Infections",
-      "C": "अतिरिक्त प्रोटीन / Excess protein intake",
-      "D": "अस्वच्छ वातावरण / Unhygienic environment"
+      "A": "लोकसभा और राज्यसभा दोनों के निर्वाचित सदस्य / Elected members of Lok Sabha and Rajya Sabha",
+      "B": "केवल राज्यसभा के सदस्य / Only members of Rajya Sabha",
+      "C": "संसद के दोनों सदनों के सभी सदस्य / All members of both Houses of Parliament",
+      "D": "केवल लोकसभा के सदस्य / Only members of Lok Sabha"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["C"],
+    "correct_answers": ["C – संसद के दोनों सदनों के सभी सदस्य / All members of both Houses of Parliament"]
   },
   {
     "id": 10,
-    "question": "राष्ट्रीय गोकुल मिशन के प्रमुख उद्देश्य क्या हैं?\nWhat are the key objectives of Rashtriya Gokul Mission?",
+    "question": "राष्ट्रपति को क्षमा देने की शक्ति किस अनुच्छेद में दी गई है?\nUnder which Article does the President have the power to grant pardon?",
     "options": {
-      "A": "देशी नस्लों का संरक्षण / Conservation of indigenous breeds",
-      "B": "दूध उत्पादन बढ़ाना / Increase milk production",
-      "C": "आधुनिक अनुसंधान प्रयोगशालाएं / Modern research labs",
-      "D": "पशुओं का आयात / Import of animals"
+      "A": "अनुच्छेद 72 / Article 72",
+      "B": "अनुच्छेद 161 / Article 161",
+      "C": "अनुच्छेद 60 / Article 60",
+      "D": "अनुच्छेद 368 / Article 368"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"],
+    "correct_answers": ["A – अनुच्छेद 72 / Article 72"]
+  },
+  {
+    "id": 11,
+    "question": "राष्ट्रपति को असंवैधानिक विधेयक को रोकने का अधिकार क्या कहलाता है?\nWhat is the power of the President to withhold assent from a bill called?",
+    "options": {
+      "A": "जेब वीटो / Pocket Veto",
+      "B": "संदिग्ध वीटो / Suspensive Veto",
+      "C": "पूर्ण वीटो / Absolute Veto",
+      "D": "सांसदीय वीटो / Parliamentary Veto"
+    },
+    "answer": ["A", "C"],
+    "correct_answers": [
+      "A – जेब वीटो / Pocket Veto",
+      "C – पूर्ण वीटो / Absolute Veto"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "यदि राष्ट्रपति पद रिक्त हो जाए, तो अधिकतम कितने समय में चुनाव संपन्न होना चाहिए?\nIf the office of the President becomes vacant, within how many months should the election be held?",
+    "options": {
+      "A": "6 माह / 6 months",
+      "B": "3 माह / 3 months",
+      "C": "4 माह / 4 months",
+      "D": "2 माह / 2 months"
+    },
+    "answer": ["A"],
+    "correct_answers": ["A – 6 माह / 6 months"]
+  },
+  {
+    "id": 13,
+    "question": "राष्ट्रपति की अनुपस्थिति में कौन कार्यभार संभालता है?\nWho acts as President in his absence?",
+    "options": {
+      "A": "प्रधानमंत्री / Prime Minister",
+      "B": "मुख्य न्यायाधीश / Chief Justice",
+      "C": "उपराष्ट्रपति / Vice-President",
+      "D": "लोकसभा अध्यक्ष / Speaker of Lok Sabha"
+    },
+    "answer": ["C"],
+    "correct_answers": ["C – उपराष्ट्रपति / Vice-President"]
+  },
+  {
+    "id": 14,
+    "question": "भारत में राष्ट्रपति द्वारा पारित अध्यादेश की वैधता की सीमा कितनी है?\nWhat is the time limit of an ordinance issued by the President?",
+    "options": {
+      "A": "6 सप्ताह / 6 weeks",
+      "B": "6 माह / 6 months",
+      "C": "3 माह / 3 months",
+      "D": "1 वर्ष / 1 year"
+    },
+    "answer": ["A"],
+    "correct_answers": ["A – 6 सप्ताह / 6 weeks"]
+  },
+  {
+    "id": 15,
+    "question": "राष्ट्रपति के चुनाव को चुनौती किस अदालत में दी जा सकती है?\nIn which court can the Presidential election be challenged?",
+    "options": {
+      "A": "सुप्रीम कोर्ट / Supreme Court",
+      "B": "हाई कोर्ट / High Court",
+      "C": "लोकसभा / Lok Sabha",
+      "D": "राज्यसभा / Rajya Sabha"
+    },
+    "answer": ["A"],
+    "correct_answers": ["A – सुप्रीम कोर्ट / Supreme Court"]
+  },
+  {
+    "id": 16,
+    "question": "राष्ट्रपति के निर्वाचन हेतु निर्वाचक मंडल में कौन-कौन शामिल होते हैं? / Who are included in the electoral college for the election of the President of India?",
+    "options": {
+      "A": "संसद के दोनों सदनों के निर्वाचित सदस्य / Elected members of both Houses of Parliament",
+      "B": "राज्य विधानसभाओं के निर्वाचित सदस्य / Elected members of State Legislative Assemblies",
+      "C": "राज्य विधान परिषदों के मनोनीत सदस्य / Nominated members of State Legislative Councils",
+      "D": "दिल्ली और पुदुचेरी की विधानसभाओं के निर्वाचित सदस्य / Elected members of Legislative Assemblies of Delhi and Puducherry"
+    },
+    "answer": ["A", "B", "D"],
+    "correct_answers": [
+      "A – संसद के दोनों सदनों के निर्वाचित सदस्य / Elected members of both Houses of Parliament",
+      "B – राज्य विधानसभाओं के निर्वाचित सदस्य / Elected members of State Legislative Assemblies",
+      "D – दिल्ली और पुदुचेरी की विधानसभाओं के निर्वाचित सदस्य / Elected members of Legislative Assemblies of Delhi and Puducherry"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "भारत के राष्ट्रपति की विधायी शक्तियों में से कौन-सी सही हैं? / Which of the following are legislative powers of the President of India?",
+    "options": {
+      "A": "संसद के अधिवेशन को बुलाना / Summon the session of Parliament",
+      "B": "अध्यादेश जारी करना / Issue ordinances",
+      "C": "विधानसभा को भंग करना / Dissolve State Assembly",
+      "D": "राज्यपाल की नियुक्ति करना / Appoint the Governor"
+    },
+    "answer": ["A", "B"],
+    "correct_answers": [
+      "A – संसद के अधिवेशन को बुलाना / Summon the session of Parliament",
+      "B – अध्यादेश जारी करना / Issue ordinances"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "राष्ट्रपति की अनुच्छेद 72 के अंतर्गत क्षमादान शक्ति किस पर लागू नहीं होती? / Under Article 72, Presidential pardon does NOT apply to:",
+    "options": {
+      "A": "सेना द्वारा सुनाई गई सजाओं पर / Punishments awarded by Court Martial",
+      "B": "राज्य कानून के तहत मृत्युदंड / Death sentences under state law",
+      "C": "केंद्र सरकार के अधीन अपराध / Offenses under central government jurisdiction",
+      "D": "संविधान के तहत विशेष न्यायालयों के निर्णय / Decisions of special courts under Constitution"
+    },
+    "answer": ["B", "D"],
+    "correct_answers": [
+      "B – राज्य कानून के तहत मृत्युदंड / Death sentences under state law",
+      "D – संविधान के तहत विशेष न्यायालयों के निर्णय / Decisions of special courts under Constitution"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "उपराष्ट्रपति को राष्ट्रपति कार्य करने की शक्ति किस अनुच्छेद के तहत मिलती है? / Under which Article does the Vice-President discharge the functions of the President?",
+    "options": {
+      "A": "अनुच्छेद 63 / Article 63",
+      "B": "अनुच्छेद 65 / Article 65",
+      "C": "अनुच्छेद 74 / Article 74",
+      "D": "अनुच्छेद 76 / Article 76"
+    },
+    "answer": ["B"],
+    "correct_answers": [
+      "B – अनुच्छेद 65 / Article 65"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "किस अनुच्छेद के तहत राष्ट्रपति मंत्रिपरिषद की सलाह से बाध्य होता है? / Under which Article is the President bound by the advice of the Council of Ministers?",
+    "options": {
+      "A": "अनुच्छेद 72 / Article 72",
+      "B": "अनुच्छेद 74 / Article 74",
+      "C": "अनुच्छेद 75 / Article 75",
+      "D": "अनुच्छेद 76 / Article 76"
+    },
+    "answer": ["B"],
+    "correct_answers": [
+      "B – अनुच्छेद 74 / Article 74"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "भारत के राष्ट्रपति की वित्तीय शक्तियों में से कौन सी सही हैं? / Which of the following are financial powers of the President of India?",
+    "options": {
+      "A": "वित्त विधेयक संसद में प्रस्तुत करना / Causing to lay the financial bill before Parliament",
+      "B": "भारत के नियंत्रक और महालेखा परीक्षक की नियुक्ति / Appointment of CAG of India",
+      "C": "वित्त आयोग का गठन करना / Constituting the Finance Commission",
+      "D": "राज्यों को अनुदान देना / Grant-in-aid to states"
+    },
+    "answer": ["A", "B", "C"],
+    "correct_answers": [
+      "A – वित्त विधेयक संसद में प्रस्तुत करना / Causing to lay the financial bill before Parliament",
+      "B – भारत के नियंत्रक और महालेखा परीक्षक की नियुक्ति / Appointment of CAG of India",
+      "C – वित्त आयोग का गठन करना / Constituting the Finance Commission"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "भारत के उपराष्ट्रपति का कार्यकाल और कार्य क्षेत्र किस प्रकार निर्धारित है? / How is the term and function of the Vice-President of India determined?",
+    "options": {
+      "A": "राज्यसभा का अध्यक्ष / Chairman of Rajya Sabha",
+      "B": "5 वर्षों का कार्यकाल / 5 years term",
+      "C": "संविधान के अनुच्छेद 66 से 69 / As per Articles 66 to 69",
+      "D": "राष्ट्रपति के सहायक / Assistant to the President"
+    },
+    "answer": ["A", "B", "C"],
+    "correct_answers": [
+      "A – राज्यसभा का अध्यक्ष / Chairman of Rajya Sabha",
+      "B – 5 वर्षों का कार्यकाल / 5 years term",
+      "C – संविधान के अनुच्छेद 66 से 69 / As per Articles 66 to 69"
+    ]
+  },
+  {
+    "id": 23,
+    "question": "राष्ट्रपति की न्यायिक शक्तियों में कौन शामिल हैं? / Which of the following are included in the judicial powers of the President?",
+    "options": {
+      "A": "क्षमा देना / Grant pardon",
+      "B": "सजा को निलंबित करना / Suspend punishment",
+      "C": "मामले को पुनः परीक्षण के लिए भेजना / Refer case for retrial",
+      "D": "राज्यपाल के विरुद्ध मुकदमा चलाना / Try the Governor"
+    },
+    "answer": ["A", "B", "C"],
+    "correct_answers": [
+      "A – क्षमा देना / Grant pardon",
+      "B – सजा को निलंबित करना / Suspend punishment",
+      "C – मामले को पुनः परीक्षण के लिए भेजना / Refer case for retrial"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "राष्ट्रपति का महाभियोग किस प्रक्रिया के तहत किया जाता है? / The impeachment of the President is carried out under which process?",
+    "options": {
+      "A": "संविधान के अनुच्छेद 61 के तहत / Under Article 61 of Constitution",
+      "B": "विशेष बहुमत द्वारा / By Special majority",
+      "C": "संसद के दोनों सदनों द्वारा / By both Houses of Parliament",
+      "D": "प्रधानमंत्री की सिफारिश से / On recommendation of Prime Minister"
+    },
+    "answer": ["A", "B", "C"],
+    "correct_answers": [
+      "A – संविधान के अनुच्छेद 61 के तहत / Under Article 61 of Constitution",
+      "B – विशेष बहुमत द्वारा / By Special majority",
+      "C – संसद के दोनों सदनों द्वारा / By both Houses of Parliament"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "राष्ट्रपति को किन परिस्थितियों में अध्यादेश जारी करने की शक्ति दी जाती है? / Under what circumstances can the President issue ordinances?",
+    "options": {
+      "A": "जब संसद सत्र में न हो / When Parliament is not in session",
+      "B": "राष्ट्रीय आपातकाल के दौरान / During National Emergency",
+      "C": "संविधान संशोधन के लिए / For Constitutional Amendment",
+      "D": "सार्वजनिक हित में तत्काल आवश्यकता हो / Urgent need in public interest"
+    },
+    "answer": ["A", "D"],
+    "correct_answers": [
+      "A – जब संसद सत्र में न हो / When Parliament is not in session",
+      "D – सार्वजनिक हित में तत्काल आवश्यकता हो / Urgent need in public interest"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "राष्ट्रपति को महाभियोग द्वारा हटाने की प्रक्रिया से जुड़े कथनों पर विचार कीजिए। / Consider the following statements about impeachment of the President:",
+    "options": {
+      "A": "यह प्रक्रिया संविधान के अनुच्छेद 61 के अंतर्गत होती है। / This process is under Article 61 of the Constitution.",
+      "B": "महाभियोग प्रस्ताव केवल लोकसभा में प्रस्तुत किया जा सकता है। / Impeachment can be initiated only in Lok Sabha.",
+      "C": "दोनों सदनों में दो-तिहाई बहुमत से पारित होना आवश्यक है। / It must be passed by a two-thirds majority in both Houses.",
+      "D": "राष्ट्रपति को स्वयं अपना पक्ष रखने का अवसर नहीं दिया जाता। / The President is not given a chance to present his side."
+    },
+    "answer": ["A", "C"],
+    "correct_answers": [
+      "A – यह प्रक्रिया संविधान के अनुच्छेद 61 के अंतर्गत होती है। / This process is under Article 61 of the Constitution.",
+      "C – दोनों सदनों में दो-तिहाई बहुमत से पारित होना आवश्यक है। / It must be passed by a two-thirds majority in both Houses."
+    ]
+  },
+  {
+    "id": 27,
+    "question": "उपराष्ट्रपति के निर्वाचन से संबंधित कौन से कथन सही हैं? / Which of the following statements are true regarding the election of the Vice-President?",
+    "options": {
+      "A": "उपराष्ट्रपति का निर्वाचन एक निर्वाचक मंडल द्वारा होता है। / The Vice-President is elected by an electoral college.",
+      "B": "केवल लोकसभा सदस्य इसमें भाग लेते हैं। / Only Lok Sabha members participate.",
+      "C": "अनुपातिक प्रतिनिधित्व प्रणाली अपनाई जाती है। / Proportional representation is used.",
+      "D": "गुप्त मतदान प्रणाली अपनाई जाती है। / Secret ballot system is adopted."
+    },
+    "answer": ["A", "C", "D"],
+    "correct_answers": [
+      "A – उपराष्ट्रपति का निर्वाचन एक निर्वाचक मंडल द्वारा होता है। / The Vice-President is elected by an electoral college.",
+      "C – अनुपातिक प्रतिनिधित्व प्रणाली अपनाई जाती है। / Proportional representation is used.",
+      "D – गुप्त मतदान प्रणाली अपनाई जाती है। / Secret ballot system is adopted."
+    ]
+  },
+  {
+    "id": 28,
+    "question": "राष्ट्रपति की नियुक्ति से संबंधित कौन-से कथन सही हैं? / Which of the following statements regarding the appointment of the President are correct?",
+    "options": {
+      "A": "राष्ट्रपति को संसदीय समितियों द्वारा निर्वाचित किया जाता है। / The President is elected by Parliamentary committees.",
+      "B": "केवल निर्वाचित सांसद और विधायक भाग लेते हैं। / Only elected MPs and MLAs participate.",
+      "C": "गुप्त मतदान और एकल हस्तांतरणीय मत प्रणाली होती है। / Secret ballot and single transferable vote system is followed.",
+      "D": "भारत के राष्ट्रपति का कार्यकाल 5 वर्षों का होता है। / The tenure of the Indian President is 5 years."
+    },
+    "answer": ["B", "C", "D"],
+    "correct_answers": [
+      "B – केवल निर्वाचित सांसद और विधायक भाग लेते हैं। / Only elected MPs and MLAs participate.",
+      "C – गुप्त मतदान और एकल हस्तांतरणीय मत प्रणाली होती है। / Secret ballot and single transferable vote system is followed.",
+      "D – भारत के राष्ट्रपति का कार्यकाल 5 वर्षों का होता है। / The tenure of the Indian President is 5 years."
+    ]
+  },
+  {
+    "id": 29,
+    "question": "राष्ट्रपति द्वारा क्षमादान देने के अधिकार पर निम्नलिखित में से कौन-सा/से सही है/हैं? / Which of the following are true about President’s pardoning powers?",
+    "options": {
+      "A": "यह शक्ति अनुच्छेद 72 के तहत दी गई है। / This power is given under Article 72.",
+      "B": "यह केंद्र सरकार के मामलों तक सीमित है। / It is limited to central government matters.",
+      "C": "यह सर्वोच्च न्यायालय के निर्णय को भी बदल सकता है। / It can override Supreme Court’s decisions.",
+      "D": "यह राज्य के मामलों में स्वतः लागू होती है। / It automatically applies to state matters."
+    },
+    "answer": ["A", "B", "C"],
+    "correct_answers": [
+      "A – यह शक्ति अनुच्छेद 72 के तहत दी गई है। / This power is given under Article 72.",
+      "B – यह केंद्र सरकार के मामलों तक सीमित है। / It is limited to central government matters.",
+      "C – यह सर्वोच्च न्यायालय के निर्णय को भी बदल सकता है। / It can override Supreme Court’s decisions."
+    ]
+  },
+  {
+    "id": 30,
+    "question": "भारतीय संविधान में उपराष्ट्रपति के कर्तव्यों से जुड़े कथनों को देखें: / Consider the following about the duties of the Vice-President:",
+    "options": {
+      "A": "वह राज्यसभा के अध्यक्ष होते हैं। / He is the Chairman of Rajya Sabha.",
+      "B": "वह राष्ट्रपति की अनुपस्थिति में कार्य करते हैं। / He acts in absence of the President.",
+      "C": "वह राष्ट्रपति के कर्तव्यों का स्वतः कार्यभार संभालते हैं। / He automatically assumes Presidential duties.",
+      "D": "वह राष्ट्रपति द्वारा अस्थायी रूप से नियुक्त किए जाते हैं। / He is temporarily appointed by the President."
+    },
+    "answer": ["A", "B"],
+    "correct_answers": [
+      "A – वह राज्यसभा के अध्यक्ष होते हैं। / He is the Chairman of Rajya Sabha.",
+      "B – वह राष्ट्रपति की अनुपस्थिति में कार्य करते हैं। / He acts in absence of the President."
+    ]
+  },
+  {
+    "id": 31,
+    "question": "भारत के राष्ट्रपति की विधायी शक्तियों में कौन-कौन से कार्य शामिल हैं? / Which of the following are included in the legislative powers of the Indian President?",
+    "options": {
+      "A": "संसद को बुलाना और स्थगित करना / Summoning and proroguing the Parliament",
+      "B": "राज्य विधानसभाओं को भंग करना / Dissolving State Assemblies",
+      "C": "सत्रावसान की घोषणा करना / Declaring end of session",
+      "D": "विधेयकों को स्वीकृति देना / Giving assent to bills"
+    },
+    "answer": ["A", "C", "D"],
+    "correct_answers": [
+      "A – संसद को बुलाना और स्थगित करना / Summoning and proroguing the Parliament",
+      "C – सत्रावसान की घोषणा करना / Declaring end of session",
+      "D – विधेयकों को स्वीकृति देना / Giving assent to bills"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "निम्नलिखित में से कौन-से अध्यादेशों से संबंधित कथन सही हैं? / Which of the following statements regarding ordinances are correct?",
+    "options": {
+      "A": "राष्ट्रपति संसद के सत्र में रहते हुए अध्यादेश जारी कर सकते हैं। / President can issue ordinances during Parliament session.",
+      "B": "अध्यादेश कानून के समान प्रभाव रखते हैं। / Ordinances have the same force as laws.",
+      "C": "वे केवल कार्यपालिका की सलाह पर जारी किए जाते हैं। / They are issued only on the advice of executive.",
+      "D": "वे संसद द्वारा स्वीकृति मिलने तक प्रभावी रहते हैं। / They remain effective until approved by Parliament."
+    },
+    "answer": ["B", "C", "D"],
+    "correct_answers": [
+      "B – अध्यादेश कानून के समान प्रभाव रखते हैं। / Ordinances have the same force as laws.",
+      "C – वे केवल कार्यपालिका की सलाह पर जारी किए जाते हैं। / They are issued only on the advice of executive.",
+      "D – वे संसद द्वारा स्वीकृति मिलने तक प्रभावी रहते हैं। / They remain effective until approved by Parliament."
+    ]
+  },
+  {
+    "id": 33,
+    "question": "भारत के उपराष्ट्रपति की अर्हता से संबंधित कथनों को पहचानिए: / Identify the correct qualifications for the Vice-President of India:",
+    "options": {
+      "A": "भारत का नागरिक होना चाहिए / Must be a citizen of India",
+      "B": "राज्यसभा का सदस्य होना चाहिए / Must be a member of Rajya Sabha",
+      "C": "35 वर्ष की आयु पूरी होनी चाहिए / Must have completed 35 years of age",
+      "D": "लोकसभा चुनाव के लिए अर्ह हो / Must be eligible for election to Lok Sabha"
+    },
+    "answer": ["A", "C", "D"],
+    "correct_answers": [
+      "A – भारत का नागरिक होना चाहिए / Must be a citizen of India",
+      "C – 35 वर्ष की आयु पूरी होनी चाहिए / Must have completed 35 years of age",
+      "D – लोकसभा चुनाव के लिए अर्ह हो / Must be eligible for election to Lok Sabha"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "राष्ट्रपति के कार्यकाल और पदत्याग से संबंधित निम्न में से कौन-से कथन सही हैं? / Which of the following statements are correct regarding President's term and resignation?",
+    "options": {
+      "A": "राष्ट्रपति का कार्यकाल 6 वर्ष का होता है / President’s tenure is 6 years",
+      "B": "राष्ट्रपति उपराष्ट्रपति को इस्तीफा देते हैं / President resigns to Vice-President",
+      "C": "राष्ट्रपति का कार्यकाल 5 वर्ष का होता है / President’s tenure is 5 years",
+      "D": "राष्ट्रपति को केवल महाभियोग द्वारा हटाया जा सकता है / President can only be removed via impeachment"
+    },
+    "answer": ["B", "C", "D"],
+    "correct_answers": [
+      "B – राष्ट्रपति उपराष्ट्रपति को इस्तीफा देते हैं / President resigns to Vice-President",
+      "C – राष्ट्रपति का कार्यकाल 5 वर्ष का होता है / President’s tenure is 5 years",
+      "D – राष्ट्रपति को केवल महाभियोग द्वारा हटाया जा सकता है / President can only be removed via impeachment"
+    ]
+  },
+  {
+    "id": 35,
+    "question": "राष्ट्रपति की न्यायिक शक्तियों से संबंधित कौन-से कथन सही हैं? / Which statements are correct regarding judicial powers of the President?",
+    "options": {
+      "A": "दया याचिका पर निर्णय लेने की शक्ति है / Has power to decide on mercy petitions",
+      "B": "सर्वोच्च न्यायालय के न्यायाधीशों को नियुक्त करता है / Appoints Judges of Supreme Court",
+      "C": "न्यायिक निर्णयों को रद्द कर सकता है / Can annul judicial decisions",
+      "D": "सजा को कम या निलंबित कर सकता है / Can commute or suspend sentences"
+    },
+    "answer": ["A", "B", "D"],
+    "correct_answers": [
+      "A – दया याचिका पर निर्णय लेने की शक्ति है / Has power to decide on mercy petitions",
+      "B – सर्वोच्च न्यायालय के न्यायाधीशों को नियुक्त करता है / Appoints Judges of Supreme Court",
+      "D – सजा को कम या निलंबित कर सकता है / Can commute or suspend sentences"
+    ]
+  },
+  {
+    "id": 36,
+    "question": "भारतीय संविधान में राष्ट्रपति की आपातकालीन शक्तियाँ कौन-से अनुच्छेदों में दी गई हैं? / Under which Articles are the emergency powers of the President given in the Indian Constitution?",
+    "options": {
+      "A": "अनुच्छेद 352 / Article 352",
+      "B": "अनुच्छेद 356 / Article 356",
+      "C": "अनुच्छेद 360 / Article 360",
+      "D": "अनुच्छेद 370 / Article 370"
+    },
+    "answer": ["A", "B", "C"],
+    "correct_answers": [
+      "A – अनुच्छेद 352 / Article 352",
+      "B – अनुच्छेद 356 / Article 356",
+      "C – अनुच्छेद 360 / Article 360"
+    ]
+  },
+  {
+    "id": 37,
+    "question": "भारत के उपराष्ट्रपति की नियुक्ति किसके द्वारा होती है? / Who appoints the Vice-President of India?",
+    "options": {
+      "A": "राष्ट्रपति / President",
+      "B": "निर्वाचन मंडल / Electoral College",
+      "C": "प्रधानमंत्री / Prime Minister",
+      "D": "राज्यपालों की समिति / Committee of Governors"
+    },
+    "answer": ["B"],
+    "correct_answers": [
+      "B – निर्वाचन मंडल / Electoral College"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "निम्न में से कौन-सा कथन राष्ट्रपति के विशेषाधिकारों से संबंधित है? / Which of the following is related to President’s privileges?",
+    "options": {
+      "A": "राष्ट्रपति को न्यायिक कार्यवाही से छूट है / President is immune from judicial proceedings",
+      "B": "राष्ट्रपति संसद के सामने उत्तरदायी होते हैं / President is accountable to Parliament",
+      "C": "राष्ट्रपति पर आपराधिक आरोप नहीं लगाया जा सकता / No criminal charges can be filed during tenure",
+      "D": "राष्ट्रपति जनहित याचिका दायर कर सकते हैं / President can file public interest litigation"
+    },
+    "answer": ["A", "C"],
+    "correct_answers": [
+      "A – राष्ट्रपति को न्यायिक कार्यवाही से छूट है / President is immune from judicial proceedings",
+      "C – राष्ट्रपति पर आपराधिक आरोप नहीं लगाया जा सकता / No criminal charges can be filed during tenure"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "भारत के राष्ट्रपति की कार्यपालिका शक्तियाँ किन कार्यों को शामिल करती हैं? / What do the executive powers of the President of India include?",
+    "options": {
+      "A": "राज्यपालों की नियुक्ति / Appointment of Governors",
+      "B": "प्रधानमंत्री की नियुक्ति / Appointment of Prime Minister",
+      "C": "मंत्रियों की नियुक्ति / Appointment of Ministers",
+      "D": "राज्यपालों को बर्खास्त करना / Dismissing Governors"
+    },
+    "answer": ["A", "B", "C"],
+    "correct_answers": [
+      "A – राज्यपालों की नियुक्ति / Appointment of Governors",
+      "B – प्रधानमंत्री की नियुक्ति / Appointment of Prime Minister",
+      "C – मंत्रियों की नियुक्ति / Appointment of Ministers"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "निम्न में से कौन-से उपराष्ट्रपति के कर्तव्यों से जुड़े नहीं हैं? / Which of the following are NOT related to the duties of the Vice-President?",
+    "options": {
+      "A": "राज्यसभा की अध्यक्षता / Presiding over Rajya Sabha",
+      "B": "लोकसभा में प्रश्न पूछना / Asking questions in Lok Sabha",
+      "C": "राष्ट्रपति की अनुपस्थिति में कार्यभार संभालना / Acting in absence of President",
+      "D": "संवैधानिक सलाह देना / Giving constitutional advice"
+    },
+    "answer": ["B", "D"],
+    "correct_answers": [
+      "B – लोकसभा में प्रश्न पूछना / Asking questions in Lok Sabha",
+      "D – संवैधानिक सलाह देना / Giving constitutional advice"
+    ]
+  },
+  {
+    "id": 41,
+    "question": "राष्ट्रपति पर महाभियोग लगाने की प्रक्रिया के बारे में कौन से कथन सही हैं? / Which of the following statements about the impeachment process of the President are correct?",
+    "options": {
+      "A": "यह प्रक्रिया केवल संसद द्वारा आरंभ की जा सकती है / It can only be initiated by the Parliament",
+      "B": "राज्य विधानसभाएँ भी प्रस्ताव ला सकती हैं / State Legislatures can also bring the motion",
+      "C": "दोनों सदनों में विशेष बहुमत आवश्यक होता है / Special majority is required in both Houses",
+      "D": "सिर्फ लोकसभा की अनुमति पर्याप्त है / Only Lok Sabha’s consent is sufficient"
+    },
+    "answer": ["A", "C"],
+    "correct_answers": [
+      "A – यह प्रक्रिया केवल संसद द्वारा आरंभ की जा सकती है / It can only be initiated by the Parliament",
+      "C – दोनों सदनों में विशेष बहुमत आवश्यक होता है / Special majority is required in both Houses"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "निम्नलिखित में से राष्ट्रपति की शक्तियों के अंतर्गत कौन-से कार्य आते हैं? / Which of the following are included in the powers of the President?",
+    "options": {
+      "A": "राज्यपालों की नियुक्ति / Appointment of Governors",
+      "B": "राज्यपाल को हटाना / Removal of Governor",
+      "C": "लोकसभा को भंग करना / Dissolution of Lok Sabha",
+      "D": "राज्य विधानसभाओं को भंग करना / Dissolution of State Assemblies"
+    },
+    "answer": ["A", "B", "C"],
+    "correct_answers": [
+      "A – राज्यपालों की नियुक्ति / Appointment of Governors",
+      "B – राज्यपाल को हटाना / Removal of Governor",
+      "C – लोकसभा को भंग करना / Dissolution of Lok Sabha"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "भारत में उपराष्ट्रपति के संबंध में कौन-से कथन सही हैं? / Which statements about the Vice-President of India are correct?",
+    "options": {
+      "A": "वह राष्ट्रपति के बाद दूसरा सर्वोच्च पद होता है / He holds the second-highest constitutional office",
+      "B": "वह लोकसभा का अध्यक्ष होता है / He is the Speaker of Lok Sabha",
+      "C": "वह राज्यसभा का सभापति होता है / He is the Chairman of Rajya Sabha",
+      "D": "वह राष्ट्रपति की अनुपस्थिति में कार्य करता है / He acts in the absence of the President"
+    },
+    "answer": ["A", "C", "D"],
+    "correct_answers": [
+      "A – वह राष्ट्रपति के बाद दूसरा सर्वोच्च पद होता है / He holds the second-highest constitutional office",
+      "C – वह राज्यसभा का सभापति होता है / He is the Chairman of Rajya Sabha",
+      "D – वह राष्ट्रपति की अनुपस्थिति में कार्य करता है / He acts in the absence of the President"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "राष्ट्रपति की चुनाव प्रक्रिया में कौन-से कथन सही हैं? / Which statements are true regarding the election process of the President?",
+    "options": {
+      "A": "निर्वाचन मंडल में संसद और राज्य विधानसभाएं शामिल होती हैं / Electoral college includes Parliament and State Assemblies",
+      "B": "गुप्त मतदान और एकल संक्रमणीय वोट प्रणाली अपनाई जाती है / Secret ballot and single transferable vote system are used",
+      "C": "लोकसभा और राज्यसभा के सदस्य ही मतदान करते हैं / Only Lok Sabha and Rajya Sabha members vote",
+      "D": "नामांकन पत्रों की जाँच सुप्रीम कोर्ट करती है / Supreme Court scrutinizes nomination papers"
+    },
+    "answer": ["A", "B"],
+    "correct_answers": [
+      "A – निर्वाचन मंडल में संसद और राज्य विधानसभाएं शामिल होती हैं / Electoral college includes Parliament and State Assemblies",
+      "B – गुप्त मतदान और एकल संक्रमणीय वोट प्रणाली अपनाई जाती है / Secret ballot and single transferable vote system are used"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "राष्ट्रपति की क्षमादान शक्तियाँ (Article 72) के तहत कौन-से विकल्प सही हैं? / Under Article 72, which clemency powers of the President are correct?",
+    "options": {
+      "A": "मृत्युदंड को माफ करने की शक्ति / Power to pardon death sentence",
+      "B": "राज्य कानूनों के तहत अपराधों को माफ करना / Pardon under state laws",
+      "C": "सभी अदालतों द्वारा दी गई सजा को निलंबित करना / Suspend any court’s sentence",
+      "D": "सेना अदालतों द्वारा दी गई सजा को माफ करना / Pardon court-martial sentences"
+    },
+    "answer": ["A", "C", "D"],
+    "correct_answers": [
+      "A – मृत्युदंड को माफ करने की शक्ति / Power to pardon death sentence",
+      "C – सभी अदालतों द्वारा दी गई सजा को निलंबित करना / Suspend any court’s sentence",
+      "D – सेना अदालतों द्वारा दी गई सजा को माफ करना / Pardon court-martial sentences"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "भारत के उपराष्ट्रपति का कार्यकाल, निर्वाचन एवं पुनर्निर्वाचन से संबंधित कौन-से कथन सही हैं? / Which of the following statements about Vice-President’s term and re-election are correct?",
+    "options": {
+      "A": "कार्यकाल 6 वर्षों का होता है / The term is of 6 years",
+      "B": "निर्वाचन में केवल राज्यसभा भाग लेती है / Only Rajya Sabha participates in the election",
+      "C": "राष्ट्रपति के समान पुनर्निर्वाचन संभव है / Re-election is possible like the President",
+      "D": "निर्वाचन प्रक्रिया में संसद के दोनों सदन भाग लेते हैं / Both Houses of Parliament participate"
+    },
+    "answer": ["C", "D"],
+    "correct_answers": [
+      "C – राष्ट्रपति के समान पुनर्निर्वाचन संभव है / Re-election is possible like the President",
+      "D – निर्वाचन प्रक्रिया में संसद के दोनों सदन भाग लेते हैं / Both Houses of Parliament participate"
+    ]
+  },
+  {
+    "id": 47,
+    "question": "निम्नलिखित में से कौन राष्ट्रपति के निर्वाचन से संबंधित है? / Which of the following are related to the election of the President?",
+    "options": {
+      "A": "Article 52 / अनुच्छेद 52",
+      "B": "Article 54 / अनुच्छेद 54",
+      "C": "Article 56 / अनुच्छेद 56",
+      "D": "Article 61 / अनुच्छेद 61"
+    },
+    "answer": ["B"],
+    "correct_answers": [
+      "B – Article 54 / अनुच्छेद 54"
+    ]
+  },
+  {
+    "id": 48,
+    "question": "राष्ट्रपति द्वारा अध्यादेश (Ordinance) जारी करने के संबंध में कौन-से कथन सही हैं? / Which statements about President’s ordinance power are correct?",
+    "options": {
+      "A": "यह कार्य केवल संसद सत्र में किया जा सकता है / It can be done only during the session",
+      "B": "संसद के सत्र न होने पर यह अधिकार होता है / It is applicable when Parliament is not in session",
+      "C": "यह अस्थायी कानून होता है / It is a temporary law",
+      "D": "राष्ट्रपति को संसद से पूर्व अनुमति लेनी होती है / President needs prior permission of Parliament"
+    },
+    "answer": ["B", "C"],
+    "correct_answers": [
+      "B – संसद के सत्र न होने पर यह अधिकार होता है / It is applicable when Parliament is not in session",
+      "C – यह अस्थायी कानून होता है / It is a temporary law"
+    ]
+  },
+  {
+    "id": 49,
+    "question": "निम्नलिखित में से कौन राष्ट्रपति की शपथ से संबंधित है? / Which of the following is related to the oath of the President?",
+    "options": {
+      "A": "Chief Justice of India / भारत के मुख्य न्यायाधीश",
+      "B": "Vice-President / उपराष्ट्रपति",
+      "C": "Speaker of Lok Sabha / लोकसभा अध्यक्ष",
+      "D": "Prime Minister / प्रधानमंत्री"
+    },
+    "answer": ["A"],
+    "correct_answers": [
+      "A – Chief Justice of India / भारत के मुख्य न्यायाधीश"
+    ]
+  },
+  {
+    "id": 50,
+    "question": "उपराष्ट्रपति को हटाने की प्रक्रिया से संबंधित कौन-से कथन सही हैं? / Which statements about the removal of the Vice-President are correct?",
+    "options": {
+      "A": "केवल राज्यसभा प्रस्ताव ला सकती है / Only Rajya Sabha can initiate",
+      "B": "लोकसभा को भी बहुमत से सहमति देनी होती है / Lok Sabha must also agree by majority",
+      "C": "विशेष बहुमत की आवश्यकता होती है / Special majority is required",
+      "D": "सर्वोच्च न्यायालय की भूमिका होती है / Supreme Court is involved"
+    },
+    "answer": ["A", "B"],
+    "correct_answers": [
+      "A – केवल राज्यसभा प्रस्ताव ला सकती है / Only Rajya Sabha can initiate",
+      "B – लोकसभा को भी बहुमत से सहमति देनी होती है / Lok Sabha must also agree by majority"
+    ]
   }
 ]
+
+
+
+
+
+
+
+
+
+
