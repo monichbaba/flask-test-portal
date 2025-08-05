@@ -1,167 +1,298 @@
 [
   {
     "id": 1,
-    "question": "हाल ही में सुप्रीम कोर्ट ने सांसदों/विधायकों को रिश्वत लेने पर किस धारा के तहत अपराध माना?",
-      "options": {
-      "A": "धारा 7, भ्रष्टाचार निरोधक अधिनियम / Section 7 of the Prevention of Corruption Act",
-      "B": "भारतीय दंड संहिता की धारा 120B / Section 120B of the Indian Penal Code",
-      "C": "अनुच्छेद 105(2) की व्याख्या / Interpretation of Article 105(2)",
-      "D": "अनुच्छेद 142 / Article 142"
+    "question": "भारत के संविधान में मंत्रिपरिषद की सामूहिक उत्तरदायित्व की धारणा किस अनुच्छेद में दी गई है? / Which Article of the Indian Constitution deals with the concept of collective responsibility of the Council of Ministers?",
+    "options": {
+      "A": "अनुच्छेद 75(3) / Article 75(3)",
+      "B": "अनुच्छेद 74(1) / Article 74(1)",
+      "C": "अनुच्छेद 78 / Article 78",
+      "D": "अनुच्छेद 77 / Article 77"
     },
-    "correct_answers": ["A", "C"]
+    "answer": ["A"],
+    "correct_answers": [
+      "A – अनुच्छेद 75(3) / Article 75(3)"
+    ]
   },
   {
     "id": 2,
-    "question": "संसद से पास 'क्रिमिनल लॉ रिफॉर्म बिल, 2023' में निम्नलिखित में से क्या बदलाव किया गया है?",
-      "options": {
-      "A": "सेडिशन कानून को हटाना / Removal of sedition law",
-      "B": "IPC का नाम बदलकर 'भारतीय न्याय संहिता' रखना / Renaming IPC to 'Bharatiya Nyaya Sanhita'",
-      "C": "नए साइबर अपराध प्रावधान जोड़ना / Inclusion of new cybercrime provisions",
-      "D": "CJI को राष्ट्रीय सुरक्षा सलाहकार बनाना / Making CJI the National Security Advisor"
+    "question": "किस संविधान संशोधन ने राष्ट्रपति को यह निर्देशित किया कि वह मंत्रिपरिषद की सलाह के अनुसार ही कार्य करेगा? / Which constitutional amendment directed the President to act in accordance with the advice of the Council of Ministers?",
+    "options": {
+      "A": "42वां संशोधन / 42nd Amendment",
+      "B": "44वां संशोधन / 44th Amendment",
+      "C": "52वां संशोधन / 52nd Amendment",
+      "D": "61वां संशोधन / 61st Amendment"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B"],
+    "correct_answers": [
+      "A – 42वां संशोधन / 42nd Amendment",
+      "B – 44वां संशोधन / 44th Amendment"
+    ]
   },
   {
     "id": 3,
-    "question": "2024 में सुप्रीम कोर्ट ने किस संसद कानून को असंवैधानिक घोषित किया?",
-      "options": {
-      "A": "दिल्ली सेवाओं पर अध्यादेश / Ordinance on Delhi Services",
-      "B": "अनुच्छेद 370 निरस्तीकरण कानून / Article 370 Abrogation Law",
-      "C": "निर्वाचन सुधार अधिनियम, 2021 / Election Reform Act, 2021",
-      "D": "सीएए, 2019 / CAA, 2019"
+    "question": "सर्वोच्च न्यायालय ने एस. आर. बोम्मई बनाम भारत सरकार मामले में मंत्रिपरिषद की किस विशेषता को रेखांकित किया? / What feature of the Council of Ministers was emphasized in the S.R. Bommai v. Union of India case by the Supreme Court?",
+    "options": {
+      "A": "सामूहिक उत्तरदायित्व / Collective Responsibility",
+      "B": "व्यक्तिगत उत्तरदायित्व / Individual Responsibility",
+      "C": "लोकसभा का विश्वास / Confidence of Lok Sabha",
+      "D": "राष्ट्रपति की स्वतंत्रता / President’s Discretion"
     },
-    "answer": ["A"]
+    "answer": ["A", "C"],
+    "correct_answers": [
+      "A – सामूहिक उत्तरदायित्व / Collective Responsibility",
+      "C – लोकसभा का विश्वास / Confidence of Lok Sabha"
+    ]
   },
   {
     "id": 4,
-    "question": "निम्नलिखित में से कौन सा संसद से जुड़ा हालिया निर्णय सुप्रीम कोर्ट द्वारा लिया गया?",
-      "options": {
-      "A": "माननीय सांसदों को अयोग्य घोषित करना / Disqualification of sitting MPs",
-      "B": "सांसद निधि योजना को रद्द करना / Scrapping of MPLADS",
-      "C": "आपराधिक राजनीति में सुधार निर्देश / Guidelines on criminalisation of politics",
-      "D": "एक देश, एक चुनाव पर निर्देश / Directions on One Nation, One Election"
+    "question": "मंत्रिपरिषद और प्रधानमंत्री के बीच संबंधों को नियंत्रित करने वाला मुख्य अनुच्छेद कौन-सा है? / Which Article primarily governs the relationship between the Prime Minister and the Council of Ministers?",
+    "options": {
+      "A": "अनुच्छेद 75(1) / Article 75(1)",
+      "B": "अनुच्छेद 74(1) / Article 74(1)",
+      "C": "अनुच्छेद 78 / Article 78",
+      "D": "अनुच्छेद 361 / Article 361"
     },
-    "answer": ["A", "C"]
+    "answer": ["A", "B"],
+    "correct_answers": [
+      "A – अनुच्छेद 75(1) / Article 75(1)",
+      "B – अनुच्छेद 74(1) / Article 74(1)"
+    ]
   },
   {
     "id": 5,
-    "question": "नए संसद भवन से संबंधित निम्न में से कौन से कथन सही हैं?",
-      "options": {
-      "A": "यह सेंट्रल विस्टा प्रोजेक्ट का हिस्सा है / It is part of the Central Vista project",
-      "B": "इसका उद्घाटन प्रधानमंत्री ने किया / It was inaugurated by the Prime Minister",
-      "C": "इसमें यूनिकोड आधारित वोटिंग सिस्टम है / It includes a Unicode-based voting system",
-      "D": "यह सिर्फ राज्यसभा के लिए है / It is only for Rajya Sabha"
+    "question": "किस स्थिति में राष्ट्रपति प्रधानमंत्री को पद से हटा सकता है? / Under what condition can the President remove the Prime Minister?",
+    "options": {
+      "A": "जब वह लोकसभा का विश्वास खो दे / If he loses majority in Lok Sabha",
+      "B": "जब संसद भंग हो जाए / When Parliament is dissolved",
+      "C": "राष्ट्रपति की इच्छा से / At the discretion of the President",
+      "D": "सुप्रीम कोर्ट के निर्देश पर / On the direction of the Supreme Court"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"],
+    "correct_answers": [
+      "A – जब वह लोकसभा का विश्वास खो दे / If he loses majority in Lok Sabha"
+    ]
   },
   {
     "id": 6,
-    "question": "2025 में संसद ने कौन सा अधिनियम पास किया जो चुनावी बांड प्रणाली को खत्म करता है?",
-      "options": {
-      "A": "चुनाव पारदर्शिता अधिनियम, 2025 / Election Transparency Act, 2025",
-      "B": "राजनीतिक वित्त सुधार अधिनियम / Political Finance Reform Act",
-      "C": "वित्त अधिनियम, 2025 / Finance Act, 2025",
-      "D": "कोई अधिनियम पास नहीं हुआ / No Act was passed"
+    "question": "लोकसभा में विश्वास मत हारने के बाद मंत्रिपरिषद को क्या करना चाहिए? / What must the Council of Ministers do after losing a vote of confidence in the Lok Sabha?",
+    "options": {
+      "A": "तत्काल इस्तीफा देना / Resign immediately",
+      "B": "राष्ट्रपति से भंग की मांग करना / Request dissolution from the President",
+      "C": "सुप्रीम कोर्ट में अपील करना / Appeal to the Supreme Court",
+      "D": "राज्यसभा से समर्थन लेना / Seek support from Rajya Sabha"
     },
-    "answer": ["D"]
+    "answer": ["A", "B"],
+    "correct_answers": [
+      "A – तत्काल इस्तीफा देना / Resign immediately",
+      "B – राष्ट्रपति से भंग की मांग करना / Request dissolution from the President"
+    ]
   },
   {
     "id": 7,
-    "question": "संसद की विशेष शक्तियाँ किस अनुच्छेद में वर्णित हैं?",
-      "options": {
-      "A": "अनुच्छेद 249 / Article 249",
-      "B": "अनुच्छेद 312 / Article 312",
-      "C": "अनुच्छेद 368 / Article 368",
-      "D": "अनुच्छेद 280 / Article 280"
+    "question": "कौन-से अनुच्छेद मंत्रियों की नियुक्ति और उनके कर्तव्यों से संबंधित हैं? / Which Articles deal with the appointment and duties of Ministers?",
+    "options": {
+      "A": "अनुच्छेद 74 और 75 / Articles 74 and 75",
+      "B": "अनुच्छेद 76 और 77 / Articles 76 and 77",
+      "C": "अनुच्छेद 78 और 79 / Articles 78 and 79",
+      "D": "अनुच्छेद 80 और 81 / Articles 80 and 81"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"],
+    "correct_answers": [
+      "A – अनुच्छेद 74 और 75 / Articles 74 and 75"
+    ]
   },
   {
     "id": 8,
-    "question": "सुप्रीम कोर्ट ने किस फैसले में संसद की ‘अनुच्छेद 105’ के तहत विशेषाधिकारों की व्याख्या की?",
-      "options": {
-      "A": "PV नरसिम्हा राव बनाम राज्य / PV Narasimha Rao vs State",
-      "B": "केशवानंद भारती मामला / Kesavananda Bharati case",
-      "C": "राज नारायण बनाम इंदिरा गांधी / Raj Narain vs Indira Gandhi",
-      "D": "गोलकनाथ मामला / Golaknath case"
+    "question": "प्रधानमंत्री के त्यागपत्र देने पर मंत्रिपरिषद का क्या होता है? / What happens to the Council of Ministers if the Prime Minister resigns?",
+    "options": {
+      "A": "मंत्रिपरिषद भंग हो जाती है / Council of Ministers dissolves",
+      "B": "अन्य मंत्री पद पर बने रहते हैं / Other ministers remain in office",
+      "C": "राष्ट्रपति नया प्रधानमंत्री नियुक्त करता है / President appoints new PM",
+      "D": "कोई प्रभाव नहीं होता / No impact"
     },
-    "answer": ["A"]
+    "answer": ["A", "C"],
+    "correct_answers": [
+      "A – मंत्रिपरिषद भंग हो जाती है / Council of Ministers dissolves",
+      "C – राष्ट्रपति नया प्रधानमंत्री नियुक्त करता है / President appoints new PM"
+    ]
   },
   {
     "id": 9,
-    "question": "हालिया संसदीय विवाद किस मुद्दे को लेकर हुआ?",
-      "options": {
-      "A": "महिला आरक्षण विधेयक / Women's Reservation Bill",
-      "B": "विपक्ष के नेताओं का निलंबन / Suspension of opposition leaders",
-      "C": "विधान सभा भंग करने का प्रस्ताव / Proposal to dissolve state assemblies",
-      "D": "नए संसद भवन में सीटों का पुनर्वितरण / Redistribution of seats in new Parliament building"
+    "question": "क्या संविधान में मंत्रियों की अधिकतम संख्या निर्धारित की गई है? / Does the Constitution specify the maximum number of Ministers?",
+    "options": {
+      "A": "हाँ, 91वां संशोधन / Yes, 91st Amendment",
+      "B": "नहीं, कोई सीमा नहीं / No, there is no limit",
+      "C": "हाँ, अनुच्छेद 75(1A) / Yes, Article 75(1A)",
+      "D": "हाँ, अनुच्छेद 76(2) / Yes, Article 76(2)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A", "C"],
+    "correct_answers": [
+      "A – हाँ, 91वां संशोधन / Yes, 91st Amendment",
+      "C – हाँ, अनुच्छेद 75(1A) / Yes, Article 75(1A)"
+    ]
   },
   {
     "id": 10,
-    "question": "निम्नलिखित में से कौन-से प्रावधान संसद को राज्य सूची में कानून बनाने की अनुमति देते हैं?",
-      "options": {
-      "A": "अनुच्छेद 249 / Article 249",
-      "B": "अनुच्छेद 252 / Article 252",
-      "C": "अनुच्छेद 253 / Article 253",
-      "D": "अनुच्छेद 356 / Article 356"
+    "question": "निम्नलिखित में से कौन सा कथन मंत्रिपरिषद की जिम्मेदारी के संदर्भ में असत्य है? / Which of the following statements is incorrect regarding the responsibility of the Council of Ministers?",
+    "options": {
+      "A": "वे राष्ट्रपति को जवाबदेह होते हैं / They are accountable to the President",
+      "B": "वे लोकसभा को सामूहिक रूप से उत्तरदायी होते हैं / They are collectively responsible to Lok Sabha",
+      "C": "प्रधानमंत्री मंत्री नियुक्त करता है / Prime Minister appoints the Ministers",
+      "D": "मंत्रियों को राष्ट्रपति नियुक्त करता है / Ministers are appointed by the President"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "C"],
+    "correct_answers": [
+      "A – वे राष्ट्रपति को जवाबदेह होते हैं / They are accountable to the President",
+      "C – प्रधानमंत्री मंत्री नियुक्त करता है / Prime Minister appoints the Ministers"
+    ]
   },
   {
     "id": 11,
-    "question": "संसद द्वारा पारित 'जन प्रतिनिधित्व संशोधन विधेयक, 2024' का उद्देश्य क्या था? / What was the purpose of the 'Representation of the People Amendment Bill, 2024' passed by Parliament?",
-      "options": {
-      "A": "दोष सिद्ध जनप्रतिनिधियों की तत्काल अयोग्यता / Instant disqualification of convicted representatives",
-      "B": "ई-वोटिंग की सुविधा देना / Introduction of e-voting",
-      "C": "पार्टी फंडिंग का पारदर्शी खुलासा / Transparent party funding disclosure",
-      "D": "महिला सीटें आरक्षित करना / Reserving seats for women"
+    "question": "मंत्रिपरिषद की सामूहिक जिम्मेदारी की संवैधानिक स्थिति क्या है? / What is the constitutional status of collective responsibility of the Council of Ministers?",
+    "options": {
+      "A": "यह अनुच्छेद 74 में निहित है / It is provided in Article 74",
+      "B": "यह अनुच्छेद 75(3) में निहित है / It is provided in Article 75(3)",
+      "C": "यह एक परंपरागत प्रथा है / It is a conventional practice",
+      "D": "यह केवल राज्य मंत्रियों पर लागू होता है / It applies only to State Ministers"
     },
-    "answer": ["A", "B"]
+    "answer": ["B", "C"],
+    "correct_answers": [
+      "B – यह अनुच्छेद 75(3) में निहित है / It is provided in Article 75(3)",
+      "C – यह एक परंपरागत प्रथा है / It is a conventional practice"
+    ]
   },
   {
     "id": 12,
-    "question": "हाल ही में संसद में पेश 'साइबर सुरक्षा विधेयक' किस पहल से जुड़ा है?",
-      "options": {
-      "A": "डिजिटल इंडिया / Digital India",
-      "B": "डेटा संरक्षण / Data protection",
-      "C": "आर्टिफिशियल इंटेलिजेंस नियमन / AI regulation",
-      "D": "सार्वजनिक WiFi निगरानी / Public WiFi monitoring"
+    "question": "2020 में प्रधानमंत्री कार्यालय के कार्यप्रणाली से संबंधित किस याचिका को सुप्रीम कोर्ट ने खारिज किया? / Which petition related to the functioning of the PMO was dismissed by the Supreme Court in 2020?",
+    "options": {
+      "A": "PM CARES Fund की पारदर्शिता / Transparency of PM CARES Fund",
+      "B": "PMO की RTI अधीनता / RTI applicability on PMO",
+      "C": "PM द्वारा राज्यपाल की नियुक्ति / PM appointing Governor",
+      "D": "PM द्वारा संसद का विघटन / Dissolution of Parliament by PM"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B"],
+    "correct_answers": [
+      "A – PM CARES Fund की पारदर्शिता / Transparency of PM CARES Fund",
+      "B – PMO की RTI अधीनता / RTI applicability on PMO"
+    ]
   },
   {
     "id": 13,
-    "question": "कौन सा अधिनियम संसद ने शिक्षा क्षेत्र में आरक्षण नीति को प्रभावित करने के लिए संशोधित किया?",
-      "options": {
-      "A": "केन्द्रीय शैक्षणिक संस्थान अधिनियम / Central Educational Institutions Act",
-      "B": "राष्ट्रीय शिक्षा नीति अधिनियम / National Education Policy Act",
-      "C": "AICTE अधिनियम / AICTE Act",
-      "D": "आरक्षण अधिनियम / Reservation Act"
+    "question": "निम्नलिखित में से कौन से संशोधन मंत्रिपरिषद के ढांचे या शक्तियों को प्रभावित करते हैं? / Which of the following amendments affect the structure or powers of the Council of Ministers?",
+    "options": {
+      "A": "91वां संशोधन अधिनियम, 2003 / 91st Amendment Act, 2003",
+      "B": "44वां संशोधन अधिनियम, 1978 / 44th Amendment Act, 1978",
+      "C": "42वां संशोधन अधिनियम, 1976 / 42nd Amendment Act, 1976",
+      "D": "97वां संशोधन अधिनियम, 2011 / 97th Amendment Act, 2011"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"],
+    "correct_answers": [
+      "A – 91वां संशोधन अधिनियम, 2003 / 91st Amendment Act, 2003",
+      "B – 44वां संशोधन अधिनियम, 1978 / 44th Amendment Act, 1978",
+      "C – 42वां संशोधन अधिनियम, 1976 / 42nd Amendment Act, 1976"
+    ]
   },
   {
     "id": 14,
-    "question": "हाल ही में संसद में पेश 'लोकपाल (संशोधन) विधेयक' का मुख्य उद्देश्य क्या है?",
-      "options": {
-      "A": "लोकपाल की नियुक्ति प्रक्रिया को सरल बनाना / Simplifying Lokpal appointment process",
-      "B": "सीबीआई को स्वतंत्र बनाना / Making CBI independent",
-      "C": "राज्य लोकायुक्त को सशक्त करना / Empowering State Lokayuktas",
-      "D": "लोकपाल की शक्तियों में विस्तार / Expanding powers of Lokpal"
+    "question": "कोई गैर-सांसद अधिकतम कितने समय तक मंत्री पद पर रह सकता है? / For how long can a non-member of Parliament remain a minister?",
+    "options": {
+      "A": "3 महीने / 3 months",
+      "B": "6 महीने / 6 months",
+      "C": "12 महीने / 12 months",
+      "D": "अनिश्चित काल तक / Indefinitely"
     },
-    "answer": ["A", "D"]
+    "answer": ["B"],
+    "correct_answers": [
+      "B – 6 महीने / 6 months"
+    ]
   },
   {
     "id": 15,
-    "question": "संसद द्वारा पारित किस विधेयक में एनजीओ की विदेशी फंडिंग पर नियंत्रण का प्रावधान है?",
-      "options": {
-      "A": "विदेशी अंशदान (नियमन) संशोधन अधिनियम / FCRA Amendment Act",
-      "B": "आर्थिक निगरानी अधिनियम / Economic Surveillance Act",
-      "C": "राजकोषीय उत्तरदायित्व विधेयक / Fiscal Responsibility Bill",
-      "D": "एनजीओ पारदर्शिता अधिनियम / NGO Transparency Act"
+    "question": "2024 में किस मंत्री को सुप्रीम कोर्ट द्वारा भ्रष्टाचार के आरोपों के कारण पद छोड़ना पड़ा था? / Which minister resigned in 2024 due to SC ruling on corruption allegations?",
+    "options": {
+      "A": "स्वास्थ्य मंत्री / Health Minister",
+      "B": "रेल मंत्री / Railway Minister",
+      "C": "सूचना प्रौद्योगिकी मंत्री / IT Minister",
+      "D": "गृह राज्य मंत्री / Minister of State for Home"
     },
-    "answer": ["A"]
+    "answer": ["C"],
+    "correct_answers": [
+      "C – सूचना प्रौद्योगिकी मंत्री / IT Minister"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "मंत्रिपरिषद की सलाह राष्ट्रपति के लिए किस हद तक बाध्यकारी है? / To what extent is the advice of the Council of Ministers binding on the President?",
+    "options": {
+      "A": "पूर्ण रूप से बाध्यकारी / Fully binding",
+      "B": "राष्ट्रपति को दोबारा विचार के लिए कहने का अधिकार है / President can ask for reconsideration",
+      "C": "राष्ट्रपति उसे अस्वीकार कर सकते हैं / President may reject",
+      "D": "यह केवल नाममात्र की सलाह होती है / Merely nominal advice"
+    },
+    "answer": ["A", "B"],
+    "correct_answers": [
+      "A – पूर्ण रूप से बाध्यकारी / Fully binding",
+      "B – राष्ट्रपति को दोबारा विचार के लिए कहने का अधिकार है / President can ask for reconsideration"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "अनुच्छेद 78 का किस प्रकार उपयोग किया जाता है? / How is Article 78 utilized?",
+    "options": {
+      "A": "PM को राष्ट्रपति को सूचित करना होता है / PM must inform the President",
+      "B": "PM को मंत्रियों के कार्यों की जानकारी देनी होती है / PM must communicate decisions of ministers",
+      "C": "यह न्यायिक समीक्षा से मुक्त है / It is beyond judicial review",
+      "D": "यह केवल औपचारिक अनुच्छेद है / Merely a formal provision"
+    },
+    "answer": ["A", "B"],
+    "correct_answers": [
+      "A – PM को राष्ट्रपति को सूचित करना होता है / PM must inform the President",
+      "B – PM को मंत्रियों के कार्यों की जानकारी देनी होती है / PM must communicate decisions of ministers"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "कौन-से मामले में सुप्रीम कोर्ट ने मंत्रिपरिषद के निर्णयों की न्यायिक समीक्षा की अनुमति दी थी? / In which case did SC allow judicial review of Council of Ministers’ decisions?",
+    "options": {
+      "A": "केशवानंद भारती मामला / Kesavananda Bharati case",
+      "B": "एस.आर. बोंमई मामला / S.R. Bommai case",
+      "C": "एम.एम.एम. शर्मा मामला / M.M.M. Sharma case",
+      "D": "नबम रेबिया मामला / Nabam Rebia case"
+    },
+    "answer": ["B", "D"],
+    "correct_answers": [
+      "B – एस.आर. बोंमई मामला / S.R. Bommai case",
+      "D – नबम रेबिया मामला / Nabam Rebia case"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "संविधान के किस भाग में मंत्रिपरिषद का उल्लेख है? / In which Part of the Constitution is the Council of Ministers mentioned?",
+    "options": {
+      "A": "भाग V / Part V",
+      "B": "भाग VI / Part VI",
+      "C": "भाग XI / Part XI",
+      "D": "भाग IV / Part IV"
+    },
+    "answer": ["A"],
+    "correct_answers": [
+      "A – भाग V / Part V"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "मंत्रिपरिषद की न्यूनतम सदस्य संख्या पर संवैधानिक रूप से क्या शर्तें हैं? / What are the constitutional conditions on minimum number of ministers?",
+    "options": {
+      "A": "कोई न्यूनतम सीमा नहीं / No minimum limit",
+      "B": "कम से कम 15% लोकसभा के सदस्य / Minimum 15% of Lok Sabha members",
+      "C": "PM और एक अन्य मंत्री अनिवार्य / At least PM and one other minister",
+      "D": "कम से कम 5 मंत्री होने चाहिए / At least 5 ministers required"
+    },
+    "answer": ["A", "C"],
+    "correct_answers": [
+      "A – कोई न्यूनतम सीमा नहीं / No minimum limit",
+      "C – PM और एक अन्य मंत्री अनिवार्य / At least PM and one other minister"
+    ]
   }
 ]
+
