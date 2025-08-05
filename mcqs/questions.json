@@ -1,223 +1,498 @@
 [
   {
     "id": 1,
-    "question": "Who appoints the Attorney General of India? / भारत के अटॉर्नी जनरल की नियुक्ति कौन करता है?",
+    "question": "Under Article 215, a High Court is a court of record. What does this imply? / अनुच्छेद 215 के अंतर्गत उच्च न्यायालय रिकॉर्ड न्यायालय होता है। इसका क्या अर्थ है?",
     "options": {
-      "A": "President of India / भारत का राष्ट्रपति",
-      "B": "Prime Minister / प्रधानमंत्री",
-      "C": "Chief Justice of India / भारत के मुख्य न्यायाधीश",
-      "D": "Cabinet Committee on Appointments / नियुक्ति संबंधी मंत्रिमंडलीय समिति"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 2,
-    "question": "Which of the following are true about the Attorney General of India? / निम्नलिखित में से कौन-से कथन भारत के अटॉर्नी जनरल के बारे में सही हैं?",
-    "options": {
-      "A": "He must be qualified to be a Supreme Court judge / उसे सर्वोच्च न्यायालय का न्यायाधीश बनने की योग्यता होनी चाहिए।",
-      "B": "He is part of Union Cabinet / वह केंद्रीय मंत्रिमंडल का हिस्सा होता है।",
-      "C": "He can take part in Parliament proceedings / वह संसद की कार्यवाही में भाग ले सकता है।",
-      "D": "He is appointed for 5 years / उसे 5 वर्षों के लिए नियुक्त किया जाता है।"
-    },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 3,
-    "question": "Under which article is the Attorney General of India appointed? / भारत के अटॉर्नी जनरल की नियुक्ति किस अनुच्छेद के अंतर्गत होती है?",
-    "options": {
-      "A": "Article 74",
-      "B": "Article 75",
-      "C": "Article 76",
-      "D": "Article 77"
+      "A": "It can maintain records of lower court proceedings / यह अधीनस्थ न्यायालयों की कार्यवाही का रिकॉर्ड रखता है",
+      "B": "It can initiate impeachment of judges / यह न्यायाधीशों पर महाभियोग चला सकता है",
+      "C": "It has the power to punish for its own contempt / यह अपनी अवमानना के लिए दंडित कर सकता है",
+      "D": "It cannot be challenged in Supreme Court / इसे सर्वोच्च न्यायालय में चुनौती नहीं दी जा सकती"
     },
     "answer": ["C"]
   },
   {
-    "id": 4,
-    "question": "Which statements are correct about Article 77? / अनुच्छेद 77 के बारे में कौन-से कथन सही हैं?",
+    "id": 2,
+    "question": "Which article allows Parliament to establish a common High Court for two or more states? / संसद को दो या अधिक राज्यों के लिए एक सामान्य उच्च न्यायालय स्थापित करने की अनुमति किस अनुच्छेद में है?",
     "options": {
-      "A": "Deals with conduct of business of Government of India / भारत सरकार के कार्य संचालन से संबंधित है।",
-      "B": "It empowers President to make rules for business transactions / यह राष्ट्रपति को व्यवसाय लेनदेन के लिए नियम बनाने की शक्ति देता है।",
-      "C": "Deals with distribution of powers between Centre and States / यह केंद्र और राज्यों के बीच शक्तियों के वितरण से संबंधित है।",
-      "D": "Covers rules for parliamentary procedure / संसदीय प्रक्रिया के नियमों को शामिल करता है।"
+      "A": "Article 230",
+      "B": "Article 231",
+      "C": "Article 228",
+      "D": "Article 224"
     },
-    "answer": ["A", "B"]
+    "answer": ["B"]
+  },
+  {
+    "id": 3,
+    "question": "Under Article 216, who determines the number of judges in a High Court? / अनुच्छेद 216 के अनुसार उच्च न्यायालय में न्यायाधीशों की संख्या कौन निर्धारित करता है?",
+    "options": {
+      "A": "President / राष्ट्रपति",
+      "B": "Chief Justice of India / भारत के मुख्य न्यायाधीश",
+      "C": "Parliament / संसद",
+      "D": "State Government / राज्य सरकार"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 4,
+    "question": "Under Article 217, the minimum age required for appointment as a High Court judge is: / अनुच्छेद 217 के अनुसार उच्च न्यायालय के न्यायाधीश के रूप में नियुक्ति के लिए न्यूनतम आयु क्या है?",
+    "options": {
+      "A": "35 years / 35 वर्ष",
+      "B": "40 years / 40 वर्ष",
+      "C": "45 years / 45 वर्ष",
+      "D": "No minimum age is specified / कोई न्यूनतम आयु निर्दिष्ट नहीं है"
+    },
+    "answer": ["D"]
   },
   {
     "id": 5,
-    "question": "Article 78 of the Constitution deals with: / संविधान का अनुच्छेद 78 संबंधित है:",
+    "question": "Which article empowers High Court to issue writs not only for Fundamental Rights but also for other legal rights? / कौन-सा अनुच्छेद उच्च न्यायालय को केवल मौलिक अधिकार ही नहीं, बल्कि अन्य कानूनी अधिकारों के लिए भी रिट जारी करने की शक्ति देता है?",
     "options": {
-      "A": "Duties of Prime Minister towards the President / प्रधानमंत्री के राष्ट्रपति के प्रति कर्तव्यों से",
-      "B": "Functions of Chief Justice of India / भारत के मुख्य न्यायाधीश के कार्यों से",
-      "C": "Oath of the President / राष्ट्रपति की शपथ से",
-      "D": "Powers of Election Commission / चुनाव आयोग की शक्तियों से"
+      "A": "Article 226",
+      "B": "Article 227",
+      "C": "Article 228",
+      "D": "Article 225"
     },
     "answer": ["A"]
   },
   {
     "id": 6,
-    "question": "What are the duties of Prime Minister under Article 78? / अनुच्छेद 78 के अंतर्गत प्रधानमंत्री के कर्तव्य कौन-से हैं?",
+    "question": "Which article allows High Court to withdraw cases from subordinate courts involving substantial constitutional question? / उच्च न्यायालय को अधीनस्थ न्यायालयों से संवैधानिक प्रश्नों वाले मामलों को वापस लेने की अनुमति किस अनुच्छेद में है?",
     "options": {
-      "A": "To communicate decisions of the Cabinet to the President / मंत्रिमंडल के निर्णयों को राष्ट्रपति को सूचित करना।",
-      "B": "To furnish information as required by the President / राष्ट्रपति द्वारा मांगी गई जानकारी देना।",
-      "C": "To advise governors of states / राज्यों के राज्यपालों को सलाह देना।",
-      "D": "To submit reports on administration / प्रशासन पर रिपोर्ट प्रस्तुत करना।"
+      "A": "Article 226",
+      "B": "Article 227",
+      "C": "Article 228",
+      "D": "Article 231"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["C"]
   },
   {
     "id": 7,
-    "question": "Which of the following is NOT true about Attorney General? / निम्नलिखित में से कौन-सा कथन अटॉर्नी जनरल के बारे में सही नहीं है?",
+    "question": "Under Article 229, who has administrative control over High Court staff and expenses? / अनुच्छेद 229 के अनुसार उच्च न्यायालय के कर्मचारियों और व्ययों पर प्रशासनिक नियंत्रण किसका होता है?",
     "options": {
-      "A": "He is a member of the Cabinet / वह कैबिनेट का सदस्य होता है।",
-      "B": "He gives legal advice to Government of India / वह भारत सरकार को कानूनी सलाह देता है।",
-      "C": "He has right of audience in all courts in India / उसे भारत के सभी न्यायालयों में उपस्थित होने का अधिकार है।",
-      "D": "He can participate in Parliamentary debates / वह संसदीय बहसों में भाग ले सकता है।"
+      "A": "President of India / भारत का राष्ट्रपति",
+      "B": "Governor / राज्यपाल",
+      "C": "Chief Justice of High Court / उच्च न्यायालय के मुख्य न्यायाधीश",
+      "D": "Parliament / संसद"
     },
-    "answer": ["A"]
+    "answer": ["C"]
   },
   {
     "id": 8,
-    "question": "What happens under Article 77(3)? / अनुच्छेद 77(3) के अंतर्गत क्या होता है?",
+    "question": "Which article allows appointment of Additional and Acting Judges in High Court? / उच्च न्यायालय में अतिरिक्त और कार्यवाहक न्यायाधीशों की नियुक्ति की अनुमति किस अनुच्छेद में है?",
     "options": {
-      "A": "Allocation of business among Ministers / मंत्रियों के बीच कार्य का विभाजन",
-      "B": "Parliamentary approval of ordinances / अध्यादेशों की संसदीय स्वीकृति",
-      "C": "Rules for more convenient transaction of business / कार्य संचालन को सुगम बनाने के लिए नियम बनाना",
-      "D": "Appointment of Governors / राज्यपालों की नियुक्ति"
+      "A": "Article 223",
+      "B": "Article 224",
+      "C": "Article 222",
+      "D": "Article 230"
     },
-    "answer": ["A", "C"]
+    "answer": ["B"]
   },
   {
     "id": 9,
-    "question": "Which of these can Attorney General NOT do? / इनमे से क्या कार्य अटॉर्नी जनरल नहीं कर सकता?",
+    "question": "Article 224A deals with: / अनुच्छेद 224A संबंधित है:",
     "options": {
-      "A": "Defend private accused in court / निजी अभियुक्तों का बचाव करना",
-      "B": "Take part in Parliament without voting rights / बिना मतदान अधिकार के संसद में भाग लेना",
-      "C": "Advise the Government on legal matters / सरकार को कानूनी सलाह देना",
-      "D": "Speak in Joint Sitting of Parliament / संसद की संयुक्त बैठक में बोलना"
+      "A": "Ad hoc appointment of retired High Court judges / सेवानिवृत्त उच्च न्यायाधीशों की अस्थायी नियुक्ति",
+      "B": "Transfer of judges / न्यायाधीशों का स्थानांतरण",
+      "C": "Writ jurisdiction / रिट अधिकारिता",
+      "D": "Disciplinary control / अनुशासनात्मक नियंत्रण"
     },
     "answer": ["A"]
   },
   {
     "id": 10,
-    "question": "As per Article 76, Attorney General holds office: / अनुच्छेद 76 के अनुसार, अटॉर्नी जनरल पद पर बने रहते हैं:",
+    "question": "Who has the final say in transfer of High Court judges? / उच्च न्यायालय के न्यायाधीशों के स्थानांतरण में अंतिम निर्णय किसका होता है?",
     "options": {
-      "A": "During the pleasure of the President / राष्ट्रपति की इच्छा पर",
-      "B": "For a fixed 5-year term / 5 वर्षों की निश्चित अवधि के लिए",
-      "C": "Till the age of 65 / 65 वर्ष की आयु तक",
-      "D": "Until removed by Parliament / जब तक संसद द्वारा हटाया न जाए"
+      "A": "Chief Justice of India / भारत के मुख्य न्यायाधीश",
+      "B": "President of India / भारत के राष्ट्रपति",
+      "C": "Governor of the concerned state / संबंधित राज्य का राज्यपाल",
+      "D": "Prime Minister / प्रधानमंत्री"
     },
     "answer": ["A"]
   },
   {
     "id": 11,
-    "question": "Who is the ex-officio Chairman of the Rajya Sabha? / राज्यसभा के पदेन सभापति कौन होते हैं?",
+    "question": "Which article ensures High Courts retain their pre-Constitution jurisdiction? / कौन-सा अनुच्छेद उच्च न्यायालयों को संविधान से पूर्व के अधिकार क्षेत्र की गारंटी देता है?",
     "options": {
-      "A": "Prime Minister / प्रधानमंत्री",
-      "B": "Vice President of India / भारत के उपराष्ट्रपति",
-      "C": "President of India / भारत के राष्ट्रपति",
-      "D": "Speaker of Lok Sabha / लोकसभा अध्यक्ष"
+      "A": "Article 225",
+      "B": "Article 229",
+      "C": "Article 231",
+      "D": "Article 232"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 12,
-    "question": "Which of the following are true regarding the Speaker of Lok Sabha? / लोकसभा अध्यक्ष के संबंध में कौन-से कथन सही हैं?",
+    "question": "Subordinate courts are controlled by the High Court under which article? / उच्च न्यायालय के अधीन अधीनस्थ न्यायालय किस अनुच्छेद के अंतर्गत आते हैं?",
     "options": {
-      "A": "Elected by members of Lok Sabha / लोकसभा सदस्यों द्वारा निर्वाचित",
-      "B": "Presides over joint sitting of Parliament / संसद की संयुक्त बैठक की अध्यक्षता करते हैं",
-      "C": "Appointed by President / राष्ट्रपति द्वारा नियुक्त किए जाते हैं",
-      "D": "Can vote in case of a tie / बराबरी की स्थिति में मत दे सकते हैं"
+      "A": "Article 235",
+      "B": "Article 233",
+      "C": "Article 236",
+      "D": "Article 237"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A"]
   },
   {
     "id": 13,
-    "question": "Article 110 of the Constitution is related to: / संविधान का अनुच्छेद 110 संबंधित है:",
+    "question": "Which article deals with recruitment of persons to judicial service below High Court? / उच्च न्यायालय से नीचे की न्यायिक सेवा में नियुक्ति किस अनुच्छेद में दी गई है?",
     "options": {
-      "A": "Money Bill / धन विधेयक",
-      "B": "Finance Commission / वित्त आयोग",
-      "C": "Budget presentation / बजट प्रस्तुति",
-      "D": "Parliamentary committees / संसदीय समितियाँ"
+      "A": "Article 234",
+      "B": "Article 233",
+      "C": "Article 237",
+      "D": "Article 231"
     },
     "answer": ["A"]
   },
   {
     "id": 14,
-    "question": "Which bills can only be introduced in Lok Sabha? / कौन से विधेयक केवल लोकसभा में प्रस्तुत किए जा सकते हैं?",
+    "question": "Which authority recommends appointments of District Judges? / जिला न्यायाधीशों की नियुक्ति की अनुशंसा कौन करता है?",
     "options": {
-      "A": "Money Bill / धन विधेयक",
-      "B": "Finance Bill / वित्त विधेयक",
-      "C": "Constitutional Amendment Bill / संविधान संशोधन विधेयक",
-      "D": "Ordinary Bill / सामान्य विधेयक"
+      "A": "State Government / राज्य सरकार",
+      "B": "High Court / उच्च न्यायालय",
+      "C": "Governor / राज्यपाल",
+      "D": "State Public Service Commission / राज्य लोक सेवा आयोग"
     },
-    "answer": ["A", "B"]
+    "answer": ["B"]
   },
   {
     "id": 15,
-    "question": "Who decides whether a Bill is a Money Bill or not? / यह निर्णय कौन करता है कि कोई विधेयक धन विधेयक है या नहीं?",
+    "question": "Under Article 236, the term 'District Judge' includes: / अनुच्छेद 236 के अंतर्गत 'जिला न्यायाधीश' में कौन-कौन शामिल हैं?",
     "options": {
-      "A": "President of India / भारत के राष्ट्रपति",
-      "B": "Prime Minister / प्रधानमंत्री",
-      "C": "Speaker of Lok Sabha / लोकसभा अध्यक्ष",
-      "D": "Finance Minister / वित्त मंत्री"
+      "A": "Chief Judge of small causes court / लघु कारण न्यायालय के मुख्य न्यायाधीश",
+      "B": "Sessions Judges / सत्र न्यायाधीश",
+      "C": "Assistant Judges / सहायक न्यायाधीश",
+      "D": "All of the above / उपरोक्त सभी"
+    },
+    "answer": ["D"]
+  },
+  {
+    "id": 16,
+    "question": "Who appoints District Judges in a state? / राज्य में जिला न्यायाधीशों की नियुक्ति कौन करता है?",
+    "options": {
+      "A": "Chief Minister / मुख्यमंत्री",
+      "B": "President of India / भारत के राष्ट्रपति",
+      "C": "Governor / राज्यपाल",
+      "D": "Chief Justice of India / भारत के मुख्य न्यायाधीश"
     },
     "answer": ["C"]
   },
   {
-    "id": 16,
-    "question": "Joint sitting of both Houses of Parliament is called for which bills? / संसद के दोनों सदनों की संयुक्त बैठक किन विधेयकों के लिए बुलाई जाती है?",
+    "id": 17,
+    "question": "Which article provides for administrative training provisions for judicial officers? / न्यायिक अधिकारियों के प्रशासनिक प्रशिक्षण के प्रावधान किस अनुच्छेद में हैं?",
     "options": {
-      "A": "Ordinary Bill / सामान्य विधेयक",
-      "B": "Money Bill / धन विधेयक",
-      "C": "Constitutional Amendment Bill / संविधान संशोधन विधेयक",
-      "D": "Finance Bill / वित्त विधेयक"
+      "A": "Article 237",
+      "B": "Article 234",
+      "C": "Article 235",
+      "D": "Article 236"
     },
     "answer": ["A"]
   },
   {
-    "id": 17,
-    "question": "Under Article 111, what options does the President have when a Bill is presented to him? / अनुच्छेद 111 के अंतर्गत राष्ट्रपति के पास विधेयक प्रस्तुत होने पर कौन-से विकल्प होते हैं?",
-    "options": {
-      "A": "Give assent / सहमति देना",
-      "B": "Withhold assent / सहमति न देना",
-      "C": "Return the Bill for reconsideration / पुनर्विचार के लिए विधेयक वापस भेजना",
-      "D": "Send it to Supreme Court / सर्वोच्च न्यायालय भेजना"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
     "id": 18,
-    "question": "Which of these require special majority in Parliament? / इनमें से किन विधेयकों के लिए संसद में विशेष बहुमत की आवश्यकता होती है?",
+    "question": "Which article provides for control over district courts and subordinate judiciary by High Court? / उच्च न्यायालय को जिला न्यायालयों और अधीनस्थ न्यायपालिका पर नियंत्रण किस अनुच्छेद में दिया गया है?",
     "options": {
-      "A": "Constitutional Amendment Bill / संविधान संशोधन विधेयक",
-      "B": "Money Bill / धन विधेयक",
-      "C": "Impeachment of President / राष्ट्रपति का महाभियोग",
-      "D": "Removal of Supreme Court Judge / सर्वोच्च न्यायालय के न्यायाधीश को हटाना"
+      "A": "Article 235",
+      "B": "Article 236",
+      "C": "Article 232",
+      "D": "Article 231"
     },
-    "answer": ["A", "C", "D"]
+    "answer": ["A"]
   },
   {
     "id": 19,
-    "question": "Which of these are correct about privileges of Parliament? / संसद की विशेषाधिकारों के बारे में कौन-से कथन सही हैं?",
+    "question": "Who supervises the conduct and discipline of subordinate judiciary in a state? / राज्य में अधीनस्थ न्यायपालिका के आचरण और अनुशासन की निगरानी कौन करता है?",
     "options": {
-      "A": "Members have freedom of speech inside the House / सदन के अंदर बोलने की स्वतंत्रता",
-      "B": "Can be arrested during session / सत्र के दौरान गिरफ्तार किए जा सकते हैं",
-      "C": "House can punish for its contempt / सदन अपनी अवमानना पर दंड दे सकता है",
-      "D": "Privileges are defined in Constitution / विशेषाधिकार संविधान में परिभाषित हैं"
+      "A": "High Court / उच्च न्यायालय",
+      "B": "Governor / राज्यपाल",
+      "C": "President / राष्ट्रपति",
+      "D": "Supreme Court / सर्वोच्च न्यायालय"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 20,
+    "question": "The process of transfer of subordinate judicial officers is under: / अधीनस्थ न्यायिक अधिकारियों के स्थानांतरण की प्रक्रिया किसके अधीन है?",
+    "options": {
+      "A": "State Legislature / राज्य विधानमंडल",
+      "B": "High Court / उच्च न्यायालय",
+      "C": "State Public Service Commission / राज्य लोक सेवा आयोग",
+      "D": "Governor / राज्यपाल"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 21,
+    "question": "Appointments to civil judicial posts below district judge level are made by: / जिला न्यायाधीश स्तर से नीचे के सिविल न्यायिक पदों पर नियुक्तियाँ कौन करता है?",
+    "options": {
+      "A": "Governor in consultation with High Court / उच्च न्यायालय से परामर्श के बाद राज्यपाल",
+      "B": "High Court directly / सीधे उच्च न्यायालय",
+      "C": "Public Service Commission / लोक सेवा आयोग",
+      "D": "President of India / भारत के राष्ट्रपति"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 22,
+    "question": "Which article allows Parliament to regulate jurisdiction of High Courts with respect to Union Territories? / संसद को संघ राज्यक्षेत्रों के संदर्भ में उच्च न्यायालयों की अधिकारिता को विनियमित करने की अनुमति किस अनुच्छेद में है?",
+    "options": {
+      "A": "Article 230",
+      "B": "Article 225",
+      "C": "Article 224",
+      "D": "Article 233"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 23,
+    "question": "Which article defines the expression 'Judicial service'? / 'Judicial service' शब्द की परिभाषा किस अनुच्छेद में दी गई है?",
+    "options": {
+      "A": "Article 236",
+      "B": "Article 234",
+      "C": "Article 232",
+      "D": "Article 231"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 24,
+    "question": "High Courts are empowered to make rules for regulating the conditions of service of their staff under: / अपने कर्मचारियों की सेवा शर्तों को नियंत्रित करने के लिए नियम बनाने का अधिकार उच्च न्यायालय को किस अनुच्छेद में दिया गया है?",
+    "options": {
+      "A": "Article 229",
+      "B": "Article 235",
+      "C": "Article 226",
+      "D": "Article 232"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 25,
+    "question": "What is the minimum number of judges required in a High Court Bench to decide on constitutional matters? / संवैधानिक मामलों पर निर्णय लेने के लिए उच्च न्यायालय की पीठ में न्यूनतम कितने न्यायाधीश होने चाहिए?",
+    "options": {
+      "A": "One / एक",
+      "B": "Two / दो",
+      "C": "Three / तीन",
+      "D": "Five / पाँच"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 26,
+    "question": "Which body plays a consultative role in appointments to judicial services below district judge? / जिला न्यायाधीश से नीचे की न्यायिक सेवाओं में नियुक्ति के लिए परामर्शी भूमिका कौन निभाता है?",
+    "options": {
+      "A": "State Public Service Commission / राज्य लोक सेवा आयोग",
+      "B": "Supreme Court / सर्वोच्च न्यायालय",
+      "C": "Chief Justice of High Court / उच्च न्यायालय के मुख्य न्यायाधीश",
+      "D": "Union Law Ministry / केंद्रीय विधि मंत्रालय"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 27,
+    "question": "Can High Court entertain petitions under Article 226 even when alternate remedy exists? / क्या अनुच्छेद 226 के तहत उच्च न्यायालय वैकल्पिक उपाय होने पर भी याचिका स्वीकार कर सकता है?",
+    "options": {
+      "A": "Yes, at its discretion / हाँ, अपनी विवेकाधिकार पर",
+      "B": "No, never / नहीं, कभी नहीं",
+      "C": "Only with Supreme Court approval / केवल सर्वोच्च न्यायालय की अनुमति से",
+      "D": "Only in criminal cases / केवल आपराधिक मामलों में"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 28,
+    "question": "Which article makes High Courts the highest court of appeal in civil and criminal matters within the state? / कौन-सा अनुच्छेद राज्य के भीतर दीवानी और आपराधिक मामलों में उच्च न्यायालय को सर्वोच्च न्यायालय बनाता है?",
+    "options": {
+      "A": "Article 227",
+      "B": "Article 214",
+      "C": "Article 225",
+      "D": "Article 226"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 29,
+    "question": "Which article gives High Courts power of superintendence over all subordinate courts? / अधीनस्थ न्यायालयों पर उच्च न्यायालय को पर्यवेक्षण की शक्ति किस अनुच्छेद में दी गई है?",
+    "options": {
+      "A": "Article 227",
+      "B": "Article 226",
+      "C": "Article 225",
+      "D": "Article 236"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 30,
+    "question": "High Court judges are removed in the same manner as: / उच्च न्यायालय के न्यायाधीशों को हटाने की प्रक्रिया किसके समान है?",
+    "options": {
+      "A": "District Judge / जिला न्यायाधीश",
+      "B": "Supreme Court Judges / सर्वोच्च न्यायालय के न्यायाधीश",
+      "C": "Governor / राज्यपाल",
+      "D": "State Public Prosecutor / राज्य लोक अभियोजक"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 31,
+    "question": "Which of the following conditions must be satisfied for the Governor to promulgate an ordinance? / राज्यपाल को अध्यादेश जारी करने के लिए कौन-सी शर्तें पूरी करनी होती हैं?",
+    "options": {
+      "A": "State Legislature is not in session / राज्य विधानमंडल सत्र में न हो",
+      "B": "President has approved it / राष्ट्रपति की स्वीकृति प्राप्त हो",
+      "C": "Immediate action is necessary / तत्काल कार्रवाई आवश्यक हो",
+      "D": "Ordinance is recommended by Chief Minister / मुख्यमंत्री द्वारा अनुशंसा की गई हो"
     },
     "answer": ["A", "C"]
   },
   {
-    "id": 20,
-    "question": "Which articles deal with legislative procedure in Parliament? / संसद में विधायी प्रक्रिया से संबंधित अनुच्छेद कौन-से हैं?",
+    "id": 32,
+    "question": "Which of the following is NOT true about Governor’s ordinance power? / निम्न में से कौन-सा कथन राज्यपाल की अध्यादेश शक्ति के बारे में असत्य है?",
     "options": {
-      "A": "Article 107 to 111",
-      "B": "Article 112 to 117",
-      "C": "Article 118 to 122",
-      "D": "Article 102 to 106"
+      "A": "Ordinance can be issued when Legislative Assembly is in session / विधान सभा सत्र में हो तो अध्यादेश जारी किया जा सकता है",
+      "B": "It must be laid before the Legislature / इसे विधानमंडल के समक्ष प्रस्तुत करना होता है",
+      "C": "It has same force as a law passed by the Legislature / यह विधायिका द्वारा पारित कानून के समान प्रभावी होता है",
+      "D": "It ceases to operate after 6 weeks of reassembly / यह पुनःसत्र प्रारंभ होने के 6 सप्ताह में समाप्त हो जाता है"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
+  },
+  {
+    "id": 33,
+    "question": "Which article establishes a High Court in every state? / किस अनुच्छेद के अंतर्गत हर राज्य में उच्च न्यायालय की स्थापना की गई है?",
+    "options": {
+      "A": "Article 214",
+      "B": "Article 215",
+      "C": "Article 213",
+      "D": "Article 220"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 34,
+    "question": "Which of the following statements are correct about High Courts? / उच्च न्यायालयों के बारे में निम्नलिखित में से कौन-से कथन सही हैं?",
+    "options": {
+      "A": "High Court is a Court of Record / उच्च न्यायालय रिकॉर्ड न्यायालय होता है",
+      "B": "It has power to punish for its contempt / यह अपनी अवमानना के लिए दंडित कर सकता है",
+      "C": "Governor appoints Chief Justice / मुख्य न्यायाधीश की नियुक्ति राज्यपाल करता है",
+      "D": "Same High Court can serve more than one state / एक ही उच्च न्यायालय एक से अधिक राज्यों के लिए हो सकता है"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 35,
+    "question": "Which article provides for the transfer of a judge from one High Court to another? / किसी उच्च न्यायालय से दूसरे उच्च न्यायालय में न्यायाधीश का स्थानांतरण किस अनुच्छेद के अंतर्गत होता है?",
+    "options": {
+      "A": "Article 222",
+      "B": "Article 217",
+      "C": "Article 224",
+      "D": "Article 230"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 36,
+    "question": "Under Article 226, High Courts can issue writs for which purposes? / अनुच्छेद 226 के अंतर्गत उच्च न्यायालय किस प्रयोजन के लिए रिट जारी कर सकता है?",
+    "options": {
+      "A": "Enforcement of Fundamental Rights / मौलिक अधिकारों के प्रवर्तन हेतु",
+      "B": "For any other legal purpose / किसी अन्य कानूनी उद्देश्य हेतु",
+      "C": "Only for constitutional matters / केवल संवैधानिक मामलों हेतु",
+      "D": "Against private individuals also / निजी व्यक्तियों के विरुद्ध भी"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 37,
+    "question": "Who determines the number of Judges in a High Court? / उच्च न्यायालय में न्यायाधीशों की संख्या कौन निर्धारित करता है?",
+    "options": {
+      "A": "President of India / भारत का राष्ट्रपति",
+      "B": "Parliament / संसद",
+      "C": "Supreme Court / सर्वोच्च न्यायालय",
+      "D": "Chief Justice of India / भारत के मुख्य न्यायाधीश"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 38,
+    "question": "Which of the following articles deal with additional and acting judges? / निम्नलिखित में से कौन-से अनुच्छेद अतिरिक्त एवं कार्यवाहक न्यायाधीशों से संबंधित हैं?",
+    "options": {
+      "A": "Article 224",
+      "B": "Article 225",
+      "C": "Article 216",
+      "D": "Article 222"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 39,
+    "question": "Under which conditions can Parliament establish a common High Court for two or more states? / संसद किन परिस्थितियों में दो या अधिक राज्यों के लिए एक सामान्य उच्च न्यायालय स्थापित कर सकती है?",
+    "options": {
+      "A": "If all states pass a resolution / यदि सभी राज्य प्रस्ताव पारित करें",
+      "B": "By constitutional amendment only / केवल संविधान संशोधन द्वारा",
+      "C": "By a law made by Parliament / संसद द्वारा बनाए गए कानून द्वारा",
+      "D": "On recommendation of Chief Justice of India / भारत के मुख्य न्यायाधीश की सिफारिश पर"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 40,
+    "question": "Which article deals with extension of jurisdiction of a High Court to Union Territories? / किसी उच्च न्यायालय के अधिकार क्षेत्र को केंद्र शासित प्रदेशों तक बढ़ाने से संबंधित अनुच्छेद कौन-सा है?",
+    "options": {
+      "A": "Article 230",
+      "B": "Article 228",
+      "C": "Article 231",
+      "D": "Article 229"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 41,
+    "question": "Under which article can High Court withdraw cases from subordinate courts? / उच्च न्यायालय अधीनस्थ न्यायालयों से मामले किस अनुच्छेद के अंतर्गत वापस ले सकता है?",
+    "options": {
+      "A": "Article 228",
+      "B": "Article 231",
+      "C": "Article 224A",
+      "D": "Article 230"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 42,
+    "question": "Which article protects jurisdiction of High Courts as existed before Constitution? / कौन-सा अनुच्छेद संविधान से पूर्व उच्च न्यायालयों के अधिकार क्षेत्र की सुरक्षा करता है?",
+    "options": {
+      "A": "Article 225",
+      "B": "Article 214",
+      "C": "Article 231",
+      "D": "Article 232"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 43,
+    "question": "Which article enables appointment of retired judges of High Court? / उच्च न्यायालय के सेवानिवृत्त न्यायाधीशों की पुनर्नियुक्ति किस अनुच्छेद में संभव है?",
+    "options": {
+      "A": "Article 224A",
+      "B": "Article 217",
+      "C": "Article 216",
+      "D": "Article 231"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 44,
+    "question": "What is the nature of subordinate courts under High Court in the Constitution? / संविधान में उच्च न्यायालय के अधीन अधीनस्थ न्यायालयों की प्रकृति क्या है?",
+    "options": {
+      "A": "They are directly under Governor / ये सीधे राज्यपाल के अधीन होते हैं",
+      "B": "They are under control of High Court / ये उच्च न्यायालय के नियंत्रण में होते हैं",
+      "C": "They are independent constitutional bodies / ये स्वतंत्र संवैधानिक निकाय होते हैं",
+      "D": "They are created by State Public Service Commission / इन्हें राज्य लोक सेवा आयोग बनाता है"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 45,
+    "question": "Which article ensures control of High Courts over district judiciary appointments? / कौन-सा अनुच्छेद जिला न्यायपालिका में नियुक्तियों पर उच्च न्यायालय के नियंत्रण को सुनिश्चित करता है?",
+    "options": {
+      "A": "Article 235",
+      "B": "Article 237",
+      "C": "Article 234",
+      "D": "Article 236"
+    },
+    "answer": ["A"]
   }
 ]
 
