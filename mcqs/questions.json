@@ -493,6 +493,129 @@
       "D": "Article 236"
     },
     "answer": ["A"]
+  },
+  {
+    "id": 46,
+    "question": "Who is the highest law officer in a State? / राज्य में सर्वोच्च विधिक अधिकारी कौन होता है?",
+    "options": {
+      "A": "Attorney General of India / भारत के महाधिवक्ता",
+      "B": "Solicitor General / सॉलिसिटर जनरल",
+      "C": "Advocate General / राज्य का महाधिवक्ता",
+      "D": "Chief Justice of High Court / उच्च न्यायालय के मुख्य न्यायाधीश"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 47,
+    "question": "Under which Article is the Advocate General for the State appointed? / राज्य के महाधिवक्ता की नियुक्ति किस अनुच्छेद के अंतर्गत होती है?",
+    "options": {
+      "A": "Article 148",
+      "B": "Article 165",
+      "C": "Article 166",
+      "D": "Article 167"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 47,
+    "question": "Who appoints the Advocate General of a State? / राज्य के महाधिवक्ता की नियुक्ति कौन करता है?",
+    "options": {
+      "A": "President / राष्ट्रपति",
+      "B": "Chief Justice of High Court / उच्च न्यायालय के मुख्य न्यायाधीश",
+      "C": "Governor / राज्यपाल",
+      "D": "Chief Minister / मुख्यमंत्री"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 48,
+    "question": "The eligibility criteria for Advocate General is same as for: / राज्य महाधिवक्ता के लिए योग्यता किसके समान होती है?",
+    "options": {
+      "A": "District Judge / जिला न्यायाधीश",
+      "B": "High Court Judge / उच्च न्यायालय के न्यायाधीश",
+      "C": "Supreme Court Judge / सर्वोच्च न्यायालय के न्यायाधीश",
+      "D": "Civil Judge / सिविल जज"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 49,
+    "question": "Advocate General holds office: / महाधिवक्ता पद पर कार्य करता है:",
+    "options": {
+      "A": "For 5 years / 5 वर्षों के लिए",
+      "B": "During the pleasure of the Governor / राज्यपाल की इच्छा पर",
+      "C": "Till age of 65 years / 65 वर्ष की आयु तक",
+      "D": "Till next election / अगले चुनाव तक"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 50,
+    "question": "Which of the following is NOT a function of the Advocate General? / निम्नलिखित में से कौन महाधिवक्ता का कार्य नहीं है?",
+    "options": {
+      "A": "To advise the Governor on legal matters / राज्यपाल को विधिक सलाह देना",
+      "B": "To defend the State in courts / राज्य का न्यायालयों में प्रतिनिधित्व करना",
+      "C": "To appoint High Court judges / उच्च न्यायालय के न्यायाधीशों की नियुक्ति करना",
+      "D": "To perform functions assigned by the Constitution / संविधान द्वारा सौंपे गए कार्य करना"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 51,
+    "question": "Can Advocate General take part in proceedings of the State Legislature? / क्या राज्य महाधिवक्ता विधानमंडल की कार्यवाही में भाग ले सकता है?",
+    "options": {
+      "A": "Yes, with voting rights / हाँ, मतदान अधिकार के साथ",
+      "B": "No, never / नहीं, कभी नहीं",
+      "C": "Yes, without voting rights / हाँ, पर मतदान नहीं कर सकता",
+      "D": "Only in Rajya Sabha / केवल राज्यसभा में"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 52,
+    "question": "Which Article deals with the duties of the Advocate General to advise the Governor? / राज्यपाल को सलाह देने के महाधिवक्ता के कर्तव्यों से संबंधित अनुच्छेद कौन-सा है?",
+    "options": {
+      "A": "Article 165",
+      "B": "Article 166",
+      "C": "Article 167",
+      "D": "Article 164"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 53,
+    "question": "The Advocate General has the right to speak in the Legislature, but not to: / महाधिवक्ता को विधानमंडल में बोलने का अधिकार है, परंतु वह क्या नहीं कर सकता?",
+    "options": {
+      "A": "Give opinion / राय देना",
+      "B": "Move a bill / विधेयक प्रस्तुत करना",
+      "C": "Vote / मतदान करना",
+      "D": "Request adjournment / स्थगन प्रस्ताव देना"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 55,
+    "question": "The post of Advocate General is analogous to which central post? / राज्य के महाधिवक्ता का पद केंद्र सरकार के किस पद के समरूप है?",
+    "options": {
+      "A": "Attorney General of India / भारत के महाधिवक्ता",
+      "B": "Solicitor General / सॉलिसिटर जनरल",
+      "C": "Chief Justice of India / भारत के मुख्य न्यायाधीश",
+      "D": "Cabinet Secretary / कैबिनेट सचिव"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 56,
+    "question": "मई 2022 में उत्तर प्रदेश सरकार ने राज्य का महाधिवक्ता (Advocate General) किसे नियुक्त किया था? / Who was appointed as the Advocate General of Uttar Pradesh in May 2022?",
+    "options": {
+      "A": "Raghvendra Singh",
+      "B": "Ajay Kumar Mishra",
+      "C": "Siddharth Nath Singh",
+      "D": "Prashant Kumar"
+    },
+    "answer": ["B"]
   }
 ]
+
+
 
