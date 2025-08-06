@@ -1,493 +1,334 @@
 [
   {
     "id": 1,
-    "question": "बालवंतराय मेहता समिति का मुख्य उद्देश्य क्या था? / What was the main objective of the Balwantrai Mehta Committee?",
+    "question": "Part XI संविधान में किस विषय से संबंधित है? / What does Part XI of the Constitution deal with?",
     "options": {
-      "A": "संविधान संशोधन की सिफारिश / Recommending constitutional amendments",
-      "B": "स्थानीय स्वशासन का मूल्यांकन / Assessing local self-governance",
-      "C": "Community Development Programme का मूल्यांकन / Evaluation of CDP",
-      "D": "वित्त आयोग की समीक्षा / Reviewing Finance Commission"
+      "A": "न्यायपालिका / Judiciary",
+      "B": "संघ और राज्यों के बीच संबंध / Relations between Union and States",
+      "C": "राज्य वित्त / State Finance",
+      "D": "संविधान संशोधन / Constitutional Amendment"
     },
-    "answer": [
-      "C"
-    ]
+    "answer": ["B"]
   },
   {
     "id": 2,
-    "question": "अशोक मेहता समिति ने कितने-स्तरीय पंचायत प्रणाली की सिफारिश की थी? / How many tiers did Ashok Mehta Committee recommend for Panchayati Raj?",
+    "question": "Article 245 किस विषय से संबंधित है? / Article 245 relates to:",
     "options": {
-      "A": "तीन / Three",
-      "B": "दो / Two",
-      "C": "चार / Four",
-      "D": "एक / One"
+      "A": "संघ सूची / Union List",
+      "B": "विधायी शक्तियों की सीमा / Extent of Legislative Powers",
+      "C": "न्यायिक समीक्षा / Judicial Review",
+      "D": "कार्यपालिका शक्ति / Executive Power"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["B"]
   },
   {
     "id": 3,
-    "question": "किस समिति ने पंचायतों को संवैधानिक दर्जा देने की पहली बार अनुशंसा की थी? / Which committee first recommended giving constitutional status to Panchayats?",
+    "question": "Article 246 में किस प्रकार की सूचियाँ वर्णित हैं? / What lists are mentioned in Article 246?",
     "options": {
-      "A": "थुंगन समिति / Thungan Committee",
-      "B": "अशोक मेहता समिति / Ashok Mehta Committee",
-      "C": "एल.एम. सिंघवी समिति / L.M. Singhvi Committee",
-      "D": "गाडगिल समिति / Gadgil Committee"
+      "A": "संपत्ति सूची / Property List",
+      "B": "तीन सूचियाँ – संघ, राज्य और समवर्ती / Three Lists – Union, State, and Concurrent",
+      "C": "केवल संघ सूची / Only Union List",
+      "D": "केवल राज्य सूची / Only State List"
     },
-    "answer": [
-      "C"
-    ]
+    "answer": ["B"]
   },
   {
     "id": 4,
-    "question": "जी.वी.के. राव समिति की अनुशंसा थी कि पंचायतें हों: / G.V.K. Rao Committee recommended that Panchayats should be:",
+    "question": "संविधान की कौन-सी अनुसूची इन सूचियों को दर्शाती है? / Which Schedule contains these legislative lists?",
     "options": {
-      "A": "सिर्फ सलाहकार निकाय / Only advisory bodies",
-      "B": "विकास योजनाओं के प्रमुख उपकरण / Chief instruments for development",
-      "C": "राज्य सरकार की शाखा / State government’s branch",
-      "D": "केवल ग्राम स्तर पर लागू / Applicable only at village level"
+      "A": "5वीं अनुसूची / Fifth Schedule",
+      "B": "6वीं अनुसूची / Sixth Schedule",
+      "C": "7वीं अनुसूची / Seventh Schedule",
+      "D": "9वीं अनुसूची / Ninth Schedule"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["C"]
   },
   {
     "id": 5,
-    "question": "थुंगन समिति किस संदर्भ में गठित की गई थी? / Thungan Committee was constituted in the context of:",
+    "question": "समवर्ती सूची पर कानून बनाने का अधिकार किसके पास है? / Who can legislate on Concurrent List?",
     "options": {
-      "A": "74वां संशोधन / 74th Amendment",
-      "B": "राजस्व सुधार / Revenue reforms",
-      "C": "संविधान में पंचायतों को शामिल करने / Integrating Panchayats into Constitution",
-      "D": "पुलिस सुधार / Police reforms"
+      "A": "केवल संसद / Only Parliament",
+      "B": "केवल राज्य विधानसभाएँ / Only State Legislatures",
+      "C": "दोनों / Both",
+      "D": "राष्ट्रपति / President"
     },
-    "answer": [
-      "C"
-    ]
+    "answer": ["C"]
   },
   {
     "id": 6,
-    "question": "गाडगिल समिति का मुख्य फोकस क्या था? / What was the main focus of Gadgil Committee?",
+    "question": "Article 249 संसद को राज्य सूची पर कानून बनाने की शक्ति कब देता है? / When does Article 249 allow Parliament to legislate on State List?",
     "options": {
-      "A": "पंचायत चुनाव / Panchayat elections",
-      "B": "योजना निर्माण में पंचायतों की भागीदारी / Panchayat role in planning",
-      "C": "महिला आरक्षण / Women reservation",
-      "D": "राज्य वित्त आयोग / State Finance Commission"
+      "A": "आपातकाल के समय / During emergency",
+      "B": "राज्यपाल की अनुमति से / With Governor's permission",
+      "C": "राज्यसभा के दो-तिहाई बहुमत से / With two-thirds majority in Rajya Sabha",
+      "D": "सर्वोच्च न्यायालय के आदेश से / On Supreme Court order"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["C"]
   },
   {
     "id": 7,
-    "question": "Second ARC की Local Governance रिपोर्ट ने किस पर बल दिया? / Second ARC's Local Governance report emphasized:",
+    "question": "राज्य पर संसद का कानून किस परिस्थिति में वरीय होगा? / When does a Parliamentary law override a State law?",
     "options": {
-      "A": "केवल नगरपालिकाएँ / Only municipalities",
-      "B": "पंचायतों को वित्तीय, कार्यात्मक, और कार्मिक स्वतंत्रता देना / Giving Panchayats funds, functions, and functionaries",
-      "C": "राज्य सरकारों की भूमिका / Role of State Governments",
-      "D": "संविधान संशोधन को रद्द करना / Reversing the amendment"
+      "A": "जब दोनों में टकराव हो / When there is a conflict",
+      "B": "जब राज्यपाल आदेश दे / On Governor's order",
+      "C": "जब राज्य कानून पहले बना हो / When state law was made first",
+      "D": "ऐसा कभी नहीं होता / Never happens"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 8,
-    "question": "बालवंतराय मेहता समिति किस वर्ष गठित हुई थी? / In which year was the Balwantrai Mehta Committee formed?",
+    "question": "Article 252 किसका प्रावधान करता है? / Article 252 provides for:",
     "options": {
-      "A": "1952",
-      "B": "1955",
-      "C": "1957",
-      "D": "1959"
+      "A": "अनुच्छेदों की व्याख्या / Interpretation of Articles",
+      "B": "दो या अधिक राज्यों की सहमति से संसद को शक्ति देना / States empowering Parliament to legislate by consent",
+      "C": "राज्यपाल की नियुक्ति / Appointment of Governor",
+      "D": "संघीय अदालत / Federal Court"
     },
-    "answer": [
-      "C"
-    ]
+    "answer": ["B"]
   },
   {
     "id": 9,
-    "question": "अशोक मेहता समिति का गठन किसने किया था? / Who constituted the Ashok Mehta Committee?",
+    "question": "Article 253 अंतर्राष्ट्रीय संधियों से संबंधित है – यह किसे शक्ति देता है? / Article 253 relates to international treaties – it empowers:",
     "options": {
-      "A": "नेहरू सरकार / Nehru Government",
-      "B": "जनता पार्टी सरकार / Janata Party Government",
-      "C": "राजीव गांधी सरकार / Rajiv Gandhi Government",
-      "D": "अटल बिहारी वाजपेयी सरकार / Vajpayee Government"
+      "A": "राज्य / States",
+      "B": "संसद / Parliament",
+      "C": "राष्ट्रपति / President",
+      "D": "प्रधानमंत्री / Prime Minister"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["B"]
   },
   {
     "id": 10,
-    "question": "थुंगन समिति की अनुशंसा का परिणाम था: / The recommendation of Thungan Committee resulted in:",
+    "question": "Article 254 किस विषय पर है? / What is Article 254 about?",
     "options": {
-      "A": "73वां संविधान संशोधन / 73rd Constitutional Amendment",
-      "B": "राजस्व साझा समझौता / Revenue Sharing Agreement",
-      "C": "पुलिस सुधार आयोग / Police Reform Commission",
-      "D": "माल और सेवा कर / GST introduction"
+      "A": "संविधान संशोधन प्रक्रिया / Constitutional Amendment",
+      "B": "राज्यपाल की शक्तियाँ / Powers of Governor",
+      "C": "संघ और राज्य कानूनों में टकराव / Inconsistency between Union and State Laws",
+      "D": "राज्य की वित्तीय शक्तियाँ / Financial powers of states"
     },
-    "answer": [
-      "A"
-    ]
+    "answer": ["C"]
   },
   {
     "id": 11,
-    "question": "Article 243 संविधान में किस विषय से संबंधित है? / Article 243 of the Constitution is related to:",
+    "question": "Article 256 किस विषय पर है? / Article 256 deals with:",
     "options": {
-      "A": "राज्यसभा की संरचना / Structure of Rajya Sabha",
-      "B": "ग्राम सभा की परिभाषा / Definition of Gram Sabha",
-      "C": "पंचायतों की परिभाषा / Definitions related to Panchayats",
-      "D": "राज्य सूची के विषय / Subjects of State List"
+      "A": "राज्यों में कार्यपालिका शक्ति का प्रयोग / Compliance of state governments with Union laws",
+      "B": "राज्य सूची पर कानून / Laws on State List",
+      "C": "न्यायिक स्वतंत्रता / Judicial Independence",
+      "D": "राज्य की सीमाएँ / State boundaries"
     },
-    "answer": ["C"]
+    "answer": ["A"]
   },
   {
     "id": 12,
-    "question": "Article 243D में किसका आरक्षण वर्णित है? / Article 243D deals with reservation for:",
+    "question": "Article 263 किस संस्था के निर्माण का प्रावधान करता है? / Article 263 provides for the creation of which body?",
     "options": {
-      "A": "पिछड़ा वर्ग / OBCs",
-      "B": "महिलाएं और SC/ST / Women and SC/ST",
-      "C": "सैनिक / Ex-servicemen",
-      "D": "बेरोजगार युवा / Unemployed youth"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 13,
-    "question": "राज्य वित्त आयोग का प्रावधान किस अनुच्छेद में है? / Which Article provides for State Finance Commission?",
-    "options": {
-      "A": "243G",
-      "B": "243H",
-      "C": "243I",
-      "D": "243J"
+      "A": "वित्त आयोग / Finance Commission",
+      "B": "न्यायिक परिषद / Judicial Council",
+      "C": "अंतर-राज्यीय परिषद / Inter-State Council",
+      "D": "नियोजन आयोग / Planning Commission"
     },
     "answer": ["C"]
   },
   {
-    "id": 14,
-    "question": "पंचायत चुनाव कराने की जिम्मेदारी किसकी होती है? / Who is responsible for conducting Panchayat elections?",
+    "id": 13,
+    "question": "Article 258A राज्यों को क्या अनुमति देता है? / What does Article 258A permit the states to do?",
     "options": {
-      "A": "भारत निर्वाचन आयोग / Election Commission of India",
-      "B": "राज्य निर्वाचन आयोग / State Election Commission",
-      "C": "जिला कलेक्टर / District Collector",
-      "D": "राज्य सरकार / State Government"
+      "A": "अन्य राज्यों पर नियंत्रण / Control over other states",
+      "B": "संघ की शक्तियाँ राज्य को हस्तांतरित करना / Delegate Union powers to State",
+      "C": "राज्यपाल को हटाना / Remove Governor",
+      "D": "संघ की योजना को अस्वीकार करना / Reject Union plans"
     },
     "answer": ["B"]
   },
   {
-    "id": 15,
-    "question": "ग्राम पंचायत का कार्यकाल अधिकतम कितना होता है? / What is the maximum tenure of a Gram Panchayat?",
+    "id": 14,
+    "question": "राज्य सूची में कितने विषय हैं? / How many subjects are in the State List?",
     "options": {
-      "A": "3 वर्ष / 3 years",
-      "B": "4 वर्ष / 4 years",
-      "C": "5 वर्ष / 5 years",
-      "D": "6 वर्ष / 6 years"
+      "A": "47",
+      "B": "61",
+      "C": "66",
+      "D": "75"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 15,
+    "question": "Concurrent List में कौन-से विषय शामिल होते हैं? / What kind of subjects are included in the Concurrent List?",
+    "options": {
+      "A": "केवल कृषि और सिंचाई / Only Agriculture and Irrigation",
+      "B": "केवल रक्षा और विदेशी मामले / Only Defense and Foreign Affairs",
+      "C": "सामाजिक-आर्थिक हित के विषय / Socio-economic interest subjects",
+      "D": "केवल शिक्षा / Only Education"
     },
     "answer": ["C"]
   },
   {
     "id": 16,
-    "question": "राज्य सरकार पंचायतों को किन विषयों पर अधिकार देती है? / State governments give Panchayats powers over subjects in:",
+    "question": "Article 250 कब संसद को राज्य सूची पर कानून बनाने की शक्ति देता है? / When does Article 250 allow Parliament to legislate on the State List?",
     "options": {
-      "A": "राज्य सूची / State List",
-      "B": "संवर्ती सूची / Concurrent List",
-      "C": "11वीं अनुसूची / 11th Schedule",
-      "D": "अनुच्छेद 370 / Article 370"
+      "A": "राष्ट्रीय आपातकाल में / During National Emergency",
+      "B": "राज्यपाल की अनुमति से / With Governor's permission",
+      "C": "राज्य विधानसभा के विशेष प्रस्ताव से / By special resolution of State Assembly",
+      "D": "राष्ट्रपति की घोषणा से / By Presidential declaration"
     },
-    "answer": ["C"]
+    "answer": ["A"]
   },
   {
     "id": 17,
-    "question": "राज्य वित्त आयोग का गठन कितने वर्षों में एक बार होता है? / How often is the State Finance Commission constituted?",
+    "question": "Article 251 क्या कहता है? / What does Article 251 state?",
     "options": {
-      "A": "हर 3 साल / Every 3 years",
-      "B": "हर 5 साल / Every 5 years",
-      "C": "हर 7 साल / Every 7 years",
-      "D": "हर 10 साल / Every 10 years"
+      "A": "आपातकाल में न्यायिक शक्ति / Judicial power during emergency",
+      "B": "राज्य कानूनों की निरस्ती / Repeal of state laws conflicting with Union laws made during emergency",
+      "C": "सर्वोच्च न्यायालय की प्राथमिकता / Priority of Supreme Court decisions",
+      "D": "राज्य नीति निर्देशक सिद्धांत / Directive Principles of State Policy"
     },
     "answer": ["B"]
   },
   {
     "id": 18,
-    "question": "ग्राम सभा किस अनुच्छेद में वर्णित है? / Gram Sabha is mentioned under which Article?",
+    "question": "Article 257 का उद्देश्य क्या है? / What is the objective of Article 257?",
     "options": {
-      "A": "243A",
-      "B": "243B",
-      "C": "243E",
-      "D": "243K"
+      "A": "राज्यों की सीमाएं तय करना / Fixing boundaries of states",
+      "B": "संघीय नियंत्रण के तहत राज्य कार्यपालिका / State executive under Union control",
+      "C": "राज्य कानूनों की व्याख्या / Interpretation of state laws",
+      "D": "संविधान संशोधन / Constitutional amendment"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 19,
-    "question": "पंचायतों के लिए कर लगाने का अधिकार किस अनुच्छेद में है? / Which Article gives Panchayats the power to levy taxes?",
+    "question": "Article 255 के अनुसार राष्ट्रपति की अनुमति कब आवश्यक नहीं होती? / When is President’s assent not required as per Article 255?",
     "options": {
-      "A": "243F",
-      "B": "243H",
-      "C": "243I",
-      "D": "243J"
+      "A": "जब राज्यपाल कानून पारित करे / When Governor passes the law",
+      "B": "जब संसद कानून बनाए / When Parliament makes law",
+      "C": "जब आवश्यक अनुदेशों का पालन हो चुका हो / When required directions are complied with",
+      "D": "आपातकाल के दौरान / During emergency"
     },
-    "answer": ["B"]
+    "answer": ["C"]
   },
   {
     "id": 20,
-    "question": "पंचायती राज व्यवस्था का संवैधानिक दर्जा किस वर्ष में मिला? / In which year did Panchayati Raj get constitutional status?",
+    "question": "Article 259 किससे संबंधित है? / Article 259 is related to:",
     "options": {
-      "A": "1989",
-      "B": "1992",
-      "C": "1993",
-      "D": "1995"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 21,
-    "question": "अनुच्छेद 243K किससे संबंधित है? / Article 243K relates to:",
-    "options": {
-      "A": "राज्य चुनाव आयोग / State Election Commission",
-      "B": "ग्राम सभा / Gram Sabha",
-      "C": "राज्य वित्त आयोग / State Finance Commission",
-      "D": "आरक्षण नीति / Reservation Policy"
+      "A": "भारत के बाहर संपत्ति / Property outside India",
+      "B": "राज्य की सीमाएँ / State boundaries",
+      "C": "परिसीमन / Delimitation",
+      "D": "कर व्यवस्था / Taxation system"
     },
     "answer": ["A"]
   },
   {
-    "id": 22,
-    "question": "11वीं अनुसूची संविधान में क्यों जोड़ी गई? / Why was the 11th Schedule added to the Constitution?",
+    "id": 21,
+    "question": "Article 261 के अनुसार भारत की एक राज्य में पारित न्यायिक कार्यवाही को अन्य राज्यों में कैसे देखा जाता है? / How are judicial proceedings of one state viewed in others under Article 261?",
     "options": {
-      "A": "न्यायपालिका को सशक्त करने / Strengthening the judiciary",
-      "B": "पंचायतों को कार्य सौंपने / Assigning functions to Panchayats",
-      "C": "राज्यपाल की शक्तियाँ बढ़ाने / Enhancing powers of the Governor",
-      "D": "संसद को अधिकार देने / Empowering the Parliament"
+      "A": "मान्यता आवश्यक नहीं / No recognition required",
+      "B": "केवल अधिसूचना के बाद मान्यता / Recognized only after notification",
+      "C": "पूर्ण विश्वास और श्रेय / Full faith and credit",
+      "D": "राज्यपाल की अनुमति आवश्यक / Requires Governor's permission"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 22,
+    "question": "Article 248 संसद को किस प्रकार की शक्ति प्रदान करता है? / What kind of power does Article 248 provide to Parliament?",
+    "options": {
+      "A": "वित्तीय शक्ति / Financial power",
+      "B": "शेष अधिकार / Residuary powers",
+      "C": "न्यायिक शक्ति / Judicial power",
+      "D": "निर्वाचन शक्ति / Electoral power"
     },
     "answer": ["B"]
   },
   {
     "id": 23,
-    "question": "राज्य चुनाव आयुक्त की नियुक्ति कौन करता है? / Who appoints the State Election Commissioner?",
+    "question": "Residuary Powers भारतीय संविधान में किसे सौंपे गए हैं? / To whom are the Residuary Powers given in Indian Constitution?",
     "options": {
-      "A": "मुख्यमंत्री / Chief Minister",
-      "B": "राज्यपाल / Governor",
-      "C": "प्रधानमंत्री / Prime Minister",
-      "D": "राष्ट्रपति / President"
+      "A": "राज्य सरकारों को / State Governments",
+      "B": "संयुक्त रूप से / Jointly",
+      "C": "संसद को / Parliament",
+      "D": "राष्ट्रपति को / President"
     },
-    "answer": ["B"]
+    "answer": ["C"]
   },
   {
     "id": 24,
-    "question": "अनुच्छेद 243H का विषय क्या है? / What is the subject of Article 243H?",
+    "question": "संविधान में संघ की सर्वोच्चता किस अनुच्छेद में व्यक्त की गई है? / In which Article is the supremacy of the Union expressed?",
     "options": {
-      "A": "राजस्व वितरण / Revenue Distribution",
-      "B": "पंचायतों की कराधान शक्ति / Power to levy taxes by Panchayats",
-      "C": "जिला परिषद की भूमिका / Role of District Council",
-      "D": "न्यायिक शक्तियाँ / Judicial Powers"
+      "A": "Article 254",
+      "B": "Article 245",
+      "C": "Article 246(1)",
+      "D": "Article 263"
     },
-    "answer": ["B"]
+    "answer": ["C"]
   },
   {
     "id": 25,
-    "question": "राज्य वित्त आयोग पंचायतों को कौन सी सेवाएँ सिफारिश कर सकता है? / State Finance Commission may recommend:",
+    "question": "Article 258 किसे संघ की कार्यपालिका शक्ति सौंपने की अनुमति देता है? / Article 258 allows delegation of executive powers of Union to:",
     "options": {
-      "A": "केवल स्वास्थ्य सेवाएं / Only health services",
-      "B": "करों और अनुदानों का वितरण / Distribution of taxes and grants",
-      "C": "पुलिस नियुक्ति / Police appointments",
-      "D": "राज्य योजनाएं / State level planning"
+      "A": "राष्ट्रपति / President",
+      "B": "राज्यपाल / Governor",
+      "C": "राज्य सरकारें / State Governments",
+      "D": "संसद / Parliament"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 26,
+    "question": "Article 262 किस विषय को नियंत्रित करता है? / What is Article 262 related to?",
+    "options": {
+      "A": "जल विवादों का निपटारा / Adjudication of water disputes",
+      "B": "राज्य सीमाएँ / State boundaries",
+      "C": "संघ सूची पर कानून / Laws on Union List",
+      "D": "कर निर्धारण / Tax allocation"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 27,
+    "question": "जल विवाद निपटान के लिए किस अधिनियम के तहत ट्राइब्यूनल बनाया जाता है? / Under which Act is the tribunal for water disputes constituted?",
+    "options": {
+      "A": "जल अधिनियम 1952 / Water Act 1952",
+      "B": "अंतरराज्यीय जल विवाद अधिनियम 1956 / Inter-State Water Disputes Act, 1956",
+      "C": "जल संसाधन अधिनियम 1984 / Water Resources Act 1984",
+      "D": "राज्य जल संरक्षण अधिनियम / State Water Protection Act"
     },
     "answer": ["B"]
   },
   {
-    "id": 26,
-    "question": "73वें संविधान संशोधन अधिनियम का मुख्य उद्देश्य क्या था? / What was the main objective of the 73rd Constitutional Amendment Act?",
-    "options": {
-      "A": "राज्यसभा को शक्तियाँ देना / Empower Rajya Sabha",
-      "B": "पंचायती राज को संवैधानिक दर्जा देना / Constitutional status to Panchayati Raj",
-      "C": "निर्वाचन आयोग का विस्तार / Expansion of Election Commission",
-      "D": "संसद की शक्ति बढ़ाना / Increase Parliament’s power"
-    },
-    "answer": [
-      "B"
-    ]
-  },
-  {
-    "id": 27,
-    "question": "अनुच्छेद 243B के अनुसार, प्रत्येक राज्य में होना चाहिए: / According to Article 243B, every state shall have:",
-    "options": {
-      "A": "केवल ग्राम पंचायत / Only Gram Panchayat",
-      "B": "एक नगरपालिका / One Municipality",
-      "C": "तीन-स्तरीय पंचायत प्रणाली / Three-tier Panchayati system",
-      "D": "नगर निगम / Municipal Corporation"
-    },
-    "answer": [
-      "C"
-    ]
-  },
-  {
     "id": 28,
-    "question": "अनुसूचित क्षेत्रों में पंचायतों के लिए विशेष प्रावधान किस अधिनियम में हैं? / Special provisions for Panchayats in Scheduled Areas are in:",
+    "question": "Article 260 किस अधिकार को संदर्भित करता है? / What power does Article 260 refer to?",
     "options": {
-      "A": "73वां संशोधन / 73rd Amendment",
-      "B": "PESA अधिनियम, 1996 / PESA Act, 1996",
-      "C": "FRA अधिनियम / Forest Rights Act",
-      "D": "CAG अधिनियम / CAG Act"
+      "A": "भारत के बाहर कार्यपालिका शक्ति / Executive power beyond India",
+      "B": "सैन्य शक्ति / Military power",
+      "C": "राज्य सूची विस्तार / Extension of State List",
+      "D": "राज्यपाल को आपात शक्ति / Emergency power to Governor"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 29,
-    "question": "Article 243E पंचायतों के किस पहलू से संबंधित है? / Article 243E relates to:",
+    "question": "संविधान में संघ और राज्यों की विधायी शक्तियों का पृथक्करण कहाँ दर्शाया गया है? / Where is the separation of legislative powers between Union and States provided?",
     "options": {
-      "A": "चुनाव / Elections",
-      "B": "कार्यकाल / Duration",
-      "C": "वित्तीय शक्तियाँ / Financial Powers",
-      "D": "योजना निर्माण / Planning"
+      "A": "अनुच्छेद 245–255 / Articles 245–255",
+      "B": "अनुच्छेद 220–230 / Articles 220–230",
+      "C": "अनुच्छेद 250–260 / Articles 250–260",
+      "D": "अनुच्छेद 195–210 / Articles 195–210"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["A"]
   },
   {
     "id": 30,
-    "question": "Article 243N किस विषय से संबंधित है? / Article 243N deals with:",
+    "question": "Article 263 किस संस्था के निर्माण का प्रावधान करता है? / Article 263 provides for the creation of which body?",
     "options": {
-      "A": "स्थानीय संस्थानों के संक्रमण प्रावधान / Transitional provisions for local bodies",
-      "B": "वित्त आयोग / Finance Commission",
-      "C": "ग्राम सभा की शक्तियाँ / Powers of Gram Sabha",
-      "D": "महिला आरक्षण / Women reservation"
+      "A": "वित्त आयोग / Finance Commission",
+      "B": "न्यायिक परिषद / Judicial Council",
+      "C": "अंतर-राज्यीय परिषद / Inter-State Council",
+      "D": "नियोजन आयोग / Planning Commission"
     },
-    "answer": [
-      "A"
-    ]
-  },
-  {
-    "id": 31,
-    "question": "11वीं अनुसूची में सूचीबद्ध विषयों की संख्या है: / Number of subjects in the 11th Schedule is:",
-    "options": {
-      "A": "21",
-      "B": "25",
-      "C": "29",
-      "D": "31"
-    },
-    "answer": [
-      "C"
-    ]
-  },
-  {
-    "id": 32,
-    "question": "पंचायती राज को लागू करने वाला पहला राज्य कौन था? / Which was the first state to implement Panchayati Raj?",
-    "options": {
-      "A": "उत्तर प्रदेश / Uttar Pradesh",
-      "B": "पश्चिम बंगाल / West Bengal",
-      "C": "राजस्थान / Rajasthan",
-      "D": "महाराष्ट्र / Maharashtra"
-    },
-    "answer": [
-      "C"
-    ]
-  },
-  {
-    "id": 33,
-    "question": "PESA Act 1996 को लागू करने का उद्देश्य क्या है? / What is the objective of PESA Act, 1996?",
-    "options": {
-      "A": "शहरी क्षेत्रों की सरकार को नियंत्रित करना / Regulate urban governments",
-      "B": "अनुसूचित जनजातियों को सशक्त बनाना / Empower Scheduled Tribes",
-      "C": "राज्य की शक्तियाँ बढ़ाना / Increase powers of states",
-      "D": "न्यायिक समीक्षा का विस्तार / Extend judicial review"
-    },
-    "answer": [
-      "B"
-    ]
-  },
-  {
-    "id": 34,
-    "question": "Article 243O क्या कहता है? / What does Article 243O state?",
-    "options": {
-      "A": "निर्वाचन को अदालत में चुनौती नहीं दी जा सकती / Elections can't be questioned in court",
-      "B": "ग्राम सभा की परिभाषा / Defines Gram Sabha",
-      "C": "राज्यपाल की भूमिका / Role of Governor",
-      "D": "आरक्षण की समय सीमा / Duration of reservations"
-    },
-    "answer": [
-      "A"
-    ]
-  },
-  {
-    "id": 35,
-    "question": "Article 243J संबंधित है: / Article 243J relates to:",
-    "options": {
-      "A": "ग्राम सभा की बैठकें / Gram Sabha meetings",
-      "B": "पंचायतों के लेखा परीक्षा / Audit of Panchayats",
-      "C": "पंचायत चुनाव / Panchayat elections",
-      "D": "राज्य की शक्तियाँ / State powers"
-    },
-    "answer": [
-      "B"
-    ]
-  },
-  {
-    "id": 36,
-    "question": "73वें संशोधन को संविधान में कौन-सी अनुसूची में डाला गया? / Which Schedule was added through the 73rd Amendment?",
-    "options": {
-      "A": "9वीं / 9th",
-      "B": "10वीं / 10th",
-      "C": "11वीं / 11th",
-      "D": "12वीं / 12th"
-    },
-    "answer": [
-      "C"
-    ]
-  },
-  {
-    "id": 37,
-    "question": "ग्राम सभा में मतदान का अधिकार किसे होता है? / Who has the right to vote in Gram Sabha?",
-    "options": {
-      "A": "केवल पंचायत सदस्य / Only Panchayat members",
-      "B": "ग्राम के वयस्क नागरिक / Adult citizens of village",
-      "C": "राज्य के नामांकित सदस्य / Nominated state members",
-      "D": "राज्यपाल द्वारा नियुक्त / Appointed by Governor"
-    },
-    "answer": [
-      "B"
-    ]
-  },
-  {
-    "id": 38,
-    "question": "243F पंचायत के किस पहलू से संबंधित है? / Article 243F deals with:",
-    "options": {
-      "A": "अवधि / Tenure",
-      "B": "योग्यता और अयोग्यता / Qualification and Disqualification",
-      "C": "पद और शक्तियाँ / Office and Powers",
-      "D": "चुनाव / Elections"
-    },
-    "answer": [
-      "B"
-    ]
-  },
-  {
-    "id": 39,
-    "question": "Article 243C पंचायतों की किस संरचना से संबंधित है? / Article 243C is related to:",
-    "options": {
-      "A": "चुनाव प्रक्रिया / Election Process",
-      "B": "संरचना और गठन / Composition and Constitution",
-      "C": "वित्त पोषण / Financing",
-      "D": "अनुसूचित जनजाति अधिकार / Tribal Rights"
-    },
-    "answer": [
-      "B"
-    ]
-  },
-  {
-    "id": 40,
-    "question": "पंचायतों के लिए न्यूनतम आयु सीमा क्या है? / What is the minimum age requirement for Panchayats?",
-    "options": {
-      "A": "18 वर्ष / 18 years",
-      "B": "21 वर्ष / 21 years",
-      "C": "25 वर्ष / 25 years",
-      "D": "30 वर्ष / 30 years"
-    },
-    "answer": [
-      "B"
-    ]
+    "answer": ["C"]
   }
 ]
+
 
