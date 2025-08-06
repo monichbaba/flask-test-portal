@@ -1,569 +1,222 @@
 [
   {
     "id": 1,
-    "question": "2024 में Bharat Ratna का सम्मान किसे-किसे (posthumously) दिया गया? / Who were posthumously awarded the Bharat Ratna in 2024?",
+    "question": "Article 324 भारतीय संविधान में किससे संबंधित है? / What does Article 324 of the Indian Constitution relate to?",
     "options": {
-      "A": "Karpoori Thakur",
-      "B": "L. K. Advani",
-      "C": "P. V. Narasimha Rao",
-      "D": "Chaudhary Charan Singh",
-      "E": "M. S. Swaminathan"
+      "A": "न्यायपालिका / Judiciary",
+      "B": "चुनाव आयोग / Election Commission",
+      "C": "वित्त आयोग / Finance Commission",
+      "D": "संघीय संसद / Union Parliament"
     },
-    "answer": ["A", "B", "C", "D", "E"]
+    "answer": ["B"]
   },
   {
     "id": 2,
-    "question": "2019 में Bharat Ratna पुरस्कार किस-किसे दिया गया था? / Who were awarded the Bharat Ratna in 2019?",
+    "question": "भारत में चुनाव आयोग की स्थापना किस अनुच्छेद के तहत होती है? / Under which Article is the Election Commission of India established?",
     "options": {
-      "A": "Pranab Mukherjee",
-      "B": "Nanaji Deshmukh",
-      "C": "Bhupen Hazarika",
-      "D": "Sachin Tendulkar"
+      "A": "322",
+      "B": "324",
+      "C": "326",
+      "D": "328"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["B"]
   },
   {
     "id": 3,
-    "question": "Sachin Tendulkar को Bharat Ratna किस वर्ष मिला और वह किस क्षेत्र से जुड़ते हैं? / In which year did Sachin Tendulkar receive the Bharat Ratna, and in which field is he associated?",
+    "question": "Article 326 किस बात से संबंधित है? / What is Article 326 related to?",
     "options": {
-      "A": "2014 – Sports",
-      "B": "2014 – Literature",
-      "C": "2019 – Sports",
-      "D": "2019 – Science"
+      "A": "अनुच्छेदों की व्याख्या / Interpretation of Articles",
+      "B": "वयस्क मताधिकार / Adult suffrage",
+      "C": "संविधान संशोधन / Constitutional amendment",
+      "D": "राज्य विधानमंडल की शक्तियाँ / Powers of state legislature"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 4,
-    "question": "C. N. R. Rao ने Bharat Ratna किस क्षेत्र में योगदान के लिए प्राप्त की? / For contributions in which field was C. N. R. Rao awarded the Bharat Ratna?",
+    "question": "चुनावों के संचालन का अधिकार किसे प्राप्त है? / Who has the authority to supervise and conduct elections in India?",
     "options": {
-      "A": "Science (Chemistry)",
-      "B": "Sports",
-      "C": "Public Affairs",
-      "D": "Literature"
+      "A": "संसद / Parliament",
+      "B": "विधानसभा / Legislative Assembly",
+      "C": "चुनाव आयोग / Election Commission",
+      "D": "राष्ट्रपति / President"
     },
-    "answer": ["A"]
+    "answer": ["C"]
   },
   {
     "id": 5,
-    "question": "Jayaprakash Narayan को Bharat Ratna किस वर्ष (posthumously) प्रदान की गई थी? / In which year was Jayaprakash Narayan posthumously awarded the Bharat Ratna?",
+    "question": "वर्तमान में भारत के मुख्य चुनाव आयुक्त कौन हैं (2024–25)? / Who is the current Chief Election Commissioner of India (2024–25)?",
     "options": {
-      "A": "1999",
-      "B": "2014",
-      "C": "2019",
-      "D": "2024"
+      "A": "राजीव कुमार / Rajiv Kumar",
+      "B": "सुशील चंद्रा / Sushil Chandra",
+      "C": "अचल कुमार ज्योति / Achal Kumar Joti",
+      "D": "नसीम जैदी / Nasim Zaidi"
     },
     "answer": ["A"]
   },
   {
     "id": 6,
-    "question": "2024 में Dadasaheb Phalke Award किसे दिया गया? / Who won the Dadasaheb Phalke Award in 2024?",
+    "question": "Article 325 का उद्देश्य क्या है? / What is the purpose of Article 325?",
     "options": {
-      "A": "Waheeda Rehman",
-      "B": "Rajinikanth",
-      "C": "Vyjayanthimala",
-      "D": "Amitabh Bachchan"
+      "A": "संविधान में धर्म की स्वतंत्रता / Freedom of religion",
+      "B": "चुनाव सूची में भेदभाव की मनाही / No discrimination in electoral rolls",
+      "C": "वित्तीय आपातकाल / Financial emergency",
+      "D": "राज्यपाल की शक्तियाँ / Powers of Governor"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 7,
+    "question": "किस संशोधन द्वारा मतदाता की आयु 21 से घटाकर 18 वर्ष की गई? / Which Amendment reduced the voting age from 21 to 18?",
+    "options": {
+      "A": "42वाँ संशोधन / 42nd Amendment",
+      "B": "44वाँ संशोधन / 44th Amendment",
+      "C": "61वाँ संशोधन / 61st Amendment",
+      "D": "73वाँ संशोधन / 73rd Amendment"
     },
     "answer": ["C"]
   },
   {
-    "id": 7,
-    "question": "Padma Vibhushan 2024 के विजेताओं में कौन शामिल हैं? / Who were among the Padma Vibhushan awardees in 2024?",
-    "options": {
-      "A": "Konidela Chiranjeevi",
-      "B": "Vyjayanthimala",
-      "C": "Padma Subrahmanyam",
-      "D": "सभी (All of the above)"
-    },
-    "answer": ["D"]
-  },
-  {
     "id": 8,
-    "question": "Padma Bhushan 2024 में किसे विज्ञान के क्षेत्र में सम्मानित किया गया? / Who received the Padma Bhushan 2024 for Science?",
+    "question": "Article 328 किससे संबंधित है? / What does Article 328 deal with?",
     "options": {
-      "A": "A. S. Kiran Kumar",
-      "B": "Natarajan Chandrasekaran",
-      "C": "Dr. Rajat Mitra",
-      "D": "S. Venkateswaran"
+      "A": "राज्यों के लिए चुनावों के कानून बनाना / Laws by State Legislatures on elections",
+      "B": "संसदीय चुनावों की अधिसूचना / Parliamentary election notifications",
+      "C": "राज्यपाल की नियुक्ति / Appointment of Governor",
+      "D": "चुनाव आयोग की शक्तियाँ / Powers of Election Commission"
     },
     "answer": ["A"]
   },
   {
     "id": 9,
-    "question": "Padma Shri 2024 के अंतर्गत 'Arts' के क्षेत्र में किसे सम्मान मिला? / Who was awarded Padma Shri 2024 in the field of Arts?",
+    "question": "Article 329 क्या कहता है? / What does Article 329 say?",
     "options": {
-      "A": "Meenakshi Amma",
-      "B": "Dr. Venugopal K. R.",
-      "C": "Prof. Sukumar Muralidharan",
-      "D": "Kumar Mangalam Birla"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 10,
-    "question": "2024 Gandhi Peace Prize किसे दिया गया? / Who received the Gandhi Peace Prize in 2024?",
-    "options": {
-      "A": "Gita Press, Gorakhpur",
-      "B": "Dalai Lama",
-      "C": "Sulabh International",
-      "D": "ISRO"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 11,
-    "question": "2024 में Arjuna Award किसे Cricket में मिला? / Who won the Arjuna Award 2024 for Cricket?",
-    "options": {
-      "A": "Shubman Gill",
-      "B": "Deepti Sharma",
-      "C": "Smriti Mandhana",
-      "D": "Ruturaj Gaikwad"
+      "A": "चुनाव याचिकाओं को अनुमति देता है / Allows election petitions",
+      "B": "चुनाव से जुड़े न्यायिक हस्तक्षेप पर रोक / Bars judicial interference in elections (except by petition)",
+      "C": "चुनाव आयोग के अधिकार सीमित करता है / Limits powers of Election Commission",
+      "D": "सांसदों की अयोग्यता / Disqualification of MPs"
     },
     "answer": ["B"]
   },
   {
-    "id": 12,
-    "question": "Major Dhyan Chand Khel Ratna 2024 का विजेता कौन है? / Who won the Major Dhyan Chand Khel Ratna Award in 2024?",
+    "id": 10,
+    "question": "चुनाव आयोग के सदस्यों की नियुक्ति कौन करता है? / Who appoints the members of the Election Commission?",
     "options": {
-      "A": "Chirag Shetty",
-      "B": "Satwiksairaj Rankireddy",
-      "C": "Neeraj Chopra",
-      "D": "R. Praggnanandhaa"
+      "A": "प्रधानमंत्री / Prime Minister",
+      "B": "मुख्य न्यायाधीश / Chief Justice",
+      "C": "राष्ट्रपति / President",
+      "D": "लोकसभा अध्यक्ष / Lok Sabha Speaker"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 11,
+    "question": "चुनाव आयोग का कार्यकाल कितना होता है? / What is the tenure of the Election Commissioners?",
+    "options": {
+      "A": "5 वर्ष या 65 वर्ष की आयु / 5 years or 65 years of age",
+      "B": "6 वर्ष या 62 वर्ष की आयु / 6 years or 62 years of age",
+      "C": "4 वर्ष या 60 वर्ष की आयु / 4 years or 60 years of age",
+      "D": "7 वर्ष या 67 वर्ष की आयु / 7 years or 67 years of age"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 12,
+    "question": "भारत में चुनाव आयोग की स्थापना कब हुई थी? / When was the Election Commission of India established?",
+    "options": {
+      "A": "1947",
+      "B": "1949",
+      "C": "1950",
+      "D": "1952"
     },
     "answer": ["C"]
   },
   {
     "id": 13,
-    "question": "Ekalabya Puraskar 2024 का विजेता कौन बना? / Who won the Ekalabya Award in 2024?",
+    "question": "भारत में पहला आम चुनाव कब हुआ? / When was the first General Election held in India?",
     "options": {
-      "A": "Priyanka Sahoo",
-      "B": "Deep Grace Ekka",
-      "C": "Shriyanka Sadangi",
-      "D": "Dutee Chand"
+      "A": "1949-50",
+      "B": "1951-52",
+      "C": "1952-53",
+      "D": "1954-55"
     },
     "answer": ["B"]
   },
   {
     "id": 14,
-    "question": "Sahitya Akademi Award 2024 (Hindi भाषा) के विजेता कौन हैं? / Who is the winner of Sahitya Akademi Award 2024 for Hindi?",
+    "question": "क्या चुनाव आयोग एक स्वतंत्र निकाय है? / Is the Election Commission an independent body?",
     "options": {
-      "A": "Nasera Sharma",
-      "B": "Anamika",
-      "C": "Ramesh Kuntal Megh",
-      "D": "Chitra Mudgal"
+      "A": "हाँ / Yes",
+      "B": "नहीं / No",
+      "C": "संसद के नियंत्रण में / Under Parliament",
+      "D": "न्यायपालिका के अधीन / Under Judiciary"
     },
-    "answer": ["C"]
+    "answer": ["A"]
   },
   {
     "id": 15,
-    "question": "Jnanpith Award 2023 विजेता कौन रहे (घोषणा 2024 में)? / Who won the Jnanpith Award 2023 (announced in 2024)?",
+    "question": "भारत का मुख्य चुनाव आयुक्त किस अनुच्छेद के अंतर्गत हटाया जा सकता है? / Under which Article can the Chief Election Commissioner be removed?",
     "options": {
-      "A": "S.L. Bhyrappa (Kannada)",
-      "B": "Mannu Bhandari (Hindi)",
-      "C": "Shivshankar Pillai (Malayalam)",
-      "D": "Gulzar (Urdu)"
+      "A": "324",
+      "B": "145",
+      "C": "75",
+      "D": "मानवाधिकार कानून / HR Act"
     },
     "answer": ["A"]
   },
   {
     "id": 16,
-    "question": "2024 में Arjuna Award पाने वाली महिला क्रिकेटर कौन हैं? / Which female cricketer received the Arjuna Award in 2024?",
+    "question": "क्या चुनाव आयोग की सिफारिश बाध्यकारी होती है? / Are the recommendations of the Election Commission binding?",
     "options": {
-      "A": "Shafali Verma",
-      "B": "Deepti Sharma",
-      "C": "Smriti Mandhana",
-      "D": "Jemimah Rodrigues"
+      "A": "हाँ / Yes",
+      "B": "नहीं / No",
+      "C": "कुछ मामलों में / In some cases",
+      "D": "सिर्फ राष्ट्रपति के लिए / Only for President"
     },
-    "answer": ["B"]
+    "answer": ["C"]
   },
   {
     "id": 17,
-    "question": "2024 Major Dhyan Chand Khel Ratna पुरस्कार किसे मिला? / Who won the Major Dhyan Chand Khel Ratna Award in 2024?",
+    "question": "चुनाव आयोग किस चुनाव को नहीं कराता? / Which election is NOT conducted by Election Commission?",
     "options": {
-      "A": "Neeraj Chopra – Athletics",
-      "B": "Satwiksairaj Rankireddy – Badminton",
-      "C": "Lovlina Borgohain – Boxing",
-      "D": "Harmanpreet Kaur – Cricket"
+      "A": "लोकसभा चुनाव / Lok Sabha election",
+      "B": "राज्यसभा चुनाव / Rajya Sabha election",
+      "C": "पंचायत चुनाव / Panchayat elections",
+      "D": "विधानसभा चुनाव / State Assembly elections"
     },
-    "answer": ["A"]
+    "answer": ["C"]
   },
   {
     "id": 18,
-    "question": "Rajiv Gandhi Khel Ratna Award अब किस नाम से जाना जाता है? / What is the new name of the Rajiv Gandhi Khel Ratna Award?",
+    "question": "भारत में राष्ट्रपति चुनाव किसके पर्यवेक्षण में होता है? / Under whose supervision is the Presidential election held in India?",
     "options": {
-      "A": "Bharat Khel Ratna",
-      "B": "Dhyan Chand Khel Ratna",
-      "C": "Rashtriya Khel Gaurav",
-      "D": "Abhinav Bindra Khel Puraskar"
+      "A": "संसद / Parliament",
+      "B": "राष्ट्रपति / President",
+      "C": "चुनाव आयोग / Election Commission",
+      "D": "मुख्य न्यायाधीश / Chief Justice"
     },
-    "answer": ["B"]
+    "answer": ["C"]
   },
   {
     "id": 19,
-    "question": "2024 Sahitya Akademi Award (हिंदी) किसे मिला? / Who won the 2024 Sahitya Akademi Award in Hindi?",
+    "question": "भारत में मतदाता सूची कौन तैयार करता है? / Who prepares the voter list in India?",
     "options": {
-      "A": "Chitra Mudgal",
-      "B": "Ramesh Kuntal Megh",
-      "C": "Anamika",
-      "D": "Ravindra Kalia"
+      "A": "राज्य सरकार / State Government",
+      "B": "लोकसभा / Lok Sabha",
+      "C": "चुनाव आयोग / Election Commission",
+      "D": "वित्त मंत्रालय / Finance Ministry"
     },
-    "answer": ["B"]
+    "answer": ["C"]
   },
   {
     "id": 20,
-    "question": "Jnanpith Award 2023 (घोषणा 2024) किस भाषा के लेखक को मिला? / Which language's author won the Jnanpith Award 2023 (announced in 2024)?",
+    "question": "चुनाव याचिका किसके समक्ष दायर की जाती है? / Before whom is the election petition filed?",
     "options": {
-      "A": "Hindi",
-      "B": "Kannada",
-      "C": "Malayalam",
-      "D": "Bengali"
+      "A": "संसद / Parliament",
+      "B": "उच्च न्यायालय / High Court",
+      "C": "राष्ट्रपति / President",
+      "D": "चुनाव आयोग / Election Commission"
     },
     "answer": ["B"]
-  },
-  {
-    "id": 21,
-    "question": "2024 में Sahitya Akademi Yuva Puraskar (हिंदी) किसे मिला? / Who won the 2024 Sahitya Akademi Yuva Puraskar for Hindi?",
-    "options": {
-      "A": "Ruchi Singh",
-      "B": "Aditi Singh",
-      "C": "Prerna Verma",
-      "D": "Surabhi Sharma"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 22,
-    "question": "Ekalabya Award 2024 किस महिला हॉकी खिलाड़ी को दिया गया? / Which female hockey player won the Ekalabya Award 2024?",
-    "options": {
-      "A": "Deep Grace Ekka",
-      "B": "Vandana Katariya",
-      "C": "Salima Tete",
-      "D": "Savita Punia"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 23,
-    "question": "Dronacharya Award 2024 के अंतर्गत Athletics कोच का नाम क्या है? / Who received the Dronacharya Award 2024 for Athletics?",
-    "options": {
-      "A": "Radhakrishnan Nair",
-      "B": "Jude Felix",
-      "C": "Pullela Gopichand",
-      "D": "Sandeep Poonia"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 24,
-    "question": "Saraswati Samman 2024 किसे मिला? / Who won the Saraswati Samman in 2024?",
-    "options": {
-      "A": "Abdul Rasheed (Kannada)",
-      "B": "Namita Gokhale",
-      "C": "Shashi Deshpande",
-      "D": "Mannu Bhandari"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 25,
-    "question": "Vyas Samman 2024 के विजेता कौन हैं? / Who won the Vyas Samman 2024?",
-    "options": {
-      "A": "Surendra Verma",
-      "B": "Gyan Chaturvedi",
-      "C": "Nand Kishore Acharya",
-      "D": "Ramdarash Mishra"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 26,
-    "question": "2024 में Padma Shri से विज्ञान के क्षेत्र में किस वयⁿिज्ञानी को सम्मानित किया गया? / Which scientist was awarded the Padma Shri in the field of Science in 2024?",
-    "options": {
-      "A": "Dr. Ravi Prakash Singh",
-      "B": "Dr. Eklabya Sharma",
-      "C": "Dr. Ram Chander Sihag",
-      "D": "Dr. Dukhu Majhi"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 27,
-    "question": "2024 में पर्यावरण विज्ञान क्षेत्र में Padma Shri विजेता कौन है? / Who received the Padma Shri in Environmental Science in 2024?",
-    "options": {
-      "A": "Dr. Eklabya Sharma",
-      "B": "Dr. Ravi Prakash Singh",
-      "C": "Subrat Pradhan",
-      "D": "Chaitram Pawar"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 28,
-    "question": "West Bengal के पर्यावरण कार्यकर्ता Dukhu Majhi को Padma Shri कब और किसके लिए मिला? / When and for what did environmental activist Dukhu Majhi receive the Padma Shri?",
-    "options": {
-      "A": "2024 – Afforestation efforts (Environment)",
-      "B": "2025 – Social work (Water conservation)",
-      "C": "2024 – Beekeeping and Pollination Ecology",
-      "D": "2025 – Sustainable agriculture"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 29,
-    "question": "State‑level Prakruti Mitra Award 2024‑25 विश्वविद्यालय क्षेत्र में किस यूनिवर्सिटी को मिला? / Which university won the Prakruti Mitra Award 2024‑25 in the green campus initiative category?",
-    "options": {
-      "A": "Berhampur University",
-      "B": "Delhi University",
-      "C": "BHU (Banaras Hindu University)",
-      "D": "Jadavpur University"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 30,
-    "question": "2025 में EXCEED Environment CSR & HR Awards में 'Champion – Environment Sustainability' अवार्ड किस संगठन को मिला? / Which organization won the 'Champion – Environment Sustainability' award at the 2025 EXCEED Environment CSR & HR Awards?",
-    "options": {
-      "A": "NTPC Korba",
-      "B": "Indian Coast Guard",
-      "C": "Ryan International School",
-      "D": "Subrat Pradhans Sathi Paribaar"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 31,
-    "question": "Angul जिला के पर्यावरण अभियानकर्ता Subrat Pradhan को कौन-कौन से पुरस्कार मिले हैं? / Which awards has environmental campaigner Subrat Pradhan from Angul received?",
-    "options": {
-      "A": "Biju Patnaik Wildlife Conservation Award",
-      "B": "Prakruti Bandhu Award",
-      "C": "Padma Shri",
-      "D": "A और B दोनों (A & B both)"
-    },
-    "answer": ["D"]
-  },
-  {
-    "id": 32,
-    "question": "Padma Shri 2025 में सामाजिक कार्य (जैसे जंगल संरक्षण, जल संरक्षण) के लिए किसे सम्मानित किया गया? / Who received the Padma Shri in 2025 for social work in afforestation and water conservation?",
-    "options": {
-      "A": "Chaitram Deochand Pawar",
-      "B": "Dr. Eklabya Sharma",
-      "C": "Dr. Ravi Prakash Singh",
-      "D": "Subrat Pradhan"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 33,
-    "question": "Assam Governor Award for Excellence 2025 में Science, Engineering, Medicine & Environment कैटेगरी में किसे सम्मानित किया गया? / In the Assam Governor Award for Excellence 2025, who was honoured in the Science, Engineering, Medicine & Environment category?",
-    "options": {
-      "A": "Bapan Das",
-      "B": "Amar Upadhyaya",
-      "C": "Nagen Thakur",
-      "D": "Abhinash Hazarika"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 34,
-    "question": "Assam Governor Award for Excellence 2025 में Literature & Education के लिए posthumous सम्मान किसे मिला? / Who received the posthumous award in Literature & Education at the Assam Governor Award for Excellence 2025?",
-    "options": {
-      "A": "Umananda Dowerah",
-      "B": "Nagen Thakur",
-      "C": "Bapan Das",
-      "D": "Debashish Roy"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 35,
-    "question": "Green School Awards 2025 में कौन सा राज्य  Best State Award और  Best District Award जीता? / Which state and district won the Best State and Best District Awards at the Green School Awards 2025?",
-    "options": {
-      "A": "Maharashtra, Pune",
-      "B": "Punjab, Hoshiarpur",
-      "C": "Tamil Nadu, Chennai",
-      "D": "West Bengal, Kolkata"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 36,
-    "question": "Times of India Earth Care Awards 2025 में कौन सा खास कार्यक्रम युवाओं के लिए तैयार किया गया था? / What special programme was included for youth in the Times of India Earth Care Awards 2025?",
-    "options": {
-      "A": "Climate Business Titan",
-      "B": "Women Leaders in Climate Action",
-      "C": "Young Climate Champions Programme",
-      "D": "Community Climate Action"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 37,
-    "question": "SkOCH Silver Award 2024 किस विभाग को मिला और किस क्षेत्र में? / Which department received the SkOCH Silver Award 2024 and for what?",
-    "options": {
-      "A": "Punjab Horticulture Department – Women Empowerment through Sericulture",
-      "B": "Kerala Agriculture – Water Conservation",
-      "C": "Tamil Nadu Fisheries – Coastal Sustainability",
-      "D": "Goa Tourism – Green Hospitality"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 38,
-    "question": "NTPC Kaniha (Odisha) को कौन‑सा पर्यावरण पुरस्कार 2024 में मिला? / Which environmental award did NTPC Kaniha (Odisha) receive in 2024?",
-    "options": {
-      "A": "Green Excellence in Energy Award",
-      "B": "Kalinga Environment Excellence National Award – Five Star",
-      "C": "Sustainable Power Sector Award",
-      "D": "National Clean Air Award"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 39,
-    "question": "Uttar Pradesh Gaurav Samman 2023‑24 में निम्नलिखित में से किसे सम्मानित किया गया था? / Who received the Uttar Pradesh Gaurav Samman in 2023‑24?",
-    "options": {
-      "A": "Samantha Ruth Prabhu & Allu Arjun",
-      "B": "Naveen Tewari & Dr. Ritu Karidhal",
-      "C": "Deepa Malik & Neeraj Chopra",
-      "D": "P. V. Sindhu & D. Nageshwara Reddy"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 40,
-    "question": "Champions of Change Karnataka 2023 में निम्नलिखित में से किसे सम्मानित किया गया था? / Who was honoured in the Champions of Change Karnataka 2023?",
-    "options": {
-      "A": "Padma Vibhushan C. N. R. Rao",
-      "B": "Padma Shri Tulsi Gowda",
-      "C": "Upendra V. Ravichandran",
-      "D": "सभी (All of the above)"
-    },
-    "answer": ["D"]
-  },
-  {
-    "id": 41,
-    "question": "Uttarakhand Gaurav Samman 2024 के अंतर्गत इस पुरस्कार को किस क्षेत्र में प्रथम बार प्राप्त किया गया था? / In the Uttarakhand Gaurav Samman 2024, which field was among the recognitions for the first time?",
-    "options": {
-      "A": "Defence (General Anil Chauhan)",
-      "B": "Healthcare (Dr. Mahesh Kuriyal)",
-      "C": "Social Service (Mangala Devi)",
-      "D": "All of the above"
-    },
-    "answer": ["D"]
-  },
-  {
-    "id": 42,
-    "question": "Van Mahotsav 2025 (Odisha) में वन संरक्षण के लिए किस समूह को राज्य‑स्तरीय पुरस्कार से सम्मानित किया गया? / During Van Mahotsav 2025 in Odisha, which group was honoured with a state-level award for forest conservation?",
-    "options": {
-      "A": "Tulanga Pada Forest Protection Committee",
-      "B": "Pahadpur Forest Protection Committee",
-      "C": "Both A & B",
-      "D": "Neither"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 43,
-    "question": "Swachh Survekshan 2024‑25 में 'Super Swachh League' (10 लाख+ जनसंख्या) का शीर्ष स्थान किस ने हासिल किया? / Which city topped the Super Swachh League (population over 1 million) in Swachh Survekshan 2024‑25?",
-    "options": {
-      "A": "Surat",
-      "B": "Indore",
-      "C": "Navi Mumbai",
-      "D": "Vijayawada"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 44,
-    "question": "Swachh Survekshan 2024‑25 में Ujjain Municipal Corporation ने किस जनसंख्या वर्ग में शीर्ष स्थान जीता? / In which population category did Ujjain Municipal Corporation secure the top rank in Swachh Survekshan 2024‑25?",
-    "options": {
-      "A": "Between 3–10 lakh",
-      "B": "Over 10 lakh",
-      "C": "50,000–3 lakh",
-      "D": "Below 50,000"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 45,
-    "question": "Swachh Survekshan 2024‑25 में Karnal Municipal Corporation ने किस श्रेणी में राष्ट्रीय  President Award प्राप्त किया? / In which category did Karnal Municipal Corporation receive the President’s Award in Swachh Survekshan 2024‑25?",
-    "options": {
-      "A": "India’s Cleanest Cities (population 1 lakh+)",
-      "B": "Best ODF++ Implementation",
-      "C": "Water Plus Cities",
-      "D": "Five‑Star Clean Cities"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 46,
-    "question": "National Water Awards 2024 में 'Best Urban Local Body' का पुरस्कार किस नगर निगम को मिला? / Which municipal corporation won the ‘Best Urban Local Body’ award in the National Water Awards 2024?",
-    "options": {
-      "A": "Surat Municipal Corporation",
-      "B": "Jaipur Municipal Corporation",
-      "C": "Thiruvananthapuram Municipal Corporation",
-      "D": "Pune Municipal Corporation"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 47,
-    "question": "SKOCH Award 2025 में शहर‑स्तरीय waste management के लिए किस नगर निगम को Silver Award मिला? / Which municipal corporation received the SKOCH Silver Award 2025 for waste management?",
-    "options": {
-      "A": "Mira Bhayandar Municipal Corporation",
-      "B": "Chandrapur Municipal Corporation",
-      "C": "Bilaspur Municipal Corporation",
-      "D": "Nagpur Municipal Corporation"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 48,
-    "question": "Chandrapur Municipal Corporation को SKOCH Silver Award किस पहल के लिए मिला? / For which initiative did Chandrapur Municipal Corporation receive the SKOCH Silver Award?",
-    "options": {
-      "A": "Rainwater harvesting innovations",
-      "B": "QR‑based waste collection",
-      "C": "Water recycling & reuse",
-      "D": "Smart citizen grievance redressal"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 49,
-    "question": "IEEE International Smart Cities Award 2024 में ‘Emerging Economy – Legacy Cities’ श्रेणी में कौन सी नगर निगम विजेता रही? / Which municipal corporation won the IEEE International Smart Cities Award 2024 in the ‘Emerging Economy – Legacy Cities’ category?",
-    "options": {
-      "A": "Ranchi Smart City Corporation",
-      "B": "Pune Municipal Corporation",
-      "C": "Ujjain Municipal Corporation",
-      "D": "Surat Smart City Limited"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 50,
-    "question": "National e‑Governance Awards 2025 में ग्राम‑पंचायती स्तर की नवीन e‑Governance पहल के लिए Gold Award किसने जीता? / Which gram panchayat won the Gold Award in 2025 National e‑Governance Awards under the grassroots category?",
-    "options": {
-      "A": "Suakati GP (Keonjhar, Odisha)",
-      "B": "Rohini GP (Dhule, Maharashtra)",
-      "C": "Palsana GP (Gujarat)",
-      "D": "Lalitpur Municipal Council (UP)"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 51,
-    "question": "Pimpri‑Chinchwad Municipal Corporation (PCMC) को e‑Governance के लिए कौन‑सा पुरस्कार मिला? / Which award did PCMC receive for e‑Governance achievements?",
-    "options": {
-      "A": "National e‑Governance Gold Award",
-      "B": "IEEE Smart Cities Award",
-      "C": "Silver Award in district‑level e‑governance scheme",
-      "D": "Smart Water Management Award"
-    },
-    "answer": ["C"]
   }
 ]
-
-
-
-
-
