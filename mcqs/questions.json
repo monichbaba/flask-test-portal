@@ -1,334 +1,569 @@
 [
   {
     "id": 1,
-    "question": "Part XI संविधान में किस विषय से संबंधित है? / What does Part XI of the Constitution deal with?",
+    "question": "2024 में Bharat Ratna का सम्मान किसे-किसे (posthumously) दिया गया? / Who were posthumously awarded the Bharat Ratna in 2024?",
     "options": {
-      "A": "न्यायपालिका / Judiciary",
-      "B": "संघ और राज्यों के बीच संबंध / Relations between Union and States",
-      "C": "राज्य वित्त / State Finance",
-      "D": "संविधान संशोधन / Constitutional Amendment"
+      "A": "Karpoori Thakur",
+      "B": "L. K. Advani",
+      "C": "P. V. Narasimha Rao",
+      "D": "Chaudhary Charan Singh",
+      "E": "M. S. Swaminathan"
     },
-    "answer": ["B"]
+    "answer": ["A", "B", "C", "D", "E"]
   },
   {
     "id": 2,
-    "question": "Article 245 किस विषय से संबंधित है? / Article 245 relates to:",
+    "question": "2019 में Bharat Ratna पुरस्कार किस-किसे दिया गया था? / Who were awarded the Bharat Ratna in 2019?",
     "options": {
-      "A": "संघ सूची / Union List",
-      "B": "विधायी शक्तियों की सीमा / Extent of Legislative Powers",
-      "C": "न्यायिक समीक्षा / Judicial Review",
-      "D": "कार्यपालिका शक्ति / Executive Power"
+      "A": "Pranab Mukherjee",
+      "B": "Nanaji Deshmukh",
+      "C": "Bhupen Hazarika",
+      "D": "Sachin Tendulkar"
     },
-    "answer": ["B"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 3,
-    "question": "Article 246 में किस प्रकार की सूचियाँ वर्णित हैं? / What lists are mentioned in Article 246?",
+    "question": "Sachin Tendulkar को Bharat Ratna किस वर्ष मिला और वह किस क्षेत्र से जुड़ते हैं? / In which year did Sachin Tendulkar receive the Bharat Ratna, and in which field is he associated?",
     "options": {
-      "A": "संपत्ति सूची / Property List",
-      "B": "तीन सूचियाँ – संघ, राज्य और समवर्ती / Three Lists – Union, State, and Concurrent",
-      "C": "केवल संघ सूची / Only Union List",
-      "D": "केवल राज्य सूची / Only State List"
+      "A": "2014 – Sports",
+      "B": "2014 – Literature",
+      "C": "2019 – Sports",
+      "D": "2019 – Science"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 4,
-    "question": "संविधान की कौन-सी अनुसूची इन सूचियों को दर्शाती है? / Which Schedule contains these legislative lists?",
+    "question": "C. N. R. Rao ने Bharat Ratna किस क्षेत्र में योगदान के लिए प्राप्त की? / For contributions in which field was C. N. R. Rao awarded the Bharat Ratna?",
     "options": {
-      "A": "5वीं अनुसूची / Fifth Schedule",
-      "B": "6वीं अनुसूची / Sixth Schedule",
-      "C": "7वीं अनुसूची / Seventh Schedule",
-      "D": "9वीं अनुसूची / Ninth Schedule"
+      "A": "Science (Chemistry)",
+      "B": "Sports",
+      "C": "Public Affairs",
+      "D": "Literature"
     },
-    "answer": ["C"]
+    "answer": ["A"]
   },
   {
     "id": 5,
-    "question": "समवर्ती सूची पर कानून बनाने का अधिकार किसके पास है? / Who can legislate on Concurrent List?",
+    "question": "Jayaprakash Narayan को Bharat Ratna किस वर्ष (posthumously) प्रदान की गई थी? / In which year was Jayaprakash Narayan posthumously awarded the Bharat Ratna?",
     "options": {
-      "A": "केवल संसद / Only Parliament",
-      "B": "केवल राज्य विधानसभाएँ / Only State Legislatures",
-      "C": "दोनों / Both",
-      "D": "राष्ट्रपति / President"
+      "A": "1999",
+      "B": "2014",
+      "C": "2019",
+      "D": "2024"
     },
-    "answer": ["C"]
+    "answer": ["A"]
   },
   {
     "id": 6,
-    "question": "Article 249 संसद को राज्य सूची पर कानून बनाने की शक्ति कब देता है? / When does Article 249 allow Parliament to legislate on State List?",
+    "question": "2024 में Dadasaheb Phalke Award किसे दिया गया? / Who won the Dadasaheb Phalke Award in 2024?",
     "options": {
-      "A": "आपातकाल के समय / During emergency",
-      "B": "राज्यपाल की अनुमति से / With Governor's permission",
-      "C": "राज्यसभा के दो-तिहाई बहुमत से / With two-thirds majority in Rajya Sabha",
-      "D": "सर्वोच्च न्यायालय के आदेश से / On Supreme Court order"
+      "A": "Waheeda Rehman",
+      "B": "Rajinikanth",
+      "C": "Vyjayanthimala",
+      "D": "Amitabh Bachchan"
     },
     "answer": ["C"]
   },
   {
     "id": 7,
-    "question": "राज्य पर संसद का कानून किस परिस्थिति में वरीय होगा? / When does a Parliamentary law override a State law?",
+    "question": "Padma Vibhushan 2024 के विजेताओं में कौन शामिल हैं? / Who were among the Padma Vibhushan awardees in 2024?",
     "options": {
-      "A": "जब दोनों में टकराव हो / When there is a conflict",
-      "B": "जब राज्यपाल आदेश दे / On Governor's order",
-      "C": "जब राज्य कानून पहले बना हो / When state law was made first",
-      "D": "ऐसा कभी नहीं होता / Never happens"
+      "A": "Konidela Chiranjeevi",
+      "B": "Vyjayanthimala",
+      "C": "Padma Subrahmanyam",
+      "D": "सभी (All of the above)"
     },
-    "answer": ["A"]
+    "answer": ["D"]
   },
   {
     "id": 8,
-    "question": "Article 252 किसका प्रावधान करता है? / Article 252 provides for:",
+    "question": "Padma Bhushan 2024 में किसे विज्ञान के क्षेत्र में सम्मानित किया गया? / Who received the Padma Bhushan 2024 for Science?",
     "options": {
-      "A": "अनुच्छेदों की व्याख्या / Interpretation of Articles",
-      "B": "दो या अधिक राज्यों की सहमति से संसद को शक्ति देना / States empowering Parliament to legislate by consent",
-      "C": "राज्यपाल की नियुक्ति / Appointment of Governor",
-      "D": "संघीय अदालत / Federal Court"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 9,
-    "question": "Article 253 अंतर्राष्ट्रीय संधियों से संबंधित है – यह किसे शक्ति देता है? / Article 253 relates to international treaties – it empowers:",
-    "options": {
-      "A": "राज्य / States",
-      "B": "संसद / Parliament",
-      "C": "राष्ट्रपति / President",
-      "D": "प्रधानमंत्री / Prime Minister"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 10,
-    "question": "Article 254 किस विषय पर है? / What is Article 254 about?",
-    "options": {
-      "A": "संविधान संशोधन प्रक्रिया / Constitutional Amendment",
-      "B": "राज्यपाल की शक्तियाँ / Powers of Governor",
-      "C": "संघ और राज्य कानूनों में टकराव / Inconsistency between Union and State Laws",
-      "D": "राज्य की वित्तीय शक्तियाँ / Financial powers of states"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 11,
-    "question": "Article 256 किस विषय पर है? / Article 256 deals with:",
-    "options": {
-      "A": "राज्यों में कार्यपालिका शक्ति का प्रयोग / Compliance of state governments with Union laws",
-      "B": "राज्य सूची पर कानून / Laws on State List",
-      "C": "न्यायिक स्वतंत्रता / Judicial Independence",
-      "D": "राज्य की सीमाएँ / State boundaries"
+      "A": "A. S. Kiran Kumar",
+      "B": "Natarajan Chandrasekaran",
+      "C": "Dr. Rajat Mitra",
+      "D": "S. Venkateswaran"
     },
     "answer": ["A"]
   },
   {
-    "id": 12,
-    "question": "Article 263 किस संस्था के निर्माण का प्रावधान करता है? / Article 263 provides for the creation of which body?",
+    "id": 9,
+    "question": "Padma Shri 2024 के अंतर्गत 'Arts' के क्षेत्र में किसे सम्मान मिला? / Who was awarded Padma Shri 2024 in the field of Arts?",
     "options": {
-      "A": "वित्त आयोग / Finance Commission",
-      "B": "न्यायिक परिषद / Judicial Council",
-      "C": "अंतर-राज्यीय परिषद / Inter-State Council",
-      "D": "नियोजन आयोग / Planning Commission"
+      "A": "Meenakshi Amma",
+      "B": "Dr. Venugopal K. R.",
+      "C": "Prof. Sukumar Muralidharan",
+      "D": "Kumar Mangalam Birla"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 10,
+    "question": "2024 Gandhi Peace Prize किसे दिया गया? / Who received the Gandhi Peace Prize in 2024?",
+    "options": {
+      "A": "Gita Press, Gorakhpur",
+      "B": "Dalai Lama",
+      "C": "Sulabh International",
+      "D": "ISRO"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 11,
+    "question": "2024 में Arjuna Award किसे Cricket में मिला? / Who won the Arjuna Award 2024 for Cricket?",
+    "options": {
+      "A": "Shubman Gill",
+      "B": "Deepti Sharma",
+      "C": "Smriti Mandhana",
+      "D": "Ruturaj Gaikwad"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 12,
+    "question": "Major Dhyan Chand Khel Ratna 2024 का विजेता कौन है? / Who won the Major Dhyan Chand Khel Ratna Award in 2024?",
+    "options": {
+      "A": "Chirag Shetty",
+      "B": "Satwiksairaj Rankireddy",
+      "C": "Neeraj Chopra",
+      "D": "R. Praggnanandhaa"
     },
     "answer": ["C"]
   },
   {
     "id": 13,
-    "question": "Article 258A राज्यों को क्या अनुमति देता है? / What does Article 258A permit the states to do?",
+    "question": "Ekalabya Puraskar 2024 का विजेता कौन बना? / Who won the Ekalabya Award in 2024?",
     "options": {
-      "A": "अन्य राज्यों पर नियंत्रण / Control over other states",
-      "B": "संघ की शक्तियाँ राज्य को हस्तांतरित करना / Delegate Union powers to State",
-      "C": "राज्यपाल को हटाना / Remove Governor",
-      "D": "संघ की योजना को अस्वीकार करना / Reject Union plans"
+      "A": "Priyanka Sahoo",
+      "B": "Deep Grace Ekka",
+      "C": "Shriyanka Sadangi",
+      "D": "Dutee Chand"
     },
     "answer": ["B"]
   },
   {
     "id": 14,
-    "question": "राज्य सूची में कितने विषय हैं? / How many subjects are in the State List?",
+    "question": "Sahitya Akademi Award 2024 (Hindi भाषा) के विजेता कौन हैं? / Who is the winner of Sahitya Akademi Award 2024 for Hindi?",
     "options": {
-      "A": "47",
-      "B": "61",
-      "C": "66",
-      "D": "75"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 15,
-    "question": "Concurrent List में कौन-से विषय शामिल होते हैं? / What kind of subjects are included in the Concurrent List?",
-    "options": {
-      "A": "केवल कृषि और सिंचाई / Only Agriculture and Irrigation",
-      "B": "केवल रक्षा और विदेशी मामले / Only Defense and Foreign Affairs",
-      "C": "सामाजिक-आर्थिक हित के विषय / Socio-economic interest subjects",
-      "D": "केवल शिक्षा / Only Education"
+      "A": "Nasera Sharma",
+      "B": "Anamika",
+      "C": "Ramesh Kuntal Megh",
+      "D": "Chitra Mudgal"
     },
     "answer": ["C"]
   },
   {
-    "id": 16,
-    "question": "Article 250 कब संसद को राज्य सूची पर कानून बनाने की शक्ति देता है? / When does Article 250 allow Parliament to legislate on the State List?",
+    "id": 15,
+    "question": "Jnanpith Award 2023 विजेता कौन रहे (घोषणा 2024 में)? / Who won the Jnanpith Award 2023 (announced in 2024)?",
     "options": {
-      "A": "राष्ट्रीय आपातकाल में / During National Emergency",
-      "B": "राज्यपाल की अनुमति से / With Governor's permission",
-      "C": "राज्य विधानसभा के विशेष प्रस्ताव से / By special resolution of State Assembly",
-      "D": "राष्ट्रपति की घोषणा से / By Presidential declaration"
+      "A": "S.L. Bhyrappa (Kannada)",
+      "B": "Mannu Bhandari (Hindi)",
+      "C": "Shivshankar Pillai (Malayalam)",
+      "D": "Gulzar (Urdu)"
     },
     "answer": ["A"]
   },
   {
-    "id": 17,
-    "question": "Article 251 क्या कहता है? / What does Article 251 state?",
+    "id": 16,
+    "question": "2024 में Arjuna Award पाने वाली महिला क्रिकेटर कौन हैं? / Which female cricketer received the Arjuna Award in 2024?",
     "options": {
-      "A": "आपातकाल में न्यायिक शक्ति / Judicial power during emergency",
-      "B": "राज्य कानूनों की निरस्ती / Repeal of state laws conflicting with Union laws made during emergency",
-      "C": "सर्वोच्च न्यायालय की प्राथमिकता / Priority of Supreme Court decisions",
-      "D": "राज्य नीति निर्देशक सिद्धांत / Directive Principles of State Policy"
+      "A": "Shafali Verma",
+      "B": "Deepti Sharma",
+      "C": "Smriti Mandhana",
+      "D": "Jemimah Rodrigues"
     },
     "answer": ["B"]
   },
   {
-    "id": 18,
-    "question": "Article 257 का उद्देश्य क्या है? / What is the objective of Article 257?",
+    "id": 17,
+    "question": "2024 Major Dhyan Chand Khel Ratna पुरस्कार किसे मिला? / Who won the Major Dhyan Chand Khel Ratna Award in 2024?",
     "options": {
-      "A": "राज्यों की सीमाएं तय करना / Fixing boundaries of states",
-      "B": "संघीय नियंत्रण के तहत राज्य कार्यपालिका / State executive under Union control",
-      "C": "राज्य कानूनों की व्याख्या / Interpretation of state laws",
-      "D": "संविधान संशोधन / Constitutional amendment"
+      "A": "Neeraj Chopra – Athletics",
+      "B": "Satwiksairaj Rankireddy – Badminton",
+      "C": "Lovlina Borgohain – Boxing",
+      "D": "Harmanpreet Kaur – Cricket"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 18,
+    "question": "Rajiv Gandhi Khel Ratna Award अब किस नाम से जाना जाता है? / What is the new name of the Rajiv Gandhi Khel Ratna Award?",
+    "options": {
+      "A": "Bharat Khel Ratna",
+      "B": "Dhyan Chand Khel Ratna",
+      "C": "Rashtriya Khel Gaurav",
+      "D": "Abhinav Bindra Khel Puraskar"
     },
     "answer": ["B"]
   },
   {
     "id": 19,
-    "question": "Article 255 के अनुसार राष्ट्रपति की अनुमति कब आवश्यक नहीं होती? / When is President’s assent not required as per Article 255?",
+    "question": "2024 Sahitya Akademi Award (हिंदी) किसे मिला? / Who won the 2024 Sahitya Akademi Award in Hindi?",
     "options": {
-      "A": "जब राज्यपाल कानून पारित करे / When Governor passes the law",
-      "B": "जब संसद कानून बनाए / When Parliament makes law",
-      "C": "जब आवश्यक अनुदेशों का पालन हो चुका हो / When required directions are complied with",
-      "D": "आपातकाल के दौरान / During emergency"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 20,
-    "question": "Article 259 किससे संबंधित है? / Article 259 is related to:",
-    "options": {
-      "A": "भारत के बाहर संपत्ति / Property outside India",
-      "B": "राज्य की सीमाएँ / State boundaries",
-      "C": "परिसीमन / Delimitation",
-      "D": "कर व्यवस्था / Taxation system"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 21,
-    "question": "Article 261 के अनुसार भारत की एक राज्य में पारित न्यायिक कार्यवाही को अन्य राज्यों में कैसे देखा जाता है? / How are judicial proceedings of one state viewed in others under Article 261?",
-    "options": {
-      "A": "मान्यता आवश्यक नहीं / No recognition required",
-      "B": "केवल अधिसूचना के बाद मान्यता / Recognized only after notification",
-      "C": "पूर्ण विश्वास और श्रेय / Full faith and credit",
-      "D": "राज्यपाल की अनुमति आवश्यक / Requires Governor's permission"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 22,
-    "question": "Article 248 संसद को किस प्रकार की शक्ति प्रदान करता है? / What kind of power does Article 248 provide to Parliament?",
-    "options": {
-      "A": "वित्तीय शक्ति / Financial power",
-      "B": "शेष अधिकार / Residuary powers",
-      "C": "न्यायिक शक्ति / Judicial power",
-      "D": "निर्वाचन शक्ति / Electoral power"
+      "A": "Chitra Mudgal",
+      "B": "Ramesh Kuntal Megh",
+      "C": "Anamika",
+      "D": "Ravindra Kalia"
     },
     "answer": ["B"]
   },
   {
-    "id": 23,
-    "question": "Residuary Powers भारतीय संविधान में किसे सौंपे गए हैं? / To whom are the Residuary Powers given in Indian Constitution?",
+    "id": 20,
+    "question": "Jnanpith Award 2023 (घोषणा 2024) किस भाषा के लेखक को मिला? / Which language's author won the Jnanpith Award 2023 (announced in 2024)?",
     "options": {
-      "A": "राज्य सरकारों को / State Governments",
-      "B": "संयुक्त रूप से / Jointly",
-      "C": "संसद को / Parliament",
-      "D": "राष्ट्रपति को / President"
+      "A": "Hindi",
+      "B": "Kannada",
+      "C": "Malayalam",
+      "D": "Bengali"
     },
-    "answer": ["C"]
+    "answer": ["B"]
+  },
+  {
+    "id": 21,
+    "question": "2024 में Sahitya Akademi Yuva Puraskar (हिंदी) किसे मिला? / Who won the 2024 Sahitya Akademi Yuva Puraskar for Hindi?",
+    "options": {
+      "A": "Ruchi Singh",
+      "B": "Aditi Singh",
+      "C": "Prerna Verma",
+      "D": "Surabhi Sharma"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 22,
+    "question": "Ekalabya Award 2024 किस महिला हॉकी खिलाड़ी को दिया गया? / Which female hockey player won the Ekalabya Award 2024?",
+    "options": {
+      "A": "Deep Grace Ekka",
+      "B": "Vandana Katariya",
+      "C": "Salima Tete",
+      "D": "Savita Punia"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 23,
+    "question": "Dronacharya Award 2024 के अंतर्गत Athletics कोच का नाम क्या है? / Who received the Dronacharya Award 2024 for Athletics?",
+    "options": {
+      "A": "Radhakrishnan Nair",
+      "B": "Jude Felix",
+      "C": "Pullela Gopichand",
+      "D": "Sandeep Poonia"
+    },
+    "answer": ["A"]
   },
   {
     "id": 24,
-    "question": "संविधान में संघ की सर्वोच्चता किस अनुच्छेद में व्यक्त की गई है? / In which Article is the supremacy of the Union expressed?",
+    "question": "Saraswati Samman 2024 किसे मिला? / Who won the Saraswati Samman in 2024?",
     "options": {
-      "A": "Article 254",
-      "B": "Article 245",
-      "C": "Article 246(1)",
-      "D": "Article 263"
+      "A": "Abdul Rasheed (Kannada)",
+      "B": "Namita Gokhale",
+      "C": "Shashi Deshpande",
+      "D": "Mannu Bhandari"
     },
-    "answer": ["C"]
+    "answer": ["A"]
   },
   {
     "id": 25,
-    "question": "Article 258 किसे संघ की कार्यपालिका शक्ति सौंपने की अनुमति देता है? / Article 258 allows delegation of executive powers of Union to:",
+    "question": "Vyas Samman 2024 के विजेता कौन हैं? / Who won the Vyas Samman 2024?",
     "options": {
-      "A": "राष्ट्रपति / President",
-      "B": "राज्यपाल / Governor",
-      "C": "राज्य सरकारें / State Governments",
-      "D": "संसद / Parliament"
+      "A": "Surendra Verma",
+      "B": "Gyan Chaturvedi",
+      "C": "Nand Kishore Acharya",
+      "D": "Ramdarash Mishra"
     },
     "answer": ["C"]
   },
   {
     "id": 26,
-    "question": "Article 262 किस विषय को नियंत्रित करता है? / What is Article 262 related to?",
+    "question": "2024 में Padma Shri से विज्ञान के क्षेत्र में किस वयⁿिज्ञानी को सम्मानित किया गया? / Which scientist was awarded the Padma Shri in the field of Science in 2024?",
     "options": {
-      "A": "जल विवादों का निपटारा / Adjudication of water disputes",
-      "B": "राज्य सीमाएँ / State boundaries",
-      "C": "संघ सूची पर कानून / Laws on Union List",
-      "D": "कर निर्धारण / Tax allocation"
+      "A": "Dr. Ravi Prakash Singh",
+      "B": "Dr. Eklabya Sharma",
+      "C": "Dr. Ram Chander Sihag",
+      "D": "Dr. Dukhu Majhi"
     },
     "answer": ["A"]
   },
   {
     "id": 27,
-    "question": "जल विवाद निपटान के लिए किस अधिनियम के तहत ट्राइब्यूनल बनाया जाता है? / Under which Act is the tribunal for water disputes constituted?",
+    "question": "2024 में पर्यावरण विज्ञान क्षेत्र में Padma Shri विजेता कौन है? / Who received the Padma Shri in Environmental Science in 2024?",
     "options": {
-      "A": "जल अधिनियम 1952 / Water Act 1952",
-      "B": "अंतरराज्यीय जल विवाद अधिनियम 1956 / Inter-State Water Disputes Act, 1956",
-      "C": "जल संसाधन अधिनियम 1984 / Water Resources Act 1984",
-      "D": "राज्य जल संरक्षण अधिनियम / State Water Protection Act"
+      "A": "Dr. Eklabya Sharma",
+      "B": "Dr. Ravi Prakash Singh",
+      "C": "Subrat Pradhan",
+      "D": "Chaitram Pawar"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 28,
-    "question": "Article 260 किस अधिकार को संदर्भित करता है? / What power does Article 260 refer to?",
+    "question": "West Bengal के पर्यावरण कार्यकर्ता Dukhu Majhi को Padma Shri कब और किसके लिए मिला? / When and for what did environmental activist Dukhu Majhi receive the Padma Shri?",
     "options": {
-      "A": "भारत के बाहर कार्यपालिका शक्ति / Executive power beyond India",
-      "B": "सैन्य शक्ति / Military power",
-      "C": "राज्य सूची विस्तार / Extension of State List",
-      "D": "राज्यपाल को आपात शक्ति / Emergency power to Governor"
+      "A": "2024 – Afforestation efforts (Environment)",
+      "B": "2025 – Social work (Water conservation)",
+      "C": "2024 – Beekeeping and Pollination Ecology",
+      "D": "2025 – Sustainable agriculture"
     },
     "answer": ["A"]
   },
   {
     "id": 29,
-    "question": "संविधान में संघ और राज्यों की विधायी शक्तियों का पृथक्करण कहाँ दर्शाया गया है? / Where is the separation of legislative powers between Union and States provided?",
+    "question": "State‑level Prakruti Mitra Award 2024‑25 विश्वविद्यालय क्षेत्र में किस यूनिवर्सिटी को मिला? / Which university won the Prakruti Mitra Award 2024‑25 in the green campus initiative category?",
     "options": {
-      "A": "अनुच्छेद 245–255 / Articles 245–255",
-      "B": "अनुच्छेद 220–230 / Articles 220–230",
-      "C": "अनुच्छेद 250–260 / Articles 250–260",
-      "D": "अनुच्छेद 195–210 / Articles 195–210"
+      "A": "Berhampur University",
+      "B": "Delhi University",
+      "C": "BHU (Banaras Hindu University)",
+      "D": "Jadavpur University"
     },
     "answer": ["A"]
   },
   {
     "id": 30,
-    "question": "Article 263 किस संस्था के निर्माण का प्रावधान करता है? / Article 263 provides for the creation of which body?",
+    "question": "2025 में EXCEED Environment CSR & HR Awards में 'Champion – Environment Sustainability' अवार्ड किस संगठन को मिला? / Which organization won the 'Champion – Environment Sustainability' award at the 2025 EXCEED Environment CSR & HR Awards?",
     "options": {
-      "A": "वित्त आयोग / Finance Commission",
-      "B": "न्यायिक परिषद / Judicial Council",
-      "C": "अंतर-राज्यीय परिषद / Inter-State Council",
-      "D": "नियोजन आयोग / Planning Commission"
+      "A": "NTPC Korba",
+      "B": "Indian Coast Guard",
+      "C": "Ryan International School",
+      "D": "Subrat Pradhans Sathi Paribaar"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 31,
+    "question": "Angul जिला के पर्यावरण अभियानकर्ता Subrat Pradhan को कौन-कौन से पुरस्कार मिले हैं? / Which awards has environmental campaigner Subrat Pradhan from Angul received?",
+    "options": {
+      "A": "Biju Patnaik Wildlife Conservation Award",
+      "B": "Prakruti Bandhu Award",
+      "C": "Padma Shri",
+      "D": "A और B दोनों (A & B both)"
+    },
+    "answer": ["D"]
+  },
+  {
+    "id": 32,
+    "question": "Padma Shri 2025 में सामाजिक कार्य (जैसे जंगल संरक्षण, जल संरक्षण) के लिए किसे सम्मानित किया गया? / Who received the Padma Shri in 2025 for social work in afforestation and water conservation?",
+    "options": {
+      "A": "Chaitram Deochand Pawar",
+      "B": "Dr. Eklabya Sharma",
+      "C": "Dr. Ravi Prakash Singh",
+      "D": "Subrat Pradhan"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 33,
+    "question": "Assam Governor Award for Excellence 2025 में Science, Engineering, Medicine & Environment कैटेगरी में किसे सम्मानित किया गया? / In the Assam Governor Award for Excellence 2025, who was honoured in the Science, Engineering, Medicine & Environment category?",
+    "options": {
+      "A": "Bapan Das",
+      "B": "Amar Upadhyaya",
+      "C": "Nagen Thakur",
+      "D": "Abhinash Hazarika"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 34,
+    "question": "Assam Governor Award for Excellence 2025 में Literature & Education के लिए posthumous सम्मान किसे मिला? / Who received the posthumous award in Literature & Education at the Assam Governor Award for Excellence 2025?",
+    "options": {
+      "A": "Umananda Dowerah",
+      "B": "Nagen Thakur",
+      "C": "Bapan Das",
+      "D": "Debashish Roy"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 35,
+    "question": "Green School Awards 2025 में कौन सा राज्य  Best State Award और  Best District Award जीता? / Which state and district won the Best State and Best District Awards at the Green School Awards 2025?",
+    "options": {
+      "A": "Maharashtra, Pune",
+      "B": "Punjab, Hoshiarpur",
+      "C": "Tamil Nadu, Chennai",
+      "D": "West Bengal, Kolkata"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 36,
+    "question": "Times of India Earth Care Awards 2025 में कौन सा खास कार्यक्रम युवाओं के लिए तैयार किया गया था? / What special programme was included for youth in the Times of India Earth Care Awards 2025?",
+    "options": {
+      "A": "Climate Business Titan",
+      "B": "Women Leaders in Climate Action",
+      "C": "Young Climate Champions Programme",
+      "D": "Community Climate Action"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 37,
+    "question": "SkOCH Silver Award 2024 किस विभाग को मिला और किस क्षेत्र में? / Which department received the SkOCH Silver Award 2024 and for what?",
+    "options": {
+      "A": "Punjab Horticulture Department – Women Empowerment through Sericulture",
+      "B": "Kerala Agriculture – Water Conservation",
+      "C": "Tamil Nadu Fisheries – Coastal Sustainability",
+      "D": "Goa Tourism – Green Hospitality"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 38,
+    "question": "NTPC Kaniha (Odisha) को कौन‑सा पर्यावरण पुरस्कार 2024 में मिला? / Which environmental award did NTPC Kaniha (Odisha) receive in 2024?",
+    "options": {
+      "A": "Green Excellence in Energy Award",
+      "B": "Kalinga Environment Excellence National Award – Five Star",
+      "C": "Sustainable Power Sector Award",
+      "D": "National Clean Air Award"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 39,
+    "question": "Uttar Pradesh Gaurav Samman 2023‑24 में निम्नलिखित में से किसे सम्मानित किया गया था? / Who received the Uttar Pradesh Gaurav Samman in 2023‑24?",
+    "options": {
+      "A": "Samantha Ruth Prabhu & Allu Arjun",
+      "B": "Naveen Tewari & Dr. Ritu Karidhal",
+      "C": "Deepa Malik & Neeraj Chopra",
+      "D": "P. V. Sindhu & D. Nageshwara Reddy"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 40,
+    "question": "Champions of Change Karnataka 2023 में निम्नलिखित में से किसे सम्मानित किया गया था? / Who was honoured in the Champions of Change Karnataka 2023?",
+    "options": {
+      "A": "Padma Vibhushan C. N. R. Rao",
+      "B": "Padma Shri Tulsi Gowda",
+      "C": "Upendra V. Ravichandran",
+      "D": "सभी (All of the above)"
+    },
+    "answer": ["D"]
+  },
+  {
+    "id": 41,
+    "question": "Uttarakhand Gaurav Samman 2024 के अंतर्गत इस पुरस्कार को किस क्षेत्र में प्रथम बार प्राप्त किया गया था? / In the Uttarakhand Gaurav Samman 2024, which field was among the recognitions for the first time?",
+    "options": {
+      "A": "Defence (General Anil Chauhan)",
+      "B": "Healthcare (Dr. Mahesh Kuriyal)",
+      "C": "Social Service (Mangala Devi)",
+      "D": "All of the above"
+    },
+    "answer": ["D"]
+  },
+  {
+    "id": 42,
+    "question": "Van Mahotsav 2025 (Odisha) में वन संरक्षण के लिए किस समूह को राज्य‑स्तरीय पुरस्कार से सम्मानित किया गया? / During Van Mahotsav 2025 in Odisha, which group was honoured with a state-level award for forest conservation?",
+    "options": {
+      "A": "Tulanga Pada Forest Protection Committee",
+      "B": "Pahadpur Forest Protection Committee",
+      "C": "Both A & B",
+      "D": "Neither"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 43,
+    "question": "Swachh Survekshan 2024‑25 में 'Super Swachh League' (10 लाख+ जनसंख्या) का शीर्ष स्थान किस ने हासिल किया? / Which city topped the Super Swachh League (population over 1 million) in Swachh Survekshan 2024‑25?",
+    "options": {
+      "A": "Surat",
+      "B": "Indore",
+      "C": "Navi Mumbai",
+      "D": "Vijayawada"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 44,
+    "question": "Swachh Survekshan 2024‑25 में Ujjain Municipal Corporation ने किस जनसंख्या वर्ग में शीर्ष स्थान जीता? / In which population category did Ujjain Municipal Corporation secure the top rank in Swachh Survekshan 2024‑25?",
+    "options": {
+      "A": "Between 3–10 lakh",
+      "B": "Over 10 lakh",
+      "C": "50,000–3 lakh",
+      "D": "Below 50,000"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 45,
+    "question": "Swachh Survekshan 2024‑25 में Karnal Municipal Corporation ने किस श्रेणी में राष्ट्रीय  President Award प्राप्त किया? / In which category did Karnal Municipal Corporation receive the President’s Award in Swachh Survekshan 2024‑25?",
+    "options": {
+      "A": "India’s Cleanest Cities (population 1 lakh+)",
+      "B": "Best ODF++ Implementation",
+      "C": "Water Plus Cities",
+      "D": "Five‑Star Clean Cities"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 46,
+    "question": "National Water Awards 2024 में 'Best Urban Local Body' का पुरस्कार किस नगर निगम को मिला? / Which municipal corporation won the ‘Best Urban Local Body’ award in the National Water Awards 2024?",
+    "options": {
+      "A": "Surat Municipal Corporation",
+      "B": "Jaipur Municipal Corporation",
+      "C": "Thiruvananthapuram Municipal Corporation",
+      "D": "Pune Municipal Corporation"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 47,
+    "question": "SKOCH Award 2025 में शहर‑स्तरीय waste management के लिए किस नगर निगम को Silver Award मिला? / Which municipal corporation received the SKOCH Silver Award 2025 for waste management?",
+    "options": {
+      "A": "Mira Bhayandar Municipal Corporation",
+      "B": "Chandrapur Municipal Corporation",
+      "C": "Bilaspur Municipal Corporation",
+      "D": "Nagpur Municipal Corporation"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 48,
+    "question": "Chandrapur Municipal Corporation को SKOCH Silver Award किस पहल के लिए मिला? / For which initiative did Chandrapur Municipal Corporation receive the SKOCH Silver Award?",
+    "options": {
+      "A": "Rainwater harvesting innovations",
+      "B": "QR‑based waste collection",
+      "C": "Water recycling & reuse",
+      "D": "Smart citizen grievance redressal"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 49,
+    "question": "IEEE International Smart Cities Award 2024 में ‘Emerging Economy – Legacy Cities’ श्रेणी में कौन सी नगर निगम विजेता रही? / Which municipal corporation won the IEEE International Smart Cities Award 2024 in the ‘Emerging Economy – Legacy Cities’ category?",
+    "options": {
+      "A": "Ranchi Smart City Corporation",
+      "B": "Pune Municipal Corporation",
+      "C": "Ujjain Municipal Corporation",
+      "D": "Surat Smart City Limited"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 50,
+    "question": "National e‑Governance Awards 2025 में ग्राम‑पंचायती स्तर की नवीन e‑Governance पहल के लिए Gold Award किसने जीता? / Which gram panchayat won the Gold Award in 2025 National e‑Governance Awards under the grassroots category?",
+    "options": {
+      "A": "Suakati GP (Keonjhar, Odisha)",
+      "B": "Rohini GP (Dhule, Maharashtra)",
+      "C": "Palsana GP (Gujarat)",
+      "D": "Lalitpur Municipal Council (UP)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 51,
+    "question": "Pimpri‑Chinchwad Municipal Corporation (PCMC) को e‑Governance के लिए कौन‑सा पुरस्कार मिला? / Which award did PCMC receive for e‑Governance achievements?",
+    "options": {
+      "A": "National e‑Governance Gold Award",
+      "B": "IEEE Smart Cities Award",
+      "C": "Silver Award in district‑level e‑governance scheme",
+      "D": "Smart Water Management Award"
     },
     "answer": ["C"]
   }
 ]
+
+
+
 
 
