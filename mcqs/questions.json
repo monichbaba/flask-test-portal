@@ -1,621 +1,493 @@
 [
   {
     "id": 1,
-    "question": "Under Article 215, a High Court is a court of record. What does this imply? / अनुच्छेद 215 के अंतर्गत उच्च न्यायालय रिकॉर्ड न्यायालय होता है। इसका क्या अर्थ है?",
+    "question": "बालवंतराय मेहता समिति का मुख्य उद्देश्य क्या था? / What was the main objective of the Balwantrai Mehta Committee?",
     "options": {
-      "A": "It can maintain records of lower court proceedings / यह अधीनस्थ न्यायालयों की कार्यवाही का रिकॉर्ड रखता है",
-      "B": "It can initiate impeachment of judges / यह न्यायाधीशों पर महाभियोग चला सकता है",
-      "C": "It has the power to punish for its own contempt / यह अपनी अवमानना के लिए दंडित कर सकता है",
-      "D": "It cannot be challenged in Supreme Court / इसे सर्वोच्च न्यायालय में चुनौती नहीं दी जा सकती"
+      "A": "संविधान संशोधन की सिफारिश / Recommending constitutional amendments",
+      "B": "स्थानीय स्वशासन का मूल्यांकन / Assessing local self-governance",
+      "C": "Community Development Programme का मूल्यांकन / Evaluation of CDP",
+      "D": "वित्त आयोग की समीक्षा / Reviewing Finance Commission"
     },
-    "answer": ["C"]
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 2,
-    "question": "Which article allows Parliament to establish a common High Court for two or more states? / संसद को दो या अधिक राज्यों के लिए एक सामान्य उच्च न्यायालय स्थापित करने की अनुमति किस अनुच्छेद में है?",
+    "question": "अशोक मेहता समिति ने कितने-स्तरीय पंचायत प्रणाली की सिफारिश की थी? / How many tiers did Ashok Mehta Committee recommend for Panchayati Raj?",
     "options": {
-      "A": "Article 230",
-      "B": "Article 231",
-      "C": "Article 228",
-      "D": "Article 224"
+      "A": "तीन / Three",
+      "B": "दो / Two",
+      "C": "चार / Four",
+      "D": "एक / One"
     },
-    "answer": ["B"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 3,
-    "question": "Under Article 216, who determines the number of judges in a High Court? / अनुच्छेद 216 के अनुसार उच्च न्यायालय में न्यायाधीशों की संख्या कौन निर्धारित करता है?",
+    "question": "किस समिति ने पंचायतों को संवैधानिक दर्जा देने की पहली बार अनुशंसा की थी? / Which committee first recommended giving constitutional status to Panchayats?",
     "options": {
-      "A": "President / राष्ट्रपति",
-      "B": "Chief Justice of India / भारत के मुख्य न्यायाधीश",
-      "C": "Parliament / संसद",
-      "D": "State Government / राज्य सरकार"
+      "A": "थुंगन समिति / Thungan Committee",
+      "B": "अशोक मेहता समिति / Ashok Mehta Committee",
+      "C": "एल.एम. सिंघवी समिति / L.M. Singhvi Committee",
+      "D": "गाडगिल समिति / Gadgil Committee"
     },
-    "answer": ["A"]
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 4,
-    "question": "Under Article 217, the minimum age required for appointment as a High Court judge is: / अनुच्छेद 217 के अनुसार उच्च न्यायालय के न्यायाधीश के रूप में नियुक्ति के लिए न्यूनतम आयु क्या है?",
+    "question": "जी.वी.के. राव समिति की अनुशंसा थी कि पंचायतें हों: / G.V.K. Rao Committee recommended that Panchayats should be:",
     "options": {
-      "A": "35 years / 35 वर्ष",
-      "B": "40 years / 40 वर्ष",
-      "C": "45 years / 45 वर्ष",
-      "D": "No minimum age is specified / कोई न्यूनतम आयु निर्दिष्ट नहीं है"
+      "A": "सिर्फ सलाहकार निकाय / Only advisory bodies",
+      "B": "विकास योजनाओं के प्रमुख उपकरण / Chief instruments for development",
+      "C": "राज्य सरकार की शाखा / State government’s branch",
+      "D": "केवल ग्राम स्तर पर लागू / Applicable only at village level"
     },
-    "answer": ["D"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 5,
-    "question": "Which article empowers High Court to issue writs not only for Fundamental Rights but also for other legal rights? / कौन-सा अनुच्छेद उच्च न्यायालय को केवल मौलिक अधिकार ही नहीं, बल्कि अन्य कानूनी अधिकारों के लिए भी रिट जारी करने की शक्ति देता है?",
+    "question": "थुंगन समिति किस संदर्भ में गठित की गई थी? / Thungan Committee was constituted in the context of:",
     "options": {
-      "A": "Article 226",
-      "B": "Article 227",
-      "C": "Article 228",
-      "D": "Article 225"
+      "A": "74वां संशोधन / 74th Amendment",
+      "B": "राजस्व सुधार / Revenue reforms",
+      "C": "संविधान में पंचायतों को शामिल करने / Integrating Panchayats into Constitution",
+      "D": "पुलिस सुधार / Police reforms"
     },
-    "answer": ["A"]
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 6,
-    "question": "Which article allows High Court to withdraw cases from subordinate courts involving substantial constitutional question? / उच्च न्यायालय को अधीनस्थ न्यायालयों से संवैधानिक प्रश्नों वाले मामलों को वापस लेने की अनुमति किस अनुच्छेद में है?",
+    "question": "गाडगिल समिति का मुख्य फोकस क्या था? / What was the main focus of Gadgil Committee?",
     "options": {
-      "A": "Article 226",
-      "B": "Article 227",
-      "C": "Article 228",
-      "D": "Article 231"
+      "A": "पंचायत चुनाव / Panchayat elections",
+      "B": "योजना निर्माण में पंचायतों की भागीदारी / Panchayat role in planning",
+      "C": "महिला आरक्षण / Women reservation",
+      "D": "राज्य वित्त आयोग / State Finance Commission"
     },
-    "answer": ["C"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 7,
-    "question": "Under Article 229, who has administrative control over High Court staff and expenses? / अनुच्छेद 229 के अनुसार उच्च न्यायालय के कर्मचारियों और व्ययों पर प्रशासनिक नियंत्रण किसका होता है?",
+    "question": "Second ARC की Local Governance रिपोर्ट ने किस पर बल दिया? / Second ARC's Local Governance report emphasized:",
     "options": {
-      "A": "President of India / भारत का राष्ट्रपति",
-      "B": "Governor / राज्यपाल",
-      "C": "Chief Justice of High Court / उच्च न्यायालय के मुख्य न्यायाधीश",
-      "D": "Parliament / संसद"
+      "A": "केवल नगरपालिकाएँ / Only municipalities",
+      "B": "पंचायतों को वित्तीय, कार्यात्मक, और कार्मिक स्वतंत्रता देना / Giving Panchayats funds, functions, and functionaries",
+      "C": "राज्य सरकारों की भूमिका / Role of State Governments",
+      "D": "संविधान संशोधन को रद्द करना / Reversing the amendment"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "बालवंतराय मेहता समिति किस वर्ष गठित हुई थी? / In which year was the Balwantrai Mehta Committee formed?",
+    "options": {
+      "A": "1952",
+      "B": "1955",
+      "C": "1957",
+      "D": "1959"
+    },
+    "answer": [
+      "C"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "अशोक मेहता समिति का गठन किसने किया था? / Who constituted the Ashok Mehta Committee?",
+    "options": {
+      "A": "नेहरू सरकार / Nehru Government",
+      "B": "जनता पार्टी सरकार / Janata Party Government",
+      "C": "राजीव गांधी सरकार / Rajiv Gandhi Government",
+      "D": "अटल बिहारी वाजपेयी सरकार / Vajpayee Government"
+    },
+    "answer": [
+      "B"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "थुंगन समिति की अनुशंसा का परिणाम था: / The recommendation of Thungan Committee resulted in:",
+    "options": {
+      "A": "73वां संविधान संशोधन / 73rd Constitutional Amendment",
+      "B": "राजस्व साझा समझौता / Revenue Sharing Agreement",
+      "C": "पुलिस सुधार आयोग / Police Reform Commission",
+      "D": "माल और सेवा कर / GST introduction"
+    },
+    "answer": [
+      "A"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Article 243 संविधान में किस विषय से संबंधित है? / Article 243 of the Constitution is related to:",
+    "options": {
+      "A": "राज्यसभा की संरचना / Structure of Rajya Sabha",
+      "B": "ग्राम सभा की परिभाषा / Definition of Gram Sabha",
+      "C": "पंचायतों की परिभाषा / Definitions related to Panchayats",
+      "D": "राज्य सूची के विषय / Subjects of State List"
     },
     "answer": ["C"]
   },
   {
-    "id": 8,
-    "question": "Which article allows appointment of Additional and Acting Judges in High Court? / उच्च न्यायालय में अतिरिक्त और कार्यवाहक न्यायाधीशों की नियुक्ति की अनुमति किस अनुच्छेद में है?",
+    "id": 12,
+    "question": "Article 243D में किसका आरक्षण वर्णित है? / Article 243D deals with reservation for:",
     "options": {
-      "A": "Article 223",
-      "B": "Article 224",
-      "C": "Article 222",
-      "D": "Article 230"
+      "A": "पिछड़ा वर्ग / OBCs",
+      "B": "महिलाएं और SC/ST / Women and SC/ST",
+      "C": "सैनिक / Ex-servicemen",
+      "D": "बेरोजगार युवा / Unemployed youth"
     },
     "answer": ["B"]
   },
   {
-    "id": 9,
-    "question": "Article 224A deals with: / अनुच्छेद 224A संबंधित है:",
-    "options": {
-      "A": "Ad hoc appointment of retired High Court judges / सेवानिवृत्त उच्च न्यायाधीशों की अस्थायी नियुक्ति",
-      "B": "Transfer of judges / न्यायाधीशों का स्थानांतरण",
-      "C": "Writ jurisdiction / रिट अधिकारिता",
-      "D": "Disciplinary control / अनुशासनात्मक नियंत्रण"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 10,
-    "question": "Who has the final say in transfer of High Court judges? / उच्च न्यायालय के न्यायाधीशों के स्थानांतरण में अंतिम निर्णय किसका होता है?",
-    "options": {
-      "A": "Chief Justice of India / भारत के मुख्य न्यायाधीश",
-      "B": "President of India / भारत के राष्ट्रपति",
-      "C": "Governor of the concerned state / संबंधित राज्य का राज्यपाल",
-      "D": "Prime Minister / प्रधानमंत्री"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 11,
-    "question": "Which article ensures High Courts retain their pre-Constitution jurisdiction? / कौन-सा अनुच्छेद उच्च न्यायालयों को संविधान से पूर्व के अधिकार क्षेत्र की गारंटी देता है?",
-    "options": {
-      "A": "Article 225",
-      "B": "Article 229",
-      "C": "Article 231",
-      "D": "Article 232"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 12,
-    "question": "Subordinate courts are controlled by the High Court under which article? / उच्च न्यायालय के अधीन अधीनस्थ न्यायालय किस अनुच्छेद के अंतर्गत आते हैं?",
-    "options": {
-      "A": "Article 235",
-      "B": "Article 233",
-      "C": "Article 236",
-      "D": "Article 237"
-    },
-    "answer": ["A"]
-  },
-  {
     "id": 13,
-    "question": "Which article deals with recruitment of persons to judicial service below High Court? / उच्च न्यायालय से नीचे की न्यायिक सेवा में नियुक्ति किस अनुच्छेद में दी गई है?",
+    "question": "राज्य वित्त आयोग का प्रावधान किस अनुच्छेद में है? / Which Article provides for State Finance Commission?",
     "options": {
-      "A": "Article 234",
-      "B": "Article 233",
-      "C": "Article 237",
-      "D": "Article 231"
+      "A": "243G",
+      "B": "243H",
+      "C": "243I",
+      "D": "243J"
     },
-    "answer": ["A"]
+    "answer": ["C"]
   },
   {
     "id": 14,
-    "question": "Which authority recommends appointments of District Judges? / जिला न्यायाधीशों की नियुक्ति की अनुशंसा कौन करता है?",
+    "question": "पंचायत चुनाव कराने की जिम्मेदारी किसकी होती है? / Who is responsible for conducting Panchayat elections?",
     "options": {
-      "A": "State Government / राज्य सरकार",
-      "B": "High Court / उच्च न्यायालय",
-      "C": "Governor / राज्यपाल",
-      "D": "State Public Service Commission / राज्य लोक सेवा आयोग"
+      "A": "भारत निर्वाचन आयोग / Election Commission of India",
+      "B": "राज्य निर्वाचन आयोग / State Election Commission",
+      "C": "जिला कलेक्टर / District Collector",
+      "D": "राज्य सरकार / State Government"
     },
     "answer": ["B"]
   },
   {
     "id": 15,
-    "question": "Under Article 236, the term 'District Judge' includes: / अनुच्छेद 236 के अंतर्गत 'जिला न्यायाधीश' में कौन-कौन शामिल हैं?",
+    "question": "ग्राम पंचायत का कार्यकाल अधिकतम कितना होता है? / What is the maximum tenure of a Gram Panchayat?",
     "options": {
-      "A": "Chief Judge of small causes court / लघु कारण न्यायालय के मुख्य न्यायाधीश",
-      "B": "Sessions Judges / सत्र न्यायाधीश",
-      "C": "Assistant Judges / सहायक न्यायाधीश",
-      "D": "All of the above / उपरोक्त सभी"
+      "A": "3 वर्ष / 3 years",
+      "B": "4 वर्ष / 4 years",
+      "C": "5 वर्ष / 5 years",
+      "D": "6 वर्ष / 6 years"
     },
-    "answer": ["D"]
+    "answer": ["C"]
   },
   {
     "id": 16,
-    "question": "Who appoints District Judges in a state? / राज्य में जिला न्यायाधीशों की नियुक्ति कौन करता है?",
+    "question": "राज्य सरकार पंचायतों को किन विषयों पर अधिकार देती है? / State governments give Panchayats powers over subjects in:",
     "options": {
-      "A": "Chief Minister / मुख्यमंत्री",
-      "B": "President of India / भारत के राष्ट्रपति",
-      "C": "Governor / राज्यपाल",
-      "D": "Chief Justice of India / भारत के मुख्य न्यायाधीश"
+      "A": "राज्य सूची / State List",
+      "B": "संवर्ती सूची / Concurrent List",
+      "C": "11वीं अनुसूची / 11th Schedule",
+      "D": "अनुच्छेद 370 / Article 370"
     },
     "answer": ["C"]
   },
   {
     "id": 17,
-    "question": "Which article provides for administrative training provisions for judicial officers? / न्यायिक अधिकारियों के प्रशासनिक प्रशिक्षण के प्रावधान किस अनुच्छेद में हैं?",
+    "question": "राज्य वित्त आयोग का गठन कितने वर्षों में एक बार होता है? / How often is the State Finance Commission constituted?",
     "options": {
-      "A": "Article 237",
-      "B": "Article 234",
-      "C": "Article 235",
-      "D": "Article 236"
+      "A": "हर 3 साल / Every 3 years",
+      "B": "हर 5 साल / Every 5 years",
+      "C": "हर 7 साल / Every 7 years",
+      "D": "हर 10 साल / Every 10 years"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 18,
-    "question": "Which article provides for control over district courts and subordinate judiciary by High Court? / उच्च न्यायालय को जिला न्यायालयों और अधीनस्थ न्यायपालिका पर नियंत्रण किस अनुच्छेद में दिया गया है?",
+    "question": "ग्राम सभा किस अनुच्छेद में वर्णित है? / Gram Sabha is mentioned under which Article?",
     "options": {
-      "A": "Article 235",
-      "B": "Article 236",
-      "C": "Article 232",
-      "D": "Article 231"
+      "A": "243A",
+      "B": "243B",
+      "C": "243E",
+      "D": "243K"
     },
     "answer": ["A"]
   },
   {
     "id": 19,
-    "question": "Who supervises the conduct and discipline of subordinate judiciary in a state? / राज्य में अधीनस्थ न्यायपालिका के आचरण और अनुशासन की निगरानी कौन करता है?",
+    "question": "पंचायतों के लिए कर लगाने का अधिकार किस अनुच्छेद में है? / Which Article gives Panchayats the power to levy taxes?",
     "options": {
-      "A": "High Court / उच्च न्यायालय",
-      "B": "Governor / राज्यपाल",
-      "C": "President / राष्ट्रपति",
-      "D": "Supreme Court / सर्वोच्च न्यायालय"
+      "A": "243F",
+      "B": "243H",
+      "C": "243I",
+      "D": "243J"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 20,
-    "question": "The process of transfer of subordinate judicial officers is under: / अधीनस्थ न्यायिक अधिकारियों के स्थानांतरण की प्रक्रिया किसके अधीन है?",
+    "question": "पंचायती राज व्यवस्था का संवैधानिक दर्जा किस वर्ष में मिला? / In which year did Panchayati Raj get constitutional status?",
     "options": {
-      "A": "State Legislature / राज्य विधानमंडल",
-      "B": "High Court / उच्च न्यायालय",
-      "C": "State Public Service Commission / राज्य लोक सेवा आयोग",
-      "D": "Governor / राज्यपाल"
+      "A": "1989",
+      "B": "1992",
+      "C": "1993",
+      "D": "1995"
     },
     "answer": ["B"]
   },
   {
     "id": 21,
-    "question": "Appointments to civil judicial posts below district judge level are made by: / जिला न्यायाधीश स्तर से नीचे के सिविल न्यायिक पदों पर नियुक्तियाँ कौन करता है?",
+    "question": "अनुच्छेद 243K किससे संबंधित है? / Article 243K relates to:",
     "options": {
-      "A": "Governor in consultation with High Court / उच्च न्यायालय से परामर्श के बाद राज्यपाल",
-      "B": "High Court directly / सीधे उच्च न्यायालय",
-      "C": "Public Service Commission / लोक सेवा आयोग",
-      "D": "President of India / भारत के राष्ट्रपति"
+      "A": "राज्य चुनाव आयोग / State Election Commission",
+      "B": "ग्राम सभा / Gram Sabha",
+      "C": "राज्य वित्त आयोग / State Finance Commission",
+      "D": "आरक्षण नीति / Reservation Policy"
     },
     "answer": ["A"]
   },
   {
     "id": 22,
-    "question": "Which article allows Parliament to regulate jurisdiction of High Courts with respect to Union Territories? / संसद को संघ राज्यक्षेत्रों के संदर्भ में उच्च न्यायालयों की अधिकारिता को विनियमित करने की अनुमति किस अनुच्छेद में है?",
+    "question": "11वीं अनुसूची संविधान में क्यों जोड़ी गई? / Why was the 11th Schedule added to the Constitution?",
     "options": {
-      "A": "Article 230",
-      "B": "Article 225",
-      "C": "Article 224",
-      "D": "Article 233"
+      "A": "न्यायपालिका को सशक्त करने / Strengthening the judiciary",
+      "B": "पंचायतों को कार्य सौंपने / Assigning functions to Panchayats",
+      "C": "राज्यपाल की शक्तियाँ बढ़ाने / Enhancing powers of the Governor",
+      "D": "संसद को अधिकार देने / Empowering the Parliament"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 23,
-    "question": "Which article defines the expression 'Judicial service'? / 'Judicial service' शब्द की परिभाषा किस अनुच्छेद में दी गई है?",
+    "question": "राज्य चुनाव आयुक्त की नियुक्ति कौन करता है? / Who appoints the State Election Commissioner?",
     "options": {
-      "A": "Article 236",
-      "B": "Article 234",
-      "C": "Article 232",
-      "D": "Article 231"
+      "A": "मुख्यमंत्री / Chief Minister",
+      "B": "राज्यपाल / Governor",
+      "C": "प्रधानमंत्री / Prime Minister",
+      "D": "राष्ट्रपति / President"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 24,
-    "question": "High Courts are empowered to make rules for regulating the conditions of service of their staff under: / अपने कर्मचारियों की सेवा शर्तों को नियंत्रित करने के लिए नियम बनाने का अधिकार उच्च न्यायालय को किस अनुच्छेद में दिया गया है?",
+    "question": "अनुच्छेद 243H का विषय क्या है? / What is the subject of Article 243H?",
     "options": {
-      "A": "Article 229",
-      "B": "Article 235",
-      "C": "Article 226",
-      "D": "Article 232"
+      "A": "राजस्व वितरण / Revenue Distribution",
+      "B": "पंचायतों की कराधान शक्ति / Power to levy taxes by Panchayats",
+      "C": "जिला परिषद की भूमिका / Role of District Council",
+      "D": "न्यायिक शक्तियाँ / Judicial Powers"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 25,
-    "question": "What is the minimum number of judges required in a High Court Bench to decide on constitutional matters? / संवैधानिक मामलों पर निर्णय लेने के लिए उच्च न्यायालय की पीठ में न्यूनतम कितने न्यायाधीश होने चाहिए?",
+    "question": "राज्य वित्त आयोग पंचायतों को कौन सी सेवाएँ सिफारिश कर सकता है? / State Finance Commission may recommend:",
     "options": {
-      "A": "One / एक",
-      "B": "Two / दो",
-      "C": "Three / तीन",
-      "D": "Five / पाँच"
+      "A": "केवल स्वास्थ्य सेवाएं / Only health services",
+      "B": "करों और अनुदानों का वितरण / Distribution of taxes and grants",
+      "C": "पुलिस नियुक्ति / Police appointments",
+      "D": "राज्य योजनाएं / State level planning"
     },
-    "answer": ["C"]
+    "answer": ["B"]
   },
   {
     "id": 26,
-    "question": "Which body plays a consultative role in appointments to judicial services below district judge? / जिला न्यायाधीश से नीचे की न्यायिक सेवाओं में नियुक्ति के लिए परामर्शी भूमिका कौन निभाता है?",
+    "question": "73वें संविधान संशोधन अधिनियम का मुख्य उद्देश्य क्या था? / What was the main objective of the 73rd Constitutional Amendment Act?",
     "options": {
-      "A": "State Public Service Commission / राज्य लोक सेवा आयोग",
-      "B": "Supreme Court / सर्वोच्च न्यायालय",
-      "C": "Chief Justice of High Court / उच्च न्यायालय के मुख्य न्यायाधीश",
-      "D": "Union Law Ministry / केंद्रीय विधि मंत्रालय"
+      "A": "राज्यसभा को शक्तियाँ देना / Empower Rajya Sabha",
+      "B": "पंचायती राज को संवैधानिक दर्जा देना / Constitutional status to Panchayati Raj",
+      "C": "निर्वाचन आयोग का विस्तार / Expansion of Election Commission",
+      "D": "संसद की शक्ति बढ़ाना / Increase Parliament’s power"
     },
-    "answer": ["A"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 27,
-    "question": "Can High Court entertain petitions under Article 226 even when alternate remedy exists? / क्या अनुच्छेद 226 के तहत उच्च न्यायालय वैकल्पिक उपाय होने पर भी याचिका स्वीकार कर सकता है?",
+    "question": "अनुच्छेद 243B के अनुसार, प्रत्येक राज्य में होना चाहिए: / According to Article 243B, every state shall have:",
     "options": {
-      "A": "Yes, at its discretion / हाँ, अपनी विवेकाधिकार पर",
-      "B": "No, never / नहीं, कभी नहीं",
-      "C": "Only with Supreme Court approval / केवल सर्वोच्च न्यायालय की अनुमति से",
-      "D": "Only in criminal cases / केवल आपराधिक मामलों में"
+      "A": "केवल ग्राम पंचायत / Only Gram Panchayat",
+      "B": "एक नगरपालिका / One Municipality",
+      "C": "तीन-स्तरीय पंचायत प्रणाली / Three-tier Panchayati system",
+      "D": "नगर निगम / Municipal Corporation"
     },
-    "answer": ["A"]
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 28,
-    "question": "Which article makes High Courts the highest court of appeal in civil and criminal matters within the state? / कौन-सा अनुच्छेद राज्य के भीतर दीवानी और आपराधिक मामलों में उच्च न्यायालय को सर्वोच्च न्यायालय बनाता है?",
+    "question": "अनुसूचित क्षेत्रों में पंचायतों के लिए विशेष प्रावधान किस अधिनियम में हैं? / Special provisions for Panchayats in Scheduled Areas are in:",
     "options": {
-      "A": "Article 227",
-      "B": "Article 214",
-      "C": "Article 225",
-      "D": "Article 226"
+      "A": "73वां संशोधन / 73rd Amendment",
+      "B": "PESA अधिनियम, 1996 / PESA Act, 1996",
+      "C": "FRA अधिनियम / Forest Rights Act",
+      "D": "CAG अधिनियम / CAG Act"
     },
-    "answer": ["C"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 29,
-    "question": "Which article gives High Courts power of superintendence over all subordinate courts? / अधीनस्थ न्यायालयों पर उच्च न्यायालय को पर्यवेक्षण की शक्ति किस अनुच्छेद में दी गई है?",
+    "question": "Article 243E पंचायतों के किस पहलू से संबंधित है? / Article 243E relates to:",
     "options": {
-      "A": "Article 227",
-      "B": "Article 226",
-      "C": "Article 225",
-      "D": "Article 236"
+      "A": "चुनाव / Elections",
+      "B": "कार्यकाल / Duration",
+      "C": "वित्तीय शक्तियाँ / Financial Powers",
+      "D": "योजना निर्माण / Planning"
     },
-    "answer": ["A"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 30,
-    "question": "High Court judges are removed in the same manner as: / उच्च न्यायालय के न्यायाधीशों को हटाने की प्रक्रिया किसके समान है?",
+    "question": "Article 243N किस विषय से संबंधित है? / Article 243N deals with:",
     "options": {
-      "A": "District Judge / जिला न्यायाधीश",
-      "B": "Supreme Court Judges / सर्वोच्च न्यायालय के न्यायाधीश",
-      "C": "Governor / राज्यपाल",
-      "D": "State Public Prosecutor / राज्य लोक अभियोजक"
+      "A": "स्थानीय संस्थानों के संक्रमण प्रावधान / Transitional provisions for local bodies",
+      "B": "वित्त आयोग / Finance Commission",
+      "C": "ग्राम सभा की शक्तियाँ / Powers of Gram Sabha",
+      "D": "महिला आरक्षण / Women reservation"
     },
-    "answer": ["B"]
+    "answer": [
+      "A"
+    ]
   },
   {
     "id": 31,
-    "question": "Which of the following conditions must be satisfied for the Governor to promulgate an ordinance? / राज्यपाल को अध्यादेश जारी करने के लिए कौन-सी शर्तें पूरी करनी होती हैं?",
+    "question": "11वीं अनुसूची में सूचीबद्ध विषयों की संख्या है: / Number of subjects in the 11th Schedule is:",
     "options": {
-      "A": "State Legislature is not in session / राज्य विधानमंडल सत्र में न हो",
-      "B": "President has approved it / राष्ट्रपति की स्वीकृति प्राप्त हो",
-      "C": "Immediate action is necessary / तत्काल कार्रवाई आवश्यक हो",
-      "D": "Ordinance is recommended by Chief Minister / मुख्यमंत्री द्वारा अनुशंसा की गई हो"
+      "A": "21",
+      "B": "25",
+      "C": "29",
+      "D": "31"
     },
-    "answer": ["A", "C"]
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 32,
-    "question": "Which of the following is NOT true about Governor’s ordinance power? / निम्न में से कौन-सा कथन राज्यपाल की अध्यादेश शक्ति के बारे में असत्य है?",
+    "question": "पंचायती राज को लागू करने वाला पहला राज्य कौन था? / Which was the first state to implement Panchayati Raj?",
     "options": {
-      "A": "Ordinance can be issued when Legislative Assembly is in session / विधान सभा सत्र में हो तो अध्यादेश जारी किया जा सकता है",
-      "B": "It must be laid before the Legislature / इसे विधानमंडल के समक्ष प्रस्तुत करना होता है",
-      "C": "It has same force as a law passed by the Legislature / यह विधायिका द्वारा पारित कानून के समान प्रभावी होता है",
-      "D": "It ceases to operate after 6 weeks of reassembly / यह पुनःसत्र प्रारंभ होने के 6 सप्ताह में समाप्त हो जाता है"
+      "A": "उत्तर प्रदेश / Uttar Pradesh",
+      "B": "पश्चिम बंगाल / West Bengal",
+      "C": "राजस्थान / Rajasthan",
+      "D": "महाराष्ट्र / Maharashtra"
     },
-    "answer": ["A"]
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 33,
-    "question": "Which article establishes a High Court in every state? / किस अनुच्छेद के अंतर्गत हर राज्य में उच्च न्यायालय की स्थापना की गई है?",
+    "question": "PESA Act 1996 को लागू करने का उद्देश्य क्या है? / What is the objective of PESA Act, 1996?",
     "options": {
-      "A": "Article 214",
-      "B": "Article 215",
-      "C": "Article 213",
-      "D": "Article 220"
+      "A": "शहरी क्षेत्रों की सरकार को नियंत्रित करना / Regulate urban governments",
+      "B": "अनुसूचित जनजातियों को सशक्त बनाना / Empower Scheduled Tribes",
+      "C": "राज्य की शक्तियाँ बढ़ाना / Increase powers of states",
+      "D": "न्यायिक समीक्षा का विस्तार / Extend judicial review"
     },
-    "answer": ["A"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 34,
-    "question": "Which of the following statements are correct about High Courts? / उच्च न्यायालयों के बारे में निम्नलिखित में से कौन-से कथन सही हैं?",
+    "question": "Article 243O क्या कहता है? / What does Article 243O state?",
     "options": {
-      "A": "High Court is a Court of Record / उच्च न्यायालय रिकॉर्ड न्यायालय होता है",
-      "B": "It has power to punish for its contempt / यह अपनी अवमानना के लिए दंडित कर सकता है",
-      "C": "Governor appoints Chief Justice / मुख्य न्यायाधीश की नियुक्ति राज्यपाल करता है",
-      "D": "Same High Court can serve more than one state / एक ही उच्च न्यायालय एक से अधिक राज्यों के लिए हो सकता है"
+      "A": "निर्वाचन को अदालत में चुनौती नहीं दी जा सकती / Elections can't be questioned in court",
+      "B": "ग्राम सभा की परिभाषा / Defines Gram Sabha",
+      "C": "राज्यपाल की भूमिका / Role of Governor",
+      "D": "आरक्षण की समय सीमा / Duration of reservations"
     },
-    "answer": ["A", "B", "D"]
+    "answer": [
+      "A"
+    ]
   },
   {
     "id": 35,
-    "question": "Which article provides for the transfer of a judge from one High Court to another? / किसी उच्च न्यायालय से दूसरे उच्च न्यायालय में न्यायाधीश का स्थानांतरण किस अनुच्छेद के अंतर्गत होता है?",
+    "question": "Article 243J संबंधित है: / Article 243J relates to:",
     "options": {
-      "A": "Article 222",
-      "B": "Article 217",
-      "C": "Article 224",
-      "D": "Article 230"
+      "A": "ग्राम सभा की बैठकें / Gram Sabha meetings",
+      "B": "पंचायतों के लेखा परीक्षा / Audit of Panchayats",
+      "C": "पंचायत चुनाव / Panchayat elections",
+      "D": "राज्य की शक्तियाँ / State powers"
     },
-    "answer": ["A"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 36,
-    "question": "Under Article 226, High Courts can issue writs for which purposes? / अनुच्छेद 226 के अंतर्गत उच्च न्यायालय किस प्रयोजन के लिए रिट जारी कर सकता है?",
+    "question": "73वें संशोधन को संविधान में कौन-सी अनुसूची में डाला गया? / Which Schedule was added through the 73rd Amendment?",
     "options": {
-      "A": "Enforcement of Fundamental Rights / मौलिक अधिकारों के प्रवर्तन हेतु",
-      "B": "For any other legal purpose / किसी अन्य कानूनी उद्देश्य हेतु",
-      "C": "Only for constitutional matters / केवल संवैधानिक मामलों हेतु",
-      "D": "Against private individuals also / निजी व्यक्तियों के विरुद्ध भी"
+      "A": "9वीं / 9th",
+      "B": "10वीं / 10th",
+      "C": "11वीं / 11th",
+      "D": "12वीं / 12th"
     },
-    "answer": ["A", "B", "D"]
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 37,
-    "question": "Who determines the number of Judges in a High Court? / उच्च न्यायालय में न्यायाधीशों की संख्या कौन निर्धारित करता है?",
+    "question": "ग्राम सभा में मतदान का अधिकार किसे होता है? / Who has the right to vote in Gram Sabha?",
     "options": {
-      "A": "President of India / भारत का राष्ट्रपति",
-      "B": "Parliament / संसद",
-      "C": "Supreme Court / सर्वोच्च न्यायालय",
-      "D": "Chief Justice of India / भारत के मुख्य न्यायाधीश"
+      "A": "केवल पंचायत सदस्य / Only Panchayat members",
+      "B": "ग्राम के वयस्क नागरिक / Adult citizens of village",
+      "C": "राज्य के नामांकित सदस्य / Nominated state members",
+      "D": "राज्यपाल द्वारा नियुक्त / Appointed by Governor"
     },
-    "answer": ["A"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 38,
-    "question": "Which of the following articles deal with additional and acting judges? / निम्नलिखित में से कौन-से अनुच्छेद अतिरिक्त एवं कार्यवाहक न्यायाधीशों से संबंधित हैं?",
+    "question": "243F पंचायत के किस पहलू से संबंधित है? / Article 243F deals with:",
     "options": {
-      "A": "Article 224",
-      "B": "Article 225",
-      "C": "Article 216",
-      "D": "Article 222"
+      "A": "अवधि / Tenure",
+      "B": "योग्यता और अयोग्यता / Qualification and Disqualification",
+      "C": "पद और शक्तियाँ / Office and Powers",
+      "D": "चुनाव / Elections"
     },
-    "answer": ["A"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 39,
-    "question": "Under which conditions can Parliament establish a common High Court for two or more states? / संसद किन परिस्थितियों में दो या अधिक राज्यों के लिए एक सामान्य उच्च न्यायालय स्थापित कर सकती है?",
+    "question": "Article 243C पंचायतों की किस संरचना से संबंधित है? / Article 243C is related to:",
     "options": {
-      "A": "If all states pass a resolution / यदि सभी राज्य प्रस्ताव पारित करें",
-      "B": "By constitutional amendment only / केवल संविधान संशोधन द्वारा",
-      "C": "By a law made by Parliament / संसद द्वारा बनाए गए कानून द्वारा",
-      "D": "On recommendation of Chief Justice of India / भारत के मुख्य न्यायाधीश की सिफारिश पर"
+      "A": "चुनाव प्रक्रिया / Election Process",
+      "B": "संरचना और गठन / Composition and Constitution",
+      "C": "वित्त पोषण / Financing",
+      "D": "अनुसूचित जनजाति अधिकार / Tribal Rights"
     },
-    "answer": ["C"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 40,
-    "question": "Which article deals with extension of jurisdiction of a High Court to Union Territories? / किसी उच्च न्यायालय के अधिकार क्षेत्र को केंद्र शासित प्रदेशों तक बढ़ाने से संबंधित अनुच्छेद कौन-सा है?",
+    "question": "पंचायतों के लिए न्यूनतम आयु सीमा क्या है? / What is the minimum age requirement for Panchayats?",
     "options": {
-      "A": "Article 230",
-      "B": "Article 228",
-      "C": "Article 231",
-      "D": "Article 229"
+      "A": "18 वर्ष / 18 years",
+      "B": "21 वर्ष / 21 years",
+      "C": "25 वर्ष / 25 years",
+      "D": "30 वर्ष / 30 years"
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 41,
-    "question": "Under which article can High Court withdraw cases from subordinate courts? / उच्च न्यायालय अधीनस्थ न्यायालयों से मामले किस अनुच्छेद के अंतर्गत वापस ले सकता है?",
-    "options": {
-      "A": "Article 228",
-      "B": "Article 231",
-      "C": "Article 224A",
-      "D": "Article 230"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 42,
-    "question": "Which article protects jurisdiction of High Courts as existed before Constitution? / कौन-सा अनुच्छेद संविधान से पूर्व उच्च न्यायालयों के अधिकार क्षेत्र की सुरक्षा करता है?",
-    "options": {
-      "A": "Article 225",
-      "B": "Article 214",
-      "C": "Article 231",
-      "D": "Article 232"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 43,
-    "question": "Which article enables appointment of retired judges of High Court? / उच्च न्यायालय के सेवानिवृत्त न्यायाधीशों की पुनर्नियुक्ति किस अनुच्छेद में संभव है?",
-    "options": {
-      "A": "Article 224A",
-      "B": "Article 217",
-      "C": "Article 216",
-      "D": "Article 231"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 44,
-    "question": "What is the nature of subordinate courts under High Court in the Constitution? / संविधान में उच्च न्यायालय के अधीन अधीनस्थ न्यायालयों की प्रकृति क्या है?",
-    "options": {
-      "A": "They are directly under Governor / ये सीधे राज्यपाल के अधीन होते हैं",
-      "B": "They are under control of High Court / ये उच्च न्यायालय के नियंत्रण में होते हैं",
-      "C": "They are independent constitutional bodies / ये स्वतंत्र संवैधानिक निकाय होते हैं",
-      "D": "They are created by State Public Service Commission / इन्हें राज्य लोक सेवा आयोग बनाता है"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 45,
-    "question": "Which article ensures control of High Courts over district judiciary appointments? / कौन-सा अनुच्छेद जिला न्यायपालिका में नियुक्तियों पर उच्च न्यायालय के नियंत्रण को सुनिश्चित करता है?",
-    "options": {
-      "A": "Article 235",
-      "B": "Article 237",
-      "C": "Article 234",
-      "D": "Article 236"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 46,
-    "question": "Who is the highest law officer in a State? / राज्य में सर्वोच्च विधिक अधिकारी कौन होता है?",
-    "options": {
-      "A": "Attorney General of India / भारत के महाधिवक्ता",
-      "B": "Solicitor General / सॉलिसिटर जनरल",
-      "C": "Advocate General / राज्य का महाधिवक्ता",
-      "D": "Chief Justice of High Court / उच्च न्यायालय के मुख्य न्यायाधीश"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 47,
-    "question": "Under which Article is the Advocate General for the State appointed? / राज्य के महाधिवक्ता की नियुक्ति किस अनुच्छेद के अंतर्गत होती है?",
-    "options": {
-      "A": "Article 148",
-      "B": "Article 165",
-      "C": "Article 166",
-      "D": "Article 167"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 47,
-    "question": "Who appoints the Advocate General of a State? / राज्य के महाधिवक्ता की नियुक्ति कौन करता है?",
-    "options": {
-      "A": "President / राष्ट्रपति",
-      "B": "Chief Justice of High Court / उच्च न्यायालय के मुख्य न्यायाधीश",
-      "C": "Governor / राज्यपाल",
-      "D": "Chief Minister / मुख्यमंत्री"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 48,
-    "question": "The eligibility criteria for Advocate General is same as for: / राज्य महाधिवक्ता के लिए योग्यता किसके समान होती है?",
-    "options": {
-      "A": "District Judge / जिला न्यायाधीश",
-      "B": "High Court Judge / उच्च न्यायालय के न्यायाधीश",
-      "C": "Supreme Court Judge / सर्वोच्च न्यायालय के न्यायाधीश",
-      "D": "Civil Judge / सिविल जज"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 49,
-    "question": "Advocate General holds office: / महाधिवक्ता पद पर कार्य करता है:",
-    "options": {
-      "A": "For 5 years / 5 वर्षों के लिए",
-      "B": "During the pleasure of the Governor / राज्यपाल की इच्छा पर",
-      "C": "Till age of 65 years / 65 वर्ष की आयु तक",
-      "D": "Till next election / अगले चुनाव तक"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 50,
-    "question": "Which of the following is NOT a function of the Advocate General? / निम्नलिखित में से कौन महाधिवक्ता का कार्य नहीं है?",
-    "options": {
-      "A": "To advise the Governor on legal matters / राज्यपाल को विधिक सलाह देना",
-      "B": "To defend the State in courts / राज्य का न्यायालयों में प्रतिनिधित्व करना",
-      "C": "To appoint High Court judges / उच्च न्यायालय के न्यायाधीशों की नियुक्ति करना",
-      "D": "To perform functions assigned by the Constitution / संविधान द्वारा सौंपे गए कार्य करना"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 51,
-    "question": "Can Advocate General take part in proceedings of the State Legislature? / क्या राज्य महाधिवक्ता विधानमंडल की कार्यवाही में भाग ले सकता है?",
-    "options": {
-      "A": "Yes, with voting rights / हाँ, मतदान अधिकार के साथ",
-      "B": "No, never / नहीं, कभी नहीं",
-      "C": "Yes, without voting rights / हाँ, पर मतदान नहीं कर सकता",
-      "D": "Only in Rajya Sabha / केवल राज्यसभा में"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 52,
-    "question": "Which Article deals with the duties of the Advocate General to advise the Governor? / राज्यपाल को सलाह देने के महाधिवक्ता के कर्तव्यों से संबंधित अनुच्छेद कौन-सा है?",
-    "options": {
-      "A": "Article 165",
-      "B": "Article 166",
-      "C": "Article 167",
-      "D": "Article 164"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 53,
-    "question": "The Advocate General has the right to speak in the Legislature, but not to: / महाधिवक्ता को विधानमंडल में बोलने का अधिकार है, परंतु वह क्या नहीं कर सकता?",
-    "options": {
-      "A": "Give opinion / राय देना",
-      "B": "Move a bill / विधेयक प्रस्तुत करना",
-      "C": "Vote / मतदान करना",
-      "D": "Request adjournment / स्थगन प्रस्ताव देना"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 55,
-    "question": "The post of Advocate General is analogous to which central post? / राज्य के महाधिवक्ता का पद केंद्र सरकार के किस पद के समरूप है?",
-    "options": {
-      "A": "Attorney General of India / भारत के महाधिवक्ता",
-      "B": "Solicitor General / सॉलिसिटर जनरल",
-      "C": "Chief Justice of India / भारत के मुख्य न्यायाधीश",
-      "D": "Cabinet Secretary / कैबिनेट सचिव"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 56,
-    "question": "मई 2022 में उत्तर प्रदेश सरकार ने राज्य का महाधिवक्ता (Advocate General) किसे नियुक्त किया था? / Who was appointed as the Advocate General of Uttar Pradesh in May 2022?",
-    "options": {
-      "A": "Raghvendra Singh",
-      "B": "Ajay Kumar Mishra",
-      "C": "Siddharth Nath Singh",
-      "D": "Prashant Kumar"
-    },
-    "answer": ["B"]
+    "answer": [
+      "B"
+    ]
   }
 ]
-
-
 
