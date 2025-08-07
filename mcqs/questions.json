@@ -1,436 +1,352 @@
 [
   {
     "id": 1,
-    "question": "अनुच्छेद 361 के अनुसार राष्ट्रपति और राज्यपाल को किस प्रकार की कानूनी प्रतिरक्षा प्राप्त है?",
+    "question": "CAA, NRC और NPR में से कौन-कौन कानूनी रूप से लागू हो चुके हैं?\nWhich of the following have been legally implemented?",
     "options": {
-      "A": "सिविल कार्यों से प्रतिरक्षा",
-      "B": "आपराधिक कार्यवाही से प्रतिरक्षा",
-      "C": "संवैधानिक दायित्वों से प्रतिरक्षा",
-      "D": "दोनों सिविल और आपराधिक कार्यवाही से प्रतिरक्षा"
+      "A": "CAA / Citizenship Amendment Act",
+      "B": "NRC (केवल असम) / NRC (Assam only)",
+      "C": "NPR / National Population Register",
+      "D": "NRC (राष्ट्रीय स्तर पर) / NRC (Nationwide)"
     },
-    "answer": ["B"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 2,
-    "question": "अनुच्छेद 365 का प्रयोग किस स्थिति में किया जाता है?",
+    "question": "नागरिकता संशोधन अधिनियम (CAA), 2019 किस पर लागू होता है?\nThe Citizenship Amendment Act (CAA), 2019 applies to which of the following?",
     "options": {
-      "A": "जब राज्य संविधान का पालन नहीं करता है",
-      "B": "जब राज्यपाल इस्तीफा देता है",
-      "C": "जब संसद में बहुमत नहीं होता",
-      "D": "जब राष्ट्रपति को राज्य का दौरा करना होता है"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 3,
-    "question": "अनुच्छेद 361A किस विषय से संबंधित है?",
-    "options": {
-      "A": "राष्ट्रीय आपातकाल",
-      "B": "मीडिया की स्वतंत्रता",
-      "C": "संसद/विधानमंडल में बोले गए शब्दों की कानूनी सुरक्षा",
-      "D": "राज्यपाल की शक्तियाँ"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 4,
-    "question": "कौन-सा अनुच्छेद राष्ट्रपति को रियासतों के संबंध में अंतिम निर्णयकर्ता बनाता है?",
-    "options": {
-      "A": "अनुच्छेद 360",
-      "B": "अनुच्छेद 363",
-      "C": "अनुच्छेद 362",
-      "D": "अनुच्छेद 364"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 5,
-    "question": "भारतीय संविधान में प्रयुक्त शब्दों की परिभाषा किस अनुच्छेद में दी गई है?",
-    "options": {
-      "A": "अनुच्छेद 367",
-      "B": "अनुच्छेद 366",
-      "C": "अनुच्छेद 368",
-      "D": "अनुच्छेद 361"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 6,
-    "question": "अनुच्छेद 364 किससे संबंधित है?",
-    "options": {
-      "A": "भाषा नीति",
-      "B": "संविधान से अस्थायी छूट",
-      "C": "राष्ट्रीय आपदा प्रबंधन",
-      "D": "गवर्नर का निर्वाचन"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 7,
-    "question": "अनुच्छेद 362 किससे संबंधित था जिसे अब हटा दिया गया है?",
-    "options": {
-      "A": "अनुच्छेद 370 से जुड़ी विशेष स्थिति",
-      "B": "पूर्व रियासतों के साथ संधियों की मान्यता",
-      "C": "SC/ST के अधिकार",
-      "D": "राज्य वित्त आयोग"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 8,
-    "question": "Supreme Court ने **Rameshwar Prasad v. Union of India (2006)** में किस अनुच्छेद के दुरुपयोग पर टिप्पणी की थी?",
-    "options": {
-      "A": "अनुच्छेद 365",
-      "B": "अनुच्छेद 356",
-      "C": "अनुच्छेद 361",
-      "D": "अनुच्छेद 364"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 9,
-    "question": "अनुच्छेद 361 के अंतर्गत राष्ट्रपति के विरुद्ध कौन-सी प्रक्रिया अभी भी मान्य है?",
-    "options": {
-      "A": "लोकपाल जाँच",
-      "B": "RTI के तहत प्रश्न",
-      "C": "महाभियोग (Impeachment)",
-      "D": "FIR दर्ज करना"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 10,
-    "question": "संविधान की व्याख्या हेतु किस सामान्य अधिनियम का उपयोग अनुच्छेद 367 के अंतर्गत किया जा सकता है?",
-    "options": {
-      "A": "Indian Penal Code",
-      "B": "Civil Procedure Code",
-      "C": "General Clauses Act, 1897",
-      "D": "Representation of People Act"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 11,
-    "question": "अनुच्छेद 368 संविधान के किस पक्ष से संबंधित है?",
-    "options": {
-      "A": "संविधान की व्याख्या",
-      "B": "संविधान संशोधन की प्रक्रिया",
-      "C": "आपातकालीन प्रावधान",
-      "D": "राज्यों के बीच विवाद"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 12,
-    "question": "संविधान संशोधन के लिए किन प्रस्तावों को संसद द्वारा विशेष बहुमत से पारित करना होता है?",
-    "options": {
-      "A": "केवल केंद्र सरकार से संबंधित संशोधन",
-      "B": "अनुच्छेद 1 से जुड़े संशोधन",
-      "C": "संविधान के किसी भी भाग से जुड़े संशोधन",
-      "D": "संविधान की अनुसूचियों में परिवर्तन"
-    },
-    "answer": ["C", "D"]
-  },
-  {
-    "id": 13,
-    "question": "कौन-से संशोधन 'राज्यों की सहमति' के बिना भी किए जा सकते हैं?",
-    "options": {
-      "A": "संघ सूची में बदलाव",
-      "B": "निर्वाचन प्रक्रिया में परिवर्तन",
-      "C": "अनुसूचियों में संशोधन",
-      "D": "न्यायपालिका की संरचना में बदलाव"
-    },
-    "answer": ["B", "C"]
-  },
-  {
-    "id": 14,
-    "question": "कोण-सा संशोधन संविधान के 'मूल ढाँचे' (basic structure) को नहीं छू सकता?",
-    "options": {
-      "A": "केवल संसद से पारित संशोधन",
-      "B": "राष्ट्रपति द्वारा अनुमोदित संशोधन",
-      "C": "सभी प्रकार के संशोधन",
-      "D": "राज्यों द्वारा अनुमोदित संशोधन"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 15,
-    "question": "Kesavananda Bharati केस (1973) में किस बात की पुष्टि की गई?",
-    "options": {
-      "A": "अनुच्छेद 32 को बदला जा सकता है",
-      "B": "संविधान संशोधन न्यायिक समीक्षा से परे है",
-      "C": "मूल संरचना सिद्धांत लागू होता है",
-      "D": "संसद संविधान का अंतिम व्याख्याकार है"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 16,
-    "question": "संविधान संशोधन का बिल संसद के किस सदन में प्रस्तुत किया जा सकता है?",
-    "options": {
-      "A": "केवल लोकसभा में",
-      "B": "केवल राज्यसभा में",
-      "C": "किसी भी सदन में",
-      "D": "संयुक्त सत्र में"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 17,
-    "question": "संविधान संशोधन के लिए विशेष बहुमत का अर्थ है?",
-    "options": {
-      "A": "उपस्थित और मतदान करने वाले दो-तिहाई सदस्य + कुल सदस्यों का बहुमत",
-      "B": "50% सदस्य + उपस्थित सदस्यों का बहुमत",
-      "C": "सभी राज्यों की सहमति",
-      "D": "प्रधानमंत्री और राष्ट्रपति की सहमति"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 18,
-    "question": "कोण-से संविधान संशोधन को सुप्रीम कोर्ट ने 'अवैध' घोषित किया था?",
-    "options": {
-      "A": "42वाँ संशोधन",
-      "B": "44वाँ संशोधन",
-      "C": "99वाँ संशोधन (NJAC)",
-      "D": "73वाँ संशोधन"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 19,
-    "question": "किन संशोधनों के लिए आधे से अधिक राज्यों की मंज़ूरी अनिवार्य होती है?",
-    "options": {
-      "A": "संविधान की भाषा बदलने वाले",
-      "B": "संघ और राज्यों के बीच शक्तियों के वितरण में परिवर्तन",
-      "C": "राज्यों की सीमाओं में परिवर्तन",
-      "D": "निर्वाचन आयोग की शक्तियों में संशोधन"
+      "A": "भारत में अवैध रूप से आए सभी प्रवासियों पर / All illegal immigrants in India",
+      "B": "पाकिस्तान, बांग्लादेश और अफगानिस्तान से आए कुछ धार्मिक अल्पसंख्यकों पर / Religious minorities from Pakistan, Bangladesh, and Afghanistan",
+      "C": "भारत के मुस्लिम नागरिकों पर / Indian Muslim citizens",
+      "D": "शरणार्थियों को नागरिकता देने के उद्देश्य से / Aimed at granting citizenship to refugees"
     },
     "answer": ["B", "D"]
   },
   {
-    "id": 20,
-    "question": "संविधान संशोधन के बाद कौन-सी प्रक्रिया नहीं होती?",
+    "id": 3,
+    "question": "NPR (National Population Register) के बारे में निम्न में से क्या सत्य है?\nWhich of the following is true about NPR (National Population Register)?",
     "options": {
-      "A": "राष्ट्रपति की अनुमति",
-      "B": "राज्यों की अधिसूचना",
-      "C": "राज्यपाल की अनुमति",
-      "D": "राजपत्र में प्रकाशन"
+      "A": "यह भारत के सभी सामान्य निवासियों का डेटा रिकॉर्ड करता है / It records data of all usual residents of India",
+      "B": "यह केवल नागरिकों का रजिस्टर है / It is only a register of citizens",
+      "C": "यह जनगणना अधिनियम, 1948 के अंतर्गत आता है / It is governed by the Census Act, 1948",
+      "D": "यह अनिवार्य नहीं है / It is not mandatory"
     },
-    "answer": ["C"]
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 4,
+    "question": "NRC और NPR में प्रमुख अंतर क्या है?\nWhat is the key difference between NRC and NPR?",
+    "options": {
+      "A": "NRC नागरिकता की पुष्टि करता है, NPR निवासियों की जानकारी जुटाता है / NRC verifies citizenship, NPR collects resident data",
+      "B": "NPR केवल असम में लागू होता है / NPR is applicable only in Assam",
+      "C": "NRC जनगणना अधिनियम के तहत आता है / NRC falls under Census Act",
+      "D": "NPR की जानकारी से NRC तैयार हो सकती है / NRC can be derived from NPR data"
+    },
+    "answer": ["A", "D"]
+  },
+  {
+    "id": 5,
+    "question": "निम्न में से कौन से कथन सही हैं?\nWhich of the following statements are correct?",
+    "options": {
+      "A": "CAA भारतीय मुस्लिमों की नागरिकता को प्रभावित करता है / CAA affects Indian Muslims' citizenship",
+      "B": "CAA, NRC और NPR में परस्पर संबंध हो सकते हैं / CAA, NRC and NPR may be interlinked",
+      "C": "NPR नागरिकता साबित करने का दस्तावेज़ नहीं है / NPR is not proof of citizenship",
+      "D": "CAA केवल पाकिस्तान से आए हिंदुओं पर लागू होता है / CAA applies only to Hindus from Pakistan"
+    },
+    "answer": ["B", "C"]
+  },
+  {
+    "id": 6,
+    "question": "CAA के अंतर्गत नागरिकता किसके लिए प्रदान की जाती है?\nCAA grants citizenship to which category of people?",
+    "options": {
+      "A": "शरणार्थी जो 31 दिसंबर 2014 तक भारत आ गए हों / Refugees who entered India by 31 Dec 2014",
+      "B": "सिर्फ आर्थिक प्रवासियों को / Only economic migrants",
+      "C": "भारत में जन्मे लोग / People born in India",
+      "D": "धार्मिक अल्पसंख्यक (हिंदू, सिख, बौद्ध, जैन, पारसी, ईसाई) / Religious minorities (Hindu, Sikh, Buddhist, Jain, Parsi, Christian)"
+    },
+    "answer": ["A", "D"]
+  },
+  {
+    "id": 7,
+    "question": "NRC की प्रक्रिया में निम्नलिखित में से क्या आवश्यक होता है?\nWhich of the following is required in the NRC process?",
+    "options": {
+      "A": "पूर्वजों के दस्तावेज / Ancestral documents",
+      "B": "राष्ट्रीय पहचान पत्र / National ID card",
+      "C": "स्थायी निवास प्रमाण पत्र / Permanent residence certificate",
+      "D": "जन्म स्थान का प्रमाण / Proof of birthplace"
+    },
+    "answer": ["A", "D"]
+  },
+  {
+    "id": 8,
+    "question": "NPR किसके द्वारा संकलित किया जाता है?\nWho compiles the NPR?",
+    "options": {
+      "A": "भारत के रजिस्ट्रार जनरल / Registrar General of India",
+      "B": "भारत निर्वाचन आयोग / Election Commission of India",
+      "C": "गृह मंत्रालय / Ministry of Home Affairs",
+      "D": "जनगणना आयुक्त / Census Commissioner"
+    },
+    "answer": ["A", "C", "D"]
+  },
+  {
+    "id": 9,
+    "question": "CAA के विरोध के कारणों में कौन-कौन से पहलू प्रमुख थे?\nWhat were the major reasons for protest against CAA?",
+    "options": {
+      "A": "धर्म के आधार पर नागरिकता देना / Citizenship based on religion",
+      "B": "भारतीय मुस्लिमों की नागरिकता छीनना / Stripping citizenship of Indian Muslims",
+      "C": "संविधान के धर्मनिरपेक्ष स्वरूप को चुनौती देना / Challenging secularism of the Constitution",
+      "D": "जाति आधारित भेदभाव / Caste-based discrimination"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 10,
+    "question": "निम्न में से कौन-से दस्तावेज NRC में नागरिकता सिद्ध करने के लिए सहायक हो सकते हैं?\nWhich documents may help prove citizenship in NRC?",
+    "options": {
+      "A": "जन्म प्रमाण पत्र / Birth certificate",
+      "B": "विद्यालय प्रमाण पत्र / School certificate",
+      "C": "राशन कार्ड / Ration card",
+      "D": "पैन कार्ड / PAN card"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 11,
+    "question": "NPR में शामिल जानकारी में निम्न में से क्या हो सकता है?\nWhich of the following may be included in NPR data?",
+    "options": {
+      "A": "नाम और जन्मतिथि / Name and Date of Birth",
+      "B": "माता-पिता की जन्मतिथि और जन्मस्थान / Parents' Date and Place of Birth",
+      "C": "ड्राइविंग लाइसेंस नंबर / Driving license number",
+      "D": "मोबाइल नंबर और ईमेल / Mobile number and Email"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 12,
+    "question": "CAA–NRC–NPR विवाद में संविधान के किस अनुच्छेद का अक्सर हवाला दिया गया?\nWhich Article of the Constitution is often cited in the CAA–NRC–NPR debate?",
+    "options": {
+      "A": "अनुच्छेद 14 (समानता का अधिकार) / Article 14 (Right to Equality)",
+      "B": "अनुच्छेद 15 (धर्म, जाति आदि के आधार पर भेदभाव निषेध) / Article 15 (Prohibition of Discrimination)",
+      "C": "अनुच्छेद 25 (धार्मिक स्वतंत्रता) / Article 25 (Freedom of Religion)",
+      "D": "अनुच्छेद 19 (वाक् स्वतंत्रता) / Article 19 (Freedom of Speech)"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 13,
+    "question": "NPR से किस प्रकार की सरकारी योजनाएं प्रभावित हो सकती हैं?\nWhich types of government schemes may be affected by NPR?",
+    "options": {
+      "A": "जनधन योजना / Jan Dhan Yojana",
+      "B": "राशन वितरण प्रणाली / Public Distribution System (PDS)",
+      "C": "MGNREGA / मनरेगा",
+      "D": "GST कर नीति / GST Tax Policy"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 14,
+    "question": "CAA किस अधिनियम में संशोधन करता है?\nCAA amends which Act?",
+    "options": {
+      "A": "नागरिकता अधिनियम, 1955 / Citizenship Act, 1955",
+      "B": "विदेशी अधिनियम, 1946 / Foreigners Act, 1946",
+      "C": "प्रवासन अधिनियम, 1971 / Immigration Act, 1971",
+      "D": "शरणार्थी संरक्षण अधिनियम, 2002 / Refugee Protection Act, 2002"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 15,
+    "question": "NRC के तहत किसी को 'डाउटफुल वोटर' घोषित किया जा सकता है यदि:\nUnder NRC, someone can be declared a 'Doubtful Voter' if:",
+    "options": {
+      "A": "उनके दस्तावेज असंगत हों / Their documents are inconsistent",
+      "B": "नाम मतदाता सूची में न हो / Name not in electoral roll",
+      "C": "उन पर विदेशी न्यायाधिकरण में मामला लंबित हो / Case pending in Foreigners Tribunal",
+      "D": "वे दो जगहों पर वोट डालें / They vote in two places"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 16,
+    "question": "असम NRC और संभावित अखिल भारतीय NRC में क्या अंतर है?\nWhat is the difference between Assam NRC and All-India NRC?",
+    "options": {
+      "A": "असम NRC सुप्रीम कोर्ट की निगरानी में था / Assam NRC was monitored by Supreme Court",
+      "B": "अखिल भारतीय NRC की अभी घोषणा नहीं हुई / All-India NRC not yet officially announced",
+      "C": "असम NRC में कटऑफ तिथि 24 मार्च 1971 थी / Assam NRC cutoff date was 24 March 1971",
+      "D": "दोनों एक ही तिथि का पालन करते हैं / Both follow same cutoff date"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 17,
+    "question": "CAA में किन धर्मों को शामिल किया गया है?\nWhich religions are included under CAA?",
+    "options": {
+      "A": "हिंदू, सिख, बौद्ध, जैन / Hindu, Sikh, Buddhist, Jain",
+      "B": "पारसी और ईसाई / Parsi and Christian",
+      "C": "मुस्लिम / Muslim",
+      "D": "यहूदी / Jewish"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 18,
+    "question": "NPR डेटा संग्रह में किन विधियों का उपयोग किया जा सकता है?\nWhat methods may be used in NPR data collection?",
+    "options": {
+      "A": "घर-घर जाकर विवरण लेना / Door-to-door enumeration",
+      "B": "आधार आधारित बायोमेट्रिक संग्रह / Aadhaar-based biometric collection",
+      "C": "ऑनलाइन फॉर्म भरना / Filling online forms",
+      "D": "डिजिटल ऐप आधारित संग्रह / Digital app-based collection"
+    },
+    "answer": ["A", "B", "C", "D"]
+  },
+  {
+    "id": 19,
+    "question": "CAA–NRC–NPR के आलोचक किस खतरे की चेतावनी देते हैं?\nWhat threat do critics of CAA–NRC–NPR warn about?",
+    "options": {
+      "A": "सामाजिक ध्रुवीकरण / Social polarization",
+      "B": "मुस्लिमों की नागरिकता छीनना / Revocation of Muslim citizenship",
+      "C": "लाखों की नागरिकता खतरे में पड़ना / Citizenship of lakhs under threat",
+      "D": "जनगणना की विश्वसनीयता पर असर / Impact on credibility of Census"
+    },
+    "answer": ["A", "B", "C", "D"]
+  },
+  {
+    "id": 20,
+    "question": "CAA–NRC–NPR की प्रक्रिया में संविधान की किस मूल भावना को खतरा बताया गया?\nWhich core Constitutional value is said to be under threat in CAA–NRC–NPR process?",
+    "options": {
+      "A": "धर्मनिरपेक्षता / Secularism",
+      "B": "समानता / Equality",
+      "C": "संघवाद / Federalism",
+      "D": "न्याय / Justice"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 21,
+    "question": "हाल ही में सुप्रीम कोर्ट ने 'स्वतंत्र भाषण' को लेकर क्या कहा? / What did the Supreme Court recently say about 'freedom of speech'?",
+    "options": {
+      "A": "राज्य आलोचना से डर नहीं सकता / The State cannot be afraid of criticism",
+      "B": "आलोचना देशद्रोह के बराबर है / Criticism amounts to sedition",
+      "C": "लोकतंत्र में असहमति ज़रूरी है / Dissent is essential in a democracy",
+      "D": "अदालत सरकार के पक्ष में बोलने वालों को प्राथमिकता देती है / Court gives preference to pro-government voices"
+    },
+    "answer": ["A", "C"]
   },
   {
     "id": 22,
-    "question": "संविधान में संशोधन की प्रक्रिया किस अनुच्छेद में दी गई है?",
+    "question": "केन्द्र सरकार ने हाल ही में किस सोशल मीडिया कंटेंट को हटाने का निर्देश दिया जिससे 'freedom of expression' पर बहस हुई? / Which recent government directive raised concerns over freedom of expression?",
     "options": {
-      "A": "अनुच्छेद 368",
-      "B": "अनुच्छेद 356",
-      "C": "अनुच्छेद 352",
-      "D": "अनुच्छेद 320"
+      "A": "BBC डॉक्यूमेंट्री पर प्रतिबंध / Ban on BBC documentary",
+      "B": "X (Twitter) पोस्ट डिलीट करने का निर्देश / Order to delete X (Twitter) posts",
+      "C": "किसी भी WhatsApp चैट पर निगरानी / Surveillance of all WhatsApp chats",
+      "D": "Facebook पर सरकारी विज्ञापन रोकना / Stopping government ads on Facebook"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 23,
-    "question": "निम्नलिखित में से कौन-सा संशोधन 'मूल संरचना सिद्धांत' (Basic Structure Doctrine) से संबंधित है?",
+    "question": "सुप्रीम कोर्ट ने हाल ही में किस केस में कहा कि राज्य को आलोचना सहनी चाहिए? / In which recent case did SC say the State must tolerate criticism?",
     "options": {
-      "A": "24वां संशोधन",
-      "B": "42वां संशोधन",
-      "C": "44वां संशोधन",
-      "D": "केशवानंद भारती बनाम केरल मामला"
+      "A": "महुआ मोइत्रा बनाम केंद्र / Mahua Moitra vs Union of India",
+      "B": "साजिद रशीद बनाम जम्मू-कश्मीर / Sajid Rashid vs J&K",
+      "C": "ट्विटर बनाम सरकार / Twitter vs Government of India",
+      "D": "अर्नब गोस्वामी केस / Arnab Goswami case"
     },
-    "answer": ["D"]
+    "answer": ["B"]
   },
   {
     "id": 24,
-    "question": "42वें संविधान संशोधन द्वारा किसे 'संविधान का लघु रूप' कहा जाता है?",
+    "question": "हाल ही में किस कानून की वैधता पर फिर से चर्चा शुरू हुई क्योंकि वह free speech को प्रभावित करता है? / Which law has come under fresh scrutiny for affecting free speech?",
     "options": {
-      "A": "समाजवाद, धर्मनिरपेक्षता, अखंडता",
-      "B": "संविधान का प्रस्तावना",
-      "C": "अनुच्छेद 368",
-      "D": "न्यायपालिका की स्वतंत्रता"
+      "A": "आईटी एक्ट की धारा 69A / Section 69A of IT Act",
+      "B": "यूएपीए / UAPA",
+      "C": "राजद्रोह कानून / Sedition law",
+      "D": "एनएसए / NSA"
     },
-    "answer": ["B"]
+    "answer": ["A", "C"]
   },
   {
     "id": 25,
-    "question": "संविधान के किस संशोधन ने 'शिक्षा' को समवर्ती सूची में डाला?",
+    "question": "निम्न में से कौन सा कथन 'freedom of expression' के सिद्धांत से मेल खाता है? / Which of the following aligns with the principle of freedom of expression?",
     "options": {
-      "A": "42वां संशोधन, 1976",
-      "B": "86वां संशोधन, 2002",
-      "C": "44वां संशोधन, 1978",
-      "D": "61वां संशोधन, 1989"
+      "A": "सरकार की आलोचना करना देशद्रोह है / Criticising govt is sedition",
+      "B": "सिर्फ लाइसेंस प्राप्त मीडिया को बोलने का अधिकार है / Only licensed media can speak",
+      "C": "प्रेस की स्वतंत्रता लोकतंत्र की रीढ़ है / Free press is the backbone of democracy",
+      "D": "ऑनलाइन अभिव्यक्ति पर भी संविधान का संरक्षण है / Online expression is also protected by Constitution"
     },
-    "answer": ["A"]
+    "answer": ["C", "D"]
   },
   {
     "id": 26,
-    "question": "अनुच्छेद 368 के तहत कौन-से संशोधन राज्य विधानसभाओं की सहमति से ही पारित किए जा सकते हैं?",
+    "question": "सुप्रीम कोर्ट ने राहुल गांधी पर अभिव्यक्ति की स्वतंत्रता के संदर्भ में किस प्रकार प्रतिक्रिया दी? / How did the Supreme Court respond to Rahul Gandhi in the context of freedom of speech?",
     "options": {
-      "A": "संघ-राज्य संबंधों में बदलाव",
-      "B": "न्यायपालिका की शक्तियों में बदलाव",
-      "C": "राज्यसभा की संरचना में बदलाव",
-      "D": "उपरोक्त सभी"
+      "A": "If you are a true Indian… एक असल भारतीय ऐसा बयान नहीं देता / “If you are a true Indian… a real Indian wouldn’t say that.”",
+      "B": "अभिव्यक्ति पर कोई रोक नहीं होनी चाहिए / There should be no restriction on expression at all",
+      "C": "Article 19 guarantees सब कुछ बोलने की छूट / Article 19 guarantees the right to say anything",
+      "D": "SC ने टिप्पणी पर मुकदमा जारी रखा / The Supreme Court allowed the case to continue"
     },
-    "answer": ["D"]
+    "answer": ["A"]
   },
   {
     "id": 27,
-    "question": "24वें संशोधन अधिनियम (1971) का उद्देश्य क्या था?",
+    "question": "राहुल गांधी ने भारत‑चीन सीमा विवाद पर क्या टिप्पणी की थी, जिस पर सुप्रीम कोर्ट ने प्रतिक्रिया दी? / What was Rahul Gandhi’s remark on the India‑China border dispute that drew the Supreme Court’s response?",
     "options": {
-      "A": "मूल अधिकारों को समाप्त करना",
-      "B": "संसद को संविधान संशोधित करने की शक्ति देना",
-      "C": "आपातकालीन शक्तियों को बढ़ाना",
-      "D": "निर्वाचन आयोग को मजबूत बनाना"
+      "A": "China ने 2,000 वर्ग किलोमीटर भारतीय भूमि कब्ज़ा कीया / China annexed 2,000 sq km of Indian territory",
+      "B": "हमारे जवानों को धुनकर मार रहा है चीनी सेना / Chinese Army is thrashing our soldiers",
+      "C": "दोनों बयान सही हैं / Both remarks are correct",
+      "D": "ऐसी कोई टिप्पणी नहीं की थी / He didn’t make any such comment"
     },
-    "answer": ["B"]
+    "answer": ["A", "B"]
   },
   {
     "id": 28,
-    "question": "संविधान संशोधन विधेयक पास करने के लिए संसद में कितने बहुमत की आवश्यकता होती है?",
+    "theme": "Hemant Malviya Cartoon Case",
+    "question": "सुप्रीम कोर्ट ने कार्टूनिस्ट हेमंत मलविया के बारे में किस प्रकार रुख अपनाया? / How did the Supreme Court respond in the case of cartoonist Hemant Malviya?",
     "options": {
-      "A": "सरल बहुमत",
-      "B": "2/3 उपस्थित और मतदान करने वालों का तथा कुल सदस्य संख्या का बहुमत",
-      "C": "3/4 बहुमत",
-      "D": "अनुच्छेद 360 के अनुसार बहुमत"
+      "A": "‘अभिव्यक्ति का दुरुपयोग’ कहा / Called it ‘abuse of expression’",
+      "B": "बिना शर्त अंतरिम सुरक्षा दी / Granted unconditional interim protection",
+      "C": "उसे गिरफ्तार करने का आदेश दिया / Ordered his arrest",
+      "D": "पोस्ट हटाने और माफी की चेतावनी दी / Deletion of post and apology warned"
     },
-    "answer": ["B"]
+    "answer": ["A", "D"]
   },
   {
     "id": 29,
-    "question": "कौन-सा संशोधन 'प्रस्तावना' में 'समाजवादी', 'धर्मनिरपेक्ष', और 'राष्ट्रीय एकता' शब्द जोड़ता है?",
+    "theme": "Hemant Malviya Cartoon Case",
+    "question": "कांग्रेस ने कोर्ट में क्या तर्क दिया जब मलविया का मामला सुना गया? / What argument was presented in court in favor of Malviya’s case?",
     "options": {
-      "A": "44वां संशोधन",
-      "B": "52वां संशोधन",
-      "C": "42वां संशोधन",
-      "D": "73वां संशोधन"
+      "A": "वह केवल कार्टून पोस्ट कर रहा था; टिप्पणियाँ किसी और की थीं / He only posted the cartoon; comments were by someone else",
+      "B": "कार्टून ने अशांति उत्पन्न की / Cartoon caused law-and-order issues",
+      "C": "उनका इरादा कोई दुर्भावना नहीं था / No malafide intention in his work",
+      "D": "फौरन जेल भेजा जाए / He should be jailed immediately"
     },
-    "answer": ["C"]
+    "answer": ["A", "C"]
   },
   {
     "id": 30,
-    "question": "केशवानंद भारती केस में सुप्रीम कोर्ट का क्या निर्णय था?",
+    "theme": "Kashmir Book Ban",
+    "question": "क्यों जम्मू‑कश्मीर प्रशासन ने 25 किताबों को प्रतिबंधित किया? / Why did the J&K administration ban 25 books?",
     "options": {
-      "A": "संसद संविधान के किसी भी भाग को संशोधित कर सकती है",
-      "B": "मूल संरचना को नहीं बदला जा सकता",
-      "C": "संशोधन पर राष्ट्रपति की स्वीकृति आवश्यक नहीं",
-      "D": "राज्यों की सहमति आवश्यक नहीं"
+      "A": "‘सेपरेशनिज्म’ और ‘झूठी व्याख्या’ फैलाने के लिए / For propagating secessionism and false narratives",
+      "B": "व्यक्तिगत पहचान लीक होने के कारण / Due to personal data leak",
+      "C": "जातीय मैत्री बढ़ाने के लिए / To promote communal harmony",
+      "D": "शिक्षा में सुधार के लिए / For educational reform"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 31,
-    "question": "86वां संशोधन, 2002 द्वारा किस मौलिक अधिकार को जोड़ा गया?",
+    "theme": "Kashmir Book Ban",
+    "question": "कितनों किताबों को 'forfeited' घोषित किया गया है और क्या ये कार्रवाई Bhartiya Nagarik Suraksha Sanhita 2023 के तहत हुई? / How many books were declared ‘forfeited’ and under which law?",
     "options": {
-      "A": "अनुच्छेद 19(1)(g) – व्यवसाय का अधिकार",
-      "B": "अनुच्छेद 21A – शिक्षा का अधिकार",
-      "C": "अनुच्छेद 30 – अल्पसंख्यक संस्थान",
-      "D": "अनुच्छेद 20 – दंड प्रक्रिया सुरक्षा"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 32,
-    "question": "भारत के संविधान में अब तक कुल कितने संशोधन (August 2025 तक) किए जा चुके हैं?",
-    "options": {
-      "A": "97",
-      "B": "104",
-      "C": "106",
-      "D": "128"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 33,
-    "question": "संविधान संशोधन की प्रक्रिया किन-किन प्रकारों में विभाजित की जाती है?",
-    "options": {
-      "A": "केवल संसद द्वारा",
-      "B": "संसद द्वारा और कुछ मामलों में राज्यों की सहमति के साथ",
-      "C": "केवल राष्ट्रपति द्वारा",
-      "D": "लोकसभा द्वारा साधारण विधेयक के रूप में"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 34,
-    "question": "निम्नलिखित में से कौन-सा कथन सही है?\nWhich of the following is correct?",
-    "options": {
-      "A": "संविधान संशोधन विधेयक राष्ट्रपति द्वारा अस्वीकार किया जा सकता है",
-      "B": "संविधान संशोधन विधेयक संयुक्त सत्र द्वारा पारित होता है",
-      "C": "संविधान संशोधन विधेयक राष्ट्रपति की स्वीकृति के बिना प्रभाव में नहीं आता",
-      "D": "राष्ट्रपति को संशोधन विधेयक पर वीटो अधिकार है"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 35,
-    "question": "संविधान संशोधन की प्रक्रिया का कौन-सा पहलू भारतीय संविधान को कठोर बनाता है?",
-    "options": {
-      "A": "राज्यों की सहमति की आवश्यकता",
-      "B": "राष्ट्रपति की सलाह",
-      "C": "संसद की साधारण बहुमत",
-      "D": "संघीय सूची के संशोधन की अनुमति"
+      "A": "25 किताबें, Bhartiya Nagarik Suraksha Sanhita 2023 के तहत / 25 books, under BNSS 2023",
+      "B": "10 किताबें, Indian Penal Code के तहत / 10 books, under IPC",
+      "C": "25 किताबें, Copyright Law के तहत / 25 books, under Copyright Law",
+      "D": "50 किताबें, National Security Act के तहत / 50 books, under NSA"
     },
     "answer": ["A"]
-  },
-  {
-    "id": 36,
-    "question": "क्या संविधान संशोधन विधेयक को राज्यसभा में शुरू किया जा सकता है?",
-    "options": {
-      "A": "हाँ",
-      "B": "नहीं",
-      "C": "केवल वित्त विधेयक की तरह लोकसभा में ही",
-      "D": "राष्ट्रपति की अनुमति से ही"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 37,
-    "question": "संविधान संशोधन के लिए राज्यों की कितनी संख्या की सहमति आवश्यक है (जहां सहमति जरूरी हो)?",
-    "options": {
-      "A": "1/3 राज्यों की",
-      "B": "1/2 राज्यों की",
-      "C": "2/3 राज्यों की",
-      "D": "सभी राज्यों की"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 38,
-    "question": "संविधान संशोधन किस सूची (List) के अंतर्गत आता है?",
-    "options": {
-      "A": "संघ सूची (Union List)",
-      "B": "राज्य सूची (State List)",
-      "C": "समवर्ती सूची (Concurrent List)",
-      "D": "कोई सूची नहीं, विशेष श्रेणी"
-    },
-    "answer": ["D"]
-  },
-  {
-    "id": 39,
-    "question": "किस संशोधन द्वारा दल-बदल (Anti-Defection) कानून जोड़ा गया था?",
-    "options": {
-      "A": "44वां संशोधन",
-      "B": "52वां संशोधन",
-      "C": "61वां संशोधन",
-      "D": "73वां संशोधन"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 40,
-    "question": "73वां संविधान संशोधन मुख्यतः किस विषय से संबंधित है?",
-    "options": {
-      "A": "लोकपाल और लोकायुक्त",
-      "B": "दल-बदल विरोधी कानून",
-      "C": "पंचायती राज संस्थाएं",
-      "D": "शिक्षा का अधिकार"
-    },
-    "answer": ["C"]
   }
 ]
 
 
 
-
+ 
 
