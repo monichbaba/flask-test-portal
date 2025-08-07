@@ -1,222 +1,262 @@
 [
   {
     "id": 1,
-    "question": "Article 324 भारतीय संविधान में किससे संबंधित है? / What does Article 324 of the Indian Constitution relate to?",
+    "question": "अनुच्छेद 343 किस विषय में है? / What does Article 343 deal with?",
     "options": {
-      "A": "न्यायपालिका / Judiciary",
-      "B": "चुनाव आयोग / Election Commission",
-      "C": "वित्त आयोग / Finance Commission",
-      "D": "संघीय संसद / Union Parliament"
+      "A": "संविधान की व्याख्या / Interpretation of Constitution",
+      "B": "भारत की राजभाषा / Official language of India",
+      "C": "राज्यपाल की शक्तियाँ / Powers of Governor",
+      "D": "राज्य विधानमंडलों की भाषा / Language of state legislatures"
     },
-    "answer": ["B"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 2,
-    "question": "भारत में चुनाव आयोग की स्थापना किस अनुच्छेद के तहत होती है? / Under which Article is the Election Commission of India established?",
+    "question": "भारत की राजभाषा क्या घोषित की गई है? / What has been declared as the official language of India?",
     "options": {
-      "A": "322",
-      "B": "324",
-      "C": "326",
-      "D": "328"
+      "A": "अंग्रेजी / English",
+      "B": "हिंदी (देवनागरी लिपि में) / Hindi in Devanagari script",
+      "C": "संस्कृत / Sanskrit",
+      "D": "उर्दू / Urdu"
     },
-    "answer": ["B"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 3,
-    "question": "Article 326 किस बात से संबंधित है? / What is Article 326 related to?",
+    "question": "अनुच्छेद 344 किससे संबंधित है? / What does Article 344 relate to?",
     "options": {
-      "A": "अनुच्छेदों की व्याख्या / Interpretation of Articles",
-      "B": "वयस्क मताधिकार / Adult suffrage",
-      "C": "संविधान संशोधन / Constitutional amendment",
-      "D": "राज्य विधानमंडल की शक्तियाँ / Powers of state legislature"
+      "A": "राज्य की भाषा / State Language",
+      "B": "राजभाषा आयोग / Commission and Committee on official language",
+      "C": "हिंदी का प्रचार / Promotion of Hindi",
+      "D": "अल्पसंख्यकों के अधिकार / Minority Rights"
     },
-    "answer": ["B"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 4,
-    "question": "चुनावों के संचालन का अधिकार किसे प्राप्त है? / Who has the authority to supervise and conduct elections in India?",
+    "question": "अनुच्छेद 345 का प्रमुख उद्देश्य क्या है? / What is the main purpose of Article 345?",
     "options": {
-      "A": "संसद / Parliament",
-      "B": "विधानसभा / Legislative Assembly",
-      "C": "चुनाव आयोग / Election Commission",
-      "D": "राष्ट्रपति / President"
+      "A": "राज्यपाल की शक्तियाँ / Powers of Governor",
+      "B": "राज्य विधान की भाषा / Language of State Legislatures",
+      "C": "संविधान संशोधन प्रक्रिया / Constitutional Amendment",
+      "D": "राज्यसभा की नियुक्ति / Appointment to Rajya Sabha"
     },
-    "answer": ["C"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 5,
-    "question": "वर्तमान में भारत के मुख्य चुनाव आयुक्त कौन हैं (2024–25)? / Who is the current Chief Election Commissioner of India (2024–25)?",
+    "question": "राज्य की कार्यपालिका और विधायिका किस भाषा में कार्य कर सकती है? / In which language can the State executive and legislature work?",
     "options": {
-      "A": "राजीव कुमार / Rajiv Kumar",
-      "B": "सुशील चंद्रा / Sushil Chandra",
-      "C": "अचल कुमार ज्योति / Achal Kumar Joti",
-      "D": "नसीम जैदी / Nasim Zaidi"
+      "A": "केवल हिंदी / Only Hindi",
+      "B": "राज्य द्वारा अधिसूचित कोई भी भाषा / Any language notified by the State",
+      "C": "केवल अंग्रेजी / Only English",
+      "D": "संविधान में सूचीबद्ध भाषा / Language listed in Constitution only"
     },
-    "answer": ["A"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 6,
-    "question": "Article 325 का उद्देश्य क्या है? / What is the purpose of Article 325?",
+    "question": "अनुच्छेद 346 किस विषय से संबंधित है? / Article 346 deals with:",
     "options": {
-      "A": "संविधान में धर्म की स्वतंत्रता / Freedom of religion",
-      "B": "चुनाव सूची में भेदभाव की मनाही / No discrimination in electoral rolls",
-      "C": "वित्तीय आपातकाल / Financial emergency",
-      "D": "राज्यपाल की शक्तियाँ / Powers of Governor"
+      "A": "राज्यपाल का कर्तव्य / Duties of Governor",
+      "B": "राज्यों के बीच राजभाषा / Official language for communication between states",
+      "C": "न्यायपालिका की भाषा / Language of Judiciary",
+      "D": "नागरिकता के अधिकार / Rights of Citizenship"
     },
-    "answer": ["B"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 7,
-    "question": "किस संशोधन द्वारा मतदाता की आयु 21 से घटाकर 18 वर्ष की गई? / Which Amendment reduced the voting age from 21 to 18?",
+    "question": "अनुच्छेद 348 में किसकी भाषा का उल्लेख है? / What does Article 348 specify language for?",
     "options": {
-      "A": "42वाँ संशोधन / 42nd Amendment",
-      "B": "44वाँ संशोधन / 44th Amendment",
-      "C": "61वाँ संशोधन / 61st Amendment",
-      "D": "73वाँ संशोधन / 73rd Amendment"
+      "A": "संसद की कार्यवाही / Proceedings of Parliament",
+      "B": "उच्च न्यायालय और विधायी कार्य / High Courts and legislative proceedings",
+      "C": "राष्ट्रपति की घोषणाएं / Presidential addresses",
+      "D": "राज्यसभा में बहस / Debates in Rajya Sabha"
     },
-    "answer": ["C"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 8,
-    "question": "Article 328 किससे संबंधित है? / What does Article 328 deal with?",
+    "question": "अनुच्छेद 349 के अनुसार हिंदी के प्रचार से पूर्व किसकी सिफारिश आवश्यक है? / As per Article 349, whose recommendation is required before promoting Hindi officially?",
     "options": {
-      "A": "राज्यों के लिए चुनावों के कानून बनाना / Laws by State Legislatures on elections",
-      "B": "संसदीय चुनावों की अधिसूचना / Parliamentary election notifications",
-      "C": "राज्यपाल की नियुक्ति / Appointment of Governor",
-      "D": "चुनाव आयोग की शक्तियाँ / Powers of Election Commission"
+      "A": "प्रधानमंत्री / Prime Minister",
+      "B": "राज्यसभा / Rajya Sabha",
+      "C": "राष्ट्रपति / President",
+      "D": "राजभाषा आयोग / Official Language Commission"
     },
-    "answer": ["A"]
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 9,
-    "question": "Article 329 क्या कहता है? / What does Article 329 say?",
+    "question": "अनुच्छेद 350 किस विषय से संबंधित है? / Article 350 relates to:",
     "options": {
-      "A": "चुनाव याचिकाओं को अनुमति देता है / Allows election petitions",
-      "B": "चुनाव से जुड़े न्यायिक हस्तक्षेप पर रोक / Bars judicial interference in elections (except by petition)",
-      "C": "चुनाव आयोग के अधिकार सीमित करता है / Limits powers of Election Commission",
-      "D": "सांसदों की अयोग्यता / Disqualification of MPs"
+      "A": "राज्य की भाषा / State Language",
+      "B": "भाषा आधारित शिकायतों की सुनवाई का अधिकार / Right to submit representation in any language",
+      "C": "पिछड़े वर्ग की परिभाषा / Definition of backward class",
+      "D": "अनुच्छेदों की व्याख्या / Interpretation of Articles"
     },
-    "answer": ["B"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 10,
-    "question": "चुनाव आयोग के सदस्यों की नियुक्ति कौन करता है? / Who appoints the members of the Election Commission?",
+    "question": "अनुच्छेद 351 किसका प्रावधान करता है? / Article 351 provides for:",
     "options": {
-      "A": "प्रधानमंत्री / Prime Minister",
-      "B": "मुख्य न्यायाधीश / Chief Justice",
-      "C": "राष्ट्रपति / President",
-      "D": "लोकसभा अध्यक्ष / Lok Sabha Speaker"
+      "A": "हिंदी के प्रचार और विकास / Promotion and development of Hindi",
+      "B": "अंग्रेजी के उपयोग को समाप्त करना / Abolition of English usage",
+      "C": "संस्कृत भाषा का पुनरुत्थान / Revival of Sanskrit",
+      "D": "अल्पसंख्यक शिक्षा / Minority Education"
     },
-    "answer": ["C"]
+    "answer": [
+      "A"
+    ]
   },
   {
     "id": 11,
-    "question": "चुनाव आयोग का कार्यकाल कितना होता है? / What is the tenure of the Election Commissioners?",
+    "question": "अनुच्छेद 352 किस प्रकार की आपातकाल स्थिति से संबंधित है? / Article 352 relates to which type of emergency?",
     "options": {
-      "A": "5 वर्ष या 65 वर्ष की आयु / 5 years or 65 years of age",
-      "B": "6 वर्ष या 62 वर्ष की आयु / 6 years or 62 years of age",
-      "C": "4 वर्ष या 60 वर्ष की आयु / 4 years or 60 years of age",
-      "D": "7 वर्ष या 67 वर्ष की आयु / 7 years or 67 years of age"
+      "A": "राज्य विफलता / Failure of constitutional machinery in state",
+      "B": "राष्ट्रीय आपातकाल / National Emergency",
+      "C": "आर्थिक आपातकाल / Financial Emergency",
+      "D": "न्यायिक संकट / Judicial Crisis"
     },
-    "answer": ["A"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 12,
-    "question": "भारत में चुनाव आयोग की स्थापना कब हुई थी? / When was the Election Commission of India established?",
+    "question": "राष्ट्रीय आपातकाल की उद्घोषणा कौन करता है? / Who proclaims National Emergency?",
     "options": {
-      "A": "1947",
-      "B": "1949",
-      "C": "1950",
-      "D": "1952"
+      "A": "प्रधानमंत्री / Prime Minister",
+      "B": "गृह मंत्री / Home Minister",
+      "C": "राष्ट्रपति / President",
+      "D": "संसद / Parliament"
     },
-    "answer": ["C"]
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 13,
-    "question": "भारत में पहला आम चुनाव कब हुआ? / When was the first General Election held in India?",
+    "question": "किस संशोधन ने अनुच्छेद 352 में 'लिखित रूप में मंत्रिपरिषद की सलाह' को आवश्यक बनाया? / Which amendment made 'written advice of Cabinet' mandatory in Article 352?",
     "options": {
-      "A": "1949-50",
-      "B": "1951-52",
-      "C": "1952-53",
-      "D": "1954-55"
+      "A": "38वां / 38th",
+      "B": "42वां / 42nd",
+      "C": "44वां / 44th",
+      "D": "52वां / 52nd"
     },
-    "answer": ["B"]
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 14,
-    "question": "क्या चुनाव आयोग एक स्वतंत्र निकाय है? / Is the Election Commission an independent body?",
+    "question": "आपातकाल के दौरान संसद को क्या विशेष शक्ति प्राप्त होती है? / What special power does the Parliament acquire during Emergency?",
     "options": {
-      "A": "हाँ / Yes",
-      "B": "नहीं / No",
-      "C": "संसद के नियंत्रण में / Under Parliament",
-      "D": "न्यायपालिका के अधीन / Under Judiciary"
+      "A": "राज्य सूची पर कानून बनाने की / Power to legislate on State List",
+      "B": "राज्यपाल की नियुक्ति / Appointment of Governors",
+      "C": "न्यायपालिका को भंग करना / Dissolve Judiciary",
+      "D": "विधानसभा को नामित करना / Nominate Assembly members"
     },
-    "answer": ["A"]
+    "answer": [
+      "A"
+    ]
   },
   {
     "id": 15,
-    "question": "भारत का मुख्य चुनाव आयुक्त किस अनुच्छेद के अंतर्गत हटाया जा सकता है? / Under which Article can the Chief Election Commissioner be removed?",
+    "question": "अनुच्छेद 356 किस स्थिति में लागू होता है? / Under what condition is Article 356 invoked?",
     "options": {
-      "A": "324",
-      "B": "145",
-      "C": "75",
-      "D": "मानवाधिकार कानून / HR Act"
+      "A": "युद्ध की स्थिति / Situation of war",
+      "B": "राज्य में संवैधानिक विफलता / Constitutional breakdown in state",
+      "C": "वित्तीय संकट / Financial crisis",
+      "D": "महामारी / Pandemic"
     },
-    "answer": ["A"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 16,
-    "question": "क्या चुनाव आयोग की सिफारिश बाध्यकारी होती है? / Are the recommendations of the Election Commission binding?",
+    "question": "Article 356 की पहली बार घोषणा कब की गई थी? / When was Article 356 first invoked?",
     "options": {
-      "A": "हाँ / Yes",
-      "B": "नहीं / No",
-      "C": "कुछ मामलों में / In some cases",
-      "D": "सिर्फ राष्ट्रपति के लिए / Only for President"
+      "A": "1950 में पंजाब / 1950 in Punjab",
+      "B": "1951 में बिहार / 1951 in Bihar",
+      "C": "1959 में केरल / 1959 in Kerala",
+      "D": "1962 में नागालैंड / 1962 in Nagaland"
     },
-    "answer": ["C"]
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 17,
-    "question": "चुनाव आयोग किस चुनाव को नहीं कराता? / Which election is NOT conducted by Election Commission?",
+    "question": "Article 360 किससे संबंधित है? / What does Article 360 deal with?",
     "options": {
-      "A": "लोकसभा चुनाव / Lok Sabha election",
-      "B": "राज्यसभा चुनाव / Rajya Sabha election",
-      "C": "पंचायत चुनाव / Panchayat elections",
-      "D": "विधानसभा चुनाव / State Assembly elections"
+      "A": "राज्यपाल की शक्तियाँ / Powers of Governor",
+      "B": "वित्तीय आपातकाल / Financial Emergency",
+      "C": "राष्ट्रीय सुरक्षा अधिनियम / National Security Act",
+      "D": "निर्वाचन आयोग / Election Commission"
     },
-    "answer": ["C"]
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 18,
-    "question": "भारत में राष्ट्रपति चुनाव किसके पर्यवेक्षण में होता है? / Under whose supervision is the Presidential election held in India?",
+    "question": "भारत में अब तक कितनी बार वित्तीय आपातकाल लगाया गया है? / How many times has Financial Emergency been proclaimed in India?",
     "options": {
-      "A": "संसद / Parliament",
-      "B": "राष्ट्रपति / President",
-      "C": "चुनाव आयोग / Election Commission",
-      "D": "मुख्य न्यायाधीश / Chief Justice"
+      "A": "1 बार / Once",
+      "B": "2 बार / Twice",
+      "C": "3 बार / Thrice",
+      "D": "कभी नहीं / Never"
     },
-    "answer": ["C"]
+    "answer": [
+      "D"
+    ]
   },
   {
     "id": 19,
-    "question": "भारत में मतदाता सूची कौन तैयार करता है? / Who prepares the voter list in India?",
+    "question": "Emergency के दौरान Article 19 को कौन-से संशोधन ने अस्थायी रूप से निलंबित कर दिया था? / Which amendment temporarily suspended Article 19 during Emergency?",
     "options": {
-      "A": "राज्य सरकार / State Government",
-      "B": "लोकसभा / Lok Sabha",
-      "C": "चुनाव आयोग / Election Commission",
-      "D": "वित्त मंत्रालय / Finance Ministry"
+      "A": "42वां / 42nd",
+      "B": "38वां / 38th",
+      "C": "44वां / 44th",
+      "D": "52वां / 52nd"
     },
-    "answer": ["C"]
+    "answer": [
+      "A"
+    ]
   },
   {
     "id": 20,
-    "question": "चुनाव याचिका किसके समक्ष दायर की जाती है? / Before whom is the election petition filed?",
+    "question": "किस अनुच्छेद के तहत राष्ट्रपति, राज्य के कार्यों को अपने अधीन ले सकते हैं? / Under which Article can the President assume functions of a state?",
     "options": {
-      "A": "संसद / Parliament",
-      "B": "उच्च न्यायालय / High Court",
-      "C": "राष्ट्रपति / President",
-      "D": "चुनाव आयोग / Election Commission"
+      "A": "352",
+      "B": "355",
+      "C": "356",
+      "D": "360"
     },
-    "answer": ["B"]
+    "answer": [
+      "C"
+    ]
   }
 ]
