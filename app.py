@@ -3,7 +3,7 @@ import json
 
 app = Flask(__name__)
 
-PASSWORD = "123"
+PASSWORD = "jaihind"
 
 with open('mcqs/questions.json', 'r', encoding='utf-8') as f:
     questions = json.load(f)
