@@ -1381,5 +1381,449 @@
         "answer": [
             "A"
         ]
-    }
+    },
+    {
+    "id": 101,
+    "question": "भारत से कौन-कौन से कृषि उत्पाद प्रमुख रूप से निर्यात होते हैं? / Which agricultural products are primarily exported from India?",
+    "options": {
+      "A": "चावल (Rice)",
+      "B": "गन्ना (Sugarcane)",
+      "C": "चना (Chickpeas)",
+      "D": "गेहूं (Wheat)"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 102,
+    "question": "भारत में दूध उत्पादन के लिए सबसे प्रमुख पशु कौन सा है? / Which is the most important animal for milk production in India?",
+    "options": {
+      "A": "गाय (Cow)",
+      "B": "भैंस (Buffalo)",
+      "C": "भेड़ (Sheep)",
+      "D": "बकरी (Goat)"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 103,
+    "question": "भारत से निर्यात होने वाले फल कौन-कौन से हैं? / Which fruits are exported from India?",
+    "options": {
+      "A": "आम (Mango)",
+      "B": "केला (Banana)",
+      "C": "संतरा (Orange)",
+      "D": "अंगूर (Grapes)"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 104,
+    "question": "भारत में दूध का प्रमुख निर्यात बाजार कौन सा है? / Which is the major export market for Indian dairy products?",
+    "options": {
+      "A": "मध्य पूर्व (Middle East)",
+      "B": "यूरोप (Europe)",
+      "C": "संयुक्त राज्य अमेरिका (USA)",
+      "D": "अफ्रीका (Africa)"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 105,
+    "question": "भारत किस फल का सबसे बड़ा उत्पादक और निर्यातक है? / India is the largest producer and exporter of which fruit?",
+    "options": {
+      "A": "आम (Mango)",
+      "B": "सेब (Apple)",
+      "C": "संतरा (Orange)",
+      "D": "अनार (Pomegranate)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 106,
+    "question": "भारत में डेयरी उत्पादों के निर्यात में सबसे अधिक वृद्धि किस वर्ष हुई? / In which year did India witness the highest growth in dairy exports?",
+    "options": {
+      "A": "2018-19",
+      "B": "2019-20",
+      "C": "2020-21",
+      "D": "2021-22"
+    },
+    "answer": ["D"]
+  },
+  {
+    "id": 107,
+    "question": "नीचे दिए गए कौन से उत्पाद भारत के कृषि निर्यात में शामिल नहीं हैं? / Which of the following is NOT part of India’s agricultural exports?",
+    "options": {
+      "A": "चाय (Tea)",
+      "B": "कपास (Cotton)",
+      "C": "पेट्रोलियम (Petroleum)",
+      "D": "मसाले (Spices)"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 108,
+    "question": "भारत में डेयरी उत्पादों के निर्यात के लिए प्रमुख चुनौतियां क्या हैं? (एक से अधिक सही विकल्प चुनें) / What are the major challenges for dairy exports from India? (Select all that apply)",
+    "options": {
+      "A": "शीतलन श्रृंखला की कमी (Lack of cold chain infrastructure)",
+      "B": "उच्च उत्पादन लागत (High production cost)",
+      "C": "व्यापार प्रतिबंध (Trade restrictions)",
+      "D": "अंतरराष्ट्रीय गुणवत्ता मानक (International quality standards)"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 109,
+    "question": "भारत के कृषि निर्यात में किस राज्य का योगदान सबसे अधिक है? / Which state contributes the most to India’s agricultural exports?",
+    "options": {
+      "A": "महाराष्ट्र (Maharashtra)",
+      "B": "उत्तर प्रदेश (Uttar Pradesh)",
+      "C": "तमिलनाडु (Tamil Nadu)",
+      "D": "कर्नाटक (Karnataka)"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 110,
+    "question": "भारत के फल निर्यात में मुख्य निर्यातक देश कौन से हैं? (एक से अधिक सही विकल्प चुनें) / Which are the major countries importing Indian fruits? (Select all that apply)",
+    "options": {
+      "A": "संयुक्त अरब अमीरात (UAE)",
+      "B": "संयुक्त राज्य अमेरिका (USA)",
+      "C": "रूस (Russia)",
+      "D": "चीन (China)"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 111,
+    "question": "भारत के फल निर्यात में निम्नलिखित देशों को निर्यात बढ़ाने के क्रम में सही क्रम बताएं। / Arrange the following countries in ascending order of India’s fruit export growth:",
+    "options": {
+      "A": "रूस, संयुक्त अरब अमीरात, संयुक्त राज्य अमेरिका, चीन (Russia, UAE, USA, China)",
+      "B": "संयुक्त अरब अमीरात, रूस, चीन, संयुक्त राज्य अमेरिका (UAE, Russia, China, USA)",
+      "C": "संयुक्त राज्य अमेरिका, संयुक्त अरब अमीरात, रूस, चीन (USA, UAE, Russia, China)",
+      "D": "चीन, संयुक्त राज्य अमेरिका, संयुक्त अरब अमीरात, रूस (China, USA, UAE, Russia)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 112,
+    "question": "भारत के कृषि निर्यात में निम्नलिखित राज्यों को निर्यात योगदान के हिसाब से ascending क्रम में लगाएं। / Arrange the following states in ascending order of their contribution to India’s agricultural exports:",
+    "options": {
+      "A": "उत्तर प्रदेश, महाराष्ट्र, तमिलनाडु, कर्नाटक (Uttar Pradesh, Maharashtra, Tamil Nadu, Karnataka)",
+      "B": "तमिलनाडु, कर्नाटक, उत्तर प्रदेश, महाराष्ट्र (Tamil Nadu, Karnataka, Uttar Pradesh, Maharashtra)",
+      "C": "कर्नाटक, तमिलनाडु, महाराष्ट्र, उत्तर प्रदेश (Karnataka, Tamil Nadu, Maharashtra, Uttar Pradesh)",
+      "D": "महाराष्ट्र, उत्तर प्रदेश, कर्नाटक, तमिलनाडु (Maharashtra, Uttar Pradesh, Karnataka, Tamil Nadu)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 113,
+    "question": "भारत में डेयरी उत्पादों के निर्यात वृद्धि के वर्षों को बढ़ते क्रम में लगाएं। / Arrange the years in ascending order of growth in dairy exports from India:",
+    "options": {
+      "A": "2018-19, 2019-20, 2020-21, 2021-22",
+      "B": "2019-20, 2018-19, 2021-22, 2020-21",
+      "C": "2021-22, 2020-21, 2019-20, 2018-19",
+      "D": "2020-21, 2019-20, 2018-19, 2021-22"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 114,
+    "question": "भारत किस क्रम में निम्नलिखित कृषि उत्पादों का निर्यात बढ़ा रहा है? / In which ascending order is India increasing the export of the following agricultural products?",
+    "options": {
+      "A": "चना, गेहूं, चावल, गन्ना (Chickpeas, Wheat, Rice, Sugarcane)",
+      "B": "गेहूं, गन्ना, चावल, चना (Wheat, Sugarcane, Rice, Chickpeas)",
+      "C": "गन्ना, गेहूं, चना, चावल (Sugarcane, Wheat, Chickpeas, Rice)",
+      "D": "चावल, चना, गेहूं, गन्ना (Rice, Chickpeas, Wheat, Sugarcane)"
+    },
+    "answer": ["D"]
+  },
+  {
+    "id": 115,
+    "question": "भारत किस देश से सबसे कम से सबसे अधिक कृषि निर्यात करता है? / Arrange the following countries in ascending order of India's agricultural exports:",
+    "options": {
+      "A": "संयुक्त राज्य अमेरिका, रूस, चीन, संयुक्त अरब अमीरात (USA, Russia, China, UAE)",
+      "B": "रूस, संयुक्त राज्य अमेरिका, संयुक्त अरब अमीरात, चीन (Russia, USA, UAE, China)",
+      "C": "संयुक्त अरब अमीरात, रूस, चीन, संयुक्त राज्य अमेरिका (UAE, Russia, China, USA)",
+      "D": "चीन, संयुक्त अरब अमीरात, संयुक्त राज्य अमेरिका, रूस (China, UAE, USA, Russia)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 116,
+    "question": "भारत के निम्नलिखित फलों के निर्यात में वृद्धि के क्रम में सही क्रम बताएं। / Arrange the following fruits in ascending order of export growth from India:",
+    "options": {
+      "A": "केला, अंगूर, आम, संतरा (Banana, Grapes, Mango, Orange)",
+      "B": "संतरा, केला, आम, अंगूर (Orange, Banana, Mango, Grapes)",
+      "C": "अंगूर, केला, संतरा, आम (Grapes, Banana, Orange, Mango)",
+      "D": "केला, संतरा, आम, अंगूर (Banana, Orange, Mango, Grapes)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 117,
+    "question": "भारत में दूध उत्पादन के लिए निम्न पशुओं को उत्पादन क्षमता के ascending क्रम में लगाएं। / Arrange the following animals in ascending order of milk production capacity in India:",
+    "options": {
+      "A": "भैंस, गाय, बकरी, भेड़ (Buffalo, Cow, Goat, Sheep)",
+      "B": "बकरी, भेड़, गाय, भैंस (Goat, Sheep, Cow, Buffalo)",
+      "C": "गाय, भैंस, बकरी, भेड़ (Cow, Buffalo, Goat, Sheep)",
+      "D": "भेड़, बकरी, गाय, भैंस (Sheep, Goat, Cow, Buffalo)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 118,
+    "question": "भारत में कृषि उत्पादों के निर्यात में निम्नलिखित फसलों को निर्यात मात्रा के ascending क्रम में लगाएं। / Arrange the following crops in ascending order of export volume from India:",
+    "options": {
+      "A": "गन्ना, चना, चावल, गेहूं (Sugarcane, Chickpeas, Rice, Wheat)",
+      "B": "चना, गेहूं, गन्ना, चावल (Chickpeas, Wheat, Sugarcane, Rice)",
+      "C": "गेहूं, गन्ना, चावल, चना (Wheat, Sugarcane, Rice, Chickpeas)",
+      "D": "चावल, गेहूं, चना, गन्ना (Rice, Wheat, Chickpeas, Sugarcane)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 4,
+    "question": "भारत के फल निर्यात में मुख्य निर्यातक देशों को निर्यात मात्रा के ascending क्रम में लगाएं। / Arrange the following countries in ascending order of Indian fruit exports:",
+    "options": {
+      "A": "रूस, चीन, संयुक्त अरब अमीरात, संयुक्त राज्य अमेरिका (Russia, China, UAE, USA)",
+      "B": "संयुक्त राज्य अमेरिका, रूस, संयुक्त अरब अमीरात, चीन (USA, Russia, UAE, China)",
+      "C": "संयुक्त अरब अमीरात, रूस, संयुक्त राज्य अमेरिका, चीन (UAE, Russia, USA, China)",
+      "D": "चीन, संयुक्त राज्य अमेरिका, रूस, संयुक्त अरब अमीरात (China, USA, Russia, UAE)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 119,
+    "question": "भारत के डेयरी उत्पादों के निर्यात में निम्नलिखित वर्षों को निर्यात वृद्धि के ascending क्रम में लगाएं। / Arrange the following years in ascending order of dairy export growth from India:",
+    "options": {
+      "A": "2018-19, 2019-20, 2020-21, 2021-22",
+      "B": "2019-20, 2018-19, 2021-22, 2020-21",
+      "C": "2021-22, 2020-21, 2019-20, 2018-19",
+      "D": "2020-21, 2019-20, 2018-19, 2021-22"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 120,
+    "question": "उत्तर प्रदेश का प्रमुख निर्यात कृषि उत्पाद कौन सा है? / What is the major agricultural export product of Uttar Pradesh?",
+    "options": {
+      "A": "गन्ना (Sugarcane)",
+      "B": "गेहूं (Wheat)",
+      "C": "चावल (Rice)",
+      "D": "मसाले (Spices)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 121,
+    "question": "उत्तर प्रदेश का कौन सा उत्पाद विश्व बाजार में प्रमुख निर्यात में शामिल है? / Which product of Uttar Pradesh is a significant export in the global market?",
+    "options": {
+      "A": "गन्ना (Sugarcane)",
+      "B": "मखाना (Fox Nut)",
+      "C": "दूध और डेयरी उत्पाद (Milk and Dairy Products)",
+      "D": "फल (Fruits)"
+    },
+    "answer": ["B", "C"]
+  },
+  {
+    "id": 122,
+    "question": "उत्तर प्रदेश के किस उत्पाद की वैश्विक निर्यात क्षमता सबसे अधिक है? / Which Uttar Pradesh product has the highest global export potential?",
+    "options": {
+      "A": "मखाना (Fox Nut)",
+      "B": "गन्ना (Sugarcane)",
+      "C": "फल (Fruits)",
+      "D": "आयुर्वेदिक जड़ी-बूटियां (Ayurvedic Herbs)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 123,
+    "question": "उत्तर प्रदेश का कौन सा फल भारत के अन्य हिस्सों के साथ-साथ विदेशों में भी निर्यात होता है? / Which fruit from Uttar Pradesh is exported both within India and abroad?",
+    "options": {
+      "A": "कीवी (Kiwi)",
+      "B": "सेब (Apple)",
+      "C": "आम (Mango)",
+      "D": "नींबू (Lemon)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 124,
+    "question": "उत्तर प्रदेश का दूध उत्पादन राष्ट्रीय स्तर पर किस स्थान पर है? / What is the rank of Uttar Pradesh in milk production at the national level?",
+    "options": {
+      "A": "पहला (1st)",
+      "B": "दूसरा (2nd)",
+      "C": "तीसरा (3rd)",
+      "D": "चौथा (4th)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 125,
+    "question": "उत्तर प्रदेश से निर्यात होने वाले मखाने का प्रमुख निर्यातक देश कौन सा है? / What is the major export destination for Fox Nuts (Makhana) from Uttar Pradesh?",
+    "options": {
+      "A": "संयुक्त राज्य अमेरिका (USA)",
+      "B": "संयुक्त अरब अमीरात (UAE)",
+      "C": "यूरोप (Europe)",
+      "D": "चीन (China)"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 126,
+    "question": "उत्तर प्रदेश की किस कृषि उत्पाद का निर्यात घरेलू और अंतरराष्ट्रीय बाजार दोनों में बढ़ रहा है? / Which agricultural product of Uttar Pradesh is growing in both domestic and international markets?",
+    "options": {
+      "A": "गन्ना (Sugarcane)",
+      "B": "मकई (Maize)",
+      "C": "मखाना (Fox Nut)",
+      "D": "चावल (Rice)"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 127,
+    "question": "उत्तर प्रदेश का कौन सा उत्पाद विशेष रूप से यूरोप और अमेरिका में निर्यात होता है? / Which product from Uttar Pradesh is specifically exported to Europe and America?",
+    "options": {
+      "A": "मखाना (Fox Nut)",
+      "B": "दूध और डेयरी उत्पाद (Milk and Dairy Products)",
+      "C": "आयुर्वेदिक जड़ी-बूटियां (Ayurvedic Herbs)",
+      "D": "मसाले (Spices)"
+    },
+    "answer": ["B", "A"]
+  },
+  {
+    "id": 128,
+    "question": "उत्तर प्रदेश का कौन सा फल भारत के प्रमुख फल निर्यातकों में शामिल है? / Which fruit from Uttar Pradesh is among India’s major fruit exports?",
+    "options": {
+      "A": "सेब (Apple)",
+      "B": "कीवी (Kiwi)",
+      "C": "अनार (Pomegranate)",
+      "D": "आम (Mango)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 129,
+    "question": "उत्तर प्रदेश के किस उत्पाद का निर्यात वैश्विक बाजार में तेजी से बढ़ रहा है? / Which product from Uttar Pradesh is experiencing rapid growth in the global export market?",
+    "options": {
+      "A": "मखाना (Fox Nut)",
+      "B": "गन्ना (Sugarcane)",
+      "C": "फल (Fruits)",
+      "D": "दूध (Milk)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 130,
+    "question": "उत्तर प्रदेश का प्रमुख हस्तशिल्प उत्पाद कौन सा है? / What is the major handicraft product of Uttar Pradesh?",
+    "options": {
+      "A": "ब्रास और कांसे के बर्तन (Brass and Copperware)",
+      "B": "कागज की कला (Paper Craft)",
+      "C": "मिट्टी के बर्तन (Terracotta)",
+      "D": "लकड़ी के खिलौने (Wooden Toys)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 132,
+    "question": "उत्तर प्रदेश में कौन सा वस्त्र उद्योग प्रमुख है? / Which textile industry is prominent in Uttar Pradesh?",
+    "options": {
+      "A": "बनारसी साड़ियां (Banarasi Sarees)",
+      "B": "पटोला (Patola)",
+      "C": "कांधला कपड़ा (Kandhla Fabric)",
+      "D": "कांचीपुरम सिल्क (Kanchipuram Silk)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 133,
+    "question": "उत्तर प्रदेश के हस्तशिल्प उत्पादों का प्रमुख निर्यात बाजार कौन सा है? / What is the major export market for handicrafts from Uttar Pradesh?",
+    "options": {
+      "A": "संयुक्त राज्य अमेरिका (USA)",
+      "B": "यूरोप (Europe)",
+      "C": "मध्य पूर्व (Middle East)",
+      "D": "ऑस्ट्रेलिया (Australia)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 134,
+    "question": "बनारसी साड़ियों की विशेषता क्या है? / What is the specialty of Banarasi sarees?",
+    "options": {
+      "A": "सोन और चांदी के धागों से बुनाई (Woven with gold and silver threads)",
+      "B": "कॉटन के धागे से निर्मित (Made of cotton threads)",
+      "C": "मशीन से बनी (Machine made)",
+      "D": "मध्यम स्तर की कीमत (Mid-range priced)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 135,
+    "question": "उत्तर प्रदेश के हस्तशिल्प में ब्रास और कांसे के बर्तनों के लिए कौन सा शहर प्रसिद्ध है? / Which city in Uttar Pradesh is famous for brass and copperware handicrafts?",
+    "options": {
+      "A": "कानपुर (Kanpur)",
+      "B": "वाराणसी (Varanasi)",
+      "C": "अलीगढ़ (Aligarh)",
+      "D": "लखनऊ (Lucknow)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 136,
+    "question": "उत्तर प्रदेश के किस जिले को हथकरघा उद्योग के लिए जाना जाता है? / Which district of Uttar Pradesh is known for handloom industry?",
+    "options": {
+      "A": "भदोही (Bhadohi)",
+      "B": "मेरठ (Meerut)",
+      "C": "आगरा (Agra)",
+      "D": "मथुरा (Mathura)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 137,
+    "question": "उत्तर प्रदेश के हस्तशिल्प और वस्त्र उद्योग के लिए सरकार की कौन सी योजना है? / Which government scheme supports handicrafts and textile industries in Uttar Pradesh?",
+    "options": {
+      "A": "कृषि हस्तांतरण योजना (Agriculture Transfer Scheme)",
+      "B": "कृर्षि सुधार योजना (Agricultural Reform Scheme)",
+      "C": "कुटीर उद्योग विकास योजना (Cottage Industry Development Scheme)",
+      "D": "स्मार्ट सिटी योजना (Smart City Scheme)"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 138,
+    "question": "उत्तर प्रदेश की कौन सी पारंपरिक कला वस्त्र उद्योग का हिस्सा है? / Which traditional art form of Uttar Pradesh is part of the textile industry?",
+    "options": {
+      "A": "चिकन कढ़ाई (Chikankari Embroidery)",
+      "B": "मधुबनी (Madhubani Painting)",
+      "C": "वरली (Warli Art)",
+      "D": "फालोद कला (Phad Art)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 139,
+    "question": "उत्तर प्रदेश के हस्तशिल्प निर्यात में किस वस्तु की मांग सबसे अधिक है? / Which item has the highest demand in Uttar Pradesh's handicraft exports?",
+    "options": {
+      "A": "ब्रास के बर्तन (Brassware)",
+      "B": "लकड़ी की मूर्तियां (Wooden Sculptures)",
+      "C": "कागज की कला (Paper Craft)",
+      "D": "पत्थर की नक्काशी (Stone Carving)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 140,
+    "question": "उत्तर प्रदेश के हस्तशिल्प और वस्त्र उद्योग में रोजगार का प्रतिशत लगभग कितना है? / Approximately what percentage of employment does the handicrafts and textile sector provide in Uttar Pradesh?",
+    "options": {
+      "A": "5%",
+      "B": "15%",
+      "C": "25%",
+      "D": "40%"
+    },
+    "answer": ["C"]
+  }
 ]
+
+
+
+
