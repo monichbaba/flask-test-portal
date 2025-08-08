@@ -1,664 +1,1385 @@
 [
-  {
-    "id": 1,
-    "question": "‘आत्मनिर्भर भारत’ अभियान के अंतर्गत घोषित पाँच स्तंभ कौन-कौन से हैं? / What are the five pillars announced under the 'Aatmanirbhar Bharat' campaign?",
-    "options": {
-      "A": "Economy / अर्थव्यवस्था",
-      "B": "Infrastructure / अवसंरचना",
-      "C": "Technology-Driven System / प्रौद्योगिकी-चालित प्रणाली",
-      "D": "Vibrant Demography / जीवंत जनसांख्यिकी",
-      "E": "Demand / मांग"
+    {
+        "id": 1,
+        "question": "भारत का सबसे बड़ा निर्यात कौन सा उत्पाद है? / What is India's largest export product?",
+        "options": {
+            "A": "गहने (Jewellery)",
+            "B": "फार्मास्यूटिकल्स (Pharmaceuticals)",
+            "C": "कपड़ा (Textiles)",
+            "D": "सूचना प्रौद्योगिकी सेवाएं (IT Services)"
+        },
+        "answer": [
+            "A",
+            "D"
+        ]
     },
-    "answer": ["A", "B", "C", "D", "E"]
-  },
-  {
-    "id": 2,
-    "question": "‘आत्मनिर्भर भारत’ पैकेज की घोषणा किस वर्ष में की गई थी? / In which year was the 'Aatmanirbhar Bharat' package announced?",
-    "options": {
-      "A": "2018",
-      "B": "2019",
-      "C": "2020",
-      "D": "2021"
+    {
+        "id": 2,
+        "question": "भारत के प्रमुख व्यापार भागीदार कौन हैं? (अधिकतम सही विकल्प चुनें) / Who are India's major trading partners? (Select all that apply)",
+        "options": {
+            "A": "अमेरिका (USA)",
+            "B": "चीन (China)",
+            "C": "रूस (Russia)",
+            "D": "यूरोपीय संघ (European Union)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
     },
-    "answer": ["C"]
-  },
-  {
-    "id": 3,
-    "question": "आत्मनिर्भर भारत अभियान में घोषित कुल पैकेज (2020) का आकार GDP के कितने प्रतिशत के बराबर था? / The total package announced under Aatmanirbhar Bharat (2020) was approximately what percentage of GDP?",
-    "options": {
-      "A": "5%",
-      "B": "8%",
-      "C": "10%",
-      "D": "15%"
+    {
+        "id": 3,
+        "question": "भारत का व्यापार संतुलन (Trade Balance) किस स्थिति में है? / What is the current status of India's trade balance?",
+        "options": {
+            "A": "व्यापार अधिशेष (Trade Surplus)",
+            "B": "व्यापार घाटा (Trade Deficit)",
+            "C": "संतुलित (Balanced)",
+            "D": "बंद (Closed Economy)"
+        },
+        "answer": [
+            "B"
+        ]
     },
-    "answer": ["C"]
-  },
-  {
-    "id": 4,
-    "question": "आत्मनिर्भर भारत अभियान के तहत MSME सुधारों में कौन-सी पहलें शामिल थीं? / Which of the following initiatives were included in MSME reforms under Aatmanirbhar Bharat?",
-    "options": {
-      "A": "Definition change of MSMEs / MSMEs की परिभाषा में बदलाव",
-      "B": "Collateral-free loans / बिना गारंटी के ऋण",
-      "C": "Global tenders disallowed up to ₹200 crore / ₹200 करोड़ तक के लिए वैश्विक निविदाओं पर रोक",
-      "D": "Export subsidy for all MSMEs / सभी MSMEs के लिए निर्यात सब्सिडी"
+    {
+        "id": 4,
+        "question": "भारत ने किस वर्ष में विश्व व्यापार संगठन (WTO) का सदस्यता प्राप्त की? / In which year did India join the World Trade Organization (WTO)?",
+        "options": {
+            "A": "1990",
+            "B": "1995",
+            "C": "2000",
+            "D": "1985"
+        },
+        "answer": [
+            "B"
+        ]
     },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 5,
-    "question": "आत्मनिर्भर भारत के तहत कृषि क्षेत्र में कौन-सी योजनाएं या सुधार घोषित किए गए थे? / Which schemes or reforms were announced in the agriculture sector under Aatmanirbhar Bharat?",
-    "options": {
-      "A": "Agriculture Infrastructure Fund / कृषि अवसंरचना कोष",
-      "B": "Amendments to Essential Commodities Act / आवश्यक वस्तु अधिनियम में संशोधन",
-      "C": "One Nation One Ration Card / एक राष्ट्र एक राशन कार्ड",
-      "D": "Animal Husbandry Infrastructure Development Fund / पशुपालन अवसंरचना विकास कोष"
+    {
+        "id": 5,
+        "question": "भारत के निर्यात में सबसे तेज़ी से बढ़ रहा क्षेत्र कौन सा है? / Which sector is the fastest growing in India's exports?",
+        "options": {
+            "A": "कृषि उत्पाद (Agricultural Products)",
+            "B": "सेवा क्षेत्र (Services Sector)",
+            "C": "धातु एवं खनिज (Metals and Minerals)",
+            "D": "कपड़ा और वस्त्र (Textiles and Garments)"
+        },
+        "answer": [
+            "B"
+        ]
     },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 6,
-    "question": "आत्मनिर्भर भारत अभियान का मुख्य उद्देश्य क्या है? / What is the main objective of the Aatmanirbhar Bharat campaign?",
-    "options": {
-      "A": "Import substitution and domestic manufacturing boost / आयात प्रतिस्थापन और घरेलू विनिर्माण को बढ़ावा",
-      "B": "Reduce fiscal deficit / राजकोषीय घाटा कम करना",
-      "C": "Enhance self-reliance in key sectors / प्रमुख क्षेत्रों में आत्मनिर्भरता बढ़ाना",
-      "D": "Privatize all public sector enterprises / सभी सार्वजनिक उपक्रमों का निजीकरण"
+    {
+        "id": 6,
+        "question": "भारत का कौन सा पोर्ट सबसे अधिक निर्यात-आयात के लिए उपयोग होता है? / Which port is the busiest for India's exports and imports?",
+        "options": {
+            "A": "मुंबई पोर्ट (Mumbai Port)",
+            "B": "मंदसौर पोर्ट (Mundra Port)",
+            "C": "चेन्नई पोर्ट (Chennai Port)",
+            "D": "कोलाबा पोर्ट (Kolkata Port)"
+        },
+        "answer": [
+            "B"
+        ]
     },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 7,
-    "question": "‘आत्मनिर्भर भारत’ पैकेज का वित्तीय घटक किन क्षेत्रों को कवर करता है? / The financial component of the Aatmanirbhar Bharat package covers which sectors?",
-    "options": {
-      "A": "MSMEs",
-      "B": "Agriculture",
-      "C": "Defence manufacturing",
-      "D": "Tourism"
+    {
+        "id": 7,
+        "question": "नीचे दिए गए किस-से भारत के निर्यात पर सबसे अधिक प्रभाव पड़ता है? (एक से अधिक सही विकल्प चुनें) / Which factors most affect India's exports? (Select all that apply)",
+        "options": {
+            "A": "विदेशी मुद्रा विनिमय दर (Foreign Exchange Rate)",
+            "B": "वैश्विक मांग (Global Demand)",
+            "C": "आयात शुल्क (Import Tariffs)",
+            "D": "आंतरिक कर (Domestic Taxes)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
     },
-    "answer": ["A", "B", "C", "D"]
-  },
-  {
-    "id": 8,
-    "question": "One Nation One Ration Card योजना आत्मनिर्भर भारत अभियान के किस पहलू से जुड़ी है? / The One Nation One Ration Card scheme is linked to which aspect of the Aatmanirbhar Bharat campaign?",
-    "options": {
-      "A": "Food security for migrants / प्रवासी श्रमिकों के लिए खाद्य सुरक्षा",
-      "B": "Boosting manufacturing / विनिर्माण को बढ़ावा देना",
-      "C": "Promoting digital payments / डिजिटल भुगतान को प्रोत्साहित करना",
-      "D": "Defence indigenization / रक्षा स्वदेशीकरण"
+    {
+        "id": 8,
+        "question": "भारत के निर्यात में किस क्षेत्र का योगदान सबसे कम है? / Which sector contributes the least in India's exports?",
+        "options": {
+            "A": "स्वास्थ्य और फार्मा (Health & Pharma)",
+            "B": "गृह उपयोगी वस्तुएं (Household Goods)",
+            "C": "खनिज ईंधन (Mineral Fuels)",
+            "D": "इलेक्ट्रॉनिक्स (Electronics)"
+        },
+        "answer": [
+            "B"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 9,
-    "question": "‘आत्मनिर्भर भारत’ पैकेज में स्वास्थ्य क्षेत्र में कौन-से सुधार शामिल थे? / Which reforms were included in the health sector under the Aatmanirbhar Bharat package?",
-    "options": {
-      "A": "Public health lab network strengthening / सार्वजनिक स्वास्थ्य प्रयोगशाला नेटवर्क को मजबूत करना",
-      "B": "Infectious disease hospital blocks / संक्रामक रोग अस्पताल ब्लॉक",
-      "C": "Universal health insurance for all citizens / सभी नागरिकों के लिए सार्वभौमिक स्वास्थ्य बीमा",
-      "D": "Telemedicine expansion / टेलीमेडिसिन का विस्तार"
+    {
+        "id": 9,
+        "question": "भारत का कुल निर्यात लगभग कितना है (2024-25 अनुमान)? / What is the approximate total export value of India (estimate for 2024-25)?",
+        "options": {
+            "A": "₹25 लाख करोड़ (₹25 Lakh Crore)",
+            "B": "₹40 लाख करोड़ (₹40 Lakh Crore)",
+            "C": "₹55 लाख करोड़ (₹55 Lakh Crore)",
+            "D": "₹70 लाख करोड़ (₹70 Lakh Crore)"
+        },
+        "answer": [
+            "B"
+        ]
     },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 10,
-    "question": "आत्मनिर्भर भारत के तहत रक्षा क्षेत्र में कौन-सी पहल की गई? / Which initiative was taken in the defence sector under Aatmanirbhar Bharat?",
-    "options": {
-      "A": "Ban on import of certain weapons / कुछ हथियारों के आयात पर प्रतिबंध",
-      "B": "100% FDI allowed in defence manufacturing / रक्षा विनिर्माण में 100% एफडीआई की अनुमति",
-      "C": "Separate budget allocation for domestic procurement / घरेलू खरीद के लिए अलग बजट प्रावधान",
-      "D": "Merger of DRDO with HAL / डीआरडीओ का एचएएल के साथ विलय"
+    {
+        "id": 10,
+        "question": "भारत और कौन सा देश सबसे अधिक व्यापार घाटा रखता है? / India has the highest trade deficit with which country?",
+        "options": {
+            "A": "चीन (China)",
+            "B": "अमेरिका (USA)",
+            "C": "सऊदी अरब (Saudi Arabia)",
+            "D": "जापान (Japan)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 11,
-    "question": "‘Aatmanirbhar Bharat Abhiyan’ के अंतर्गत किस सेक्टर को ‘Vocal for Local’ अभियान से सीधे जोड़ा गया है? / Which sector is directly linked with the 'Vocal for Local' campaign under Aatmanirbhar Bharat Abhiyan?",
-    "options": {
-      "A": "सूक्ष्म, लघु और मध्यम उद्यम (MSME) / Micro, Small and Medium Enterprises (MSME)",
-      "B": "सूचना प्रौद्योगिकी / Information Technology",
-      "C": "तेल और गैस / Oil and Gas",
-      "D": "रेल परिवहन / Rail Transport"
+    {
+        "id": 11,
+        "question": "अमेरिका और भारत के बीच व्यापार का मुख्य क्षेत्र कौन सा है? / What is the main sector of trade between the USA and India?",
+        "options": {
+            "A": "सूचना प्रौद्योगिकी (Information Technology)",
+            "B": "कृषि उत्पाद (Agricultural Products)",
+            "C": "ऑटोमोबाइल (Automobiles)",
+            "D": "ऊर्जा (Energy)"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 12,
-    "question": "Aatmanirbhar Bharat Package के अंतर्गत MSME सेक्टर के लिए ऋण गारंटी योजना की अधिकतम सीमा कितनी तय की गई थी? / What was the maximum limit set for the loan guarantee scheme for the MSME sector under the Aatmanirbhar Bharat Package?",
-    "options": {
-      "A": "₹1 लाख करोड़ / ₹1 lakh crore",
-      "B": "₹2 लाख करोड़ / ₹2 lakh crore",
-      "C": "₹3 लाख करोड़ / ₹3 lakh crore",
-      "D": "₹5 लाख करोड़ / ₹5 lakh crore"
+    {
+        "id": 12,
+        "question": "चीन के साथ भारत का सबसे बड़ा व्यापार घाटा किस क्षेत्र में है? / In which sector does India have the largest trade deficit with China?",
+        "options": {
+            "A": "इलेक्ट्रॉनिक्स (Electronics)",
+            "B": "टेक्सटाइल (Textiles)",
+            "C": "खनिज (Minerals)",
+            "D": "फार्मास्यूटिकल्स (Pharmaceuticals)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["C"]
-  },
-  {
-    "id": 13,
-    "question": "‘Aatmanirbhar Bharat’ के तहत ‘One Nation, One Ration Card’ योजना किसके लाभ के लिए शुरू की गई थी? / Under 'Aatmanirbhar Bharat', for whose benefit was the 'One Nation, One Ration Card' scheme launched?",
-    "options": {
-      "A": "ग्रामीण किसान / Rural Farmers",
-      "B": "शहरी प्रवासी मजदूर / Urban Migrant Workers",
-      "C": "औद्योगिक उद्यमी / Industrial Entrepreneurs",
-      "D": "महिला स्वयं सहायता समूह / Women Self Help Groups"
+    {
+        "id": 13,
+        "question": "रूस के साथ भारत का प्रमुख निर्यात कौन सा है? / What is India's major export to Russia?",
+        "options": {
+            "A": "फार्मास्यूटिकल्स (Pharmaceuticals)",
+            "B": "कृषि उत्पाद (Agricultural Products)",
+            "C": "हथियार और रक्षा उपकरण (Weapons and Defense Equipment)",
+            "D": "मशीनरी (Machinery)"
+        },
+        "answer": [
+            "A",
+            "C"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 14,
-    "question": "Aatmanirbhar Bharat Abhiyan में 'PM Gati Shakti Master Plan' का मुख्य उद्देश्य क्या है? / What is the main objective of the 'PM Gati Shakti Master Plan' under Aatmanirbhar Bharat Abhiyan?",
-    "options": {
-      "A": "निर्यात को बढ़ावा देना / Promote Exports",
-      "B": "बुनियादी ढांचे में मल्टी-मोडल कनेक्टिविटी / Multimodal Connectivity in Infrastructure",
-      "C": "कृषि उपज बढ़ाना / Increase Agricultural Yield",
-      "D": "विदेशी निवेश को कम करना / Reduce Foreign Investment"
+    {
+        "id": 14,
+        "question": "अमेरिका भारत के कुल व्यापार में लगभग कितना प्रतिशत हिस्सा रखता है? / Approximately what percentage of India's total trade is with the USA?",
+        "options": {
+            "A": "10%",
+            "B": "15%",
+            "C": "20%",
+            "D": "25%"
+        },
+        "answer": [
+            "B"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 15,
-    "question": "Aatmanirbhar Bharat के तहत कृषि सुधारों में निम्नलिखित में से कौन सा शामिल है? / Which of the following is included in agricultural reforms under Aatmanirbhar Bharat?",
-    "options": {
-      "A": "कृषि उपज विपणन समिति (APMC) अधिनियम में बदलाव / Amendments in Agricultural Produce Market Committee (APMC) Act",
-      "B": "आवश्यक वस्तु अधिनियम (ECA) में संशोधन / Amendments in Essential Commodities Act (ECA)",
-      "C": "कॉन्ट्रैक्ट फार्मिंग कानून / Contract Farming Law",
-      "D": "उपरोक्त सभी / All of the above"
+    {
+        "id": 15,
+        "question": "भारत और चीन के बीच व्यापार संतुलन की स्थिति क्या है? / What is the status of trade balance between India and China?",
+        "options": {
+            "A": "भारत का व्यापार अधिशेष है (India has trade surplus)",
+            "B": "भारत का व्यापार घाटा है (India has trade deficit)",
+            "C": "संतुलित व्यापार है (Trade is balanced)",
+            "D": "कोई व्यापार नहीं है (No trade)"
+        },
+        "answer": [
+            "B"
+        ]
     },
-    "answer": ["D"]
-  },
-  {
-    "id": 16,
-    "question": "‘Aatmanirbhar Bharat Abhiyan’ का एक प्रमुख लक्ष्य कौन सा है? / Which is a key goal of 'Aatmanirbhar Bharat Abhiyan'?",
-    "options": {
-      "A": "विदेशी वस्तुओं का अधिकतम आयात / Maximum Import of Foreign Goods",
-      "B": "देशी उत्पादन और आपूर्ति श्रृंखला को मजबूत करना / Strengthening Domestic Production and Supply Chain",
-      "C": "केवल शहरी उद्योगों को समर्थन / Supporting Only Urban Industries",
-      "D": "विदेशी मुद्रा भंडार को घटाना / Reducing Foreign Exchange Reserves"
+    {
+        "id": 16,
+        "question": "रूस से भारत का प्रमुख आयात क्या है? / What is the major import from Russia to India?",
+        "options": {
+            "A": "तेल और गैस (Oil and Gas)",
+            "B": "कपड़ा (Textiles)",
+            "C": "फर्नीचर (Furniture)",
+            "D": "इलेक्ट्रॉनिक्स (Electronics)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 17,
-    "question": "Aatmanirbhar Bharat के तहत ‘Make in India’ पहल का मुख्य फोकस क्या है? / What is the main focus of the 'Make in India' initiative under Aatmanirbhar Bharat?",
-    "options": {
-      "A": "विदेश में उद्योग स्थापित करना / Setting up Industries Abroad",
-      "B": "देश में विनिर्माण को बढ़ावा देना / Promoting Manufacturing in India",
-      "C": "आयात को पूरी तरह समाप्त करना / Completely Eliminating Imports",
-      "D": "केवल कृषि उत्पादन को बढ़ाना / Increasing Only Agricultural Production"
+    {
+        "id": 17,
+        "question": "नीचे दिए गए किस देश के साथ भारत का व्यापार सबसे अधिक बढ़ा है पिछले 5 वर्षों में? / With which country has India's trade increased the most in the last 5 years?",
+        "options": {
+            "A": "अमेरिका (USA)",
+            "B": "चीन (China)",
+            "C": "रूस (Russia)",
+            "D": "जापान (Japan)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 18,
-    "question": "Aatmanirbhar Bharat Abhiyan के अंतर्गत ‘PM e-Vidya’ कार्यक्रम का उद्देश्य क्या है? / What is the objective of the 'PM e-Vidya' program under Aatmanirbhar Bharat Abhiyan?",
-    "options": {
-      "A": "डिजिटल शिक्षा को बढ़ावा देना / Promote Digital Education",
-      "B": "कृषि तकनीक में सुधार / Improve Agricultural Technology",
-      "C": "MSME सेक्टर में प्रशिक्षण / Training in MSME Sector",
-      "D": "स्वास्थ्य क्षेत्र में निवेश / Investment in Health Sector"
+    {
+        "id": 18,
+        "question": "अमेरिका, चीन और रूस में से किसके साथ भारत के निर्यात में सबसे तेज़ वृद्धि हुई है? / Among USA, China, and Russia, with which country has India's exports grown the fastest?",
+        "options": {
+            "A": "अमेरिका (USA)",
+            "B": "चीन (China)",
+            "C": "रूस (Russia)",
+            "D": "तीनों में समान (Equal growth with all)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 19,
-    "question": "Aatmanirbhar Bharat Abhiyan के तहत कौन सा सेक्टर सबसे अधिक पैकेज प्राप्त करने वालों में से है? / Which sector received one of the highest packages under Aatmanirbhar Bharat Abhiyan?",
-    "options": {
-      "A": "स्वास्थ्य / Health",
-      "B": "कृषि / Agriculture",
-      "C": "MSME",
-      "D": "रेलवे / Railways"
+    {
+        "id": 19,
+        "question": "भारत-चीन व्यापार विवादों में मुख्य कारण क्या हैं? (एक से अधिक सही विकल्प चुनें) / What are the main reasons for India-China trade disputes? (Select all that apply)",
+        "options": {
+            "A": "बॉर्डर तनाव (Border tensions)",
+            "B": "असमान व्यापार नीति (Unbalanced trade policies)",
+            "C": "सामाजिक मुद्दे (Social issues)",
+            "D": "टैरिफ और ड्यूटी (Tariffs and duties)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
     },
-    "answer": ["C"]
-  },
-  {
-    "id": 20,
-    "question": "Aatmanirbhar Bharat Abhiyan के संदर्भ में ‘Champion Sectors’ शब्द का अर्थ क्या है? / In the context of Aatmanirbhar Bharat Abhiyan, what does the term 'Champion Sectors' mean?",
-    "options": {
-      "A": "केवल रक्षा उत्पादन के लिए चयनित सेक्टर / Sectors selected only for Defence Production",
-      "B": "उच्च विकास और निर्यात क्षमता वाले सेक्टर / Sectors with High Growth and Export Potential",
-      "C": "कृषि आधारित छोटे उद्योग / Agriculture-based Small Industries",
-      "D": "विदेशी निवेशक आधारित सेक्टर / Sectors based on Foreign Investors"
+    {
+        "id": 20,
+        "question": "भारत और रूस के बीच रक्षा व्यापार की क्या स्थिति है? / What is the status of defense trade between India and Russia?",
+        "options": {
+            "A": "बहुत कम (Very low)",
+            "B": "मध्यम (Moderate)",
+            "C": "बहुत अधिक (Very high)",
+            "D": "बंद (Stopped)"
+        },
+        "answer": [
+            "C"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 21,
-    "question": "RBI की स्थापना किस वर्ष हुई थी? / In which year was the RBI established?",
-    "options": {
-      "A": "1935",
-      "B": "1947",
-      "C": "1950",
-      "D": "1921"
+    {
+        "id": 21,
+        "question": "भारत और जापान के बीच कौन से क्षेत्र में व्यापार सबसे ज्यादा है? / What is the main sector of trade between India and Japan?",
+        "options": {
+            "A": "ऑटोमोबाइल (Automobiles)",
+            "B": "इलेक्ट्रॉनिक्स (Electronics)",
+            "C": "कृषि उत्पाद (Agricultural Products)",
+            "D": "सेवा क्षेत्र (Services Sector)"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 22,
-    "question": "RBI का राष्ट्रीयकरण कब किया गया था? / When was the RBI nationalized?",
-    "options": {
-      "A": "1935",
-      "B": "1949",
-      "C": "1951",
-      "D": "1969"
+    {
+        "id": 22,
+        "question": "भारत का यूरोपीय संघ (EU) के साथ मुख्य व्यापार विषय क्या है? / What is the main trade subject between India and the European Union (EU)?",
+        "options": {
+            "A": "फार्मास्यूटिकल्स (Pharmaceuticals)",
+            "B": "मशीनरी (Machinery)",
+            "C": "खाद्य पदार्थ (Food Products)",
+            "D": "टेक्सटाइल (Textiles)"
+        },
+        "answer": [
+            "A",
+            "D"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 23,
-    "question": "RBI का मुख्यालय कहाँ स्थित है? / Where is the headquarters of the RBI located?",
-    "options": {
-      "A": "New Delhi",
-      "B": "Mumbai",
-      "C": "Kolkata",
-      "D": "Chennai"
+    {
+        "id": 23,
+        "question": "भारत और ऑस्ट्रेलिया के बीच कौन सा प्रमुख व्यापारिक समझौता है? / What is the major trade agreement between India and Australia?",
+        "options": {
+            "A": "एफटीए (Free Trade Agreement)",
+            "B": "सीएसटी (Comprehensive Strategic Trade)",
+            "C": "बिलेटरल निवेश समझौता (Bilateral Investment Treaty)",
+            "D": "कोई समझौता नहीं (No agreement)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 24,
-    "question": "RBI का मुख्य कार्य क्या है? / What is the primary function of RBI?",
-    "options": {
-      "A": "मुद्रा जारी करना / Issuing currency",
-      "B": "बजट बनाना / Preparing budget",
-      "C": "विदेश नीति बनाना / Making foreign policy",
-      "D": "रेल संचालन / Running railways"
+    {
+        "id": 24,
+        "question": "भारत और सिंगापुर के बीच कौन से क्षेत्र में आर्थिक सहयोग सबसे अधिक है? / In which sector is the economic cooperation between India and Singapore highest?",
+        "options": {
+            "A": "वित्तीय सेवाएं (Financial Services)",
+            "B": "खेल और मनोरंजन (Sports and Entertainment)",
+            "C": "पर्यटन (Tourism)",
+            "D": "कृषि (Agriculture)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 25,
-    "question": "RBI का गवर्नर नियुक्त करने का अधिकार किसके पास है? / Who has the authority to appoint the Governor of RBI?",
-    "options": {
-      "A": "प्रधानमंत्री / Prime Minister",
-      "B": "वित्त मंत्री / Finance Minister",
-      "C": "भारत के राष्ट्रपति / President of India",
-      "D": "संसद / Parliament"
+    {
+        "id": 25,
+        "question": "नीचे दिए गए कौन से देश भारत के साथ उच्च तकनीकी निर्यात में प्रमुख हैं? (एक से अधिक सही विकल्प चुनें) / Which of the following countries are major partners in India's high-technology exports? (Select all that apply)",
+        "options": {
+            "A": "संयुक्त राज्य अमेरिका (USA)",
+            "B": "जर्मनी (Germany)",
+            "C": "ब्राजील (Brazil)",
+            "D": "चीन (China)"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["C"]
-  },
-  {
-    "id": 26,
-    "question": "RBI द्वारा जारी की गई मुद्रा नोटों पर किसके हस्ताक्षर होते हैं? / Whose signature appears on the currency notes issued by RBI?",
-    "options": {
-      "A": "प्रधानमंत्री / Prime Minister",
-      "B": "RBI गवर्नर / RBI Governor",
-      "C": "वित्त मंत्री / Finance Minister",
-      "D": "राष्ट्रपति / President"
+    {
+        "id": 26,
+        "question": "भारत का किस देश के साथ व्यापार संतुलन सबसे अधिक संतुलित है? / With which country does India have the most balanced trade?",
+        "options": {
+            "A": "संयुक्त अरब अमीरात (UAE)",
+            "B": "चीन (China)",
+            "C": "अमेरिका (USA)",
+            "D": "रूस (Russia)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 27,
-    "question": "भारत में मौद्रिक नीति बनाने का उत्तरदायित्व किसके पास है? / Who is responsible for formulating monetary policy in India?",
-    "options": {
-      "A": "RBI",
-      "B": "वित्त मंत्रालय / Ministry of Finance",
-      "C": "SEBI",
-      "D": "नीति आयोग / NITI Aayog"
+    {
+        "id": 27,
+        "question": "भारत और कनाडा के बीच व्यापार का मुख्य उत्पाद कौन सा है? / What is the main product traded between India and Canada?",
+        "options": {
+            "A": "खनिज (Minerals)",
+            "B": "फार्मास्यूटिकल्स (Pharmaceuticals)",
+            "C": "कपड़ा (Textiles)",
+            "D": "सॉफ्टवेयर सेवाएं (Software Services)"
+        },
+        "answer": [
+            "B",
+            "D"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 28,
-    "question": "निम्न में से कौन सा RBI का कार्य नहीं है? / Which of the following is NOT a function of RBI?",
-    "options": {
-      "A": "मुद्रा आपूर्ति को नियंत्रित करना / Controlling money supply",
-      "B": "विदेशी मुद्रा का प्रबंधन / Managing foreign exchange",
-      "C": "सरकारी ऋण का प्रबंधन / Managing government debt",
-      "D": "रेल किराया तय करना / Deciding railway fares"
+    {
+        "id": 28,
+        "question": "भारत ने किस देश के साथ हाल ही में 'स्टैटेजिक पार्टनरशिप' समझौता किया है? / India has recently signed a 'Strategic Partnership' agreement with which country?",
+        "options": {
+            "A": "फ्रांस (France)",
+            "B": "ब्राजील (Brazil)",
+            "C": "जापान (Japan)",
+            "D": "मेक्सिको (Mexico)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["D"]
-  },
-  {
-    "id": 29,
-    "question": "RBI के पास नोट जारी करने का अधिकार किस अधिनियम के तहत है? / Under which Act does RBI have the authority to issue notes?",
-    "options": {
-      "A": "RBI Act, 1934",
-      "B": "Banking Regulation Act, 1949",
-      "C": "Companies Act, 1956",
-      "D": "Negotiable Instruments Act, 1881"
+    {
+        "id": 29,
+        "question": "भारत के निर्यात में कौन सा क्षेत्र अफ्रीका के साथ व्यापार में सबसे तेज़ वृद्धि दिखा रहा है? / Which sector in India's exports shows the fastest growth with Africa?",
+        "options": {
+            "A": "खनिज (Minerals)",
+            "B": "कृषि उत्पाद (Agricultural Products)",
+            "C": "सेवा क्षेत्र (Services Sector)",
+            "D": "फर्नीचर (Furniture)"
+        },
+        "answer": [
+            "C"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 30,
-    "question": "भारतीय मुद्रा का वैधानिक आधार क्या है? / What is the legal backing of Indian currency?",
-    "options": {
-      "A": "सोना / Gold",
-      "B": "विदेशी मुद्रा / Foreign currency",
-      "C": "भारत सरकार की गारंटी / Government of India’s guarantee",
-      "D": "बैंक रिज़र्व / Bank reserves"
+    {
+        "id": 30,
+        "question": "भारत किस देश से सबसे अधिक कच्चा तेल आयात करता है? / From which country does India import the most crude oil?",
+        "options": {
+            "A": "सऊदी अरब (Saudi Arabia)",
+            "B": "इराक (Iraq)",
+            "C": "यूएई (UAE)",
+            "D": "अमेरिका (USA)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["C"]
-  },
-  {
-    "id": 31,
-    "question": "CRR का पूर्ण रूप क्या है? / What is the full form of CRR?",
-    "options": {
-      "A": "Cash Reserve Ratio",
-      "B": "Credit Reserve Rate",
-      "C": "Currency Ratio Reserve",
-      "D": "Central Reserve Requirement"
+    {
+        "id": 31,
+        "question": "भारत का प्रमुख रक्षा निर्यात किस क्षेत्र में है? / What is the main sector of India's defence exports?",
+        "options": {
+            "A": "हथियार और गोला-बारूद (Weapons and Ammunition)",
+            "B": "हेलीकॉप्टर और ड्रोन (Helicopters and Drones)",
+            "C": "युद्धपोत और पनडुब्बी (Warships and Submarines)",
+            "D": "सुरक्षा उपकरण (Security Equipment)"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 32,
-    "question": "RBI द्वारा तय किया जाने वाला रेपो रेट किस पर लागू होता है? / The repo rate fixed by RBI applies to which transaction?",
-    "options": {
-      "A": "बैंकों को ऋण देने पर / Lending to banks",
-      "B": "जनता को ऋण देने पर / Lending to public",
-      "C": "सरकारी खर्च / Government spending",
-      "D": "निर्यात पर / Exports"
+    {
+        "id": 32,
+        "question": "भारत का सबसे बड़ा रक्षा आयातक देश कौन सा है? / Who is the largest importer of Indian defence equipment?",
+        "options": {
+            "A": "भारत (India)",
+            "B": "अमेरिका (USA)",
+            "C": "यूएई (UAE)",
+            "D": "अफगानिस्तान (Afghanistan)"
+        },
+        "answer": [
+            "C"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 33,
-    "question": "भारतीय मुद्रा प्रणाली किस पर आधारित है? / The Indian currency system is based on which system?",
-    "options": {
-      "A": "दशमलव प्रणाली / Decimal system",
-      "B": "द्विआधारी प्रणाली / Binary system",
-      "C": "स्वर्ण प्रणाली / Gold system",
-      "D": "बार्टर प्रणाली / Barter system"
+    {
+        "id": 33,
+        "question": "भारत किस देश से सबसे अधिक रक्षा आयात करता है? / From which country does India import the most defence equipment?",
+        "options": {
+            "A": "रूस (Russia)",
+            "B": "फ्रांस (France)",
+            "C": "इज़राइल (Israel)",
+            "D": "अमेरिका (USA)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 34,
-    "question": "भारतीय मुद्रा में सबसे बड़ा मूल्यवर्ग का नोट वर्तमान में कौन सा है? / What is the highest denomination currency note currently in circulation in India?",
-    "options": {
-      "A": "₹1000",
-      "B": "₹2000",
-      "C": "₹500",
-      "D": "₹200"
+    {
+        "id": 34,
+        "question": "भारत का रक्षा निर्यात किस वर्ष में सबसे अधिक रहा है? / In which year did India achieve its highest defence exports?",
+        "options": {
+            "A": "2020-21",
+            "B": "2021-22",
+            "C": "2022-23",
+            "D": "2023-24"
+        },
+        "answer": [
+            "D"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 35,
-    "question": "RBI द्वारा जारी वार्षिक रिपोर्ट में क्या शामिल होता है? / What does the annual report of RBI include?",
-    "options": {
-      "A": "मौद्रिक नीति विवरण / Monetary policy statement",
-      "B": "वित्तीय स्थिति / Financial position",
-      "C": "आर्थिक समीक्षा / Economic review",
-      "D": "उपरोक्त सभी / All of the above"
+    {
+        "id": 35,
+        "question": "नीचे दिए गए कौन से देश भारत के सबसे बड़े रक्षा निर्यात लक्ष्यों में शामिल हैं? (एक से अधिक सही विकल्प चुनें) / Which of the following countries are among India's biggest defence export destinations? (Select all that apply)",
+        "options": {
+            "A": "म्यांमार (Myanmar)",
+            "B": "अमेरिका (USA)",
+            "C": "यूएई (UAE)",
+            "D": "सिंगापुर (Singapore)"
+        },
+        "answer": [
+            "A",
+            "C",
+            "D"
+        ]
     },
-    "answer": ["D"]
-  },
-  {
-    "id": 36,
-    "question": "MCLR का पूर्ण रूप क्या है? / What is the full form of MCLR?",
-    "options": {
-      "A": "Marginal Cost of Funds Based Lending Rate",
-      "B": "Minimum Credit Limit Ratio",
-      "C": "Maximum Cash Lending Ratio",
-      "D": "Monetary Credit Lending Rate"
+    {
+        "id": 36,
+        "question": "भारत किस क्षेत्र में अपनी रक्षा उत्पादकता बढ़ाने पर जोर दे रहा है? / In which sector is India focusing to increase its defence production?",
+        "options": {
+            "A": "मिशाइल और मिसाइल रक्षा (Missiles and Missile Defence)",
+            "B": "ड्रोन और UAV (Drones and UAVs)",
+            "C": "साइबर सुरक्षा (Cyber Security)",
+            "D": "रॉकेट और तोपखाना (Rockets and Artillery)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 37,
-    "question": "RBI का पहला गवर्नर कौन था? / Who was the first Governor of RBI?",
-    "options": {
-      "A": "C.D. Deshmukh",
-      "B": "Osborne Smith",
-      "C": "Benegal Rama Rau",
-      "D": "James Taylor"
+    {
+        "id": 37,
+        "question": "भारत ने किस वर्ष में रक्षा उत्पादन में आत्मनिर्भरता (Atmanirbhar Bharat) का लक्ष्य घोषित किया? / In which year did India declare the goal of self-reliance in defence production?",
+        "options": {
+            "A": "2018",
+            "B": "2019",
+            "C": "2020",
+            "D": "2021"
+        },
+        "answer": [
+            "C"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 38,
-    "question": "पहले भारतीय गवर्नर का नाम क्या था? / Who was the first Indian Governor of RBI?",
-    "options": {
-      "A": "C.D. Deshmukh",
-      "B": "K.G. Ambegaonkar",
-      "C": "Raghuram Rajan",
-      "D": "Y.V. Reddy"
+    {
+        "id": 38,
+        "question": "भारत का कौन सा रक्षा निर्यात उत्पाद सबसे अधिक मांग में है? / Which Indian defence export product is in highest demand?",
+        "options": {
+            "A": "सर्जिकल स्ट्राइक ड्रोन (Surgical Strike Drones)",
+            "B": "लाइट मशीन गन (Light Machine Guns)",
+            "C": "हेलीकॉप्टर (Helicopters)",
+            "D": "रॉकेट लांचर (Rocket Launchers)"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 39,
-    "question": "RBI का कौन सा विभाग विदेशी मुद्रा प्रबंधन करता है? / Which department of RBI manages foreign exchange?",
-    "options": {
-      "A": "DEPR",
-      "B": "FEMA Department",
-      "C": "Department of Currency Management",
-      "D": "FMD / Financial Markets Department"
+    {
+        "id": 39,
+        "question": "भारत का कुल रक्षा आयात लगभग कितना है (2024-25 अनुमान)? / What is the approximate total defence import value of India (estimate for 2024-25)?",
+        "options": {
+            "A": "₹30,000 करोड़ (₹300 billion)",
+            "B": "₹50,000 करोड़ (₹500 billion)",
+            "C": "₹70,000 करोड़ (₹700 billion)",
+            "D": "₹90,000 करोड़ (₹900 billion)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 40,
-    "question": "RBI के प्रतीक चिन्ह पर किसका चित्र है? / What is depicted on the emblem of RBI?",
-    "options": {
-      "A": "शेर और खजूर का पेड़ / Tiger and palm tree",
-      "B": "हाथी और बांस / Elephant and bamboo",
-      "C": "शेर और अशोक स्तंभ / Lion and Ashoka pillar",
-      "D": "मोर और कमल / Peacock and lotus"
+    {
+        "id": 40,
+        "question": "भारत ने रक्षा क्षेत्र में आत्मनिर्भरता के लिए कौन-से प्रमुख सरकारी संगठन स्थापित किए हैं? (एक से अधिक सही विकल्प चुनें) / Which major government organizations has India established for self-reliance in defence? (Select all that apply)",
+        "options": {
+            "A": "डीआरडीओ (DRDO)",
+            "B": "बीईएल (BEL)",
+            "C": "डीपीआई (DPI)",
+            "D": "एचएएल (HAL)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 41,
-    "question": "अभी (अगस्त 2025) RBI द्वारा निर्धारित Repo Rate क्या है? / What is the RBI Repo Rate as of August 2025?",
-    "options": {
-      "A": "5.25%",
-      "B": "5.50%",
-      "C": "5.75%",
-      "D": "6.00%"
+    {
+        "id": 41,
+        "question": "भारत से सबसे अधिक निर्यात होने वाला समारिक सामान कौन सा है? / Which is the most exported defense equipment from India?",
+        "options": {
+            "A": "ड्रोन और UAV (Drones and UAVs)",
+            "B": "हथियार और गोला-बारूद (Weapons and Ammunition)",
+            "C": "युद्धपोत (Warships)",
+            "D": "हेलीकॉप्टर (Helicopters)"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 42,
-    "question": "RBI ने जून 2025 में Repo Rate में कितनी कटौती की थी? / By how many basis points did RBI cut the Repo Rate in June 2025?",
-    "options": {
-      "A": "25 bps",
-      "B": "50 bps",
-      "C": "75 bps",
-      "D": "100 bps"
+    {
+        "id": 42,
+        "question": "भारत से निर्यात किए जाने वाले समारिक सामान में कौन सा उपकरण शामिल है? / Which of the following are included in India's exported defense equipment?",
+        "options": {
+            "A": "सैन्य वाहन (Military Vehicles)",
+            "B": "मिसाइल प्रणाली (Missile Systems)",
+            "C": "नौसेना के जहाज (Naval Ships)",
+            "D": "सैन्य उपकरणों के लिए सॉफ्टवेयर (Software for Defence Equipment)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 43,
-    "question": "RBI ने CRR (Cash Reserve Ratio) को जून 2025 में कितने प्रतिशत पर घटाया था? / To what level did RBI reduce the CRR in June 2025?",
-    "options": {
-      "A": "4.5%",
-      "B": "4.0%",
-      "C": "3.5%",
-      "D": "3.0%"
+    {
+        "id": 43,
+        "question": "भारत ने किस प्रकार के ड्रोन और UAV को निर्यात किया है? / What types of drones and UAVs has India exported?",
+        "options": {
+            "A": "सर्जिकल स्ट्राइक ड्रोन (Surgical Strike Drones)",
+            "B": "सर्वेक्षण ड्रोन (Surveillance Drones)",
+            "C": "परमाणु मिसाइल ड्रोन (Nuclear Missile Drones)",
+            "D": "सामरिक परिवहन ड्रोन (Tactical Transport Drones)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
     },
-    "answer": ["D"]
-  },
-  {
-    "id": 44,
-    "question": "RBI ने अपनी मौद्रिक नीति दृष्‍टिकोण (policy stance) को जून 2025 में किस रूप में वर्णित किया था? / How did RBI describe its policy stance in June 2025?",
-    "options": {
-      "A": "Accommodative",
-      "B": "Neutral",
-      "C": "Hawkish",
-      "D": "Expansionary"
+    {
+        "id": 44,
+        "question": "भारत से निर्यात होने वाले हथियारों में प्रमुख क्या शामिल हैं? / What are the major weapons exported from India?",
+        "options": {
+            "A": "लाइट मशीन गन (Light Machine Guns)",
+            "B": "राइफल्स (Rifles)",
+            "C": "टैंक (Tanks)",
+            "D": "स्नाइपर राइफल्स (Sniper Rifles)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 45,
-    "question": "Repo Corridor में Standing Deposit Facility (SDF) दर Repo Rate से कितने आधार अंक नीचे होती है? / The standing deposit facility (SDF) rate is how many bps below the repo rate under the repo corridor?",
-    "options": {
-      "A": "10 bps",
-      "B": "25 bps",
-      "C": "50 bps",
-      "D": "75 bps"
+    {
+        "id": 45,
+        "question": "भारत ने निम्नलिखित में से किस देश को समारिक उपकरण निर्यात किए हैं? (एक से अधिक सही विकल्प चुनें) / India has exported defense equipment to which of the following countries? (Select all that apply)",
+        "options": {
+            "A": "म्यांमार (Myanmar)",
+            "B": "यूएई (UAE)",
+            "C": "चीन (China)",
+            "D": "अफगानिस्तान (Afghanistan)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 46,
-    "question": "Marginal Standing Facility (MSF) दर Repo Rate से कितने आधार अंक ऊपर होती है? / The MSF rate is how many bps above the repo rate?",
-    "options": {
-      "A": "10 bps",
-      "B": "25 bps",
-      "C": "50 bps",
-      "D": "75 bps"
+    {
+        "id": 46,
+        "question": "भारत का कौन सा रक्षा उपकरण निर्यात क्षेत्र में तेजी से बढ़ रहा है? / Which Indian defense equipment export sector is growing rapidly?",
+        "options": {
+            "A": "ड्रोन (Drones)",
+            "B": "मिसाइल सिस्टम (Missile Systems)",
+            "C": "नौसैनिक उपकरण (Naval Equipment)",
+            "D": "सैनिक उपकरण (Infantry Equipment)"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 47,
-    "question": "Monetary Policy Committee (MPC) की बैठक में क्या Repo Rate अपरिवर्तित रखा गया था? / Was the repo rate held unchanged at the MPC meeting?",
-    "options": {
-      "A": "हाँ / Yes",
-      "B": "नहीं / No"
+    {
+        "id": 47,
+        "question": "भारत का कौन सा सरकारी संगठन समारिक निर्यात को बढ़ावा देता है? / Which government organization promotes India's defense exports?",
+        "options": {
+            "A": "डीआरडीओ (DRDO)",
+            "B": "डिफेंस एक्सपोर्ट प्रमोशन काउंसिल (Defense Export Promotion Council)",
+            "C": "भारतीय स्टेट बैंक (SBI)",
+            "D": "सेंट्रल इंटेलिजेंस एजेंसी (CIA)"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 48,
-    "question": "RBI ने FY26 के लिए GDP वृद्धि पूर्वानुमान (GDP growth forecast) क्या रखा है? / What GDP growth forecast has RBI kept for FY 2025-26?",
-    "options": {
-      "A": "5.5%",
-      "B": "6.0%",
-      "C": "6.5%",
-      "D": "7.0%"
+    {
+        "id": 48,
+        "question": "भारत से निर्यात किए जाने वाले समारिक सामान में क्या शामिल नहीं है? / Which of the following is NOT included in India’s defense exports?",
+        "options": {
+            "A": "हथियार (Weapons)",
+            "B": "सामरिक वाहन (Tactical Vehicles)",
+            "C": "परमाणु हथियार (Nuclear Weapons)",
+            "D": "सॉफ्टवेयर (Software)"
+        },
+        "answer": [
+            "C"
+        ]
     },
-    "answer": ["C"]
-  },
-  {
-    "id": 49,
-    "question": "RBI ने FY26 के लिए CPI मुद्रास्फीति पूर्वानुमान (inflation forecast) को कितना घटाया है? / What is the revised CPI inflation forecast for FY26 by RBI?",
-    "options": {
-      "A": "2.1%",
-      "B": "3.1%",
-      "C": "3.7%",
-      "D": "4.5%"
+    {
+        "id": 49,
+        "question": "भारत ने किस प्रकार के हेलीकॉप्टर निर्यात किए हैं? / What types of helicopters has India exported?",
+        "options": {
+            "A": "हमला हेलीकॉप्टर (Attack Helicopters)",
+            "B": "परिवहन हेलीकॉप्टर (Transport Helicopters)",
+            "C": "नागरिक हेलीकॉप्टर (Civilian Helicopters)",
+            "D": "इमरजेंसी सेवा हेलीकॉप्टर (Emergency Service Helicopters)"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 50,
-    "question": "MPC की बैठक में नीति दृष्‍टिकोण (policy stance) किस रूप में रखी गई थी? / What policy stance did RBI maintain at the MPC meeting?",
-    "options": {
-      "A": "Neutral",
-      "B": "Dovish",
-      "C": "Hawkish",
-      "D": "Tight"
+    {
+        "id": 50,
+        "question": "भारत के समारिक निर्यात में किस क्षेत्र को भविष्य में सबसे अधिक विकास की संभावना है? / Which area of India's defense exports has the most growth potential in the future?",
+        "options": {
+            "A": "ड्रोन और UAV (Drones and UAVs)",
+            "B": "सॉफ्टवेयर और साइबर सुरक्षा (Software and Cyber Security)",
+            "C": "युद्धपोत (Warships)",
+            "D": "रॉकेट और मिसाइल (Rockets and Missiles)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 51,
-    "question": "RBI ने जून 2025 की CRR कटौती को कैसे लागू करने की योजना बनाई थी? / How did RBI plan to implement the CRR cut made in June 2025?",
-    "options": {
-      "A": "एक बार में / At once",
-      "B": "चार किश्तों में / In four installments",
-      "C": "महीने-दर-महीने / Monthly",
-      "D": "तुरंत / Immediately"
+    {
+        "id": 51,
+        "question": "भारत से सबसे अधिक निर्यात होने वाली तकनीकी सेवा कौन सी है? / Which is the most exported technology service from India?",
+        "options": {
+            "A": "सूचना प्रौद्योगिकी सेवाएं (Information Technology Services)",
+            "B": "क्लाउड कंप्यूटिंग (Cloud Computing)",
+            "C": "डिजिटल मार्केटिंग (Digital Marketing)",
+            "D": "साइबर सुरक्षा सेवाएं (Cybersecurity Services)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 52,
-    "question": "RBI ने Repo Rate को किस Act के अंतर्गत जारी करने का अधिकार प्राप्त किया है? / Under which Act does RBI get authority to issue repo rate decisions?",
-    "options": {
-      "A": "RBI Act, 1934",
-      "B": "Banking Regulation Act, 1949",
-      "C": "FEMA, 1999",
-      "D": "FRBM Act, 2003"
+    {
+        "id": 52,
+        "question": "भारत के प्रमुख तकनीकी उत्पादों में से कौन सा सबसे अधिक निर्यात होता है? / Which among the following is one of the major technology products exported by India?",
+        "options": {
+            "A": "सॉफ्टवेयर उत्पाद (Software Products)",
+            "B": "स्मार्टफोन (Smartphones)",
+            "C": "सोलर पैनल (Solar Panels)",
+            "D": "कंप्यूटर हार्डवेयर (Computer Hardware)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 53,
-    "question": "रिजर्व बैंक के गवर्नर का मौद्रिक नीति निर्णय में क्या भूमिका होती है? / What is the role of the RBI Governor in monetary policy decisions?",
-    "options": {
-      "A": "एकल निर्णयकर्ता / Sole decision-maker",
-      "B": "MPC का अध्यक्ष / Chairperson of MPC",
-      "C": "वित्त मंत्री के साथ निर्णय लेता है / Co-decides with Finance Minister",
-      "D": "केवल सलाहकार / Only adviser"
+    {
+        "id": 53,
+        "question": "भारत की किस सेवा क्षेत्र ने निर्यात में सबसे तेजी दिखाई है? / Which service sector in India has shown the fastest growth in exports?",
+        "options": {
+            "A": "IT और सॉफ्टवेयर (IT and Software)",
+            "B": "इंजीनियरिंग सेवाएं (Engineering Services)",
+            "C": "कंसल्टिंग (Consulting)",
+            "D": "टेलीकॉम सेवाएं (Telecom Services)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 54,
-    "question": "RBI की वर्तमान मौद्रिक नीति समिति (MPC) में कितने सदस्य होते हैं? / How many members are there in the current RBI Monetary Policy Committee?",
-    "options": {
-      "A": "5",
-      "B": "6",
-      "C": "7",
-      "D": "8"
+    {
+        "id": 54,
+        "question": "भारत किस देश को सबसे अधिक IT सेवा निर्यात करता है? / To which country does India export the most IT services?",
+        "options": {
+            "A": "संयुक्त राज्य अमेरिका (USA)",
+            "B": "यूनाइटेड किंगडम (UK)",
+            "C": "जर्मनी (Germany)",
+            "D": "ऑस्ट्रेलिया (Australia)"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 55,
-    "question": "RBI ने जून 2025 में कुल कितनी आधार अंकों की वृद्धि की थी? / What is the total repo rate reduction in basis points by RBI during 2025 up to June?",
-    "options": {
-      "A": "50 bps",
-      "B": "75 bps",
-      "C": "100 bps",
-      "D": "125 bps"
+    {
+        "id": 55,
+        "question": "भारत के IT निर्यात में किस प्रकार की सेवाएं शामिल हैं? (एक से अधिक सही विकल्प चुनें) / Which types of services are included in India's IT exports? (Select all that apply)",
+        "options": {
+            "A": "क्लाउड सेवाएं (Cloud Services)",
+            "B": "सॉफ्टवेयर विकास (Software Development)",
+            "C": "डेटा एनालिटिक्स (Data Analytics)",
+            "D": "कृषि तकनीक (Agritech)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
     },
-    "answer": ["C"]
-  },
-  {
-    "id": 56,
-    "question": "‘Neutral’ policy stance का क्या अर्थ होता है? / What does a 'neutral' policy stance mean?",
-    "options": {
-      "A": "ब्याज दरें घटाना / To cut rates",
-      "B": "ब्याज दरें बढ़ाना / To hike rates",
-      "C": "वर्तमान स्थिति बनाए रखना / Maintaining current stance",
-      "D": "बहुत सख्त मानना / Harsh tightening"
+    {
+        "id": 56,
+        "question": "भारत के प्रमुख तकनीकी निर्यात में किस क्षेत्र को भविष्य में तेजी से बढ़ने की संभावना है? / Which sector in India's technology exports is likely to grow rapidly in the future?",
+        "options": {
+            "A": "आर्टिफिशियल इंटेलिजेंस (Artificial Intelligence)",
+            "B": "ब्लॉकचेन तकनीक (Blockchain Technology)",
+            "C": "कंप्यूटर गेमिंग (Computer Gaming)",
+            "D": "बायोटेक्नोलॉजी (Biotechnology)"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["C"]
-  },
-  {
-    "id": 57,
-    "question": "RBI ने अगस्त 2025 की MPC बैठक में Repo Rate पर क्या निर्णय लिया था? / What decision was taken on the repo rate at the August 2025 MPC meeting?",
-    "options": {
-      "A": "कटौती की गई / Cut",
-      "B": "रुको / Held",
-      "C": "बढ़ाई गई / Hiked",
-      "D": "रद्द / Cancelled"
+    {
+        "id": 57,
+        "question": "भारत में तकनीकी उत्पाद निर्यात के लिए प्रमुख केंद्र कौन से हैं? (एक से अधिक सही विकल्प चुनें) / Which are the major hubs for technology product exports in India? (Select all that apply)",
+        "options": {
+            "A": "बेंगलुरु (Bengaluru)",
+            "B": "पुणे (Pune)",
+            "C": "कोलकाता (Kolkata)",
+            "D": "गुड़गांव (Gurgaon)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 58,
-    "question": "Rate-sensitive सेक्टरों (banking, NBFCs, real estate) को कौन-सा प्रभाव हुआ जब repo rate अपरिवर्तित रखा गया? / What impact did holding the repo rate have on rate-sensitive sectors like banking, NBFCs, real estate?",
-    "options": {
-      "A": "बढ़ोतरी / Rise",
-      "B": "तकरीबन 4% गिरावट / Up to 4% fall",
-      "C": "कोई प्रभाव नहीं / No impact",
-      "D": "10% की वृद्धि / 10% increase"
+    {
+        "id": 58,
+        "question": "भारत से निर्यात किए जाने वाले सॉफ्टवेयर उत्पादों में मुख्य रूप से क्या शामिल है? / What mainly constitutes India's software export products?",
+        "options": {
+            "A": "एंटरप्राइज सॉफ्टवेयर (Enterprise Software)",
+            "B": "गेमिंग सॉफ्टवेयर (Gaming Software)",
+            "C": "एजुकेशनल ऐप्स (Educational Apps)",
+            "D": "एंटीवायरस सॉफ्टवेयर (Antivirus Software)"
+        },
+        "answer": [
+            "A",
+            "D"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 59,
-    "question": "RBI का अगला कार्य क्या है जब मौद्रिक नीति को तैयार किया जाता है? / What is the next action by RBI when monetary policy is crafted?",
-    "options": {
-      "A": "NITI Aayog से चर्चा / Consult NITI Aayog",
-      "B": "MPC बैठक बुलाना / Convene MPC meeting",
-      "C": "पोलिसी को संसद में ले जाना / Present policy in Parliament",
-      "D": "राष्ट्रपति से मंजूरी लेना / Seek Presidential approval"
+    {
+        "id": 59,
+        "question": "भारत के IT निर्यात के लिए कौन सा विदेशी मुद्रा सबसे महत्वपूर्ण है? / Which foreign currency is most important for India's IT exports?",
+        "options": {
+            "A": "डॉलर (USD)",
+            "B": "यूरो (Euro)",
+            "C": "पाउंड स्टर्लिंग (Pound Sterling)",
+            "D": "युआन (Yuan)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["B"]
-  },
-  {
-    "id": 60,
-    "question": "RBI के बाहरी जोखिमों में से कौन-सा प्रमुख जोखिम बताया गया? / Which external risk was highlighted by RBI during policy review?",
-    "options": {
-      "A": "Global trade tensions / वैश्विक व्यापार तनाव",
-      "B": "Domestic fiscal deficit / घरेलू राजकोषीय घाटा",
-      "C": "Internal banking stress / आंतरिक बैंकिंग तनाव",
-      "D": "Monsoon failure / मानसून असफलता"
+    {
+        "id": 60,
+        "question": "भारत की तकनीकी सेवाओं के निर्यात में किन कंपनियों का प्रमुख योगदान है? (एक से अधिक सही विकल्प चुनें) / Which companies contribute majorly to India's technology services exports? (Select all that apply)",
+        "options": {
+            "A": "टाटा कंसल्टेंसी सर्विसेज (TCS)",
+            "B": "इन्फोसिस (Infosys)",
+            "C": "विप्रो (Wipro)",
+            "D": "रिलायंस इंडस्ट्रीज (Reliance Industries)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
     },
-    "answer": ["A"]
-  }
+    {
+        "id": 61,
+        "question": "भारत का नवीकरणीय ऊर्जा निर्यात किस उत्पाद में सबसे अधिक है? / What is India's highest export product in renewable energy sector?",
+        "options": {
+            "A": "सोलर पैनल (Solar Panels)",
+            "B": "विंड टरबाइन पार्ट्स (Wind Turbine Parts)",
+            "C": "बैटरी टेक्नोलॉजी (Battery Technology)",
+            "D": "हाइड्रो पावर इक्विपमेंट (Hydro Power Equipment)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 62,
+        "question": "भारत के नवीकरणीय ऊर्जा निर्यात में प्रमुख बाजार कौन से हैं? (एक से अधिक सही विकल्प चुनें) / Which are the major markets for India’s renewable energy exports? (Select all that apply)",
+        "options": {
+            "A": "संयुक्त राज्य अमेरिका (USA)",
+            "B": "यूरोपीय संघ (European Union)",
+            "C": "चीन (China)",
+            "D": "ऑस्ट्रेलिया (Australia)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "id": 63,
+        "question": "भारत की कृषि निर्यात में कौन से हाई-टेक उत्पाद शामिल हैं? / Which high-tech products are included in India’s agricultural exports?",
+        "options": {
+            "A": "हाइब्रिड बीज (Hybrid Seeds)",
+            "B": "ऑर्गेनिक फॉर्मिंग प्रोडक्ट्स (Organic Farming Products)",
+            "C": "जैविक उर्वरक (Biofertilizers)",
+            "D": "कृषि ड्रोन (Agricultural Drones)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "id": 64,
+        "question": "भारत के कृषि निर्यात में प्रमुख लक्ष्य बाजार कौन से हैं? (एक से अधिक सही विकल्प चुनें) / What are the major target markets for India's agricultural exports? (Select all that apply)",
+        "options": {
+            "A": "मध्य पूर्व (Middle East)",
+            "B": "यूरोप (Europe)",
+            "C": "अफ्रीका (Africa)",
+            "D": "उत्तर अमेरिका (North America)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "id": 65,
+        "question": "नीचे दिए गए किस सरकारी योजना का उद्देश्य कृषि निर्यात को बढ़ावा देना है? / Which of the following government schemes aims to promote agricultural exports?",
+        "options": {
+            "A": "एग्रो एक्सपोर्ट प्रमोशन योजना (Agriexport Promotion Scheme)",
+            "B": "डिफेंस एक्सपोर्ट प्रमोशन काउंसिल (Defence Export Promotion Council)",
+            "C": "प्रोडक्शन लिंक्ड इंसेंटिव (Production Linked Incentive)",
+            "D": "फसल बीमा योजना (Crop Insurance Scheme)"
+        },
+        "answer": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "id": 66,
+        "question": "भारत में फार्मास्यूटिकल्स निर्यात का प्रमुख बाजार कौन सा है? / What is the major market for India's pharmaceutical exports?",
+        "options": {
+            "A": "संयुक्त राज्य अमेरिका (USA)",
+            "B": "यूरोप (Europe)",
+            "C": "लैटिन अमेरिका (Latin America)",
+            "D": "मध्य पूर्व (Middle East)"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "id": 67,
+        "question": "भारत के फार्मास्यूटिकल्स और मेडिकल डिवाइस निर्यात में मुख्य उत्पाद कौन से हैं? (एक से अधिक सही विकल्प चुनें) / What are the main products in India's pharmaceutical and medical device exports? (Select all that apply)",
+        "options": {
+            "A": "जेनरिक दवाएं (Generic Medicines)",
+            "B": "वैक्सीन (Vaccines)",
+            "C": "डायग्नोस्टिक उपकरण (Diagnostic Devices)",
+            "D": "सर्जिकल उपकरण (Surgical Instruments)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ]
+    },
+    {
+        "id": 68,
+        "question": "भारत में फार्मा निर्यात के लिए किस संस्था का प्रमुख योगदान है? / Which institution plays a major role in India’s pharma exports?",
+        "options": {
+            "A": "सेरम इंस्टीट्यूट ऑफ इंडिया (Serum Institute of India)",
+            "B": "भारतीय औषधि उद्योग महासंघ (Pharmaceuticals Export Promotion Council of India)",
+            "C": "डीआरडीओ (DRDO)",
+            "D": "फूड सेफ्टी एंड स्टैंडर्ड्स अथॉरिटी ऑफ इंडिया (FSSAI)"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "id": 69,
+        "question": "भारत के नवीकरणीय ऊर्जा निर्यात का अनुमानित मूल्य क्या है? (2024-25) / What is the estimated value of India’s renewable energy exports? (2024-25)",
+        "options": {
+            "A": "₹10,000 करोड़ (₹100 billion)",
+            "B": "₹25,000 करोड़ (₹250 billion)",
+            "C": "₹40,000 करोड़ (₹400 billion)",
+            "D": "₹60,000 करोड़ (₹600 billion)"
+        },
+        "answer": [
+            "B"
+        ]
+    },
+    {
+        "id": 70,
+        "question": "भारत किस योजना के माध्यम से नवीकरणीय ऊर्जा निर्यात को प्रोत्साहित करता है? / Which scheme promotes renewable energy exports from India?",
+        "options": {
+            "A": "मेक इन इंडिया (Make in India)",
+            "B": "नवीकरणीय ऊर्जा विकास योजना (Renewable Energy Development Scheme)",
+            "C": "इलेक्ट्रॉनिक्स उत्पादन प्रोत्साहन योजना (Electronics Production Incentive Scheme)",
+            "D": "स्वच्छ ऊर्जा एक्सपोर्ट योजना (Clean Energy Export Scheme)"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "id": 71,
+        "question": "ISRO की कौन सी सेवा भारत की स्पेस टेक्नोलॉजी निर्यात का मुख्य हिस्सा है? / Which ISRO service forms the major part of India's space technology exports?",
+        "options": {
+            "A": "सैटेलाइट लॉन्च सेवाएं (Satellite Launch Services)",
+            "B": "स्पेस रिसर्च (Space Research)",
+            "C": "मानवरहित मिशन (Unmanned Missions)",
+            "D": "स्पेस एजुकेशन (Space Education)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 72,
+        "question": "भारत किस प्रकार के डेटा को विदेशी बाजारों को बेचता है जो स्पेस टेक्नोलॉजी से संबंधित है? / What type of data related to space technology does India sell to foreign markets?",
+        "options": {
+            "A": "रिमोट सेंसिंग डेटा (Remote Sensing Data)",
+            "B": "वायुमंडलीय डेटा (Atmospheric Data)",
+            "C": "खगोलिक डेटा (Astronomical Data)",
+            "D": "मानव अंतरिक्ष डेटा (Human Space Data)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 73,
+        "question": "निम्नलिखित में से कौन से भारत के प्रमुख इलेक्ट्रॉनिक्स मैन्युफैक्चरिंग हब हैं? (एक से अधिक सही विकल्प चुनें) / Which of the following are major electronics manufacturing hubs in India? (Select all that apply)",
+        "options": {
+            "A": "बेंगलुरु (Bengaluru)",
+            "B": "चेनई (Chennai)",
+            "C": "हैदराबाद (Hyderabad)",
+            "D": "कोलकाता (Kolkata)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "id": 74,
+        "question": "भारत में स्मार्टफोन और इलेक्ट्रॉनिक उत्पादों के निर्यात में किस वर्ष में सबसे अधिक वृद्धि हुई? / In which year did India see the highest growth in smartphone and electronic product exports?",
+        "options": {
+            "A": "2019-20",
+            "B": "2020-21",
+            "C": "2021-22",
+            "D": "2022-23"
+        },
+        "answer": [
+            "D"
+        ]
+    },
+    {
+        "id": 75,
+        "question": "भारत के स्टार्टअप इकोसिस्टम में किस क्षेत्र में निर्यात की सबसे अधिक संभावना है? / Which sector in India’s startup ecosystem shows the highest export potential?",
+        "options": {
+            "A": "सॉफ्टवेयर सेवाएं (Software Services)",
+            "B": "इलेक्ट्रॉनिक्स डिजाइन (Electronics Design)",
+            "C": "फिनटेक (FinTech)",
+            "D": "एग्रीटेक (AgriTech)"
+        },
+        "answer": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "id": 76,
+        "question": "भारत के यूनिकॉर्न स्टार्टअप्स का वैश्विक व्यापार में योगदान किस प्रकार होता है? / How do Indian unicorn startups contribute to global trade?",
+        "options": {
+            "A": "उच्च तकनीकी सेवा निर्यात (High-tech service exports)",
+            "B": "विदेशी निवेश आकर्षित करना (Attracting foreign investment)",
+            "C": "विनिर्माण निर्यात (Manufacturing exports)",
+            "D": "शोध और विकास (Research & Development)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "id": 77,
+        "question": "भारत सरकार की कौन सी नीति स्टार्टअप निर्यात को बढ़ावा देती है? / Which government policy promotes startup exports in India?",
+        "options": {
+            "A": "मेक इन इंडिया (Make in India)",
+            "B": "डिजिटल इंडिया (Digital India)",
+            "C": "स्टार्टअप इंडिया (Startup India)",
+            "D": "स्मार्ट सिटीज़ मिशन (Smart Cities Mission)"
+        },
+        "answer": [
+            "C"
+        ]
+    },
+    {
+        "id": 78,
+        "question": "भारत के स्पेस टेक्नोलॉजी निर्यात में भविष्य में किस क्षेत्र में वृद्धि की संभावना है? / Which area in India's space technology exports is expected to grow in the future?",
+        "options": {
+            "A": "सैटेलाइट कम्युनिकेशन (Satellite Communication)",
+            "B": "अंतरिक्ष पर्यटन (Space Tourism)",
+            "C": "चंद्र मिशन (Moon Missions)",
+            "D": "मानव मिशन (Human Missions)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 79,
+        "question": "भारत का इलेक्ट्रॉनिक्स निर्यात किस प्रमुख क्षेत्र से जुड़ा हुआ है? / India's electronics exports are primarily linked to which sector?",
+        "options": {
+            "A": "स्मार्टफोन और मोबाइल उपकरण (Smartphones and Mobile Devices)",
+            "B": "घरेलू उपकरण (Home Appliances)",
+            "C": "औद्योगिक उपकरण (Industrial Equipment)",
+            "D": "खेल उपकरण (Sports Equipment)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 80,
+        "question": "भारत के स्टार्टअप्स के वैश्विक विस्तार में निम्न में से कौन-से कारक महत्वपूर्ण हैं? (एक से अधिक सही विकल्प चुनें) / Which factors are important for the global expansion of Indian startups? (Select all that apply)",
+        "options": {
+            "A": "तकनीकी नवाचार (Technological Innovation)",
+            "B": "सरकारी समर्थन (Government Support)",
+            "C": "विदेशी बाजारों में नेटवर्किंग (Networking in foreign markets)",
+            "D": "स्थानीय उपभोक्ता मांग (Local Consumer Demand)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "id": 81,
+        "question": "भारत में स्टार्टअप इकोसिस्टम को प्रोत्साहित करने वाली प्रमुख सरकारी योजना कौन सी है? / Which is the key government initiative encouraging the startup ecosystem in India?",
+        "options": {
+            "A": "स्टार्टअप इंडिया (Startup India)",
+            "B": "मेक इन इंडिया (Make in India)",
+            "C": "डिजिटल इंडिया (Digital India)",
+            "D": "क्लीन एनर्जी मिशन (Clean Energy Mission)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 82,
+        "question": "भारत के यूनिकॉर्न स्टार्टअप्स किस क्षेत्र में वैश्विक निर्यात सेवाओं में सबसे अधिक सक्रिय हैं? / In which sector are Indian unicorn startups most active in global export services?",
+        "options": {
+            "A": "फिनटेक (FinTech)",
+            "B": "ई-कॉमर्स (E-commerce)",
+            "C": "एजुकेशन टेक्नोलॉजी (EdTech)",
+            "D": "ऑटोमोटिव टेक्नोलॉजी (Automotive Technology)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "id": 83,
+        "question": "भारत में स्टार्टअप्स के वैश्विक विस्तार के लिए कौन-से कारक महत्वपूर्ण हैं? (एक से अधिक सही विकल्प चुनें) / What are important factors for global expansion of Indian startups? (Select all that apply)",
+        "options": {
+            "A": "तकनीकी नवाचार (Technological Innovation)",
+            "B": "सरकारी नीतियाँ (Government Policies)",
+            "C": "विदेशी निवेश (Foreign Investment)",
+            "D": "स्थानीय उपभोक्ता मांग (Local Consumer Demand)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "id": 84,
+        "question": "भारत की साइबर सुरक्षा सेवा निर्यात में सबसे तेजी से बढ़ रहा क्षेत्र कौन सा है? / Which sector is the fastest growing in India’s cybersecurity services export?",
+        "options": {
+            "A": "मैनेज्ड सिक्योरिटी सर्विसेज (Managed Security Services)",
+            "B": "थ्रेट इंटेलिजेंस (Threat Intelligence)",
+            "C": "साइबर रिस्पॉन्स (Cyber Response)",
+            "D": "साइबर फॉरेंसिक्स (Cyber Forensics)"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "id": 85,
+        "question": "भारत की साइबर सुरक्षा निर्यात के लिए प्रमुख लक्ष्य बाजार कौन से हैं? (एक से अधिक सही विकल्प चुनें) / What are the major target markets for India’s cybersecurity exports? (Select all that apply)",
+        "options": {
+            "A": "संयुक्त राज्य अमेरिका (USA)",
+            "B": "यूरोपियन यूनियन (European Union)",
+            "C": "चीन (China)",
+            "D": "ऑस्ट्रेलिया (Australia)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "id": 86,
+        "question": "भारत की साइबर सुरक्षा सेवाओं के निर्यात को बढ़ावा देने वाली कौन सी पहल है? / Which initiative promotes export of cybersecurity services from India?",
+        "options": {
+            "A": "डिजिटल इंडिया (Digital India)",
+            "B": "स्टार्टअप इंडिया (Startup India)",
+            "C": "क्लीन एनर्जी मिशन (Clean Energy Mission)",
+            "D": "मेक इन इंडिया (Make in India)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ]
+    },
+    {
+        "id": 87,
+        "question": "भारत के स्टार्टअप्स द्वारा दुनिया भर में कौन-से नए बाजारों में प्रवेश किया गया है? (एक से अधिक सही विकल्प चुनें) / Which new markets have Indian startups entered globally? (Select all that apply)",
+        "options": {
+            "A": "दक्षिण पूर्व एशिया (Southeast Asia)",
+            "B": "मध्य पूर्व (Middle East)",
+            "C": "अफ्रीका (Africa)",
+            "D": "अंटार्कटिका (Antarctica)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "id": 88,
+        "question": "साइबर सुरक्षा निर्यात के क्षेत्र में भारत की कौन सी विशिष्ट ताकत है? / What is a unique strength of India in cybersecurity exports?",
+        "options": {
+            "A": "विशाल आईटी टैलेंट पूल (Large IT Talent Pool)",
+            "B": "सस्ती सेवा लागत (Cost-effective Services)",
+            "C": "तकनीकी नवाचार (Technological Innovation)",
+            "D": "सशस्त्र बलों का समर्थन (Military Support)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "id": 89,
+        "question": "भारत के स्टार्टअप निर्यात में सबसे अधिक इस्तेमाल होने वाली तकनीक कौन सी है? / Which technology is most commonly used in Indian startup exports?",
+        "options": {
+            "A": "क्लाउड कंप्यूटिंग (Cloud Computing)",
+            "B": "आर्टिफिशियल इंटेलिजेंस (Artificial Intelligence)",
+            "C": "ब्लॉकचेन (Blockchain)",
+            "D": "वर्चुअल रियलिटी (Virtual Reality)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "id": 90,
+        "question": "भारत के स्टार्टअप इकोसिस्टम के वैश्विक प्रभाव को बढ़ाने के लिए क्या आवश्यक है? / What is necessary to increase the global impact of India’s startup ecosystem?",
+        "options": {
+            "A": "सरकारी सहायता और नीति समर्थन (Government aid and policy support)",
+            "B": "वैश्विक नेटवर्किंग (Global networking)",
+            "C": "उच्च गुणवत्ता वाली शिक्षा (High-quality education)",
+            "D": "स्थानीय बाजारों पर अधिक निर्भरता (More dependence on local markets)"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+    {
+        "id": 91,
+        "question": "भारत का सबसे बड़ा आयात स्रोत कौन सा देश है? / Which is the largest import source country for India?",
+        "options": {
+            "A": "चीन (China)",
+            "B": "संयुक्त राज्य अमेरिका (USA)",
+            "C": "संयुक्त अरब अमीरात (UAE)",
+            "D": "जापान (Japan)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 92,
+        "question": "चीन से भारत कौन-कौन से मुख्य सामान आयात करता है? / What are the main items imported by India from China?",
+        "options": {
+            "A": "इलेक्ट्रॉनिक्स और मशीनरी (Electronics and Machinery)",
+            "B": "कपड़े और वस्त्र (Clothes and Textiles)",
+            "C": "रसायन और उपभोक्ता वस्तुएं (Chemicals and Consumer Goods)",
+            "D": "खाद्य पदार्थ (Food Items)"
+        },
+        "answer": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "id": 93,
+        "question": "संयुक्त राज्य अमेरिका से भारत क्या मुख्य रूप से आयात करता है? / What does India mainly import from the United States?",
+        "options": {
+            "A": "मशीनरी, विमान, इलेक्ट्रॉनिक्स, मेडिकल उपकरण (Machinery, Aircraft, Electronics, Medical Equipment)",
+            "B": "कृषि उत्पाद (Agricultural Products)",
+            "C": "कपड़े (Clothing)",
+            "D": "कंप्यूटर सॉफ्टवेयर (Computer Software)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 94,
+        "question": "संयुक्त अरब अमीरात (UAE) से भारत किस प्रकार का प्रमुख आयात करता है? / What major items does India import from UAE?",
+        "options": {
+            "A": "क्रूड ऑयल, कीमती धातुएं, मोती (Crude Oil, Precious Metals, Pearls)",
+            "B": "फलों और सब्जियों (Fruits and Vegetables)",
+            "C": "कपड़े और फैशन आइटम (Clothes and Fashion Items)",
+            "D": "इलेक्ट्रॉनिक्स (Electronics)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 95,
+        "question": "भारत का सऊदी अरब से मुख्य आयात क्या है? / What is the main import from Saudi Arabia to India?",
+        "options": {
+            "A": "क्रूड ऑयल और पेट्रोकेमिकल्स (Crude Oil and Petrochemicals)",
+            "B": "फलों का रस (Fruit Juice)",
+            "C": "मशीनरी (Machinery)",
+            "D": "कपड़ा (Clothing)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 96,
+        "question": "स्विट्ज़रलैंड से भारत क्या आयात करता है? / What does India import from Switzerland?",
+        "options": {
+            "A": "सोना, कीमती धातुएं, रसायन (Gold, Precious Metals, Chemicals)",
+            "B": "फूल (Flowers)",
+            "C": "कार और वाहन (Cars and Vehicles)",
+            "D": "कंप्यूटर उपकरण (Computer Hardware)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 97,
+        "question": "दक्षिण कोरिया से भारत कौन से मुख्य वस्तु आयात करता है? / Which major items does India import from South Korea?",
+        "options": {
+            "A": "इलेक्ट्रॉनिक्स, मशीनरी, रसायन (Electronics, Machinery, Chemicals)",
+            "B": "कृषि उपकरण (Agricultural Equipment)",
+            "C": "कपड़े (Textiles)",
+            "D": "दवाइयाँ (Medicines)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 98,
+        "question": "इंडोनेशिया से भारत के प्रमुख आयात क्या हैं? / What are India's major imports from Indonesia?",
+        "options": {
+            "A": "कोयला, पाम ऑयल, इलेक्ट्रॉनिक्स (Coal, Palm Oil, Electronics)",
+            "B": "फूल और फलों (Flowers and Fruits)",
+            "C": "कार और वाहनों (Cars and Vehicles)",
+            "D": "फैशन आइटम (Fashion Items)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 99,
+        "question": "जापान से भारत का प्रमुख आयात क्या है? / What is the main import from Japan to India?",
+        "options": {
+            "A": "मशीनरी, ऑटोमोबाइल, इलेक्ट्रॉनिक्स (Machinery, Automobiles, Electronics)",
+            "B": "कृषि उपकरण (Agricultural Equipment)",
+            "C": "खाद्य पदार्थ (Food Items)",
+            "D": "कपड़ा (Textiles)"
+        },
+        "answer": [
+            "A"
+        ]
+    },
+    {
+        "id": 100,
+        "question": "जर्मनी से भारत का प्रमुख आयात क्या है? / What are the main imports from Germany to India?",
+        "options": {
+            "A": "मशीनरी, रसायन, वाहन (Machinery, Chemicals, Vehicles)",
+            "B": "कृषि उत्पाद (Agricultural Products)",
+            "C": "फर्नीचर (Furniture)",
+            "D": "इलेक्ट्रॉनिक्स (Electronics)"
+        },
+        "answer": [
+            "A"
+        ]
+    }
 ]
-
-
-
