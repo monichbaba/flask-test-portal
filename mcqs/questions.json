@@ -1,630 +1,664 @@
 [
   {
     "id": 1,
-    "question": "निम्नलिखित में से कौन-से ग्रीनहाउस गैसें हैं? / Which of the following are greenhouse gases?",
+    "question": "‘आत्मनिर्भर भारत’ अभियान के अंतर्गत घोषित पाँच स्तंभ कौन-कौन से हैं? / What are the five pillars announced under the 'Aatmanirbhar Bharat' campaign?",
     "options": {
-      "A": "कार्बन डाइऑक्साइड / Carbon dioxide",
-      "B": "मीथेन / Methane",
-      "C": "नाइट्रोजन / Nitrogen",
-      "D": "नाइट्रस ऑक्साइड / Nitrous oxide"
+      "A": "Economy / अर्थव्यवस्था",
+      "B": "Infrastructure / अवसंरचना",
+      "C": "Technology-Driven System / प्रौद्योगिकी-चालित प्रणाली",
+      "D": "Vibrant Demography / जीवंत जनसांख्यिकी",
+      "E": "Demand / मांग"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B", "C", "D", "E"]
   },
   {
     "id": 2,
-    "question": "RAMSAR सम्मेलन के बारे में निम्न में से क्या सही है? / Which of the following statements about the RAMSAR Convention are correct?",
+    "question": "‘आत्मनिर्भर भारत’ पैकेज की घोषणा किस वर्ष में की गई थी? / In which year was the 'Aatmanirbhar Bharat' package announced?",
     "options": {
-      "A": "यह आर्द्रभूमियों के संरक्षण से संबंधित है / It is related to the conservation of wetlands",
-      "B": "इसकी शुरुआत 1971 में ईरान के रामसर में हुई थी / It was initiated in 1971 at Ramsar, Iran",
-      "C": "यह केवल समुद्री पारिस्थितिकी तंत्र पर लागू होता है / It applies only to marine ecosystems",
-      "D": "भारत इसका सदस्य नहीं है / India is not a member"
+      "A": "2018",
+      "B": "2019",
+      "C": "2020",
+      "D": "2021"
     },
-    "answer": ["A", "B"]
+    "answer": ["C"]
   },
   {
     "id": 3,
-    "question": "बायोस्फीयर रिज़र्व के संबंध में सही कथन चुनिए: / Choose the correct statements regarding Biosphere Reserves:",
+    "question": "आत्मनिर्भर भारत अभियान में घोषित कुल पैकेज (2020) का आकार GDP के कितने प्रतिशत के बराबर था? / The total package announced under Aatmanirbhar Bharat (2020) was approximately what percentage of GDP?",
     "options": {
-      "A": "ये मानव और प्रकृति के बीच सामंजस्य स्थापित करने के लिए बनाए जाते हैं / These are created to establish harmony between humans and nature",
-      "B": "ये केवल भारत में पाए जाते हैं / They are found only in India",
-      "C": "इनमें कोर, बफर और ट्रांजिशन ज़ोन होते हैं / They have core, buffer, and transition zones",
-      "D": "ये केवल यूनेस्को द्वारा घोषित होते हैं / They are declared only by UNESCO"
+      "A": "5%",
+      "B": "8%",
+      "C": "10%",
+      "D": "15%"
     },
-    "answer": ["A", "C"]
+    "answer": ["C"]
   },
   {
     "id": 4,
-    "question": "पर्यावरण प्रभाव मूल्यांकन (EIA) का उद्देश्य क्या है? / What is the purpose of Environmental Impact Assessment (EIA)?",
+    "question": "आत्मनिर्भर भारत अभियान के तहत MSME सुधारों में कौन-सी पहलें शामिल थीं? / Which of the following initiatives were included in MSME reforms under Aatmanirbhar Bharat?",
     "options": {
-      "A": "पर्यावरणीय नुकसान का पूर्व मूल्यांकन / Prior assessment of environmental damage",
-      "B": "उद्योगों को बिना शर्त स्वीकृति देना / Granting unconditional clearance to industries",
-      "C": "स्थायी विकास को बढ़ावा देना / Promoting sustainable development",
-      "D": "पर्यावरणीय नियमों को हटाना / Removing environmental regulations"
+      "A": "Definition change of MSMEs / MSMEs की परिभाषा में बदलाव",
+      "B": "Collateral-free loans / बिना गारंटी के ऋण",
+      "C": "Global tenders disallowed up to ₹200 crore / ₹200 करोड़ तक के लिए वैश्विक निविदाओं पर रोक",
+      "D": "Export subsidy for all MSMEs / सभी MSMEs के लिए निर्यात सब्सिडी"
     },
-    "answer": ["A", "C"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 5,
-    "question": "निम्नलिखित में से कौन-से प्रदूषक 'प्राथमिक प्रदूषक' कहलाते हैं? / Which of the following are considered 'primary pollutants'?",
+    "question": "आत्मनिर्भर भारत के तहत कृषि क्षेत्र में कौन-सी योजनाएं या सुधार घोषित किए गए थे? / Which schemes or reforms were announced in the agriculture sector under Aatmanirbhar Bharat?",
     "options": {
-      "A": "सल्फर डाइऑक्साइड / Sulfur dioxide",
-      "B": "कार्बन मोनोऑक्साइड / Carbon monoxide",
-      "C": "ओज़ोन / Ozone",
-      "D": "नाइट्रस ऑक्साइड्स / Nitrous oxides"
+      "A": "Agriculture Infrastructure Fund / कृषि अवसंरचना कोष",
+      "B": "Amendments to Essential Commodities Act / आवश्यक वस्तु अधिनियम में संशोधन",
+      "C": "One Nation One Ration Card / एक राष्ट्र एक राशन कार्ड",
+      "D": "Animal Husbandry Infrastructure Development Fund / पशुपालन अवसंरचना विकास कोष"
     },
     "answer": ["A", "B", "D"]
   },
   {
     "id": 6,
-    "question": "क्लाइमेट चेंज प्रदर्शन सूचकांक (CCPI) में भारत के प्रदर्शन से जुड़े सही कथन चुनिए: / Choose the correct statements about India's performance in the Climate Change Performance Index (CCPI):",
+    "question": "आत्मनिर्भर भारत अभियान का मुख्य उद्देश्य क्या है? / What is the main objective of the Aatmanirbhar Bharat campaign?",
     "options": {
-      "A": "भारत शीर्ष 10 देशों में शामिल रहा है / India has ranked among the top 10 countries",
-      "B": "यह सूचकांक ग्रीनहाउस गैस उत्सर्जन पर आधारित है / This index is based on GHG emissions",
-      "C": "यह संयुक्त राष्ट्र द्वारा प्रकाशित होता है / It is published by the United Nations",
-      "D": "भारत की रेटिंग हमेशा बहुत खराब रही है / India's rating has always been very poor"
+      "A": "Import substitution and domestic manufacturing boost / आयात प्रतिस्थापन और घरेलू विनिर्माण को बढ़ावा",
+      "B": "Reduce fiscal deficit / राजकोषीय घाटा कम करना",
+      "C": "Enhance self-reliance in key sectors / प्रमुख क्षेत्रों में आत्मनिर्भरता बढ़ाना",
+      "D": "Privatize all public sector enterprises / सभी सार्वजनिक उपक्रमों का निजीकरण"
     },
-    "answer": ["A", "B"]
+    "answer": ["A", "C"]
   },
   {
     "id": 7,
-    "question": "मोंट्रियल प्रोटोकॉल के अंतर्गत किस गैस का नियंत्रण किया जाता है? / Which gas is controlled under the Montreal Protocol?",
+    "question": "‘आत्मनिर्भर भारत’ पैकेज का वित्तीय घटक किन क्षेत्रों को कवर करता है? / The financial component of the Aatmanirbhar Bharat package covers which sectors?",
     "options": {
-      "A": "कार्बन डाइऑक्साइड / Carbon dioxide",
-      "B": "क्लोरोफ्लोरोकार्बन / Chlorofluorocarbons (CFCs)",
-      "C": "मीथेन / Methane",
-      "D": "नाइट्रस ऑक्साइड / Nitrous oxide"
+      "A": "MSMEs",
+      "B": "Agriculture",
+      "C": "Defence manufacturing",
+      "D": "Tourism"
+    },
+    "answer": ["A", "B", "C", "D"]
+  },
+  {
+    "id": 8,
+    "question": "One Nation One Ration Card योजना आत्मनिर्भर भारत अभियान के किस पहलू से जुड़ी है? / The One Nation One Ration Card scheme is linked to which aspect of the Aatmanirbhar Bharat campaign?",
+    "options": {
+      "A": "Food security for migrants / प्रवासी श्रमिकों के लिए खाद्य सुरक्षा",
+      "B": "Boosting manufacturing / विनिर्माण को बढ़ावा देना",
+      "C": "Promoting digital payments / डिजिटल भुगतान को प्रोत्साहित करना",
+      "D": "Defence indigenization / रक्षा स्वदेशीकरण"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 9,
+    "question": "‘आत्मनिर्भर भारत’ पैकेज में स्वास्थ्य क्षेत्र में कौन-से सुधार शामिल थे? / Which reforms were included in the health sector under the Aatmanirbhar Bharat package?",
+    "options": {
+      "A": "Public health lab network strengthening / सार्वजनिक स्वास्थ्य प्रयोगशाला नेटवर्क को मजबूत करना",
+      "B": "Infectious disease hospital blocks / संक्रामक रोग अस्पताल ब्लॉक",
+      "C": "Universal health insurance for all citizens / सभी नागरिकों के लिए सार्वभौमिक स्वास्थ्य बीमा",
+      "D": "Telemedicine expansion / टेलीमेडिसिन का विस्तार"
+    },
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 10,
+    "question": "आत्मनिर्भर भारत के तहत रक्षा क्षेत्र में कौन-सी पहल की गई? / Which initiative was taken in the defence sector under Aatmanirbhar Bharat?",
+    "options": {
+      "A": "Ban on import of certain weapons / कुछ हथियारों के आयात पर प्रतिबंध",
+      "B": "100% FDI allowed in defence manufacturing / रक्षा विनिर्माण में 100% एफडीआई की अनुमति",
+      "C": "Separate budget allocation for domestic procurement / घरेलू खरीद के लिए अलग बजट प्रावधान",
+      "D": "Merger of DRDO with HAL / डीआरडीओ का एचएएल के साथ विलय"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 11,
+    "question": "‘Aatmanirbhar Bharat Abhiyan’ के अंतर्गत किस सेक्टर को ‘Vocal for Local’ अभियान से सीधे जोड़ा गया है? / Which sector is directly linked with the 'Vocal for Local' campaign under Aatmanirbhar Bharat Abhiyan?",
+    "options": {
+      "A": "सूक्ष्म, लघु और मध्यम उद्यम (MSME) / Micro, Small and Medium Enterprises (MSME)",
+      "B": "सूचना प्रौद्योगिकी / Information Technology",
+      "C": "तेल और गैस / Oil and Gas",
+      "D": "रेल परिवहन / Rail Transport"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 12,
+    "question": "Aatmanirbhar Bharat Package के अंतर्गत MSME सेक्टर के लिए ऋण गारंटी योजना की अधिकतम सीमा कितनी तय की गई थी? / What was the maximum limit set for the loan guarantee scheme for the MSME sector under the Aatmanirbhar Bharat Package?",
+    "options": {
+      "A": "₹1 लाख करोड़ / ₹1 lakh crore",
+      "B": "₹2 लाख करोड़ / ₹2 lakh crore",
+      "C": "₹3 लाख करोड़ / ₹3 lakh crore",
+      "D": "₹5 लाख करोड़ / ₹5 lakh crore"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 13,
+    "question": "‘Aatmanirbhar Bharat’ के तहत ‘One Nation, One Ration Card’ योजना किसके लाभ के लिए शुरू की गई थी? / Under 'Aatmanirbhar Bharat', for whose benefit was the 'One Nation, One Ration Card' scheme launched?",
+    "options": {
+      "A": "ग्रामीण किसान / Rural Farmers",
+      "B": "शहरी प्रवासी मजदूर / Urban Migrant Workers",
+      "C": "औद्योगिक उद्यमी / Industrial Entrepreneurs",
+      "D": "महिला स्वयं सहायता समूह / Women Self Help Groups"
     },
     "answer": ["B"]
   },
   {
-    "id": 8,
-    "question": "जलवायु परिवर्तन के प्रभावों से कौन-कौन से क्षेत्र प्रभावित होते हैं? / Which of the following sectors are affected by climate change?",
+    "id": 14,
+    "question": "Aatmanirbhar Bharat Abhiyan में 'PM Gati Shakti Master Plan' का मुख्य उद्देश्य क्या है? / What is the main objective of the 'PM Gati Shakti Master Plan' under Aatmanirbhar Bharat Abhiyan?",
     "options": {
-      "A": "कृषि / Agriculture",
-      "B": "स्वास्थ्य / Health",
-      "C": "जल संसाधन / Water Resources",
-      "D": "सभी / All of the above"
+      "A": "निर्यात को बढ़ावा देना / Promote Exports",
+      "B": "बुनियादी ढांचे में मल्टी-मोडल कनेक्टिविटी / Multimodal Connectivity in Infrastructure",
+      "C": "कृषि उपज बढ़ाना / Increase Agricultural Yield",
+      "D": "विदेशी निवेश को कम करना / Reduce Foreign Investment"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 15,
+    "question": "Aatmanirbhar Bharat के तहत कृषि सुधारों में निम्नलिखित में से कौन सा शामिल है? / Which of the following is included in agricultural reforms under Aatmanirbhar Bharat?",
+    "options": {
+      "A": "कृषि उपज विपणन समिति (APMC) अधिनियम में बदलाव / Amendments in Agricultural Produce Market Committee (APMC) Act",
+      "B": "आवश्यक वस्तु अधिनियम (ECA) में संशोधन / Amendments in Essential Commodities Act (ECA)",
+      "C": "कॉन्ट्रैक्ट फार्मिंग कानून / Contract Farming Law",
+      "D": "उपरोक्त सभी / All of the above"
     },
     "answer": ["D"]
   },
   {
-    "id": 9,
-    "question": "क्योटो प्रोटोकॉल किससे संबंधित है? / The Kyoto Protocol is related to which of the following?",
+    "id": 16,
+    "question": "‘Aatmanirbhar Bharat Abhiyan’ का एक प्रमुख लक्ष्य कौन सा है? / Which is a key goal of 'Aatmanirbhar Bharat Abhiyan'?",
     "options": {
-      "A": "जैव विविधता संरक्षण / Biodiversity conservation",
-      "B": "ग्रीनहाउस गैस उत्सर्जन में कटौती / Reduction of greenhouse gas emissions",
-      "C": "परमाणु अप्रसार / Nuclear non-proliferation",
-      "D": "मानवाधिकार / Human rights"
+      "A": "विदेशी वस्तुओं का अधिकतम आयात / Maximum Import of Foreign Goods",
+      "B": "देशी उत्पादन और आपूर्ति श्रृंखला को मजबूत करना / Strengthening Domestic Production and Supply Chain",
+      "C": "केवल शहरी उद्योगों को समर्थन / Supporting Only Urban Industries",
+      "D": "विदेशी मुद्रा भंडार को घटाना / Reducing Foreign Exchange Reserves"
     },
     "answer": ["B"]
   },
   {
-    "id": 10,
-    "question": "निम्नलिखित में से कौन-से नवीकरणीय ऊर्जा स्रोत हैं? / Which of the following are renewable sources of energy?",
-    "options": {
-      "A": "सौर ऊर्जा / Solar energy",
-      "B": "पवन ऊर्जा / Wind energy",
-      "C": "कोयला / Coal",
-      "D": "जलविद्युत / Hydropower"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 11,
-    "question": "क्लाइमेट स्मार्ट एग्रीकल्चर के अंतर्गत क्या आता है? / Which of the following are part of Climate Smart Agriculture?",
-    "options": {
-      "A": "जलवायु सहिष्णु फसलों का विकास / Development of climate-resilient crops",
-      "B": "मृदा स्वास्थ्य में सुधार / Improving soil health",
-      "C": "ऊर्जा का अत्यधिक उपयोग / Excessive use of energy",
-      "D": "सिंचाई दक्षता बढ़ाना / Increasing irrigation efficiency"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 12,
-    "question": "नीली क्रांति (Blue Revolution) मुख्यतः किससे संबंधित है? / The Blue Revolution is primarily associated with which of the following?",
-    "options": {
-      "A": "मछली पालन / Fisheries",
-      "B": "जल प्रबंधन / Water management",
-      "C": "कृषि उत्पादन / Crop production",
-      "D": "डेयरी / Dairy"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 13,
-    "question": "UNFCCC के उद्देश्यों में क्या शामिल हैं? / What are the objectives of the UNFCCC?",
-    "options": {
-      "A": "जलवायु परिवर्तन को स्थिर करना / Stabilization of climate change",
-      "B": "सतत विकास को बढ़ावा देना / Promote sustainable development",
-      "C": "नाभिकीय हथियारों पर रोक / Ban on nuclear weapons",
-      "D": "विकासशील देशों को सहायता देना / Assist developing countries"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 14,
-    "question": "ओज़ोन परत के क्षय के लिए कौन ज़िम्मेदार है? / Which of the following are responsible for ozone layer depletion?",
-    "options": {
-      "A": "CFCs / CFCs",
-      "B": "CO2 / CO2",
-      "C": "Halons / Halons",
-      "D": "Methane / Methane"
-    },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 15,
-    "question": "स्वच्छ भारत मिशन के उद्देश्यों में क्या शामिल है? / Which of the following are objectives of the Swachh Bharat Mission?",
-    "options": {
-      "A": "खुले में शौच की समाप्ति / Elimination of open defecation",
-      "B": "ठोस अपशिष्ट प्रबंधन / Solid waste management",
-      "C": "वृक्षारोपण / Afforestation",
-      "D": "सड़क निर्माण / Road construction"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 16,
-    "question": "निम्नलिखित में से कौन-से भारत के बायोस्फीयर रिज़र्व हैं? / Which of the following are Biosphere Reserves in India?",
-    "options": {
-      "A": "सिंचाई परियोजना / Irrigation Project",
-      "B": "सुंदरबन / Sundarbans",
-      "C": "नीलगिरि / Nilgiri",
-      "D": "नर्मदा / Narmada"
-    },
-    "answer": ["B", "C"]
-  },
-  {
     "id": 17,
-    "question": "EIA (Environmental Impact Assessment) का मुख्य उद्देश्य क्या है? / What is the main purpose of EIA?",
+    "question": "Aatmanirbhar Bharat के तहत ‘Make in India’ पहल का मुख्य फोकस क्या है? / What is the main focus of the 'Make in India' initiative under Aatmanirbhar Bharat?",
     "options": {
-      "A": "परियोजनाओं के पर्यावरणीय प्रभाव का मूल्यांकन / Assessment of environmental impact of projects",
-      "B": "राजनीतिक सुधार लाना / Bringing political reforms",
-      "C": "बैंकिंग प्रणाली को विनियमित करना / Regulating banking system",
-      "D": "जल स्रोतों का वितरण / Distribution of water resources"
+      "A": "विदेश में उद्योग स्थापित करना / Setting up Industries Abroad",
+      "B": "देश में विनिर्माण को बढ़ावा देना / Promoting Manufacturing in India",
+      "C": "आयात को पूरी तरह समाप्त करना / Completely Eliminating Imports",
+      "D": "केवल कृषि उत्पादन को बढ़ाना / Increasing Only Agricultural Production"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 18,
-    "question": "निम्नलिखित में से कौन-सा वनों की कटाई का कारण है? / Which of the following is a cause of deforestation?",
+    "question": "Aatmanirbhar Bharat Abhiyan के अंतर्गत ‘PM e-Vidya’ कार्यक्रम का उद्देश्य क्या है? / What is the objective of the 'PM e-Vidya' program under Aatmanirbhar Bharat Abhiyan?",
     "options": {
-      "A": "कृषि विस्तार / Agricultural expansion",
-      "B": "वन संरक्षण / Forest conservation",
-      "C": "शहरीकरण / Urbanization",
-      "D": "पुनरुद्धार प्रयास / Reforestation efforts"
+      "A": "डिजिटल शिक्षा को बढ़ावा देना / Promote Digital Education",
+      "B": "कृषि तकनीक में सुधार / Improve Agricultural Technology",
+      "C": "MSME सेक्टर में प्रशिक्षण / Training in MSME Sector",
+      "D": "स्वास्थ्य क्षेत्र में निवेश / Investment in Health Sector"
     },
-    "answer": ["A", "C"]
+    "answer": ["A"]
   },
   {
     "id": 19,
-    "question": "क्योटो प्रोटोकॉल किससे संबंधित है? / The Kyoto Protocol is related to:",
+    "question": "Aatmanirbhar Bharat Abhiyan के तहत कौन सा सेक्टर सबसे अधिक पैकेज प्राप्त करने वालों में से है? / Which sector received one of the highest packages under Aatmanirbhar Bharat Abhiyan?",
     "options": {
-      "A": "ग्रीनहाउस गैस उत्सर्जन को कम करना / Reduction of greenhouse gas emissions",
-      "B": "मानव अधिकार / Human rights",
-      "C": "महासागर संरक्षण / Ocean protection",
-      "D": "अंतरिक्ष अनुसंधान / Space research"
+      "A": "स्वास्थ्य / Health",
+      "B": "कृषि / Agriculture",
+      "C": "MSME",
+      "D": "रेलवे / Railways"
     },
-    "answer": ["A"]
+    "answer": ["C"]
   },
   {
     "id": 20,
-    "question": "REDD+ कार्यक्रम का मुख्य उद्देश्य क्या है? / What is the main aim of REDD+ program?",
+    "question": "Aatmanirbhar Bharat Abhiyan के संदर्भ में ‘Champion Sectors’ शब्द का अर्थ क्या है? / In the context of Aatmanirbhar Bharat Abhiyan, what does the term 'Champion Sectors' mean?",
     "options": {
-      "A": "वनों के माध्यम से कार्बन स्टॉक बढ़ाना / Enhancing carbon stock through forests",
-      "B": "सड़क निर्माण को बढ़ावा देना / Promoting road construction",
-      "C": "वायुमंडलीय प्रदूषण बढ़ाना / Increasing air pollution",
-      "D": "वनों की कटाई को बढ़ाना / Increasing deforestation"
+      "A": "केवल रक्षा उत्पादन के लिए चयनित सेक्टर / Sectors selected only for Defence Production",
+      "B": "उच्च विकास और निर्यात क्षमता वाले सेक्टर / Sectors with High Growth and Export Potential",
+      "C": "कृषि आधारित छोटे उद्योग / Agriculture-based Small Industries",
+      "D": "विदेशी निवेशक आधारित सेक्टर / Sectors based on Foreign Investors"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 21,
+    "question": "RBI की स्थापना किस वर्ष हुई थी? / In which year was the RBI established?",
+    "options": {
+      "A": "1935",
+      "B": "1947",
+      "C": "1950",
+      "D": "1921"
     },
     "answer": ["A"]
-  },
-    {
-    "id": 21,
-    "question": "बायोस्फीयर रिज़र्व के संबंध में सही कथन चुनिए: / Choose the correct statements regarding Biosphere Reserves:",
-    "options": {
-      "A": "ये मानव और प्रकृति के बीच सामंजस्य स्थापित करने हेतु होते हैं / Meant for harmony between humans and nature",
-      "B": "ये केवल भारत में होते हैं / These exist only in India",
-      "C": "इनमें कोर, बफर और ट्रांज़िशन जोन होते हैं / Include core, buffer, and transition zones",
-      "D": "इनमें केवल जैव विविधता नहीं, बल्कि सांस्कृतिक विविधता भी होती है / Include biodiversity and cultural diversity"
-    },
-    "answer": ["A", "C"]
   },
   {
     "id": 22,
-    "question": "पर्यावरण प्रभाव मूल्यांकन (EIA) का उद्देश्य क्या है? / What is the purpose of Environmental Impact Assessment (EIA)?",
+    "question": "RBI का राष्ट्रीयकरण कब किया गया था? / When was the RBI nationalized?",
     "options": {
-      "A": "पर्यावरणीय क्षति की पूर्व सूचना देना / To predict environmental damage",
-      "B": "विकास परियोजनाओं की निगरानी करना / To monitor development projects",
-      "C": "प्रदूषण फैलाना / To cause pollution",
-      "D": "प्रकृति संरक्षण में योगदान देना / To aid nature conservation"
+      "A": "1935",
+      "B": "1949",
+      "C": "1951",
+      "D": "1969"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["B"]
   },
   {
     "id": 23,
-    "question": "मॉन्ट्रियल प्रोटोकॉल संबंधित है / The Montreal Protocol is related to:",
+    "question": "RBI का मुख्यालय कहाँ स्थित है? / Where is the headquarters of the RBI located?",
     "options": {
-      "A": "ओज़ोन परत की रक्षा / Protection of the ozone layer",
-      "B": "ग्रीनहाउस गैसों का नियंत्रण / Control of greenhouse gases",
-      "C": "जैव विविधता संरक्षण / Biodiversity conservation",
-      "D": "रेडियोधर्मी अपशिष्ट निपटान / Radioactive waste disposal"
+      "A": "New Delhi",
+      "B": "Mumbai",
+      "C": "Kolkata",
+      "D": "Chennai"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 24,
+    "question": "RBI का मुख्य कार्य क्या है? / What is the primary function of RBI?",
+    "options": {
+      "A": "मुद्रा जारी करना / Issuing currency",
+      "B": "बजट बनाना / Preparing budget",
+      "C": "विदेश नीति बनाना / Making foreign policy",
+      "D": "रेल संचालन / Running railways"
     },
     "answer": ["A"]
   },
   {
-    "id": 24,
-    "question": "प्लास्टिक प्रदूषण से निपटने के लिए कौन से उपाय उचित हैं? / Which are appropriate measures to tackle plastic pollution?",
-    "options": {
-      "A": "पुनर्चक्रण को बढ़ावा देना / Promote recycling",
-      "B": "सिंगल-यूज़ प्लास्टिक पर प्रतिबंध / Ban single-use plastics",
-      "C": "प्लास्टिक की मांग बढ़ाना / Increase plastic demand",
-      "D": "जैव अपघट्य विकल्पों का उपयोग / Use biodegradable alternatives"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
     "id": 25,
-    "question": "राष्ट्रीय हरित अधिकरण (NGT) के संबंध में सही कथन है: / Choose the correct statement regarding National Green Tribunal (NGT):",
+    "question": "RBI का गवर्नर नियुक्त करने का अधिकार किसके पास है? / Who has the authority to appoint the Governor of RBI?",
     "options": {
-      "A": "यह केवल जल प्रदूषण से संबंधित मामलों को सुनता है / Only hears water pollution cases",
-      "B": "यह पर्यावरण से संबंधित मामलों के लिए एक विशेष निकाय है / Special body for environmental cases",
-      "C": "यह 2010 में स्थापित हुआ / Established in 2010",
-      "D": "यह किसी भी प्रकार के अपराध को सुन सकता है / Can hear any type of crime"
+      "A": "प्रधानमंत्री / Prime Minister",
+      "B": "वित्त मंत्री / Finance Minister",
+      "C": "भारत के राष्ट्रपति / President of India",
+      "D": "संसद / Parliament"
     },
-    "answer": ["B", "C"]
+    "answer": ["C"]
   },
   {
     "id": 26,
-    "question": "यूनेस्को की विश्व धरोहर स्थलों में कौन से प्राकृतिक स्थल शामिल हैं? / Which of the following are natural sites in UNESCO World Heritage list?",
+    "question": "RBI द्वारा जारी की गई मुद्रा नोटों पर किसके हस्ताक्षर होते हैं? / Whose signature appears on the currency notes issued by RBI?",
     "options": {
-      "A": "काजीरंगा राष्ट्रीय उद्यान / Kaziranga National Park",
-      "B": "कुतुब मीनार / Qutub Minar",
-      "C": "सुंदरबन राष्ट्रीय उद्यान / Sundarbans National Park",
-      "D": "भीमबेटका शैलाश्रय / Bhimbetka Rock Shelters"
+      "A": "प्रधानमंत्री / Prime Minister",
+      "B": "RBI गवर्नर / RBI Governor",
+      "C": "वित्त मंत्री / Finance Minister",
+      "D": "राष्ट्रपति / President"
     },
-    "answer": ["A", "C"]
+    "answer": ["B"]
   },
   {
     "id": 27,
-    "question": "जैव विविधता हॉटस्पॉट की विशेषताएं हैं: / Features of biodiversity hotspots include:",
+    "question": "भारत में मौद्रिक नीति बनाने का उत्तरदायित्व किसके पास है? / Who is responsible for formulating monetary policy in India?",
     "options": {
-      "A": "उच्च स्थानिक प्रजातियाँ / High endemic species",
-      "B": "तेजी से वन क्षय / Rapid deforestation",
-      "C": "कम वर्षा / Low rainfall",
-      "D": "कम जैव विविधता / Low biodiversity"
+      "A": "RBI",
+      "B": "वित्त मंत्रालय / Ministry of Finance",
+      "C": "SEBI",
+      "D": "नीति आयोग / NITI Aayog"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"]
   },
   {
     "id": 28,
-    "question": "जलवायु परिवर्तन के प्रभावों में शामिल हैं: / Effects of climate change include:",
+    "question": "निम्न में से कौन सा RBI का कार्य नहीं है? / Which of the following is NOT a function of RBI?",
     "options": {
-      "A": "समुद्र स्तर में वृद्धि / Rise in sea levels",
-      "B": "ग्लेशियरों का पिघलना / Melting of glaciers",
-      "C": "पृथ्वी की गुरुत्वाकर्षण शक्ति में वृद्धि / Increase in Earth's gravity",
-      "D": "वर्षा पैटर्न में बदलाव / Changes in rainfall pattern"
+      "A": "मुद्रा आपूर्ति को नियंत्रित करना / Controlling money supply",
+      "B": "विदेशी मुद्रा का प्रबंधन / Managing foreign exchange",
+      "C": "सरकारी ऋण का प्रबंधन / Managing government debt",
+      "D": "रेल किराया तय करना / Deciding railway fares"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["D"]
   },
   {
     "id": 29,
-    "question": "प्राकृतिक पारिस्थितिक तंत्र का उदाहरण क्या है? / Which of the following is a natural ecosystem?",
+    "question": "RBI के पास नोट जारी करने का अधिकार किस अधिनियम के तहत है? / Under which Act does RBI have the authority to issue notes?",
     "options": {
-      "A": "झील / Lake",
-      "B": "बगीचा / Garden",
-      "C": "एक्वेरियम / Aquarium",
-      "D": "कृत्रिम झील / Artificial lake"
+      "A": "RBI Act, 1934",
+      "B": "Banking Regulation Act, 1949",
+      "C": "Companies Act, 1956",
+      "D": "Negotiable Instruments Act, 1881"
     },
     "answer": ["A"]
   },
   {
     "id": 30,
-    "question": "जैव विविधता अधिनियम 2002 का मुख्य उद्देश्य क्या है? / What is the main objective of the Biodiversity Act 2002?",
+    "question": "भारतीय मुद्रा का वैधानिक आधार क्या है? / What is the legal backing of Indian currency?",
     "options": {
-      "A": "जैव विविधता का संरक्षण / Conservation of biodiversity",
-      "B": "जैव संसाधनों की सतत उपयोगिता / Sustainable use of biological resources",
-      "C": "बाहरी निवेश को आकर्षित करना / Attracting foreign investment",
-      "D": "लाभों का न्यायपूर्ण वितरण / Fair distribution of benefits"
+      "A": "सोना / Gold",
+      "B": "विदेशी मुद्रा / Foreign currency",
+      "C": "भारत सरकार की गारंटी / Government of India’s guarantee",
+      "D": "बैंक रिज़र्व / Bank reserves"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["C"]
   },
   {
     "id": 31,
-    "question": "IPCC के बारे में निम्न में से क्या सत्य है? / Which of the following is true about IPCC?",
+    "question": "CRR का पूर्ण रूप क्या है? / What is the full form of CRR?",
     "options": {
-      "A": "यह जलवायु परिवर्तन पर वैज्ञानिक आकलन प्रस्तुत करता है / It provides scientific assessments on climate change",
-      "B": "यह संयुक्त राष्ट्र की एक एजेंसी है / It is an agency of the United Nations",
-      "C": "यह केवल विकसित देशों पर केंद्रित है / It focuses only on developed nations",
-      "D": "इसका गठन 2000 में हुआ था / It was established in 2000"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 32,
-    "question": "क्लोरोफ्लोरोकार्बन (CFC) से क्या प्रभाव होता है? / What is the impact of Chlorofluorocarbons (CFCs)?",
-    "options": {
-      "A": "ओजोन परत का क्षरण / Depletion of ozone layer",
-      "B": "कार्बन डाइऑक्साइड में वृद्धि / Increase in CO2",
-      "C": "पारिस्थितिकीय संतुलन में सुधार / Ecological balance improvement",
-      "D": "अम्ल वर्षा / Acid rain"
+      "A": "Cash Reserve Ratio",
+      "B": "Credit Reserve Rate",
+      "C": "Currency Ratio Reserve",
+      "D": "Central Reserve Requirement"
     },
     "answer": ["A"]
   },
   {
     "id": 32,
-    "question": "क्योटो प्रोटोकॉल किससे संबंधित है? / Kyoto Protocol is related to:",
+    "question": "RBI द्वारा तय किया जाने वाला रेपो रेट किस पर लागू होता है? / The repo rate fixed by RBI applies to which transaction?",
     "options": {
-      "A": "जलवायु परिवर्तन / Climate Change",
-      "B": "जैव विविधता / Biodiversity",
-      "C": "रेडियोधर्मी अपशिष्ट / Radioactive waste",
-      "D": "ओजोन परत / Ozone layer"
+      "A": "बैंकों को ऋण देने पर / Lending to banks",
+      "B": "जनता को ऋण देने पर / Lending to public",
+      "C": "सरकारी खर्च / Government spending",
+      "D": "निर्यात पर / Exports"
     },
     "answer": ["A"]
   },
   {
     "id": 33,
-    "question": "निम्न में से कौन से भारत में प्रमुख जैवभौगोलिक क्षेत्र हैं? / Which of the following are major biogeographic zones in India?",
+    "question": "भारतीय मुद्रा प्रणाली किस पर आधारित है? / The Indian currency system is based on which system?",
     "options": {
-      "A": "हिमालय / Himalayas",
-      "B": "दक्षिणी पठार / Deccan Plateau",
-      "C": "गंगा के मैदानी क्षेत्र / Gangetic Plains",
-      "D": "आर्कटिक क्षेत्र / Arctic Zone"
+      "A": "दशमलव प्रणाली / Decimal system",
+      "B": "द्विआधारी प्रणाली / Binary system",
+      "C": "स्वर्ण प्रणाली / Gold system",
+      "D": "बार्टर प्रणाली / Barter system"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 34,
-    "question": "भारत में वन क्षेत्र से संबंधित निम्न में से क्या सही है? / Which of the following is true about forest area in India?",
+    "question": "भारतीय मुद्रा में सबसे बड़ा मूल्यवर्ग का नोट वर्तमान में कौन सा है? / What is the highest denomination currency note currently in circulation in India?",
     "options": {
-      "A": "भारत का 33% क्षेत्र वन क्षेत्र होना चाहिए / 33% of India should be under forest cover",
-      "B": "वर्तमान वन क्षेत्र 24% से कम है / Current forest cover is less than 24%",
-      "C": "मध्यम घनत्व वाले वन सबसे अधिक हैं / Moderately dense forests are highest in area",
-      "D": "पूर्वोत्तर राज्यों में सबसे कम वन क्षेत्र है / North-eastern states have the least forest area"
+      "A": "₹1000",
+      "B": "₹2000",
+      "C": "₹500",
+      "D": "₹200"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["B"]
   },
   {
     "id": 35,
-    "question": "UNFCCC के उद्देश्य क्या हैं? / What are the objectives of UNFCCC?",
+    "question": "RBI द्वारा जारी वार्षिक रिपोर्ट में क्या शामिल होता है? / What does the annual report of RBI include?",
     "options": {
-      "A": "जलवायु परिवर्तन को स्थिर करना / Stabilize climate change",
-      "B": "कार्बन उत्सर्जन को सीमित करना / Limit carbon emissions",
-      "C": "संयुक्त राष्ट्र सुरक्षा परिषद सुधारना / Reform UN Security Council",
-      "D": "विकासशील देशों को समर्थन देना / Support developing countries"
-    },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 36,
-    "question": "मंगल राज्य (Mars State) शब्द किस संदर्भ में प्रयोग होता है? / The term 'Mars State' is used in the context of:",
-    "options": {
-      "A": "पर्यावरणीय आपदा / Environmental disasters",
-      "B": "भूमंडलीय ताप / Global warming",
-      "C": "मिट्टी का क्षरण / Soil degradation",
-      "D": "पृथ्वी का मरुस्थलीकरण / Desertification of the earth"
+      "A": "मौद्रिक नीति विवरण / Monetary policy statement",
+      "B": "वित्तीय स्थिति / Financial position",
+      "C": "आर्थिक समीक्षा / Economic review",
+      "D": "उपरोक्त सभी / All of the above"
     },
     "answer": ["D"]
   },
   {
-    "id": 37,
-    "question": "क्लीन डेवलपमेंट मैकेनिज्म (CDM) का क्या उद्देश्य है? / What is the purpose of Clean Development Mechanism (CDM)?",
+    "id": 36,
+    "question": "MCLR का पूर्ण रूप क्या है? / What is the full form of MCLR?",
     "options": {
-      "A": "विकासशील देशों को तकनीकी सहायता देना / Provide tech support to developing countries",
-      "B": "विकसित देशों को सस्ते में उत्सर्जन खरीदने की अनुमति देना / Allow developed nations to buy emissions cheaply",
-      "C": "कार्बन क्रेडिट कमाना / Earn carbon credits",
-      "D": "पारंपरिक खेती को बढ़ावा देना / Promote traditional farming"
+      "A": "Marginal Cost of Funds Based Lending Rate",
+      "B": "Minimum Credit Limit Ratio",
+      "C": "Maximum Cash Lending Ratio",
+      "D": "Monetary Credit Lending Rate"
     },
-    "answer": ["A", "C"]
+    "answer": ["A"]
+  },
+  {
+    "id": 37,
+    "question": "RBI का पहला गवर्नर कौन था? / Who was the first Governor of RBI?",
+    "options": {
+      "A": "C.D. Deshmukh",
+      "B": "Osborne Smith",
+      "C": "Benegal Rama Rau",
+      "D": "James Taylor"
+    },
+    "answer": ["B"]
   },
   {
     "id": 38,
-    "question": "पर्यावरण प्रभाव आकलन (EIA) का उद्देश्य है: / The purpose of Environmental Impact Assessment (EIA) is:",
+    "question": "पहले भारतीय गवर्नर का नाम क्या था? / Who was the first Indian Governor of RBI?",
     "options": {
-      "A": "परियोजनाओं के पर्यावरणीय प्रभाव का विश्लेषण / Assess environmental impact of projects",
-      "B": "प्राकृतिक आपदाओं की भविष्यवाणी / Predict natural disasters",
-      "C": "वन संरक्षण को बाधित करना / Disrupt forest conservation",
-      "D": "औद्योगिकीकरण को बढ़ावा देना / Promote industrialization"
+      "A": "C.D. Deshmukh",
+      "B": "K.G. Ambegaonkar",
+      "C": "Raghuram Rajan",
+      "D": "Y.V. Reddy"
     },
     "answer": ["A"]
   },
   {
     "id": 39,
-    "question": "फ्लाई ऐश उत्पन्न होती है: / Fly ash is generated from:",
+    "question": "RBI का कौन सा विभाग विदेशी मुद्रा प्रबंधन करता है? / Which department of RBI manages foreign exchange?",
     "options": {
-      "A": "नाभिकीय संयंत्रों से / Nuclear plants",
-      "B": "थर्मल पावर प्लांटों से / Thermal power plants",
-      "C": "सौर ऊर्जा संयंत्रों से / Solar power plants",
-      "D": "जल विद्युत परियोजनाओं से / Hydropower projects"
+      "A": "DEPR",
+      "B": "FEMA Department",
+      "C": "Department of Currency Management",
+      "D": "FMD / Financial Markets Department"
     },
     "answer": ["B"]
   },
   {
     "id": 40,
-    "question": "निम्न में से कौन 'पोल्लूटर पे प्रिंसिपल' का उदाहरण है? / Which of the following is an example of 'Polluter Pays Principle'?",
+    "question": "RBI के प्रतीक चिन्ह पर किसका चित्र है? / What is depicted on the emblem of RBI?",
     "options": {
-      "A": "औद्योगिक इकाइयों पर ग्रीन टैक्स / Green tax on industries",
-      "B": "ईवी पर सब्सिडी / Subsidy on EVs",
-      "C": "कचरे को खुले में जलाना / Open burning of waste",
-      "D": "नदी सफाई के लिए CSR योगदान / CSR contribution for river cleaning"
+      "A": "शेर और खजूर का पेड़ / Tiger and palm tree",
+      "B": "हाथी और बांस / Elephant and bamboo",
+      "C": "शेर और अशोक स्तंभ / Lion and Ashoka pillar",
+      "D": "मोर और कमल / Peacock and lotus"
     },
     "answer": ["A"]
   },
   {
     "id": 41,
-    "question": "ओजोन परत क्षरण में कौन-सा गैस ज़िम्मेदार है? / Which gas is responsible for ozone layer depletion?",
+    "question": "अभी (अगस्त 2025) RBI द्वारा निर्धारित Repo Rate क्या है? / What is the RBI Repo Rate as of August 2025?",
     "options": {
-      "A": "CO₂",
-      "B": "CH₄",
-      "C": "CFCs",
-      "D": "N₂O"
+      "A": "5.25%",
+      "B": "5.50%",
+      "C": "5.75%",
+      "D": "6.00%"
     },
-    "answer": ["C"]
+    "answer": ["B"]
   },
   {
     "id": 42,
-    "question": "वनस्पति और जीव विविधता को मापने के लिए कौन सा सूचक उपयोग होता है? / Which index is used to measure floral and faunal diversity?",
+    "question": "RBI ने जून 2025 में Repo Rate में कितनी कटौती की थी? / By how many basis points did RBI cut the Repo Rate in June 2025?",
     "options": {
-      "A": "जैव विविधता सूचकांक / Biodiversity Index",
-      "B": "मानव विकास सूचकांक / Human Development Index",
-      "C": "हरित GDP / Green GDP",
-      "D": "सतत विकास लक्ष्य सूचकांक / SDG Index"
+      "A": "25 bps",
+      "B": "50 bps",
+      "C": "75 bps",
+      "D": "100 bps"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 43,
+    "question": "RBI ने CRR (Cash Reserve Ratio) को जून 2025 में कितने प्रतिशत पर घटाया था? / To what level did RBI reduce the CRR in June 2025?",
+    "options": {
+      "A": "4.5%",
+      "B": "4.0%",
+      "C": "3.5%",
+      "D": "3.0%"
+    },
+    "answer": ["D"]
+  },
+  {
+    "id": 44,
+    "question": "RBI ने अपनी मौद्रिक नीति दृष्‍टिकोण (policy stance) को जून 2025 में किस रूप में वर्णित किया था? / How did RBI describe its policy stance in June 2025?",
+    "options": {
+      "A": "Accommodative",
+      "B": "Neutral",
+      "C": "Hawkish",
+      "D": "Expansionary"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 45,
+    "question": "Repo Corridor में Standing Deposit Facility (SDF) दर Repo Rate से कितने आधार अंक नीचे होती है? / The standing deposit facility (SDF) rate is how many bps below the repo rate under the repo corridor?",
+    "options": {
+      "A": "10 bps",
+      "B": "25 bps",
+      "C": "50 bps",
+      "D": "75 bps"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 46,
+    "question": "Marginal Standing Facility (MSF) दर Repo Rate से कितने आधार अंक ऊपर होती है? / The MSF rate is how many bps above the repo rate?",
+    "options": {
+      "A": "10 bps",
+      "B": "25 bps",
+      "C": "50 bps",
+      "D": "75 bps"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 47,
+    "question": "Monetary Policy Committee (MPC) की बैठक में क्या Repo Rate अपरिवर्तित रखा गया था? / Was the repo rate held unchanged at the MPC meeting?",
+    "options": {
+      "A": "हाँ / Yes",
+      "B": "नहीं / No"
     },
     "answer": ["A"]
   },
   {
-    "id": 43,
-    "question": "राष्ट्रीय स्वच्छ वायु कार्यक्रम (NCAP) का उद्देश्य है: / The objective of NCAP is:",
+    "id": 48,
+    "question": "RBI ने FY26 के लिए GDP वृद्धि पूर्वानुमान (GDP growth forecast) क्या रखा है? / What GDP growth forecast has RBI kept for FY 2025-26?",
     "options": {
-      "A": "2024 तक 20-30% प्रदूषण में कमी / Reduce pollution by 20–30% by 2024",
-      "B": "सौर ऊर्जा को बढ़ावा / Promote solar energy",
-      "C": "ठोस अपशिष्ट प्रबंधन / Solid waste management",
-      "D": "शहरी वृक्षारोपण / Urban afforestation"
+      "A": "5.5%",
+      "B": "6.0%",
+      "C": "6.5%",
+      "D": "7.0%"
     },
-    "answer": ["A", "C", "D"]
+    "answer": ["C"]
   },
   {
-  "id": 44,
-  "question": "निम्न में से कौन जैवमंडल (Biosphere) के घटक हैं? / Which of the following are components of the Biosphere?",
-  "options": {
-    "A": "हाइड्रोस्फीयर / Hydrosphere",
-    "B": "लिथोस्फीयर / Lithosphere",
-    "C": "एटमोस्फीयर / Atmosphere",
-    "D": "साइबरस्पेस / Cyberspace"
-  },
-  "answer": ["A", "B", "C"]
- },
- {
-  "id": 45,
-  "question": "निम्नलिखित में से कौन UNFCCC (United Nations Framework Convention on Climate Change) का उद्देश्य है? / Which of the following is an objective of UNFCCC?",
-  "options": {
-    "A": "जलवायु परिवर्तन को स्थिर करना / Stabilize climate change",
-    "B": "ग्रीनहाउस गैसों का उत्सर्जन कम करना / Reduce greenhouse gas emissions",
-    "C": "समुद्री जैव विविधता को बचाना / Save marine biodiversity",
-    "D": "स्थायी विकास को बढ़ावा देना / Promote sustainable development"
-  },
-  "answer": ["A", "B", "D"]
- },
- {
-  "id": 46,
-  "question": "निम्नलिखित में से कौन-सी भारत सरकार की जलवायु परिवर्तन से संबंधित पहल हैं? / Which of the following are Government of India's climate change initiatives?",
-  "options": {
-    "A": "राष्ट्रीय सौर मिशन / National Solar Mission",
-    "B": "राष्ट्रीय इलेक्ट्रिक मोबिलिटी मिशन / National Electric Mobility Mission",
-    "C": "राष्ट्रीय जल मिशन / National Water Mission",
-    "D": "राष्ट्रीय स्मार्ट शहर मिशन / National Smart Cities Mission"
-  },
-  "answer": ["A", "B", "C"]
- },
- {
-  "id": 47,
-  "question": "हॉटस्पॉट (Hotspot) के संदर्भ में सही कथन चुनिए: / Choose the correct statements with reference to biodiversity hotspots:",
-  "options": {
-    "A": "इनमें उच्च जैव विविधता पाई जाती है / They have high biodiversity",
-    "B": "यहाँ बहुत कम स्थानिक प्रजातियाँ होती हैं / Very few endemic species are found",
-    "C": "यह जैव विविधता के संरक्षण के लिए प्राथमिक क्षेत्र होते हैं / These are priority areas for conservation",
-    "D": "भारत में केवल एक हॉटस्पॉट है / India has only one hotspot"
-  },
-  "answer": ["A", "C"]
- },
- {
-  "id": 48,
-  "question": "E-waste प्रबंधन नियमों के अंतर्गत कौन-से घटक आते हैं? / Which components are covered under E-waste Management Rules?",
-  "options": {
-    "A": "मोबाइल फ़ोन / Mobile phones",
-    "B": "कंप्यूटर / Computers",
-    "C": "फ्रिज और वाशिंग मशीन / Refrigerators and Washing Machines",
-    "D": "गाय और भैंस / Cows and buffaloes"
+    "id": 49,
+    "question": "RBI ने FY26 के लिए CPI मुद्रास्फीति पूर्वानुमान (inflation forecast) को कितना घटाया है? / What is the revised CPI inflation forecast for FY26 by RBI?",
+    "options": {
+      "A": "2.1%",
+      "B": "3.1%",
+      "C": "3.7%",
+      "D": "4.5%"
     },
-   "answer": ["A", "B", "C"]
+    "answer": ["B"]
   },
   {
-  "id": 49,
-  "question": "कार्बन क्रेडिट क्या है? / What is a carbon credit?",
-  "options": {
-    "A": "यह वनों की रक्षा के लिए सरकार द्वारा दिया गया पुरस्कार है / A government reward for forest conservation",
-    "B": "एक परमिट जो एक टन CO2 उत्सर्जन की अनुमति देता है / A permit allowing emission of one ton of CO2",
-    "C": "उद्योगों द्वारा करों से बचने का तरीका / A way for industries to avoid taxes",
-    "D": "ग्लोबल वार्मिंग को बढ़ावा देने वाली प्रणाली / A system that promotes global warming"
-  },
-  "answer": ["B"]
-},
-{
-  "id": 50,
-  "question": "मॉन्ट्रियल प्रोटोकॉल का उद्देश्य क्या है? / What is the objective of the Montreal Protocol?",
-  "options": {
-    "A": "ओजोन परत की सुरक्षा / Protection of the ozone layer",
-    "B": "ग्रीनहाउस गैसों को बढ़ाना / Increase greenhouse gases",
-    "C": "रेडियोधर्मी कचरे का प्रबंधन / Management of radioactive waste",
-    "D": "नाभिकीय हथियारों का निषेध / Prohibition of nuclear weapons"
-  },
-  "answer": ["A"]
-},
-{
-  "id": 51,
-  "question": "राष्ट्रीय हरित अधिकरण (NGT) के संबंध में कौन-से कथन सही हैं? / Which of the following statements are correct regarding National Green Tribunal (NGT)?",
-  "options": {
-    "A": "यह एक संवैधानिक निकाय है / It is a constitutional body",
-    "B": "यह पर्यावरण से संबंधित मामलों में न्याय देता है / It delivers justice in environmental matters",
-    "C": "यह 2010 में स्थापित हुआ था / It was established in 2010",
-    "D": "यह केवल राज्यों के लिए लागू होता है / It applies only to states"
-  },
-  "answer": ["B", "C"]
+    "id": 50,
+    "question": "MPC की बैठक में नीति दृष्‍टिकोण (policy stance) किस रूप में रखी गई थी? / What policy stance did RBI maintain at the MPC meeting?",
+    "options": {
+      "A": "Neutral",
+      "B": "Dovish",
+      "C": "Hawkish",
+      "D": "Tight"
+    },
+    "answer": ["A"]
   },
   {
-  "id": 52,
-  "question": "निम्नलिखित में से कौन-से प्रदूषण के प्रकार हैं? / Which of the following are types of pollution?",
-  "options": {
-    "A": "जल प्रदूषण / Water pollution",
-    "B": "वायु प्रदूषण / Air pollution",
-    "C": "ध्वनि प्रदूषण / Noise pollution",
-    "D": "वस्त्र प्रदूषण / Cloth pollution"
-  },
-  "answer": ["A", "B", "C"]
-  },
-  {
-  "id": 55,
-  "question": "क्लाइमेट स्मार्ट एग्रीकल्चर के अंतर्गत कौन-से घटक आते हैं? / Which of the following are components under Climate Smart Agriculture?",
-  "options": {
-    "A": "सिंचाई दक्षता / Irrigation efficiency",
-    "B": "फसल विविधीकरण / Crop diversification",
-    "C": "उच्च CO2 उत्सर्जन / High CO2 emission",
-    "D": "जैविक खेती / Organic farming"
-  },
-  "answer": ["A", "B", "D"]
+    "id": 51,
+    "question": "RBI ने जून 2025 की CRR कटौती को कैसे लागू करने की योजना बनाई थी? / How did RBI plan to implement the CRR cut made in June 2025?",
+    "options": {
+      "A": "एक बार में / At once",
+      "B": "चार किश्तों में / In four installments",
+      "C": "महीने-दर-महीने / Monthly",
+      "D": "तुरंत / Immediately"
+    },
+    "answer": ["B"]
   },
   {
-  "id": 56,
-  "question": "निम्नलिखित में से कौन-सी सतत विकास लक्ष्य (SDGs) से संबंधित है? / Which of the following is related to Sustainable Development Goals (SDGs)?",
-  "options": {
-    "A": "गरीबी उन्मूलन / No poverty",
-    "B": "शुद्ध जल और स्वच्छता / Clean water and sanitation",
-    "C": "जलवायु परिवर्तन की कार्रवाई / Climate action",
-    "D": "महाशक्ति बनना / Becoming a superpower"
-  },
-  "answer": ["A", "B", "C"]
-  },
-  {
-  "id": 57,
-  "question": "भारतीय वनों के प्रकारों में कौन-से शामिल हैं? / Which of the following are types of Indian forests?",
-  "options": {
-    "A": "उष्णकटिबंधीय वर्षावन / Tropical rainforests",
-    "B": "शीतोष्ण पर्णपाती वन / Temperate deciduous forests",
-    "C": "मरुस्थलीय वन / Desert forests",
-    "D": "तटीय वन / Coastal forests"
-  },
-  "answer": ["A", "B", "C", "D"]
+    "id": 52,
+    "question": "RBI ने Repo Rate को किस Act के अंतर्गत जारी करने का अधिकार प्राप्त किया है? / Under which Act does RBI get authority to issue repo rate decisions?",
+    "options": {
+      "A": "RBI Act, 1934",
+      "B": "Banking Regulation Act, 1949",
+      "C": "FEMA, 1999",
+      "D": "FRBM Act, 2003"
+    },
+    "answer": ["A"]
   },
   {
-  "id": 58,
-  "question": "निम्नलिखित में से कौन-से पारिस्थितिकी तंत्र सेवाएं (ecosystem services) कहलाते हैं? / Which of the following are called ecosystem services?",
-  "options": {
-    "A": "प्रदूषण / Pollution",
-    "B": "परागण / Pollination",
-    "C": "जल संचयन / Water retention",
-    "D": "मिट्टी का क्षरण / Soil erosion"
+    "id": 53,
+    "question": "रिजर्व बैंक के गवर्नर का मौद्रिक नीति निर्णय में क्या भूमिका होती है? / What is the role of the RBI Governor in monetary policy decisions?",
+    "options": {
+      "A": "एकल निर्णयकर्ता / Sole decision-maker",
+      "B": "MPC का अध्यक्ष / Chairperson of MPC",
+      "C": "वित्त मंत्री के साथ निर्णय लेता है / Co-decides with Finance Minister",
+      "D": "केवल सलाहकार / Only adviser"
+    },
+    "answer": ["B"]
   },
-  "answer": ["B", "C"]
+  {
+    "id": 54,
+    "question": "RBI की वर्तमान मौद्रिक नीति समिति (MPC) में कितने सदस्य होते हैं? / How many members are there in the current RBI Monetary Policy Committee?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 55,
+    "question": "RBI ने जून 2025 में कुल कितनी आधार अंकों की वृद्धि की थी? / What is the total repo rate reduction in basis points by RBI during 2025 up to June?",
+    "options": {
+      "A": "50 bps",
+      "B": "75 bps",
+      "C": "100 bps",
+      "D": "125 bps"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 56,
+    "question": "‘Neutral’ policy stance का क्या अर्थ होता है? / What does a 'neutral' policy stance mean?",
+    "options": {
+      "A": "ब्याज दरें घटाना / To cut rates",
+      "B": "ब्याज दरें बढ़ाना / To hike rates",
+      "C": "वर्तमान स्थिति बनाए रखना / Maintaining current stance",
+      "D": "बहुत सख्त मानना / Harsh tightening"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 57,
+    "question": "RBI ने अगस्त 2025 की MPC बैठक में Repo Rate पर क्या निर्णय लिया था? / What decision was taken on the repo rate at the August 2025 MPC meeting?",
+    "options": {
+      "A": "कटौती की गई / Cut",
+      "B": "रुको / Held",
+      "C": "बढ़ाई गई / Hiked",
+      "D": "रद्द / Cancelled"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 58,
+    "question": "Rate-sensitive सेक्टरों (banking, NBFCs, real estate) को कौन-सा प्रभाव हुआ जब repo rate अपरिवर्तित रखा गया? / What impact did holding the repo rate have on rate-sensitive sectors like banking, NBFCs, real estate?",
+    "options": {
+      "A": "बढ़ोतरी / Rise",
+      "B": "तकरीबन 4% गिरावट / Up to 4% fall",
+      "C": "कोई प्रभाव नहीं / No impact",
+      "D": "10% की वृद्धि / 10% increase"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 59,
+    "question": "RBI का अगला कार्य क्या है जब मौद्रिक नीति को तैयार किया जाता है? / What is the next action by RBI when monetary policy is crafted?",
+    "options": {
+      "A": "NITI Aayog से चर्चा / Consult NITI Aayog",
+      "B": "MPC बैठक बुलाना / Convene MPC meeting",
+      "C": "पोलिसी को संसद में ले जाना / Present policy in Parliament",
+      "D": "राष्ट्रपति से मंजूरी लेना / Seek Presidential approval"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 60,
+    "question": "RBI के बाहरी जोखिमों में से कौन-सा प्रमुख जोखिम बताया गया? / Which external risk was highlighted by RBI during policy review?",
+    "options": {
+      "A": "Global trade tensions / वैश्विक व्यापार तनाव",
+      "B": "Domestic fiscal deficit / घरेलू राजकोषीय घाटा",
+      "C": "Internal banking stress / आंतरिक बैंकिंग तनाव",
+      "D": "Monsoon failure / मानसून असफलता"
+    },
+    "answer": ["A"]
   }
 ]
+
+
 
