@@ -1,442 +1,535 @@
 [
-  {
-    "id": 1,
-    "question": "भूमध्यरेखीय (Equatorial) जलवायु क्षेत्र की विशेषताएँ कौन-सी हैं? / Which are the characteristics of Equatorial climatic zone?",
-    "options": {
-      "A": "तापमान 25–27°C के बीच रहता है / Temperature remains between 25–27°C",
-      "B": "सालभर भारी वर्षा होती है / Heavy rainfall throughout the year",
-      "C": "वनस्पति में मुख्य रूप से पर्णपाती जंगल होते हैं / Dominated by deciduous forests",
-      "D": "प्रमुख उद्योग रबर और कॉफी से जुड़े होते हैं / Major industries related to rubber and coffee"
+    {
+        "id": 1,
+        "question": "सकल घरेलू उत्पाद (GDP) क्या दर्शाता है? / What does Gross Domestic Product (GDP) represent?",
+        "options": {
+            "A": "एक देश में उत्पादन की कुल मूल्य / Total value of production within a country",
+            "B": "एक देश के नागरिकों की आय / Income of citizens of a country",
+            "C": "देश की कुल निर्यात मात्रा / Total exports of a country",
+            "D": "देश की कुल आयात मात्रा / Total imports of a country"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 2,
-    "question": "उष्णकटिबंधीय मानसूनी जलवायु की निम्नलिखित विशेषताओं में से कौन-सी सही हैं? / Which of the following are correct about Tropical Monsoon climate?",
-    "options": {
-      "A": "तापमान 24–30°C के बीच होता है / Temperature ranges between 24–30°C",
-      "B": "मुख्य वर्षा मानसून के दौरान होती है / Main rainfall during monsoon season",
-      "C": "मुख्य वनस्पति सदाबहार वन होते हैं / Dominated by evergreen forests",
-      "D": "चाय और रेशम उद्योग यहाँ प्रमुख हैं / Tea and silk industries are major here"
+    {
+        "id": 2,
+        "question": "सकल राष्ट्रीय उत्पाद (GNP) में क्या शामिल होता है? / What is included in Gross National Product (GNP)?",
+        "options": {
+            "A": "देश के भीतर उत्पादन का मूल्य / Value of production inside the country",
+            "B": "देश के नागरिकों द्वारा विदेशों में अर्जित आय / Income earned by nationals abroad",
+            "C": "विदेशी नागरिकों द्वारा देश में अर्जित आय / Income earned by foreigners inside the country",
+            "D": "सरकारी कर / Government taxes"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 3,
-    "question": "उष्णकटिबंधीय सवाना जलवायु की मुख्य वनस्पति और उद्योग कौन-से हैं? / What are the main vegetation and industries of Tropical Savanna climate?",
-    "options": {
-      "A": "लंबी घास और बबूल / Tall grasses and Acacia trees",
-      "B": "चमड़ा उद्योग और पशुपालन / Leather industry and animal husbandry",
-      "C": "घने सदाबहार जंगल / Dense evergreen forests",
-      "D": "चाय और कॉफी उद्योग / Tea and coffee industries"
+    {
+        "id": 3,
+        "question": "नेट राष्ट्रीय उत्पाद (NNP) कैसे प्राप्त किया जाता है? / How is Net National Product (NNP) calculated?",
+        "options": {
+            "A": "GNP - depreciation (मूल्यह्रास)",
+            "B": "GDP - depreciation",
+            "C": "GNP + depreciation",
+            "D": "GDP + depreciation"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 4,
-    "question": "मरुस्थलीय (Desert) जलवायु की विशेषताएँ क्या हैं? / What are the features of Desert climate?",
-    "options": {
-      "A": "दिन में तापमान 20–35°C और रात में तापमान गिरता है / Day temp 20–35°C and sharp drop at night",
-      "B": "वर्षा 250 मिमी से कम होती है / Rainfall less than 250 mm",
-      "C": "वनस्पति में मुख्य रूप से काई और लाइकेन होते हैं / Dominated by mosses and lichens",
-      "D": "तेल, गैस और खनन उद्योग प्रमुख हैं / Oil, gas and mining industries are major"
+    {
+        "id": 4,
+        "question": "राष्ट्रीय आय (National Income) किससे मापी जाती है? / National Income is measured by?",
+        "options": {
+            "A": "NNP at market price",
+            "B": "NNP at factor cost",
+            "C": "GDP at market price",
+            "D": "GNP at factor cost"
+        },
+        "answer": [
+            "B"
+        ]
     },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 5,
-    "question": "भूमध्यसागरीय (Mediterranean) जलवायु के लिए कौन-से विवरण सही हैं? / Which of the following are true for Mediterranean climate?",
-    "options": {
-      "A": "तापमान 15–25°C के बीच होता है / Temperature ranges between 15–25°C",
-      "B": "सर्दियों में वर्षा अधिक होती है / Higher rainfall in winter",
-      "C": "मुख्य वनस्पति में सदाबहार झाड़ियाँ, जैतून और अंगूर शामिल हैं / Evergreen shrubs, olives and grapes dominate",
-      "D": "मुख्य उद्योग कोयला और स्टील उत्पादन हैं / Main industries are coal and steel production"
+    {
+        "id": 5,
+        "question": "मुद्रास्फीति (Inflation) का अर्थ क्या है? / What does Inflation mean?",
+        "options": {
+            "A": "सामान्य मूल्य स्तर में वृद्धि / Increase in general price level",
+            "B": "सामान्य मूल्य स्तर में कमी / Decrease in general price level",
+            "C": "बेरोजगारी में वृद्धि / Increase in unemployment",
+            "D": "आयात में वृद्धि / Increase in imports"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 6,
-    "question": "चीन-प्रकार (Warm Temperate) जलवायु की विशेषताएँ कौन-सी हैं? / What are the features of Warm Temperate (China type) climate?",
-    "options": {
-      "A": "तापमान 10–28°C के बीच होता है / Temperature between 10–28°C",
-      "B": "वर्षा 750–1500 मिमी के बीच होती है / Rainfall between 750–1500 mm",
-      "C": "मुख्य वनस्पति में मिश्रित वन और चाय शामिल हैं / Mixed forests and tea vegetation dominate",
-      "D": "मुख्य उद्योग रेशम, चाय और धान प्रसंस्करण हैं / Major industries are silk, tea and rice processing"
+    {
+        "id": 6,
+        "question": "मुद्रास्फीति के मुख्य कारण क्या हैं? / What are the main causes of Inflation?",
+        "options": {
+            "A": "मांग बढ़ना (Demand-pull)",
+            "B": "लागत बढ़ना (Cost-push)",
+            "C": "सरकारी करों में कमी",
+            "D": "विदेशी निवेश में वृद्धि"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["A", "B", "C", "D"]
-  },
-  {
-    "id": 7,
-    "question": "शीत समशीतोष्ण (Cool Temperate Maritime) जलवायु के बारे में सही कथन चुनिए। / Choose correct statements about Cool Temperate Maritime climate.",
-    "options": {
-      "A": "तापमान 5–20°C के बीच होता है / Temperature ranges 5–20°C",
-      "B": "वर्षा 500–2000 मिमी के बीच होती है / Rainfall 500–2000 mm",
-      "C": "मुख्य वनस्पति में मिश्रित शंकुधारी और पर्णपाती वन शामिल हैं / Mixed coniferous and deciduous forests",
-      "D": "मुख्य उद्योग जहाज निर्माण, डेयरी और मछली पकड़ना हैं / Main industries are shipbuilding, dairy and fishing"
+    {
+        "id": 7,
+        "question": "मुद्रस्फीति दर भारत में 2024-25 के लिए अनुमानित है? / What is the estimated inflation rate for India in 2024-25?",
+        "options": {
+            "A": "लगभग 4-6%",
+            "B": "लगभग 10-12%",
+            "C": "0-1%",
+            "D": "लगभग 8-9%"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A", "B", "C", "D"]
-  },
-  {
-    "id": 8,
-    "question": "टाइगा (Taiga) जलवायु क्षेत्र की विशेषताएँ क्या हैं? / What are the characteristics of Taiga climate zone?",
-    "options": {
-      "A": "तापमान -10 से 15°C के बीच होता है / Temperature ranges between -10 to 15°C",
-      "B": "वर्षा 300–600 मिमी के बीच होती है / Rainfall between 300–600 mm",
-      "C": "वनस्पति मुख्य रूप से शंकुधारी वन होते हैं / Vegetation mainly coniferous forests",
-      "D": "मुख्य उद्योग कागज, लकड़ी और फर व्यापार हैं / Main industries are paper, lumber and fur trade"
+    {
+        "id": 8,
+        "question": "मुद्रास्फीति के विपरीत, मूल्य स्तर में कमी को क्या कहते हैं? / What is the term for a decrease in price level, opposite of inflation?",
+        "options": {
+            "A": "डिफ्लेशन (Deflation)",
+            "B": "स्टैगफ्लेशन (Stagflation)",
+            "C": "रेसशन (Recession)",
+            "D": "मंदी (Depression)"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A", "B", "C", "D"]
-  },
-  {
-    "id": 9,
-    "question": "टुंड्रा (Tundra) जलवायु क्षेत्र के बारे में निम्न में से सही विकल्प चुनें। / Select correct options about Tundra climate zone.",
-    "options": {
-      "A": "तापमान -30 से 10°C के बीच होता है / Temperature ranges between -30 to 10°C",
-      "B": "वर्षा 250 मिमी से कम होती है / Rainfall less than 250 mm",
-      "C": "वनस्पति मुख्य रूप से काई, लाइकेन और बौनी झाड़ियाँ होती हैं / Vegetation mainly mosses, lichens and dwarf shrubs",
-      "D": "मुख्य उद्योग तेल, मछली पकड़ना और फर हैं / Main industries are oil, fishing and fur"
+    {
+        "id": 9,
+        "question": "स्टैगफ्लेशन क्या है? / What is Stagflation?",
+        "options": {
+            "A": "मुद्रास्फीति और बेरोजगारी दोनों का बढ़ना / Increase in both inflation and unemployment",
+            "B": "मुद्रास्फीति का तेजी से गिरना / Rapid fall in inflation",
+            "C": "महँगाई में कमी और उत्पादन में वृद्धि / Decrease in prices and increase in production",
+            "D": "मूल्य स्थिरता / Price stability"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A", "B", "C", "D"]
-  },
-  {
-    "id": 10,
-    "question": "पर्वतीय (Highland) जलवायु के लिए कौन-से कथन सही हैं? / Which statements are true for Highland climate?",
-    "options": {
-      "A": "तापमान ऊँचाई के अनुसार बदलता है / Temperature varies with altitude",
-      "B": "वर्षा पवनाभिमुख ढलानों पर अधिक होती है / Rainfall higher on windward slopes",
-      "C": "वनस्पति में अल्पाइन घासभूमि और शंकुधारी वन होते हैं / Vegetation includes alpine meadows and conifers",
-      "D": "मुख्य उद्योग कोयला खनन और स्टील उत्पादन हैं / Main industries are coal mining and steel production"
+    {
+        "id": 10,
+        "question": "भारत में हाल ही में स्टैगफ्लेशन की स्थिति कब देखी गई है? / When was the recent occurrence of stagflation observed in India?",
+        "options": {
+            "A": "2022-23 के बीच महंगाई और बेरोजगारी बढ़ने पर",
+            "B": "2010-11 के दौरान",
+            "C": "1990 के दशक में",
+            "D": "2015-16 में"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 11,
-    "question": "कौन-सी जलवायु क्षेत्र में वर्षा की मात्रा सबसे अधिक होती है? / Which climatic zone receives the highest rainfall?",
-    "options": {
-      "A": "भूमध्यरेखीय (Equatorial)",
-      "B": "मरुस्थल (Desert)",
-      "C": "उष्णकटिबंधीय सवाना (Tropical Savanna)",
-      "D": "टुंड्रा (Tundra)"
+    {
+        "id": 11,
+        "question": "GDP aur GNP mein mukhya antar kya hai? / What is the main difference between GDP and GNP?",
+        "options": {
+            "A": "GDP desh ke andar utpadan ko maapta hai, GNP desh ke nagrikon ki aay ko maapta hai / GDP measures production within the country; GNP measures income of nationals",
+            "B": "GDP mein depreciation shamil hota hai, GNP mein nahi / GDP includes depreciation, GNP does not",
+            "C": "GNP mein foreign income shamil hoti hai, GDP mein nahi / GNP includes foreign income, GDP does not",
+            "D": "GDP hamesha GNP se bada hota hai / GDP is always bigger than GNP"
+        },
+        "answer": [
+            "A",
+            "C"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 12,
-    "question": "किस जलवायु क्षेत्र की वनस्पति में बांस और सागौन प्रमुख होते हैं? / In which climatic zone are bamboo and teak predominant?",
-    "options": {
-      "A": "उष्णकटिबंधीय मानसूनी (Tropical Monsoon)",
-      "B": "मरुस्थल (Desert)",
-      "C": "भूमध्यसागरीय (Mediterranean)",
-      "D": "टाइगा (Taiga)"
+    {
+        "id": 12,
+        "question": "Net Domestic Product (NDP) ka arth kya hai? / What is the meaning of Net Domestic Product (NDP)?",
+        "options": {
+            "A": "GDP minus depreciation",
+            "B": "GNP minus depreciation",
+            "C": "Total national income",
+            "D": "GDP plus depreciation"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 13,
-    "question": "चाय और रेशम उद्योग किस जलवायु क्षेत्र से जुड़े हैं? / Tea and silk industries are associated with which climatic zone?",
-    "options": {
-      "A": "उष्णकटिबंधीय मानसूनी (Tropical Monsoon)",
-      "B": "चीन-प्रकार (Warm Temperate)",
-      "C": "टुंड्रा (Tundra)",
-      "D": "भूमध्यरेखीय (Equatorial)"
+    {
+        "id": 13,
+        "question": "2024-25 mein India ki estimated GDP growth rate kitni hai? / What is the estimated GDP growth rate of India in 2024-25?",
+        "options": {
+            "A": "5-6%",
+            "B": "7-7.5%",
+            "C": "3-4%",
+            "D": "9-10%"
+        },
+        "answer": [
+            "B"
+        ]
     },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 14,
-    "question": "किस जलवायु क्षेत्र में शंकुधारी वन और कागज उद्योग प्रमुख हैं? / In which climatic zone are coniferous forests and paper industries major?",
-    "options": {
-      "A": "टाइगा (Taiga)",
-      "B": "उष्णकटिबंधीय मानसूनी (Tropical Monsoon)",
-      "C": "मरुस्थल (Desert)",
-      "D": "भूमध्यसागरीय (Mediterranean)"
+    {
+        "id": 14,
+        "question": "MPC (Marginal Propensity to Consume) ka kya role hota hai? / What is the role of MPC (Marginal Propensity to Consume)?",
+        "options": {
+            "A": "Additional income ka kharch karne ki pravritti / Propensity to spend additional income",
+            "B": "Additional income ko bachat karne ki pravritti / Propensity to save additional income",
+            "C": "RBI ki monetary policy / RBI's monetary policy",
+            "D": "Sarkari karon ki nirdharit dar / Government tax rate"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 15,
-    "question": "किस जलवायु क्षेत्र में अल्पाइन घासभूमि और पर्यटन उद्योग विकसित हैं? / Alpine meadows and tourism industries develop in which climatic zone?",
-    "options": {
-      "A": "पर्वतीय (Highland)",
-      "B": "भूमध्यरेखीय (Equatorial)",
-      "C": "टुंड्रा (Tundra)",
-      "D": "उष्णकटिबंधीय सवाना (Tropical Savanna)"
+    {
+        "id": 15,
+        "question": "Inflation ke kaun-kaun se prakar hote hain? / What are the types of inflation?",
+        "options": {
+            "A": "Demand-pull inflation",
+            "B": "Cost-push inflation",
+            "C": "Monetary inflation",
+            "D": "Fiscal inflation"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 16,
-    "question": "भूमध्यसागरीय जलवायु क्षेत्र की प्रमुख फसलें कौन-सी हैं? / Which are the main crops of Mediterranean climate?",
-    "options": {
-      "A": "जैतून और अंगूर / Olives and grapes",
-      "B": "चावल और गेहूँ / Rice and wheat",
-      "C": "मक्का और बाजरा / Maize and millet",
-      "D": "चाय और कॉफी / Tea and coffee"
+    {
+        "id": 16,
+        "question": "Consumer Price Index (CPI) ka prayog kisliye kiya jata hai? / What is the Consumer Price Index (CPI) used for?",
+        "options": {
+            "A": "Muddra-sfiti maapne ke liye / To measure inflation",
+            "B": "GDP nirdharit karne ke liye / To determine GDP",
+            "C": "Rozgar dar jaanchne ke liye / To check employment rate",
+            "D": "Niryat ki maatra maapne ke liye / To measure exports"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 17,
-    "question": "मरुस्थलीय जलवायु क्षेत्र में कृषि किस प्रकार की होती है? / What type of agriculture is practiced in Desert climate?",
-    "options": {
-      "A": "सूखा कृषि (Dry farming)",
-      "B": "सिंचित कृषि (Irrigated farming)",
-      "C": "धान की खेती (Paddy cultivation)",
-      "D": "वनस्पति उद्यान (Horticulture)"
+    {
+        "id": 17,
+        "question": "Stagflation ke dauran kya sthiti hoti hai? / What is the situation during stagflation?",
+        "options": {
+            "A": "Uchit inflation aur uchit berozgari / High inflation and high unemployment",
+            "B": "Neeche keemat aur adhik utpadan / Falling prices and higher production",
+            "C": "Niche keemat aur uchit berozgari / Falling prices and high unemployment",
+            "D": "Uchit keemat aur uchit berozgari / Stable prices and unemployment"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 18,
-    "question": "निम्नलिखित में से कौन-से उद्योग भूमध्यरेखीय वर्षावन क्षेत्र में विकसित होते हैं? / Which industries develop in Equatorial rainforest zone?",
-    "options": {
-      "A": "लकड़ी कटाई (Timber)",
-      "B": "रबर प्रसंस्करण (Rubber processing)",
-      "C": "कोयला खनन (Coal mining)",
-      "D": "कॉफी और कोको (Coffee and cocoa)"
+    {
+        "id": 18,
+        "question": "Nominal GDP aur Real GDP mein kya antar hota hai? / What is the difference between Nominal GDP and Real GDP?",
+        "options": {
+            "A": "Nominal GDP current prices par aadharit hai, Real GDP base year prices par / Nominal GDP is based on current prices; Real GDP on base year prices",
+            "B": "Nominal GDP inflation adjust karta hai, Real GDP nahi karta / Nominal GDP adjusts for inflation, Real GDP does not",
+            "C": "Real GDP hamesha nominal GDP se zyada hota hai / Real GDP is always more than nominal GDP",
+            "D": "Nominal GDP sirf agriculture ko maapta hai / Nominal GDP measures only agriculture"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 19,
-    "question": "टाइगा जलवायु क्षेत्र में प्रमुख जीव जन्तु कौन-से हैं? / Which animals are major in Taiga climate zone?",
-    "options": {
-      "A": "भालू (Bear)",
-      "B": "मूस (Moose)",
-      "C": "सिंह (Lion)",
-      "D": "हिरण (Deer)"
+    {
+        "id": 19,
+        "question": "Deflation ke kya prabhav hote hain? / What are the effects of deflation?",
+        "options": {
+            "A": "Kharch mein kami / Reduction in spending",
+            "B": "Udyog mein mandi / Decline in industry",
+            "C": "Rozgar mein vriddhi / Increase in employment",
+            "D": "Karobaar badhna / Growth in business"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 20,
-    "question": "उष्णकटिबंधीय सवाना क्षेत्र में पशुपालन किस कारण से प्रमुख है? / Why is animal husbandry prominent in Tropical Savanna zone?",
-    "options": {
-      "A": "लंबी घास उपलब्धता / Availability of tall grasses",
-      "B": "मौसम की अनिश्चितता / Climate variability",
-      "C": "बारिश अधिक होने के कारण / Due to high rainfall",
-      "D": "जैव विविधता कम होने के कारण / Due to low biodiversity"
+    {
+        "id": 20,
+        "question": "India mein Consumer Price Index (CPI) kis kshetra ke liye mahatvapurna hai? / For which sector is the Consumer Price Index (CPI) important in India?",
+        "options": {
+            "A": "Gramin kshetra / Rural sector",
+            "B": "Shehri kshetra / Urban sector",
+            "C": "Samaan roop se dono / Both equally",
+            "D": "Sirf krishi / Only agriculture"
+        },
+        "answer": [
+            "C"
+        ]
     },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 21,
-    "question": "चीन-प्रकार जलवायु क्षेत्र में किस उद्योग को प्राथमिकता दी जाती है? / Which industry is prioritized in Warm Temperate (China type) climate?",
-    "options": {
-      "A": "रेशम उद्योग (Silk industry)",
-      "B": "खनन उद्योग (Mining industry)",
-      "C": "आयुर्वेदिक उद्योग (Ayurvedic industry)",
-      "D": "धातु उद्योग (Metal industry)"
+    {
+        "id": 21,
+        "question": "GDP deflator ka use kisliye hota hai? / What is the use of GDP deflator?",
+        "options": {
+            "A": "Moolya star mein parivartan ko maapna / To measure changes in price level",
+            "B": "GDP ki real value nikalne ke liye / To calculate real GDP",
+            "C": "Berozgari dar nikalne ke liye / To find unemployment rate",
+            "D": "Krishi utpadan badhane ke liye / To increase agricultural production"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 22,
-    "question": "टुंड्रा जलवायु क्षेत्र में वनस्पति मुख्यतः किस प्रकार की होती है? / Vegetation in Tundra climate zone is mainly of which type?",
-    "options": {
-      "A": "काई और लाइकेन (Mosses and lichens)",
-      "B": "गाढ़े जंगल (Dense forests)",
-      "C": "घास के मैदान (Grasslands)",
-      "D": "फलदार पेड़ (Fruit trees)"
+    {
+        "id": 22,
+        "question": "GNP aur NNP mein kya antar hai? / What is the difference between GNP and NNP?",
+        "options": {
+            "A": "NNP mein depreciation minus kiya jata hai / Depreciation is subtracted in NNP",
+            "B": "GNP hamesha NNP se chhota hota hai / GNP is always smaller than NNP",
+            "C": "GNP mein sirf domestic income shamil hai / GNP includes only domestic income",
+            "D": "NNP mein sirf foreign income shamil hai / NNP includes only foreign income"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 23,
-    "question": "भूमध्यरेखीय वर्षावन क्षेत्र में जलवायु के कारण कौन-से उद्योग विकसित होते हैं? / Which industries develop due to climate in Equatorial rainforest zone?",
-    "options": {
-      "A": "कपड़ा उद्योग (Textile industry)",
-      "B": "लकड़ी उद्योग (Timber industry)",
-      "C": "मछली पालन (Fishing)",
-      "D": "फल उत्पादन (Fruit production)"
+    {
+        "id": 23,
+        "question": "2024-25 ke liye India ki estimated inflation rate kya hai? / What is the estimated inflation rate for India in 2024-25?",
+        "options": {
+            "A": "4-6%",
+            "B": "8-10%",
+            "C": "1-2%",
+            "D": "12-14%"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["B", "D"]
-  },
-  {
-    "id": 24,
-    "question": "उष्णकटिबंधीय मानसूनी क्षेत्र में वर्षा की अधिकता किस कारण होती है? / Why is there heavy rainfall in Tropical Monsoon zone?",
-    "options": {
-      "A": "सागर से आ रही नमी / Moisture from ocean",
-      "B": "पर्वत श्रृंखला की मौजूदगी / Presence of mountain ranges",
-      "C": "पृथ्वी का अक्षीय झुकाव / Earth's axial tilt",
-      "D": "वनस्पति के कारण / Due to vegetation"
+    {
+        "id": 24,
+        "question": "Monetary policy ka inflation control mein kya role hota hai? / What role does monetary policy play in controlling inflation?",
+        "options": {
+            "A": "Interest rate badha kar demand kam karta hai / Increases interest rates to reduce demand",
+            "B": "Sarkari kharch badha kar demand badhata hai / Increases government spending to increase demand",
+            "C": "Tax kam kar deta hai / Decreases taxes",
+            "D": "Money supply badhata hai / Increases money supply"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 25,
-    "question": "मरुस्थलीय क्षेत्र में पशुपालन किस प्रकार होता है? / What type of animal husbandry is practiced in Desert areas?",
-    "options": {
-      "A": "नमक चराई (Salt grazing)",
-      "B": "वन्यजीव पालन (Wildlife farming)",
-      "C": "उपजाऊ भूमि पर गऊ पालन (Cattle on fertile land)",
-      "D": "ऊँट चराई (Camel grazing)"
+    {
+        "id": 25,
+        "question": "Stagflation ke dauran kya hota hai? / What happens during stagflation?",
+        "options": {
+            "A": "Muddra-sfiti badhti hai aur berozgari bhi badhti hai / Inflation and unemployment both increase",
+            "B": "Keemat girti hai aur rozgar badhta hai / Prices fall and employment rises",
+            "C": "GDP tez badhta hai / GDP grows rapidly",
+            "D": "Muddra-sfiti nahi hoti / No inflation"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["D"]
-  },
-  {
-    "id": 26,
-    "question": "भूमध्यसागरीय क्षेत्र में किस प्रकार की फसलें प्रमुख होती हैं? / What types of crops are predominant in Mediterranean region?",
-    "options": {
-      "A": "सिट्रस फल (Citrus fruits)",
-      "B": "गेहूँ (Wheat)",
-      "C": "धान (Paddy)",
-      "D": "मक्का (Maize)"
+    {
+        "id": 26,
+        "question": "Real GDP aur Nominal GDP ke beech ka farq kya hai? / What is the difference between Real GDP and Nominal GDP?",
+        "options": {
+            "A": "Real GDP moolya vriddhi se mukt hota hai / Real GDP is adjusted for inflation",
+            "B": "Nominal GDP moolya vriddhi se mukt hota hai / Nominal GDP is adjusted for inflation",
+            "C": "Dono mein koi fark nahi hai / There is no difference",
+            "D": "Nominal GDP sirf government kharch ko dikhata hai / Nominal GDP shows only government spending"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 27,
-    "question": "टाइगा जलवायु क्षेत्र में किस प्रकार की कृषि होती है? / What type of agriculture exists in Taiga zone?",
-    "options": {
-      "A": "सामान्य खेती (Subsistence farming)",
-      "B": "वाणिज्यिक खेती (Commercial farming)",
-      "C": "वन आधारित कृषि (Forest-based agriculture)",
-      "D": "धान की खेती (Paddy cultivation)"
+    {
+        "id": 27,
+        "question": "CPI aur WPI mein kya farq hai? / What is the difference between CPI and WPI?",
+        "options": {
+            "A": "CPI grahak ke nazariye se moolya sudhar ko maapta hai / CPI measures price changes from consumer perspective",
+            "B": "WPI utpadakon ke nazariye se maapta hai / WPI measures from producer perspective",
+            "C": "Dono ek hi cheez hai / Both are same",
+            "D": "CPI me krishi samagri shamil nahi hoti / Agricultural products are not included in CPI"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 28,
-    "question": "उष्णकटिबंधीय सवाना क्षेत्र में जलवायु के कारण कौन-से पशुधन प्रमुख हैं? / Which livestock are prominent due to climate in Tropical Savanna?",
-    "options": {
-      "A": "गाय (Cattle)",
-      "B": "मेंढक (Sheep)",
-      "C": "ऊँट (Camel)",
-      "D": "भेड़ (Goat)"
+    {
+        "id": 28,
+        "question": "MPC (Marginal Propensity to Consume) aur MPS (Marginal Propensity to Save) ka yog kya hota hai? / What is the sum of MPC and MPS?",
+        "options": {
+            "A": "1",
+            "B": "0",
+            "C": "Depends on income",
+            "D": "More than 1"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A", "B", "D"]
-  },
-  {
-    "id": 29,
-    "question": "चीन-प्रकार जलवायु क्षेत्र में सबसे अधिक वर्षा कब होती है? / When does Warm Temperate (China type) climate receive most rainfall?",
-    "options": {
-      "A": "गर्मी में / During summer",
-      "B": "सर्दी में / During winter",
-      "C": "बारिश नहीं होती / No rainfall",
-      "D": "पूरे वर्ष समान / Throughout the year"
+    {
+        "id": 29,
+        "question": "GDP growth rate ko badhane ke liye kaun si niti prabhavi hoti hai? / Which policy is effective to increase GDP growth rate?",
+        "options": {
+            "A": "Expansionary fiscal policy",
+            "B": "Contractionary monetary policy",
+            "C": "Deflationary policy",
+            "D": "High taxation policy"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 30,
-    "question": "पर्वतीय क्षेत्र की जलवायु में तापमान किस आधार पर बदलता है? / In Highland climate, temperature changes on which basis?",
-    "options": {
-      "A": "ऊंचाई के अनुसार / According to altitude",
-      "B": "भूमि के प्रकार के अनुसार / According to land type",
-      "C": "सागर के निकटता के अनुसार / According to proximity to sea",
-      "D": "दिन और रात के अनुसार / According to day and night"
+    {
+        "id": 30,
+        "question": "Inflation ke samay RBI kya kar sakta hai? / What can RBI do during inflation?",
+        "options": {
+            "A": "Repo rate badhakar mudra supply kam kare / Increase repo rate to reduce money supply",
+            "B": "Repo rate kam karke mudra supply badhaye / Decrease repo rate to increase money supply",
+            "C": "Sarkari kharch badhaye / Increase government spending",
+            "D": "Tax kam kare / Decrease taxes"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 31,
-    "question": "भूमध्यरेखीय जलवायु क्षेत्र में किस प्रकार की वर्षा होती है? / What type of rainfall occurs in Equatorial climate zone?",
-    "options": {
-      "A": "वर्ष भर भारी वर्षा / Heavy rainfall throughout the year",
-      "B": "मानसून वर्षा / Monsoon rainfall",
-      "C": "वर्षा नहीं होती / No rainfall",
-      "D": "वर्षा सर्दियों में होती है / Rainfall in winter"
+    {
+        "id": 31,
+        "question": "Deflation ka kaun sa prabhav sabse adhik dekha jata hai? / Which effect of deflation is most commonly seen?",
+        "options": {
+            "A": "Consumer spending mein girawat / Decline in consumer spending",
+            "B": "Berozgari mein girawat / Decline in unemployment",
+            "C": "GDP mein vriddhi / Growth in GDP",
+            "D": "Udyogik utpadan mein vriddhi / Increase in industrial production"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 32,
-    "question": "टुंड्रा क्षेत्र की जलवायु में वनस्पति किस प्रकार की होती है? / What type of vegetation is found in Tundra climate?",
-    "options": {
-      "A": "काई और लाइकेन / Mosses and lichens",
-      "B": "सघन वर्षावन / Dense rainforest",
-      "C": "शंकुधारी वन / Coniferous forest",
-      "D": "मिश्रित वन / Mixed forest"
+    {
+        "id": 32,
+        "question": "National Income ko factor cost par maapne ka kya arth hai? / What is the meaning of measuring National Income at factor cost?",
+        "options": {
+            "A": "Sarkari kar aur subsidy hata kar / Excluding taxes and adding subsidies",
+            "B": "Market price par maapna / Measuring at market price",
+            "C": "Sirf private sector ko include karna / Including only private sector",
+            "D": "Sirf public sector ko include karna / Including only public sector"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 33,
-    "question": "उष्णकटिबंधीय मानसूनी क्षेत्र की प्रमुख फसलें कौन-सी हैं? / What are the main crops of Tropical Monsoon zone?",
-    "options": {
-      "A": "धान (Paddy)",
-      "B": "गेहूँ (Wheat)",
-      "C": "मक्का (Maize)",
-      "D": "तिलहन (Oilseeds)"
+    {
+        "id": 33,
+        "question": "Inflation control ke liye 'Monetary Policy' ke kaun se tools hote hain? / What are the tools of Monetary Policy to control inflation?",
+        "options": {
+            "A": "Repo rate badhana",
+            "B": "Cash reserve ratio (CRR) badhana",
+            "C": "Open market operations (OMO)",
+            "D": "Tax rate kam karna"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
     },
-    "answer": ["A", "D"]
-  },
-  {
-    "id": 34,
-    "question": "टाइगा जलवायु क्षेत्र में प्रमुख आर्थिक गतिविधि क्या है? / What is the major economic activity in Taiga climate zone?",
-    "options": {
-      "A": "लकड़ी कटाई (Logging)",
-      "B": "खेती (Farming)",
-      "C": "मछली पकड़ना (Fishing)",
-      "D": "खनन (Mining)"
+    {
+        "id": 34,
+        "question": "Stagflation ke dauran sarkar kis tarah ki niti apna sakti hai? / What kind of policy can government adopt during stagflation?",
+        "options": {
+            "A": "Supply-side reforms",
+            "B": "Demand-side expansion",
+            "C": "High subsidies dena",
+            "D": "Tax kam karna"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 35,
-    "question": "मरुस्थलीय क्षेत्र की वनस्पति में निम्न में से कौन-सी शामिल है? / Which of the following vegetation are found in Desert climate?",
-    "options": {
-      "A": "कैक्टस (Cactus)",
-      "B": "घास के मैदान (Grasslands)",
-      "C": "बबूल (Acacia)",
-      "D": "ताड़ के पेड़ (Palm trees)"
+    {
+        "id": 35,
+        "question": "India ki GDP mein sabse bada yogdaan kaunsa kshetra deta hai? / Which sector contributes most to India’s GDP?",
+        "options": {
+            "A": "Services sector",
+            "B": "Agriculture sector",
+            "C": "Manufacturing sector",
+            "D": "Mining sector"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A", "C", "D"]
-  },
-  {
-    "id": 36,
-    "question": "भूमध्यसागरीय जलवायु क्षेत्र की उद्योगिक गतिविधियाँ क्या हैं? / What are the industrial activities in Mediterranean climate zone?",
-    "options": {
-      "A": "अंगूर से वाइन उत्पादन (Wine production from grapes)",
-      "B": "जैतून के तेल का उत्पादन (Olive oil production)",
-      "C": "लोहे का उत्पादन (Iron production)",
-      "D": "कोयला खनन (Coal mining)"
+    {
+        "id": 36,
+        "question": "Deflation ki sthiti kab ho sakti hai? / When can deflation occur?",
+        "options": {
+            "A": "Demand girne par",
+            "B": "Supply girne par",
+            "C": "Money supply badhne par",
+            "D": "Tax badhne par"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 37,
-    "question": "उष्णकटिबंधीय सवाना जलवायु में वर्षा कैसे होती है? / How is rainfall in Tropical Savanna climate?",
-    "options": {
-      "A": "मौसमी मानसून / Seasonal monsoon",
-      "B": "साल भर समान / Uniform throughout year",
-      "C": "बहुत कम / Very less",
-      "D": "सर्दियों में अधिक / More in winters"
+    {
+        "id": 37,
+        "question": "GDP par inflation ka prabhav kya hota hai? / What is the impact of inflation on GDP?",
+        "options": {
+            "A": "Nominal GDP badhta hai, lekin Real GDP prabhavit nahi hota / Nominal GDP increases, but Real GDP unaffected",
+            "B": "Real GDP badhta hai, Nominal GDP nahi badhta / Real GDP increases, Nominal GDP does not",
+            "C": "Dono badhte hain barabar / Both increase equally",
+            "D": "Dono kam hote hain / Both decrease"
+        },
+        "answer": [
+            "A"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 38,
-    "question": "चीन-प्रकार जलवायु में किस प्रकार की कृषि होती है? / What type of agriculture is found in Warm Temperate (China type) climate?",
-    "options": {
-      "A": "धान की खेती (Rice cultivation)",
-      "B": "गेहूँ की खेती (Wheat cultivation)",
-      "C": "तिलहन की खेती (Oilseed cultivation)",
-      "D": "फलोत्पादन (Horticulture)"
+    {
+        "id": 38,
+        "question": "GNP ko kaise badhaya ja sakta hai? / How can GNP be increased?",
+        "options": {
+            "A": "Foreign investment badha kar",
+            "B": "Desh ke nagrikon ki kamai badha kar",
+            "C": "Imports badha kar",
+            "D": "Exports kam kar ke"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["A", "D"]
-  },
-  {
-    "id": 39,
-    "question": "पर्वतीय क्षेत्र की जलवायु में तापमान का क्या प्रभाव होता है? / What is the effect of altitude on temperature in Highland climate?",
-    "options": {
-      "A": "तापमान गिरता है / Temperature decreases",
-      "B": "तापमान बढ़ता है / Temperature increases",
-      "C": "कोई प्रभाव नहीं / No effect",
-      "D": "रात में तापमान बढ़ता है / Temperature increases at night"
+    {
+        "id": 39,
+        "question": "2024-25 mein Bharat ki mudra-sfiti ko kis factor se sabse adhik prabhavit hone ki sambhavana hai? / What factor is likely to influence India’s inflation most in 2024-25?",
+        "options": {
+            "A": "Fuel prices",
+            "B": "Agricultural output",
+            "C": "Global supply chain disruptions",
+            "D": "Currency exchange rates"
+        },
+        "answer": [
+            "A",
+            "B"
+        ]
     },
-    "answer": ["A"]
-  },
-  {
-    "id": 40,
-    "question": "भूमध्यरेखीय वर्षावन क्षेत्र में किस प्रकार की कृषि उद्योगिक गतिविधियाँ होती हैं? / What types of agricultural-industrial activities occur in Equatorial rainforest zone?",
-    "options": {
-      "A": "ताड़ के तेल का उत्पादन (Palm oil production)",
-      "B": "चाय उत्पादन (Tea production)",
-      "C": "कॉफी उत्पादन (Coffee production)",
-      "D": "रेशम उत्पादन (Silk production)"
-    },
-    "answer": ["A", "C"]
-  }
+    {
+        "id": 40,
+        "question": "National Income ki ginti mein kaun kaun se components shamil hote hain? / Which components are included in National Income calculation?",
+        "options": {
+            "A": "Wages and salaries",
+            "B": "Rent and interest",
+            "C": "Corporate profits",
+            "D": "Government transfer payments"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ]
+    }
 ]
