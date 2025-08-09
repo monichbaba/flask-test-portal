@@ -1,442 +1,442 @@
 [
   {
     "id": 1,
-    "question": "पृथ्वी की कौन-सी परत सबसे बाहर होती है? / Which layer of Earth is the outermost?",
+    "question": "भूमध्यरेखीय (Equatorial) जलवायु क्षेत्र की विशेषताएँ कौन-सी हैं? / Which are the characteristics of Equatorial climatic zone?",
     "options": {
-      "A": "क्रस्ट (Crust)",
-      "B": "मैंटल (Mantle)",
-      "C": "कोर (Core)",
-      "D": "लिथोस्फीयर (Lithosphere)"
+      "A": "तापमान 25–27°C के बीच रहता है / Temperature remains between 25–27°C",
+      "B": "सालभर भारी वर्षा होती है / Heavy rainfall throughout the year",
+      "C": "वनस्पति में मुख्य रूप से पर्णपाती जंगल होते हैं / Dominated by deciduous forests",
+      "D": "प्रमुख उद्योग रबर और कॉफी से जुड़े होते हैं / Major industries related to rubber and coffee"
     },
-    "answer": ["A", "D"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 2,
-    "question": "पृथ्वी के आंतरिक कोर में प्रमुख रूप से कौन-से तत्व पाए जाते हैं? / Which elements are mainly found in the Earth's inner core?",
+    "question": "उष्णकटिबंधीय मानसूनी जलवायु की निम्नलिखित विशेषताओं में से कौन-सी सही हैं? / Which of the following are correct about Tropical Monsoon climate?",
     "options": {
-      "A": "लौह (Iron)",
-      "B": "निकेल (Nickel)",
-      "C": "सिलिकॉन (Silicon)",
-      "D": "ऑक्सीजन (Oxygen)"
+      "A": "तापमान 24–30°C के बीच होता है / Temperature ranges between 24–30°C",
+      "B": "मुख्य वर्षा मानसून के दौरान होती है / Main rainfall during monsoon season",
+      "C": "मुख्य वनस्पति सदाबहार वन होते हैं / Dominated by evergreen forests",
+      "D": "चाय और रेशम उद्योग यहाँ प्रमुख हैं / Tea and silk industries are major here"
     },
-    "answer": ["A", "B"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 3,
-    "question": "चन्द्रमा पर पहला कदम रखने वाले व्यक्ति कौन थे? / Who was the first person to step on the Moon?",
+    "question": "उष्णकटिबंधीय सवाना जलवायु की मुख्य वनस्पति और उद्योग कौन-से हैं? / What are the main vegetation and industries of Tropical Savanna climate?",
     "options": {
-      "A": "नील आर्मस्ट्रॉन्ग (Neil Armstrong)",
-      "B": "बज़ एल्ड्रिन (Buzz Aldrin)",
-      "C": "यूरी गगारिन (Yuri Gagarin)",
-      "D": "माइकल कॉलिन्स (Michael Collins)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 4,
-    "question": "ग्रीनहाउस प्रभाव का मुख्य कारण कौन-सी गैस है? / Which gas is the main cause of the greenhouse effect?",
-    "options": {
-      "A": "कार्बन डाइऑक्साइड (CO₂)",
-      "B": "मीथेन (CH₄)",
-      "C": "ऑक्सीजन (O₂)",
-      "D": "नाइट्रस ऑक्साइड (N₂O)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 5,
-    "question": "निम्नलिखित में से कौन-से महाद्वीप पूरी तरह दक्षिणी गोलार्ध में स्थित हैं? / Which of the following continents are completely in the Southern Hemisphere?",
-    "options": {
-      "A": "ऑस्ट्रेलिया (Australia)",
-      "B": "अंटार्कटिका (Antarctica)",
-      "C": "अफ्रीका (Africa)",
-      "D": "दक्षिण अमेरिका (South America)"
+      "A": "लंबी घास और बबूल / Tall grasses and Acacia trees",
+      "B": "चमड़ा उद्योग और पशुपालन / Leather industry and animal husbandry",
+      "C": "घने सदाबहार जंगल / Dense evergreen forests",
+      "D": "चाय और कॉफी उद्योग / Tea and coffee industries"
     },
     "answer": ["A", "B"]
   },
   {
-    "id": 6,
-    "question": "मानव शरीर में सबसे कठोर पदार्थ कौन-सा है? / Which is the hardest substance in the human body?",
+    "id": 4,
+    "question": "मरुस्थलीय (Desert) जलवायु की विशेषताएँ क्या हैं? / What are the features of Desert climate?",
     "options": {
-      "A": "हड्डी (Bone)",
-      "B": "दंत-वल्क (Enamel)",
-      "C": "नाखून (Nail)",
-      "D": "केराटिन (Keratin)"
+      "A": "दिन में तापमान 20–35°C और रात में तापमान गिरता है / Day temp 20–35°C and sharp drop at night",
+      "B": "वर्षा 250 मिमी से कम होती है / Rainfall less than 250 mm",
+      "C": "वनस्पति में मुख्य रूप से काई और लाइकेन होते हैं / Dominated by mosses and lichens",
+      "D": "तेल, गैस और खनन उद्योग प्रमुख हैं / Oil, gas and mining industries are major"
     },
-    "answer": ["B"]
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 5,
+    "question": "भूमध्यसागरीय (Mediterranean) जलवायु के लिए कौन-से विवरण सही हैं? / Which of the following are true for Mediterranean climate?",
+    "options": {
+      "A": "तापमान 15–25°C के बीच होता है / Temperature ranges between 15–25°C",
+      "B": "सर्दियों में वर्षा अधिक होती है / Higher rainfall in winter",
+      "C": "मुख्य वनस्पति में सदाबहार झाड़ियाँ, जैतून और अंगूर शामिल हैं / Evergreen shrubs, olives and grapes dominate",
+      "D": "मुख्य उद्योग कोयला और स्टील उत्पादन हैं / Main industries are coal and steel production"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 6,
+    "question": "चीन-प्रकार (Warm Temperate) जलवायु की विशेषताएँ कौन-सी हैं? / What are the features of Warm Temperate (China type) climate?",
+    "options": {
+      "A": "तापमान 10–28°C के बीच होता है / Temperature between 10–28°C",
+      "B": "वर्षा 750–1500 मिमी के बीच होती है / Rainfall between 750–1500 mm",
+      "C": "मुख्य वनस्पति में मिश्रित वन और चाय शामिल हैं / Mixed forests and tea vegetation dominate",
+      "D": "मुख्य उद्योग रेशम, चाय और धान प्रसंस्करण हैं / Major industries are silk, tea and rice processing"
+    },
+    "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 7,
-    "question": "‘कोप्पेन जलवायु वर्गीकरण’ में 'Csa' किस प्रकार की जलवायु को दर्शाता है? / In Köppen climate classification, 'Csa' represents which type of climate?",
+    "question": "शीत समशीतोष्ण (Cool Temperate Maritime) जलवायु के बारे में सही कथन चुनिए। / Choose correct statements about Cool Temperate Maritime climate.",
     "options": {
-      "A": "भूमध्यरेखीय वर्षा-वन / Equatorial Rainforest",
-      "B": "भूमध्यसागरीय / Mediterranean",
-      "C": "उष्णकटिबंधीय सवाना / Tropical Savanna",
-      "D": "मरुस्थल / Desert"
+      "A": "तापमान 5–20°C के बीच होता है / Temperature ranges 5–20°C",
+      "B": "वर्षा 500–2000 मिमी के बीच होती है / Rainfall 500–2000 mm",
+      "C": "मुख्य वनस्पति में मिश्रित शंकुधारी और पर्णपाती वन शामिल हैं / Mixed coniferous and deciduous forests",
+      "D": "मुख्य उद्योग जहाज निर्माण, डेयरी और मछली पकड़ना हैं / Main industries are shipbuilding, dairy and fishing"
     },
-    "answer": ["B"]
+    "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 8,
-    "question": "किस ग्रह का दिन सबसे लंबा होता है? / Which planet has the longest day?",
+    "question": "टाइगा (Taiga) जलवायु क्षेत्र की विशेषताएँ क्या हैं? / What are the characteristics of Taiga climate zone?",
     "options": {
-      "A": "शुक्र (Venus)",
-      "B": "बुध (Mercury)",
-      "C": "मंगल (Mars)",
-      "D": "बृहस्पति (Jupiter)"
+      "A": "तापमान -10 से 15°C के बीच होता है / Temperature ranges between -10 to 15°C",
+      "B": "वर्षा 300–600 मिमी के बीच होती है / Rainfall between 300–600 mm",
+      "C": "वनस्पति मुख्य रूप से शंकुधारी वन होते हैं / Vegetation mainly coniferous forests",
+      "D": "मुख्य उद्योग कागज, लकड़ी और फर व्यापार हैं / Main industries are paper, lumber and fur trade"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 9,
-    "question": "भारत में सबसे अधिक चाय उत्पादन किस राज्य में होता है? / Which state produces the highest tea in India?",
+    "question": "टुंड्रा (Tundra) जलवायु क्षेत्र के बारे में निम्न में से सही विकल्प चुनें। / Select correct options about Tundra climate zone.",
     "options": {
-      "A": "असम (Assam)",
-      "B": "पश्चिम बंगाल (West Bengal)",
-      "C": "केरल (Kerala)",
-      "D": "तमिलनाडु (Tamil Nadu)"
+      "A": "तापमान -30 से 10°C के बीच होता है / Temperature ranges between -30 to 10°C",
+      "B": "वर्षा 250 मिमी से कम होती है / Rainfall less than 250 mm",
+      "C": "वनस्पति मुख्य रूप से काई, लाइकेन और बौनी झाड़ियाँ होती हैं / Vegetation mainly mosses, lichens and dwarf shrubs",
+      "D": "मुख्य उद्योग तेल, मछली पकड़ना और फर हैं / Main industries are oil, fishing and fur"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 10,
-    "question": "किस धातु का गलनांक सबसे अधिक है? / Which metal has the highest melting point?",
+    "question": "पर्वतीय (Highland) जलवायु के लिए कौन-से कथन सही हैं? / Which statements are true for Highland climate?",
     "options": {
-      "A": "टंग्स्टन (Tungsten)",
-      "B": "प्लैटिनम (Platinum)",
-      "C": "क्रोमियम (Chromium)",
-      "D": "टाइटेनियम (Titanium)"
+      "A": "तापमान ऊँचाई के अनुसार बदलता है / Temperature varies with altitude",
+      "B": "वर्षा पवनाभिमुख ढलानों पर अधिक होती है / Rainfall higher on windward slopes",
+      "C": "वनस्पति में अल्पाइन घासभूमि और शंकुधारी वन होते हैं / Vegetation includes alpine meadows and conifers",
+      "D": "मुख्य उद्योग कोयला खनन और स्टील उत्पादन हैं / Main industries are coal mining and steel production"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 11,
-    "question": "विश्व में सबसे अधिक जनसंख्या वाला देश 2023 में कौन सा है? / Which country has the largest population in 2023?",
+    "question": "कौन-सी जलवायु क्षेत्र में वर्षा की मात्रा सबसे अधिक होती है? / Which climatic zone receives the highest rainfall?",
     "options": {
-      "A": "भारत (India)",
-      "B": "चीन (China)",
-      "C": "अमेरिका (USA)",
-      "D": "इंडोनेशिया (Indonesia)"
+      "A": "भूमध्यरेखीय (Equatorial)",
+      "B": "मरुस्थल (Desert)",
+      "C": "उष्णकटिबंधीय सवाना (Tropical Savanna)",
+      "D": "टुंड्रा (Tundra)"
     },
     "answer": ["A"]
   },
   {
     "id": 12,
-    "question": "पृथ्वी पर ऋतुओं का परिवर्तन किस कारण होता है? / The change of seasons on Earth is due to which reason?",
+    "question": "किस जलवायु क्षेत्र की वनस्पति में बांस और सागौन प्रमुख होते हैं? / In which climatic zone are bamboo and teak predominant?",
     "options": {
-      "A": "पृथ्वी का अक्षीय झुकाव / Axial tilt of the Earth",
-      "B": "पृथ्वी का सूर्य के चारों ओर परिक्रमण / Revolution around the Sun",
-      "C": "पृथ्वी का घूर्णन / Rotation of the Earth",
-      "D": "चंद्रमा का गुरुत्वाकर्षण / Moon's gravity"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 13,
-    "question": "किस नदी को 'दुःख की नदी' कहा जाता है? / Which river is called the 'Sorrow of the River'?",
-    "options": {
-      "A": "कोसी (Kosi)",
-      "B": "गंगा (Ganga)",
-      "C": "ब्रह्मपुत्र (Brahmaputra)",
-      "D": "गोदावरी (Godavari)"
+      "A": "उष्णकटिबंधीय मानसूनी (Tropical Monsoon)",
+      "B": "मरुस्थल (Desert)",
+      "C": "भूमध्यसागरीय (Mediterranean)",
+      "D": "टाइगा (Taiga)"
     },
     "answer": ["A"]
   },
   {
-    "id": 14,
-    "question": "निम्न में से कौन-सा एक नवीकरणीय ऊर्जा स्रोत है? / Which of the following is a renewable source of energy?",
+    "id": 13,
+    "question": "चाय और रेशम उद्योग किस जलवायु क्षेत्र से जुड़े हैं? / Tea and silk industries are associated with which climatic zone?",
     "options": {
-      "A": "सौर ऊर्जा (Solar Energy)",
-      "B": "पवन ऊर्जा (Wind Energy)",
-      "C": "प्राकृतिक गैस (Natural Gas)",
-      "D": "कोयला (Coal)"
+      "A": "उष्णकटिबंधीय मानसूनी (Tropical Monsoon)",
+      "B": "चीन-प्रकार (Warm Temperate)",
+      "C": "टुंड्रा (Tundra)",
+      "D": "भूमध्यरेखीय (Equatorial)"
     },
     "answer": ["A", "B"]
   },
   {
-    "id": 15,
-    "question": "मानव शरीर में लाल रक्त कोशिकाओं का निर्माण कहाँ होता है? / Where are red blood cells formed in the human body?",
+    "id": 14,
+    "question": "किस जलवायु क्षेत्र में शंकुधारी वन और कागज उद्योग प्रमुख हैं? / In which climatic zone are coniferous forests and paper industries major?",
     "options": {
-      "A": "यकृत (Liver)",
-      "B": "अस्थि मज्जा (Bone Marrow)",
-      "C": "प्लीहा (Spleen)",
-      "D": "गुर्दा (Kidney)"
+      "A": "टाइगा (Taiga)",
+      "B": "उष्णकटिबंधीय मानसूनी (Tropical Monsoon)",
+      "C": "मरुस्थल (Desert)",
+      "D": "भूमध्यसागरीय (Mediterranean)"
     },
-    "answer": ["B"]
+    "answer": ["A"]
+  },
+  {
+    "id": 15,
+    "question": "किस जलवायु क्षेत्र में अल्पाइन घासभूमि और पर्यटन उद्योग विकसित हैं? / Alpine meadows and tourism industries develop in which climatic zone?",
+    "options": {
+      "A": "पर्वतीय (Highland)",
+      "B": "भूमध्यरेखीय (Equatorial)",
+      "C": "टुंड्रा (Tundra)",
+      "D": "उष्णकटिबंधीय सवाना (Tropical Savanna)"
+    },
+    "answer": ["A"]
   },
   {
     "id": 16,
-    "question": "कौन-सा ग्रह 'लाल ग्रह' के नाम से जाना जाता है? / Which planet is known as the 'Red Planet'?",
+    "question": "भूमध्यसागरीय जलवायु क्षेत्र की प्रमुख फसलें कौन-सी हैं? / Which are the main crops of Mediterranean climate?",
     "options": {
-      "A": "मंगल (Mars)",
-      "B": "शुक्र (Venus)",
-      "C": "बुध (Mercury)",
-      "D": "बृहस्पति (Jupiter)"
+      "A": "जैतून और अंगूर / Olives and grapes",
+      "B": "चावल और गेहूँ / Rice and wheat",
+      "C": "मक्का और बाजरा / Maize and millet",
+      "D": "चाय और कॉफी / Tea and coffee"
     },
     "answer": ["A"]
   },
   {
     "id": 17,
-    "question": "जीव विज्ञान में DNA का पूरा नाम क्या है? / What is the full form of DNA in biology?",
+    "question": "मरुस्थलीय जलवायु क्षेत्र में कृषि किस प्रकार की होती है? / What type of agriculture is practiced in Desert climate?",
     "options": {
-      "A": "Deoxyribonucleic Acid",
-      "B": "Deoxyribogenetic Acid",
-      "C": "Deoxyribonitric Acid",
-      "D": "None of the above"
+      "A": "सूखा कृषि (Dry farming)",
+      "B": "सिंचित कृषि (Irrigated farming)",
+      "C": "धान की खेती (Paddy cultivation)",
+      "D": "वनस्पति उद्यान (Horticulture)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 18,
-    "question": "निम्नलिखित में से कौन-सी गैस वायुमंडल में सबसे अधिक मात्रा में पाई जाती है? / Which gas is most abundant in the atmosphere?",
+    "question": "निम्नलिखित में से कौन-से उद्योग भूमध्यरेखीय वर्षावन क्षेत्र में विकसित होते हैं? / Which industries develop in Equatorial rainforest zone?",
     "options": {
-      "A": "ऑक्सीजन (Oxygen)",
-      "B": "कार्बन डाइऑक्साइड (CO₂)",
-      "C": "नाइट्रोजन (Nitrogen)",
-      "D": "आर्गन (Argon)"
+      "A": "लकड़ी कटाई (Timber)",
+      "B": "रबर प्रसंस्करण (Rubber processing)",
+      "C": "कोयला खनन (Coal mining)",
+      "D": "कॉफी और कोको (Coffee and cocoa)"
     },
-    "answer": ["C"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 19,
-    "question": "विश्व का सबसे ऊँचा जलप्रपात कौन सा है? / Which is the highest waterfall in the world?",
+    "question": "टाइगा जलवायु क्षेत्र में प्रमुख जीव जन्तु कौन-से हैं? / Which animals are major in Taiga climate zone?",
     "options": {
-      "A": "एंजेल फॉल्स (Angel Falls)",
-      "B": "नियाग्रा फॉल्स (Niagara Falls)",
-      "C": "विक्टोरिया फॉल्स (Victoria Falls)",
-      "D": "जोग फॉल्स (Jog Falls)"
+      "A": "भालू (Bear)",
+      "B": "मूस (Moose)",
+      "C": "सिंह (Lion)",
+      "D": "हिरण (Deer)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 20,
-    "question": "भारतीय संविधान में 'न्याय' शब्द किस भाग में आता है? / In the Indian Constitution, the word 'Justice' appears in which part?",
+    "question": "उष्णकटिबंधीय सवाना क्षेत्र में पशुपालन किस कारण से प्रमुख है? / Why is animal husbandry prominent in Tropical Savanna zone?",
     "options": {
-      "A": "प्रस्तावना (Preamble)",
-      "B": "मूल अधिकार (Fundamental Rights)",
-      "C": "मौलिक कर्तव्य (Fundamental Duties)",
-      "D": "राज्य नीति के निदेशक तत्व (DPSP)"
+      "A": "लंबी घास उपलब्धता / Availability of tall grasses",
+      "B": "मौसम की अनिश्चितता / Climate variability",
+      "C": "बारिश अधिक होने के कारण / Due to high rainfall",
+      "D": "जैव विविधता कम होने के कारण / Due to low biodiversity"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 21,
-    "question": "सौरमंडल का सबसे बड़ा उपग्रह कौन सा है? / Which is the largest moon in the Solar System?",
+    "question": "चीन-प्रकार जलवायु क्षेत्र में किस उद्योग को प्राथमिकता दी जाती है? / Which industry is prioritized in Warm Temperate (China type) climate?",
     "options": {
-      "A": "गैनिमीड (Ganymede)",
-      "B": "टाइटन (Titan)",
-      "C": "कैलीस्टो (Callisto)",
-      "D": "यूरोपा (Europa)"
+      "A": "रेशम उद्योग (Silk industry)",
+      "B": "खनन उद्योग (Mining industry)",
+      "C": "आयुर्वेदिक उद्योग (Ayurvedic industry)",
+      "D": "धातु उद्योग (Metal industry)"
     },
     "answer": ["A"]
   },
   {
     "id": 22,
-    "question": "निम्न में से कौन-सा एक शीत मरुस्थल है? / Which of the following is a cold desert?",
+    "question": "टुंड्रा जलवायु क्षेत्र में वनस्पति मुख्यतः किस प्रकार की होती है? / Vegetation in Tundra climate zone is mainly of which type?",
     "options": {
-      "A": "गोबी मरुस्थल (Gobi Desert)",
-      "B": "सहारा मरुस्थल (Sahara Desert)",
-      "C": "थार मरुस्थल (Thar Desert)",
-      "D": "कालाहारी मरुस्थल (Kalahari Desert)"
+      "A": "काई और लाइकेन (Mosses and lichens)",
+      "B": "गाढ़े जंगल (Dense forests)",
+      "C": "घास के मैदान (Grasslands)",
+      "D": "फलदार पेड़ (Fruit trees)"
     },
     "answer": ["A"]
   },
   {
     "id": 23,
-    "question": "भारत में पहली पंचवर्षीय योजना का मुख्य लक्ष्य क्या था? / What was the main aim of the First Five-Year Plan in India?",
+    "question": "भूमध्यरेखीय वर्षावन क्षेत्र में जलवायु के कारण कौन-से उद्योग विकसित होते हैं? / Which industries develop due to climate in Equatorial rainforest zone?",
     "options": {
-      "A": "कृषि विकास (Agricultural Development)",
-      "B": "उद्योगीकरण (Industrialization)",
-      "C": "स्वास्थ्य सुधार (Health Improvement)",
-      "D": "शिक्षा विस्तार (Education Expansion)"
+      "A": "कपड़ा उद्योग (Textile industry)",
+      "B": "लकड़ी उद्योग (Timber industry)",
+      "C": "मछली पालन (Fishing)",
+      "D": "फल उत्पादन (Fruit production)"
     },
-    "answer": ["A"]
+    "answer": ["B", "D"]
   },
   {
     "id": 24,
-    "question": "कौन-सा ग्रह अपने घूर्णन के विपरीत दिशा में परिक्रमण करता है? / Which planet rotates in the opposite direction of its orbit?",
+    "question": "उष्णकटिबंधीय मानसूनी क्षेत्र में वर्षा की अधिकता किस कारण होती है? / Why is there heavy rainfall in Tropical Monsoon zone?",
     "options": {
-      "A": "शुक्र (Venus)",
-      "B": "यूरेनस (Uranus)",
-      "C": "पृथ्वी (Earth)",
-      "D": "मंगल (Mars)"
+      "A": "सागर से आ रही नमी / Moisture from ocean",
+      "B": "पर्वत श्रृंखला की मौजूदगी / Presence of mountain ranges",
+      "C": "पृथ्वी का अक्षीय झुकाव / Earth's axial tilt",
+      "D": "वनस्पति के कारण / Due to vegetation"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 25,
+    "question": "मरुस्थलीय क्षेत्र में पशुपालन किस प्रकार होता है? / What type of animal husbandry is practiced in Desert areas?",
+    "options": {
+      "A": "नमक चराई (Salt grazing)",
+      "B": "वन्यजीव पालन (Wildlife farming)",
+      "C": "उपजाऊ भूमि पर गऊ पालन (Cattle on fertile land)",
+      "D": "ऊँट चराई (Camel grazing)"
+    },
+    "answer": ["D"]
+  },
+  {
+    "id": 26,
+    "question": "भूमध्यसागरीय क्षेत्र में किस प्रकार की फसलें प्रमुख होती हैं? / What types of crops are predominant in Mediterranean region?",
+    "options": {
+      "A": "सिट्रस फल (Citrus fruits)",
+      "B": "गेहूँ (Wheat)",
+      "C": "धान (Paddy)",
+      "D": "मक्का (Maize)"
     },
     "answer": ["A", "B"]
   },
   {
-    "id": 25,
-    "question": "‘हिराकुंड बाँध’ किस नदी पर स्थित है? / Hirakud Dam is situated on which river?",
-    "options": {
-      "A": "महानदी (Mahanadi)",
-      "B": "गोदावरी (Godavari)",
-      "C": "कृष्णा (Krishna)",
-      "D": "नर्मदा (Narmada)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 26,
-    "question": "किस तत्व का घनत्व सबसे अधिक है? / Which element has the highest density?",
-    "options": {
-      "A": "ऑस्मियम (Osmium)",
-      "B": "प्लैटिनम (Platinum)",
-      "C": "यूरेनियम (Uranium)",
-      "D": "सीसा (Lead)"
-    },
-    "answer": ["A"]
-  },
-  {
     "id": 27,
-    "question": "भारत में मानसून के आगमन का प्रथम संकेत किस राज्य में मिलता है? / In which state does the monsoon first arrive in India?",
+    "question": "टाइगा जलवायु क्षेत्र में किस प्रकार की कृषि होती है? / What type of agriculture exists in Taiga zone?",
     "options": {
-      "A": "केरल (Kerala)",
-      "B": "तमिलनाडु (Tamil Nadu)",
-      "C": "असम (Assam)",
-      "D": "पश्चिम बंगाल (West Bengal)"
+      "A": "सामान्य खेती (Subsistence farming)",
+      "B": "वाणिज्यिक खेती (Commercial farming)",
+      "C": "वन आधारित कृषि (Forest-based agriculture)",
+      "D": "धान की खेती (Paddy cultivation)"
     },
-    "answer": ["A"]
+    "answer": ["A", "C"]
   },
   {
     "id": 28,
-    "question": "विश्व का सबसे बड़ा प्रवाल भित्ति तंत्र कहाँ है? / Where is the world's largest coral reef system located?",
+    "question": "उष्णकटिबंधीय सवाना क्षेत्र में जलवायु के कारण कौन-से पशुधन प्रमुख हैं? / Which livestock are prominent due to climate in Tropical Savanna?",
     "options": {
-      "A": "ग्रेट बैरियर रीफ (Great Barrier Reef)",
-      "B": "रेड सी (Red Sea)",
-      "C": "कैरेबियन (Caribbean)",
-      "D": "हिंद महासागर (Indian Ocean)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 29,
-    "question": "निम्न में से कौन-सा एक क्षोभमंडल की विशेषता है? / Which of the following is a characteristic of the troposphere?",
-    "options": {
-      "A": "मौसम परिवर्तन / Weather changes",
-      "B": "अधिकतम जलवाष्प की उपस्थिति / Maximum water vapor presence",
-      "C": "ओजोन परत की उपस्थिति / Presence of ozone layer",
-      "D": "तापमान की ऊँचाई के साथ कमी / Decrease in temperature with height"
+      "A": "गाय (Cattle)",
+      "B": "मेंढक (Sheep)",
+      "C": "ऊँट (Camel)",
+      "D": "भेड़ (Goat)"
     },
     "answer": ["A", "B", "D"]
   },
   {
-    "id": 30,
-    "question": "‘ब्लैक होल’ शब्द किस वैज्ञानिक ने दिया था? / Which scientist coined the term 'Black Hole'?",
+    "id": 29,
+    "question": "चीन-प्रकार जलवायु क्षेत्र में सबसे अधिक वर्षा कब होती है? / When does Warm Temperate (China type) climate receive most rainfall?",
     "options": {
-      "A": "जॉन व्हीलर (John Wheeler)",
-      "B": "स्टीफन हॉकिंग (Stephen Hawking)",
-      "C": "आइंस्टीन (Einstein)",
-      "D": "सुबरमण्यम चंद्रशेखर (Subrahmanyan Chandrasekhar)"
+      "A": "गर्मी में / During summer",
+      "B": "सर्दी में / During winter",
+      "C": "बारिश नहीं होती / No rainfall",
+      "D": "पूरे वर्ष समान / Throughout the year"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 30,
+    "question": "पर्वतीय क्षेत्र की जलवायु में तापमान किस आधार पर बदलता है? / In Highland climate, temperature changes on which basis?",
+    "options": {
+      "A": "ऊंचाई के अनुसार / According to altitude",
+      "B": "भूमि के प्रकार के अनुसार / According to land type",
+      "C": "सागर के निकटता के अनुसार / According to proximity to sea",
+      "D": "दिन और रात के अनुसार / According to day and night"
     },
     "answer": ["A"]
   },
   {
     "id": 31,
-    "question": "भारत में हरित क्रांति के जनक किसे कहा जाता है? / Who is known as the father of Green Revolution in India?",
+    "question": "भूमध्यरेखीय जलवायु क्षेत्र में किस प्रकार की वर्षा होती है? / What type of rainfall occurs in Equatorial climate zone?",
     "options": {
-      "A": "एम. एस. स्वामीनाथन (M. S. Swaminathan)",
-      "B": "विक्रम साराभाई (Vikram Sarabhai)",
-      "C": "सी. सुब्रमण्यम (C. Subramaniam)",
-      "D": "नॉर्मन बोरलॉग (Norman Borlaug)"
+      "A": "वर्ष भर भारी वर्षा / Heavy rainfall throughout the year",
+      "B": "मानसून वर्षा / Monsoon rainfall",
+      "C": "वर्षा नहीं होती / No rainfall",
+      "D": "वर्षा सर्दियों में होती है / Rainfall in winter"
     },
     "answer": ["A"]
   },
   {
     "id": 32,
-    "question": "सौरमंडल में सबसे तेज़ घूर्णन करने वाला ग्रह कौन सा है? / Which planet rotates the fastest in the Solar System?",
+    "question": "टुंड्रा क्षेत्र की जलवायु में वनस्पति किस प्रकार की होती है? / What type of vegetation is found in Tundra climate?",
     "options": {
-      "A": "शनि (Saturn)",
-      "B": "बृहस्पति (Jupiter)",
-      "C": "मंगल (Mars)",
-      "D": "नेपच्यून (Neptune)"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 33,
-    "question": "किस देश को 'उगते सूरज की भूमि' कहा जाता है? / Which country is called the 'Land of the Rising Sun'?",
-    "options": {
-      "A": "जापान (Japan)",
-      "B": "चीन (China)",
-      "C": "कोरिया (Korea)",
-      "D": "थाईलैंड (Thailand)"
+      "A": "काई और लाइकेन / Mosses and lichens",
+      "B": "सघन वर्षावन / Dense rainforest",
+      "C": "शंकुधारी वन / Coniferous forest",
+      "D": "मिश्रित वन / Mixed forest"
     },
     "answer": ["A"]
   },
   {
-    "id": 34,
-    "question": "निम्न में से कौन-सा एक ज्वालामुखी द्वीप है? / Which of the following is a volcanic island?",
+    "id": 33,
+    "question": "उष्णकटिबंधीय मानसूनी क्षेत्र की प्रमुख फसलें कौन-सी हैं? / What are the main crops of Tropical Monsoon zone?",
     "options": {
-      "A": "बैरन द्वीप (Barren Island)",
-      "B": "श्रीलंका (Sri Lanka)",
-      "C": "मालदीव (Maldives)",
-      "D": "अंडमान द्वीप (Andaman Islands)"
+      "A": "धान (Paddy)",
+      "B": "गेहूँ (Wheat)",
+      "C": "मक्का (Maize)",
+      "D": "तिलहन (Oilseeds)"
+    },
+    "answer": ["A", "D"]
+  },
+  {
+    "id": 34,
+    "question": "टाइगा जलवायु क्षेत्र में प्रमुख आर्थिक गतिविधि क्या है? / What is the major economic activity in Taiga climate zone?",
+    "options": {
+      "A": "लकड़ी कटाई (Logging)",
+      "B": "खेती (Farming)",
+      "C": "मछली पकड़ना (Fishing)",
+      "D": "खनन (Mining)"
     },
     "answer": ["A"]
   },
   {
     "id": 35,
-    "question": "ओजोन परत का क्षरण किस गैस के कारण होता है? / Ozone layer depletion is caused by which gas?",
+    "question": "मरुस्थलीय क्षेत्र की वनस्पति में निम्न में से कौन-सी शामिल है? / Which of the following vegetation are found in Desert climate?",
     "options": {
-      "A": "क्लोरोफ्लोरोकार्बन (CFC)",
-      "B": "मीथेन (CH₄)",
-      "C": "कार्बन मोनोऑक्साइड (CO)",
-      "D": "नाइट्रोजन डाइऑक्साइड (NO₂)"
+      "A": "कैक्टस (Cactus)",
+      "B": "घास के मैदान (Grasslands)",
+      "C": "बबूल (Acacia)",
+      "D": "ताड़ के पेड़ (Palm trees)"
     },
-    "answer": ["A"]
+    "answer": ["A", "C", "D"]
   },
   {
     "id": 36,
-    "question": "विश्व का सबसे ऊँचा पर्वत शिखर कौन सा है? / Which is the highest mountain peak in the world?",
+    "question": "भूमध्यसागरीय जलवायु क्षेत्र की उद्योगिक गतिविधियाँ क्या हैं? / What are the industrial activities in Mediterranean climate zone?",
     "options": {
-      "A": "माउंट एवरेस्ट (Mount Everest)",
-      "B": "K2",
-      "C": "कंचनजंघा (Kangchenjunga)",
-      "D": "ल्होत्से (Lhotse)"
+      "A": "अंगूर से वाइन उत्पादन (Wine production from grapes)",
+      "B": "जैतून के तेल का उत्पादन (Olive oil production)",
+      "C": "लोहे का उत्पादन (Iron production)",
+      "D": "कोयला खनन (Coal mining)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 37,
-    "question": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) का मुख्यालय कहाँ है? / Where is the headquarters of ISRO located?",
+    "question": "उष्णकटिबंधीय सवाना जलवायु में वर्षा कैसे होती है? / How is rainfall in Tropical Savanna climate?",
     "options": {
-      "A": "हैदराबाद (Hyderabad)",
-      "B": "बेंगलुरु (Bengaluru)",
-      "C": "श्रीहरिकोटा (Sriharikota)",
-      "D": "नई दिल्ली (New Delhi)"
+      "A": "मौसमी मानसून / Seasonal monsoon",
+      "B": "साल भर समान / Uniform throughout year",
+      "C": "बहुत कम / Very less",
+      "D": "सर्दियों में अधिक / More in winters"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 38,
-    "question": "भारत में 'नीली क्रांति' का संबंध किससे है? / Blue Revolution in India is related to which sector?",
+    "question": "चीन-प्रकार जलवायु में किस प्रकार की कृषि होती है? / What type of agriculture is found in Warm Temperate (China type) climate?",
     "options": {
-      "A": "मछली पालन (Fisheries)",
-      "B": "तेल बीज उत्पादन (Oilseed Production)",
-      "C": "दूध उत्पादन (Milk Production)",
-      "D": "रेशम उत्पादन (Silk Production)"
+      "A": "धान की खेती (Rice cultivation)",
+      "B": "गेहूँ की खेती (Wheat cultivation)",
+      "C": "तिलहन की खेती (Oilseed cultivation)",
+      "D": "फलोत्पादन (Horticulture)"
     },
-    "answer": ["A"]
+    "answer": ["A", "D"]
   },
   {
     "id": 39,
-    "question": "किस देश ने सबसे पहले महिला को अंतरिक्ष में भेजा? / Which country sent the first woman into space?",
+    "question": "पर्वतीय क्षेत्र की जलवायु में तापमान का क्या प्रभाव होता है? / What is the effect of altitude on temperature in Highland climate?",
     "options": {
-      "A": "अमेरिका (USA)",
-      "B": "सोवियत संघ (USSR)",
-      "C": "चीन (China)",
-      "D": "फ्रांस (France)"
+      "A": "तापमान गिरता है / Temperature decreases",
+      "B": "तापमान बढ़ता है / Temperature increases",
+      "C": "कोई प्रभाव नहीं / No effect",
+      "D": "रात में तापमान बढ़ता है / Temperature increases at night"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 40,
-    "question": "‘विश्व पर्यावरण दिवस’ कब मनाया जाता है? / When is 'World Environment Day' celebrated?",
+    "question": "भूमध्यरेखीय वर्षावन क्षेत्र में किस प्रकार की कृषि उद्योगिक गतिविधियाँ होती हैं? / What types of agricultural-industrial activities occur in Equatorial rainforest zone?",
     "options": {
-      "A": "5 जून (5 June)",
-      "B": "22 अप्रैल (22 April)",
-      "C": "16 सितंबर (16 September)",
-      "D": "10 दिसंबर (10 December)"
+      "A": "ताड़ के तेल का उत्पादन (Palm oil production)",
+      "B": "चाय उत्पादन (Tea production)",
+      "C": "कॉफी उत्पादन (Coffee production)",
+      "D": "रेशम उत्पादन (Silk production)"
     },
-    "answer": ["A"]
+    "answer": ["A", "C"]
   }
 ]
