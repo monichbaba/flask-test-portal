@@ -1,1105 +1,1327 @@
 [
   {
     "id": 1,
-    "question": "PPP मॉडल किस क्षेत्र में सबसे ज्यादा प्रयोग होता है? / In which sector is the PPP model most commonly used?",
+    "question": "Regulating Act 1773 के अंतर्गत भारत में गवर्नर-जनरल के पद पर किसे नियुक्त किया गया था? / Under the Regulating Act 1773, who was appointed as the Governor-General of Bengal?",
     "options": {
-      "A": "स्वास्थ्य सेवा (Health Care)",
-      "B": "बुनियादी ढांचा विकास (Infrastructure Development)",
-      "C": "शिक्षा (Education)",
-      "D": "कृषि (Agriculture)"
+      "A": "वॉरेन हेस्टिंग्स (Warren Hastings)",
+      "B": "लॉर्ड कॉर्नवालिस (Lord Cornwallis)",
+      "C": "लॉर्ड वेलेजली (Lord Wellesley)",
+      "D": "सर जॉन शोर (Sir John Shore)"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 2,
-    "question": "भारत सरकार की कौन-सी योजना डिजिटल वित्तीय समावेशन को बढ़ावा देती है? / Which government scheme promotes digital financial inclusion?",
+    "question": "Regulating Act 1773 के बारे में निम्न में से कौन-से कथन सही हैं? / Which of the following statements about the Regulating Act 1773 are correct?",
     "options": {
-      "A": "Make in India",
-      "B": "Jan Dhan Yojana",
-      "C": "Startup India",
-      "D": "Digital India"
+      "A": "यह ब्रिटिश संसद का भारत पर पहला हस्तक्षेप था",
+      "B": "इसने सुप्रीम कोर्ट की स्थापना कलकत्ता में की",
+      "C": "गवर्नर ऑफ बंगाल को गवर्नर-जनरल ऑफ बंगाल बना दिया गया",
+      "D": "यह अधिनियम केवल मद्रास प्रेसीडेंसी के लिए लागू था"
     },
-    "answer": ["B", "D"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 3,
-    "question": "भारत में सबसे अधिक ऊर्जा उत्पादन किस स्रोत से होता है? / Which source produces the most energy in India?",
+    "question": "Pitt's India Act 1784 के अंतर्गत किस निकाय का गठन किया गया? / Which body was created under Pitt's India Act 1784?",
     "options": {
-      "A": "सौर ऊर्जा (Solar Energy)",
-      "B": "कोयला (Coal)",
-      "C": "पवन ऊर्जा (Wind Energy)",
-      "D": "हाइड्रो पावर (Hydro Power)"
+      "A": "बोर्ड ऑफ कंट्रोल (Board of Control)",
+      "B": "कोर्ट ऑफ डायरेक्टर्स (Court of Directors)",
+      "C": "इंडियन सिविल सर्विस (Indian Civil Service)",
+      "D": "इंडियन काउंसिल (Indian Council)"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 4,
-    "question": "सड़क परिवहन में भारत की विश्व में क्या स्थिति है? / What is India's position in the world regarding road transport?",
+    "question": "Charter Act 1813 की कौन-सी विशेषता थी? / Which was a feature of the Charter Act 1813?",
     "options": {
-      "A": "दूसरा सबसे बड़ा सड़क नेटवर्क (Second largest road network)",
-      "B": "तीसरा सबसे बड़ा सड़क नेटवर्क (Third largest road network)",
-      "C": "पहला सबसे बड़ा सड़क नेटवर्क (Largest road network)",
-      "D": "चौथा सबसे बड़ा सड़क नेटवर्क (Fourth largest road network)"
+      "A": "ईस्ट इंडिया कंपनी के व्यापारिक एकाधिकार का अंत",
+      "B": "ईसाई मिशनरियों को भारत आने की अनुमति",
+      "C": "भारत के लिए एक स्वतंत्र विधान परिषद की स्थापना",
+      "D": "भारत में सर्वोच्च न्यायालय की स्थापना"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 5,
-    "question": "भारत में 5G नेटवर्क की शुरुआत कब हुई? / When was the 5G network launched in India?",
+    "question": "Charter Act 1833 के बारे में सही कथन चुनिए: / Choose the correct statements about the Charter Act 1833:",
     "options": {
-      "A": "2020",
-      "B": "2021",
-      "C": "2022",
-      "D": "2023"
+      "A": "गवर्नर-जनरल ऑफ बंगाल को गवर्नर-जनरल ऑफ इंडिया बना दिया गया",
+      "B": "भारत में विधायी शक्ति का केंद्रीकरण हुआ",
+      "C": "ईस्ट इंडिया कंपनी का वाणिज्यिक कार्य समाप्त हुआ",
+      "D": "सर्वोच्च न्यायालय की स्थापना की गई"
     },
-    "answer": ["D"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 6,
-    "question": "भारत सरकार की किस योजना का उद्देश्य ग्रामीण इलाकों में बिजली पहुंचाना है? / Which government scheme aims to provide electricity in rural areas?",
+    "question": "Charter Act 1853 के अंतर्गत कौन-सा सुधार किया गया? / Which reform was introduced under the Charter Act 1853?",
     "options": {
-      "A": "Saubhagya Yojana",
-      "B": "UDAY Scheme",
-      "C": "Deen Dayal Upadhyaya Gram Jyoti Yojana",
-      "D": "Smart Cities Mission"
+      "A": "भारतीय सिविल सेवा की प्रतियोगी परीक्षा",
+      "B": "पहली बार विधायी और कार्यकारी कार्यों का विभाजन",
+      "C": "भारतीय उच्च न्यायालयों की स्थापना",
+      "D": "राज्यपाल की नियुक्ति की प्रक्रिया बदली"
     },
-    "answer": ["C"]
+    "answer": ["A", "B"]
   },
   {
     "id": 7,
-    "question": "डिजिटल अर्थव्यवस्था में निम्नलिखित में से कौन से घटक शामिल हैं? / Which of the following are components of the digital economy?",
+    "question": "Government of India Act 1858 के बारे में निम्नलिखित में से कौन-से कथन सही हैं? / Which of the following statements about Government of India Act 1858 are correct?",
     "options": {
-      "A": "E-commerce",
-      "B": "Digital Payments",
-      "C": "Agriculture",
-      "D": "Online Education"
+      "A": "ईस्ट इंडिया कंपनी का अंत हुआ",
+      "B": "भारत सचिव का पद सृजित हुआ",
+      "C": "रानी का घोषणा-पत्र जारी हुआ",
+      "D": "भारत का प्रशासन ब्रिटिश संसद के हाथ में चला गया"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 8,
-    "question": "भारत में PPP मॉडल का प्राथमिक लाभ क्या है? / What is the primary benefit of the PPP model in India?",
+    "question": "Indian Councils Act 1861 के अंतर्गत क्या प्रावधान किया गया? / What provision was made under the Indian Councils Act 1861?",
     "options": {
-      "A": "सरकार के खर्च में कमी (Reduction in government expenditure)",
-      "B": "व्यक्तिगत लाभ (Private profit only)",
-      "C": "किसानों को सब्सिडी (Farmer subsidies)",
-      "D": "बेरोजगारी में वृद्धि (Increase in unemployment)"
+      "A": "विधान परिषद का पुनर्गठन",
+      "B": "गैर-सरकारी सदस्यों की नियुक्ति",
+      "C": "स्थानीय विधान परिषदों की स्थापना",
+      "D": "भारत सचिव को वीटो अधिकार देना"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 9,
-    "question": "वित्तीय समावेशन के लिए 'आधार आधारित पेमेंट सिस्टम' किसका हिस्सा है? / The 'Aadhaar Enabled Payment System' is part of which initiative?",
+    "question": "Indian Councils Act 1892 के बारे में सही विकल्प चुनिए: / Choose the correct options about the Indian Councils Act 1892:",
     "options": {
-      "A": "Digital India",
-      "B": "Make in India",
-      "C": "Startup India",
-      "D": "Smart Cities Mission"
+      "A": "विधान परिषदों में गैर-सरकारी सदस्यों की संख्या बढ़ाई गई",
+      "B": "अप्रत्यक्ष चुनाव की प्रक्रिया शुरू हुई",
+      "C": "सदस्यों को बजट पर चर्चा का अधिकार दिया गया",
+      "D": "मौजूदा प्रांतों का पुनर्गठन हुआ"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 10,
-    "question": "भारत में रेलवे नेटवर्क की लंबाई लगभग कितनी है? / What is the approximate length of the railway network in India?",
+    "question": "Indian Councils Act 1909 को किस नाम से जाना जाता है? / By what name is the Indian Councils Act 1909 known?",
     "options": {
-      "A": "67,000 किलोमीटर",
-      "B": "100,000 किलोमीटर",
-      "C": "150,000 किलोमीटर",
-      "D": "45,000 किलोमीटर"
+      "A": "मॉर्ले-मिंटो सुधार (Morley-Minto Reforms)",
+      "B": "मॉण्टेग्यू-चेम्सफोर्ड सुधार (Montagu-Chelmsford Reforms)",
+      "C": "साइमन कमीशन (Simon Commission)",
+      "D": "क्रिप्स मिशन (Cripps Mission)"
     },
     "answer": ["A"]
   },
   {
     "id": 11,
-    "question": "भारत में सौर ऊर्जा उत्पादन में कौन-सा राज्य अग्रणी है? / Which state is leading in solar energy production in India?",
+    "question": "Indian Councils Act 1909 के तहत किस विशेष प्रावधान को शामिल किया गया? / Which special provision was included under the Indian Councils Act 1909?",
     "options": {
-      "A": "राजस्थान",
-      "B": "तमिलनाडु",
-      "C": "गुजरात",
-      "D": "महाराष्ट्र"
+      "A": "मुस्लिमों के लिए पृथक निर्वाचन",
+      "B": "साइमन कमीशन का गठन",
+      "C": "गवर्नर-जनरल की कार्यपालिका का विस्तार",
+      "D": "सदस्यों को प्रश्न पूछने का अधिकार"
     },
-    "answer": ["A"]
+    "answer": ["A", "C", "D"]
   },
   {
     "id": 12,
-    "question": "निम्नलिखित में से कौन-से भारत सरकार के डिजिटल वित्तीय समावेशन के पहल हैं? / Which of the following are Indian government initiatives for digital financial inclusion?",
+    "question": "Government of India Act 1919 के तहत द्वैध शासन (Dyarchy) किन प्रांतों में लागू किया गया? / Under the Government of India Act 1919, Dyarchy was introduced in which provinces?",
     "options": {
-      "A": "Jan Dhan Yojana",
-      "B": "BHIM App",
-      "C": "Startup India",
-      "D": "UPI"
+      "A": "बॉम्बे (Bombay)",
+      "B": "मद्रास (Madras)",
+      "C": "बंगाल (Bengal)",
+      "D": "पंजाब (Punjab)"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A", "B", "C", "D"]
   },
   {
     "id": 13,
-    "question": "सड़क और रेल परिवहन के बीच मुख्य अंतर क्या है? / What is the main difference between road and rail transport?",
+    "question": "Government of India Act 1919 के बारे में सही कथन हैं: / Correct statements about Government of India Act 1919 are:",
     "options": {
-      "A": "रेल अधिक गतिशील है (Rail is more flexible)",
-      "B": "सड़क अधिक लचीली है (Road is more flexible)",
-      "C": "सड़क कम लागत वाला है (Road is low cost)",
-      "D": "रेल कम सुरक्षित है (Rail is less safe)"
+      "A": "केंद्रीय स्तर पर द्विसदनीय व्यवस्था",
+      "B": "प्रांतों में द्वैध शासन",
+      "C": "मुस्लिमों के पृथक निर्वाचन को समाप्त करना",
+      "D": "साइमन कमीशन का गठन"
     },
-    "answer": ["B"]
+    "answer": ["A", "B"]
   },
   {
     "id": 14,
-    "question": "भारत में 'Smart Cities Mission' का उद्देश्य क्या है? / What is the objective of India's 'Smart Cities Mission'?",
+    "question": "Simon Commission का गठन कब किया गया? / When was the Simon Commission appointed?",
     "options": {
-      "A": "ग्रामीण विकास",
-      "B": "स्मार्ट और सतत शहरी विकास",
-      "C": "कृषि वृद्धि",
-      "D": "आर्थिक सुधार"
+      "A": "1925",
+      "B": "1927",
+      "C": "1929",
+      "D": "1930"
     },
     "answer": ["B"]
   },
   {
     "id": 15,
-    "question": "भारत में ऊर्जा के नवीकरणीय स्रोत कौन-कौन से हैं? / Which of the following are renewable energy sources in India?",
+    "question": "Government of India Act 1935 के बारे में सही विकल्प चुनिए: / Choose the correct options about the Government of India Act 1935:",
     "options": {
-      "A": "कोयला (Coal)",
-      "B": "पवन ऊर्जा (Wind Energy)",
-      "C": "सौर ऊर्जा (Solar Energy)",
-      "D": "प्राकृतिक गैस (Natural Gas)"
+      "A": "संघीय ढांचे का प्रावधान",
+      "B": "प्रांतीय स्वायत्तता",
+      "C": "सर्वोच्च न्यायालय की स्थापना",
+      "D": "भारत सचिव का पद समाप्त करना"
     },
-    "answer": ["B", "C"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 16,
-    "question": "भारत सरकार द्वारा वित्तीय समावेशन को बढ़ावा देने के लिए कौन-सी पहल शुरू की गई थी? / Which initiative was launched by the Government of India to promote financial inclusion?",
+    "question": "Government of India Act 1935 में संघीय संरचना का प्रावधान लागू क्यों नहीं हो सका? / Why was the federal structure provision of Government of India Act 1935 not implemented?",
     "options": {
-      "A": "Make in India",
-      "B": "Jan Dhan Yojana",
-      "C": "Digital India",
-      "D": "Startup India"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 17,
-    "question": "भारत में ऊर्जा उत्पादन में कौन-सा क्षेत्र सबसे तेजी से बढ़ रहा है? / Which sector is growing fastest in India's energy production?",
-    "options": {
-      "A": "कोयला",
-      "B": "पवन ऊर्जा",
-      "C": "सौर ऊर्जा",
-      "D": "जैव ईंधन"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 18,
-    "question": "भारत में सड़क परिवहन का मुख्य लाभ क्या है? / What is the main advantage of road transport in India?",
-    "options": {
-      "A": "कम लागत और लचीलापन",
-      "B": "तेज गति",
-      "C": "अधिक सुरक्षा",
-      "D": "कम प्रदूषण"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 19,
-    "question": "निम्नलिखित में से कौन सी योजना ग्रामीण भारत में इंटरनेट पहुंचाने के लिए है? / Which scheme aims to provide internet access in rural India?",
-    "options": {
-      "A": "BharatNet",
-      "B": "Digital India",
-      "C": "Make in India",
-      "D": "Startup India"
+      "A": "देशी रियासतों की अनिच्छा",
+      "B": "द्वितीय विश्व युद्ध का आरंभ",
+      "C": "कांग्रेस पार्टी का विरोध",
+      "D": "ब्रिटिश संसद की अस्वीकृति"
     },
     "answer": ["A", "B"]
   },
   {
-    "id": 20,
-    "question": "भारत में वित्तीय समावेशन के लिए सबसे महत्वपूर्ण डिजिटल टूल कौन सा है? / What is the most important digital tool for financial inclusion in India?",
+    "id": 17,
+    "question": "Indian Independence Act 1947 के बारे में सही कथन हैं: / Correct statements about the Indian Independence Act 1947 are:",
     "options": {
-      "A": "Mobile Banking",
-      "B": "UPI",
-      "C": "Cash Transactions",
-      "D": "ATMs"
+      "A": "भारत और पाकिस्तान के दो डोमिनियन बने",
+      "B": "ब्रिटिश सम्राट की अधिराज्य सत्ता समाप्त हुई",
+      "C": "संविधान सभा को विधायी शक्ति दी गई",
+      "D": "भारत का गवर्नर-जनरल ब्रिटिश सरकार द्वारा नियुक्त हुआ"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 18,
+    "question": "संविधान सभा की संरचना के बारे में सही विकल्प चुनिए: / Choose the correct options about the composition of the Constituent Assembly:",
+    "options": {
+      "A": "कुल सदस्य प्रारंभ में 389 थे",
+      "B": "ब्रिटिश प्रांतों से चुने गए",
+      "C": "देशी रियासतों से नामित सदस्य",
+      "D": "सदस्य प्रत्यक्ष चुनाव से चुने गए"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 19,
+    "question": "संविधान सभा में मुस्लिम लीग के सदस्यों ने कब भाग लेना बंद किया? / When did members of the Muslim League stop participating in the Constituent Assembly?",
+    "options": {
+      "A": "माउंटबेटन योजना की घोषणा के बाद",
+      "B": "डायरेक्ट एक्शन डे के बाद",
+      "C": "भारतीय स्वतंत्रता अधिनियम 1947 के बाद",
+      "D": "क्रिप्स प्रस्ताव के बाद"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 20,
+    "question": "संविधान सभा में उद्देशिका प्रस्ताव (Objectives Resolution) कब प्रस्तुत किया गया? / When was the Objectives Resolution presented in the Constituent Assembly?",
+    "options": {
+      "A": "9 दिसंबर 1946",
+      "B": "13 दिसंबर 1946",
+      "C": "22 जनवरी 1947",
+      "D": "26 नवंबर 1949"
     },
     "answer": ["B"]
   },
   {
     "id": 21,
-    "question": "भारत में राष्ट्रीय राजमार्गों का प्रबंधन किस संस्था द्वारा किया जाता है? / Which organization manages national highways in India?",
+    "question": "Objectives Resolution के बारे में सही कथन हैं: / Correct statements about Objectives Resolution are:",
     "options": {
-      "A": "NHAI",
-      "B": "IRCTC",
-      "C": "BIS",
-      "D": "SEBI"
+      "A": "इसे जवाहरलाल नेहरू ने प्रस्तुत किया",
+      "B": "इसने संविधान के मूल दर्शन को परिभाषित किया",
+      "C": "यह बाद में प्रस्तावना का आधार बना",
+      "D": "इसे सरदार पटेल ने प्रस्तुत किया"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "C"]
   },
   {
     "id": 22,
-    "question": "‘UDAY’ योजना का उद्देश्य क्या है? / What is the objective of the ‘UDAY’ scheme?",
+    "question": "संविधान सभा की विभिन्न समितियों में से किसके अध्यक्ष डॉ. भीमराव अंबेडकर थे? / Dr. B.R. Ambedkar was the chairman of which committee of the Constituent Assembly?",
     "options": {
-      "A": "विद्युत वितरण कंपनियों का पुनर्गठन",
-      "B": "सड़क सुरक्षा सुधार",
-      "C": "डिजिटल भुगतान को बढ़ावा देना",
-      "D": "ग्रामीण सड़कों का निर्माण"
+      "A": "मसौदा समिति (Drafting Committee)",
+      "B": "संविधान पर सलाहकार समिति",
+      "C": "राज्यों की समिति",
+      "D": "संविधानिक सुधार समिति"
     },
     "answer": ["A"]
   },
   {
     "id": 23,
-    "question": "भारत में सबसे बड़ा बंदरगाह कौन सा है? / Which is the largest port in India?",
+    "question": "संविधान सभा में कितनी प्रमुख समितियां थीं? / How many major committees were there in the Constituent Assembly?",
     "options": {
-      "A": "मुंबई पोर्ट",
-      "B": "चेननई पोर्ट",
-      "C": "मुंद्रा पोर्ट",
-      "D": "कोलकाता पोर्ट"
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "10"
     },
-    "answer": ["C"]
+    "answer": ["A"]
   },
   {
     "id": 24,
-    "question": "नीचे दिए गए कौन से PPP मॉडल के उदाहरण हैं? / Which of the following are examples of PPP models?",
+    "question": "संविधान सभा की 'संघीय शक्तियों की समिति' (Union Powers Committee) के अध्यक्ष कौन थे? / Who was the chairman of the Union Powers Committee of the Constituent Assembly?",
     "options": {
-      "A": "सड़क निर्माण परियोजनाएं",
-      "B": "स्वास्थ्य सेवा केंद्र",
-      "C": "सरकारी स्कूल",
-      "D": "बिजली वितरण"
+      "A": "जवाहरलाल नेहरू",
+      "B": "सरदार पटेल",
+      "C": "राजेंद्र प्रसाद",
+      "D": "भीमराव अंबेडकर"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A"]
   },
   {
     "id": 25,
-    "question": "भारत में ‘National Electric Mobility Mission’ का उद्देश्य क्या है? / What is the objective of the ‘National Electric Mobility Mission’ in India?",
+    "question": "संविधान सभा की 'प्रांतीय शक्तियों की समिति' के अध्यक्ष कौन थे? / Who was the chairman of the Provincial Powers Committee of the Constituent Assembly?",
     "options": {
-      "A": "सौर ऊर्जा का विस्तार",
-      "B": "इलेक्ट्रिक वाहनों को बढ़ावा देना",
-      "C": "रेल नेटवर्क का विकास",
-      "D": "ग्रामीण विद्युतीकरण"
+      "A": "जवाहरलाल नेहरू",
+      "B": "सरदार पटेल",
+      "C": "राजेंद्र प्रसाद",
+      "D": "के.एम. मुंशी"
     },
     "answer": ["B"]
   },
   {
     "id": 26,
-    "question": "भारत में ‘BharatNet’ योजना का मुख्य उद्देश्य क्या है? / What is the primary objective of the ‘BharatNet’ scheme in India?",
+    "question": "संविधान सभा की प्रारंभिक बैठक का संचालन किसने किया? / Who presided over the first meeting of the Constituent Assembly?",
     "options": {
-      "A": "ग्रामीण इलाकों में फाइबर ऑप्टिक इंटरनेट कनेक्टिविटी",
-      "B": "नागरिकता प्रमाणीकरण",
-      "C": "सड़क निर्माण",
-      "D": "सौर ऊर्जा उत्पादन"
+      "A": "सचिदानंद सिन्हा",
+      "B": "राजेंद्र प्रसाद",
+      "C": "जवाहरलाल नेहरू",
+      "D": "सरदार पटेल"
     },
     "answer": ["A"]
   },
   {
     "id": 27,
-    "question": "भारत में ‘Make in India’ पहल का उद्देश्य क्या है? / What is the objective of the ‘Make in India’ initiative?",
+    "question": "संविधान सभा के स्थायी अध्यक्ष (Permanent Chairman) कौन बने? / Who became the permanent chairman (President) of the Constituent Assembly?",
     "options": {
-      "A": "विदेशी निवेश को बढ़ावा देना",
-      "B": "भारत में विनिर्माण उद्योग का विकास",
-      "C": "कृषि सुधार",
-      "D": "पर्यावरण संरक्षण"
+      "A": "सचिदानंद सिन्हा",
+      "B": "राजेंद्र प्रसाद",
+      "C": "जवाहरलाल नेहरू",
+      "D": "भीमराव अंबेडकर"
     },
     "answer": ["B"]
   },
   {
     "id": 28,
-    "question": "भारत में वित्तीय समावेशन के लिए 'PMJDY' योजना का क्या महत्व है? / What is the significance of the 'PMJDY' scheme for financial inclusion in India?",
+    "question": "संविधान सभा में कुल कितने दिनों तक बैठकें चलीं? / For how many days did the Constituent Assembly meet in total?",
     "options": {
-      "A": "खाते खोलना और बैंकिंग सेवाओं तक पहुंच",
-      "B": "टैक्स संग्रहण",
-      "C": "विदेशी निवेश आकर्षित करना",
-      "D": "बेरोजगारी कम करना"
+      "A": "165 दिन",
+      "B": "175 दिन",
+      "C": "180 दिन",
+      "D": "195 दिन"
     },
     "answer": ["A"]
   },
   {
     "id": 29,
-    "question": "भारत में पवन ऊर्जा उत्पादन में कौन सा राज्य अग्रणी है? / Which state leads in wind energy production in India?",
+    "question": "संविधान सभा द्वारा संविधान निर्माण की कुल अवधि कितनी रही? / What was the total duration taken by the Constituent Assembly to frame the Constitution?",
     "options": {
-      "A": "तमिलनाडु",
-      "B": "राजस्थान",
-      "C": "गुजरात",
-      "D": "कर्नाटक"
+      "A": "2 वर्ष 11 माह 18 दिन",
+      "B": "2 वर्ष 10 माह 5 दिन",
+      "C": "3 वर्ष 11 माह 18 दिन",
+      "D": "2 वर्ष 9 माह 25 दिन"
     },
     "answer": ["A"]
   },
   {
     "id": 30,
-    "question": "डिजिटल इंडिया योजना के अंतर्गत कौन-कौन से क्षेत्र आते हैं? / Which of the following sectors are included under the Digital India initiative?",
+    "question": "संविधान सभा में संविधान पर अंतिम हस्ताक्षर कब किए गए? / When was the Constitution finally signed by the members of the Constituent Assembly?",
     "options": {
-      "A": "ई-गवर्नेंस",
-      "B": "इंटरनेट पहुंच",
-      "C": "ग्रामीण विकास",
-      "D": "डिजिटल भुगतान"
+      "A": "24 जनवरी 1950",
+      "B": "26 जनवरी 1950",
+      "C": "26 नवंबर 1949",
+      "D": "15 अगस्त 1947"
     },
-    "answer": ["A", "B", "D"]
+    "answer": ["A"]
   },
   {
     "id": 31,
-    "question": "भारत सरकार की ‘Smart Cities Mission’ योजना का लक्ष्य क्या है? / What is the goal of the Government of India's ‘Smart Cities Mission’?",
+    "question": "संविधान सभा में हस्ताक्षर करने वाले कुल कितने सदस्य थे? / How many members finally signed the Constitution in the Constituent Assembly?",
     "options": {
-      "A": "स्मार्ट और सतत शहरी विकास",
-      "B": "ग्रामीण इलाकों का विकास",
-      "C": "सड़क सुधार",
-      "D": "शिक्षा क्षेत्र में सुधार"
+      "A": "284",
+      "B": "299",
+      "C": "292",
+      "D": "305"
     },
     "answer": ["A"]
   },
   {
     "id": 32,
-    "question": "वित्तीय समावेशन का अर्थ क्या है? / What does financial inclusion mean?",
+    "question": "संविधान सभा में सबसे अधिक समय किस विषय पर बहस हुई? / On which subject did the Constituent Assembly spend the maximum time debating?",
     "options": {
-      "A": "सभी नागरिकों को वित्तीय सेवाओं तक पहुंच प्रदान करना",
-      "B": "केवल धनी लोगों को बैंकिंग सुविधा देना",
-      "C": "सरकार की टैक्स नीति",
-      "D": "विदेशी निवेश आकर्षित करना"
+      "A": "मौलिक अधिकार",
+      "B": "संघीय ढांचा",
+      "C": "नागरिकता",
+      "D": "राज्य के नीति निदेशक तत्व"
     },
     "answer": ["A"]
   },
   {
     "id": 33,
-    "question": "भारत में ऊर्जा क्षेत्र की विकास योजना ‘UDAY’ किसके लिए है? / Who is the ‘UDAY’ scheme targeted towards in India’s energy sector?",
+    "question": "संविधान सभा में सबसे उम्रदराज सदस्य कौन थे? / Who was the oldest member of the Constituent Assembly?",
     "options": {
-      "A": "विद्युत उत्पादन कंपनियां",
-      "B": "विद्युत वितरण कंपनियां",
-      "C": "ग्रामीण क्षेत्र",
-      "D": "शहरी क्षेत्र"
+      "A": "सचिदानंद सिन्हा",
+      "B": "राजेंद्र प्रसाद",
+      "C": "भीमराव अंबेडकर",
+      "D": "के.एम. मुंशी"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 34,
+    "question": "संविधान सभा में सबसे कम उम्र के सदस्य कौन थे? / Who was the youngest member of the Constituent Assembly?",
+    "options": {
+      "A": "शेख अब्दुल्ला",
+      "B": "प्रीतम सिंह",
+      "C": "हरेंद्र कोचर",
+      "D": "आर.के. शण्मुखम चेट्टी"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 35,
+    "question": "संविधान सभा में किसने राष्ट्रीय ध्वज के डिजाइन को अंतिम रूप दिया? / Who finalized the design of the National Flag in the Constituent Assembly?",
+    "options": {
+      "A": "पिंगली वेंकैया",
+      "B": "राजेंद्र प्रसाद",
+      "C": "जवाहरलाल नेहरू",
+      "D": "डॉ. भीमराव अंबेडकर"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 36,
+    "question": "संविधान सभा में 'मौलिक अधिकारों की सलाहकार समिति' के अध्यक्ष कौन थे? / Who was the chairman of the Advisory Committee on Fundamental Rights in the Constituent Assembly?",
+    "options": {
+      "A": "जवाहरलाल नेहरू",
+      "B": "सरदार पटेल",
+      "C": "राजेंद्र प्रसाद",
+      "D": "भीमराव अंबेडकर"
     },
     "answer": ["B"]
   },
   {
-    "id": 34,
-    "question": "निम्न में से कौन सा भारत में बिजली के नवीकरणीय स्रोतों में आता है? / Which of the following are renewable energy sources in India?",
-    "options": {
-      "A": "सौर ऊर्जा",
-      "B": "पवन ऊर्जा",
-      "C": "कोयला",
-      "D": "परमाणु ऊर्जा"
-    },
-    "answer": ["A", "B"]
-  },
-  {
-    "id": 35,
-    "question": "भारत में रेलवे नेटवर्क का प्रबंधन कौन करता है? / Who manages the railway network in India?",
-    "options": {
-      "A": "Indian Railways",
-      "B": "NHAI",
-      "C": "IRDAI",
-      "D": "SEBI"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 36,
-    "question": "भारत में राष्ट्रीय राजमार्गों की कुल लंबाई लगभग कितनी है? / What is the approximate total length of national highways in India?",
-    "options": {
-      "A": "1.3 लाख किलोमीटर",
-      "B": "50,000 किलोमीटर",
-      "C": "2 लाख किलोमीटर",
-      "D": "75,000 किलोमीटर"
-    },
-    "answer": ["A"]
-  },
-  {
     "id": 37,
-    "question": "भारत में सौर ऊर्जा उत्पादन के लिए कौन सी योजना है? / Which scheme supports solar energy production in India?",
+    "question": "संविधान सभा में प्रारंभ में किसने ड्राफ्ट तैयार किया था जिसे बाद में संशोधित किया गया? / Who initially prepared the draft of the Constitution which was later revised?",
     "options": {
-      "A": "National Solar Mission",
-      "B": "Make in India",
-      "C": "Startup India",
-      "D": "Digital India"
+      "A": "बी.एन. राव",
+      "B": "भीमराव अंबेडकर",
+      "C": "के.एम. मुंशी",
+      "D": "जवाहरलाल नेहरू"
     },
     "answer": ["A"]
   },
   {
     "id": 38,
-    "question": "वित्तीय समावेशन के लिए ‘UPI’ का क्या महत्व है? / What is the significance of ‘UPI’ for financial inclusion?",
+    "question": "संविधान सभा ने संविधान को कब अंगीकृत किया? / When did the Constituent Assembly adopt the Constitution?",
     "options": {
-      "A": "तेजी से डिजिटल भुगतान",
-      "B": "बैंकिंग बंद करना",
-      "C": "विदेशी मुद्रा विनिमय",
-      "D": "नकद लेनदेन"
+      "A": "26 नवंबर 1949",
+      "B": "24 जनवरी 1950",
+      "C": "15 अगस्त 1947",
+      "D": "26 जनवरी 1950"
     },
     "answer": ["A"]
   },
   {
     "id": 39,
-    "question": "भारत में ‘Saubhagya Yojana’ का उद्देश्य क्या है? / What is the objective of the ‘Saubhagya Yojana’ in India?",
+    "question": "संविधान सभा की प्रारंभिक बैठक में कुल कितने सदस्य उपस्थित थे? / How many members were present in the first meeting of the Constituent Assembly?",
     "options": {
-      "A": "घर-घर बिजली पहुंचाना",
-      "B": "सड़क निर्माण",
-      "C": "जल संरक्षण",
-      "D": "स्वच्छता अभियान"
+      "A": "207",
+      "B": "210",
+      "C": "211",
+      "D": "213"
     },
     "answer": ["A"]
   },
   {
     "id": 40,
-    "question": "भारत में ‘Deen Dayal Upadhyaya Gram Jyoti Yojana’ किस क्षेत्र से संबंधित है? / The ‘Deen Dayal Upadhyaya Gram Jyoti Yojana’ relates to which sector?",
+    "question": "संविधान सभा में महिला सदस्यों की कुल संख्या कितनी थी? / What was the total number of women members in the Constituent Assembly?",
     "options": {
-      "A": "ग्रामीण विद्युतीकरण",
-      "B": "ग्रामीण सड़कों का निर्माण",
-      "C": "शिक्षा",
-      "D": "स्वास्थ्य"
+      "A": "15",
+      "B": "09",
+      "C": "12",
+      "D": "13"
     },
-    "answer": ["A"]
+    "answer": ["C"]
   },
   {
     "id": 41,
-    "question": "गरीबी मापन के कौन-कौन से तरीके प्रचलित हैं? / Which of the following are common methods to measure poverty?",
+    "question": "भारतीय संविधान की किस विशेषता का स्रोत ब्रिटेन के संसदीय शासन तंत्र से लिया गया है? / Which feature of the Indian Constitution has been borrowed from the British Parliamentary system?",
     "options": {
-      "A": "लाइन फॉलोइंग विधि (Poverty Line Method)",
-      "B": "ग्रामीण सर्वेक्षण (Rural Survey)",
-      "C": "बुनियादी आवश्यकताओं विधि (Basic Needs Approach)",
-      "D": "कैलोरी मापन विधि (Calorie Intake Method)"
+      "A": "कानून का शासन / Rule of Law",
+      "B": "कैबिनेट प्रणाली / Cabinet System",
+      "C": "न्यायिक समीक्षा / Judicial Review",
+      "D": "संघीय न्यायपालिका / Federal Judiciary"
     },
-    "answer": ["A", "C", "D"]
+    "correct_answers": ["A", "B"]
   },
   {
     "id": 42,
-    "question": "भारत सरकार की गरीबी उन्मूलन योजना कौन-सी है? / Which of the following is a poverty alleviation scheme by Government of India?",
+    "question": "भारतीय संविधान में 'न्यायिक पुनर्वलोकन' (Judicial Review) और 'न्यायिक सक्रियता' (Judicial Activism) के सिद्धांत मुख्य रूप से किस देश के संविधान से प्रभावित हैं? / The principles of 'Judicial Review' and 'Judicial Activism' in the Indian Constitution are mainly influenced by which country's constitution?",
     "options": {
-      "A": "MGNREGA",
-      "B": "Startup India",
-      "C": "Pradhan Mantri Awas Yojana",
-      "D": "Make in India"
+      "A": "ब्रिटेन / Britain",
+      "B": "अमेरिका / USA",
+      "C": "कनाडा / Canada",
+      "D": "आयरलैंड / Ireland"
     },
-    "answer": ["A", "C"]
+    "correct_answers": ["B"]
   },
   {
     "id": 43,
-    "question": "बेरोजगारी के मुख्य प्रकार कौन से हैं? / What are the main types of unemployment?",
+    "question": "भारतीय संविधान की कौन-सी विशेषता आयरलैंड के संविधान से ली गई है? / Which feature of the Indian Constitution has been borrowed from the Irish Constitution?",
     "options": {
-      "A": "घरेलू बेरोजगारी (Disguised Unemployment)",
-      "B": "मौसमी बेरोजगारी (Seasonal Unemployment)",
-      "C": "अप्रशिक्षित बेरोजगारी (Unskilled Unemployment)",
-      "D": "संरचनात्मक बेरोजगारी (Structural Unemployment)"
+      "A": "राज्य के नीति निर्देशक तत्व / Directive Principles of State Policy",
+      "B": "मौलिक अधिकार / Fundamental Rights",
+      "C": "संघीय शासन / Federal Government",
+      "D": "अवशिष्ट शक्तियां केंद्र को / Residuary Powers to Centre"
     },
-    "answer": ["A", "B", "D"]
+    "correct_answers": ["A"]
   },
   {
     "id": 44,
-    "question": "गरीबी मापन के लिए 'कैलोरी मानदंड' का क्या महत्व है? / What is the significance of the 'Calorie Criterion' in poverty measurement?",
+    "question": "भारतीय संविधान में 'संघीय ढांचा' किस देश के संविधान से प्रेरित है, जबकि 'एकात्मक झुकाव' किस देश से प्रभावित है? / In the Indian Constitution, the 'federal structure' is inspired by which country's constitution, while the 'unitary bias' is influenced by which country?",
     "options": {
-      "A": "मूलभूत खाद्य आवश्यकताओं को मापना",
-      "B": "धन की गणना करना",
-      "C": "शिक्षा स्तर को परखना",
-      "D": "रोजगार दर मापना"
+      "A": "संघीय - कनाडा, एकात्मक - ब्रिटेन / Federal - Canada, Unitary - Britain",
+      "B": "संघीय - अमेरिका, एकात्मक - कनाडा / Federal - USA, Unitary - Canada",
+      "C": "संघीय - कनाडा, एकात्मक - अमेरिका / Federal - Canada, Unitary - USA",
+      "D": "संघीय - ब्रिटेन, एकात्मक - आयरलैंड / Federal - Britain, Unitary - Ireland"
     },
-    "answer": ["A"]
+    "correct_answers": ["A"]
   },
   {
     "id": 45,
-    "question": "MGNREGA योजना का उद्देश्य क्या है? / What is the objective of the MGNREGA scheme?",
+    "question": "निम्नलिखित में से किन विशेषताओं का स्रोत अमेरिका का संविधान है? / Which of the following features are sourced from the US Constitution?",
     "options": {
-      "A": "ग्रामीण रोजगार सुनिश्चित करना",
-      "B": "शहरी विकास को बढ़ावा देना",
-      "C": "विदेशी निवेश आकर्षित करना",
-      "D": "कृषि उत्पादन बढ़ाना"
+      "A": "मौलिक अधिकार / Fundamental Rights",
+      "B": "स्वतंत्र न्यायपालिका / Independent Judiciary",
+      "C": "राज्यों का संघ / Union of States",
+      "D": "राष्ट्रपति शासन प्रणाली / Presidential System"
     },
-    "answer": ["A"]
+    "correct_answers": ["A", "B"]
   },
   {
     "id": 46,
-    "question": "बेरोजगारी को कम करने के लिए कौन-कौन सी नीतियाँ प्रभावी हैं? / Which policies are effective in reducing unemployment?",
+    "question": "भारतीय संविधान की किस विशेषता का स्रोत कनाडा का संविधान है? / Which feature of the Indian Constitution is borrowed from the Canadian Constitution?",
     "options": {
-      "A": "शिक्षा और कौशल विकास",
-      "B": "औद्योगिक विस्तार",
-      "C": "कृषि पर निर्भरता बढ़ाना",
-      "D": "स्व-रोजगार को प्रोत्साहन"
+      "A": "संघीय शासन में अवशिष्ट शक्तियां केंद्र को / Residuary Powers with Centre in Federal Government",
+      "B": "मजबूत केंद्र / Strong Centre",
+      "C": "प्रांतों का विभाजन / Division of Provinces",
+      "D": "राज्यपाल की नियुक्ति केंद्र द्वारा / Appointment of Governor by Centre"
     },
-    "answer": ["A", "B", "D"]
+    "correct_answers": ["A", "B", "D"]
   },
   {
     "id": 47,
-    "question": "गरीबी रेखा से नीचे जीवनयापन करने वालों को क्या कहा जाता है? / What do we call people living below the poverty line?",
+    "question": "भारतीय संविधान के किस भाग में 'ब्रिटिश संविधान' की संसदीय प्रभुता की अवधारणा के विपरीत 'संविधान की सर्वोच्चता' को मान्यता दी गई है? / In which part of the Indian Constitution is the concept of 'Supremacy of the Constitution' recognized, in contrast to British parliamentary supremacy?",
     "options": {
-      "A": "गरीब (Poor)",
-      "B": "मध्यम वर्ग (Middle Class)",
-      "C": "धनी वर्ग (Rich)",
-      "D": "बेरोजगार (Unemployed)"
+      "A": "भाग III / Part III",
+      "B": "भाग IV / Part IV",
+      "C": "भाग V / Part V",
+      "D": "भाग XI / Part XI"
     },
-    "answer": ["A"]
+    "correct_answers": ["A", "C"]
   },
   {
     "id": 48,
-    "question": "‘राष्ट्रीय गरीबी रेखा’ निर्धारण में किस आधार का उपयोग होता है? / What basis is used for determining the 'National Poverty Line'?",
+    "question": "भारतीय संविधान का 'संघीय ढांचा' किन प्रावधानों से स्पष्ट होता है? / The 'federal structure' of the Indian Constitution is evident from which provisions?",
     "options": {
-      "A": "आय स्तर",
-      "B": "उद्योगिक विकास",
-      "C": "शैक्षिक स्तर",
-      "D": "सड़क की स्थिति"
+      "A": "विधान सूची का तीन भागों में विभाजन / Division of legislative lists into three parts",
+      "B": "स्वतंत्र न्यायपालिका / Independent Judiciary",
+      "C": "राज्यपाल का पद / Office of Governor",
+      "D": "एकात्मक संसद / Unitary Parliament"
     },
-    "answer": ["A"]
+    "correct_answers": ["A", "B"]
   },
   {
     "id": 49,
-    "question": "अस्थायी बेरोजगारी किस प्रकार की बेरोजगारी है? / What type of unemployment is temporary unemployment?",
+    "question": "भारतीय संविधान की 'एकात्मक प्रवृत्ति' किन परिस्थितियों में सक्रिय होती है? / Under which circumstances does the 'unitary tendency' of the Indian Constitution become active?",
     "options": {
-      "A": "मौसमी बेरोजगारी (Seasonal Unemployment)",
-      "B": "संरचनात्मक बेरोजगारी (Structural Unemployment)",
-      "C": "साइक्लिकल बेरोजगारी (Cyclical Unemployment)",
-      "D": "घरेलू बेरोजगारी (Disguised Unemployment)"
+      "A": "राष्ट्रीय आपातकाल / National Emergency",
+      "B": "राज्य आपातकाल / State Emergency",
+      "C": "वित्तीय आपातकाल / Financial Emergency",
+      "D": "राष्ट्रपति शासन / President's Rule"
     },
-    "answer": ["A"]
+    "correct_answers": ["A", "B", "C", "D"]
   },
   {
     "id": 50,
-    "question": "गरीबी उन्मूलन के लिए ‘प्रधानमंत्री आवास योजना’ का क्या उद्देश्य है? / What is the objective of the ‘Pradhan Mantri Awas Yojana’ for poverty alleviation?",
+    "question": "भारतीय संविधान में 'समान नागरिक संहिता' (Uniform Civil Code) की अवधारणा किस देश से प्रेरित है? / The concept of 'Uniform Civil Code' in the Indian Constitution is inspired from which country?",
     "options": {
-      "A": "गरीबों को पक्का घर उपलब्ध कराना",
-      "B": "शहरी विकास करना",
-      "C": "कृषि वृद्धि को प्रोत्साहित करना",
-      "D": "विदेशी निवेश को बढ़ावा देना"
+      "A": "अमेरिका / USA",
+      "B": "आयरलैंड / Ireland",
+      "C": "ब्रिटेन / Britain",
+      "D": "फ्रांस / France"
     },
-    "answer": ["A"]
+    "correct_answers": ["B"]
   },
   {
     "id": 51,
-    "question": "बेरोजगारी की समस्या के समाधान के लिए किसका विकास आवश्यक है? / What is necessary for solving unemployment problems?",
+    "question": "भारतीय संविधान में 'संसदीय शासन प्रणाली' (Parliamentary System of Government) किस देश से ली गई है? / From which country has the Indian Constitution adopted the 'Parliamentary System of Government'?",
     "options": {
-      "A": "औद्योगिक क्षेत्र का विकास",
-      "B": "कृषि क्षेत्र का ह्रास",
-      "C": "शिक्षा और कौशल प्रशिक्षण",
-      "D": "सरकारी खर्च में कटौती"
+      "A": "ब्रिटेन / Britain",
+      "B": "अमेरिका / USA",
+      "C": "कनाडा / Canada",
+      "D": "ऑस्ट्रेलिया / Australia"
     },
-    "answer": ["A", "C"]
+    "correct_answers": ["A"]
   },
   {
     "id": 52,
-    "question": "गरीबी को मापने के लिए निम्नलिखित में से कौन सा पैमाना सबसे अधिक उपयोग होता है? / Which is the most widely used measure for poverty?",
+    "question": "भारतीय संविधान का 'नागरिकों के मौलिक अधिकारों का निलंबन न होना' किस स्रोत से प्रभावित है? / The provision that 'Fundamental Rights of citizens cannot be suspended' is influenced by which source?",
     "options": {
-      "A": "पैसे की आय",
-      "B": "शिक्षा स्तर",
-      "C": "स्वास्थ्य स्तर",
-      "D": "आवास की स्थिति"
+      "A": "अमेरिकी संविधान / US Constitution",
+      "B": "आयरिश संविधान / Irish Constitution",
+      "C": "कनाडाई संविधान / Canadian Constitution",
+      "D": "जर्मन संविधान / German Constitution"
     },
-    "answer": ["A"]
+    "correct_answers": ["A", "D"]
   },
   {
     "id": 53,
-    "question": "‘डिजिटल इंडिया’ योजना गरीबी उन्मूलन में कैसे मदद करती है? / How does the ‘Digital India’ initiative help in poverty alleviation?",
+    "question": "'राज्यपाल की नियुक्ति राष्ट्रपति द्वारा' का प्रावधान भारतीय संविधान में कहाँ से आया है? / The provision of 'Appointment of Governor by the President' in the Indian Constitution is taken from which source?",
     "options": {
-      "A": "डिजिटल वित्तीय सेवाएं उपलब्ध कराना",
-      "B": "सड़क निर्माण करना",
-      "C": "सौर ऊर्जा प्रदान करना",
-      "D": "खाद उत्पादन बढ़ाना"
+      "A": "कनाडा / Canada",
+      "B": "ब्रिटेन / Britain",
+      "C": "अमेरिका / USA",
+      "D": "ऑस्ट्रेलिया / Australia"
     },
-    "answer": ["A"]
+    "correct_answers": ["A"]
   },
   {
     "id": 54,
-    "question": "घरेलू बेरोजगारी किस क्षेत्र में आम होती है? / Disguised unemployment is common in which sector?",
+    "question": "'मंत्रिपरिषद का सामूहिक उत्तरदायित्व' (Collective Responsibility of the Council of Ministers) का स्रोत है – / The source of 'Collective Responsibility of the Council of Ministers' is –",
     "options": {
-      "A": "कृषि क्षेत्र",
-      "B": "औद्योगिक क्षेत्र",
-      "C": "सेवा क्षेत्र",
-      "D": "सूचना प्रौद्योगिकी"
+      "A": "अमेरिकी संविधान / US Constitution",
+      "B": "ब्रिटिश संविधान / British Constitution",
+      "C": "कनाडाई संविधान / Canadian Constitution",
+      "D": "फ्रांसीसी संविधान / French Constitution"
     },
-    "answer": ["A"]
+    "correct_answers": ["B"]
   },
   {
     "id": 55,
-    "question": "गरीबी उन्मूलन के लिए ‘राष्ट्रीय सामाजिक सहायता कार्यक्रम’ (NSAP) में कौन-कौन शामिल हैं? / Who are included in the ‘National Social Assistance Programme’ (NSAP) for poverty alleviation?",
+    "question": "भारतीय संविधान का 'संघीय ढांचा लेकिन मजबूत केंद्र' किस विशेषता का परिणाम है? / The 'Federal Structure with a Strong Centre' in the Indian Constitution is a result of which feature?",
     "options": {
-      "A": "वृद्धावस्था पेंशन धारक",
-      "B": "अनाथ बच्चे",
-      "C": "मध्यम वर्ग",
-      "D": "शहरी कर्मचारी"
+      "A": "कनाडाई मॉडल / Canadian Model",
+      "B": "ब्रिटिश संसदीय परंपरा / British Parliamentary Tradition",
+      "C": "अमेरिकी संघवाद / US Federalism",
+      "D": "ऑस्ट्रेलियाई द्विसदनीयता / Australian Bicameralism"
     },
-    "answer": ["A", "B"]
+    "correct_answers": ["A", "B"]
   },
   {
     "id": 56,
-    "question": "बेरोजगारी के कारण कौन-कौन से होते हैं? / What are the causes of unemployment?",
+    "question": "'न्यायिक पुनरावलोकन' (Judicial Review) का प्रावधान भारतीय संविधान में किस देश से आया है? / The provision of 'Judicial Review' in the Indian Constitution came from which country?",
     "options": {
-      "A": "आर्थिक मंदी",
-      "B": "तकनीकी प्रगति",
-      "C": "शिक्षा की कमी",
-      "D": "बाजार में मांग की कमी"
+      "A": "अमेरिका / USA",
+      "B": "ब्रिटेन / Britain",
+      "C": "कनाडा / Canada",
+      "D": "आयरलैंड / Ireland"
     },
-    "answer": ["A", "B", "C", "D"]
+    "correct_answers": ["A"]
   },
   {
     "id": 57,
-    "question": "गरीबी रेखा के नीचे जीवन बिताने वाले लोगों की संख्या घटाने के लिए कौन-से उपाय प्रभावी हैं? / Which measures are effective in reducing the population below the poverty line?",
+    "question": "'राज्य नीति के निदेशक तत्व' (Directive Principles of State Policy) भारतीय संविधान ने किस देश से लिए हैं? / The Indian Constitution borrowed 'Directive Principles of State Policy' from which country?",
     "options": {
-      "A": "शिक्षा का विस्तार",
-      "B": "स्वास्थ्य सेवाओं में सुधार",
-      "C": "रोजगार सृजन",
-      "D": "महंगाई बढ़ाना"
+      "A": "अमेरिका / USA",
+      "B": "आयरलैंड / Ireland",
+      "C": "कनाडा / Canada",
+      "D": "जापान / Japan"
     },
-    "answer": ["A", "B", "C"]
+    "correct_answers": ["B"]
   },
   {
     "id": 58,
-    "question": "भारत में बेरोजगारी की समस्या को कम करने के लिए किस क्षेत्र में निवेश बढ़ाना चाहिए? / To reduce unemployment in India, investment should increase in which sector?",
+    "question": "'राज्यसभा में राज्यों का असमान प्रतिनिधित्व' किस मॉडल से लिया गया है? / 'Unequal Representation of States in Rajya Sabha' is taken from which model?",
     "options": {
-      "A": "औद्योगिक क्षेत्र",
-      "B": "कृषि क्षेत्र",
-      "C": "सेवा क्षेत्र",
-      "D": "सभी उपरोक्त"
+      "A": "अमेरिकी मॉडल / US Model",
+      "B": "कनाडाई मॉडल / Canadian Model",
+      "C": "ऑस्ट्रेलियाई मॉडल / Australian Model",
+      "D": "ब्रिटिश मॉडल / British Model"
     },
-    "answer": ["D"]
+    "correct_answers": ["B"]
   },
   {
     "id": 59,
-    "question": "गरीबी उन्मूलन के लिए ‘सुकन्या समृद्धि योजना’ किसके लिए है? / Who is targeted by the ‘Sukanya Samriddhi Yojana’ for poverty alleviation?",
+    "question": "भारतीय संविधान में 'संविधान सर्वोच्च' (Supremacy of Constitution) और 'विधि का शासन' (Rule of Law) का स्रोत क्या है? / What is the source of 'Supremacy of Constitution' and 'Rule of Law' in the Indian Constitution?",
     "options": {
-      "A": "लड़कियों के लिए",
-      "B": "किसानों के लिए",
-      "C": "वृद्धों के लिए",
-      "D": "बेरोजगारों के लिए"
+      "A": "अमेरिका / USA",
+      "B": "ब्रिटेन / Britain",
+      "C": "कनाडा / Canada",
+      "D": "जर्मनी / Germany"
     },
-    "answer": ["A"]
+    "correct_answers": ["A", "B"]
   },
   {
     "id": 60,
-    "question": "बेरोजगारी के लिए कौन-कौन से आर्थिक समाधान कारगर हैं? / Which economic solutions are effective for unemployment?",
+    "question": "संविधान में 'आपातकालीन प्रावधान' (Emergency Provisions) का स्रोत है – / The source of 'Emergency Provisions' in the Constitution is –",
     "options": {
-      "A": "औद्योगिक विकास",
-      "B": "कौशल विकास कार्यक्रम",
-      "C": "विदेशी निवेश आकर्षित करना",
-      "D": "बैंकिंग सुधार"
+      "A": "जर्मनी / Germany",
+      "B": "अमेरिका / USA",
+      "C": "ब्रिटेन / Britain",
+      "D": "कनाडा / Canada"
     },
-    "answer": ["A", "B", "C"]
+    "correct_answers": ["A"]
   },
   {
     "id": 61,
-    "question": "मुद्रास्फीति के मुख्य कारण कौन से हैं? / What are the main causes of inflation?",
+    "question": "भारतीय संविधान में 'मौलिक कर्तव्य' (Fundamental Duties) का समावेश किस देश से प्रेरित है? / The inclusion of 'Fundamental Duties' in the Indian Constitution is inspired by which country?",
     "options": {
-      "A": "मांग में वृद्धि (Demand-pull inflation)",
-      "B": "लागत में वृद्धि (Cost-push inflation)",
-      "C": "मुद्रा आपूर्ति में कमी",
-      "D": "आय में वृद्धि"
+      "A": "रूस (USSR) / USSR (Russia)",
+      "B": "अमेरिका / USA",
+      "C": "जर्मनी / Germany",
+      "D": "फ्रांस / France"
     },
-    "answer": ["A", "B"]
+    "correct_answers": ["A"]
   },
   {
     "id": 62,
-    "question": "भारत में बेरोजगारी संकट का मुख्य कारण क्या है? / What is the primary cause of the job crisis in India?",
+    "question": "'उच्चतम न्यायालय की सलाहकार क्षेत्राधिकार' (Advisory Jurisdiction of Supreme Court) का स्रोत क्या है? / What is the source of 'Advisory Jurisdiction of the Supreme Court'?",
     "options": {
-      "A": "आर्थिक मंदी",
-      "B": "शिक्षा और कौशल का अभाव",
-      "C": "जनसंख्या वृद्धि",
-      "D": "सभी उपरोक्त"
+      "A": "ब्रिटेन / Britain",
+      "B": "कनाडा / Canada",
+      "C": "अमेरिका / USA",
+      "D": "आयरलैंड / Ireland"
     },
-    "answer": ["D"]
+    "correct_answers": ["B"]
   },
   {
     "id": 63,
-    "question": "COVID-19 महामारी का भारतीय अर्थव्यवस्था पर कौन-कौन से प्रभाव पड़े? / What were the impacts of COVID-19 pandemic on Indian economy?",
+    "question": "भारतीय संविधान में 'संयुक्त बैठक' (Joint Sitting of Parliament) का प्रावधान किस देश से लिया गया है? / The provision of 'Joint Sitting of Parliament' in the Indian Constitution is taken from which country?",
     "options": {
-      "A": "GDP में गिरावट",
-      "B": "बेरोजगारी में वृद्धि",
-      "C": "विदेशी निवेश में वृद्धि",
-      "D": "खपत में कमी"
+      "A": "ऑस्ट्रेलिया / Australia",
+      "B": "अमेरिका / USA",
+      "C": "ब्रिटेन / Britain",
+      "D": "कनाडा / Canada"
     },
-    "answer": ["A", "B", "D"]
+    "correct_answers": ["A"]
   },
   {
     "id": 64,
-    "question": "भारत में स्टार्टअप इकोसिस्टम को बढ़ावा देने वाली कौन-सी योजना है? / Which scheme promotes the startup ecosystem in India?",
+    "question": "भारतीय संविधान में 'मंत्रिपरिषद को मंत्रिमंडल के रूप में मान्यता' किस देश के मॉडल पर आधारित है? / Recognition of 'Council of Ministers as Cabinet' in Indian Constitution is based on which country's model?",
     "options": {
-      "A": "Startup India",
-      "B": "Make in India",
-      "C": "Digital India",
-      "D": "Skill India"
+      "A": "अमेरिका / USA",
+      "B": "ब्रिटेन / Britain",
+      "C": "कनाडा / Canada",
+      "D": "फ्रांस / France"
     },
-    "answer": ["A"]
+    "correct_answers": ["B"]
   },
   {
     "id": 65,
-    "question": "मुद्रास्फीति को नियंत्रित करने के लिए कौन-कौन से उपाय किए जाते हैं? / Which measures are taken to control inflation?",
+    "question": "'संविधान संशोधन प्रक्रिया' (Constitutional Amendment Process) का मिश्रित स्वरूप किस-किस देश से लिया गया है? / The mixed form of 'Constitutional Amendment Process' in the Indian Constitution is taken from which countries?",
     "options": {
-      "A": "मौद्रिक नीति का कड़ापन",
-      "B": "सरकारी खर्च में कमी",
-      "C": "करों में वृद्धि",
-      "D": "ब्याज दरों में कमी"
+      "A": "अमेरिका / USA",
+      "B": "दक्षिण अफ्रीका / South Africa",
+      "C": "कनाडा / Canada",
+      "D": "जर्मनी / Germany"
     },
-    "answer": ["A", "B", "C"]
+    "correct_answers": ["A", "C"]
   },
   {
     "id": 66,
-    "question": "COVID-19 के बाद भारत में रोजगार की स्थिति कैसी रही? / How was the employment scenario in India post COVID-19?",
+    "question": "भारतीय संविधान में 'संघीय ढाँचे के साथ एकात्मक भावना' का अर्थ किन विशेषताओं से स्पष्ट होता है? / In the Indian Constitution, the term 'Federal structure with Unitary spirit' is reflected through which features?",
     "options": {
-      "A": "रोजगार बढ़ा",
-      "B": "बेरोजगारी बढ़ी",
-      "C": "रोजगार स्थिर रहा",
-      "D": "डेटा उपलब्ध नहीं"
+      "A": "राज्यों के लिए एकल संविधान / Single Constitution for States",
+      "B": "आपातकाल की स्थिति में संसद का राज्यों के विषयों पर कानून बनाना / Parliament legislating on State subjects during Emergency",
+      "C": "उच्च न्यायपालिका का एकीकृत ढाँचा / Integrated Judiciary",
+      "D": "राज्यों के लिए अलग संवैधानिक संशोधन प्रक्रिया / Separate constitutional amendment process for States"
     },
-    "answer": ["B"]
+    "correct_answers": ["A", "B", "C"]
   },
   {
     "id": 67,
-    "question": "स्टार्टअप्स के लिए भारत में सबसे बड़ा चुनौती क्या है? / What is the biggest challenge for startups in India?",
+    "question": "संविधान में राज्यों को प्रदत्त अवशिष्ट शक्तियों का निर्धारण किस देश के संविधान से लिया गया है? / The provision of residuary powers to the Union in the Constitution is borrowed from which country's constitution?",
     "options": {
-      "A": "फंडिंग की कमी",
-      "B": "तकनीकी ज्ञान की कमी",
-      "C": "मार्केटिंग की कमी",
-      "D": "सरकारी नियम"
+      "A": "ब्रिटेन / Britain",
+      "B": "कनाडा / Canada",
+      "C": "अमेरिका / USA",
+      "D": "ऑस्ट्रेलिया / Australia"
     },
-    "answer": ["A", "D"]
+    "correct_answers": ["B"]
   },
   {
     "id": 68,
-    "question": "भारत में मुद्रास्फीति का मापन कौन से सूचकांक से होता है? / Which index is used to measure inflation in India?",
+    "question": "भारतीय संघीय ढाँचे में 'राज्यों का पुनर्गठन' का अधिकार किन संवैधानिक प्रावधानों में निहित है? / The power of 'reorganisation of states' in the Indian federal structure is vested under which constitutional provisions?",
     "options": {
-      "A": "CPI (उपभोक्ता मूल्य सूचकांक)",
-      "B": "WPI (थोक मूल्य सूचकांक)",
-      "C": "GDP Deflator",
-      "D": "SENSEX"
+      "A": "अनुच्छेद 2 / Article 2",
+      "B": "अनुच्छेद 3 / Article 3",
+      "C": "अनुच्छेद 4 / Article 4",
+      "D": "अनुच्छेद 5 / Article 5"
     },
-    "answer": ["A", "B"]
+    "correct_answers": ["A", "B", "C"]
   },
   {
     "id": 69,
-    "question": "COVID-19 महामारी के दौरान किस क्षेत्र को सबसे अधिक नुकसान हुआ? / Which sector was most affected during the COVID-19 pandemic?",
+    "question": "संविधान के किन प्रावधानों में 'संघीय ढाँचे' की अपेक्षा 'एकात्मकता' अधिक स्पष्ट है? / In which provisions of the Constitution is 'unitarism' more evident than 'federalism'?",
     "options": {
-      "A": "पर्यटन और आतिथ्य",
-      "B": "सूचना प्रौद्योगिकी",
-      "C": "कृषि",
-      "D": "स्वास्थ्य"
+      "A": "राज्यों का परिसीमन / Delimitation of States",
+      "B": "संविधान संशोधन की समान प्रक्रिया / Uniform constitutional amendment procedure",
+      "C": "एकल नागरिकता / Single Citizenship",
+      "D": "राज्यों को संप्रभु स्थिति / Sovereign status to States"
     },
-    "answer": ["A"]
+    "correct_answers": ["A", "B", "C"]
   },
   {
     "id": 70,
-    "question": "भारत सरकार स्टार्टअप्स के लिए कौन-कौन से लाभ प्रदान करती है? / Which benefits does the Indian government provide to startups?",
+    "question": "भारतीय संविधान में संघीय ढाँचे की विशेषताओं में निम्न में से कौन शामिल हैं? / Which of the following are included in the federal features of the Indian Constitution?",
     "options": {
-      "A": "कर में छूट",
-      "B": "सरकारी फंडिंग",
-      "C": "सरल पंजीकरण प्रक्रिया",
-      "D": "प्रतियोगिताओं में छूट"
+      "A": "शक्तियों का विभाजन / Division of Powers",
+      "B": "स्वतंत्र न्यायपालिका / Independent Judiciary",
+      "C": "अवशिष्ट शक्तियाँ राज्यों में / Residuary powers with States",
+      "D": "लिखित संविधान / Written Constitution"
     },
-    "answer": ["A", "B", "C"]
+    "correct_answers": ["A", "B", "D"]
   },
   {
     "id": 71,
-    "question": "मुद्रास्फीति में वृद्धि का क्या प्रभाव होता है? / What is the effect of rising inflation?",
+    "question": "केंद्रीय सूची, राज्य सूची और समवर्ती सूची का प्रावधान भारतीय संविधान में किस अनुसूची में है? / In which Schedule of the Indian Constitution are the Union List, State List, and Concurrent List provided?",
     "options": {
-      "A": "खरीद क्षमता में कमी",
-      "B": "ब्याज दरों में कमी",
-      "C": "निवेश में वृद्धि",
-      "D": "मुद्रा मूल्य में स्थिरता"
+      "A": "सातवीं अनुसूची / Seventh Schedule",
+      "B": "छठी अनुसूची / Sixth Schedule",
+      "C": "आठवीं अनुसूची / Eighth Schedule",
+      "D": "नौवीं अनुसूची / Ninth Schedule"
     },
-    "answer": ["A"]
+    "correct_answers": ["A"]
   },
   {
     "id": 72,
-    "question": "COVID-19 के आर्थिक प्रभावों से निपटने के लिए भारत सरकार ने कौन-से कदम उठाए? / What measures did the Indian government take to tackle economic impacts of COVID-19?",
+    "question": "संविधान सभा ने संघीय ढाँचे का विचार किन दो देशों से मुख्य रूप से ग्रहण किया था? / From which two countries did the Constituent Assembly primarily borrow the idea of the federal structure?",
     "options": {
-      "A": "प्रोत्साहन पैकेज (Stimulus packages)",
-      "B": "बैंकिंग रेगुलेशन्स में बदलाव",
-      "C": "कर में वृद्धि",
-      "D": "विदेशी निवेश प्रतिबंध"
+      "A": "अमेरिका / USA",
+      "B": "कनाडा / Canada",
+      "C": "ब्रिटेन / Britain",
+      "D": "ऑस्ट्रेलिया / Australia"
     },
-    "answer": ["A", "B"]
+    "correct_answers": ["A", "B"]
   },
   {
     "id": 73,
-    "question": "भारत में स्टार्टअप्स का सबसे अधिक क्षेत्र कौन सा है? / Which sector has the highest number of startups in India?",
+    "question": "भारतीय संविधान में 'आपातकालीन प्रावधान' किन देशों के संविधान से प्रेरित हैं? / The Emergency provisions in the Indian Constitution are inspired by the constitution of which countries?",
     "options": {
-      "A": "सूचना प्रौद्योगिकी (IT)",
-      "B": "कृषि (Agriculture)",
-      "C": "निर्माण (Manufacturing)",
-      "D": "स्वास्थ्य सेवा (Healthcare)"
+      "A": "जर्मनी / Germany",
+      "B": "अमेरिका / USA",
+      "C": "कनाडा / Canada",
+      "D": "ब्रिटेन / Britain"
     },
-    "answer": ["A"]
+    "correct_answers": ["A", "B"]
   },
   {
     "id": 74,
-    "question": "मुद्रास्फीति के प्रकार कौन-कौन से हैं? / What are the types of inflation?",
+    "question": "संघीय ढाँचे में उच्च न्यायपालिका का एकीकृत स्वरूप किस सिद्धांत का उल्लंघन करता है? / The integrated structure of the higher judiciary in the federal framework violates which principle?",
     "options": {
-      "A": "मांग प्रेरित मुद्रास्फीति",
-      "B": "लागत प्रेरित मुद्रास्फीति",
-      "C": "मुद्रा स्फीति",
-      "D": "विरोधी मुद्रास्फीति"
+      "A": "शक्तियों का पृथक्करण / Separation of Powers",
+      "B": "राज्यों की पूर्ण स्वायत्तता / Complete autonomy of States",
+      "C": "संवैधानिक सर्वोच्चता / Constitutional Supremacy",
+      "D": "एकात्मक शासन / Unitary governance"
     },
-    "answer": ["A", "B"]
+    "correct_answers": ["B"]
   },
   {
     "id": 75,
-    "question": "COVID-19 महामारी के कारण भारतीय अर्थव्यवस्था में क्या हुआ? / What happened to the Indian economy due to the COVID-19 pandemic?",
+    "question": "भारतीय संविधान में 'सिंगल सिटिजनशिप' की अवधारणा किस देश से ली गई है? / The concept of 'Single Citizenship' in the Indian Constitution is borrowed from which country?",
     "options": {
-      "A": "GDP में गिरावट",
-      "B": "रोजगार में कमी",
-      "C": "विदेशी निवेश में वृद्धि",
-      "D": "उद्योगों का बंद होना"
+      "A": "अमेरिका / USA",
+      "B": "कनाडा / Canada",
+      "C": "ब्रिटेन / Britain",
+      "D": "ऑस्ट्रेलिया / Australia"
     },
-    "answer": ["A", "B", "D"]
+    "correct_answers": ["C"]
   },
   {
     "id": 76,
-    "question": "स्टार्टअप इकोसिस्टम को मजबूत करने के लिए भारत सरकार ने कौन-से उपाय किए हैं? / What measures has the Indian government taken to strengthen the startup ecosystem?",
+    "question": "भारतीय संविधान के किन अनुच्छेदों में संघीय ढाँचे की परिभाषा और शक्तियों का विभाजन स्पष्ट किया गया है? / Which Articles of the Indian Constitution explicitly define the federal structure and division of powers?",
     "options": {
-      "A": "सरकारी फंडिंग बढ़ाना",
-      "B": "सरल कानूनी प्रक्रियाएं",
-      "C": "विदेशी कंपनियों को प्रतिबंधित करना",
-      "D": "प्रशिक्षण और कौशल विकास"
+      "A": "अनुच्छेद 245 / Article 245",
+      "B": "अनुच्छेद 246 / Article 246",
+      "C": "अनुच्छेद 249 / Article 249",
+      "D": "अनुच्छेद 262 / Article 262"
     },
-    "answer": ["A", "B", "D"]
+    "correct_answers": ["A", "B", "C"]
   },
   {
     "id": 77,
-    "question": "मुद्रास्फीति नियंत्रण के लिए RBI की क्या भूमिका है? / What is RBI’s role in controlling inflation?",
+    "question": "संविधान के किस भाग में संघीय ढाँचे के साथ एकात्मक भावना का सबसे अधिक प्रभाव दिखता है? / In which part of the Constitution is the unitary spirit most prominent within the federal framework?",
     "options": {
-      "A": "मौद्रिक नीति का संचालन",
-      "B": "सरकारी व्यय को बढ़ाना",
-      "C": "कर दर बढ़ाना",
-      "D": "मुद्रा मुद्रण"
+      "A": "भाग XI / Part XI",
+      "B": "भाग XII / Part XII",
+      "C": "भाग XVIII / Part XVIII",
+      "D": "भाग III / Part III"
     },
-    "answer": ["A"]
+    "correct_answers": ["A", "C"]
   },
   {
     "id": 78,
-    "question": "COVID-19 से प्रभावित सबसे अधिक रोजगार किस क्षेत्र में था? / Which sector experienced the most job losses due to COVID-19?",
+    "question": "संविधान में संघीय ढाँचे की कौन-सी विशेषता ब्रिटेन से नहीं ली गई है? / Which feature of the federal structure in the Constitution is NOT borrowed from Britain?",
     "options": {
-      "A": "गेस्ट्री और पर्यटन",
-      "B": "सूचना प्रौद्योगिकी",
-      "C": "वित्तीय सेवा",
-      "D": "कृषि"
+      "A": "संसदीय शासन प्रणाली / Parliamentary system",
+      "B": "कैबिनेट प्रणाली / Cabinet system",
+      "C": "संघीय सूचियाँ / Federal lists",
+      "D": "कानून का शासन / Rule of Law"
     },
-    "answer": ["A"]
+    "correct_answers": ["C"]
   },
   {
     "id": 79,
-    "question": "भारत में स्टार्टअप के लिए ‘Startup India’ योजना कब शुरू हुई थी? / When was the ‘Startup India’ initiative launched in India?",
+    "question": "भारतीय संविधान में संघीय विशेषताओं में 'लिखित संविधान' किस कारण से आवश्यक था? / Why was a 'Written Constitution' necessary as part of the federal features in the Indian Constitution?",
     "options": {
-      "A": "2015",
-      "B": "2016",
-      "C": "2017",
-      "D": "2018"
+      "A": "शक्तियों के विभाजन को स्पष्ट करने हेतु / To clearly define the division of powers",
+      "B": "न्यायपालिका को मजबूत बनाने हेतु / To strengthen the judiciary",
+      "C": "आपातकालीन प्रावधान जोड़ने हेतु / To include emergency provisions",
+      "D": "राज्यों की संप्रभुता सुनिश्चित करने हेतु / To ensure sovereignty of states"
     },
-    "answer": ["B"]
+    "correct_answers": ["A", "B"]
   },
   {
     "id": 80,
-    "question": "मुद्रास्फीति के कारण कौन-कौन से होते हैं? / What are the effects of inflation?",
+    "question": "संविधान में संघीय ढाँचे का आधार किन दो मुख्य तत्वों पर टिका है? / The federal framework in the Constitution is primarily based on which two key elements?",
     "options": {
-      "A": "खपत क्षमता कम होना",
-      "B": "मुद्रा का मूल्य घटना",
-      "C": "निवेश में कमी",
-      "D": "ब्याज दरों में वृद्धि"
+      "A": "शक्तियों का विभाजन / Division of Powers",
+      "B": "संविधान की सर्वोच्चता / Supremacy of the Constitution",
+      "C": "न्यायपालिका की स्वतंत्रता / Independence of Judiciary",
+      "D": "संसदीय विशेषाधिकार / Parliamentary Privileges"
     },
-    "answer": ["A", "B", "C"]
+    "correct_answers": ["A", "B"]
   },
   {
     "id": 81,
-    "question": "‘GDP’ का क्या अर्थ है? / What does GDP stand for?",
+    "question": "भारतीय संविधान में कितने भाग (Parts) हैं, और कौन सा भाग संविधान के संशोधन की प्रक्रिया से संबंधित है? / How many Parts are there in the Indian Constitution, and which Part deals with the procedure for Constitutional Amendment?",
     "options": {
-      "A": "Gross Domestic Product",
-      "B": "General Domestic Price",
-      "C": "Gross Debt Percentage",
-      "D": "Government Development Plan"
+      "A": "25 भाग, भाग XX",
+      "B": "22 भाग, भाग XVIII",
+      "C": "25 भाग, भाग XIX",
+      "D": "26 भाग, भाग XX"
     },
-    "answer": ["A"]
+    "correct_answers": ["A"]
   },
   {
     "id": 82,
-    "question": "आर्थिक सर्वेक्षण में किस प्रकार की जानकारी दी जाती है? / What type of information is provided in the Economic Survey?",
+    "question": "भारतीय संविधान की 12 अनुसूचियों में से किस अनुसूची में राज्यों और केंद्र के बीच विधायी विषयों का विभाजन किया गया है? / Which Schedule of the Indian Constitution contains the division of legislative subjects between the Union and the States?",
     "options": {
-      "A": "राज्य की आर्थिक स्थिति",
-      "B": "राष्ट्रीय आर्थिक प्रदर्शन",
-      "C": "सरकारी योजनाओं की समीक्षा",
-      "D": "सभी उपरोक्त"
+      "A": "सातवीं अनुसूची / Seventh Schedule",
+      "B": "आठवीं अनुसूची / Eighth Schedule",
+      "C": "नवीं अनुसूची / Ninth Schedule",
+      "D": "दसवीं अनुसूची / Tenth Schedule"
     },
-    "answer": ["B", "C"]
+    "correct_answers": ["A"]
   },
   {
     "id": 83,
-    "question": "PM-KISAN योजना का मुख्य उद्देश्य क्या है? / What is the main objective of the PM-KISAN scheme?",
+    "question": "चुनाव आयोग के संबंध में निम्न में से कौन-सा/से कथन सही है/हैं? / Which of the following statements about the Election Commission are correct?",
     "options": {
-      "A": "किसानों को आर्थिक सहायता देना",
-      "B": "शिक्षा का विस्तार करना",
-      "C": "स्वास्थ्य सेवाएं प्रदान करना",
-      "D": "रोजगार सृजन"
+      "A": "यह अनुच्छेद 324 में प्रावधानित है / It is provided under Article 324",
+      "B": "यह केवल लोकसभा चुनाव कराता है / It conducts only Lok Sabha elections",
+      "C": "मुख्य चुनाव आयुक्त को केवल संसद के दोनों सदनों के विशेष बहुमत से ही हटाया जा सकता है / Chief Election Commissioner can be removed only by special majority of both Houses of Parliament",
+      "D": "राज्य चुनाव आयोग का गठन इसी के अंतर्गत होता है / State Election Commission is constituted under it"
     },
-    "answer": ["A"]
+    "correct_answers": ["A", "C"]
   },
   {
     "id": 84,
-    "question": "Ayushman Bharat योजना किस क्षेत्र में काम करती है? / Which sector does the Ayushman Bharat scheme focus on?",
+    "question": "नियंत्रक एवं महालेखा परीक्षक (CAG) का कार्यकाल और हटाने की प्रक्रिया किसके समान है? / The tenure and removal procedure of the Comptroller and Auditor General (CAG) is similar to that of?",
     "options": {
-      "A": "स्वास्थ्य सेवा",
-      "B": "कृषि",
-      "C": "शिक्षा",
-      "D": "रोजगार"
+      "A": "प्रधानमंत्री / Prime Minister",
+      "B": "सुप्रीम कोर्ट के न्यायाधीश / Supreme Court Judge",
+      "C": "राज्यपाल / Governor",
+      "D": "लोकसभा अध्यक्ष / Speaker of Lok Sabha"
     },
-    "answer": ["A"]
+    "correct_answers": ["B"]
   },
   {
     "id": 85,
-    "question": "‘Fiscal Deficit’ का अर्थ क्या है? / What is the meaning of Fiscal Deficit?",
+    "question": "संविधान के किस अनुच्छेद में UPSC की स्थापना का प्रावधान है? / Under which Article of the Constitution is the UPSC provided?",
     "options": {
-      "A": "सरकारी खर्च और आय के बीच अंतर",
-      "B": "सरकारी कर्ज की कुल राशि",
-      "C": "सरकारी कर राजस्व",
-      "D": "मुद्रास्फीति की दर"
+      "A": "अनुच्छेद 315 / Article 315",
+      "B": "अनुच्छेद 320 / Article 320",
+      "C": "अनुच्छेद 312 / Article 312",
+      "D": "अनुच्छेद 324 / Article 324"
     },
-    "answer": ["A"]
+    "correct_answers": ["A"]
   },
   {
     "id": 86,
-    "question": "वित्तीय बजट में ‘Revenue Deficit’ का क्या अर्थ है? / What does Revenue Deficit mean in the financial budget?",
+    "question": "राज्य लोक सेवा आयोग (SPSC) के संबंध में कौन से कथन सही हैं? / Which statements are correct regarding State Public Service Commission (SPSC)?",
     "options": {
-      "A": "राजस्व व्यय और राजस्व आय का अंतर",
-      "B": "पूंजी व्यय और पूंजी आय का अंतर",
-      "C": "कुल खर्च और कुल आय का अंतर",
-      "D": "सरकारी ऋण"
+      "A": "अनुच्छेद 315 से 323 तक के प्रावधान लागू होते हैं / Provisions of Articles 315 to 323 apply",
+      "B": "अध्यक्ष को राज्यपाल द्वारा नियुक्त किया जाता है / Chairman is appointed by the Governor",
+      "C": "हटाने का अधिकार राष्ट्रपति के पास होता है / Power of removal lies with the President",
+      "D": "यह राज्य सरकार के अधीन काम करता है / Works under State Government"
     },
-    "answer": ["A"]
+    "correct_answers": ["A", "B", "C"]
   },
   {
     "id": 87,
-    "question": "‘GST’ किसे संदर्भित करता है? / What does GST refer to?",
+    "question": "वित्त आयोग के बारे में निम्नलिखित में से कौन-से कथन सही हैं? / Which of the following statements about Finance Commission are correct?",
     "options": {
-      "A": "Goods and Services Tax",
-      "B": "General Service Tariff",
-      "C": "Government Sales Tax",
-      "D": "Gross Sales Total"
+      "A": "अनुच्छेद 280 में प्रावधानित है / Provided under Article 280",
+      "B": "हर 5 वर्ष में राष्ट्रपति द्वारा नियुक्त / Appointed by the President every 5 years",
+      "C": "केवल राज्यों के कर-स्रोतों का निर्धारण करता है / Determines only the tax sources of states",
+      "D": "केंद्र और राज्यों के बीच कर-विभाजन की सिफारिश करता है / Recommends tax distribution between Centre and States"
     },
-    "answer": ["A"]
+    "correct_answers": ["A", "B", "D"]
   },
   {
     "id": 88,
-    "question": "हालिया आर्थिक सुधारों में कौन-सी प्रमुख नीति शामिल है? / Which major policy is included in recent economic reforms?",
+    "question": "उत्तर प्रदेश लोकायुक्त के संबंध में कौन-सा कथन सही नहीं है? / Which statement about UP Lokayukta is NOT correct?",
     "options": {
-      "A": "अर्थव्यवस्था का डिजिटलीकरण",
-      "B": "विदेशी निवेश में वृद्धि",
-      "C": "कर सुधार (GST लागू करना)",
-      "D": "सब्सिडी बढ़ाना"
+      "A": "यह राज्यपाल द्वारा नियुक्त किया जाता है / Appointed by the Governor",
+      "B": "इसका कार्यकाल 6 वर्ष या 65 वर्ष की आयु, जो पहले हो / Tenure is 6 years or 65 years of age, whichever is earlier",
+      "C": "इसे केवल मुख्यमंत्री द्वारा हटाया जा सकता है / Can be removed only by the Chief Minister",
+      "D": "भ्रष्टाचार के मामलों की जांच करता है / Investigates cases of corruption"
     },
-    "answer": ["A", "B", "C"]
+    "correct_answers": ["C"]
   },
   {
     "id": 89,
-    "question": "राष्ट्रीय बजट कब प्रस्तुत किया जाता है? / When is the national budget presented?",
+    "question": "राज्य निर्वाचन आयोग (State Election Commission) के संबंध में सही कथन कौन से हैं? / Which statements about the State Election Commission are correct?",
     "options": {
-      "A": "फरवरी",
-      "B": "जनवरी",
-      "C": "मार्च",
-      "D": "अप्रैल"
+      "A": "यह अनुच्छेद 243K में प्रावधानित है / Provided under Article 243K",
+      "B": "अध्यक्ष को राष्ट्रपति नियुक्त करता है / Chairman is appointed by the President",
+      "C": "पंचायत और नगर निकाय चुनाव कराता है / Conducts Panchayat and Municipal elections",
+      "D": "अध्यक्ष को राज्यपाल नियुक्त करता है / Chairman is appointed by the Governor"
     },
-    "answer": ["A"]
+    "correct_answers": ["A", "C", "D"]
   },
   {
     "id": 90,
-    "question": "PM-KISAN योजना के तहत किसान को कितनी आर्थिक सहायता मिलती है? / How much financial assistance is provided to farmers under PM-KISAN?",
+    "question": "भारतीय संविधान की किस अनुसूची में भाषाओं की सूची दी गई है? / Which Schedule of the Indian Constitution contains the list of languages?",
     "options": {
-      "A": "₹6000 प्रति वर्ष",
-      "B": "₹5000 प्रति वर्ष",
-      "C": "₹7000 प्रति वर्ष",
-      "D": "₹4000 प्रति वर्ष"
+      "A": "आठवीं अनुसूची / Eighth Schedule",
+      "B": "सातवीं अनुसूची / Seventh Schedule",
+      "C": "छठी अनुसूची / Sixth Schedule",
+      "D": "नवीं अनुसूची / Ninth Schedule"
     },
-    "answer": ["A"]
+    "correct_answers": ["A"]
   },
   {
     "id": 91,
-    "question": "Ayushman Bharat योजना के अंतर्गत कौन-सी सुविधा दी जाती है? / What facility is provided under Ayushman Bharat scheme?",
+    "question": "भारतीय संविधान में कितने भाग मूल रूप से थे और वर्तमान में कितने हैं? / How many Parts were there originally in the Indian Constitution and how many are there at present?",
     "options": {
-      "A": "स्वास्थ्य बीमा कवरेज",
-      "B": "शिक्षा अनुदान",
-      "C": "रोजगार सहायता",
-      "D": "कृषि अनुदान"
+      "A": "मूलतः 22, वर्तमान में 25 / Originally 22, now 25",
+      "B": "मूलतः 20, वर्तमान में 25 / Originally 20, now 25",
+      "C": "मूलतः 22, वर्तमान में 24 / Originally 22, now 24",
+      "D": "मूलतः 20, वर्तमान में 22 / Originally 20, now 22"
     },
-    "answer": ["A"]
+    "correct_answers": ["A"]
   },
   {
     "id": 92,
-    "question": "‘Monetary Policy’ किसके द्वारा संचालित होती है? / Who implements the Monetary Policy?",
+    "question": "अनुच्छेद 148 से 151 किससे संबंधित हैं? / Articles 148 to 151 are related to?",
     "options": {
-      "A": "Reserve Bank of India",
-      "B": "Finance Ministry",
-      "C": "Planning Commission",
-      "D": "SEBI"
+      "A": "UPSC",
+      "B": "CAG",
+      "C": "Finance Commission",
+      "D": "Election Commission"
     },
-    "answer": ["A"]
+    "correct_answers": ["B"]
   },
   {
     "id": 93,
-    "question": "वित्तीय बजट के दो मुख्य भाग कौन से हैं? / What are the two main parts of the financial budget?",
+    "question": "UPSC के सदस्य बनने के लिए अधिकतम आयु और कार्यकाल की सीमा क्या है? / What is the maximum age limit and tenure for a member of UPSC?",
     "options": {
-      "A": "राजस्व बजट और पूंजी बजट",
-      "B": "मौद्रिक बजट और कर बजट",
-      "C": "सरकारी बजट और निजी बजट",
-      "D": "डिजिटल बजट और भौतिक बजट"
+      "A": "65 वर्ष या 6 वर्ष / 65 years or 6 years",
+      "B": "62 वर्ष या 5 वर्ष / 62 years or 5 years",
+      "C": "65 वर्ष या 5 वर्ष / 65 years or 5 years",
+      "D": "62 वर्ष या 6 वर्ष / 62 years or 6 years"
     },
-    "answer": ["A"]
+    "correct_answers": ["A"]
   },
   {
     "id": 94,
-    "question": "‘Fiscal Policy’ का उद्देश्य क्या है? / What is the objective of Fiscal Policy?",
+    "question": "वित्त आयोग की सिफारिशें / Recommendations of Finance Commission:",
     "options": {
-      "A": "सरकारी खर्च और कराधान के माध्यम से अर्थव्यवस्था को नियंत्रित करना",
-      "B": "मुद्रा आपूर्ति नियंत्रित करना",
-      "C": "विदेशी व्यापार बढ़ाना",
-      "D": "बैंकिंग सुधार"
+      "A": "बाध्यकारी होती हैं / Binding",
+      "B": "सिर्फ परामर्शात्मक होती हैं / Merely advisory",
+      "C": "राष्ट्रपति द्वारा स्वीकार या अस्वीकार की जा सकती हैं / Can be accepted or rejected by the President",
+      "D": "संसद की स्वीकृति आवश्यक / Requires Parliament's approval"
     },
-    "answer": ["A"]
+    "correct_answers": ["B", "C"]
   },
   {
     "id": 95,
-    "question": "भारत सरकार की ‘Stand Up India’ योजना किसके लिए है? / Who is the target group of the Government of India’s ‘Stand Up India’ scheme?",
+    "question": "भारतीय संविधान की कौन-सी अनुसूची में केंद्र और राज्यों के बीच प्रशासनिक संबंधों का प्रावधान है? / Which Schedule of the Indian Constitution contains provisions on administrative relations between Centre and States?",
     "options": {
-      "A": "एससी, एसटी, और महिला उद्यमी",
-      "B": "किसान",
-      "C": "शिक्षक",
-      "D": "बेरोजगार युवाओं"
+      "A": "सातवीं अनुसूची / Seventh Schedule",
+      "B": "ग्यारहवीं अनुसूची / Eleventh Schedule",
+      "C": "छठी अनुसूची / Sixth Schedule",
+      "D": "कोई अनुसूची नहीं, यह भाग XI में है / No Schedule, in Part XI"
     },
-    "answer": ["A"]
+    "correct_answers": ["D"]
   },
   {
     "id": 96,
-    "question": "वित्तीय बजट में ‘Subsidy’ का क्या अर्थ है? / What does ‘Subsidy’ mean in the financial budget?",
+    "question": "निम्न में से कौन-सा/से कथन सही है/हैं? / Which of the following is/are correct?",
     "options": {
-      "A": "सरकार द्वारा दी जाने वाली आर्थिक सहायता",
-      "B": "करों की वृद्धि",
-      "C": "सरकारी ऋण",
-      "D": "मुद्रा स्फीति"
+      "A": "CAG का वेतन संसद द्वारा निर्धारित होता है / Salary of CAG is determined by Parliament",
+      "B": "CAG का वेतन भारत के मुख्य न्यायाधीश के वेतन के बराबर होता है / Salary equals that of CJI",
+      "C": "CAG अपने कार्यकाल के दौरान किसी अन्य लाभकारी पद पर नहीं रह सकता / CAG cannot hold any other office of profit during tenure",
+      "D": "CAG का कार्यकाल 6 वर्ष या 65 वर्ष की आयु, जो पहले हो / CAG tenure is 6 years or 65 years of age, whichever earlier"
     },
-    "answer": ["A"]
+    "correct_answers": ["A", "C", "D"]
   },
   {
     "id": 97,
-    "question": "भारत सरकार की ‘Atmanirbhar Bharat’ योजना का उद्देश्य क्या है? / What is the objective of the Government of India’s ‘Atmanirbhar Bharat’ initiative?",
+    "question": "राज्य लोक सेवा आयोग के अध्यक्ष को हटाने के संबंध में सही कथन चुनें / Choose the correct statements regarding removal of Chairman of State PSC:",
     "options": {
-      "A": "आर्थिक आत्मनिर्भरता को बढ़ावा देना",
-      "B": "विदेशी निवेश को प्रतिबंधित करना",
-      "C": "कृषि पर निर्भरता बढ़ाना",
-      "D": "सरकारी खर्च कम करना"
+      "A": "राष्ट्रपति द्वारा हटाया जा सकता है / Can be removed by the President",
+      "B": "सुप्रीम कोर्ट की जांच के बाद / After inquiry by Supreme Court",
+      "C": "राज्यपाल के आदेश से हटाया जाता है / Removed by Governor's order",
+      "D": "विधानसभा का बहुमत आवश्यक / Majority of State Legislature required"
     },
-    "answer": ["A"]
+    "correct_answers": ["A", "B"]
   },
   {
     "id": 98,
-    "question": "बजट में ‘Revenue Deficit’ का मतलब क्या होता है? / What does ‘Revenue Deficit’ mean in the budget?",
+    "question": "राज्य निर्वाचन आयोग के बारे में गलत कथन चुनें / Choose the incorrect statement about State Election Commission:",
     "options": {
-      "A": "राजस्व व्यय राजस्व आय से अधिक होना",
-      "B": "सरकारी ऋण",
-      "C": "पूंजी व्यय का राजस्व आय से अधिक होना",
-      "D": "मुद्रास्फीति"
+      "A": "यह अनुच्छेद 243K में प्रावधानित है / Provided under Article 243K",
+      "B": "अध्यक्ष का कार्यकाल 6 वर्ष या 65 वर्ष / Chairman's tenure 6 years or 65 years",
+      "C": "अध्यक्ष को राष्ट्रपति हटाते हैं / Removed by the President",
+      "D": "यह पंचायत और नगरपालिका चुनाव कराता है / Conducts Panchayat and Municipal elections"
     },
-    "answer": ["A"]
+    "correct_answers": ["C"]
   },
   {
     "id": 99,
-    "question": "‘Goods and Services Tax’ (GST) लागू कब हुआ था? / When was GST implemented in India?",
+    "question": "UP लोकायुक्त की नियुक्ति समिति में कौन-कौन होते हैं? / Who are the members of UP Lokayukta appointment committee?",
     "options": {
-      "A": "1 जुलाई 2017",
-      "B": "1 जनवरी 2018",
-      "C": "1 अप्रैल 2017",
-      "D": "1 मार्च 2018"
+      "A": "मुख्यमंत्री / Chief Minister",
+      "B": "विधानसभा अध्यक्ष / Speaker of Legislative Assembly",
+      "C": "विपक्ष के नेता / Leader of Opposition",
+      "D": "राज्यपाल / Governor"
     },
-    "answer": ["A"]
+    "correct_answers": ["A", "B", "C"]
   },
   {
     "id": 100,
-    "question": "वित्तीय बजट में ‘Capital Expenditure’ क्या दर्शाता है? / What does ‘Capital Expenditure’ represent in the financial budget?",
+    "question": "आठवीं अनुसूची में मूलतः कितनी भाषाएं थीं और वर्तमान में कितनी हैं? / How many languages were there originally and how many are there now in the Eighth Schedule?",
     "options": {
-      "A": "सरकार द्वारा दीर्घकालीन संपत्तियों पर खर्च",
-      "B": "शैक्षिक खर्च",
-      "C": "मौद्रिक नीति",
-      "D": "कर संग्रह"
+      "A": "14 मूल, अब 22 / 14 original, now 22",
+      "B": "15 मूल, अब 22 / 15 original, now 22",
+      "C": "14 मूल, अब 21 / 14 original, now 21",
+      "D": "12 मूल, अब 22 / 12 original, now 22"
     },
-    "answer": ["A"]
+    "correct_answers": ["A"]
+  },
+  {
+    "id": 101,
+    "question": "भारतीय संविधान में वित्त आयोग की रिपोर्ट संसद के किस सदन में प्रस्तुत की जाती है? / In which House of Parliament is the Finance Commission report presented?",
+    "options": {
+      "A": "लोकसभा / Lok Sabha",
+      "B": "राज्यसभा / Rajya Sabha",
+      "C": "दोनों सदन / Both Houses",
+      "D": "केवल राष्ट्रपति को / Only to the President"
+    },
+    "correct_answers": ["C"]
+  },
+  {
+    "id": 102,
+    "question": "नियंत्रक एवं महालेखा परीक्षक (CAG) का पद / The office of CAG:",
+    "options": {
+      "A": "संवैधानिक पद है / Constitutional post",
+      "B": "सांविधिक पद है / Statutory post",
+      "C": "अर्ध-न्यायिक पद है / Quasi-judicial post",
+      "D": "केवल कार्यपालिका का हिस्सा / Only part of executive"
+    },
+    "correct_answers": ["A"]
+  },
+  {
+    "id": 103,
+    "question": "राज्य लोक सेवा आयोग की वार्षिक रिपोर्ट / Annual report of State PSC:",
+    "options": {
+      "A": "राज्यपाल को सौंपी जाती है / Submitted to the Governor",
+      "B": "राज्यपाल इसे राज्य विधानसभा में रखवाते हैं / Governor lays it before State Legislature",
+      "C": "यह रिपोर्ट संसद को भेजी जाती है / Sent to Parliament",
+      "D": "रिपोर्ट में आयोग की कार्यप्रणाली और सिफारिशें होती हैं / Contains working and recommendations"
+    },
+    "correct_answers": ["A", "B", "D"]
+  },
+  {
+    "id": 104,
+    "question": "ग्यारहवीं और बारहवीं अनुसूची के संबंध में सही कथन / Correct statements about Eleventh and Twelfth Schedules:",
+    "options": {
+      "A": "ग्यारहवीं पंचायतों से संबंधित / Eleventh relates to Panchayats",
+      "B": "बारहवीं नगरपालिकाओं से संबंधित / Twelfth relates to Municipalities",
+      "C": "दोनों 73वें और 74वें संशोधन द्वारा जोड़ी गईं / Both added by 73rd and 74th Amendments",
+      "D": "बारहवीं में 29 विषय हैं / Twelfth has 29 subjects"
+    },
+    "correct_answers": ["A", "B", "C"]
+  },
+  {
+    "id": 105,
+    "question": "UP लोकायुक्त का अधिकार क्षेत्र किन पर लागू नहीं होता? / UP Lokayukta jurisdiction does NOT apply to:",
+    "options": {
+      "A": "मुख्यमंत्री / Chief Minister",
+      "B": "न्यायपालिका / Judiciary",
+      "C": "विधानसभा अध्यक्ष / Speaker of Legislative Assembly",
+      "D": "मंत्रिपरिषद के सदस्य / Council of Ministers"
+    },
+    "correct_answers": ["B"]
+  },
+  {
+    "id": 106,
+    "question": "भारत के चुनाव आयोग के अंतर्गत कितने सदस्य होते हैं? / How many members are there in the Election Commission of India?",
+    "options": {
+      "A": "एक / One",
+      "B": "तीन / Three",
+      "C": "एक मुख्य और दो निर्वाचन आयुक्त / One Chief and two Election Commissioners",
+      "D": "परिवर्तनीय संख्या / Variable number"
+    },
+    "correct_answers": ["C", "D"]
+  },
+  {
+    "id": 107,
+    "question": "UPSC की सलाह / Advice of UPSC:",
+    "options": {
+      "A": "बाध्यकारी होती है / Binding",
+      "B": "बाध्यकारी नहीं होती / Not binding",
+      "C": "केवल नियुक्तियों में बाध्यकारी / Binding only in appointments",
+      "D": "सरकार द्वारा अस्वीकार की जा सकती है / Can be rejected by Government"
+    },
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "id": 108,
+    "question": "भारतीय संविधान का कौन-सा भाग पंचायतों और नगरपालिकाओं से संबंधित है? / Which Part of the Indian Constitution relates to Panchayats and Municipalities?",
+    "options": {
+      "A": "भाग IX और IXA / Part IX and IXA",
+      "B": "भाग XI और XII / Part XI and XII",
+      "C": "भाग IX और X / Part IX and X",
+      "D": "भाग X और XI / Part X and XI"
+    },
+    "correct_answers": ["A"]
+  },
+  {
+    "id": 109,
+    "question": "CAG की ऑडिट रिपोर्ट किसे भेजी जाती है? / To whom is the CAG's audit report submitted?",
+    "options": {
+      "A": "राष्ट्रपति / President",
+      "B": "राज्यपाल / Governor",
+      "C": "संसद / Parliament",
+      "D": "राज्य विधानमंडल / State Legislature"
+    },
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "id": 110,
+    "question": "निम्न में से कौन-सा विषय केवल संसद के अधीन है? / Which of the following subjects is exclusively under Parliament?",
+    "options": {
+      "A": "भारत के चुनाव आयोग का गठन / Establishment of Election Commission of India",
+      "B": "राज्य लोक सेवा आयोग का गठन / Establishment of State PSC",
+      "C": "वित्त आयोग का गठन / Establishment of Finance Commission",
+      "D": "भाषाओं की सूची में परिवर्तन / Alteration in the list of languages"
+    },
+    "correct_answers": ["A", "C", "D"]
+  },
+  {
+    "id": 111,
+    "question": "बारहवीं अनुसूची में कितने विषय हैं? / How many subjects are in the Twelfth Schedule?",
+    "options": {
+      "A": "18",
+      "B": "29",
+      "C": "17",
+      "D": "21"
+    },
+    "correct_answers": ["A"]
+  },
+  {
+    "id": 112,
+    "question": "भारतीय संविधान का कौन-सा भाग संघ और राज्यों के बीच वित्तीय संबंधों से संबंधित है? / Which Part of the Constitution relates to financial relations between Union and States?",
+    "options": {
+      "A": "भाग XI / Part XI",
+      "B": "भाग XII / Part XII",
+      "C": "भाग XIII / Part XIII",
+      "D": "भाग X / Part X"
+    },
+    "correct_answers": ["B"]
+  },
+  {
+    "id": 113,
+    "question": "UP लोकायुक्त की सिफारिशें / Recommendations of UP Lokayukta:",
+    "options": {
+      "A": "बाध्यकारी होती हैं / Binding",
+      "B": "परामर्शात्मक होती हैं / Advisory",
+      "C": "राज्यपाल द्वारा लागू की जाती हैं / Implemented by Governor",
+      "D": "सरकार द्वारा स्वीकार या अस्वीकार की जा सकती हैं / Can be accepted or rejected by Government"
+    },
+    "correct_answers": ["B", "D"]
+  },
+  {
+    "id": 114,
+    "question": "भारतीय संविधान में UPSC की वार्षिक रिपोर्ट किस अनुच्छेद के अंतर्गत है? / Under which Article is the annual report of UPSC mentioned?",
+    "options": {
+      "A": "अनुच्छेद 320 / Article 320",
+      "B": "अनुच्छेद 322 / Article 322",
+      "C": "अनुच्छेद 323 / Article 323",
+      "D": "अनुच्छेद 315 / Article 315"
+    },
+    "correct_answers": ["B"]
+  },
+  {
+    "id": 115,
+    "question": "कौन-सी अनुसूची में जनजातीय क्षेत्रों के प्रशासन का प्रावधान है? / Which Schedule contains provisions for administration of tribal areas?",
+    "options": {
+      "A": "पांचवीं अनुसूची / Fifth Schedule",
+      "B": "छठी अनुसूची / Sixth Schedule",
+      "C": "सातवीं अनुसूची / Seventh Schedule",
+      "D": "ग्यारहवीं अनुसूची / Eleventh Schedule"
+    },
+    "correct_answers": ["A", "B"]
+  },
+  {
+    "id": 116,
+    "question": "वित्त आयोग के गठन के लिए राष्ट्रपति किस अनुच्छेद के अंतर्गत आदेश जारी करते हैं? / Under which Article does the President issue an order to constitute the Finance Commission?",
+    "options": {
+      "A": "अनुच्छेद 280 / Article 280",
+      "B": "अनुच्छेद 281 / Article 281",
+      "C": "अनुच्छेद 282 / Article 282",
+      "D": "अनुच्छेद 283 / Article 283"
+    },
+    "correct_answers": ["A"]
+  },
+  {
+    "id": 117,
+    "question": "राज्य निर्वाचन आयोग की नियुक्ति में राज्यपाल को किससे परामर्श लेना आवश्यक है? / Governor must consult whom while appointing State Election Commissioner?",
+    "options": {
+      "A": "मुख्यमंत्री / Chief Minister",
+      "B": "मुख्य न्यायाधीश, उच्च न्यायालय / Chief Justice of High Court",
+      "C": "राज्य लोक सेवा आयोग के अध्यक्ष / Chairman of State PSC",
+      "D": "विधानसभा अध्यक्ष / Speaker of Legislative Assembly"
+    },
+    "correct_answers": ["B"]
+  },
+  {
+    "id": 118,
+    "question": "भारतीय संविधान की सातवीं अनुसूची में कितनी सूचियां हैं? / How many lists are there in the Seventh Schedule of the Constitution?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "correct_answers": ["B"]
+  },
+  {
+    "id": 119,
+    "question": "भारतीय संविधान के किस अनुच्छेद में CAG की शपथ का प्रावधान है? / Under which Article is the oath of CAG provided?",
+    "options": {
+      "A": "148(2)",
+      "B": "149",
+      "C": "150",
+      "D": "151"
+    },
+    "correct_answers": ["A"]
+  },
+  {
+    "id": 120,
+    "question": "UP लोकायुक्त का कार्यक्षेत्र / Jurisdiction of UP Lokayukta covers:",
+    "options": {
+      "A": "राज्य मंत्रिपरिषद / State Council of Ministers",
+      "B": "MLAs",
+      "C": "न्यायपालिका / Judiciary",
+      "D": "राज्य सरकार के अधीन अधिकारी / Officers under State Government"
+    },
+    "correct_answers": ["A", "B", "D"]
   }
 ]
+
+
 
 
 
