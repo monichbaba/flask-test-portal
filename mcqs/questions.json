@@ -1,1328 +1,442 @@
 [
   {
     "id": 1,
-    "question": "Regulating Act 1773 के अंतर्गत भारत में गवर्नर-जनरल के पद पर किसे नियुक्त किया गया था? / Under the Regulating Act 1773, who was appointed as the Governor-General of Bengal?",
+    "question": "पृथ्वी की कौन-सी परत सबसे बाहर होती है? / Which layer of Earth is the outermost?",
     "options": {
-      "A": "वॉरेन हेस्टिंग्स (Warren Hastings)",
-      "B": "लॉर्ड कॉर्नवालिस (Lord Cornwallis)",
-      "C": "लॉर्ड वेलेजली (Lord Wellesley)",
-      "D": "सर जॉन शोर (Sir John Shore)"
+      "A": "क्रस्ट (Crust)",
+      "B": "मैंटल (Mantle)",
+      "C": "कोर (Core)",
+      "D": "लिथोस्फीयर (Lithosphere)"
     },
-    "answer": ["A"]
+    "answer": ["A", "D"]
   },
   {
     "id": 2,
-    "question": "Regulating Act 1773 के बारे में निम्न में से कौन-से कथन सही हैं? / Which of the following statements about the Regulating Act 1773 are correct?",
+    "question": "पृथ्वी के आंतरिक कोर में प्रमुख रूप से कौन-से तत्व पाए जाते हैं? / Which elements are mainly found in the Earth's inner core?",
     "options": {
-      "A": "यह ब्रिटिश संसद का भारत पर पहला हस्तक्षेप था",
-      "B": "इसने सुप्रीम कोर्ट की स्थापना कलकत्ता में की",
-      "C": "गवर्नर ऑफ बंगाल को गवर्नर-जनरल ऑफ बंगाल बना दिया गया",
-      "D": "यह अधिनियम केवल मद्रास प्रेसीडेंसी के लिए लागू था"
+      "A": "लौह (Iron)",
+      "B": "निकेल (Nickel)",
+      "C": "सिलिकॉन (Silicon)",
+      "D": "ऑक्सीजन (Oxygen)"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A", "B"]
   },
   {
     "id": 3,
-    "question": "Pitt's India Act 1784 के अंतर्गत किस निकाय का गठन किया गया? / Which body was created under Pitt's India Act 1784?",
+    "question": "चन्द्रमा पर पहला कदम रखने वाले व्यक्ति कौन थे? / Who was the first person to step on the Moon?",
     "options": {
-      "A": "बोर्ड ऑफ कंट्रोल (Board of Control)",
-      "B": "कोर्ट ऑफ डायरेक्टर्स (Court of Directors)",
-      "C": "इंडियन सिविल सर्विस (Indian Civil Service)",
-      "D": "इंडियन काउंसिल (Indian Council)"
+      "A": "नील आर्मस्ट्रॉन्ग (Neil Armstrong)",
+      "B": "बज़ एल्ड्रिन (Buzz Aldrin)",
+      "C": "यूरी गगारिन (Yuri Gagarin)",
+      "D": "माइकल कॉलिन्स (Michael Collins)"
     },
     "answer": ["A"]
   },
   {
     "id": 4,
-    "question": "Charter Act 1813 की कौन-सी विशेषता थी? / Which was a feature of the Charter Act 1813?",
+    "question": "ग्रीनहाउस प्रभाव का मुख्य कारण कौन-सी गैस है? / Which gas is the main cause of the greenhouse effect?",
     "options": {
-      "A": "ईस्ट इंडिया कंपनी के व्यापारिक एकाधिकार का अंत",
-      "B": "ईसाई मिशनरियों को भारत आने की अनुमति",
-      "C": "भारत के लिए एक स्वतंत्र विधान परिषद की स्थापना",
-      "D": "भारत में सर्वोच्च न्यायालय की स्थापना"
+      "A": "कार्बन डाइऑक्साइड (CO₂)",
+      "B": "मीथेन (CH₄)",
+      "C": "ऑक्सीजन (O₂)",
+      "D": "नाइट्रस ऑक्साइड (N₂O)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"]
   },
   {
     "id": 5,
-    "question": "Charter Act 1833 के बारे में सही कथन चुनिए: / Choose the correct statements about the Charter Act 1833:",
+    "question": "निम्नलिखित में से कौन-से महाद्वीप पूरी तरह दक्षिणी गोलार्ध में स्थित हैं? / Which of the following continents are completely in the Southern Hemisphere?",
     "options": {
-      "A": "गवर्नर-जनरल ऑफ बंगाल को गवर्नर-जनरल ऑफ इंडिया बना दिया गया",
-      "B": "भारत में विधायी शक्ति का केंद्रीकरण हुआ",
-      "C": "ईस्ट इंडिया कंपनी का वाणिज्यिक कार्य समाप्त हुआ",
-      "D": "सर्वोच्च न्यायालय की स्थापना की गई"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 6,
-    "question": "Charter Act 1853 के अंतर्गत कौन-सा सुधार किया गया? / Which reform was introduced under the Charter Act 1853?",
-    "options": {
-      "A": "भारतीय सिविल सेवा की प्रतियोगी परीक्षा",
-      "B": "पहली बार विधायी और कार्यकारी कार्यों का विभाजन",
-      "C": "भारतीय उच्च न्यायालयों की स्थापना",
-      "D": "राज्यपाल की नियुक्ति की प्रक्रिया बदली"
+      "A": "ऑस्ट्रेलिया (Australia)",
+      "B": "अंटार्कटिका (Antarctica)",
+      "C": "अफ्रीका (Africa)",
+      "D": "दक्षिण अमेरिका (South America)"
     },
     "answer": ["A", "B"]
   },
   {
-    "id": 7,
-    "question": "Government of India Act 1858 के बारे में निम्नलिखित में से कौन-से कथन सही हैं? / Which of the following statements about Government of India Act 1858 are correct?",
+    "id": 6,
+    "question": "मानव शरीर में सबसे कठोर पदार्थ कौन-सा है? / Which is the hardest substance in the human body?",
     "options": {
-      "A": "ईस्ट इंडिया कंपनी का अंत हुआ",
-      "B": "भारत सचिव का पद सृजित हुआ",
-      "C": "रानी का घोषणा-पत्र जारी हुआ",
-      "D": "भारत का प्रशासन ब्रिटिश संसद के हाथ में चला गया"
+      "A": "हड्डी (Bone)",
+      "B": "दंत-वल्क (Enamel)",
+      "C": "नाखून (Nail)",
+      "D": "केराटिन (Keratin)"
     },
-    "answer": ["A", "B", "C", "D"]
+    "answer": ["B"]
+  },
+  {
+    "id": 7,
+    "question": "‘कोप्पेन जलवायु वर्गीकरण’ में 'Csa' किस प्रकार की जलवायु को दर्शाता है? / In Köppen climate classification, 'Csa' represents which type of climate?",
+    "options": {
+      "A": "भूमध्यरेखीय वर्षा-वन / Equatorial Rainforest",
+      "B": "भूमध्यसागरीय / Mediterranean",
+      "C": "उष्णकटिबंधीय सवाना / Tropical Savanna",
+      "D": "मरुस्थल / Desert"
+    },
+    "answer": ["B"]
   },
   {
     "id": 8,
-    "question": "Indian Councils Act 1861 के अंतर्गत क्या प्रावधान किया गया? / What provision was made under the Indian Councils Act 1861?",
+    "question": "किस ग्रह का दिन सबसे लंबा होता है? / Which planet has the longest day?",
     "options": {
-      "A": "विधान परिषद का पुनर्गठन",
-      "B": "गैर-सरकारी सदस्यों की नियुक्ति",
-      "C": "स्थानीय विधान परिषदों की स्थापना",
-      "D": "भारत सचिव को वीटो अधिकार देना"
+      "A": "शुक्र (Venus)",
+      "B": "बुध (Mercury)",
+      "C": "मंगल (Mars)",
+      "D": "बृहस्पति (Jupiter)"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 9,
-    "question": "Indian Councils Act 1892 के बारे में सही विकल्प चुनिए: / Choose the correct options about the Indian Councils Act 1892:",
+    "question": "भारत में सबसे अधिक चाय उत्पादन किस राज्य में होता है? / Which state produces the highest tea in India?",
     "options": {
-      "A": "विधान परिषदों में गैर-सरकारी सदस्यों की संख्या बढ़ाई गई",
-      "B": "अप्रत्यक्ष चुनाव की प्रक्रिया शुरू हुई",
-      "C": "सदस्यों को बजट पर चर्चा का अधिकार दिया गया",
-      "D": "मौजूदा प्रांतों का पुनर्गठन हुआ"
+      "A": "असम (Assam)",
+      "B": "पश्चिम बंगाल (West Bengal)",
+      "C": "केरल (Kerala)",
+      "D": "तमिलनाडु (Tamil Nadu)"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
   },
   {
     "id": 10,
-    "question": "Indian Councils Act 1909 को किस नाम से जाना जाता है? / By what name is the Indian Councils Act 1909 known?",
+    "question": "किस धातु का गलनांक सबसे अधिक है? / Which metal has the highest melting point?",
     "options": {
-      "A": "मॉर्ले-मिंटो सुधार (Morley-Minto Reforms)",
-      "B": "मॉण्टेग्यू-चेम्सफोर्ड सुधार (Montagu-Chelmsford Reforms)",
-      "C": "साइमन कमीशन (Simon Commission)",
-      "D": "क्रिप्स मिशन (Cripps Mission)"
+      "A": "टंग्स्टन (Tungsten)",
+      "B": "प्लैटिनम (Platinum)",
+      "C": "क्रोमियम (Chromium)",
+      "D": "टाइटेनियम (Titanium)"
     },
     "answer": ["A"]
   },
   {
     "id": 11,
-    "question": "Indian Councils Act 1909 के तहत किस विशेष प्रावधान को शामिल किया गया? / Which special provision was included under the Indian Councils Act 1909?",
+    "question": "विश्व में सबसे अधिक जनसंख्या वाला देश 2023 में कौन सा है? / Which country has the largest population in 2023?",
     "options": {
-      "A": "मुस्लिमों के लिए पृथक निर्वाचन",
-      "B": "साइमन कमीशन का गठन",
-      "C": "गवर्नर-जनरल की कार्यपालिका का विस्तार",
-      "D": "सदस्यों को प्रश्न पूछने का अधिकार"
+      "A": "भारत (India)",
+      "B": "चीन (China)",
+      "C": "अमेरिका (USA)",
+      "D": "इंडोनेशिया (Indonesia)"
     },
-    "answer": ["A", "C", "D"]
+    "answer": ["A"]
   },
   {
     "id": 12,
-    "question": "Government of India Act 1919 के तहत द्वैध शासन (Dyarchy) किन प्रांतों में लागू किया गया? / Under the Government of India Act 1919, Dyarchy was introduced in which provinces?",
+    "question": "पृथ्वी पर ऋतुओं का परिवर्तन किस कारण होता है? / The change of seasons on Earth is due to which reason?",
     "options": {
-      "A": "बॉम्बे (Bombay)",
-      "B": "मद्रास (Madras)",
-      "C": "बंगाल (Bengal)",
-      "D": "पंजाब (Punjab)"
+      "A": "पृथ्वी का अक्षीय झुकाव / Axial tilt of the Earth",
+      "B": "पृथ्वी का सूर्य के चारों ओर परिक्रमण / Revolution around the Sun",
+      "C": "पृथ्वी का घूर्णन / Rotation of the Earth",
+      "D": "चंद्रमा का गुरुत्वाकर्षण / Moon's gravity"
     },
-    "answer": ["A", "B", "C", "D"]
+    "answer": ["A", "B"]
   },
   {
     "id": 13,
-    "question": "Government of India Act 1919 के बारे में सही कथन हैं: / Correct statements about Government of India Act 1919 are:",
+    "question": "किस नदी को 'दुःख की नदी' कहा जाता है? / Which river is called the 'Sorrow of the River'?",
     "options": {
-      "A": "केंद्रीय स्तर पर द्विसदनीय व्यवस्था",
-      "B": "प्रांतों में द्वैध शासन",
-      "C": "मुस्लिमों के पृथक निर्वाचन को समाप्त करना",
-      "D": "साइमन कमीशन का गठन"
+      "A": "कोसी (Kosi)",
+      "B": "गंगा (Ganga)",
+      "C": "ब्रह्मपुत्र (Brahmaputra)",
+      "D": "गोदावरी (Godavari)"
     },
-    "answer": ["A", "B"]
+    "answer": ["A"]
   },
   {
     "id": 14,
-    "question": "Simon Commission का गठन कब किया गया? / When was the Simon Commission appointed?",
+    "question": "निम्न में से कौन-सा एक नवीकरणीय ऊर्जा स्रोत है? / Which of the following is a renewable source of energy?",
     "options": {
-      "A": "1925",
-      "B": "1927",
-      "C": "1929",
-      "D": "1930"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 15,
-    "question": "Government of India Act 1935 के बारे में सही विकल्प चुनिए: / Choose the correct options about the Government of India Act 1935:",
-    "options": {
-      "A": "संघीय ढांचे का प्रावधान",
-      "B": "प्रांतीय स्वायत्तता",
-      "C": "सर्वोच्च न्यायालय की स्थापना",
-      "D": "भारत सचिव का पद समाप्त करना"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 16,
-    "question": "Government of India Act 1935 में संघीय संरचना का प्रावधान लागू क्यों नहीं हो सका? / Why was the federal structure provision of Government of India Act 1935 not implemented?",
-    "options": {
-      "A": "देशी रियासतों की अनिच्छा",
-      "B": "द्वितीय विश्व युद्ध का आरंभ",
-      "C": "कांग्रेस पार्टी का विरोध",
-      "D": "ब्रिटिश संसद की अस्वीकृति"
+      "A": "सौर ऊर्जा (Solar Energy)",
+      "B": "पवन ऊर्जा (Wind Energy)",
+      "C": "प्राकृतिक गैस (Natural Gas)",
+      "D": "कोयला (Coal)"
     },
     "answer": ["A", "B"]
   },
   {
-    "id": 17,
-    "question": "Indian Independence Act 1947 के बारे में सही कथन हैं: / Correct statements about the Indian Independence Act 1947 are:",
+    "id": 15,
+    "question": "मानव शरीर में लाल रक्त कोशिकाओं का निर्माण कहाँ होता है? / Where are red blood cells formed in the human body?",
     "options": {
-      "A": "भारत और पाकिस्तान के दो डोमिनियन बने",
-      "B": "ब्रिटिश सम्राट की अधिराज्य सत्ता समाप्त हुई",
-      "C": "संविधान सभा को विधायी शक्ति दी गई",
-      "D": "भारत का गवर्नर-जनरल ब्रिटिश सरकार द्वारा नियुक्त हुआ"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 18,
-    "question": "संविधान सभा की संरचना के बारे में सही विकल्प चुनिए: / Choose the correct options about the composition of the Constituent Assembly:",
-    "options": {
-      "A": "कुल सदस्य प्रारंभ में 389 थे",
-      "B": "ब्रिटिश प्रांतों से चुने गए",
-      "C": "देशी रियासतों से नामित सदस्य",
-      "D": "सदस्य प्रत्यक्ष चुनाव से चुने गए"
-    },
-    "answer": ["A", "B", "C"]
-  },
-  {
-    "id": 19,
-    "question": "संविधान सभा में मुस्लिम लीग के सदस्यों ने कब भाग लेना बंद किया? / When did members of the Muslim League stop participating in the Constituent Assembly?",
-    "options": {
-      "A": "माउंटबेटन योजना की घोषणा के बाद",
-      "B": "डायरेक्ट एक्शन डे के बाद",
-      "C": "भारतीय स्वतंत्रता अधिनियम 1947 के बाद",
-      "D": "क्रिप्स प्रस्ताव के बाद"
-    },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 20,
-    "question": "संविधान सभा में उद्देशिका प्रस्ताव (Objectives Resolution) कब प्रस्तुत किया गया? / When was the Objectives Resolution presented in the Constituent Assembly?",
-    "options": {
-      "A": "9 दिसंबर 1946",
-      "B": "13 दिसंबर 1946",
-      "C": "22 जनवरी 1947",
-      "D": "26 नवंबर 1949"
+      "A": "यकृत (Liver)",
+      "B": "अस्थि मज्जा (Bone Marrow)",
+      "C": "प्लीहा (Spleen)",
+      "D": "गुर्दा (Kidney)"
     },
     "answer": ["B"]
   },
   {
-    "id": 21,
-    "question": "Objectives Resolution के बारे में सही कथन हैं: / Correct statements about Objectives Resolution are:",
+    "id": 16,
+    "question": "कौन-सा ग्रह 'लाल ग्रह' के नाम से जाना जाता है? / Which planet is known as the 'Red Planet'?",
     "options": {
-      "A": "इसे जवाहरलाल नेहरू ने प्रस्तुत किया",
-      "B": "इसने संविधान के मूल दर्शन को परिभाषित किया",
-      "C": "यह बाद में प्रस्तावना का आधार बना",
-      "D": "इसे सरदार पटेल ने प्रस्तुत किया"
+      "A": "मंगल (Mars)",
+      "B": "शुक्र (Venus)",
+      "C": "बुध (Mercury)",
+      "D": "बृहस्पति (Jupiter)"
     },
-    "answer": ["A", "B", "C"]
+    "answer": ["A"]
+  },
+  {
+    "id": 17,
+    "question": "जीव विज्ञान में DNA का पूरा नाम क्या है? / What is the full form of DNA in biology?",
+    "options": {
+      "A": "Deoxyribonucleic Acid",
+      "B": "Deoxyribogenetic Acid",
+      "C": "Deoxyribonitric Acid",
+      "D": "None of the above"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 18,
+    "question": "निम्नलिखित में से कौन-सी गैस वायुमंडल में सबसे अधिक मात्रा में पाई जाती है? / Which gas is most abundant in the atmosphere?",
+    "options": {
+      "A": "ऑक्सीजन (Oxygen)",
+      "B": "कार्बन डाइऑक्साइड (CO₂)",
+      "C": "नाइट्रोजन (Nitrogen)",
+      "D": "आर्गन (Argon)"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 19,
+    "question": "विश्व का सबसे ऊँचा जलप्रपात कौन सा है? / Which is the highest waterfall in the world?",
+    "options": {
+      "A": "एंजेल फॉल्स (Angel Falls)",
+      "B": "नियाग्रा फॉल्स (Niagara Falls)",
+      "C": "विक्टोरिया फॉल्स (Victoria Falls)",
+      "D": "जोग फॉल्स (Jog Falls)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 20,
+    "question": "भारतीय संविधान में 'न्याय' शब्द किस भाग में आता है? / In the Indian Constitution, the word 'Justice' appears in which part?",
+    "options": {
+      "A": "प्रस्तावना (Preamble)",
+      "B": "मूल अधिकार (Fundamental Rights)",
+      "C": "मौलिक कर्तव्य (Fundamental Duties)",
+      "D": "राज्य नीति के निदेशक तत्व (DPSP)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 21,
+    "question": "सौरमंडल का सबसे बड़ा उपग्रह कौन सा है? / Which is the largest moon in the Solar System?",
+    "options": {
+      "A": "गैनिमीड (Ganymede)",
+      "B": "टाइटन (Titan)",
+      "C": "कैलीस्टो (Callisto)",
+      "D": "यूरोपा (Europa)"
+    },
+    "answer": ["A"]
   },
   {
     "id": 22,
-    "question": "संविधान सभा की विभिन्न समितियों में से किसके अध्यक्ष डॉ. भीमराव अंबेडकर थे? / Dr. B.R. Ambedkar was the chairman of which committee of the Constituent Assembly?",
+    "question": "निम्न में से कौन-सा एक शीत मरुस्थल है? / Which of the following is a cold desert?",
     "options": {
-      "A": "मसौदा समिति (Drafting Committee)",
-      "B": "संविधान पर सलाहकार समिति",
-      "C": "राज्यों की समिति",
-      "D": "संविधानिक सुधार समिति"
+      "A": "गोबी मरुस्थल (Gobi Desert)",
+      "B": "सहारा मरुस्थल (Sahara Desert)",
+      "C": "थार मरुस्थल (Thar Desert)",
+      "D": "कालाहारी मरुस्थल (Kalahari Desert)"
     },
     "answer": ["A"]
   },
   {
     "id": 23,
-    "question": "संविधान सभा में कितनी प्रमुख समितियां थीं? / How many major committees were there in the Constituent Assembly?",
+    "question": "भारत में पहली पंचवर्षीय योजना का मुख्य लक्ष्य क्या था? / What was the main aim of the First Five-Year Plan in India?",
     "options": {
-      "A": "7",
-      "B": "8",
-      "C": "9",
-      "D": "10"
+      "A": "कृषि विकास (Agricultural Development)",
+      "B": "उद्योगीकरण (Industrialization)",
+      "C": "स्वास्थ्य सुधार (Health Improvement)",
+      "D": "शिक्षा विस्तार (Education Expansion)"
     },
     "answer": ["A"]
   },
   {
     "id": 24,
-    "question": "संविधान सभा की 'संघीय शक्तियों की समिति' (Union Powers Committee) के अध्यक्ष कौन थे? / Who was the chairman of the Union Powers Committee of the Constituent Assembly?",
+    "question": "कौन-सा ग्रह अपने घूर्णन के विपरीत दिशा में परिक्रमण करता है? / Which planet rotates in the opposite direction of its orbit?",
     "options": {
-      "A": "जवाहरलाल नेहरू",
-      "B": "सरदार पटेल",
-      "C": "राजेंद्र प्रसाद",
-      "D": "भीमराव अंबेडकर"
+      "A": "शुक्र (Venus)",
+      "B": "यूरेनस (Uranus)",
+      "C": "पृथ्वी (Earth)",
+      "D": "मंगल (Mars)"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 25,
+    "question": "‘हिराकुंड बाँध’ किस नदी पर स्थित है? / Hirakud Dam is situated on which river?",
+    "options": {
+      "A": "महानदी (Mahanadi)",
+      "B": "गोदावरी (Godavari)",
+      "C": "कृष्णा (Krishna)",
+      "D": "नर्मदा (Narmada)"
     },
     "answer": ["A"]
   },
   {
-    "id": 25,
-    "question": "संविधान सभा की 'प्रांतीय शक्तियों की समिति' के अध्यक्ष कौन थे? / Who was the chairman of the Provincial Powers Committee of the Constituent Assembly?",
-    "options": {
-      "A": "जवाहरलाल नेहरू",
-      "B": "सरदार पटेल",
-      "C": "राजेंद्र प्रसाद",
-      "D": "के.एम. मुंशी"
-    },
-    "answer": ["B"]
-  },
-  {
     "id": 26,
-    "question": "संविधान सभा की प्रारंभिक बैठक का संचालन किसने किया? / Who presided over the first meeting of the Constituent Assembly?",
+    "question": "किस तत्व का घनत्व सबसे अधिक है? / Which element has the highest density?",
     "options": {
-      "A": "सचिदानंद सिन्हा",
-      "B": "राजेंद्र प्रसाद",
-      "C": "जवाहरलाल नेहरू",
-      "D": "सरदार पटेल"
+      "A": "ऑस्मियम (Osmium)",
+      "B": "प्लैटिनम (Platinum)",
+      "C": "यूरेनियम (Uranium)",
+      "D": "सीसा (Lead)"
     },
     "answer": ["A"]
   },
   {
     "id": 27,
-    "question": "संविधान सभा के स्थायी अध्यक्ष (Permanent Chairman) कौन बने? / Who became the permanent chairman (President) of the Constituent Assembly?",
+    "question": "भारत में मानसून के आगमन का प्रथम संकेत किस राज्य में मिलता है? / In which state does the monsoon first arrive in India?",
     "options": {
-      "A": "सचिदानंद सिन्हा",
-      "B": "राजेंद्र प्रसाद",
-      "C": "जवाहरलाल नेहरू",
-      "D": "भीमराव अंबेडकर"
+      "A": "केरल (Kerala)",
+      "B": "तमिलनाडु (Tamil Nadu)",
+      "C": "असम (Assam)",
+      "D": "पश्चिम बंगाल (West Bengal)"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 28,
-    "question": "संविधान सभा में कुल कितने दिनों तक बैठकें चलीं? / For how many days did the Constituent Assembly meet in total?",
+    "question": "विश्व का सबसे बड़ा प्रवाल भित्ति तंत्र कहाँ है? / Where is the world's largest coral reef system located?",
     "options": {
-      "A": "165 दिन",
-      "B": "175 दिन",
-      "C": "180 दिन",
-      "D": "195 दिन"
+      "A": "ग्रेट बैरियर रीफ (Great Barrier Reef)",
+      "B": "रेड सी (Red Sea)",
+      "C": "कैरेबियन (Caribbean)",
+      "D": "हिंद महासागर (Indian Ocean)"
     },
     "answer": ["A"]
   },
   {
     "id": 29,
-    "question": "संविधान सभा द्वारा संविधान निर्माण की कुल अवधि कितनी रही? / What was the total duration taken by the Constituent Assembly to frame the Constitution?",
+    "question": "निम्न में से कौन-सा एक क्षोभमंडल की विशेषता है? / Which of the following is a characteristic of the troposphere?",
     "options": {
-      "A": "2 वर्ष 11 माह 18 दिन",
-      "B": "2 वर्ष 10 माह 5 दिन",
-      "C": "3 वर्ष 11 माह 18 दिन",
-      "D": "2 वर्ष 9 माह 25 दिन"
+      "A": "मौसम परिवर्तन / Weather changes",
+      "B": "अधिकतम जलवाष्प की उपस्थिति / Maximum water vapor presence",
+      "C": "ओजोन परत की उपस्थिति / Presence of ozone layer",
+      "D": "तापमान की ऊँचाई के साथ कमी / Decrease in temperature with height"
     },
-    "answer": ["A"]
+    "answer": ["A", "B", "D"]
   },
   {
     "id": 30,
-    "question": "संविधान सभा में संविधान पर अंतिम हस्ताक्षर कब किए गए? / When was the Constitution finally signed by the members of the Constituent Assembly?",
+    "question": "‘ब्लैक होल’ शब्द किस वैज्ञानिक ने दिया था? / Which scientist coined the term 'Black Hole'?",
     "options": {
-      "A": "24 जनवरी 1950",
-      "B": "26 जनवरी 1950",
-      "C": "26 नवंबर 1949",
-      "D": "15 अगस्त 1947"
+      "A": "जॉन व्हीलर (John Wheeler)",
+      "B": "स्टीफन हॉकिंग (Stephen Hawking)",
+      "C": "आइंस्टीन (Einstein)",
+      "D": "सुबरमण्यम चंद्रशेखर (Subrahmanyan Chandrasekhar)"
     },
     "answer": ["A"]
   },
   {
     "id": 31,
-    "question": "संविधान सभा में हस्ताक्षर करने वाले कुल कितने सदस्य थे? / How many members finally signed the Constitution in the Constituent Assembly?",
+    "question": "भारत में हरित क्रांति के जनक किसे कहा जाता है? / Who is known as the father of Green Revolution in India?",
     "options": {
-      "A": "284",
-      "B": "299",
-      "C": "292",
-      "D": "305"
+      "A": "एम. एस. स्वामीनाथन (M. S. Swaminathan)",
+      "B": "विक्रम साराभाई (Vikram Sarabhai)",
+      "C": "सी. सुब्रमण्यम (C. Subramaniam)",
+      "D": "नॉर्मन बोरलॉग (Norman Borlaug)"
     },
     "answer": ["A"]
   },
   {
     "id": 32,
-    "question": "संविधान सभा में सबसे अधिक समय किस विषय पर बहस हुई? / On which subject did the Constituent Assembly spend the maximum time debating?",
+    "question": "सौरमंडल में सबसे तेज़ घूर्णन करने वाला ग्रह कौन सा है? / Which planet rotates the fastest in the Solar System?",
     "options": {
-      "A": "मौलिक अधिकार",
-      "B": "संघीय ढांचा",
-      "C": "नागरिकता",
-      "D": "राज्य के नीति निदेशक तत्व"
+      "A": "शनि (Saturn)",
+      "B": "बृहस्पति (Jupiter)",
+      "C": "मंगल (Mars)",
+      "D": "नेपच्यून (Neptune)"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 33,
-    "question": "संविधान सभा में सबसे उम्रदराज सदस्य कौन थे? / Who was the oldest member of the Constituent Assembly?",
+    "question": "किस देश को 'उगते सूरज की भूमि' कहा जाता है? / Which country is called the 'Land of the Rising Sun'?",
     "options": {
-      "A": "सचिदानंद सिन्हा",
-      "B": "राजेंद्र प्रसाद",
-      "C": "भीमराव अंबेडकर",
-      "D": "के.एम. मुंशी"
+      "A": "जापान (Japan)",
+      "B": "चीन (China)",
+      "C": "कोरिया (Korea)",
+      "D": "थाईलैंड (Thailand)"
     },
     "answer": ["A"]
   },
   {
     "id": 34,
-    "question": "संविधान सभा में सबसे कम उम्र के सदस्य कौन थे? / Who was the youngest member of the Constituent Assembly?",
+    "question": "निम्न में से कौन-सा एक ज्वालामुखी द्वीप है? / Which of the following is a volcanic island?",
     "options": {
-      "A": "शेख अब्दुल्ला",
-      "B": "प्रीतम सिंह",
-      "C": "हरेंद्र कोचर",
-      "D": "आर.के. शण्मुखम चेट्टी"
-    },
-    "answer": ["C"]
-  },
-  {
-    "id": 35,
-    "question": "संविधान सभा में किसने राष्ट्रीय ध्वज के डिजाइन को अंतिम रूप दिया? / Who finalized the design of the National Flag in the Constituent Assembly?",
-    "options": {
-      "A": "पिंगली वेंकैया",
-      "B": "राजेंद्र प्रसाद",
-      "C": "जवाहरलाल नेहरू",
-      "D": "डॉ. भीमराव अंबेडकर"
-    },
-    "answer": ["A", "C"]
-  },
-  {
-    "id": 36,
-    "question": "संविधान सभा में 'मौलिक अधिकारों की सलाहकार समिति' के अध्यक्ष कौन थे? / Who was the chairman of the Advisory Committee on Fundamental Rights in the Constituent Assembly?",
-    "options": {
-      "A": "जवाहरलाल नेहरू",
-      "B": "सरदार पटेल",
-      "C": "राजेंद्र प्रसाद",
-      "D": "भीमराव अंबेडकर"
-    },
-    "answer": ["B"]
-  },
-  {
-    "id": 37,
-    "question": "संविधान सभा में प्रारंभ में किसने ड्राफ्ट तैयार किया था जिसे बाद में संशोधित किया गया? / Who initially prepared the draft of the Constitution which was later revised?",
-    "options": {
-      "A": "बी.एन. राव",
-      "B": "भीमराव अंबेडकर",
-      "C": "के.एम. मुंशी",
-      "D": "जवाहरलाल नेहरू"
+      "A": "बैरन द्वीप (Barren Island)",
+      "B": "श्रीलंका (Sri Lanka)",
+      "C": "मालदीव (Maldives)",
+      "D": "अंडमान द्वीप (Andaman Islands)"
     },
     "answer": ["A"]
   },
   {
-    "id": 38,
-    "question": "संविधान सभा ने संविधान को कब अंगीकृत किया? / When did the Constituent Assembly adopt the Constitution?",
+    "id": 35,
+    "question": "ओजोन परत का क्षरण किस गैस के कारण होता है? / Ozone layer depletion is caused by which gas?",
     "options": {
-      "A": "26 नवंबर 1949",
-      "B": "24 जनवरी 1950",
-      "C": "15 अगस्त 1947",
-      "D": "26 जनवरी 1950"
+      "A": "क्लोरोफ्लोरोकार्बन (CFC)",
+      "B": "मीथेन (CH₄)",
+      "C": "कार्बन मोनोऑक्साइड (CO)",
+      "D": "नाइट्रोजन डाइऑक्साइड (NO₂)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 36,
+    "question": "विश्व का सबसे ऊँचा पर्वत शिखर कौन सा है? / Which is the highest mountain peak in the world?",
+    "options": {
+      "A": "माउंट एवरेस्ट (Mount Everest)",
+      "B": "K2",
+      "C": "कंचनजंघा (Kangchenjunga)",
+      "D": "ल्होत्से (Lhotse)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 37,
+    "question": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) का मुख्यालय कहाँ है? / Where is the headquarters of ISRO located?",
+    "options": {
+      "A": "हैदराबाद (Hyderabad)",
+      "B": "बेंगलुरु (Bengaluru)",
+      "C": "श्रीहरिकोटा (Sriharikota)",
+      "D": "नई दिल्ली (New Delhi)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 38,
+    "question": "भारत में 'नीली क्रांति' का संबंध किससे है? / Blue Revolution in India is related to which sector?",
+    "options": {
+      "A": "मछली पालन (Fisheries)",
+      "B": "तेल बीज उत्पादन (Oilseed Production)",
+      "C": "दूध उत्पादन (Milk Production)",
+      "D": "रेशम उत्पादन (Silk Production)"
     },
     "answer": ["A"]
   },
   {
     "id": 39,
-    "question": "संविधान सभा की प्रारंभिक बैठक में कुल कितने सदस्य उपस्थित थे? / How many members were present in the first meeting of the Constituent Assembly?",
+    "question": "किस देश ने सबसे पहले महिला को अंतरिक्ष में भेजा? / Which country sent the first woman into space?",
     "options": {
-      "A": "207",
-      "B": "210",
-      "C": "211",
-      "D": "213"
+      "A": "अमेरिका (USA)",
+      "B": "सोवियत संघ (USSR)",
+      "C": "चीन (China)",
+      "D": "फ्रांस (France)"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 40,
-    "question": "संविधान सभा में महिला सदस्यों की कुल संख्या कितनी थी? / What was the total number of women members in the Constituent Assembly?",
+    "question": "‘विश्व पर्यावरण दिवस’ कब मनाया जाता है? / When is 'World Environment Day' celebrated?",
     "options": {
-      "A": "15",
-      "B": "09",
-      "C": "12",
-      "D": "13"
+      "A": "5 जून (5 June)",
+      "B": "22 अप्रैल (22 April)",
+      "C": "16 सितंबर (16 September)",
+      "D": "10 दिसंबर (10 December)"
     },
-    "answer": ["C"]
-  },
-  {
-    "id": 41,
-    "question": "भारतीय संविधान की किस विशेषता का स्रोत ब्रिटेन के संसदीय शासन तंत्र से लिया गया है? / Which feature of the Indian Constitution has been borrowed from the British Parliamentary system?",
-    "options": {
-      "A": "कानून का शासन / Rule of Law",
-      "B": "कैबिनेट प्रणाली / Cabinet System",
-      "C": "न्यायिक समीक्षा / Judicial Review",
-      "D": "संघीय न्यायपालिका / Federal Judiciary"
-    },
-    "correct_answers": ["A", "B"]
-  },
-  {
-    "id": 42,
-    "question": "भारतीय संविधान में 'न्यायिक पुनर्वलोकन' (Judicial Review) और 'न्यायिक सक्रियता' (Judicial Activism) के सिद्धांत मुख्य रूप से किस देश के संविधान से प्रभावित हैं? / The principles of 'Judicial Review' and 'Judicial Activism' in the Indian Constitution are mainly influenced by which country's constitution?",
-    "options": {
-      "A": "ब्रिटेन / Britain",
-      "B": "अमेरिका / USA",
-      "C": "कनाडा / Canada",
-      "D": "आयरलैंड / Ireland"
-    },
-    "correct_answers": ["B"]
-  },
-  {
-    "id": 43,
-    "question": "भारतीय संविधान की कौन-सी विशेषता आयरलैंड के संविधान से ली गई है? / Which feature of the Indian Constitution has been borrowed from the Irish Constitution?",
-    "options": {
-      "A": "राज्य के नीति निर्देशक तत्व / Directive Principles of State Policy",
-      "B": "मौलिक अधिकार / Fundamental Rights",
-      "C": "संघीय शासन / Federal Government",
-      "D": "अवशिष्ट शक्तियां केंद्र को / Residuary Powers to Centre"
-    },
-    "correct_answers": ["A"]
-  },
-  {
-    "id": 44,
-    "question": "भारतीय संविधान में 'संघीय ढांचा' किस देश के संविधान से प्रेरित है, जबकि 'एकात्मक झुकाव' किस देश से प्रभावित है? / In the Indian Constitution, the 'federal structure' is inspired by which country's constitution, while the 'unitary bias' is influenced by which country?",
-    "options": {
-      "A": "संघीय - कनाडा, एकात्मक - ब्रिटेन / Federal - Canada, Unitary - Britain",
-      "B": "संघीय - अमेरिका, एकात्मक - कनाडा / Federal - USA, Unitary - Canada",
-      "C": "संघीय - कनाडा, एकात्मक - अमेरिका / Federal - Canada, Unitary - USA",
-      "D": "संघीय - ब्रिटेन, एकात्मक - आयरलैंड / Federal - Britain, Unitary - Ireland"
-    },
-    "correct_answers": ["A"]
-  },
-  {
-    "id": 45,
-    "question": "निम्नलिखित में से किन विशेषताओं का स्रोत अमेरिका का संविधान है? / Which of the following features are sourced from the US Constitution?",
-    "options": {
-      "A": "मौलिक अधिकार / Fundamental Rights",
-      "B": "स्वतंत्र न्यायपालिका / Independent Judiciary",
-      "C": "राज्यों का संघ / Union of States",
-      "D": "राष्ट्रपति शासन प्रणाली / Presidential System"
-    },
-    "correct_answers": ["A", "B"]
-  },
-  {
-    "id": 46,
-    "question": "भारतीय संविधान की किस विशेषता का स्रोत कनाडा का संविधान है? / Which feature of the Indian Constitution is borrowed from the Canadian Constitution?",
-    "options": {
-      "A": "संघीय शासन में अवशिष्ट शक्तियां केंद्र को / Residuary Powers with Centre in Federal Government",
-      "B": "मजबूत केंद्र / Strong Centre",
-      "C": "प्रांतों का विभाजन / Division of Provinces",
-      "D": "राज्यपाल की नियुक्ति केंद्र द्वारा / Appointment of Governor by Centre"
-    },
-    "correct_answers": ["A", "B", "D"]
-  },
-  {
-    "id": 47,
-    "question": "भारतीय संविधान के किस भाग में 'ब्रिटिश संविधान' की संसदीय प्रभुता की अवधारणा के विपरीत 'संविधान की सर्वोच्चता' को मान्यता दी गई है? / In which part of the Indian Constitution is the concept of 'Supremacy of the Constitution' recognized, in contrast to British parliamentary supremacy?",
-    "options": {
-      "A": "भाग III / Part III",
-      "B": "भाग IV / Part IV",
-      "C": "भाग V / Part V",
-      "D": "भाग XI / Part XI"
-    },
-    "correct_answers": ["A", "C"]
-  },
-  {
-    "id": 48,
-    "question": "भारतीय संविधान का 'संघीय ढांचा' किन प्रावधानों से स्पष्ट होता है? / The 'federal structure' of the Indian Constitution is evident from which provisions?",
-    "options": {
-      "A": "विधान सूची का तीन भागों में विभाजन / Division of legislative lists into three parts",
-      "B": "स्वतंत्र न्यायपालिका / Independent Judiciary",
-      "C": "राज्यपाल का पद / Office of Governor",
-      "D": "एकात्मक संसद / Unitary Parliament"
-    },
-    "correct_answers": ["A", "B"]
-  },
-  {
-    "id": 49,
-    "question": "भारतीय संविधान की 'एकात्मक प्रवृत्ति' किन परिस्थितियों में सक्रिय होती है? / Under which circumstances does the 'unitary tendency' of the Indian Constitution become active?",
-    "options": {
-      "A": "राष्ट्रीय आपातकाल / National Emergency",
-      "B": "राज्य आपातकाल / State Emergency",
-      "C": "वित्तीय आपातकाल / Financial Emergency",
-      "D": "राष्ट्रपति शासन / President's Rule"
-    },
-    "correct_answers": ["A", "B", "C", "D"]
-  },
-  {
-    "id": 50,
-    "question": "भारतीय संविधान में 'समान नागरिक संहिता' (Uniform Civil Code) की अवधारणा किस देश से प्रेरित है? / The concept of 'Uniform Civil Code' in the Indian Constitution is inspired from which country?",
-    "options": {
-      "A": "अमेरिका / USA",
-      "B": "आयरलैंड / Ireland",
-      "C": "ब्रिटेन / Britain",
-      "D": "फ्रांस / France"
-    },
-    "correct_answers": ["B"]
-  },
-  {
-    "id": 51,
-    "question": "भारतीय संविधान में 'संसदीय शासन प्रणाली' (Parliamentary System of Government) किस देश से ली गई है? / From which country has the Indian Constitution adopted the 'Parliamentary System of Government'?",
-    "options": {
-      "A": "ब्रिटेन / Britain",
-      "B": "अमेरिका / USA",
-      "C": "कनाडा / Canada",
-      "D": "ऑस्ट्रेलिया / Australia"
-    },
-    "correct_answers": ["A"]
-  },
-  {
-    "id": 52,
-    "question": "भारतीय संविधान का 'नागरिकों के मौलिक अधिकारों का निलंबन न होना' किस स्रोत से प्रभावित है? / The provision that 'Fundamental Rights of citizens cannot be suspended' is influenced by which source?",
-    "options": {
-      "A": "अमेरिकी संविधान / US Constitution",
-      "B": "आयरिश संविधान / Irish Constitution",
-      "C": "कनाडाई संविधान / Canadian Constitution",
-      "D": "जर्मन संविधान / German Constitution"
-    },
-    "correct_answers": ["A", "D"]
-  },
-  {
-    "id": 53,
-    "question": "'राज्यपाल की नियुक्ति राष्ट्रपति द्वारा' का प्रावधान भारतीय संविधान में कहाँ से आया है? / The provision of 'Appointment of Governor by the President' in the Indian Constitution is taken from which source?",
-    "options": {
-      "A": "कनाडा / Canada",
-      "B": "ब्रिटेन / Britain",
-      "C": "अमेरिका / USA",
-      "D": "ऑस्ट्रेलिया / Australia"
-    },
-    "correct_answers": ["A"]
-  },
-  {
-    "id": 54,
-    "question": "'मंत्रिपरिषद का सामूहिक उत्तरदायित्व' (Collective Responsibility of the Council of Ministers) का स्रोत है – / The source of 'Collective Responsibility of the Council of Ministers' is –",
-    "options": {
-      "A": "अमेरिकी संविधान / US Constitution",
-      "B": "ब्रिटिश संविधान / British Constitution",
-      "C": "कनाडाई संविधान / Canadian Constitution",
-      "D": "फ्रांसीसी संविधान / French Constitution"
-    },
-    "correct_answers": ["B"]
-  },
-  {
-    "id": 55,
-    "question": "भारतीय संविधान का 'संघीय ढांचा लेकिन मजबूत केंद्र' किस विशेषता का परिणाम है? / The 'Federal Structure with a Strong Centre' in the Indian Constitution is a result of which feature?",
-    "options": {
-      "A": "कनाडाई मॉडल / Canadian Model",
-      "B": "ब्रिटिश संसदीय परंपरा / British Parliamentary Tradition",
-      "C": "अमेरिकी संघवाद / US Federalism",
-      "D": "ऑस्ट्रेलियाई द्विसदनीयता / Australian Bicameralism"
-    },
-    "correct_answers": ["A", "B"]
-  },
-  {
-    "id": 56,
-    "question": "'न्यायिक पुनरावलोकन' (Judicial Review) का प्रावधान भारतीय संविधान में किस देश से आया है? / The provision of 'Judicial Review' in the Indian Constitution came from which country?",
-    "options": {
-      "A": "अमेरिका / USA",
-      "B": "ब्रिटेन / Britain",
-      "C": "कनाडा / Canada",
-      "D": "आयरलैंड / Ireland"
-    },
-    "correct_answers": ["A"]
-  },
-  {
-    "id": 57,
-    "question": "'राज्य नीति के निदेशक तत्व' (Directive Principles of State Policy) भारतीय संविधान ने किस देश से लिए हैं? / The Indian Constitution borrowed 'Directive Principles of State Policy' from which country?",
-    "options": {
-      "A": "अमेरिका / USA",
-      "B": "आयरलैंड / Ireland",
-      "C": "कनाडा / Canada",
-      "D": "जापान / Japan"
-    },
-    "correct_answers": ["B"]
-  },
-  {
-    "id": 58,
-    "question": "'राज्यसभा में राज्यों का असमान प्रतिनिधित्व' किस मॉडल से लिया गया है? / 'Unequal Representation of States in Rajya Sabha' is taken from which model?",
-    "options": {
-      "A": "अमेरिकी मॉडल / US Model",
-      "B": "कनाडाई मॉडल / Canadian Model",
-      "C": "ऑस्ट्रेलियाई मॉडल / Australian Model",
-      "D": "ब्रिटिश मॉडल / British Model"
-    },
-    "correct_answers": ["B"]
-  },
-  {
-    "id": 59,
-    "question": "भारतीय संविधान में 'संविधान सर्वोच्च' (Supremacy of Constitution) और 'विधि का शासन' (Rule of Law) का स्रोत क्या है? / What is the source of 'Supremacy of Constitution' and 'Rule of Law' in the Indian Constitution?",
-    "options": {
-      "A": "अमेरिका / USA",
-      "B": "ब्रिटेन / Britain",
-      "C": "कनाडा / Canada",
-      "D": "जर्मनी / Germany"
-    },
-    "correct_answers": ["A", "B"]
-  },
-  {
-    "id": 60,
-    "question": "संविधान में 'आपातकालीन प्रावधान' (Emergency Provisions) का स्रोत है – / The source of 'Emergency Provisions' in the Constitution is –",
-    "options": {
-      "A": "जर्मनी / Germany",
-      "B": "अमेरिका / USA",
-      "C": "ब्रिटेन / Britain",
-      "D": "कनाडा / Canada"
-    },
-    "correct_answers": ["A"]
-  },
-  {
-    "id": 61,
-    "question": "भारतीय संविधान में 'मौलिक कर्तव्य' (Fundamental Duties) का समावेश किस देश से प्रेरित है? / The inclusion of 'Fundamental Duties' in the Indian Constitution is inspired by which country?",
-    "options": {
-      "A": "रूस (USSR) / USSR (Russia)",
-      "B": "अमेरिका / USA",
-      "C": "जर्मनी / Germany",
-      "D": "फ्रांस / France"
-    },
-    "correct_answers": ["A"]
-  },
-  {
-    "id": 62,
-    "question": "'उच्चतम न्यायालय की सलाहकार क्षेत्राधिकार' (Advisory Jurisdiction of Supreme Court) का स्रोत क्या है? / What is the source of 'Advisory Jurisdiction of the Supreme Court'?",
-    "options": {
-      "A": "ब्रिटेन / Britain",
-      "B": "कनाडा / Canada",
-      "C": "अमेरिका / USA",
-      "D": "आयरलैंड / Ireland"
-    },
-    "correct_answers": ["B"]
-  },
-  {
-    "id": 63,
-    "question": "भारतीय संविधान में 'संयुक्त बैठक' (Joint Sitting of Parliament) का प्रावधान किस देश से लिया गया है? / The provision of 'Joint Sitting of Parliament' in the Indian Constitution is taken from which country?",
-    "options": {
-      "A": "ऑस्ट्रेलिया / Australia",
-      "B": "अमेरिका / USA",
-      "C": "ब्रिटेन / Britain",
-      "D": "कनाडा / Canada"
-    },
-    "correct_answers": ["A"]
-  },
-  {
-    "id": 64,
-    "question": "भारतीय संविधान में 'मंत्रिपरिषद को मंत्रिमंडल के रूप में मान्यता' किस देश के मॉडल पर आधारित है? / Recognition of 'Council of Ministers as Cabinet' in Indian Constitution is based on which country's model?",
-    "options": {
-      "A": "अमेरिका / USA",
-      "B": "ब्रिटेन / Britain",
-      "C": "कनाडा / Canada",
-      "D": "फ्रांस / France"
-    },
-    "correct_answers": ["B"]
-  },
-  {
-    "id": 65,
-    "question": "'संविधान संशोधन प्रक्रिया' (Constitutional Amendment Process) का मिश्रित स्वरूप किस-किस देश से लिया गया है? / The mixed form of 'Constitutional Amendment Process' in the Indian Constitution is taken from which countries?",
-    "options": {
-      "A": "अमेरिका / USA",
-      "B": "दक्षिण अफ्रीका / South Africa",
-      "C": "कनाडा / Canada",
-      "D": "जर्मनी / Germany"
-    },
-    "correct_answers": ["A", "C"]
-  },
-  {
-    "id": 66,
-    "question": "भारतीय संविधान में 'संघीय ढाँचे के साथ एकात्मक भावना' का अर्थ किन विशेषताओं से स्पष्ट होता है? / In the Indian Constitution, the term 'Federal structure with Unitary spirit' is reflected through which features?",
-    "options": {
-      "A": "राज्यों के लिए एकल संविधान / Single Constitution for States",
-      "B": "आपातकाल की स्थिति में संसद का राज्यों के विषयों पर कानून बनाना / Parliament legislating on State subjects during Emergency",
-      "C": "उच्च न्यायपालिका का एकीकृत ढाँचा / Integrated Judiciary",
-      "D": "राज्यों के लिए अलग संवैधानिक संशोधन प्रक्रिया / Separate constitutional amendment process for States"
-    },
-    "correct_answers": ["A", "B", "C"]
-  },
-  {
-    "id": 67,
-    "question": "संविधान में राज्यों को प्रदत्त अवशिष्ट शक्तियों का निर्धारण किस देश के संविधान से लिया गया है? / The provision of residuary powers to the Union in the Constitution is borrowed from which country's constitution?",
-    "options": {
-      "A": "ब्रिटेन / Britain",
-      "B": "कनाडा / Canada",
-      "C": "अमेरिका / USA",
-      "D": "ऑस्ट्रेलिया / Australia"
-    },
-    "correct_answers": ["B"]
-  },
-  {
-    "id": 68,
-    "question": "भारतीय संघीय ढाँचे में 'राज्यों का पुनर्गठन' का अधिकार किन संवैधानिक प्रावधानों में निहित है? / The power of 'reorganisation of states' in the Indian federal structure is vested under which constitutional provisions?",
-    "options": {
-      "A": "अनुच्छेद 2 / Article 2",
-      "B": "अनुच्छेद 3 / Article 3",
-      "C": "अनुच्छेद 4 / Article 4",
-      "D": "अनुच्छेद 5 / Article 5"
-    },
-    "correct_answers": ["A", "B", "C"]
-  },
-  {
-    "id": 69,
-    "question": "संविधान के किन प्रावधानों में 'संघीय ढाँचे' की अपेक्षा 'एकात्मकता' अधिक स्पष्ट है? / In which provisions of the Constitution is 'unitarism' more evident than 'federalism'?",
-    "options": {
-      "A": "राज्यों का परिसीमन / Delimitation of States",
-      "B": "संविधान संशोधन की समान प्रक्रिया / Uniform constitutional amendment procedure",
-      "C": "एकल नागरिकता / Single Citizenship",
-      "D": "राज्यों को संप्रभु स्थिति / Sovereign status to States"
-    },
-    "correct_answers": ["A", "B", "C"]
-  },
-  {
-    "id": 70,
-    "question": "भारतीय संविधान में संघीय ढाँचे की विशेषताओं में निम्न में से कौन शामिल हैं? / Which of the following are included in the federal features of the Indian Constitution?",
-    "options": {
-      "A": "शक्तियों का विभाजन / Division of Powers",
-      "B": "स्वतंत्र न्यायपालिका / Independent Judiciary",
-      "C": "अवशिष्ट शक्तियाँ राज्यों में / Residuary powers with States",
-      "D": "लिखित संविधान / Written Constitution"
-    },
-    "correct_answers": ["A", "B", "D"]
-  },
-  {
-    "id": 71,
-    "question": "केंद्रीय सूची, राज्य सूची और समवर्ती सूची का प्रावधान भारतीय संविधान में किस अनुसूची में है? / In which Schedule of the Indian Constitution are the Union List, State List, and Concurrent List provided?",
-    "options": {
-      "A": "सातवीं अनुसूची / Seventh Schedule",
-      "B": "छठी अनुसूची / Sixth Schedule",
-      "C": "आठवीं अनुसूची / Eighth Schedule",
-      "D": "नौवीं अनुसूची / Ninth Schedule"
-    },
-    "correct_answers": ["A"]
-  },
-  {
-    "id": 72,
-    "question": "संविधान सभा ने संघीय ढाँचे का विचार किन दो देशों से मुख्य रूप से ग्रहण किया था? / From which two countries did the Constituent Assembly primarily borrow the idea of the federal structure?",
-    "options": {
-      "A": "अमेरिका / USA",
-      "B": "कनाडा / Canada",
-      "C": "ब्रिटेन / Britain",
-      "D": "ऑस्ट्रेलिया / Australia"
-    },
-    "correct_answers": ["A", "B"]
-  },
-  {
-    "id": 73,
-    "question": "भारतीय संविधान में 'आपातकालीन प्रावधान' किन देशों के संविधान से प्रेरित हैं? / The Emergency provisions in the Indian Constitution are inspired by the constitution of which countries?",
-    "options": {
-      "A": "जर्मनी / Germany",
-      "B": "अमेरिका / USA",
-      "C": "कनाडा / Canada",
-      "D": "ब्रिटेन / Britain"
-    },
-    "correct_answers": ["A", "B"]
-  },
-  {
-    "id": 74,
-    "question": "संघीय ढाँचे में उच्च न्यायपालिका का एकीकृत स्वरूप किस सिद्धांत का उल्लंघन करता है? / The integrated structure of the higher judiciary in the federal framework violates which principle?",
-    "options": {
-      "A": "शक्तियों का पृथक्करण / Separation of Powers",
-      "B": "राज्यों की पूर्ण स्वायत्तता / Complete autonomy of States",
-      "C": "संवैधानिक सर्वोच्चता / Constitutional Supremacy",
-      "D": "एकात्मक शासन / Unitary governance"
-    },
-    "correct_answers": ["B"]
-  },
-  {
-    "id": 75,
-    "question": "भारतीय संविधान में 'सिंगल सिटिजनशिप' की अवधारणा किस देश से ली गई है? / The concept of 'Single Citizenship' in the Indian Constitution is borrowed from which country?",
-    "options": {
-      "A": "अमेरिका / USA",
-      "B": "कनाडा / Canada",
-      "C": "ब्रिटेन / Britain",
-      "D": "ऑस्ट्रेलिया / Australia"
-    },
-    "correct_answers": ["C"]
-  },
-  {
-    "id": 76,
-    "question": "भारतीय संविधान के किन अनुच्छेदों में संघीय ढाँचे की परिभाषा और शक्तियों का विभाजन स्पष्ट किया गया है? / Which Articles of the Indian Constitution explicitly define the federal structure and division of powers?",
-    "options": {
-      "A": "अनुच्छेद 245 / Article 245",
-      "B": "अनुच्छेद 246 / Article 246",
-      "C": "अनुच्छेद 249 / Article 249",
-      "D": "अनुच्छेद 262 / Article 262"
-    },
-    "correct_answers": ["A", "B", "C"]
-  },
-  {
-    "id": 77,
-    "question": "संविधान के किस भाग में संघीय ढाँचे के साथ एकात्मक भावना का सबसे अधिक प्रभाव दिखता है? / In which part of the Constitution is the unitary spirit most prominent within the federal framework?",
-    "options": {
-      "A": "भाग XI / Part XI",
-      "B": "भाग XII / Part XII",
-      "C": "भाग XVIII / Part XVIII",
-      "D": "भाग III / Part III"
-    },
-    "correct_answers": ["A", "C"]
-  },
-  {
-    "id": 78,
-    "question": "संविधान में संघीय ढाँचे की कौन-सी विशेषता ब्रिटेन से नहीं ली गई है? / Which feature of the federal structure in the Constitution is NOT borrowed from Britain?",
-    "options": {
-      "A": "संसदीय शासन प्रणाली / Parliamentary system",
-      "B": "कैबिनेट प्रणाली / Cabinet system",
-      "C": "संघीय सूचियाँ / Federal lists",
-      "D": "कानून का शासन / Rule of Law"
-    },
-    "correct_answers": ["C"]
-  },
-  {
-    "id": 79,
-    "question": "भारतीय संविधान में संघीय विशेषताओं में 'लिखित संविधान' किस कारण से आवश्यक था? / Why was a 'Written Constitution' necessary as part of the federal features in the Indian Constitution?",
-    "options": {
-      "A": "शक्तियों के विभाजन को स्पष्ट करने हेतु / To clearly define the division of powers",
-      "B": "न्यायपालिका को मजबूत बनाने हेतु / To strengthen the judiciary",
-      "C": "आपातकालीन प्रावधान जोड़ने हेतु / To include emergency provisions",
-      "D": "राज्यों की संप्रभुता सुनिश्चित करने हेतु / To ensure sovereignty of states"
-    },
-    "correct_answers": ["A", "B"]
-  },
-  {
-    "id": 80,
-    "question": "संविधान में संघीय ढाँचे का आधार किन दो मुख्य तत्वों पर टिका है? / The federal framework in the Constitution is primarily based on which two key elements?",
-    "options": {
-      "A": "शक्तियों का विभाजन / Division of Powers",
-      "B": "संविधान की सर्वोच्चता / Supremacy of the Constitution",
-      "C": "न्यायपालिका की स्वतंत्रता / Independence of Judiciary",
-      "D": "संसदीय विशेषाधिकार / Parliamentary Privileges"
-    },
-    "correct_answers": ["A", "B"]
-  },
-  {
-    "id": 81,
-    "question": "भारतीय संविधान में कितने भाग (Parts) हैं, और कौन सा भाग संविधान के संशोधन की प्रक्रिया से संबंधित है? / How many Parts are there in the Indian Constitution, and which Part deals with the procedure for Constitutional Amendment?",
-    "options": {
-      "A": "25 भाग, भाग XX",
-      "B": "22 भाग, भाग XVIII",
-      "C": "25 भाग, भाग XIX",
-      "D": "26 भाग, भाग XX"
-    },
-    "correct_answers": ["A"]
-  },
-  {
-    "id": 82,
-    "question": "भारतीय संविधान की 12 अनुसूचियों में से किस अनुसूची में राज्यों और केंद्र के बीच विधायी विषयों का विभाजन किया गया है? / Which Schedule of the Indian Constitution contains the division of legislative subjects between the Union and the States?",
-    "options": {
-      "A": "सातवीं अनुसूची / Seventh Schedule",
-      "B": "आठवीं अनुसूची / Eighth Schedule",
-      "C": "नवीं अनुसूची / Ninth Schedule",
-      "D": "दसवीं अनुसूची / Tenth Schedule"
-    },
-    "correct_answers": ["A"]
-  },
-  {
-    "id": 83,
-    "question": "चुनाव आयोग के संबंध में निम्न में से कौन-सा/से कथन सही है/हैं? / Which of the following statements about the Election Commission are correct?",
-    "options": {
-      "A": "यह अनुच्छेद 324 में प्रावधानित है / It is provided under Article 324",
-      "B": "यह केवल लोकसभा चुनाव कराता है / It conducts only Lok Sabha elections",
-      "C": "मुख्य चुनाव आयुक्त को केवल संसद के दोनों सदनों के विशेष बहुमत से ही हटाया जा सकता है / Chief Election Commissioner can be removed only by special majority of both Houses of Parliament",
-      "D": "राज्य चुनाव आयोग का गठन इसी के अंतर्गत होता है / State Election Commission is constituted under it"
-    },
-    "correct_answers": ["A", "C"]
-  },
-  {
-    "id": 84,
-    "question": "नियंत्रक एवं महालेखा परीक्षक (CAG) का कार्यकाल और हटाने की प्रक्रिया किसके समान है? / The tenure and removal procedure of the Comptroller and Auditor General (CAG) is similar to that of?",
-    "options": {
-      "A": "प्रधानमंत्री / Prime Minister",
-      "B": "सुप्रीम कोर्ट के न्यायाधीश / Supreme Court Judge",
-      "C": "राज्यपाल / Governor",
-      "D": "लोकसभा अध्यक्ष / Speaker of Lok Sabha"
-    },
-    "correct_answers": ["B"]
-  },
-  {
-    "id": 85,
-    "question": "संविधान के किस अनुच्छेद में UPSC की स्थापना का प्रावधान है? / Under which Article of the Constitution is the UPSC provided?",
-    "options": {
-      "A": "अनुच्छेद 315 / Article 315",
-      "B": "अनुच्छेद 320 / Article 320",
-      "C": "अनुच्छेद 312 / Article 312",
-      "D": "अनुच्छेद 324 / Article 324"
-    },
-    "correct_answers": ["A"]
-  },
-  {
-    "id": 86,
-    "question": "राज्य लोक सेवा आयोग (SPSC) के संबंध में कौन से कथन सही हैं? / Which statements are correct regarding State Public Service Commission (SPSC)?",
-    "options": {
-      "A": "अनुच्छेद 315 से 323 तक के प्रावधान लागू होते हैं / Provisions of Articles 315 to 323 apply",
-      "B": "अध्यक्ष को राज्यपाल द्वारा नियुक्त किया जाता है / Chairman is appointed by the Governor",
-      "C": "हटाने का अधिकार राष्ट्रपति के पास होता है / Power of removal lies with the President",
-      "D": "यह राज्य सरकार के अधीन काम करता है / Works under State Government"
-    },
-    "correct_answers": ["A", "B", "C"]
-  },
-  {
-    "id": 87,
-    "question": "वित्त आयोग के बारे में निम्नलिखित में से कौन-से कथन सही हैं? / Which of the following statements about Finance Commission are correct?",
-    "options": {
-      "A": "अनुच्छेद 280 में प्रावधानित है / Provided under Article 280",
-      "B": "हर 5 वर्ष में राष्ट्रपति द्वारा नियुक्त / Appointed by the President every 5 years",
-      "C": "केवल राज्यों के कर-स्रोतों का निर्धारण करता है / Determines only the tax sources of states",
-      "D": "केंद्र और राज्यों के बीच कर-विभाजन की सिफारिश करता है / Recommends tax distribution between Centre and States"
-    },
-    "correct_answers": ["A", "B", "D"]
-  },
-  {
-    "id": 88,
-    "question": "उत्तर प्रदेश लोकायुक्त के संबंध में कौन-सा कथन सही नहीं है? / Which statement about UP Lokayukta is NOT correct?",
-    "options": {
-      "A": "यह राज्यपाल द्वारा नियुक्त किया जाता है / Appointed by the Governor",
-      "B": "इसका कार्यकाल 6 वर्ष या 65 वर्ष की आयु, जो पहले हो / Tenure is 6 years or 65 years of age, whichever is earlier",
-      "C": "इसे केवल मुख्यमंत्री द्वारा हटाया जा सकता है / Can be removed only by the Chief Minister",
-      "D": "भ्रष्टाचार के मामलों की जांच करता है / Investigates cases of corruption"
-    },
-    "correct_answers": ["C"]
-  },
-  {
-    "id": 89,
-    "question": "राज्य निर्वाचन आयोग (State Election Commission) के संबंध में सही कथन कौन से हैं? / Which statements about the State Election Commission are correct?",
-    "options": {
-      "A": "यह अनुच्छेद 243K में प्रावधानित है / Provided under Article 243K",
-      "B": "अध्यक्ष को राष्ट्रपति नियुक्त करता है / Chairman is appointed by the President",
-      "C": "पंचायत और नगर निकाय चुनाव कराता है / Conducts Panchayat and Municipal elections",
-      "D": "अध्यक्ष को राज्यपाल नियुक्त करता है / Chairman is appointed by the Governor"
-    },
-    "correct_answers": ["A", "C", "D"]
-  },
-  {
-    "id": 90,
-    "question": "भारतीय संविधान की किस अनुसूची में भाषाओं की सूची दी गई है? / Which Schedule of the Indian Constitution contains the list of languages?",
-    "options": {
-      "A": "आठवीं अनुसूची / Eighth Schedule",
-      "B": "सातवीं अनुसूची / Seventh Schedule",
-      "C": "छठी अनुसूची / Sixth Schedule",
-      "D": "नवीं अनुसूची / Ninth Schedule"
-    },
-    "correct_answers": ["A"]
-  },
-  {
-    "id": 91,
-    "question": "भारतीय संविधान में कितने भाग मूल रूप से थे और वर्तमान में कितने हैं? / How many Parts were there originally in the Indian Constitution and how many are there at present?",
-    "options": {
-      "A": "मूलतः 22, वर्तमान में 25 / Originally 22, now 25",
-      "B": "मूलतः 20, वर्तमान में 25 / Originally 20, now 25",
-      "C": "मूलतः 22, वर्तमान में 24 / Originally 22, now 24",
-      "D": "मूलतः 20, वर्तमान में 22 / Originally 20, now 22"
-    },
-    "correct_answers": ["A"]
-  },
-  {
-    "id": 92,
-    "question": "अनुच्छेद 148 से 151 किससे संबंधित हैं? / Articles 148 to 151 are related to?",
-    "options": {
-      "A": "UPSC",
-      "B": "CAG",
-      "C": "Finance Commission",
-      "D": "Election Commission"
-    },
-    "correct_answers": ["B"]
-  },
-  {
-    "id": 93,
-    "question": "UPSC के सदस्य बनने के लिए अधिकतम आयु और कार्यकाल की सीमा क्या है? / What is the maximum age limit and tenure for a member of UPSC?",
-    "options": {
-      "A": "65 वर्ष या 6 वर्ष / 65 years or 6 years",
-      "B": "62 वर्ष या 5 वर्ष / 62 years or 5 years",
-      "C": "65 वर्ष या 5 वर्ष / 65 years or 5 years",
-      "D": "62 वर्ष या 6 वर्ष / 62 years or 6 years"
-    },
-    "correct_answers": ["A"]
-  },
-  {
-    "id": 94,
-    "question": "वित्त आयोग की सिफारिशें / Recommendations of Finance Commission:",
-    "options": {
-      "A": "बाध्यकारी होती हैं / Binding",
-      "B": "सिर्फ परामर्शात्मक होती हैं / Merely advisory",
-      "C": "राष्ट्रपति द्वारा स्वीकार या अस्वीकार की जा सकती हैं / Can be accepted or rejected by the President",
-      "D": "संसद की स्वीकृति आवश्यक / Requires Parliament's approval"
-    },
-    "correct_answers": ["B", "C"]
-  },
-  {
-    "id": 95,
-    "question": "भारतीय संविधान की कौन-सी अनुसूची में केंद्र और राज्यों के बीच प्रशासनिक संबंधों का प्रावधान है? / Which Schedule of the Indian Constitution contains provisions on administrative relations between Centre and States?",
-    "options": {
-      "A": "सातवीं अनुसूची / Seventh Schedule",
-      "B": "ग्यारहवीं अनुसूची / Eleventh Schedule",
-      "C": "छठी अनुसूची / Sixth Schedule",
-      "D": "कोई अनुसूची नहीं, यह भाग XI में है / No Schedule, in Part XI"
-    },
-    "correct_answers": ["D"]
-  },
-  {
-    "id": 96,
-    "question": "निम्न में से कौन-सा/से कथन सही है/हैं? / Which of the following is/are correct?",
-    "options": {
-      "A": "CAG का वेतन संसद द्वारा निर्धारित होता है / Salary of CAG is determined by Parliament",
-      "B": "CAG का वेतन भारत के मुख्य न्यायाधीश के वेतन के बराबर होता है / Salary equals that of CJI",
-      "C": "CAG अपने कार्यकाल के दौरान किसी अन्य लाभकारी पद पर नहीं रह सकता / CAG cannot hold any other office of profit during tenure",
-      "D": "CAG का कार्यकाल 6 वर्ष या 65 वर्ष की आयु, जो पहले हो / CAG tenure is 6 years or 65 years of age, whichever earlier"
-    },
-    "correct_answers": ["A", "C", "D"]
-  },
-  {
-    "id": 97,
-    "question": "राज्य लोक सेवा आयोग के अध्यक्ष को हटाने के संबंध में सही कथन चुनें / Choose the correct statements regarding removal of Chairman of State PSC:",
-    "options": {
-      "A": "राष्ट्रपति द्वारा हटाया जा सकता है / Can be removed by the President",
-      "B": "सुप्रीम कोर्ट की जांच के बाद / After inquiry by Supreme Court",
-      "C": "राज्यपाल के आदेश से हटाया जाता है / Removed by Governor's order",
-      "D": "विधानसभा का बहुमत आवश्यक / Majority of State Legislature required"
-    },
-    "correct_answers": ["A", "B"]
-  },
-  {
-    "id": 98,
-    "question": "राज्य निर्वाचन आयोग के बारे में गलत कथन चुनें / Choose the incorrect statement about State Election Commission:",
-    "options": {
-      "A": "यह अनुच्छेद 243K में प्रावधानित है / Provided under Article 243K",
-      "B": "अध्यक्ष का कार्यकाल 6 वर्ष या 65 वर्ष / Chairman's tenure 6 years or 65 years",
-      "C": "अध्यक्ष को राष्ट्रपति हटाते हैं / Removed by the President",
-      "D": "यह पंचायत और नगरपालिका चुनाव कराता है / Conducts Panchayat and Municipal elections"
-    },
-    "correct_answers": ["C"]
-  },
-  {
-    "id": 99,
-    "question": "UP लोकायुक्त की नियुक्ति समिति में कौन-कौन होते हैं? / Who are the members of UP Lokayukta appointment committee?",
-    "options": {
-      "A": "मुख्यमंत्री / Chief Minister",
-      "B": "विधानसभा अध्यक्ष / Speaker of Legislative Assembly",
-      "C": "विपक्ष के नेता / Leader of Opposition",
-      "D": "राज्यपाल / Governor"
-    },
-    "correct_answers": ["A", "B", "C"]
-  },
-  {
-    "id": 100,
-    "question": "आठवीं अनुसूची में मूलतः कितनी भाषाएं थीं और वर्तमान में कितनी हैं? / How many languages were there originally and how many are there now in the Eighth Schedule?",
-    "options": {
-      "A": "14 मूल, अब 22 / 14 original, now 22",
-      "B": "15 मूल, अब 22 / 15 original, now 22",
-      "C": "14 मूल, अब 21 / 14 original, now 21",
-      "D": "12 मूल, अब 22 / 12 original, now 22"
-    },
-    "correct_answers": ["A"]
-  },
-  {
-    "id": 101,
-    "question": "भारतीय संविधान में वित्त आयोग की रिपोर्ट संसद के किस सदन में प्रस्तुत की जाती है? / In which House of Parliament is the Finance Commission report presented?",
-    "options": {
-      "A": "लोकसभा / Lok Sabha",
-      "B": "राज्यसभा / Rajya Sabha",
-      "C": "दोनों सदन / Both Houses",
-      "D": "केवल राष्ट्रपति को / Only to the President"
-    },
-    "correct_answers": ["C"]
-  },
-  {
-    "id": 102,
-    "question": "नियंत्रक एवं महालेखा परीक्षक (CAG) का पद / The office of CAG:",
-    "options": {
-      "A": "संवैधानिक पद है / Constitutional post",
-      "B": "सांविधिक पद है / Statutory post",
-      "C": "अर्ध-न्यायिक पद है / Quasi-judicial post",
-      "D": "केवल कार्यपालिका का हिस्सा / Only part of executive"
-    },
-    "correct_answers": ["A"]
-  },
-  {
-    "id": 103,
-    "question": "राज्य लोक सेवा आयोग की वार्षिक रिपोर्ट / Annual report of State PSC:",
-    "options": {
-      "A": "राज्यपाल को सौंपी जाती है / Submitted to the Governor",
-      "B": "राज्यपाल इसे राज्य विधानसभा में रखवाते हैं / Governor lays it before State Legislature",
-      "C": "यह रिपोर्ट संसद को भेजी जाती है / Sent to Parliament",
-      "D": "रिपोर्ट में आयोग की कार्यप्रणाली और सिफारिशें होती हैं / Contains working and recommendations"
-    },
-    "correct_answers": ["A", "B", "D"]
-  },
-  {
-    "id": 104,
-    "question": "ग्यारहवीं और बारहवीं अनुसूची के संबंध में सही कथन / Correct statements about Eleventh and Twelfth Schedules:",
-    "options": {
-      "A": "ग्यारहवीं पंचायतों से संबंधित / Eleventh relates to Panchayats",
-      "B": "बारहवीं नगरपालिकाओं से संबंधित / Twelfth relates to Municipalities",
-      "C": "दोनों 73वें और 74वें संशोधन द्वारा जोड़ी गईं / Both added by 73rd and 74th Amendments",
-      "D": "बारहवीं में 29 विषय हैं / Twelfth has 29 subjects"
-    },
-    "correct_answers": ["A", "B", "C"]
-  },
-  {
-    "id": 105,
-    "question": "UP लोकायुक्त का अधिकार क्षेत्र किन पर लागू नहीं होता? / UP Lokayukta jurisdiction does NOT apply to:",
-    "options": {
-      "A": "मुख्यमंत्री / Chief Minister",
-      "B": "न्यायपालिका / Judiciary",
-      "C": "विधानसभा अध्यक्ष / Speaker of Legislative Assembly",
-      "D": "मंत्रिपरिषद के सदस्य / Council of Ministers"
-    },
-    "correct_answers": ["B"]
-  },
-  {
-    "id": 106,
-    "question": "भारत के चुनाव आयोग के अंतर्गत कितने सदस्य होते हैं? / How many members are there in the Election Commission of India?",
-    "options": {
-      "A": "एक / One",
-      "B": "तीन / Three",
-      "C": "एक मुख्य और दो निर्वाचन आयुक्त / One Chief and two Election Commissioners",
-      "D": "परिवर्तनीय संख्या / Variable number"
-    },
-    "correct_answers": ["C", "D"]
-  },
-  {
-    "id": 107,
-    "question": "UPSC की सलाह / Advice of UPSC:",
-    "options": {
-      "A": "बाध्यकारी होती है / Binding",
-      "B": "बाध्यकारी नहीं होती / Not binding",
-      "C": "केवल नियुक्तियों में बाध्यकारी / Binding only in appointments",
-      "D": "सरकार द्वारा अस्वीकार की जा सकती है / Can be rejected by Government"
-    },
-    "correct_answers": ["B", "D"]
-  },
-  {
-    "id": 108,
-    "question": "भारतीय संविधान का कौन-सा भाग पंचायतों और नगरपालिकाओं से संबंधित है? / Which Part of the Indian Constitution relates to Panchayats and Municipalities?",
-    "options": {
-      "A": "भाग IX और IXA / Part IX and IXA",
-      "B": "भाग XI और XII / Part XI and XII",
-      "C": "भाग IX और X / Part IX and X",
-      "D": "भाग X और XI / Part X and XI"
-    },
-    "correct_answers": ["A"]
-  },
-  {
-    "id": 109,
-    "question": "CAG की ऑडिट रिपोर्ट किसे भेजी जाती है? / To whom is the CAG's audit report submitted?",
-    "options": {
-      "A": "राष्ट्रपति / President",
-      "B": "राज्यपाल / Governor",
-      "C": "संसद / Parliament",
-      "D": "राज्य विधानमंडल / State Legislature"
-    },
-    "correct_answers": ["A", "B"]
-  },
-  {
-    "id": 110,
-    "question": "निम्न में से कौन-सा विषय केवल संसद के अधीन है? / Which of the following subjects is exclusively under Parliament?",
-    "options": {
-      "A": "भारत के चुनाव आयोग का गठन / Establishment of Election Commission of India",
-      "B": "राज्य लोक सेवा आयोग का गठन / Establishment of State PSC",
-      "C": "वित्त आयोग का गठन / Establishment of Finance Commission",
-      "D": "भाषाओं की सूची में परिवर्तन / Alteration in the list of languages"
-    },
-    "correct_answers": ["A", "C", "D"]
-  },
-  {
-    "id": 111,
-    "question": "बारहवीं अनुसूची में कितने विषय हैं? / How many subjects are in the Twelfth Schedule?",
-    "options": {
-      "A": "18",
-      "B": "29",
-      "C": "17",
-      "D": "21"
-    },
-    "correct_answers": ["A"]
-  },
-  {
-    "id": 112,
-    "question": "भारतीय संविधान का कौन-सा भाग संघ और राज्यों के बीच वित्तीय संबंधों से संबंधित है? / Which Part of the Constitution relates to financial relations between Union and States?",
-    "options": {
-      "A": "भाग XI / Part XI",
-      "B": "भाग XII / Part XII",
-      "C": "भाग XIII / Part XIII",
-      "D": "भाग X / Part X"
-    },
-    "correct_answers": ["B"]
-  },
-  {
-    "id": 113,
-    "question": "UP लोकायुक्त की सिफारिशें / Recommendations of UP Lokayukta:",
-    "options": {
-      "A": "बाध्यकारी होती हैं / Binding",
-      "B": "परामर्शात्मक होती हैं / Advisory",
-      "C": "राज्यपाल द्वारा लागू की जाती हैं / Implemented by Governor",
-      "D": "सरकार द्वारा स्वीकार या अस्वीकार की जा सकती हैं / Can be accepted or rejected by Government"
-    },
-    "correct_answers": ["B", "D"]
-  },
-  {
-    "id": 114,
-    "question": "भारतीय संविधान में UPSC की वार्षिक रिपोर्ट किस अनुच्छेद के अंतर्गत है? / Under which Article is the annual report of UPSC mentioned?",
-    "options": {
-      "A": "अनुच्छेद 320 / Article 320",
-      "B": "अनुच्छेद 322 / Article 322",
-      "C": "अनुच्छेद 323 / Article 323",
-      "D": "अनुच्छेद 315 / Article 315"
-    },
-    "correct_answers": ["B"]
-  },
-  {
-    "id": 115,
-    "question": "कौन-सी अनुसूची में जनजातीय क्षेत्रों के प्रशासन का प्रावधान है? / Which Schedule contains provisions for administration of tribal areas?",
-    "options": {
-      "A": "पांचवीं अनुसूची / Fifth Schedule",
-      "B": "छठी अनुसूची / Sixth Schedule",
-      "C": "सातवीं अनुसूची / Seventh Schedule",
-      "D": "ग्यारहवीं अनुसूची / Eleventh Schedule"
-    },
-    "correct_answers": ["A", "B"]
-  },
-  {
-    "id": 116,
-    "question": "वित्त आयोग के गठन के लिए राष्ट्रपति किस अनुच्छेद के अंतर्गत आदेश जारी करते हैं? / Under which Article does the President issue an order to constitute the Finance Commission?",
-    "options": {
-      "A": "अनुच्छेद 280 / Article 280",
-      "B": "अनुच्छेद 281 / Article 281",
-      "C": "अनुच्छेद 282 / Article 282",
-      "D": "अनुच्छेद 283 / Article 283"
-    },
-    "correct_answers": ["A"]
-  },
-  {
-    "id": 117,
-    "question": "राज्य निर्वाचन आयोग की नियुक्ति में राज्यपाल को किससे परामर्श लेना आवश्यक है? / Governor must consult whom while appointing State Election Commissioner?",
-    "options": {
-      "A": "मुख्यमंत्री / Chief Minister",
-      "B": "मुख्य न्यायाधीश, उच्च न्यायालय / Chief Justice of High Court",
-      "C": "राज्य लोक सेवा आयोग के अध्यक्ष / Chairman of State PSC",
-      "D": "विधानसभा अध्यक्ष / Speaker of Legislative Assembly"
-    },
-    "correct_answers": ["B"]
-  },
-  {
-    "id": 118,
-    "question": "भारतीय संविधान की सातवीं अनुसूची में कितनी सूचियां हैं? / How many lists are there in the Seventh Schedule of the Constitution?",
-    "options": {
-      "A": "2",
-      "B": "3",
-      "C": "4",
-      "D": "5"
-    },
-    "correct_answers": ["B"]
-  },
-  {
-    "id": 119,
-    "question": "भारतीय संविधान के किस अनुच्छेद में CAG की शपथ का प्रावधान है? / Under which Article is the oath of CAG provided?",
-    "options": {
-      "A": "148(2)",
-      "B": "149",
-      "C": "150",
-      "D": "151"
-    },
-    "correct_answers": ["A"]
-  },
-  {
-    "id": 120,
-    "question": "UP लोकायुक्त का कार्यक्षेत्र / Jurisdiction of UP Lokayukta covers:",
-    "options": {
-      "A": "राज्य मंत्रिपरिषद / State Council of Ministers",
-      "B": "MLAs",
-      "C": "न्यायपालिका / Judiciary",
-      "D": "राज्य सरकार के अधीन अधिकारी / Officers under State Government"
-    },
-    "correct_answers": ["A", "B", "D"]
+    "answer": ["A"]
   }
 ]
-
-
-
-
-
-
