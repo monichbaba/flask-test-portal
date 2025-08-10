@@ -1,535 +1,662 @@
 [
-    {
-        "id": 1,
-        "question": "सकल घरेलू उत्पाद (GDP) क्या दर्शाता है? / What does Gross Domestic Product (GDP) represent?",
-        "options": {
-            "A": "एक देश में उत्पादन की कुल मूल्य / Total value of production within a country",
-            "B": "एक देश के नागरिकों की आय / Income of citizens of a country",
-            "C": "देश की कुल निर्यात मात्रा / Total exports of a country",
-            "D": "देश की कुल आयात मात्रा / Total imports of a country"
-        },
-        "answer": [
-            "A"
-        ]
+  {
+    "id": 1,
+    "question": "भारतीय रिज़र्व बैंक का प्राथमिक उद्देश्य क्या है? / What is the primary objective of the Reserve Bank of India?",
+    "options": {
+      "A": "मुद्रा की स्थिरता बनाए रखना (Maintain monetary stability)",
+      "B": "कर संग्रह करना (Collect taxes)",
+      "C": "राजकोषीय घाटा नियंत्रित करना (Control fiscal deficit)",
+      "D": "विदेश नीति बनाना (Formulate foreign policy)"
     },
-    {
-        "id": 2,
-        "question": "सकल राष्ट्रीय उत्पाद (GNP) में क्या शामिल होता है? / What is included in Gross National Product (GNP)?",
-        "options": {
-            "A": "देश के भीतर उत्पादन का मूल्य / Value of production inside the country",
-            "B": "देश के नागरिकों द्वारा विदेशों में अर्जित आय / Income earned by nationals abroad",
-            "C": "विदेशी नागरिकों द्वारा देश में अर्जित आय / Income earned by foreigners inside the country",
-            "D": "सरकारी कर / Government taxes"
-        },
-        "answer": [
-            "A",
-            "B"
-        ]
+    "answer": ["A"]
+  },
+  {
+    "id": 2,
+    "question": "RBI द्वारा जारी की जाने वाली मौद्रिक नीति में कौन-कौन से उपकरण शामिल हैं? / Which instruments are included in RBI's monetary policy?",
+    "options": {
+      "A": "रेपो रेट (Repo rate)",
+      "B": "कैश रिजर्व रेशियो (CRR)",
+      "C": "राजकोषीय घाटा (Fiscal deficit)",
+      "D": "ओपन मार्केट ऑपरेशंस (Open Market Operations)"
     },
-    {
-        "id": 3,
-        "question": "नेट राष्ट्रीय उत्पाद (NNP) कैसे प्राप्त किया जाता है? / How is Net National Product (NNP) calculated?",
-        "options": {
-            "A": "GNP - depreciation (मूल्यह्रास)",
-            "B": "GDP - depreciation",
-            "C": "GNP + depreciation",
-            "D": "GDP + depreciation"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 3,
+    "question": "2024 में RBI की रेपो रेट क्या है? / What is the repo rate of RBI in 2024?",
+    "options": {
+      "A": "5.9%",
+      "B": "6.5%",
+      "C": "6.25%",
+      "D": "7.0%"
     },
-    {
-        "id": 4,
-        "question": "राष्ट्रीय आय (National Income) किससे मापी जाती है? / National Income is measured by?",
-        "options": {
-            "A": "NNP at market price",
-            "B": "NNP at factor cost",
-            "C": "GDP at market price",
-            "D": "GNP at factor cost"
-        },
-        "answer": [
-            "B"
-        ]
+    "answer": ["B"]
+  },
+  {
+    "id": 4,
+    "question": "वित्तीय समावेशन (Financial Inclusion) का मुख्य उद्देश्य क्या है? / What is the main objective of financial inclusion?",
+    "options": {
+      "A": "हर व्यक्ति को औपचारिक बैंकिंग से जोड़ना (Connect every person to formal banking)",
+      "B": "कर चोरी कम करना (Reduce tax evasion)",
+      "C": "GDP बढ़ाना (Increase GDP)",
+      "D": "गरीबी उन्मूलन में योगदान देना (Contribute to poverty eradication)"
     },
-    {
-        "id": 5,
-        "question": "मुद्रास्फीति (Inflation) का अर्थ क्या है? / What does Inflation mean?",
-        "options": {
-            "A": "सामान्य मूल्य स्तर में वृद्धि / Increase in general price level",
-            "B": "सामान्य मूल्य स्तर में कमी / Decrease in general price level",
-            "C": "बेरोजगारी में वृद्धि / Increase in unemployment",
-            "D": "आयात में वृद्धि / Increase in imports"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["A", "D"]
+  },
+  {
+    "id": 5,
+    "question": "NBFC और Commercial Bank में मुख्य अंतर क्या है? / What is the main difference between NBFC and a Commercial Bank?",
+    "options": {
+      "A": "NBFC डिमांड डिपॉज़िट नहीं ले सकता (NBFC cannot accept demand deposits)",
+      "B": "NBFC के पास चेक जारी करने का अधिकार नहीं होता (NBFC cannot issue cheques)",
+      "C": "NBFC केवल ग्रामीण क्षेत्रों में काम करता है (NBFC works only in rural areas)",
+      "D": "Commercial Bank RBI द्वारा नियंत्रित नहीं होता (Commercial bank is not regulated by RBI)"
     },
-    {
-        "id": 6,
-        "question": "मुद्रास्फीति के मुख्य कारण क्या हैं? / What are the main causes of Inflation?",
-        "options": {
-            "A": "मांग बढ़ना (Demand-pull)",
-            "B": "लागत बढ़ना (Cost-push)",
-            "C": "सरकारी करों में कमी",
-            "D": "विदेशी निवेश में वृद्धि"
-        },
-        "answer": [
-            "A",
-            "B"
-        ]
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 6,
+    "question": "मुद्रास्फीति को नियंत्रित करने के लिए RBI कौन-कौन से उपाय करता है? / What measures does RBI take to control inflation?",
+    "options": {
+      "A": "रेपो रेट बढ़ाना (Increase repo rate)",
+      "B": "कैश रिजर्व रेशियो बढ़ाना (Increase CRR)",
+      "C": "ओपन मार्केट में प्रतिभूतियों की बिक्री (Sell securities in open market)",
+      "D": "सरकारी खर्च बढ़ाना (Increase government expenditure)"
     },
-    {
-        "id": 7,
-        "question": "मुद्रस्फीति दर भारत में 2024-25 के लिए अनुमानित है? / What is the estimated inflation rate for India in 2024-25?",
-        "options": {
-            "A": "लगभग 4-6%",
-            "B": "लगभग 10-12%",
-            "C": "0-1%",
-            "D": "लगभग 8-9%"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 7,
+    "question": "2024 में भारत में उपभोक्ता मूल्य सूचकांक (CPI) मुद्रास्फीति का औसत कितना रहा? / What was the average CPI inflation in India in 2024?",
+    "options": {
+      "A": "4.5%",
+      "B": "5.4%",
+      "C": "6.1%",
+      "D": "7.0%"
     },
-    {
-        "id": 8,
-        "question": "मुद्रास्फीति के विपरीत, मूल्य स्तर में कमी को क्या कहते हैं? / What is the term for a decrease in price level, opposite of inflation?",
-        "options": {
-            "A": "डिफ्लेशन (Deflation)",
-            "B": "स्टैगफ्लेशन (Stagflation)",
-            "C": "रेसशन (Recession)",
-            "D": "मंदी (Depression)"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["B"]
+  },
+  {
+    "id": 8,
+    "question": "वित्तीय समावेशन के लिए सरकार द्वारा कौन-कौन सी प्रमुख योजनाएं चलाई जाती हैं? / Which major schemes are run by the government for financial inclusion?",
+    "options": {
+      "A": "प्रधानमंत्री जन धन योजना (PMJDY)",
+      "B": "मुद्रा योजना (MUDRA Yojana)",
+      "C": "Startup India",
+      "D": "प्रधानमंत्री जीवन ज्योति बीमा योजना (PMJJBY)"
     },
-    {
-        "id": 9,
-        "question": "स्टैगफ्लेशन क्या है? / What is Stagflation?",
-        "options": {
-            "A": "मुद्रास्फीति और बेरोजगारी दोनों का बढ़ना / Increase in both inflation and unemployment",
-            "B": "मुद्रास्फीति का तेजी से गिरना / Rapid fall in inflation",
-            "C": "महँगाई में कमी और उत्पादन में वृद्धि / Decrease in prices and increase in production",
-            "D": "मूल्य स्थिरता / Price stability"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 9,
+    "question": "RBI की मौद्रिक नीति समिति (MPC) में कुल कितने सदस्य होते हैं? / How many members are there in the RBI's Monetary Policy Committee?",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
     },
-    {
-        "id": 10,
-        "question": "भारत में हाल ही में स्टैगफ्लेशन की स्थिति कब देखी गई है? / When was the recent occurrence of stagflation observed in India?",
-        "options": {
-            "A": "2022-23 के बीच महंगाई और बेरोजगारी बढ़ने पर",
-            "B": "2010-11 के दौरान",
-            "C": "1990 के दशक में",
-            "D": "2015-16 में"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["C"]
+  },
+  {
+    "id": 10,
+    "question": "RBI का स्थापना वर्ष कौन सा है? / In which year was the RBI established?",
+    "options": {
+      "A": "1930",
+      "B": "1935",
+      "C": "1947",
+      "D": "1950"
     },
-    {
-        "id": 11,
-        "question": "GDP aur GNP mein mukhya antar kya hai? / What is the main difference between GDP and GNP?",
-        "options": {
-            "A": "GDP desh ke andar utpadan ko maapta hai, GNP desh ke nagrikon ki aay ko maapta hai / GDP measures production within the country; GNP measures income of nationals",
-            "B": "GDP mein depreciation shamil hota hai, GNP mein nahi / GDP includes depreciation, GNP does not",
-            "C": "GNP mein foreign income shamil hoti hai, GDP mein nahi / GNP includes foreign income, GDP does not",
-            "D": "GDP hamesha GNP se bada hota hai / GDP is always bigger than GNP"
-        },
-        "answer": [
-            "A",
-            "C"
-        ]
+    "answer": ["B"]
+  },
+  {
+    "id": 11,
+    "question": "2025 में RBI का गवर्नर कौन है? / Who is the Governor of RBI in 2025?",
+    "options": {
+      "A": "शक्तिकांत दास (Shaktikanta Das)",
+      "B": "रघुराम राजन (Raghuram Rajan)",
+      "C": "उर्जित पटेल (Urjit Patel)",
+      "D": "अरविंद सुब्रमण्यम (Arvind Subramanian)"
     },
-    {
-        "id": 12,
-        "question": "Net Domestic Product (NDP) ka arth kya hai? / What is the meaning of Net Domestic Product (NDP)?",
-        "options": {
-            "A": "GDP minus depreciation",
-            "B": "GNP minus depreciation",
-            "C": "Total national income",
-            "D": "GDP plus depreciation"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["A"]
+  },
+  {
+    "id": 12,
+    "question": "मौद्रिक नीति समिति (MPC) में RBI के कितने सदस्य होते हैं? / How many members of MPC are from RBI?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "6"
     },
-    {
-        "id": 13,
-        "question": "2024-25 mein India ki estimated GDP growth rate kitni hai? / What is the estimated GDP growth rate of India in 2024-25?",
-        "options": {
-            "A": "5-6%",
-            "B": "7-7.5%",
-            "C": "3-4%",
-            "D": "9-10%"
-        },
-        "answer": [
-            "B"
-        ]
+    "answer": ["B"]
+  },
+  {
+    "id": 13,
+    "question": "कैश रिजर्व रेशियो (CRR) को घटाने से आमतौर पर क्या प्रभाव होता है? / What is the usual impact of reducing CRR?",
+    "options": {
+      "A": "बैंकों के पास उधार देने के लिए अधिक धन होता है (Banks have more money to lend)",
+      "B": "बाजार में तरलता घटती है (Liquidity decreases in market)",
+      "C": "मुद्रास्फीति बढ़ सकती है (Inflation may increase)",
+      "D": "RBI के पास अधिक नकद जमा होता है (RBI holds more cash reserves)"
     },
-    {
-        "id": 14,
-        "question": "MPC (Marginal Propensity to Consume) ka kya role hota hai? / What is the role of MPC (Marginal Propensity to Consume)?",
-        "options": {
-            "A": "Additional income ka kharch karne ki pravritti / Propensity to spend additional income",
-            "B": "Additional income ko bachat karne ki pravritti / Propensity to save additional income",
-            "C": "RBI ki monetary policy / RBI's monetary policy",
-            "D": "Sarkari karon ki nirdharit dar / Government tax rate"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 14,
+    "question": "NBFCs को कौन रेगुलेट करता है? / Who regulates NBFCs?",
+    "options": {
+      "A": "भारतीय रिज़र्व बैंक (RBI)",
+      "B": "सेबी (SEBI)",
+      "C": "वित्त मंत्रालय (Ministry of Finance)",
+      "D": "IRDAI"
     },
-    {
-        "id": 15,
-        "question": "Inflation ke kaun-kaun se prakar hote hain? / What are the types of inflation?",
-        "options": {
-            "A": "Demand-pull inflation",
-            "B": "Cost-push inflation",
-            "C": "Monetary inflation",
-            "D": "Fiscal inflation"
-        },
-        "answer": [
-            "A",
-            "B"
-        ]
+    "answer": ["A"]
+  },
+  {
+    "id": 15,
+    "question": "2024-25 में भारत का लक्ष्यित CPI मुद्रास्फीति रेंज क्या है? / What is India's targeted CPI inflation range in 2024-25?",
+    "options": {
+      "A": "2% - 4%",
+      "B": "3% - 6%",
+      "C": "4% - 7%",
+      "D": "5% - 8%"
     },
-    {
-        "id": 16,
-        "question": "Consumer Price Index (CPI) ka prayog kisliye kiya jata hai? / What is the Consumer Price Index (CPI) used for?",
-        "options": {
-            "A": "Muddra-sfiti maapne ke liye / To measure inflation",
-            "B": "GDP nirdharit karne ke liye / To determine GDP",
-            "C": "Rozgar dar jaanchne ke liye / To check employment rate",
-            "D": "Niryat ki maatra maapne ke liye / To measure exports"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["B"]
+  },
+  {
+    "id": 16,
+    "question": "भारत में रेपो रेट में वृद्धि का क्या प्रभाव होता है? / What is the impact of an increase in repo rate in India?",
+    "options": {
+      "A": "ऋण महंगा हो जाता है (Loans become costlier)",
+      "B": "मुद्रास्फीति घट सकती है (Inflation may reduce)",
+      "C": "निर्यात घट सकता है (Exports may reduce)",
+      "D": "निवेश में वृद्धि होती है (Investment increases)"
     },
-    {
-        "id": 17,
-        "question": "Stagflation ke dauran kya sthiti hoti hai? / What is the situation during stagflation?",
-        "options": {
-            "A": "Uchit inflation aur uchit berozgari / High inflation and high unemployment",
-            "B": "Neeche keemat aur adhik utpadan / Falling prices and higher production",
-            "C": "Niche keemat aur uchit berozgari / Falling prices and high unemployment",
-            "D": "Uchit keemat aur uchit berozgari / Stable prices and unemployment"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 17,
+    "question": "वित्तीय समावेशन को मापने के लिए कौन से संकेतक उपयोग होते हैं? / Which indicators are used to measure financial inclusion?",
+    "options": {
+      "A": "बैंक शाखाओं की संख्या (Number of bank branches)",
+      "B": "डिजिटल भुगतान की मात्रा (Volume of digital payments)",
+      "C": "GDP ग्रोथ रेट (GDP growth rate)",
+      "D": "ATM की संख्या (Number of ATMs)"
     },
-    {
-        "id": 18,
-        "question": "Nominal GDP aur Real GDP mein kya antar hota hai? / What is the difference between Nominal GDP and Real GDP?",
-        "options": {
-            "A": "Nominal GDP current prices par aadharit hai, Real GDP base year prices par / Nominal GDP is based on current prices; Real GDP on base year prices",
-            "B": "Nominal GDP inflation adjust karta hai, Real GDP nahi karta / Nominal GDP adjusts for inflation, Real GDP does not",
-            "C": "Real GDP hamesha nominal GDP se zyada hota hai / Real GDP is always more than nominal GDP",
-            "D": "Nominal GDP sirf agriculture ko maapta hai / Nominal GDP measures only agriculture"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 18,
+    "question": "RBI का ओपन मार्केट ऑपरेशन (OMO) क्या है? / What is RBI's Open Market Operation?",
+    "options": {
+      "A": "सरकारी प्रतिभूतियों की खरीद-बिक्री (Buying/selling of government securities)",
+      "B": "निजी कंपनियों में निवेश (Investing in private companies)",
+      "C": "विदेशी मुद्रा विनिमय दर तय करना (Fixing foreign exchange rate)",
+      "D": "सोने की कीमत तय करना (Fixing gold prices)"
     },
-    {
-        "id": 19,
-        "question": "Deflation ke kya prabhav hote hain? / What are the effects of deflation?",
-        "options": {
-            "A": "Kharch mein kami / Reduction in spending",
-            "B": "Udyog mein mandi / Decline in industry",
-            "C": "Rozgar mein vriddhi / Increase in employment",
-            "D": "Karobaar badhna / Growth in business"
-        },
-        "answer": [
-            "A",
-            "B"
-        ]
+    "answer": ["A"]
+  },
+  {
+    "id": 19,
+    "question": "भारत में पहली बार MPC का गठन कब हुआ? / When was MPC formed in India for the first time?",
+    "options": {
+      "A": "2014",
+      "B": "2015",
+      "C": "2016",
+      "D": "2017"
     },
-    {
-        "id": 20,
-        "question": "India mein Consumer Price Index (CPI) kis kshetra ke liye mahatvapurna hai? / For which sector is the Consumer Price Index (CPI) important in India?",
-        "options": {
-            "A": "Gramin kshetra / Rural sector",
-            "B": "Shehri kshetra / Urban sector",
-            "C": "Samaan roop se dono / Both equally",
-            "D": "Sirf krishi / Only agriculture"
-        },
-        "answer": [
-            "C"
-        ]
+    "answer": ["C"]
+  },
+  {
+    "id": 20,
+    "question": "मौद्रिक नीति में 'क्वांटिटेटिव टूल्स' के उदाहरण कौन से हैं? / Which are examples of quantitative tools in monetary policy?",
+    "options": {
+      "A": "रेपो रेट (Repo Rate)",
+      "B": "कैश रिजर्व रेशियो (CRR)",
+      "C": "मार्जिन रिक्वायरमेंट (Margin Requirement)",
+      "D": "ओपन मार्केट ऑपरेशंस (OMO)"
     },
-    {
-        "id": 21,
-        "question": "GDP deflator ka use kisliye hota hai? / What is the use of GDP deflator?",
-        "options": {
-            "A": "Moolya star mein parivartan ko maapna / To measure changes in price level",
-            "B": "GDP ki real value nikalne ke liye / To calculate real GDP",
-            "C": "Berozgari dar nikalne ke liye / To find unemployment rate",
-            "D": "Krishi utpadan badhane ke liye / To increase agricultural production"
-        },
-        "answer": [
-            "A",
-            "B"
-        ]
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 21,
+    "question": "SLR (Statutory Liquidity Ratio) में वृद्धि से क्या प्रभाव होगा? / What is the effect of increasing SLR?",
+    "options": {
+      "A": "बैंकों के पास उधार देने के लिए कम धन होगा (Banks will have less money to lend)",
+      "B": "मुद्रास्फीति बढ़ेगी (Inflation will increase)",
+      "C": "ब्याज दरें बढ़ सकती हैं (Interest rates may rise)",
+      "D": "आर्थिक विकास तेज होगा (Economic growth will accelerate)"
     },
-    {
-        "id": 22,
-        "question": "GNP aur NNP mein kya antar hai? / What is the difference between GNP and NNP?",
-        "options": {
-            "A": "NNP mein depreciation minus kiya jata hai / Depreciation is subtracted in NNP",
-            "B": "GNP hamesha NNP se chhota hota hai / GNP is always smaller than NNP",
-            "C": "GNP mein sirf domestic income shamil hai / GNP includes only domestic income",
-            "D": "NNP mein sirf foreign income shamil hai / NNP includes only foreign income"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 22,
+    "question": "2025 में भारत का रेपो रेट (जनवरी 2025) कितना है? / What is India's repo rate in Jan 2025?",
+    "options": {
+      "A": "6.25%",
+      "B": "6.50%",
+      "C": "6.75%",
+      "D": "7.00%"
     },
-    {
-        "id": 23,
-        "question": "2024-25 ke liye India ki estimated inflation rate kya hai? / What is the estimated inflation rate for India in 2024-25?",
-        "options": {
-            "A": "4-6%",
-            "B": "8-10%",
-            "C": "1-2%",
-            "D": "12-14%"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["B"]
+  },
+  {
+    "id": 23,
+    "question": "NBFC और बैंकों में मुख्य अंतर क्या है? / What is the main difference between NBFCs and banks?",
+    "options": {
+      "A": "NBFC चेक जारी कर सकते हैं (NBFCs can issue cheques)",
+      "B": "NBFCs डिमांड डिपॉजिट स्वीकार नहीं कर सकते (NBFCs cannot accept demand deposits)",
+      "C": "NBFCs पर CRR लागू होता है (CRR applies to NBFCs)",
+      "D": "बैंकों को RBI लाइसेंस चाहिए (Banks require RBI license)"
     },
-    {
-        "id": 24,
-        "question": "Monetary policy ka inflation control mein kya role hota hai? / What role does monetary policy play in controlling inflation?",
-        "options": {
-            "A": "Interest rate badha kar demand kam karta hai / Increases interest rates to reduce demand",
-            "B": "Sarkari kharch badha kar demand badhata hai / Increases government spending to increase demand",
-            "C": "Tax kam kar deta hai / Decreases taxes",
-            "D": "Money supply badhata hai / Increases money supply"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["B", "D"]
+  },
+  {
+    "id": 24,
+    "question": "2024-25 में भारत के वित्तीय समावेशन के लिए प्रमुख सरकारी योजना कौन सी है? / Which is a major govt scheme for financial inclusion in 2024-25?",
+    "options": {
+      "A": "प्रधान मंत्री जन धन योजना (PMJDY)",
+      "B": "प्रधान मंत्री आवास योजना (PMAY)",
+      "C": "स्टार्टअप इंडिया",
+      "D": "प्रधान मंत्री मुद्रा योजना (PMMY)"
     },
-    {
-        "id": 25,
-        "question": "Stagflation ke dauran kya hota hai? / What happens during stagflation?",
-        "options": {
-            "A": "Muddra-sfiti badhti hai aur berozgari bhi badhti hai / Inflation and unemployment both increase",
-            "B": "Keemat girti hai aur rozgar badhta hai / Prices fall and employment rises",
-            "C": "GDP tez badhta hai / GDP grows rapidly",
-            "D": "Muddra-sfiti nahi hoti / No inflation"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["A", "D"]
+  },
+  {
+    "id": 25,
+    "question": "मुद्रास्फीति को नियंत्रित करने के लिए RBI कौन से टूल्स उपयोग करता है? / Which tools does RBI use to control inflation?",
+    "options": {
+      "A": "रेपो रेट (Repo Rate)",
+      "B": "CRR",
+      "C": "कैशलेस भुगतान को बढ़ावा देना (Promoting cashless payments)",
+      "D": "OMO"
     },
-    {
-        "id": 26,
-        "question": "Real GDP aur Nominal GDP ke beech ka farq kya hai? / What is the difference between Real GDP and Nominal GDP?",
-        "options": {
-            "A": "Real GDP moolya vriddhi se mukt hota hai / Real GDP is adjusted for inflation",
-            "B": "Nominal GDP moolya vriddhi se mukt hota hai / Nominal GDP is adjusted for inflation",
-            "C": "Dono mein koi fark nahi hai / There is no difference",
-            "D": "Nominal GDP sirf government kharch ko dikhata hai / Nominal GDP shows only government spending"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 26,
+    "question": "RBI का 'स्टैंडिंग डिपॉजिट फैसिलिटी' (SDF) किस उद्देश्य के लिए है? / What is RBI's Standing Deposit Facility for?",
+    "options": {
+      "A": "तरलता को अवशोषित करना (Absorbing liquidity)",
+      "B": "तरलता को बढ़ाना (Injecting liquidity)",
+      "C": "विदेशी निवेश को बढ़ावा देना (Promoting foreign investment)",
+      "D": "बैंक पूंजीकरण (Bank recapitalization)"
     },
-    {
-        "id": 27,
-        "question": "CPI aur WPI mein kya farq hai? / What is the difference between CPI and WPI?",
-        "options": {
-            "A": "CPI grahak ke nazariye se moolya sudhar ko maapta hai / CPI measures price changes from consumer perspective",
-            "B": "WPI utpadakon ke nazariye se maapta hai / WPI measures from producer perspective",
-            "C": "Dono ek hi cheez hai / Both are same",
-            "D": "CPI me krishi samagri shamil nahi hoti / Agricultural products are not included in CPI"
-        },
-        "answer": [
-            "A",
-            "B"
-        ]
+    "answer": ["A"]
+  },
+  {
+    "id": 27,
+    "question": "RBI का वित्तीय साक्षरता केंद्र (FLC) किसके लिए है? / What is RBI's Financial Literacy Centre for?",
+    "options": {
+      "A": "जनता को वित्तीय ज्ञान देना (Educating public about finance)",
+      "B": "बैंकों को ऋण सस्ता देना (Making loans cheaper for banks)",
+      "C": "मौद्रिक नीति तय करना (Deciding monetary policy)",
+      "D": "ATM नेटवर्क बढ़ाना (Expanding ATM network)"
     },
-    {
-        "id": 28,
-        "question": "MPC (Marginal Propensity to Consume) aur MPS (Marginal Propensity to Save) ka yog kya hota hai? / What is the sum of MPC and MPS?",
-        "options": {
-            "A": "1",
-            "B": "0",
-            "C": "Depends on income",
-            "D": "More than 1"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["A"]
+  },
+  {
+    "id": 28,
+    "question": "2024-25 में RBI का मुद्रास्फीति लक्ष्य किस आधार वर्ष पर आधारित है? / RBI's inflation targeting in 2024-25 is based on which base year?",
+    "options": {
+      "A": "2004-05",
+      "B": "2011-12",
+      "C": "2017-18",
+      "D": "2020-21"
     },
-    {
-        "id": 29,
-        "question": "GDP growth rate ko badhane ke liye kaun si niti prabhavi hoti hai? / Which policy is effective to increase GDP growth rate?",
-        "options": {
-            "A": "Expansionary fiscal policy",
-            "B": "Contractionary monetary policy",
-            "C": "Deflationary policy",
-            "D": "High taxation policy"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["B"]
+  },
+  {
+    "id": 29,
+    "question": "रेपो रेट घटाने का अल्पकालिक असर क्या होगा? / What is the short-term effect of reducing repo rate?",
+    "options": {
+      "A": "ऋण सस्ता हो जाएगा (Loans will be cheaper)",
+      "B": "निवेश बढ़ सकता है (Investment may increase)",
+      "C": "तरलता घटेगी (Liquidity will decrease)",
+      "D": "मुद्रास्फीति बढ़ सकती है (Inflation may increase)"
     },
-    {
-        "id": 30,
-        "question": "Inflation ke samay RBI kya kar sakta hai? / What can RBI do during inflation?",
-        "options": {
-            "A": "Repo rate badhakar mudra supply kam kare / Increase repo rate to reduce money supply",
-            "B": "Repo rate kam karke mudra supply badhaye / Decrease repo rate to increase money supply",
-            "C": "Sarkari kharch badhaye / Increase government spending",
-            "D": "Tax kam kare / Decrease taxes"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 30,
+    "question": "PSB (Public Sector Banks) की विशेषताएँ क्या हैं? / What are features of PSBs?",
+    "options": {
+      "A": "सरकारी स्वामित्व (Government ownership)",
+      "B": "RBI द्वारा नियंत्रित (Controlled by RBI)",
+      "C": "पूरी तरह निजी निवेश (Fully private investment)",
+      "D": "वित्तीय समावेशन में बड़ी भूमिका (Major role in financial inclusion)"
     },
-    {
-        "id": 31,
-        "question": "Deflation ka kaun sa prabhav sabse adhik dekha jata hai? / Which effect of deflation is most commonly seen?",
-        "options": {
-            "A": "Consumer spending mein girawat / Decline in consumer spending",
-            "B": "Berozgari mein girawat / Decline in unemployment",
-            "C": "GDP mein vriddhi / Growth in GDP",
-            "D": "Udyogik utpadan mein vriddhi / Increase in industrial production"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["A", "B", "D"]
+  },
+  {
+    "id": 31,
+    "question": "MSF (Marginal Standing Facility) किसके लिए है? / What is MSF used for?",
+    "options": {
+      "A": "बैंकों को आपातकालीन तरलता देना (Providing emergency liquidity to banks)",
+      "B": "मुद्रास्फीति घटाना (Reducing inflation)",
+      "C": "FDI बढ़ाना (Increasing FDI)",
+      "D": "RBI के घाटे को भरना (Filling RBI’s losses)"
     },
-    {
-        "id": 32,
-        "question": "National Income ko factor cost par maapne ka kya arth hai? / What is the meaning of measuring National Income at factor cost?",
-        "options": {
-            "A": "Sarkari kar aur subsidy hata kar / Excluding taxes and adding subsidies",
-            "B": "Market price par maapna / Measuring at market price",
-            "C": "Sirf private sector ko include karna / Including only private sector",
-            "D": "Sirf public sector ko include karna / Including only public sector"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 32,
+    "question": "भारत में डिजिटल भुगतान को बढ़ावा देने के लिए 2024-25 में RBI ने कौन सा प्लेटफॉर्म लॉन्च किया? / Which platform did RBI launch in 2024-25 to boost digital payments?",
+    "options": {
+      "A": "UPI Lite X",
+      "B": "Bharat BillPay 2.0",
+      "C": "RuPay Global",
+      "D": "CBDC रिटेल पायलट (CBDC Retail Pilot)"
     },
-    {
-        "id": 33,
-        "question": "Inflation control ke liye 'Monetary Policy' ke kaun se tools hote hain? / What are the tools of Monetary Policy to control inflation?",
-        "options": {
-            "A": "Repo rate badhana",
-            "B": "Cash reserve ratio (CRR) badhana",
-            "C": "Open market operations (OMO)",
-            "D": "Tax rate kam karna"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ]
+    "answer": ["A", "D"]
+  },
+  {
+    "id": 33,
+    "question": "RBI का 'CBDC' किस प्रकार का है? / What type is RBI's CBDC?",
+    "options": {
+      "A": "डिजिटल रुपया (Digital Rupee)",
+      "B": "क्रिप्टोकरेंसी (Cryptocurrency)",
+      "C": "केंद्रीय बैंक द्वारा जारी डिजिटल मुद्रा (Central bank-issued digital currency)",
+      "D": "ब्लॉकचेन आधारित भुगतान प्रणाली (Blockchain-based payment system)"
     },
-    {
-        "id": 34,
-        "question": "Stagflation ke dauran sarkar kis tarah ki niti apna sakti hai? / What kind of policy can government adopt during stagflation?",
-        "options": {
-            "A": "Supply-side reforms",
-            "B": "Demand-side expansion",
-            "C": "High subsidies dena",
-            "D": "Tax kam karna"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["A", "C", "D"]
+  },
+  {
+    "id": 34,
+    "question": "CRR घटाने से बैंकों की किसमें वृद्धि होती है? / Reduction in CRR increases what for banks?",
+    "options": {
+      "A": "तरलता (Liquidity)",
+      "B": "नकद जमा RBI में (Cash deposits with RBI)",
+      "C": "ऋण देने की क्षमता (Lending capacity)",
+      "D": "SLR अनुपालन (SLR compliance)"
     },
-    {
-        "id": 35,
-        "question": "India ki GDP mein sabse bada yogdaan kaunsa kshetra deta hai? / Which sector contributes most to India’s GDP?",
-        "options": {
-            "A": "Services sector",
-            "B": "Agriculture sector",
-            "C": "Manufacturing sector",
-            "D": "Mining sector"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 35,
+    "question": "मौद्रिक नीति का प्रमुख उद्देश्य क्या है? / What is the main objective of monetary policy?",
+    "options": {
+      "A": "मुद्रास्फीति नियंत्रण (Inflation control)",
+      "B": "आर्थिक विकास (Economic growth)",
+      "C": "बेरोजगारी घटाना (Reducing unemployment)",
+      "D": "विदेशी निवेश बढ़ाना (Increasing foreign investment)"
     },
-    {
-        "id": 36,
-        "question": "Deflation ki sthiti kab ho sakti hai? / When can deflation occur?",
-        "options": {
-            "A": "Demand girne par",
-            "B": "Supply girne par",
-            "C": "Money supply badhne par",
-            "D": "Tax badhne par"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 36,
+    "question": "2025 में भारत में मुद्रास्फीति की दर (जनवरी 2025) कितनी थी? / What was India's inflation rate in Jan 2025?",
+    "options": {
+      "A": "4.9%",
+      "B": "5.3%",
+      "C": "6.1%",
+      "D": "6.8%"
     },
-    {
-        "id": 37,
-        "question": "GDP par inflation ka prabhav kya hota hai? / What is the impact of inflation on GDP?",
-        "options": {
-            "A": "Nominal GDP badhta hai, lekin Real GDP prabhavit nahi hota / Nominal GDP increases, but Real GDP unaffected",
-            "B": "Real GDP badhta hai, Nominal GDP nahi badhta / Real GDP increases, Nominal GDP does not",
-            "C": "Dono badhte hain barabar / Both increase equally",
-            "D": "Dono kam hote hain / Both decrease"
-        },
-        "answer": [
-            "A"
-        ]
+    "answer": ["B"]
+  },
+  {
+    "id": 37,
+    "question": "भारत में NBFCs का वर्गीकरण किन आधारों पर किया जाता है? / NBFCs in India are classified based on what?",
+    "options": {
+      "A": "कार्य (Activity)",
+      "B": "आकार (Size)",
+      "C": "भौगोलिक क्षेत्र (Geographical region)",
+      "D": "स्वामित्व (Ownership)"
     },
-    {
-        "id": 38,
-        "question": "GNP ko kaise badhaya ja sakta hai? / How can GNP be increased?",
-        "options": {
-            "A": "Foreign investment badha kar",
-            "B": "Desh ke nagrikon ki kamai badha kar",
-            "C": "Imports badha kar",
-            "D": "Exports kam kar ke"
-        },
-        "answer": [
-            "A",
-            "B"
-        ]
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 38,
+    "question": "RBI का प्राथमिक उद्देश्य क्या है? / What is the primary objective of RBI?",
+    "options": {
+      "A": "मुद्रा स्थिरता (Monetary stability)",
+      "B": "वित्तीय स्थिरता (Financial stability)",
+      "C": "सरकारी घाटा कम करना (Reducing govt deficit)",
+      "D": "रोज़गार बढ़ाना (Increasing employment)"
     },
-    {
-        "id": 39,
-        "question": "2024-25 mein Bharat ki mudra-sfiti ko kis factor se sabse adhik prabhavit hone ki sambhavana hai? / What factor is likely to influence India’s inflation most in 2024-25?",
-        "options": {
-            "A": "Fuel prices",
-            "B": "Agricultural output",
-            "C": "Global supply chain disruptions",
-            "D": "Currency exchange rates"
-        },
-        "answer": [
-            "A",
-            "B"
-        ]
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 39,
+    "question": "भारत में बैंकों का राष्ट्रीयकरण कब हुआ था? / When were banks nationalized in India?",
+    "options": {
+      "A": "1966 और 1980",
+      "B": "1969 और 1980",
+      "C": "1970 और 1991",
+      "D": "1969 और 1991"
     },
-    {
-        "id": 40,
-        "question": "National Income ki ginti mein kaun kaun se components shamil hote hain? / Which components are included in National Income calculation?",
-        "options": {
-            "A": "Wages and salaries",
-            "B": "Rent and interest",
-            "C": "Corporate profits",
-            "D": "Government transfer payments"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ]
-    }
+    "answer": ["B"]
+  },
+  {
+    "id": 40,
+    "question": "मौद्रिक नीति समिति (MPC) में कितने सदस्य होते हैं? / How many members are there in MPC?",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 41,
+    "question": "2025 में भारत में डिजिटल पेमेंट्स के लिए NPCI के तहत सबसे ज्यादा ट्रांजैक्शन किस प्लेटफॉर्म पर हो रहे हैं? / In 2025, which NPCI platform has the highest digital payment transactions in India?",
+    "options": {
+      "A": "IMPS",
+      "B": "UPI",
+      "C": "RuPay",
+      "D": "BBPS"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 42,
+    "question": "RBI का 'Prompt Corrective Action' (PCA) फ्रेमवर्क किसके लिए लागू होता है? / RBI's PCA framework applies to which entities?",
+    "options": {
+      "A": "Scheduled Commercial Banks",
+      "B": "Cooperative Banks",
+      "C": "NBFCs",
+      "D": "Regional Rural Banks"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 43,
+    "question": "मौद्रिक नीति में 'Operation Twist' का उद्देश्य क्या है? / What is the purpose of 'Operation Twist' in monetary policy?",
+    "options": {
+      "A": "लंबी अवधि के बॉन्ड यील्ड को घटाना (Reduce long-term bond yields)",
+      "B": "लघु अवधि के ब्याज दर बढ़ाना (Increase short-term interest rates)",
+      "C": "लिक्विडिटी बढ़ाना (Increase liquidity)",
+      "D": "बैंकिंग सिस्टम में NPA घटाना (Reduce NPAs in banking system)"
+    },
+    "answer": ["A", "B"]
+  },
+  {
+    "id": 44,
+    "question": "भारत सरकार और RBI के बीच 'Monetary Policy Framework Agreement' कब साइन हुआ था? / When was the Monetary Policy Framework Agreement signed between Government of India and RBI?",
+    "options": {
+      "A": "2013",
+      "B": "2014",
+      "C": "2015",
+      "D": "2016"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 45,
+    "question": "2024 में भारत में किस इंडेक्स को RBI ने इन्फ्लेशन ट्रैकिंग के लिए मुख्य आधार माना है? / Which index is the main basis for inflation tracking by RBI in 2024?",
+    "options": {
+      "A": "WPI",
+      "B": "CPI (Combined)",
+      "C": "CPI (Urban)",
+      "D": "CPI (Rural)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 46,
+    "question": "NBFC और बैंक में मुख्य अंतर क्या है? / What is the main difference between NBFC and Bank?",
+    "options": {
+      "A": "NBFC डिमांड डिपॉजिट स्वीकार नहीं कर सकते (NBFCs cannot accept demand deposits)",
+      "B": "NBFC RBI द्वारा रेगुलेट नहीं होते (NBFCs are not regulated by RBI)",
+      "C": "बैंक पेमेंट और सेटलमेंट सिस्टम में भाग लेते हैं (Banks participate in payment and settlement system)",
+      "D": "NBFC विदेशी मुद्रा लेन-देन कर सकते हैं (NBFCs can deal in forex transactions)"
+    },
+    "answer": ["A", "C"]
+  },
+  {
+    "id": 47,
+    "question": "2024 में भारत की मौद्रिक नीति का स्टांस क्या रहा? / What was the stance of India's monetary policy in 2024?",
+    "options": {
+      "A": "Accommodative",
+      "B": "Neutral",
+      "C": "Withdrawal of Accommodation",
+      "D": "Tightening"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 48,
+    "question": "MSF (Marginal Standing Facility) क्या है? / What is MSF?",
+    "options": {
+      "A": "बैंकों के लिए RBI से इमरजेंसी फंड लेने की सुविधा (Facility for banks to borrow emergency funds from RBI)",
+      "B": "NBFC के लिए लोन योजना (Loan scheme for NBFCs)",
+      "C": "लॉन्ग टर्म इंफ्रास्ट्रक्चर फंड (Long-term infrastructure fund)",
+      "D": "इंश्योरेंस स्कीम (Insurance scheme)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 49,
+    "question": "2025 में भारत का विदेशी मुद्रा भंडार लगभग कितना है? / What is India's foreign exchange reserve in 2025 approximately?",
+    "options": {
+      "A": "$550 Billion",
+      "B": "$580 Billion",
+      "C": "$620 Billion",
+      "D": "$640 Billion"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 50,
+    "question": "SLR (Statutory Liquidity Ratio) के अंतर्गत बैंक किन परिसंपत्तियों को रख सकते हैं? / Which assets can banks hold under SLR?",
+    "options": {
+      "A": "Cash",
+      "B": "Gold",
+      "C": "Approved Government Securities",
+      "D": "Corporate Bonds"
+    },
+    "answer": ["B", "C"]
+  },
+  {
+    "id": 51,
+    "question": "RBI का 'Financial Literacy Week' 2025 में किस महीने में आयोजित हुआ? / In which month was RBI's 'Financial Literacy Week' held in 2025?",
+    "options": {
+      "A": "January",
+      "B": "February",
+      "C": "March",
+      "D": "April"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 52,
+    "question": "2024 में भारत में CPI महंगाई दर का औसत लगभग कितना था? / What was the average CPI inflation rate in India in 2024?",
+    "options": {
+      "A": "4.2%",
+      "B": "5.1%",
+      "C": "5.4%",
+      "D": "6.0%"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 53,
+    "question": "भारत में 'Lead Bank Scheme' का उद्देश्य क्या है? / What is the purpose of Lead Bank Scheme in India?",
+    "options": {
+      "A": "ग्रामीण क्षेत्रों में बैंकिंग सुविधाएं पहुंचाना (Provide banking facilities in rural areas)",
+      "B": "शहरों में अधिक शाखाएं खोलना (Open more branches in cities)",
+      "C": "डिजिटल पेमेंट बढ़ाना (Increase digital payments)",
+      "D": "NBFC को सहायता देना (Assist NBFCs)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 54,
+    "question": "RBI का 'Inflation Targeting' किस अधिनियम के तहत कानूनी रूप से मान्यता प्राप्त है? / Inflation Targeting by RBI is legally recognized under which Act?",
+    "options": {
+      "A": "RBI Act, 1934",
+      "B": "Banking Regulation Act, 1949",
+      "C": "Companies Act, 2013",
+      "D": "SEBI Act, 1992"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 55,
+    "question": "बेसल-III मानकों में CAR (Capital Adequacy Ratio) के लिए न्यूनतम आवश्यकता भारत में कितनी है? / What is the minimum CAR requirement in India under Basel III norms?",
+    "options": {
+      "A": "8%",
+      "B": "9%",
+      "C": "10.5%",
+      "D": "11.5%"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 56,
+    "question": "भारत में NBFI शब्द का अर्थ क्या है? / What does NBFI stand for in India?",
+    "options": {
+      "A": "Non-Banking Financial Institution",
+      "B": "National Banking and Finance Institute",
+      "C": "Non-Bank Foreign Investment",
+      "D": "National Bank for Financial Inclusion"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 57,
+    "question": "2025 में RBI का रेपो रेट कितना है? / What is the repo rate of RBI in 2025?",
+    "options": {
+      "A": "6.25%",
+      "B": "6.50%",
+      "C": "6.75%",
+      "D": "7.00%"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 58,
+    "question": "भारत में 'Jan Dhan Yojana' का मुख्य उद्देश्य क्या है? / What is the main objective of Jan Dhan Yojana in India?",
+    "options": {
+      "A": "Financial Inclusion",
+      "B": "Housing for All",
+      "C": "Subsidy on LPG",
+      "D": "Crop Insurance"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 59,
+    "question": "RBI का 'Developmental Role' किन क्षेत्रों को कवर करता है? / RBI's developmental role covers which areas?",
+    "options": {
+      "A": "ग्रामीण क्रेडिट (Rural credit)",
+      "B": "वित्तीय साक्षरता (Financial literacy)",
+      "C": "भुगतान प्रणाली का विकास (Payment system development)",
+      "D": "सोने का आयात (Gold import)"
+    },
+    "answer": ["A", "B", "C"]
+  },
+  {
+    "id": 60,
+    "question": "मुद्रास्फीति नियंत्रण के लिए 'Fiscal Tools' में कौन-कौन से आते हैं? / Which are considered fiscal tools for inflation control?",
+    "options": {
+      "A": "कर दरों में बदलाव (Changes in tax rates)",
+      "B": "सरकारी व्यय में कटौती (Reduction in government expenditure)",
+      "C": "रेपो रेट परिवर्तन (Repo rate change)",
+      "D": "सब्सिडी में कमी (Reduction in subsidies)"
+    },
+    "answer": ["A", "B", "D"]
+  }
 ]
