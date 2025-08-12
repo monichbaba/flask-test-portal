@@ -1,1325 +1,1094 @@
 [
-    {
-        "id": 1,
-        "question": "भारत विभाजन के मुख्य कारण कौन-कौन से थे? / What were the main causes of the Partition of India?",
-        "options": {
-            "A": "धार्मिक मतभेद (Religious differences)",
-            "B": "ब्रिटिश की विभाजन नीति (British Divide and Rule Policy)",
-            "C": "आर्थिक असमानता (Economic inequality)",
-            "D": "मुस्लिम लीग की अलग राष्ट्र की मांग (Demand for separate nation by Muslim League)"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ]
-    },
-    {
-        "id": 2,
-        "question": "भारत विभाजन के तत्काल प्रभाव क्या थे? / What were the immediate effects of the Partition of India?",
-        "options": {
-            "A": "दैनिक जीवन में बड़े पैमाने पर विस्थापन (Mass displacement in daily life)",
-            "B": "अत्यधिक सांप्रदायिक हिंसा (Widespread communal violence)",
-            "C": "देश की आर्थिक समृद्धि में वृद्धि (Increase in economic prosperity)",
-            "D": "नई सीमाओं का निर्धारण (Redrawing of new boundaries)"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ]
-    },
-    {
-        "id": 3,
-        "question": "कौन-कौन से प्रमुख स्वतंत्रता सेनानी यूपी से थे? / Which prominent freedom fighters were from Uttar Pradesh?",
-        "options": {
-            "A": "भगत सिंह (Bhagat Singh)",
-            "B": "राम प्रसाद बिस्मिल (Ram Prasad Bismil)",
-            "C": "चंद्रशेखर आज़ाद (Chandrashekhar Azad)",
-            "D": "सुभाष चंद्र बोस (Subhas Chandra Bose)"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "id": 4,
-        "question": "रियासतों के विलय का मुख्य उद्देश्य क्या था? / What was the main purpose of the integration of princely states?",
-        "options": {
-            "A": "स्वतंत्र भारत का एकीकृत रूप बनाना (To create a unified India)",
-            "B": "ब्रिटिश शासन को मजबूत करना (To strengthen British rule)",
-            "C": "राजाओं को अधिक अधिकार देना (To give more powers to kings)",
-            "D": "क्षेत्रीय संघर्षों को खत्म करना (To end regional conflicts)"
-        },
-        "answer": [
-            "A",
-            "D"
-        ]
-    },
-    {
-        "id": 5,
-        "question": "भारत में सबसे बड़े रियासत के विलय की प्रक्रिया किसने पूरी की? / Who completed the process of merging the largest princely states in India?",
-        "options": {
-            "A": "पंडित जवाहरलाल नेहरू (Pandit Jawaharlal Nehru)",
-            "B": "सरदार वल्लभभाई पटेल (Sardar Vallabhbhai Patel)",
-            "C": "महात्मा गांधी (Mahatma Gandhi)",
-            "D": "डॉ. भीमराव अंबेडकर (Dr. B.R. Ambedkar)"
-        },
-        "answer": [
-            "B"
-        ]
-    },
-    {
-        "id": 6,
-        "question": "किस स्वतंत्रता संग्राम में राम प्रसाद बिस्मिल का योगदान सबसे महत्वपूर्ण था? / In which freedom struggle did Ram Prasad Bismil play a crucial role?",
-        "options": {
-            "A": "कुकुरमुत्ता विद्रोह (Kukarmutta Rebellion)",
-            "B": "अल्टीमेटम आंदोलन (Ultimatum Movement)",
-            "C": "कुल्फी विद्रोह (Kakori Conspiracy)",
-            "D": "गदर आंदोलन (Ghadar Movement)"
-        },
-        "answer": [
-            "C"
-        ]
-    },
-    {
-        "id": 7,
-        "question": "2024-2025 के अनुसार, भारत विभाजन के कौन से पहलू पर अभी भी ऐतिहासिक शोध जारी है? / According to 2024-2025 data, which aspect of the Partition of India still undergoes historical research?",
-        "options": {
-            "A": "ब्रिटिश सरकार की भूमिका (Role of British Government)",
-            "B": "शरणार्थियों का सामाजिक-आर्थिक प्रभाव (Socio-economic impact on refugees)",
-            "C": "रियासतों के विलय के बाद के संघर्ष (Post-merger conflicts in princely states)",
-            "D": "स्वतंत्रता सेनानियों की जीवनी (Biographies of freedom fighters)"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "id": 8,
-        "question": "यूपी से जुड़े स्वतंत्रता सेनानी चंद्रशेखर आज़ाद की प्रमुख विशेषताएं क्या थीं? / What were the main characteristics of Chandrashekhar Azad?",
-        "options": {
-            "A": "बेहद साहसी और रणनीतिक (Extremely brave and strategic)",
-            "B": "गुप्तचर विभाग के सदस्य (Member of intelligence department)",
-            "C": "ब्रिटिश सरकार के साथ सहयोगी (Collaborator with British Government)",
-            "D": "हिंदुस्तान सोशलिस्ट रिपब्लिकन एसोसिएशन के प्रमुख (Leader of Hindustan Socialist Republican Association)"
-        },
-        "answer": [
-            "A",
-            "D"
-        ]
-    },
-    {
-        "id": 9,
-        "question": "रियासतों के विलय के लिए किन चुनौतियों का सामना करना पड़ा? / What challenges were faced during the merger of princely states?",
-        "options": {
-            "A": "राजाओं का विरोध (Opposition from kings)",
-            "B": "भाषाई और सांस्कृतिक मतभेद (Linguistic and cultural differences)",
-            "C": "ब्रिटिश सेना का हस्तक्षेप (Intervention of British Army)",
-            "D": "विद्रोह और आतंकवाद (Rebellion and terrorism)"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ]
-    },
-    {
-        "id": 10,
-        "question": "कौन से स्वतंत्रता सेनानी ने यूपी से जुड़े कई रियासतों के विलय में अहम भूमिका निभाई? / Which freedom fighter played a key role in merging several princely states connected to Uttar Pradesh?",
-        "options": {
-            "A": "सरदार पटेल (Sardar Patel)",
-            "B": "पंडित नेहरू (Pandit Nehru)",
-            "C": "जयप्रकाश नारायण (Jayaprakash Narayan)",
-            "D": "मौलाना आज़ाद (Maulana Azad)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 11,
-        "question": "भारत विभाजन के दौरान सबसे ज्यादा प्रभावित क्षेत्र कौन सा था? / Which region was most affected during the Partition of India?",
-        "options": {
-            "A": "बंगाल (Bengal)",
-            "B": "पंजाब (Punjab)",
-            "C": "राजस्थान (Rajasthan)",
-            "D": "महाराष्ट्र (Maharashtra)"
-        },
-        "answer": [
-            "A",
-            "B"
-        ]
-    },
-    {
-        "id": 12,
-        "question": "किस स्वतंत्रता संग्राम में भगत सिंह का योगदान मुख्य था? / In which freedom struggle did Bhagat Singh play a major role?",
-        "options": {
-            "A": "सिविल डिसऑबिडिएंस (Civil Disobedience)",
-            "B": "जलियांवाला बाग विरोध (Jallianwala Bagh Protest)",
-            "C": "हिंदुस्तान सोशलिस्ट रिपब्लिकन एसोसिएशन की गतिविधियाँ (Activities of Hindustan Socialist Republican Association)",
-            "D": "भारत छोड़ो आंदोलन (Quit India Movement)"
-        },
-        "answer": [
-            "C"
-        ]
-    },
-    {
-        "id": 13,
-        "question": "भारत के किस रियासत ने विलय के बाद सबसे अधिक राजनीतिक विवाद उत्पन्न किया? / Which princely state caused the most political controversy after merging with India?",
-        "options": {
-            "A": "जम्मू-कश्मीर (Jammu and Kashmir)",
-            "B": "हैदराबाद (Hyderabad)",
-            "C": "पैतृक भुवनेश्वर (Patribal Bhubaneswar)",
-            "D": "जोधपुर (Jodhpur)"
-        },
-        "answer": [
-            "A",
-            "B"
-        ]
-    },
-    {
-        "id": 14,
-        "question": "राम प्रसाद बिस्मिल ने किस क्रांतिकारी संगठन की स्थापना में भाग लिया? / Ram Prasad Bismil was part of the establishment of which revolutionary organization?",
-        "options": {
-            "A": "हिंदुस्तान सोशलिस्ट रिपब्लिकन एसोसिएशन (Hindustan Socialist Republican Association)",
-            "B": "भारतीय राष्ट्रीय कांग्रेस (Indian National Congress)",
-            "C": "मुस्लिम लीग (Muslim League)",
-            "D": "सतीश स्मारक समिति (Satish Memorial Committee)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 15,
-        "question": "रियासतों के विलय में सरदार पटेल की रणनीति क्या थी? / What was Sardar Patel's strategy in the merger of princely states?",
-        "options": {
-            "A": "राजाओं से बातचीत कर उन्हें समझाना (Negotiating with kings to convince them)",
-            "B": "बल प्रयोग करना (Using force)",
-            "C": "ब्रिटिश सरकार से समर्थन लेना (Seeking British support)",
-            "D": "आर्थिक प्रलोभन देना (Offering financial incentives)"
-        },
-        "answer": [
-            "A",
-            "D"
-        ]
-    },
-    {
-        "id": 16,
-        "question": "2024-2025 के अनुसार, भारत विभाजन से उत्पन्न विस्थापन की संख्या कितनी अनुमानित है? / According to 2024-2025 data, what is the estimated number of displaced persons due to the Partition of India?",
-        "options": {
-            "A": "लगभग 10 लाख (About 1 million)",
-            "B": "लगभग 30 लाख (About 3 million)",
-            "C": "लगभग 70 लाख (About 7 million)",
-            "D": "लगभग 1 करोड़ (About 10 million)"
-        },
-        "answer": [
-            "D"
-        ]
-    },
-    {
-        "id": 17,
-        "question": "यूपी के स्वतंत्रता सेनानी चंद्रशेखर आज़ाद का अंतिम बलिदान कहाँ हुआ था? / Where did freedom fighter Chandrashekhar Azad make his final sacrifice?",
-        "options": {
-            "A": "लाहौर (Lahore)",
-            "B": "अलीगढ़ (Aligarh)",
-            "C": "आलमगढ़ (Almora)",
-            "D": "अलगपुरा (Allahpur)"
-        },
-        "answer": [
-            "B"
-        ]
-    },
-    {
-        "id": 18,
-        "question": "रियासतों के विलय में सबसे कठिन रियासत कौन सी मानी जाती है? / Which princely state is considered the most difficult to integrate?",
-        "options": {
-            "A": "हैदराबाद (Hyderabad)",
-            "B": "जोधपुर (Jodhpur)",
-            "C": "कूटासराज (Kootasraj)",
-            "D": "मैसूर (Mysore)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 19,
-        "question": "भारत विभाजन के बाद किस शहर को शरणार्थियों के लिए सबसे बड़ा केन्द्र बनाया गया? / After Partition, which city became the largest refugee center?",
-        "options": {
-            "A": "दिल्ली (Delhi)",
-            "B": "अमृतसर (Amritsar)",
-            "C": "लखनऊ (Lucknow)",
-            "D": "कोलकाता (Kolkata)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 20,
-        "question": "कौन से स्वतंत्रता सेनानी ने 1925 में हिंदुस्तान सोशलिस्ट रिपब्लिकन एसोसिएशन का नेतृत्व किया? / Which freedom fighter led the Hindustan Socialist Republican Association in 1925?",
-        "options": {
-            "A": "भगत सिंह (Bhagat Singh)",
-            "B": "चंद्रशेखर आज़ाद (Chandrashekhar Azad)",
-            "C": "राम प्रसाद बिस्मिल (Ram Prasad Bismil)",
-            "D": "सुखदेव (Sukhdev)"
-        },
-        "answer": [
-            "C"
-        ]
-    },
-    {
-        "id": 21,
-        "question": "भारत के विभाजन के पीछे किस विदेशी देश की भूमिका प्रमुख थी? / Which foreign country had a major role behind the Partition of India?",
-        "options": {
-            "A": "ब्रिटेन (Britain)",
-            "B": "फ्रांस (France)",
-            "C": "रूस (Russia)",
-            "D": "चीन (China)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 22,
-        "question": "रियासतों के विलय के बाद भारत में कितनी रियासतें बनीं? / How many princely states remained in India after the merger?",
-        "options": {
-            "A": "200 से अधिक (More than 200)",
-            "B": "लगभग 500 (About 500)",
-            "C": "100 से कम (Less than 100)",
-            "D": "50 से कम (Less than 50)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 23,
-        "question": "यूपी से किस स्वतंत्रता सेनानी ने काकोरी कांड में हिस्सा लिया था? / Which freedom fighter from UP participated in the Kakori Conspiracy?",
-        "options": {
-            "A": "राम प्रसाद बिस्मिल (Ram Prasad Bismil)",
-            "B": "भगत सिंह (Bhagat Singh)",
-            "C": "चंद्रशेखर आज़ाद (Chandrashekhar Azad)",
-            "D": "सुखदेव (Sukhdev)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 24,
-        "question": "भारत विभाजन के बाद शरणार्थियों के पुनर्वास के लिए कौन सी योजना बनाई गई? / Which scheme was formulated for rehabilitation of refugees after Partition?",
-        "options": {
-            "A": "राष्ट्रीय पुनर्वास योजना (National Rehabilitation Scheme)",
-            "B": "स्वराज योजना (Swaraj Scheme)",
-            "C": "स्वदेशी योजना (Swadeshi Scheme)",
-            "D": "प्रधान मंत्री आवास योजना (PM Housing Scheme)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 25,
-        "question": "सरदार पटेल ने भारत के रियासतों को विलय करने के लिए किस हथकंडे का उपयोग किया? / What tactic did Sardar Patel use to merge princely states in India?",
-        "options": {
-            "A": "दस्तावेज़ों के माध्यम से समझौता (Negotiation through documents)",
-            "B": "बलपूर्वक सैन्य कार्रवाई (Forceful military action)",
-            "C": "राजाओं के साथ राजनयिक वार्ता (Diplomatic talks with kings)",
-            "D": "लोकतांत्रिक मतदान (Democratic voting)"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "id": 26,
-        "question": "यूपी से जुड़े स्वतंत्रता सेनानी जयप्रकाश नारायण का योगदान क्या था? / What was the contribution of JP Narayan, a freedom fighter from UP?",
-        "options": {
-            "A": "भारत छोड़ो आंदोलन का नेतृत्व (Leading Quit India Movement)",
-            "B": "संपूर्ण क्रांति की शुरुआत (Initiating Total Revolution)",
-            "C": "भारत का प्रथम प्रधानमंत्री (First Prime Minister of India)",
-            "D": "रियासतों के विलय में भूमिका (Role in princely states merger)"
-        },
-        "answer": [
-            "B"
-        ]
-    },
-    {
-        "id": 27,
-        "question": "भारत विभाजन के दौरान किसने सबसे अधिक शरणार्थियों का स्वागत किया? / Who welcomed the maximum number of refugees during the Partition of India?",
-        "options": {
-            "A": "भारत सरकार (Government of India)",
-            "B": "पाकिस्तान सरकार (Government of Pakistan)",
-            "C": "स्थानीय स्वयंसेवी संगठन (Local volunteer organizations)",
-            "D": "ब्रिटिश प्रशासन (British administration)"
-        },
-        "answer": [
-            "A",
-            "C"
-        ]
-    },
-    {
-        "id": 28,
-        "question": "रियासतों के विलय में भारत सरकार ने किसे विशेष रूप से महत्वपूर्ण माना? / Whom did the Indian Government consider especially important in the integration of princely states?",
-        "options": {
-            "A": "सरदार वल्लभभाई पटेल (Sardar Vallabhbhai Patel)",
-            "B": "महात्मा गांधी (Mahatma Gandhi)",
-            "C": "डॉ. राजेंद्र प्रसाद (Dr. Rajendra Prasad)",
-            "D": "पंडित नेहरू (Pandit Nehru)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 29,
-        "question": "चंद्रशेखर आज़ाद की मौत के समय उनकी उम्र लगभग क्या थी? / What was the approximate age of Chandrashekhar Azad at the time of his death?",
-        "options": {
-            "A": "30 वर्ष (30 years)",
-            "B": "25 वर्ष (25 years)",
-            "C": "35 वर्ष (35 years)",
-            "D": "40 वर्ष (40 years)"
-        },
-        "answer": [
-            "B"
-        ]
-    },
-    {
-        "id": 30,
-        "question": "भारत विभाजन के बाद पाकिस्तान का गठन कब हुआ? / When was Pakistan formed after the Partition of India?",
-        "options": {
-            "A": "15 अगस्त 1947 (15 August 1947)",
-            "B": "14 अगस्त 1947 (14 August 1947)",
-            "C": "26 जनवरी 1950 (26 January 1950)",
-            "D": "2 अक्टूबर 1948 (2 October 1948)"
-        },
-        "answer": [
-            "B"
-        ]
-    },
-    {
-        "id": 31,
-        "question": "भारत के विभाजन के समय किस मुस्लिम नेता ने पाकिस्तान का समर्थन किया? / Which Muslim leader supported the creation of Pakistan during Partition?",
-        "options": {
-            "A": "मौलाना आज़ाद (Maulana Azad)",
-            "B": "मोहम्मद अली जिन्ना (Mohammad Ali Jinnah)",
-            "C": "अल्लामा इकबाल (Allama Iqbal)",
-            "D": "सर सैयद अहमद खान (Sir Syed Ahmed Khan)"
-        },
-        "answer": [
-            "B"
-        ]
-    },
-    {
-        "id": 32,
-        "question": "किस स्वतंत्रता सेनानी ने 'तीन काकोरी कांड' में हिस्सा लिया था? / Which freedom fighter participated in the 'Three Kakori Conspiracies'?",
-        "options": {
-            "A": "राम प्रसाद बिस्मिल (Ram Prasad Bismil)",
-            "B": "सुखदेव (Sukhdev)",
-            "C": "चंद्रशेखर आज़ाद (Chandrashekhar Azad)",
-            "D": "भगत सिंह (Bhagat Singh)"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "id": 33,
-        "question": "भारत के विभाजन से पहले ब्रिटिश सरकार ने किस योजना को मंजूरी दी थी? / Which plan was approved by the British government before Partition?",
-        "options": {
-            "A": "माउंटबेटन प्लान (Mountbatten Plan)",
-            "B": "क्वीन्स प्लान (Queen’s Plan)",
-            "C": "ब्रिटिश इंडिया योजना (British India Plan)",
-            "D": "कूपर प्लान (Cooper Plan)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 34,
-        "question": "रियासतों के विलय के बाद भारत की राजनीतिक एकता किसने सुनिश्चित की? / Who ensured political unity of India after merger of princely states?",
-        "options": {
-            "A": "सरदार पटेल (Sardar Patel)",
-            "B": "पंडित नेहरू (Pandit Nehru)",
-            "C": "डॉ. भीमराव अंबेडकर (Dr. B.R. Ambedkar)",
-            "D": "महात्मा गांधी (Mahatma Gandhi)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 35,
-        "question": "भारत विभाजन के बाद सबसे ज्यादा सांप्रदायिक हिंसा किस क्षेत्र में हुई? / After Partition, where was the maximum communal violence reported?",
-        "options": {
-            "A": "पंजाब (Punjab)",
-            "B": "बंगाल (Bengal)",
-            "C": "उत्तर प्रदेश (Uttar Pradesh)",
-            "D": "मध्य प्रदेश (Madhya Pradesh)"
-        },
-        "answer": [
-            "A",
-            "B"
-        ]
-    },
-    {
-        "id": 36,
-        "question": "भारत के विभाजन में किस नेता ने विरोध जताया था? / Which leader opposed the Partition of India?",
-        "options": {
-            "A": "मौलाना आज़ाद (Maulana Azad)",
-            "B": "मोहम्मद अली जिन्ना (Mohammad Ali Jinnah)",
-            "C": "सरदार पटेल (Sardar Patel)",
-            "D": "पंडित नेहरू (Pandit Nehru)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 37,
-        "question": "कौन सी भारतीय रियासत विलय के बाद भारत की सबसे बड़ी रियासत बनी? / Which Indian princely state became the largest after merger?",
-        "options": {
-            "A": "मैसूर (Mysore)",
-            "B": "जयपुर (Jaipur)",
-            "C": "जोधपुर (Jodhpur)",
-            "D": "हैदराबाद (Hyderabad)"
-        },
-        "answer": [
-            "D"
-        ]
-    },
-    {
-        "id": 38,
-        "question": "किस वर्ष में रियासतों का विलय प्रक्रिया मुख्यतः पूरी हुई? / In which year was the major merger of princely states completed?",
-        "options": {
-            "A": "1947",
-            "B": "1948",
-            "C": "1950",
-            "D": "1956"
-        },
-        "answer": [
-            "D"
-        ]
-    },
-    {
-        "id": 39,
-        "question": "यूपी के स्वतंत्रता सेनानी गुलाब सिंह ने क्या कार्य किया? / What was the role of UP freedom fighter Gulab Singh?",
-        "options": {
-            "A": "काकोरी कांड में भागीदारी (Participation in Kakori Conspiracy)",
-            "B": "ब्रिटिश के खिलाफ असहयोग आंदोलन (Non-cooperation movement against British)",
-            "C": "स्वदेशी आंदोलन का नेतृत्व (Leadership in Swadeshi movement)",
-            "D": "रेड क्रॉस सेवा (Red Cross Service)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 40,
-        "question": "भारत विभाजन के बाद शरणार्थियों के पुनर्वास में किन समस्याओं का सामना करना पड़ा? / What problems were faced in rehabilitation of refugees after Partition?",
-        "options": {
-            "A": "आवास की कमी (Lack of housing)",
-            "B": "रोजगार की कमी (Unemployment)",
-            "C": "भोजन संकट (Food shortage)",
-            "D": "शिक्षा की उपलब्धता (Availability of education)"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ]
-    },
-    {
-        "id": 41,
-        "question": "भारत विभाजन के बाद किस राजनीतिक दल ने सबसे ज्यादा समय तक केंद्र की सत्ता संभाली? / Which political party ruled the central government for the longest period after Partition?",
-        "options": {
-            "A": "भारतीय राष्ट्रीय कांग्रेस (Indian National Congress)",
-            "B": "मुस्लिम लीग (Muslim League)",
-            "C": "जन संघ (Bharatiya Jana Sangh)",
-            "D": "कम्युनिस्ट पार्टी ऑफ इंडिया (Communist Party of India)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 42,
-        "question": "पंडित जवाहरलाल नेहरू का भारत के पहले प्रधानमंत्री के रूप में कौन सा योगदान था? / What was Jawaharlal Nehru’s contribution as the first Prime Minister of India?",
-        "options": {
-            "A": "आधुनिक भारत के लिए औद्योगिक नीति बनाना (Formulating industrial policies for modern India)",
-            "B": "भारत को दो भागों में विभाजित करना (Partitioning India into two parts)",
-            "C": "भारत को ब्रिटेन का उपनिवेश बनाना (Making India a British colony)",
-            "D": "मुस्लिम लीग का नेतृत्व करना (Leading the Muslim League)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 43,
-        "question": "मुस्लिम लीग का भारत विभाजन के बाद भारत में क्या हुआ? / What happened to the Muslim League in India after Partition?",
-        "options": {
-            "A": "भारत में धीरे-धीरे कमजोर हो गई (Gradually weakened in India)",
-            "B": "भारत की सबसे बड़ी पार्टी बनी (Became the largest party in India)",
-            "C": "पाकिस्तान की सरकार बनी (Formed government in Pakistan)",
-            "D": "नेहरू के नेतृत्व में शामिल हो गई (Merged under Nehru’s leadership)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 44,
-        "question": "जन संघ की स्थापना कब और किस नेता ने की थी? / When and by which leader was Bharatiya Jana Sangh founded?",
-        "options": {
-            "A": "1951 में श्यामा प्रसाद मुखर्जी द्वारा (In 1951 by Syama Prasad Mukherjee)",
-            "B": "1947 में पंडित नेहरू द्वारा (In 1947 by Pandit Nehru)",
-            "C": "1960 में अटल बिहारी वाजपेयी द्वारा (In 1960 by Atal Bihari Vajpayee)",
-            "D": "1955 में सरदार पटेल द्वारा (In 1955 by Sardar Patel)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 45,
-        "question": "कम्युनिस्ट पार्टी ऑफ इंडिया का मुख्य लक्ष्य क्या था? / What was the main objective of the Communist Party of India?",
-        "options": {
-            "A": "किसानों और मजदूरों के अधिकारों की रक्षा (Protecting rights of peasants and workers)",
-            "B": "भारत को साम्राज्य बनाना (Making India an empire)",
-            "C": "ब्रिटिश शासन को समर्थन देना (Supporting British rule)",
-            "D": "भारत को विभाजित करना (Dividing India)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 46,
-        "question": "कौन से नेता ने स्वतंत्रता के बाद स्वदेशी आंदोलन को बढ़ावा दिया और प्रजा सोशलिस्ट पार्टी की स्थापना की? / Which leader promoted Swadeshi movement after Independence and founded Praja Socialist Party?",
-        "options": {
-            "A": "डॉ. राममनोहर लोहिया (Dr. Ram Manohar Lohia)",
-            "B": "महात्मा गांधी (Mahatma Gandhi)",
-            "C": "सुभाष चंद्र बोस (Subhash Chandra Bose)",
-            "D": "पंडित नेहरू (Pandit Nehru)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 47,
-        "question": "जन संघ का मुख्य राजनीतिक एजेंडा क्या था? / What was the main political agenda of Bharatiya Jana Sangh?",
-        "options": {
-            "A": "हिंदू राष्ट्रवाद और सांस्कृतिक एकता (Hindu nationalism and cultural unity)",
-            "B": "कम्युनिज्म फैलाना (Spreading communism)",
-            "C": "मुस्लिम लीग का समर्थन करना (Supporting Muslim League)",
-            "D": "ब्रिटिश शासन को पुनः स्थापित करना (Re-establishing British rule)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 48,
-        "question": "पंडित नेहरू ने किस योजना के तहत भारत की आर्थिक विकास को गति दी? / Under which plan did Nehru accelerate India’s economic development?",
-        "options": {
-            "A": "पहला पंचवर्षीय योजना (First Five-Year Plan)",
-            "B": "राष्ट्रीय पुनर्वास योजना (National Rehabilitation Scheme)",
-            "C": "माउंटबेटन योजना (Mountbatten Plan)",
-            "D": "मोडी योजना (Modi Plan)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 49,
-        "question": "भारत में कम्युनिस्ट पार्टी ऑफ इंडिया कब बनी थी? / When was the Communist Party of India formed?",
-        "options": {
-            "A": "1925",
-            "B": "1947",
-            "C": "1950",
-            "D": "1930"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 50,
-        "question": "मुस्लिम लीग के नेता मोहम्मद अली जिन्ना की क्या भूमिका थी? / What was Mohammad Ali Jinnah's role?",
-        "options": {
-            "A": "पाकिस्तान के संस्थापक (Founder of Pakistan)",
-            "B": "भारत के प्रधानमंत्री (Prime Minister of India)",
-            "C": "कांग्रेस के नेता (Congress leader)",
-            "D": "स्वतंत्रता सेनानी नहीं थे (Not a freedom fighter)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 51,
-        "question": "भारत के विभाजन के बाद जन संघ ने किस दिशा में काम किया? / After Partition, in which direction did Bharatiya Jana Sangh work?",
-        "options": {
-            "A": "राष्ट्रीयता और हिंदू सांस्कृतिक पुनरुत्थान (Nationalism and Hindu cultural revival)",
-            "B": "मुस्लिम लीग का विस्तार (Expansion of Muslim League)",
-            "C": "ब्रिटिश सत्ता का समर्थन (Support to British power)",
-            "D": "स्वतंत्रता संग्राम का विरोध (Opposition to freedom struggle)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 52,
-        "question": "किस नेता ने भारतीय राष्ट्रीय कांग्रेस के साथ काम करते हुए भारत के पहले उपराष्ट्रपति बने? / Which leader worked with Indian National Congress and became India’s first Vice-President?",
-        "options": {
-            "A": "डॉ. सर्वपल्ली राधाकृष्णन (Dr. Sarvepalli Radhakrishnan)",
-            "B": "सरदार पटेल (Sardar Patel)",
-            "C": "डॉ. भीमराव अंबेडकर (Dr. B.R. Ambedkar)",
-            "D": "जवाहरलाल नेहरू (Jawaharlal Nehru)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 53,
-        "question": "स्वतंत्रता के बाद किसने 'संपूर्ण क्रांति' की घोषणा की? / Who announced 'Total Revolution' after Independence?",
-        "options": {
-            "A": "जयप्रकाश नारायण (Jayaprakash Narayan)",
-            "B": "पंडित नेहरू (Pandit Nehru)",
-            "C": "सुभाष चंद्र बोस (Subhash Chandra Bose)",
-            "D": "महात्मा गांधी (Mahatma Gandhi)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 54,
-        "question": "भारत के विभाजन के बाद किसने पाकिस्तान में मुस्लिम लीग का नेतृत्व किया? / After Partition, who led the Muslim League in Pakistan?",
-        "options": {
-            "A": "मोहम्मद अली जिन्ना (Mohammad Ali Jinnah)",
-            "B": "मौलाना आज़ाद (Maulana Azad)",
-            "C": "सरदार पटेल (Sardar Patel)",
-            "D": "पंडित नेहरू (Pandit Nehru)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 55,
-        "question": "कम्युनिस्ट पार्टी ऑफ इंडिया के प्रमुख विचार क्या थे? / What were the main ideas of Communist Party of India?",
-        "options": {
-            "A": "साम्यवाद और श्रमिकों के अधिकार (Communism and workers’ rights)",
-            "B": "पूंजीवाद को बढ़ावा देना (Promoting capitalism)",
-            "C": "धार्मिक आधार पर राजनीति (Religion-based politics)",
-            "D": "ब्रिटिश शासन का समर्थन (Supporting British rule)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 56,
-        "question": "1951 में जन संघ के संस्थापक श्यामा प्रसाद मुखर्जी का क्या उद्देश्य था? / What was the objective of Jan Sangh founder Syama Prasad Mukherjee in 1951?",
-        "options": {
-            "A": "हिंदू राष्ट्रवाद को बढ़ावा देना (To promote Hindu nationalism)",
-            "B": "मुस्लिम लीग का समर्थन करना (To support Muslim League)",
-            "C": "भारत को ब्रिटिश उपनिवेश बनाना (To make India British colony)",
-            "D": "कम्युनिस्ट आंदोलन फैलाना (To spread communist movement)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 57,
-        "question": "किस योजना के तहत पंडित नेहरू ने भारत में औद्योगीकरण को बढ़ावा दिया? / Under which plan did Nehru promote industrialization in India?",
-        "options": {
-            "A": "पहला पंचवर्षीय योजना (First Five-Year Plan)",
-            "B": "दूसरा पंचवर्षीय योजना (Second Five-Year Plan)",
-            "C": "तीसरा पंचवर्षीय योजना (Third Five-Year Plan)",
-            "D": "चौथा पंचवर्षीय योजना (Fourth Five-Year Plan)"
-        },
-        "answer": [
-            "B"
-        ]
-    },
-    {
-        "id": 58,
-        "question": "भारत में स्वतंत्रता के बाद किस दल ने सबसे पहले विपक्ष की भूमिका निभाई? / Which party first played the role of opposition in India after independence?",
-        "options": {
-            "A": "जन संघ (Bharatiya Jana Sangh)",
-            "B": "कम्युनिस्ट पार्टी ऑफ इंडिया (Communist Party of India)",
-            "C": "मुस्लिम लीग (Muslim League)",
-            "D": "स्वतंत्र दल (Independent Party)"
-        },
-        "answer": [
-            "B"
-        ]
-    },
-    {
-        "id": 59,
-        "question": "मुस्लिम लीग के भारत में कमजोर होने का मुख्य कारण क्या था? / What was the main reason for Muslim League's weakening in India?",
-        "options": {
-            "A": "पाकिस्तान के गठन के बाद शेष मुस्लिमों का कांग्रेस में विलय (Merger of remaining Muslims into Congress after Pakistan’s formation)",
-            "B": "ब्रिटिश सरकार का समर्थन (Support from British government)",
-            "C": "जन संघ के विरोध (Opposition by Jan Sangh)",
-            "D": "भारत का विभाजन नहीं होना (Partition of India not happening)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 60,
-        "question": "स्वतंत्रता के बाद भारत में राजनीतिक दलों की भूमिका क्या रही? / What was the role of political parties in India after Independence?",
-        "options": {
-            "A": "लोकतंत्र के विकास में सहायक (Supporting development of democracy)",
-            "B": "देश को विभाजित करना (Dividing the country)",
-            "C": "अराजकता फैलाना (Spreading anarchy)",
-            "D": "विदेशी शासन को मजबूत करना (Strengthening foreign rule)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 61,
-        "question": "भारत विभाजन के बाद सबसे बड़ी आर्थिक चुनौती क्या थी? / What was the biggest economic challenge after the Partition of India?",
-        "options": {
-            "A": "शरणार्थियों का पुनर्वास (Rehabilitation of refugees)",
-            "B": "औद्योगिकीकरण (Industrialization)",
-            "C": "कृषि उत्पादन में वृद्धि (Increase in agricultural production)",
-            "D": "विदेशी निवेश (Foreign investment)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 62,
-        "question": "विभाजन के बाद भारत में किस क्षेत्र को सबसे अधिक नुकसान हुआ? / Which sector suffered the most loss in India after Partition?",
-        "options": {
-            "A": "कृषि (Agriculture)",
-            "B": "उद्योग (Industry)",
-            "C": "वाणिज्य (Commerce)",
-            "D": "परिवहन (Transportation)"
-        },
-        "answer": [
-            "B"
-        ]
-    },
-    {
-        "id": 63,
-        "question": "भारत विभाजन के बाद शरणार्थियों के लिए भारत सरकार ने किस योजना को लागू किया? / Which scheme was implemented by the Indian government for refugees after Partition?",
-        "options": {
-            "A": "राष्ट्रीय पुनर्वास योजना (National Rehabilitation Scheme)",
-            "B": "औद्योगिक नीति (Industrial Policy)",
-            "C": "कृषि सुधार योजना (Agricultural Reform Scheme)",
-            "D": "रोजगार गारंटी योजना (Employment Guarantee Scheme)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 64,
-        "question": "विभाजन के बाद भारत की अर्थव्यवस्था किस प्रकार प्रभावित हुई? / How was India's economy affected after Partition?",
-        "options": {
-            "A": "व्यापार और उद्योग में गिरावट (Decline in trade and industry)",
-            "B": "आयात और निर्यात में वृद्धि (Increase in import and export)",
-            "C": "कृषि उत्पादन में भारी वृद्धि (Huge increase in agricultural production)",
-            "D": "विदेशी निवेश में वृद्धि (Increase in foreign investment)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 65,
-        "question": "विभाजन के बाद भारत में किस उद्योग ने सबसे तेज़ी से विकास किया? / Which industry developed fastest in India after Partition?",
-        "options": {
-            "A": "सूती कपड़ा उद्योग (Cotton textile industry)",
-            "B": "इस्पात उद्योग (Steel industry)",
-            "C": "फिल्म उद्योग (Film industry)",
-            "D": "चाय उद्योग (Tea industry)"
-        },
-        "answer": [
-            "B"
-        ]
-    },
-    {
-        "id": 66,
-        "question": "भारत विभाजन के बाद कृषि क्षेत्र की स्थिति कैसी थी? / What was the condition of agriculture sector after Partition?",
-        "options": {
-            "A": "कृषि भूमि का विभाजन और उत्पादन में गिरावट (Division of agricultural land and decline in production)",
-            "B": "कृषि भूमि का विस्तार (Expansion of agricultural land)",
-            "C": "आधुनिक कृषि तकनीक का व्यापक उपयोग (Widespread use of modern agricultural techniques)",
-            "D": "कृषि निर्यात में वृद्धि (Increase in agricultural exports)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 67,
-        "question": "भारत विभाजन के बाद वित्तीय व्यवस्था पर क्या प्रभाव पड़ा? / What impact did Partition have on India’s financial system?",
-        "options": {
-            "A": "सिक्का और बैंकिंग में अस्थिरता (Instability in currency and banking)",
-            "B": "मजबूत मुद्रा प्रणाली (Strong currency system)",
-            "C": "विदेशी मुद्रा का हस्तांतरण (Foreign currency transfer)",
-            "D": "बैंकिंग क्षेत्र का विकास (Development of banking sector)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 68,
-        "question": "विभाजन के बाद भारत सरकार ने किस योजना के तहत आर्थिक पुनर्निर्माण की शुरुआत की? / Under which plan did Indian government start economic reconstruction after Partition?",
-        "options": {
-            "A": "पहला पंचवर्षीय योजना (First Five-Year Plan)",
-            "B": "राष्ट्रीय पुनर्वास योजना (National Rehabilitation Scheme)",
-            "C": "भारत पुनर्निर्माण योजना (India Reconstruction Plan)",
-            "D": "औद्योगिक विकास योजना (Industrial Development Plan)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 69,
-        "question": "विभाजन के बाद भारत के किस क्षेत्र में शरणार्थियों ने मुख्य योगदान दिया? / In which sector did refugees mainly contribute after Partition in India?",
-        "options": {
-            "A": "व्यापार और उद्योग (Trade and Industry)",
-            "B": "कृषि (Agriculture)",
-            "C": "राजनीति (Politics)",
-            "D": "शिक्षा (Education)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 70,
-        "question": "विभाजन के बाद भारत की मुद्रा का क्या हाल था? / What was the condition of Indian currency after Partition?",
-        "options": {
-            "A": "दो मुद्राओं का प्रचलन (Circulation of two currencies)",
-            "B": "मुद्रा स्थिरता (Currency stability)",
-            "C": "मुद्रा का विलय (Currency unification)",
-            "D": "मुद्रा का पतन नहीं हुआ (No currency depreciation)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 71,
-        "question": "भारत विभाजन के बाद आर्थिक पुनर्वास के लिए किस प्रकार के प्रयास किए गए? / What type of efforts were made for economic rehabilitation after Partition?",
-        "options": {
-            "A": "शरणार्थियों के लिए रोजगार और आवास (Employment and housing for refugees)",
-            "B": "सरकारी उद्योगों का निजीकरण (Privatization of government industries)",
-            "C": "विदेशी व्यापार बंद करना (Stopping foreign trade)",
-            "D": "भूमि सुधारों का निषेध (Prohibition of land reforms)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 72,
-        "question": "विभाजन के बाद भारत में किस क्षेत्र की आर्थिक वृद्धि सबसे धीमी हुई? / Which sector witnessed the slowest economic growth after Partition in India?",
-        "options": {
-            "A": "कृषि (Agriculture)",
-            "B": "उद्योग (Industry)",
-            "C": "सेवा क्षेत्र (Service sector)",
-            "D": "परिवहन (Transportation)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 73,
-        "question": "विभाजन के बाद भारत की आर्थिक नीतियों में मुख्य फोकस क्या था? / What was the main focus of India’s economic policies after Partition?",
-        "options": {
-            "A": "स्वदेशी और आत्मनिर्भरता (Swadeshi and self-reliance)",
-            "B": "विदेशी पूंजी आकर्षित करना (Attracting foreign capital)",
-            "C": "कृषि में निजीकरण (Privatization in agriculture)",
-            "D": "सरकारी उद्योगों को बंद करना (Closing government industries)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 74,
-        "question": "विभाजन के बाद भारत की किस योजना ने ग्रामीण विकास पर जोर दिया? / Which plan emphasized rural development in India after Partition?",
-        "options": {
-            "A": "पहला पंचवर्षीय योजना (First Five-Year Plan)",
-            "B": "दूसरा पंचवर्षीय योजना (Second Five-Year Plan)",
-            "C": "तीसरा पंचवर्षीय योजना (Third Five-Year Plan)",
-            "D": "राष्ट्रीय पुनर्वास योजना (National Rehabilitation Scheme)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 75,
-        "question": "भारत विभाजन के बाद उद्योगों को किस प्रकार की सहायता दी गई? / What type of assistance was given to industries after Partition?",
-        "options": {
-            "A": "सरकारी सब्सिडी और निवेश (Government subsidies and investment)",
-            "B": "पूंजीपतियों को टैक्स लगाना (Taxation on capitalists)",
-            "C": "विदेशी कंपनियों को प्रोत्साहित करना (Encouraging foreign companies)",
-            "D": "उद्योगों को बंद करना (Closing industries)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 76,
-        "question": "विभाजन के बाद भारत की आर्थिक स्थिति में सुधार के लिए किस योजना को प्राथमिकता दी गई? / Which plan was prioritized for economic improvement after Partition?",
-        "options": {
-            "A": "पहला पंचवर्षीय योजना (First Five-Year Plan)",
-            "B": "राष्ट्रीय पुनर्वास योजना (National Rehabilitation Scheme)",
-            "C": "आर्थिक उदारीकरण योजना (Economic Liberalization Plan)",
-            "D": "स्वतंत्रता संग्राम योजना (Freedom Movement Plan)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 77,
-        "question": "भारत विभाजन के बाद कौन सी समस्या आर्थिक विकास में बाधा बनी? / Which problem became an obstacle in economic development after Partition?",
-        "options": {
-            "A": "शरणार्थियों की भारी संख्या (Large number of refugees)",
-            "B": "कृषि भूमि की बढ़ोतरी (Increase in agricultural land)",
-            "C": "विदेशी निवेश की कमी नहीं थी (No shortage of foreign investment)",
-            "D": "औद्योगिक क्रांति (Industrial revolution)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 78,
-        "question": "विभाजन के बाद भारत में किस योजना ने शरणार्थियों के पुनर्वास पर ध्यान दिया? / Which scheme focused on rehabilitation of refugees in India after Partition?",
-        "options": {
-            "A": "राष्ट्रीय पुनर्वास योजना (National Rehabilitation Scheme)",
-            "B": "स्वदेशी योजना (Swadeshi Scheme)",
-            "C": "ग्रामीण विकास योजना (Rural Development Scheme)",
-            "D": "औद्योगिक नीति (Industrial Policy)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 79,
-        "question": "विभाजन के बाद भारत की किस क्षेत्र में सर्वाधिक आर्थिक निवेश हुआ? / Which sector received maximum economic investment in India after Partition?",
-        "options": {
-            "A": "औद्योगिक क्षेत्र (Industrial sector)",
-            "B": "कृषि क्षेत्र (Agricultural sector)",
-            "C": "परिवहन क्षेत्र (Transportation sector)",
-            "D": "शिक्षा क्षेत्र (Education sector)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 80,
-        "question": "भारत विभाजन के बाद आर्थिक पुनर्निर्माण में किसने प्रमुख भूमिका निभाई? / Who played a major role in economic reconstruction after Partition?",
-        "options": {
-            "A": "पंडित जवाहरलाल नेहरू (Pandit Jawaharlal Nehru)",
-            "B": "सरदार पटेल (Sardar Patel)",
-            "C": "मोहम्मद अली जिन्ना (Mohammad Ali Jinnah)",
-            "D": "भगत सिंह (Bhagat Singh)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 81,
-        "question": "भारत ने विभाजन के बाद अपनी विदेश नीति का मुख्य आधार क्या रखा? / What was the main basis of India’s foreign policy after Partition?",
-        "options": {
-            "A": "सांप्रदायिक सद्भाव और शांति (Communal harmony and peace)",
-            "B": "साम्यवाद (Communism)",
-            "C": "साम्राज्यवाद (Imperialism)",
-            "D": "सैन्यवाद (Militarism)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 82,
-        "question": "भारत ने विभाजन के बाद किस सिद्धांत को अपनी विदेश नीति में प्रमुखता दी? / Which principle did India emphasize in its foreign policy after Partition?",
-        "options": {
-            "A": "अखंडता और सार्वभौमिकता (Non-alignment and sovereignty)",
-            "B": "साम्यवाद (Communism)",
-            "C": "सैन्यवाद (Militarism)",
-            "D": "औपनिवेशवाद (Colonialism)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 83,
-        "question": "भारत के पहले विदेश मंत्री कौन थे? / Who was India’s first Foreign Minister?",
-        "options": {
-            "A": "वेल्लभभाई पटेल (Vallabhbhai Patel)",
-            "B": "जवाहरलाल नेहरू (Jawaharlal Nehru)",
-            "C": "सुभाष चंद्र बोस (Subhash Chandra Bose)",
-            "D": "बी. आर. अम्बेडकर (B. R. Ambedkar)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 84,
-        "question": "भारत ने 1947 के बाद किस समूह में शामिल होकर विश्व राजनीति में अपनी भूमिका बढ़ाई? / After 1947, India joined which group to increase its role in world politics?",
-        "options": {
-            "A": "आधारहीन देशों का आंदोलन (Non-Aligned Movement)",
-            "B": "नाटो (NATO)",
-            "C": "वारसॉ संधि (Warsaw Pact)",
-            "D": "सात समुद्री संधि (Seven Seas Treaty)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 85,
-        "question": "भारत की विदेश नीति का प्रमुख उद्देश्य क्या था? / What was the primary objective of India’s foreign policy?",
-        "options": {
-            "A": "शांति, सुरक्षा और विकास (Peace, security, and development)",
-            "B": "आक्रामकता (Aggression)",
-            "C": "औपनिवेशिक विस्तार (Colonial expansion)",
-            "D": "सैन्य शक्ति का प्रदर्शन (Show of military power)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 86,
-        "question": "भारत की विदेश नीति में ‘गुटनिरपेक्षता’ का अर्थ क्या है? / What does ‘Non-Alignment’ mean in India’s foreign policy?",
-        "options": {
-            "A": "किसी भी सैन्य गुट से नहीं जुड़ना (Not joining any military bloc)",
-            "B": "सभी देशों से युद्ध करना (Waging war against all countries)",
-            "C": "किसी गुट का समर्थन करना (Supporting one bloc)",
-            "D": "औपनिवेशिक शक्तियों से जुड़ना (Aligning with colonial powers)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 87,
-        "question": "भारत ने विभाजन के बाद किस देश के साथ सबसे पहले संबंध स्थापित किए? / After Partition, with which country did India establish relations first?",
-        "options": {
-            "A": "सौदी अरब (Saudi Arabia)",
-            "B": "संयुक्त राज्य अमेरिका (USA)",
-            "C": "सोवियत संघ (Soviet Union)",
-            "D": "चीन (China)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 88,
-        "question": "भारत ने विभाजन के बाद किस घटना के कारण पाकिस्तान के साथ तनाव बढ़ा? / After Partition, which event increased tensions with Pakistan?",
-        "options": {
-            "A": "जम्मू-कश्मीर विवाद (Jammu-Kashmir dispute)",
-            "B": "तिब्बत पर हमला (Attack on Tibet)",
-            "C": "पाकिस्तान की विदेश नीति (Pakistan’s foreign policy)",
-            "D": "आर्थिक नीतियां (Economic policies)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 89,
-        "question": "भारत ने विभाजन के बाद किस अंतरराष्ट्रीय संगठन में सदस्यता ली? / After Partition, India became a member of which international organization?",
-        "options": {
-            "A": "संयुक्त राष्ट्र (United Nations)",
-            "B": "नाटो (NATO)",
-            "C": "वारसॉ संधि (Warsaw Pact)",
-            "D": "सामाजिक आर्थिक परिषद (Economic and Social Council)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 90,
-        "question": "भारत की विदेश नीति में ‘अंतरराष्ट्रीय सहयोग’ का महत्व क्या है? / What is the importance of ‘International Cooperation’ in India’s foreign policy?",
-        "options": {
-            "A": "विश्व शांति और विकास को बढ़ावा देना (Promoting world peace and development)",
-            "B": "देशों के बीच युद्ध बढ़ाना (Increasing wars between countries)",
-            "C": "औपनिवेशिक शासन को फैलाना (Spreading colonial rule)",
-            "D": "आर्थिक बंदिशें लगाना (Imposing economic restrictions)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 91,
-        "question": "भारत ने विभाजन के बाद किस क्षेत्र में अपने हितों की सुरक्षा की कोशिश की? / After Partition, in which region did India try to protect its interests?",
-        "options": {
-            "A": "दक्षिण एशिया (South Asia)",
-            "B": "अफ्रीका (Africa)",
-            "C": "अमेरिका (America)",
-            "D": "ऑस्ट्रेलिया (Australia)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 92,
-        "question": "भारत की विदेश नीति में शांति स्थापना के लिए कौन सा माध्यम प्रयोग किया गया? / Which medium was used by India to establish peace in its foreign policy?",
-        "options": {
-            "A": "कूटनीति (Diplomacy)",
-            "B": "युद्ध (War)",
-            "C": "औपनिवेशिक विस्तार (Colonial expansion)",
-            "D": "आर्थिक प्रतिबंध (Economic sanctions)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 93,
-        "question": "भारत की विदेश नीति में प्रमुख भूमिका निभाने वाले नेता कौन थे? / Who was the key leader in shaping India’s foreign policy?",
-        "options": {
-            "A": "जवाहरलाल नेहरू (Jawaharlal Nehru)",
-            "B": "महात्मा गांधी (Mahatma Gandhi)",
-            "C": "सरदार पटेल (Sardar Patel)",
-            "D": "बी आर अम्बेडकर (B. R. Ambedkar)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 94,
-        "question": "भारत की विदेश नीति में ‘अक्षुण्णता’ का क्या अर्थ है? / What does ‘Integrity’ mean in India’s foreign policy?",
-        "options": {
-            "A": "राष्ट्रीय एकता और संप्रभुता (National unity and sovereignty)",
-            "B": "देश का विभाजन (Division of country)",
-            "C": "विदेशी शासन स्वीकारना (Accepting foreign rule)",
-            "D": "सैन्य विस्तार (Military expansion)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 95,
-        "question": "भारत ने विभाजन के बाद किस नीति के तहत विदेश संबंध बनाए? / Under which policy did India establish foreign relations after Partition?",
-        "options": {
-            "A": "गुटनिरपेक्ष नीति (Non-Alignment Policy)",
-            "B": "साम्यवाद (Communism)",
-            "C": "औपनिवेशिक नीति (Colonial Policy)",
-            "D": "सैन्यवाद (Militarism)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 96,
-        "question": "भारत ने विभाजन के बाद किस देश के साथ सबसे पहले युद्ध किया? / After Partition, with which country did India first go to war?",
-        "options": {
-            "A": "पाकिस्तान (Pakistan)",
-            "B": "चीन (China)",
-            "C": "बांग्लादेश (Bangladesh)",
-            "D": "अफगानिस्तान (Afghanistan)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 97,
-        "question": "भारत की विदेश नीति में किस तत्व को सबसे अधिक महत्व दिया गया? / Which element was given the most importance in India’s foreign policy?",
-        "options": {
-            "A": "शांति और सह-अस्तित्व (Peace and coexistence)",
-            "B": "युद्ध और आक्रमण (War and aggression)",
-            "C": "औपनिवेशिक विस्तार (Colonial expansion)",
-            "D": "आर्थिक प्रतिबंध (Economic sanctions)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 98,
-        "question": "भारत के विदेश नीति में गुटनिरपेक्षता की घोषणा किस सम्मेलन में हुई? / At which conference was India’s Non-Alignment policy declared?",
-        "options": {
-            "A": "बेलग्रेड सम्मेलन, 1961 (Belgrade Conference, 1961)",
-            "B": "याल्टा सम्मेलन (Yalta Conference)",
-            "C": "तांत्रिक सम्मेलन (Tehran Conference)",
-            "D": "पोट्सडैम सम्मेलन (Potsdam Conference)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 99,
-        "question": "भारत ने विभाजन के बाद किस देश के साथ अपनी सीमा विवाद सुलझाने के लिए बातचीत की? / After Partition, with which country did India negotiate to resolve border disputes?",
-        "options": {
-            "A": "चीन (China)",
-            "B": "पाकिस्तान (Pakistan)",
-            "C": "नेपाल (Nepal)",
-            "D": "भूटान (Bhutan)"
-        },
-        "answer": [
-            "A"
-        ]
-    },
-    {
-        "id": 100,
-        "question": "भारत की विदेश नीति में विभाजन के बाद किस वैश्विक संघर्ष से बचने की कोशिश की गई? / Which global conflict did India try to avoid in its foreign policy after Partition?",
-        "options": {
-            "A": "शीत युद्ध (Cold War)",
-            "B": "पहला विश्व युद्ध (World War I)",
-            "C": "दूसरा विश्व युद्ध (World War II)",
-            "D": "कोरियन युद्ध (Korean War)"
-        },
-        "answer": [
-            "A"
-        ]
-    }
+  {
+    "id": 1,
+    "question": "किसने संस्कृत महाकाव्य 'रघुवंश' लिखा था? / Who authored the Sanskrit epic 'Raghuvamsa'?",
+    "options": {
+      "A": "कालिदास (Kalidas)",
+      "B": "भास (Bhasa)",
+      "C": "भर्तृहरि (Bhartṛhari)",
+      "D": "वेदव्यास (Ved Vyasa)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 2,
+    "question": "'मेघदूतम' किसने लिखा था? / Who wrote 'Meghdootam'?",
+    "options": {
+      "A": "कालिदास (Kalidas)",
+      "B": "भरवि (Bharavi)",
+      "C": "मघ (Magha)",
+      "D": "विष्णुदत्त (Vishnuddatta)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 3,
+    "question": "'अभिज्ञान शाकुंतलम' किसका प्रसिद्ध नाटक है? / 'Abhijnanasakuntalam' is a famous play of whom?",
+    "options": {
+      "A": "कालिदास (Kalidas)",
+      "B": "विष्णुदत्त (Vishnuddatta)",
+      "C": "विभूतिभूषण (Vibhutibhushan)",
+      "D": "भरवि (Bharavi)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 4,
+    "question": "'कादंबरी' उपन्यास के लेखक कौन हैं? / Who is the author of the novel 'Kadambari'?",
+    "options": {
+      "A": "बाणभट्ट (Banabhatta)",
+      "B": "कालिदास (Kalidas)",
+      "C": "विभूतिभूषण (Vibhutibhushan)",
+      "D": "भारवि (Bharavi)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 5,
+    "question": "'हर्षचरित' किसने लिखा? / Who wrote 'Harshacharita'?",
+    "options": {
+      "A": "बाणभट्ट (Banabhatta)",
+      "B": "कालिदास (Kalidas)",
+      "C": "विष्णुदत्त (Vishnuddatta)",
+      "D": "मघ (Magha)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 6,
+    "question": "'मुद्राराक्षस' नाटक किसका प्रसिद्ध कार्य है? / 'Mudrarakshasa' play is a famous work of whom?",
+    "options": {
+      "A": "विष्णुदत्त (Vishnuddatta)",
+      "B": "कालिदास (Kalidas)",
+      "C": "बाणभट्ट (Banabhatta)",
+      "D": "भरवि (Bharavi)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 7,
+    "question": "'किरातार्जुनीय' महाकाव्य के लेखक कौन हैं? / Who is the author of the epic 'Kiratarjuniya'?",
+    "options": {
+      "A": "भरवि (Bharavi)",
+      "B": "कालिदास (Kalidas)",
+      "C": "मघ (Magha)",
+      "D": "विष्णुदत्त (Vishnuddatta)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 8,
+    "question": "'शिशुपालवध' महाकाव्य किसका है? / 'Shishupalavadha' epic belongs to whom?",
+    "options": {
+      "A": "मघ (Magha)",
+      "B": "भरवि (Bharavi)",
+      "C": "कालिदास (Kalidas)",
+      "D": "बाणभट्ट (Banabhatta)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 9,
+    "question": "'अष्टाध्यायी' व्याकरण ग्रंथ के लेखक कौन हैं? / Who authored the grammar book 'Ashtadhyayi'?",
+    "options": {
+      "A": "पाणिनि (Panini)",
+      "B": "पतंजलि (Patanjali)",
+      "C": "कालिदास (Kalidas)",
+      "D": "भरवि (Bharavi)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 10,
+    "question": "'महाभाष्य' व्याकरण पर किसने लिखा? / Who wrote the 'Mahabhashya' commentary on grammar?",
+    "options": {
+      "A": "पतंजलि (Patanjali)",
+      "B": "पाणिनि (Panini)",
+      "C": "कालिदास (Kalidas)",
+      "D": "मघ (Magha)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 11,
+    "question": "'आर्यभटीय' ग्रंथ किसने लिखा था? / Who authored the 'Aryabhatiya'?",
+    "options": {
+      "A": "आर्यभट्ट (Aryabhata)",
+      "B": "वराहमिहिर (Varahamihira)",
+      "C": "भास्कराचार्य (Bhaskaracharya)",
+      "D": "विष्णु शर्मा (Vishnu Sharma)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 12,
+    "question": "'बृहदसंहिता' ग्रंथ किसका है? / 'Brihat Samhita' is the work of whom?",
+    "options": {
+      "A": "वराहमिहिर (Varahamihira)",
+      "B": "आर्यभट्ट (Aryabhata)",
+      "C": "मघ (Magha)",
+      "D": "पतंजलि (Patanjali)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 13,
+    "question": "किसने 'दशकुमारचरित' लिखा? / Who wrote 'Dashakumaracharita'?",
+    "options": {
+      "A": "दण्डिन (Dandin)",
+      "B": "कालिदास (Kalidas)",
+      "C": "बाणभट्ट (Banabhatta)",
+      "D": "भरवि (Bharavi)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 14,
+    "question": "'कामसूत्र' के लेखक कौन हैं? / Who is the author of 'Kamasutra'?",
+    "options": {
+      "A": "वात्स्यायन (Vatsyayana)",
+      "B": "पतंजलि (Patanjali)",
+      "C": "मघ (Magha)",
+      "D": "भरवि (Bharavi)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 15,
+    "question": "कालिदास ने कौन-से शास्त्र में महारत हासिल की थी? / In which field did Kalidas master?",
+    "options": {
+      "A": "काव्य और नाटक (Poetry and Drama)",
+      "B": "खगोल विज्ञान (Astronomy)",
+      "C": "व्याकरण (Grammar)",
+      "D": "चिकित्सा (Medicine)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 16,
+    "question": "वराहमिहिर के अनुसार, पृथ्वी का आकार क्या है? / According to Varahamihira, what is the shape of the Earth?",
+    "options": {
+      "A": "गोल (Spherical)",
+      "B": "चतुष्कोण (Square)",
+      "C": "अंडाकार (Egg-shaped)",
+      "D": "त्रिकोण (Triangular)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 17,
+    "question": "'महाकाव्य' का क्या अर्थ होता है? / What is the meaning of 'Mahakavya'?",
+    "options": {
+      "A": "लघु कथा (Short story)",
+      "B": "महान कविता (Epic poem)",
+      "C": "नाटक (Play)",
+      "D": "प्रबंध (Essay)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 18,
+    "question": "'कालिदास' किस काल के कवि थे? / Kalidas belonged to which period?",
+    "options": {
+      "A": "गुप्तकाल (Gupta Period)",
+      "B": "मौर्यकाल (Maurya Period)",
+      "C": "मध्यकाल (Medieval Period)",
+      "D": "वैदिक काल (Vedic Period)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 19,
+    "question": "किसने सबसे पहले शून्य (Zero) का उपयोग किया? / Who first used the concept of zero?",
+    "options": {
+      "A": "आर्यभट्ट (Aryabhata)",
+      "B": "वराहमिहिर (Varahamihira)",
+      "C": "भगदत्त (Bhagadatta)",
+      "D": "भास्कराचार्य (Bhaskaracharya)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 20,
+    "question": "'पंच सिद्धांतिका' किसका प्रसिद्ध ग्रंथ है? / Who wrote the famous work 'Pancha Siddhantika'?",
+    "options": {
+      "A": "वराहमिहिर (Varahamihira)",
+      "B": "आर्यभट्ट (Aryabhata)",
+      "C": "मघ (Magha)",
+      "D": "पतंजलि (Patanjali)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 21,
+    "question": "'विभूषण' शब्द का क्या अर्थ है? / What does the word 'Vibhushan' mean?",
+    "options": {
+      "A": "सज्जा (Ornament)",
+      "B": "पुस्तक (Book)",
+      "C": "गीत (Song)",
+      "D": "कवि (Poet)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 22,
+    "question": "'शकुंतला' नाटक किस विषय पर आधारित है? / The play 'Shakuntala' is based on which subject?",
+    "options": {
+      "A": "प्रेम कथा (Love story)",
+      "B": "धार्मिक कथा (Religious story)",
+      "C": "इतिहास (History)",
+      "D": "राजनीति (Politics)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 23,
+    "question": "'बाणभट्ट' किसके समकालीन थे? / Banabhatta was contemporary to which ruler?",
+    "options": {
+      "A": "हर्षवर्धन (Harshavardhana)",
+      "B": "चन्द्रगुप्त मौर्य (Chandragupta Maurya)",
+      "C": "अशोक (Ashoka)",
+      "D": "सम्राट सम्राट विक्रमादित्य (Emperor Vikramaditya)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 24,
+    "question": "'कालिदास' की प्रमुख कृतियाँ कौन-कौन सी हैं? / What are the main works of Kalidas?",
+    "options": {
+      "A": "मेघदूत, अभिज्ञान शाकुंतलम, कुमारसम्भव",
+      "B": "शिशुपाल वध, किरातार्जुनीय",
+      "C": "मुद्राराक्षस, कादंबरी",
+      "D": "महाभाष्य, अष्टाध्यायी"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 25,
+    "question": "'बृहदसंहिता' में कौन-कौन से विषय शामिल हैं? / Which subjects are included in 'Brihat Samhita'?",
+    "options": {
+      "A": "खगोल विज्ञान, वास्तुकला, मौसम विज्ञान (Astronomy, Architecture, Meteorology)",
+      "B": "व्याकरण, काव्यशास्त्र (Grammar, Poetics)",
+      "C": "धर्मशास्त्र, राजनीति (Religious texts, Politics)",
+      "D": "इतिहास, भूगोल (History, Geography)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 26,
+    "question": "'कालिदास' के समय में किस सम्राट का शासन था? / During Kalidas' time, who was the emperor?",
+    "options": {
+      "A": "चंद्रगुप्त प्रथम (Chandragupta I)",
+      "B": "चंद्रगुप्त मौर्य (Chandragupta Maurya)",
+      "C": "हर्षवर्धन (Harshavardhana)",
+      "D": "अशोक (Ashoka)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 27,
+    "question": "'काव्य' शब्द का अर्थ क्या है? / What is the meaning of 'Kavya'?",
+    "options": {
+      "A": "काव्य शास्त्र (Poetics)",
+      "B": "कविता (Poetry)",
+      "C": "नाटक (Drama)",
+      "D": "गीत (Song)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 28,
+    "question": "'हर्षचरित' किस भाषा में लिखा गया था? / In which language was 'Harshacharita' written?",
+    "options": {
+      "A": "संस्कृत (Sanskrit)",
+      "B": "पाली (Pali)",
+      "C": "प्राकृत (Prakrit)",
+      "D": "तमिल (Tamil)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 29,
+    "question": "'दशकुमारचरित' किस भाषा में लिखा गया था? / In which language was 'Dashakumaracharita' written?",
+    "options": {
+      "A": "संस्कृत (Sanskrit)",
+      "B": "प्राकृत (Prakrit)",
+      "C": "पंजाबी (Punjabi)",
+      "D": "तमिल (Tamil)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 30,
+    "question": "'वात्स्यायन' किस विषय के लिए प्रसिद्ध हैं? / Vatsyayana is famous for which subject?",
+    "options": {
+      "A": "कामशास्त्र (Kamasutra)",
+      "B": "व्याकरण (Grammar)",
+      "C": "नाटक (Drama)",
+      "D": "इतिहास (History)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 31,
+    "question": "'कालिदास' के अनुसार प्रकृति का सुंदर चित्रण किस ग्रंथ में मिलता है? / According to Kalidas, which work depicts the beauty of nature?",
+    "options": {
+      "A": "मेघदूत (Meghdoot)",
+      "B": "रघुवंश (Raghuvamsa)",
+      "C": "अभिज्ञान शाकुंतलम (Abhijnanasakuntalam)",
+      "D": "कुमारसम्भव (Kumarasambhava)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 32,
+    "question": "'विष्णुदत्त' किस प्रकार के साहित्यकार थे? / What type of writer was Vishnuddatta?",
+    "options": {
+      "A": "नाटककार (Playwright)",
+      "B": "कवि (Poet)",
+      "C": "इतिहासकार (Historian)",
+      "D": "वैज्ञानिक (Scientist)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 33,
+    "question": "'पतंजलि' ने कौन सा महत्त्वपूर्ण ग्रंथ लिखा? / Which important work did Patanjali write?",
+    "options": {
+      "A": "महाभाष्य (Mahabhashya)",
+      "B": "अष्टाध्यायी (Ashtadhyayi)",
+      "C": "कामसूत्र (Kamasutra)",
+      "D": "बृहदसंहिता (Brihat Samhita)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 34,
+    "question": "'आर्यभट्ट' ने किस विषय में योगदन दिया? / Aryabhata contributed to which field?",
+    "options": {
+      "A": "गणित और खगोल विज्ञान (Mathematics and Astronomy)",
+      "B": "व्याकरण (Grammar)",
+      "C": "धर्मशास्त्र (Religious texts)",
+      "D": "काव्य (Poetry)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 36,
+    "question": "‘अभिज्ञानशाकुंतलम्’ में राजा दुश्यन्त किस परिस्थिति में शकुंतला को भूल जाते हैं? / In 'Abhijnanasakuntalam', under what condition does King Dushyanta forget Shakuntala?",
+    "options": {
+      "A": "ऋषि दुर्वासा के श्राप से (Due to Sage Durvasa's curse)",
+      "B": "युद्ध में आघात लगने से (Due to injury in battle)",
+      "C": "स्वेच्छा से त्याग करने पर (By voluntary abandonment)",
+      "D": "समुद्र यात्रा के दौरान (During a sea voyage)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 37,
+    "question": "‘मृच्छकटिकम्’ में चारुदत्त का पेशा क्या है? / What is Charudatta's profession in 'Mrichchhakatika'?",
+    "options": {
+      "A": "वणिक (Merchant)",
+      "B": "राजकुमार (Prince)",
+      "C": "सैनिक (Soldier)",
+      "D": "पुरोहित (Priest)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 38,
+    "question": "‘कुमारसंभवम्’ का मुख्य विषय क्या है? / What is the central theme of 'Kumarasambhavam'?",
+    "options": {
+      "A": "राम और सीता का विवाह (Marriage of Rama and Sita)",
+      "B": "शिव और पार्वती का विवाह (Marriage of Shiva and Parvati)",
+      "C": "कृष्ण लीला (Krishna's life events)",
+      "D": "गौतम बुद्ध का जीवन (Life of Gautama Buddha)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 39,
+    "question": "‘अर्थशास्त्र’ के किस अध्याय में जासूसी तंत्र का वर्णन है? / In which chapter of 'Arthashastra' is the espionage system described?",
+    "options": {
+      "A": "प्रथम अध्याय (First chapter)",
+      "B": "द्वितीय अध्याय (Second chapter)",
+      "C": "सप्तम अध्याय (Seventh chapter)",
+      "D": "चतुर्दश अध्याय (Fourteenth chapter)"
+    },
+    "answer": ["D"]
+  },
+  {
+    "id": 40,
+    "question": "‘बृहत्संहिता’ में किस विषय पर विस्तृत जानकारी मिलती है? / On which topic does 'Brihat Samhita' give extensive details?",
+    "options": {
+      "A": "केवल ज्योतिष (Only astrology)",
+      "B": "ज्योतिष, वास्तु, कृषि, मौसम आदि (Astrology, architecture, agriculture, weather, etc.)",
+      "C": "सिर्फ़ खगोल विज्ञान (Only astronomy)",
+      "D": "केवल चिकित्सा विज्ञान (Only medicine)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 41,
+    "question": "‘मेघदूत’ में यक्ष किस ऋतु में संदेश भेजता है? / In 'Meghaduta', during which season does the Yaksha send his message?",
+    "options": {
+      "A": "ग्रीष्म ऋतु (Summer)",
+      "B": "वर्षा ऋतु (Monsoon)",
+      "C": "शीत ऋतु (Winter)",
+      "D": "वसंत ऋतु (Spring)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 42,
+    "question": "‘रघुवंश’ में कुल किती सर्ग हैं? / How many cantos are there in 'Raghuvamsha'?",
+    "options": {
+      "A": "16",
+      "B": "19",
+      "C": "21",
+      "D": "25"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 43,
+    "question": "‘नाट्यशास्त्र’ में अभिनय के कितने प्रकार बताए गए हैं? / How many types of acting are described in 'Natyashastra'?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 44,
+    "question": "‘हर्षचरित’ में बाणभट्ट ने किस शासक का जीवन वर्णन किया है? / In 'Harshacharita', whose life has Banabhatta described?",
+    "options": {
+      "A": "चंद्रगुप्त मौर्य (Chandragupta Maurya)",
+      "B": "हर्षवर्धन (Harshavardhana)",
+      "C": "समुद्रगुप्त (Samudragupta)",
+      "D": "विक्रमादित्य (Vikramaditya)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 45,
+    "question": "‘चरक संहिता’ मुख्यतः किस विज्ञान से जुड़ी है? / 'Charaka Samhita' is mainly related to which branch of science?",
+    "options": {
+      "A": "अर्थशास्त्र (Economics)",
+      "B": "ज्योतिष (Astrology)",
+      "C": "आयुर्वेद (Ayurveda)",
+      "D": "खगोल विज्ञान (Astronomy)"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 46,
+    "question": "‘पंचसिद्धांतिका’ में कितनी खगोलीय पद्धतियों का वर्णन है? / How many astronomical systems are described in 'Pancha Siddhantika'?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 47,
+    "question": "‘कामसूत्र’ किस विद्वान द्वारा लिखी गई थी? / Who wrote the 'Kamasutra'?",
+    "options": {
+      "A": "पतंजलि (Patanjali)",
+      "B": "वात्स्यायन (Vatsyayana)",
+      "C": "कालिदास (Kalidasa)",
+      "D": "वराहमिहिर (Varahamihira)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 48,
+    "question": "‘अमरकोश’ का विषय क्या है? / What is the subject of 'Amarakosha'?",
+    "options": {
+      "A": "भूगोल (Geography)",
+      "B": "शब्दकोश (Lexicon)",
+      "C": "काव्यशास्त्र (Poetics)",
+      "D": "इतिहास (History)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 49,
+    "question": "‘आर्यभटीय’ में गणित के अलावा किस विषय का विस्तार से वर्णन है? / Apart from mathematics, which subject is extensively discussed in 'Aryabhatiya'?",
+    "options": {
+      "A": "अर्थशास्त्र (Economics)",
+      "B": "खगोल विज्ञान (Astronomy)",
+      "C": "वास्तुशास्त्र (Architecture)",
+      "D": "चिकित्सा विज्ञान (Medicine)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 50,
+    "question": "‘देवी चंद्रगुप्तम’ किस प्रकार का साहित्य है? / What type of literature is 'Devi Chandraguptam'?",
+    "options": {
+      "A": "ऐतिहासिक नाटक (Historical drama)",
+      "B": "महाकाव्य (Epic)",
+      "C": "नीति शास्त्र (Treatise on ethics)",
+      "D": "काव्य संग्रह (Poetry collection)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 51,
+    "question": "‘मिलिंद पन्हा’ किस शासक और भिक्षु के बीच संवाद है? / 'Milinda Panha' is a dialogue between which ruler and monk?",
+    "options": {
+      "A": "अशोक और उपगुप्त (Ashoka and Upagupta)",
+      "B": "मेनांडर और नागसेन (Menander and Nagasena)",
+      "C": "कनिष्क और वसुमित्र (Kanishka and Vasumitra)",
+      "D": "हुविश्क और अश्वघोष (Huvishka and Ashvaghosha)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 52,
+    "question": "‘बुद्धचरित’ में किसके जीवन का वर्णन है? / Whose life is described in 'Buddhacharita'?",
+    "options": {
+      "A": "गौतम बुद्ध (Gautama Buddha)",
+      "B": "महावीर (Mahavira)",
+      "C": "अशोक (Ashoka)",
+      "D": "कुमारजीव (Kumarajiva)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 53,
+    "question": "‘सौन्दरानंद’ के लेखक अश्वघोष ने किस विषय पर यह काव्य लिखा? / What is the theme of Ashvaghosha's 'Saundarananda'?",
+    "options": {
+      "A": "राजनीतिक युद्ध (Political wars)",
+      "B": "नंद के बौद्ध धर्म ग्रहण करने की कथा (Story of Nanda's conversion to Buddhism)",
+      "C": "गुप्त कालीन प्रशासन (Gupta administration)",
+      "D": "ग्राम जीवन का वर्णन (Village life description)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 54,
+    "question": "‘महावस्तु’ किस परंपरा का ग्रंथ है? / 'Mahavastu' belongs to which tradition?",
+    "options": {
+      "A": "महायान बौद्ध (Mahayana Buddhist)",
+      "B": "हीनयान बौद्ध (Hinayana Buddhist)",
+      "C": "जैन (Jain)",
+      "D": "वैदिक (Vedic)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 55,
+    "question": "‘ललितविस्तर’ में मुख्यतः क्या वर्णित है? / What is mainly described in 'Lalitavistara'?",
+    "options": {
+      "A": "गौतम बुद्ध का जीवन (Life of Gautama Buddha)",
+      "B": "महावीर के उपदेश (Teachings of Mahavira)",
+      "C": "कनिष्क के युद्ध (Wars of Kanishka)",
+      "D": "अशोक के शिलालेख (Edicts of Ashoka)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 56,
+    "question": "‘दिव्यावदान’ किस भाषा में रचित है? / In which language is 'Divyavadana' composed?",
+    "options": {
+      "A": "संस्कृत (Sanskrit)",
+      "B": "पाली (Pali)",
+      "C": "प्राकृत (Prakrit)",
+      "D": "तिब्बती (Tibetan)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 57,
+    "question": "‘महायान सूत्रालंकार’ का संबंध किस विषय से है? / 'Mahayana Sutralankara' is related to which subject?",
+    "options": {
+      "A": "बौद्ध दर्शन (Buddhist philosophy)",
+      "B": "वैदिक अनुष्ठान (Vedic rituals)",
+      "C": "जैन आगम (Jain Agamas)",
+      "D": "अर्थशास्त्र (Economics)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 58,
+    "question": "‘अवतंसक सूत्र’ में किस आदर्श की व्याख्या है? / Which ideal is explained in 'Avatamsaka Sutra'?",
+    "options": {
+      "A": "अहिंसा (Non-violence)",
+      "B": "बोधिसत्त्व मार्ग (Bodhisattva path)",
+      "C": "वर्ण व्यवस्था (Caste system)",
+      "D": "त्याग व संन्यास (Renunciation)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 59,
+    "question": "‘महायान महासंघिका विनय’ किस प्रकार का ग्रंथ है? / What type of text is 'Mahayana Mahasanghika Vinaya'?",
+    "options": {
+      "A": "धार्मिक नियमावली (Monastic code)",
+      "B": "काव्य (Poetry)",
+      "C": "इतिहास (History)",
+      "D": "राजनीतिक ग्रंथ (Political treatise)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 60,
+    "question": "‘लंकावतार सूत्र’ किस दार्शनिक विचारधारा से जुड़ा है? / 'Lankavatara Sutra' is linked to which philosophical school?",
+    "options": {
+      "A": "योगाचार (Yogachara)",
+      "B": "सांख्य (Samkhya)",
+      "C": "वैष्णव (Vaishnava)",
+      "D": "चार्वाक (Charvaka)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 61,
+    "question": "‘गाथा सप्तशती’ किस भाषा में लिखी गई है? / In which language was 'Gatha Saptashati' written?",
+    "options": {
+      "A": "संस्कृत (Sanskrit)",
+      "B": "पाली (Pali)",
+      "C": "प्राकृत (Prakrit)",
+      "D": "अपभ्रंश (Apabhramsha)"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 62,
+    "question": "‘गाथा सप्तशती’ के रचयिता कौन माने जाते हैं? / Who is considered the author of 'Gatha Saptashati'?",
+    "options": {
+      "A": "हुविश्क (Huvishka)",
+      "B": "हल सतवाहन (Hala Satavahana)",
+      "C": "नागार्जुन (Nagarjuna)",
+      "D": "वसुबंधु (Vasubandhu)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 63,
+    "question": "‘प्रज्ञापारमिता सूत्र’ किस महत्त्वपूर्ण सिद्धांत को दर्शाता है? / Which important doctrine is depicted in 'Prajnaparamita Sutra'?",
+    "options": {
+      "A": "शून्यवाद (Shunyavada)",
+      "B": "सांख्य तत्त्व (Samkhya principles)",
+      "C": "भक्ति मार्ग (Path of devotion)",
+      "D": "कर्म सिद्धांत (Doctrine of Karma)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 64,
+    "question": "‘मध्यमक कारिका’ के लेखक कौन थे? / Who was the author of 'Madhyamaka Karika'?",
+    "options": {
+      "A": "अश्वघोष (Ashvaghosha)",
+      "B": "नागार्जुन (Nagarjuna)",
+      "C": "वसुबंधु (Vasubandhu)",
+      "D": "धर्मपाल (Dharmapala)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 65,
+    "question": "‘वसुबंधु’ द्वारा रचित ‘अभिधर्मकोश’ का विषय क्या है? / What is the subject of Vasubandhu's 'Abhidharmakosha'?",
+    "options": {
+      "A": "बौद्ध तत्वज्ञान और दर्शन (Buddhist metaphysics and philosophy)",
+      "B": "खगोल विज्ञान (Astronomy)",
+      "C": "राजनीति शास्त्र (Political science)",
+      "D": "काव्यशास्त्र (Poetics)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 66,
+    "question": "‘सद्धर्मपुण्डरीक सूत्र’ में किस विचार को महत्त्व दिया गया है? / Which concept is emphasized in 'Saddharma Pundarika Sutra'?",
+    "options": {
+      "A": "एकयान सिद्धांत (Ekayana doctrine)",
+      "B": "तीन लोक सिद्धांत (Three-world doctrine)",
+      "C": "आठ अंग मार्ग (Eightfold path)",
+      "D": "वर्ण-व्यवस्था (Caste system)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 67,
+    "question": "‘मणिमेखलै’ किस भाषा में लिखी गई है? / In which language was 'Manimekalai' composed?",
+    "options": {
+      "A": "संस्कृत (Sanskrit)",
+      "B": "तमिल (Tamil)",
+      "C": "प्राकृत (Prakrit)",
+      "D": "पाली (Pali)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 68,
+    "question": "‘मणिमेखलै’ किस धार्मिक परंपरा को दर्शाती है? / Which religious tradition does 'Manimekalai' depict?",
+    "options": {
+      "A": "बौद्ध (Buddhist)",
+      "B": "जैन (Jain)",
+      "C": "वैष्णव (Vaishnava)",
+      "D": "शैव (Shaiva)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 69,
+    "question": "‘शिलप्पदिकारम्’ में किस नगर का वर्णन प्रमुख है? / Which city is prominently described in 'Silappadikaram'?",
+    "options": {
+      "A": "उज्जैन (Ujjain)",
+      "B": "मदुरै (Madurai)",
+      "C": "पाटलिपुत्र (Pataliputra)",
+      "D": "काशी (Kashi)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 70,
+    "question": "‘शिलप्पदिकारम्’ की नायिका का नाम क्या है? / What is the name of the heroine of 'Silappadikaram'?",
+    "options": {
+      "A": "मणिमेखलै (Manimekalai)",
+      "B": "कण्णगी (Kannagi)",
+      "C": "कोवलन (Kovalan)",
+      "D": "मल्लिका (Mallika)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 71,
+    "question": "संगम साहित्य का काल किसे माना जाता है? / Which period is considered as the Sangam Age?",
+    "options": {
+      "A": "300 BCE – 300 CE",
+      "B": "600 BCE – 100 CE",
+      "C": "200 CE – 600 CE",
+      "D": "100 BCE – 500 CE"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 72,
+    "question": "संगम साहित्य किस भाषा में रचित है? / In which language is Sangam literature composed?",
+    "options": {
+      "A": "संस्कृत (Sanskrit)",
+      "B": "तमिल (Tamil)",
+      "C": "प्राकृत (Prakrit)",
+      "D": "पाली (Pali)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 73,
+    "question": "‘एट्टुत्तोगै’ किस प्रकार का संकलन है? / 'Ettuthogai' is a collection of what?",
+    "options": {
+      "A": "आठ महाकाव्य (Eight epics)",
+      "B": "आठ लघु काव्य संग्रह (Eight anthologies)",
+      "C": "आठ धार्मिक ग्रंथ (Eight religious texts)",
+      "D": "आठ व्याकरण शास्त्र (Eight grammar texts)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 74,
+    "question": "‘पट्टुपाट्टु’ में कितनी लंबी कविताएँ सम्मिलित हैं? / How many long poems are included in 'Pattuppattu'?",
+    "options": {
+      "A": "10",
+      "B": "8",
+      "C": "5",
+      "D": "12"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 75,
+    "question": "‘तोलकाप्पियम’ किस विषय पर ग्रंथ है? / 'Tolkappiyam' is a treatise on which subject?",
+    "options": {
+      "A": "धर्मशास्त्र (Dharmashastra)",
+      "B": "व्याकरण और काव्यशास्त्र (Grammar and poetics)",
+      "C": "राजनीति (Politics)",
+      "D": "संगीत (Music)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 76,
+    "question": "संगम साहित्य में वर्णित तीन तमिल राजवंश कौन से हैं? / Which three Tamil dynasties are mentioned in Sangam literature?",
+    "options": {
+      "A": "चेरा, चोल, पांड्य (Chera, Chola, Pandya)",
+      "B": "चेर, चालुक्य, पल्लव (Cher, Chalukya, Pallava)",
+      "C": "चोल, पल्लव, कदंब (Chola, Pallava, Kadamba)",
+      "D": "चेर, होयसाल, चोल (Cher, Hoysala, Chola)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 77,
+    "question": "‘पेरुम्पाणाट्रुप्पडई’ किस वंश के राजा की प्रशंसा करती है? / 'Perumpanarruppadai' praises the king of which dynasty?",
+    "options": {
+      "A": "चेरा (Chera)",
+      "B": "चोल (Chola)",
+      "C": "पांड्य (Pandya)",
+      "D": "सातवाहन (Satavahana)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 78,
+    "question": "‘मदुरै कांची’ में किस नगर का वर्णन है? / Which city is described in 'Maduraikkanchi'?",
+    "options": {
+      "A": "उज्जैन (Ujjain)",
+      "B": "मदुरै (Madurai)",
+      "C": "कांची (Kanchi)",
+      "D": "पुहार (Puhar)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 79,
+    "question": "‘पत्तिनप्पालै’ में किस बंदरगाह नगर का वर्णन है? / Which port city is described in 'Pattinappalai'?",
+    "options": {
+      "A": "पुहार (Puhar)",
+      "B": "मुसिरी (Musiri)",
+      "C": "तूतुकुड़ी (Tuticorin)",
+      "D": "कोवलम (Kovalam)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 80,
+    "question": "संगम साहित्य में ‘अहम’ और ‘पुरम’ का क्या अर्थ है? / What do 'Aham' and 'Puram' mean in Sangam literature?",
+    "options": {
+      "A": "अहम - प्रेम काव्य, पुरम - वीरता और सार्वजनिक जीवन (Aham - love poetry, Puram - heroism & public life)",
+      "B": "अहम - राजनीति, पुरम - व्यापार (Aham - politics, Puram - trade)",
+      "C": "अहम - धर्म, पुरम - अर्थ (Aham - religion, Puram - economy)",
+      "D": "अहम - नृत्य, पुरम - संगीत (Aham - dance, Puram - music)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 81,
+    "question": "मेगस्थनीज ने किस मौर्य शासक के दरबार में यात्रा की? / Megasthenes visited the court of which Mauryan ruler?",
+    "options": {
+      "A": "चंद्रगुप्त मौर्य (Chandragupta Maurya)",
+      "B": "बिन्दुसार (Bindusara)",
+      "C": "अशोक (Ashoka)",
+      "D": "दशरथ (Dasharatha)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 82,
+    "question": "मेगस्थनीज की पुस्तक का नाम क्या है? / What is the name of Megasthenes' book?",
+    "options": {
+      "A": "इंडिका (Indica)",
+      "B": "पेरिप्लस (Periplus)",
+      "C": "जियोग्राफिका (Geographica)",
+      "D": "अनाबेसिस (Anabasis)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 83,
+    "question": "‘Periplus of the Erythraean Sea’ में किस क्षेत्र के व्यापार का वर्णन है? / 'Periplus of the Erythraean Sea' describes trade of which region?",
+    "options": {
+      "A": "भूमध्यसागर (Mediterranean)",
+      "B": "भारतीय महासागर (Indian Ocean)",
+      "C": "एशिया माइनर (Asia Minor)",
+      "D": "सहारा क्षेत्र (Saharan region)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 84,
+    "question": "‘प्लिनी द एल्डर’ ने भारतीय वस्तुओं में किसे सबसे महंगा बताया? / Pliny the Elder considered which Indian product most expensive?",
+    "options": {
+      "A": "काली मिर्च (Black pepper)",
+      "B": "सोना (Gold)",
+      "C": "रेशम (Silk)",
+      "D": "मोती (Pearls)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 85,
+    "question": "‘Claudius Ptolemy’ किस विषय के लिए प्रसिद्ध हैं? / Claudius Ptolemy is famous for which subject?",
+    "options": {
+      "A": "खगोल एवं भूगोल (Astronomy and Geography)",
+      "B": "चिकित्सा (Medicine)",
+      "C": "राजनीति (Politics)",
+      "D": "काव्य (Poetry)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 86,
+    "question": "‘फाह्यान’ किस शासक के काल में भारत आए? / Fa-Hien visited India during the reign of which ruler?",
+    "options": {
+      "A": "चंद्रगुप्त प्रथम (Chandragupta I)",
+      "B": "समुद्रगुप्त (Samudragupta)",
+      "C": "चंद्रगुप्त द्वितीय विक्रमादित्य (Chandragupta II Vikramaditya)",
+      "D": "कुमारगुप्त (Kumaragupta)"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 87,
+    "question": "फाह्यान ने भारत में किस विषय पर विशेष ध्यान दिया? / What was Fa-Hien particularly focused on in India?",
+    "options": {
+      "A": "राजनीतिक स्थिति (Political condition)",
+      "B": "धार्मिक जीवन और बौद्ध तीर्थ (Religious life and Buddhist pilgrimages)",
+      "C": "व्यापारिक मार्ग (Trade routes)",
+      "D": "सैन्य शक्ति (Military power)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 88,
+    "question": "ह्वेनसांग भारत कब आए थे? / When did Xuanzang (Hiuen Tsang) visit India?",
+    "options": {
+      "A": "4th century CE",
+      "B": "5th century CE",
+      "C": "7th century CE",
+      "D": "8th century CE"
+    },
+    "answer": ["C"]
+  },
+  {
+    "id": 89,
+    "question": "ह्वेनसांग किस भारतीय शासक के दरबार में आए? / Xuanzang visited the court of which Indian ruler?",
+    "options": {
+      "A": "हर्षवर्धन (Harshavardhana)",
+      "B": "समुद्रगुप्त (Samudragupta)",
+      "C": "चंद्रगुप्त II (Chandragupta II)",
+      "D": "कुमारगुप्त (Kumaragupta)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 90,
+    "question": "अल-बेरूनी किस काल में भारत आए थे? / Al-Biruni visited India during which period?",
+    "options": {
+      "A": "दिल्ली सल्तनत (Delhi Sultanate)",
+      "B": "गजनवी (Ghaznavid)",
+      "C": "मुगल (Mughal)",
+      "D": "गुप्त (Gupta)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 91,
+    "question": "अल-बेरूनी की पुस्तक का नाम क्या है? / What is the name of Al-Biruni's book?",
+    "options": {
+      "A": "तहकीक-ए-हिंद (Tahqiq-i-Hind)",
+      "B": "तबकात-ए-नासिरी (Tabaqat-i-Nasiri)",
+      "C": "अकबरनामा (Akbarnama)",
+      "D": "आइन-ए-अकबरी (Ain-i-Akbari)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 92,
+    "question": "मार्को पोलो ने भारत के किस भाग का वर्णन किया? / Marco Polo described which part of India?",
+    "options": {
+      "A": "उत्तर भारत (North India)",
+      "B": "दक्षिण भारत (South India)",
+      "C": "पश्चिम भारत (West India)",
+      "D": "पूरब भारत (East India)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 93,
+    "question": "‘Nicolo Conti’ ने भारत में किस चीज़ का विशेष वर्णन किया? / Nicolo Conti gave a detailed description of what in India?",
+    "options": {
+      "A": "मसाले और व्यापार (Spices and trade)",
+      "B": "युद्ध कला (Art of war)",
+      "C": "मूर्तिकला (Sculpture)",
+      "D": "राजनीतिक व्यवस्था (Political system)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 94,
+    "question": "इब्न बतूता किस शासक के दरबार में आए थे? / Ibn Battuta came to the court of which ruler?",
+    "options": {
+      "A": "अलाउद्दीन खिलजी (Alauddin Khilji)",
+      "B": "मुहम्मद बिन तुगलक (Muhammad bin Tughlaq)",
+      "C": "शेरशाह सूरी (Sher Shah Suri)",
+      "D": "अकबर (Akbar)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 95,
+    "question": "इब्न बतूता की यात्रा वृत्तांत का नाम क्या है? / What is the name of Ibn Battuta's travelogue?",
+    "options": {
+      "A": "रिहला (Rihla)",
+      "B": "तारिख-ए-फिरोजशाही (Tarikh-i-Firuz Shahi)",
+      "C": "तारीख-ए-यामिनी (Tarikh-i-Yamini)",
+      "D": "अल-कानून (Al-Qanun)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 96,
+    "question": "‘पेरिप्लस’ में उल्लेखित ‘सोफिर’ किसे माना जाता है? / In 'Periplus', what is 'Sofir' believed to be?",
+    "options": {
+      "A": "भरुच (Bharuch)",
+      "B": "सोपारा (Sopara)",
+      "C": "सूरत (Surat)",
+      "D": "ताम्रलिप्ति (Tamralipti)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 97,
+    "question": "प्लिनी ने रोमन सोने के भारत में जाने पर क्या टिप्पणी की थी? / What did Pliny say about Roman gold going to India?",
+    "options": {
+      "A": "भारत की अर्थव्यवस्था पर नकारात्मक प्रभाव (Negative effect on Indian economy)",
+      "B": "रोम की अर्थव्यवस्था के पतन का कारण (Cause of Roman economic decline)",
+      "C": "सोने का मूल्य बढ़ा (Gold value increased)",
+      "D": "भारत में महंगाई बढ़ी (Inflation in India)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 98,
+    "question": "प्टोलमी के अनुसार भारत का दक्षिणी सिरे का नाम क्या था? / According to Ptolemy, what was the name of the southern tip of India?",
+    "options": {
+      "A": "कोमोरिन (Comorin)",
+      "B": "केपोरिन (Capeorin)",
+      "C": "मलबार (Malabar)",
+      "D": "तम्रपर्णी (Tamraparni)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 99,
+    "question": "ह्वेनसांग ने किस विश्वविद्यालय में अध्ययन किया? / Xuanzang studied at which university?",
+    "options": {
+      "A": "नालंदा (Nalanda)",
+      "B": "तक्षशिला (Takshashila)",
+      "C": "विक्रमशिला (Vikramashila)",
+      "D": "वलभी (Valabhi)"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 100,
+    "question": "अल-बेरूनी ने भारत के किस ज्ञान क्षेत्र का विशेष अध्ययन किया? / Al-Biruni made a special study of which field of Indian knowledge?",
+    "options": {
+      "A": "गणित और खगोल (Mathematics and astronomy)",
+      "B": "काव्य (Poetry)",
+      "C": "धर्मशास्त्र (Religious law)",
+      "D": "संगीत (Music)"
+    },
+    "answer": ["A"]
+  }
 ]
+
+
+ 
