@@ -1,1094 +1,1080 @@
 [
   {
     "id": 1,
-    "question": "किसने संस्कृत महाकाव्य 'रघुवंश' लिखा था? / Who authored the Sanskrit epic 'Raghuvamsa'?",
+    "question": "श्रृमण आन्दोलन किस प्रकार के जीवन और दर्शन को प्रोत्साहित करते थे? / What type of life and philosophy did Shramana movements promote?",
     "options": {
-      "A": "कालिदास (Kalidas)",
-      "B": "भास (Bhasa)",
-      "C": "भर्तृहरि (Bhartṛhari)",
-      "D": "वेदव्यास (Ved Vyasa)"
+      "A": "अत्यधिक तपस्या और संन्यास (Severe austerity and renunciation)",
+      "B": "वेदों के अनुष्ठान (Vedic rituals)",
+      "C": "आत्मा का आत्मानुसंधान (Self-inquiry of the soul)",
+      "D": "भौतिक सुखों का उपभोग (Enjoyment of material pleasures)"
     },
-    "answer": ["A"]
+    "answer": ["A", "C"]
   },
   {
     "id": 2,
-    "question": "'मेघदूतम' किसने लिखा था? / Who wrote 'Meghdootam'?",
+    "question": "अजिविका दर्शन के मुख्य तत्व कौन-कौन से थे? / What were the main elements of Ajivika philosophy?",
     "options": {
-      "A": "कालिदास (Kalidas)",
-      "B": "भरवि (Bharavi)",
-      "C": "मघ (Magha)",
-      "D": "विष्णुदत्त (Vishnuddatta)"
+      "A": "भविष्यवाणी (Prediction)",
+      "B": "नियति (Determinism)",
+      "C": "कर्म का प्रभाव (Effect of karma)",
+      "D": "आत्मा की अनन्तता (Eternity of soul)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 3,
-    "question": "'अभिज्ञान शाकुंतलम' किसका प्रसिद्ध नाटक है? / 'Abhijnanasakuntalam' is a famous play of whom?",
+    "question": "लोकायत/चार्वाक दर्शन की विशेषताएं क्या थीं? / What were the features of Lokayata/Charvaka philosophy?",
     "options": {
-      "A": "कालिदास (Kalidas)",
-      "B": "विष्णुदत्त (Vishnuddatta)",
-      "C": "विभूतिभूषण (Vibhutibhushan)",
-      "D": "भरवि (Bharavi)"
+      "A": "सिर्फ इन्द्रिय ज्ञान को स्वीकारना (Acceptance only of sensory knowledge)",
+      "B": "परलोक और पुनर्जन्म को स्वीकारना (Acceptance of afterlife and rebirth)",
+      "C": "यज्ञ और पूजा को नकारना (Rejection of rituals and worship)",
+      "D": "आध्यात्मिक ज्ञान की अनिवार्यता (Necessity of spiritual knowledge)"
     },
-    "answer": ["A"]
+    "answer": ["A", "C"]
   },
   {
     "id": 4,
-    "question": "'कादंबरी' उपन्यास के लेखक कौन हैं? / Who is the author of the novel 'Kadambari'?",
+    "question": "श्रृमण संप्रदायों का वेदों से मुख्य भेद क्या था? / What was the main difference of Shramana sects from the Vedas?",
     "options": {
-      "A": "बाणभट्ट (Banabhatta)",
-      "B": "कालिदास (Kalidas)",
-      "C": "विभूतिभूषण (Vibhutibhushan)",
-      "D": "भारवि (Bharavi)"
+      "A": "वेदों का पूर्ण सम्मान (Complete reverence for Vedas)",
+      "B": "वेदों की परंपराओं का विरोध (Opposition to Vedic traditions)",
+      "C": "अत्यधिक तपस्या और संयम (Severe austerity and restraint)",
+      "D": "राजनीतिक सत्ता की खोज (Search for political power)"
     },
-    "answer": ["A"]
+    "answer": ["B", "C"]
   },
   {
     "id": 5,
-    "question": "'हर्षचरित' किसने लिखा? / Who wrote 'Harshacharita'?",
+    "question": "अजिविका दर्शन में निम्नलिखित में से कौन-सी धारणा नहीं थी? / Which of the following was NOT a belief of Ajivika philosophy?",
     "options": {
-      "A": "बाणभट्ट (Banabhatta)",
-      "B": "कालिदास (Kalidas)",
-      "C": "विष्णुदत्त (Vishnuddatta)",
-      "D": "मघ (Magha)"
+      "A": "नियति से सबकुछ पूर्वनिर्धारित है (Everything is predetermined by fate)",
+      "B": "कर्म की स्वतंत्रता (Freedom of karma)",
+      "C": "आत्मा अनश्वर है (Soul is eternal)",
+      "D": "भविष्यवाणी संभव है (Prediction is possible)"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 6,
-    "question": "'मुद्राराक्षस' नाटक किसका प्रसिद्ध कार्य है? / 'Mudrarakshasa' play is a famous work of whom?",
+    "question": "चार्वाक दर्शन के अनुसार ज्ञान का स्रोत क्या है? / According to Charvaka philosophy, what is the source of knowledge?",
     "options": {
-      "A": "विष्णुदत्त (Vishnuddatta)",
-      "B": "कालिदास (Kalidas)",
-      "C": "बाणभट्ट (Banabhatta)",
-      "D": "भरवि (Bharavi)"
+      "A": "इंद्रिय अनुभव (Sensory experience)",
+      "B": "शास्त्रों की व्याख्या (Scriptural interpretation)",
+      "C": "तर्क और मानसिक चिन्तन (Logic and mental reasoning)",
+      "D": "आध्यात्मिक अनुष्ठान (Spiritual rituals)"
     },
     "answer": ["A"]
   },
   {
     "id": 7,
-    "question": "'किरातार्जुनीय' महाकाव्य के लेखक कौन हैं? / Who is the author of the epic 'Kiratarjuniya'?",
+    "question": "श्रृमण संप्रदायों ने किस प्रकार के सामाजिक और धार्मिक प्रथाओं का विरोध किया? / Shramana sects opposed which social and religious practices?",
     "options": {
-      "A": "भरवि (Bharavi)",
-      "B": "कालिदास (Kalidas)",
-      "C": "मघ (Magha)",
-      "D": "विष्णुदत्त (Vishnuddatta)"
+      "A": "वेदों आधारित यज्ञ और अनुष्ठान (Vedic sacrifices and rituals)",
+      "B": "सद्भावना और सहिष्णुता (Goodwill and tolerance)",
+      "C": "संन्यास और तपस्या (Renunciation and austerity)",
+      "D": "जाति व्यवस्था और सामाजिक भेदभाव (Caste system and social discrimination)"
     },
-    "answer": ["A"]
+    "answer": ["A", "D"]
   },
   {
     "id": 8,
-    "question": "'शिशुपालवध' महाकाव्य किसका है? / 'Shishupalavadha' epic belongs to whom?",
+    "question": "लोकायत दर्शन के अनुसार, जीवन का सर्वोत्तम उद्देश्य क्या है? / According to Lokayata philosophy, what is the ultimate goal of life?",
     "options": {
-      "A": "मघ (Magha)",
-      "B": "भरवि (Bharavi)",
-      "C": "कालिदास (Kalidas)",
-      "D": "बाणभट्ट (Banabhatta)"
+      "A": "आनंद और सुख का उपभोग (Enjoyment of pleasure and happiness)",
+      "B": "मोक्ष प्राप्ति (Attainment of liberation)",
+      "C": "कर्म का फल भोगना (Experiencing fruits of karma)",
+      "D": "धार्मिक अनुष्ठान करना (Performing religious rituals)"
     },
     "answer": ["A"]
   },
   {
     "id": 9,
-    "question": "'अष्टाध्यायी' व्याकरण ग्रंथ के लेखक कौन हैं? / Who authored the grammar book 'Ashtadhyayi'?",
+    "question": "अजिविका दर्शन में नियति का क्या अर्थ है? / What does 'Niyati' mean in Ajivika philosophy?",
     "options": {
-      "A": "पाणिनि (Panini)",
-      "B": "पतंजलि (Patanjali)",
-      "C": "कालिदास (Kalidas)",
-      "D": "भरवि (Bharavi)"
+      "A": "स्वतंत्र कर्म (Free will)",
+      "B": "पूर्वनिर्धारित नियोजन (Predetermined destiny)",
+      "C": "आत्मिक मुक्ति (Spiritual liberation)",
+      "D": "कर्मों का प्रभाव (Effect of actions)"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 10,
-    "question": "'महाभाष्य' व्याकरण पर किसने लिखा? / Who wrote the 'Mahabhashya' commentary on grammar?",
+    "question": "श्रृमण परंपरा में तपस्वी और संन्यासी किस उद्देश्य से रहते थे? / What was the purpose of ascetics and renunciates in Shramana tradition?",
     "options": {
-      "A": "पतंजलि (Patanjali)",
-      "B": "पाणिनि (Panini)",
-      "C": "कालिदास (Kalidas)",
-      "D": "मघ (Magha)"
+      "A": "दुनिया की भौतिक संपदा जुटाना (Gathering material wealth)",
+      "B": "आत्मिक शुद्धि और मुक्ति (Spiritual purification and liberation)",
+      "C": "राजनीतिक शक्ति प्राप्त करना (Obtaining political power)",
+      "D": "सामाजिक सम्मान हासिल करना (Gaining social respect)"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 11,
-    "question": "'आर्यभटीय' ग्रंथ किसने लिखा था? / Who authored the 'Aryabhatiya'?",
+    "question": "चार्वाक दर्शन में परमात्मा या ईश्वर के अस्तित्व को कैसे देखा जाता था? / How did Charvaka philosophy view the existence of God or supreme soul?",
     "options": {
-      "A": "आर्यभट्ट (Aryabhata)",
-      "B": "वराहमिहिर (Varahamihira)",
-      "C": "भास्कराचार्य (Bhaskaracharya)",
-      "D": "विष्णु शर्मा (Vishnu Sharma)"
+      "A": "सर्वव्यापक और सर्वशक्तिमान (All-pervading and omnipotent)",
+      "B": "अस्तित्वहीन और मिथ्या (Non-existent and false)",
+      "C": "कर्म नियंत्रक (Controller of karma)",
+      "D": "सृष्टि के निर्माता (Creator of universe)"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 12,
-    "question": "'बृहदसंहिता' ग्रंथ किसका है? / 'Brihat Samhita' is the work of whom?",
+    "question": "अजिविका दर्शन में जीवन के नियम कैसे माने जाते थे? / How were life rules viewed in Ajivika philosophy?",
     "options": {
-      "A": "वराहमिहिर (Varahamihira)",
-      "B": "आर्यभट्ट (Aryabhata)",
-      "C": "मघ (Magha)",
-      "D": "पतंजलि (Patanjali)"
+      "A": "व्यक्तिगत इच्छा से नियंत्रित (Controlled by personal will)",
+      "B": "नियति द्वारा पूर्व निर्धारित (Predetermined by destiny)",
+      "C": "धार्मिक ग्रंथों द्वारा निर्देशित (Directed by scriptures)",
+      "D": "कर्म द्वारा नियंत्रित (Controlled by karma)"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 13,
-    "question": "किसने 'दशकुमारचरित' लिखा? / Who wrote 'Dashakumaracharita'?",
+    "question": "श्रृमण परंपराओं ने आत्मा की क्या अवधारणा दी? / What concept of the soul was given by Shramana traditions?",
     "options": {
-      "A": "दण्डिन (Dandin)",
-      "B": "कालिदास (Kalidas)",
-      "C": "बाणभट्ट (Banabhatta)",
-      "D": "भरवि (Bharavi)"
+      "A": "आत्मा अमर और जन्म-मरण से मुक्त (Soul is immortal and free from birth and death)",
+      "B": "आत्मा का कोई अस्तित्व नहीं (No existence of soul)",
+      "C": "आत्मा को यज्ञ के लिए आवश्यक माना (Soul necessary for sacrifices)",
+      "D": "आत्मा केवल मन का हिस्सा (Soul is part of mind)"
     },
     "answer": ["A"]
   },
   {
     "id": 14,
-    "question": "'कामसूत्र' के लेखक कौन हैं? / Who is the author of 'Kamasutra'?",
+    "question": "चार्वाक दर्शन में मृत्यु के बाद क्या होता है? / What happens after death according to Charvaka philosophy?",
     "options": {
-      "A": "वात्स्यायन (Vatsyayana)",
-      "B": "पतंजलि (Patanjali)",
-      "C": "मघ (Magha)",
-      "D": "भरवि (Bharavi)"
+      "A": "पुनर्जन्म (Rebirth)",
+      "B": "मोक्ष (Liberation)",
+      "C": "कुछ नहीं, अस्तित्व समाप्त हो जाता है (Nothing, existence ends)",
+      "D": "आत्मा स्वर्ग जाती है (Soul goes to heaven)"
     },
-    "answer": ["A"]
+    "answer": ["C"]
   },
   {
     "id": 15,
-    "question": "कालिदास ने कौन-से शास्त्र में महारत हासिल की थी? / In which field did Kalidas master?",
+    "question": "अजिविका संप्रदाय की प्रमुख आलोचना क्या थी? / What was the major criticism of Ajivika sect?",
     "options": {
-      "A": "काव्य और नाटक (Poetry and Drama)",
-      "B": "खगोल विज्ञान (Astronomy)",
-      "C": "व्याकरण (Grammar)",
-      "D": "चिकित्सा (Medicine)"
+      "A": "कर्म और पुनर्जन्म को स्वीकारना (Acceptance of karma and rebirth)",
+      "B": "नियति में अंधविश्वास (Blind belief in determinism)",
+      "C": "आध्यात्मिक स्वतंत्रता को बढ़ावा देना (Promotion of spiritual freedom)",
+      "D": "तपस्या का त्याग (Rejection of austerity)"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 16,
-    "question": "वराहमिहिर के अनुसार, पृथ्वी का आकार क्या है? / According to Varahamihira, what is the shape of the Earth?",
+    "question": "श्रृमण परंपराओं के उदय का सामाजिक कारण क्या था? / What was the social reason behind the rise of Shramana traditions?",
     "options": {
-      "A": "गोल (Spherical)",
-      "B": "चतुष्कोण (Square)",
-      "C": "अंडाकार (Egg-shaped)",
-      "D": "त्रिकोण (Triangular)"
+      "A": "वेदों की धार्मिक अनुष्ठानों से असंतोष (Dissatisfaction with Vedic rituals)",
+      "B": "ब्राह्मणों का राजनीतिक दबदबा (Political dominance of Brahmins)",
+      "C": "आर्थिक समृद्धि (Economic prosperity)",
+      "D": "विद्युत तकनीक का विकास (Development of electric technology)"
     },
-    "answer": ["A"]
+    "answer": ["A", "B"]
   },
   {
     "id": 17,
-    "question": "'महाकाव्य' का क्या अर्थ होता है? / What is the meaning of 'Mahakavya'?",
+    "question": "लोकायत दर्शन के अनुसार कौन-सी बात सत्य नहीं है? / According to Lokayata philosophy, which statement is false?",
     "options": {
-      "A": "लघु कथा (Short story)",
-      "B": "महान कविता (Epic poem)",
-      "C": "नाटक (Play)",
-      "D": "प्रबंध (Essay)"
+      "A": "केवल इन्द्रिय ज्ञान ही सत्य है (Only sensory knowledge is true)",
+      "B": "आत्मिक दुनिया अस्तित्व में है (Spiritual world exists)",
+      "C": "परलोक या पुनर्जन्म नहीं होता (No afterlife or rebirth)",
+      "D": "यज्ञ और पूजा अनावश्यक हैं (Rituals and worship are unnecessary)"
     },
     "answer": ["B"]
   },
   {
     "id": 18,
-    "question": "'कालिदास' किस काल के कवि थे? / Kalidas belonged to which period?",
+    "question": "अजिविका संप्रदाय के अनुसार जीवन का नियंत्रण किसके हाथ में है? / According to Ajivika sect, who controls life?",
     "options": {
-      "A": "गुप्तकाल (Gupta Period)",
-      "B": "मौर्यकाल (Maurya Period)",
-      "C": "मध्यकाल (Medieval Period)",
-      "D": "वैदिक काल (Vedic Period)"
+      "A": "कर्म (Karma)",
+      "B": "नियति (Destiny)",
+      "C": "ईश्वर (God)",
+      "D": "स्वतंत्र इच्छा (Free will)"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 19,
-    "question": "किसने सबसे पहले शून्य (Zero) का उपयोग किया? / Who first used the concept of zero?",
+    "question": "श्रृमण परंपराओं की धार्मिक मान्यताएं मुख्यतः किस आधार पर आधारित थीं? / The religious beliefs of Shramana traditions were mainly based on?",
     "options": {
-      "A": "आर्यभट्ट (Aryabhata)",
-      "B": "वराहमिहिर (Varahamihira)",
-      "C": "भगदत्त (Bhagadatta)",
-      "D": "भास्कराचार्य (Bhaskaracharya)"
+      "A": "आध्यात्मिक अभ्यास और आत्मानुसंधान (Spiritual practice and self-inquiry)",
+      "B": "वेदों के अनुष्ठान (Vedic rituals)",
+      "C": "भौतिक सुख (Material pleasures)",
+      "D": "सामाजिक प्रतिष्ठा (Social status)"
     },
     "answer": ["A"]
   },
   {
     "id": 20,
-    "question": "'पंच सिद्धांतिका' किसका प्रसिद्ध ग्रंथ है? / Who wrote the famous work 'Pancha Siddhantika'?",
+    "question": "चार्वाक दर्शन का जीवन पर क्या प्रभाव था? / What was the impact of Charvaka philosophy on life?",
     "options": {
-      "A": "वराहमिहिर (Varahamihira)",
-      "B": "आर्यभट्ट (Aryabhata)",
-      "C": "मघ (Magha)",
-      "D": "पतंजलि (Patanjali)"
+      "A": "धार्मिक अनुष्ठानों का समर्थन (Support for rituals)",
+      "B": "सुख और आनंद को प्राथमिकता देना (Prioritizing pleasure and happiness)",
+      "C": "सत्य की खोज (Search for truth)",
+      "D": "संन्यास और तपस्या (Renunciation and austerity)"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 21,
-    "question": "'विभूषण' शब्द का क्या अर्थ है? / What does the word 'Vibhushan' mean?",
+    "question": "अजिविका संप्रदाय के अनुयायी कौन थे? / Who were the followers of Ajivika sect?",
     "options": {
-      "A": "सज्जा (Ornament)",
-      "B": "पुस्तक (Book)",
-      "C": "गीत (Song)",
-      "D": "कवि (Poet)"
+      "A": "तपस्वी और संन्यासी (Ascetics and renunciates)",
+      "B": "ब्राह्मण और पुरोहित (Brahmins and priests)",
+      "C": "राजनीतिक नेता (Political leaders)",
+      "D": "व्यापारी वर्ग (Merchant class)"
     },
     "answer": ["A"]
   },
   {
     "id": 22,
-    "question": "'शकुंतला' नाटक किस विषय पर आधारित है? / The play 'Shakuntala' is based on which subject?",
+    "question": "लोकायत दर्शन के अनुसार कौन-सी वस्तु सत्य नहीं है? / According to Lokayata philosophy, which entity is not real?",
     "options": {
-      "A": "प्रेम कथा (Love story)",
-      "B": "धार्मिक कथा (Religious story)",
-      "C": "इतिहास (History)",
-      "D": "राजनीति (Politics)"
+      "A": "परमात्मा (Supreme soul)",
+      "B": "द्रव्य (Matter)",
+      "C": "इंद्रिय (Sense organs)",
+      "D": "जीवन (Life)"
     },
     "answer": ["A"]
   },
   {
     "id": 23,
-    "question": "'बाणभट्ट' किसके समकालीन थे? / Banabhatta was contemporary to which ruler?",
+    "question": "श्रृमण आंदोलन के दौरान किस धार्मिक प्रथा को त्याग दिया गया? / Which religious practice was rejected during Shramana movement?",
     "options": {
-      "A": "हर्षवर्धन (Harshavardhana)",
-      "B": "चन्द्रगुप्त मौर्य (Chandragupta Maurya)",
-      "C": "अशोक (Ashoka)",
-      "D": "सम्राट सम्राट विक्रमादित्य (Emperor Vikramaditya)"
+      "A": "यज्ञ और हवन (Sacrifices and fire rituals)",
+      "B": "साधना (Meditation)",
+      "C": "तपस्या (Austerity)",
+      "D": "भिक्षाटन (Alms begging)"
     },
     "answer": ["A"]
   },
   {
     "id": 24,
-    "question": "'कालिदास' की प्रमुख कृतियाँ कौन-कौन सी हैं? / What are the main works of Kalidas?",
+    "question": "अजिविका दर्शन में कर्म का क्या स्थान था? / What was the place of karma in Ajivika philosophy?",
     "options": {
-      "A": "मेघदूत, अभिज्ञान शाकुंतलम, कुमारसम्भव",
-      "B": "शिशुपाल वध, किरातार्जुनीय",
-      "C": "मुद्राराक्षस, कादंबरी",
-      "D": "महाभाष्य, अष्टाध्यायी"
+      "A": "कर्म स्वतंत्र है (Karma is free)",
+      "B": "कर्म का कोई प्रभाव नहीं (Karma has no effect)",
+      "C": "कर्म नियति के अधीन है (Karma is under destiny)",
+      "D": "कर्म से मुक्ति संभव है (Liberation through karma)"
     },
-    "answer": ["A"]
+    "answer": ["C"]
   },
   {
     "id": 25,
-    "question": "'बृहदसंहिता' में कौन-कौन से विषय शामिल हैं? / Which subjects are included in 'Brihat Samhita'?",
+    "question": "लोकायत दर्शन के अनुसार मानव जीवन का आधार क्या है? / According to Lokayata philosophy, what is the basis of human life?",
     "options": {
-      "A": "खगोल विज्ञान, वास्तुकला, मौसम विज्ञान (Astronomy, Architecture, Meteorology)",
-      "B": "व्याकरण, काव्यशास्त्र (Grammar, Poetics)",
-      "C": "धर्मशास्त्र, राजनीति (Religious texts, Politics)",
-      "D": "इतिहास, भूगोल (History, Geography)"
+      "A": "इंद्रिय और भौतिक अनुभव (Senses and material experience)",
+      "B": "आत्मिक चेतना (Spiritual consciousness)",
+      "C": "धार्मिक विश्वास (Religious faith)",
+      "D": "परलोक (Afterlife)"
     },
     "answer": ["A"]
   },
   {
     "id": 26,
-    "question": "'कालिदास' के समय में किस सम्राट का शासन था? / During Kalidas' time, who was the emperor?",
+    "question": "श्रृमण संप्रदायों ने किस प्रकार के दर्शन की स्थापना की? / What type of philosophies were established by Shramana sects?",
     "options": {
-      "A": "चंद्रगुप्त प्रथम (Chandragupta I)",
-      "B": "चंद्रगुप्त मौर्य (Chandragupta Maurya)",
-      "C": "हर्षवर्धन (Harshavardhana)",
-      "D": "अशोक (Ashoka)"
+      "A": "आध्यात्मिक और नास्तिक (Spiritual and atheistic)",
+      "B": "पैसा कमाने वाले (Money-making)",
+      "C": "राजनीतिक (Political)",
+      "D": "व्यावसायिक (Commercial)"
     },
     "answer": ["A"]
   },
   {
     "id": 27,
-    "question": "'काव्य' शब्द का अर्थ क्या है? / What is the meaning of 'Kavya'?",
+    "question": "अजिविका संप्रदाय के अनुसार, जीवन के किस पहलू को नियंत्रित किया जा सकता है? / According to Ajivika sect, which aspect of life can be controlled?",
     "options": {
-      "A": "काव्य शास्त्र (Poetics)",
-      "B": "कविता (Poetry)",
-      "C": "नाटक (Drama)",
-      "D": "गीत (Song)"
+      "A": "व्यक्तिगत इच्छाएं (Personal desires)",
+      "B": "नियति (Destiny)",
+      "C": "कर्म (Karma)",
+      "D": "धार्मिक अनुष्ठान (Religious rituals)"
     },
     "answer": ["B"]
   },
   {
     "id": 28,
-    "question": "'हर्षचरित' किस भाषा में लिखा गया था? / In which language was 'Harshacharita' written?",
+    "question": "लोकायत दर्शन का समाज पर क्या प्रभाव था? / What was the impact of Lokayata philosophy on society?",
     "options": {
-      "A": "संस्कृत (Sanskrit)",
-      "B": "पाली (Pali)",
-      "C": "प्राकृत (Prakrit)",
-      "D": "तमिल (Tamil)"
+      "A": "धार्मिक अनुष्ठानों की आलोचना (Criticism of religious rituals)",
+      "B": "आध्यात्मिक विश्वास का विस्तार (Expansion of spiritual faith)",
+      "C": "नवीन धार्मिक संस्थानों की स्थापना (Establishment of new religious institutions)",
+      "D": "राजनीतिक सत्ता की वृद्धि (Increase in political power)"
     },
     "answer": ["A"]
   },
   {
     "id": 29,
-    "question": "'दशकुमारचरित' किस भाषा में लिखा गया था? / In which language was 'Dashakumaracharita' written?",
+    "question": "श्रृमण आंदोलन किस काल में अधिक सक्रिय था? / When was the Shramana movement most active?",
     "options": {
-      "A": "संस्कृत (Sanskrit)",
-      "B": "प्राकृत (Prakrit)",
-      "C": "पंजाबी (Punjabi)",
-      "D": "तमिल (Tamil)"
+      "A": "प्राचीन वैदिक काल (Ancient Vedic period)",
+      "B": "6ठी सदी ईसा पूर्व (6th century BCE)",
+      "C": "मध्यकाल (Medieval period)",
+      "D": "आधुनिक काल (Modern period)"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 30,
-    "question": "'वात्स्यायन' किस विषय के लिए प्रसिद्ध हैं? / Vatsyayana is famous for which subject?",
+    "question": "अजिविका संप्रदाय का प्रमुख उद्देश्य क्या था? / What was the main goal of Ajivika sect?",
     "options": {
-      "A": "कामशास्त्र (Kamasutra)",
-      "B": "व्याकरण (Grammar)",
-      "C": "नाटक (Drama)",
-      "D": "इतिहास (History)"
+      "A": "धार्मिक अनुष्ठान करना (Perform religious rituals)",
+      "B": "जीवन के नियत नियमों को स्वीकारना (Accept predetermined rules of life)",
+      "C": "मोक्ष प्राप्त करना (Attain liberation)",
+      "D": "सामाजिक सुधार करना (Social reform)"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 31,
-    "question": "'कालिदास' के अनुसार प्रकृति का सुंदर चित्रण किस ग्रंथ में मिलता है? / According to Kalidas, which work depicts the beauty of nature?",
+    "question": "लोकायत दर्शन किस प्रकार के विचारों को बढ़ावा देता था? / What kind of ideas did Lokayata philosophy promote?",
     "options": {
-      "A": "मेघदूत (Meghdoot)",
-      "B": "रघुवंश (Raghuvamsa)",
-      "C": "अभिज्ञान शाकुंतलम (Abhijnanasakuntalam)",
-      "D": "कुमारसम्भव (Kumarasambhava)"
+      "A": "आध्यात्मिक विश्वास (Spiritual beliefs)",
+      "B": "सांसारिक सुखों का आनंद (Enjoyment of worldly pleasures)",
+      "C": "धार्मिक अनुष्ठान (Religious rituals)",
+      "D": "संन्यास और तपस्या (Renunciation and austerity)"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 32,
-    "question": "'विष्णुदत्त' किस प्रकार के साहित्यकार थे? / What type of writer was Vishnuddatta?",
+    "question": "श्रृमण संप्रदायों का धार्मिक ग्रंथों के प्रति दृष्टिकोण क्या था? / What was the attitude of Shramana sects towards religious scriptures?",
     "options": {
-      "A": "नाटककार (Playwright)",
-      "B": "कवि (Poet)",
-      "C": "इतिहासकार (Historian)",
-      "D": "वैज्ञानिक (Scientist)"
+      "A": "वेदों को सर्वोपरि मानना (Regarded Vedas as supreme)",
+      "B": "वेदों को अस्वीकारना (Rejected Vedas)",
+      "C": "उनका पालन करना (Followed them strictly)",
+      "D": "अन्य ग्रंथों का समर्थन (Supported other scriptures)"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 33,
-    "question": "'पतंजलि' ने कौन सा महत्त्वपूर्ण ग्रंथ लिखा? / Which important work did Patanjali write?",
+    "question": "अजिविका दर्शन में क्या माना जाता था कि व्यक्ति अपने भाग्य को बदल सकता है? / In Ajivika philosophy, is it believed that a person can change his destiny?",
     "options": {
-      "A": "महाभाष्य (Mahabhashya)",
-      "B": "अष्टाध्यायी (Ashtadhyayi)",
-      "C": "कामसूत्र (Kamasutra)",
-      "D": "बृहदसंहिता (Brihat Samhita)"
+      "A": "हाँ, पूर्ण स्वतंत्रता है (Yes, full freedom)",
+      "B": "नहीं, नियति पूर्वनिर्धारित है (No, destiny is predetermined)",
+      "C": "कुछ हद तक संभव है (Possible to some extent)",
+      "D": "कर्म से प्रभावित होता है (Affected by karma)"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 34,
-    "question": "'आर्यभट्ट' ने किस विषय में योगदन दिया? / Aryabhata contributed to which field?",
+    "question": "लोकायत दर्शन में पुनर्जन्म के बारे में क्या विचार था? / What was the view of Lokayata philosophy on rebirth?",
     "options": {
-      "A": "गणित और खगोल विज्ञान (Mathematics and Astronomy)",
-      "B": "व्याकरण (Grammar)",
-      "C": "धर्मशास्त्र (Religious texts)",
-      "D": "काव्य (Poetry)"
+      "A": "पुनर्जन्म होता है (Rebirth occurs)",
+      "B": "पुनर्जन्म नहीं होता (No rebirth)",
+      "C": "कुछ जगहों पर पुनर्जन्म होता है (Rebirth in some cases)",
+      "D": "पुनर्जन्म केवल ब्राह्मणों के लिए (Rebirth only for Brahmins)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 35,
+    "question": "श्रृमण परंपरा में आत्मा की क्या भूमिका थी? / What was the role of the soul in Shramana tradition?",
+    "options": {
+      "A": "कर्मों के फल का अनुभवकर्ता (Experiencer of karma fruits)",
+      "B": "शारीरिक अंग मात्र (Only a physical organ)",
+      "C": "मानसिक विचारों का स्रोत (Source of mental thoughts)",
+      "D": "अस्तित्वहीन (Non-existent)"
     },
     "answer": ["A"]
   },
   {
     "id": 36,
-    "question": "‘अभिज्ञानशाकुंतलम्’ में राजा दुश्यन्त किस परिस्थिति में शकुंतला को भूल जाते हैं? / In 'Abhijnanasakuntalam', under what condition does King Dushyanta forget Shakuntala?",
+    "question": "अजिविका दर्शन में संसार की क्या स्थिति थी? / What was the status of the world in Ajivika philosophy?",
     "options": {
-      "A": "ऋषि दुर्वासा के श्राप से (Due to Sage Durvasa's curse)",
-      "B": "युद्ध में आघात लगने से (Due to injury in battle)",
-      "C": "स्वेच्छा से त्याग करने पर (By voluntary abandonment)",
-      "D": "समुद्र यात्रा के दौरान (During a sea voyage)"
+      "A": "निर्धारित और नियोजित (Determined and regulated)",
+      "B": "अव्यवस्थित और यादृच्छिक (Disorganized and random)",
+      "C": "अस्तित्वहीन (Non-existent)",
+      "D": "परमात्मा द्वारा निर्मित (Created by God)"
     },
     "answer": ["A"]
   },
   {
     "id": 37,
-    "question": "‘मृच्छकटिकम्’ में चारुदत्त का पेशा क्या है? / What is Charudatta's profession in 'Mrichchhakatika'?",
+    "question": "चार्वाक दर्शन की प्रमुख आलोचना क्या थी? / What was the main criticism of Charvaka philosophy?",
     "options": {
-      "A": "वणिक (Merchant)",
-      "B": "राजकुमार (Prince)",
-      "C": "सैनिक (Soldier)",
-      "D": "पुरोहित (Priest)"
+      "A": "धार्मिक अनुष्ठानों को बढ़ावा देना (Promoting rituals)",
+      "B": "आध्यात्मिक अस्वीकृति (Rejection of spirituality)",
+      "C": "सामाजिक समरसता (Social harmony)",
+      "D": "न्याय और तर्क का उपयोग (Use of logic and reason)"
+    },
+    "answer": ["B"]
+  },
+  {
+    "id": 38,
+    "question": "श्रृमण परंपराओं का कौन-सा पहलू ब्राह्मणवादी वैदिक धर्म से अलग था? / Which aspect of Shramana traditions was different from Brahminical Vedic religion?",
+    "options": {
+      "A": "संन्यास और तपस्या (Renunciation and austerity)",
+      "B": "यज्ञ और वेद पाठ (Sacrifice and Vedic recitation)",
+      "C": "जाति प्रथा का समर्थन (Support of caste system)",
+      "D": "धार्मिक अनुष्ठान (Religious rituals)"
     },
     "answer": ["A"]
   },
   {
-    "id": 38,
-    "question": "‘कुमारसंभवम्’ का मुख्य विषय क्या है? / What is the central theme of 'Kumarasambhavam'?",
-    "options": {
-      "A": "राम और सीता का विवाह (Marriage of Rama and Sita)",
-      "B": "शिव और पार्वती का विवाह (Marriage of Shiva and Parvati)",
-      "C": "कृष्ण लीला (Krishna's life events)",
-      "D": "गौतम बुद्ध का जीवन (Life of Gautama Buddha)"
-    },
-    "answer": ["B"]
-  },
-  {
     "id": 39,
-    "question": "‘अर्थशास्त्र’ के किस अध्याय में जासूसी तंत्र का वर्णन है? / In which chapter of 'Arthashastra' is the espionage system described?",
+    "question": "अजिविका दर्शन ने मानव जीवन को कैसे देखा? / How did Ajivika philosophy view human life?",
     "options": {
-      "A": "प्रथम अध्याय (First chapter)",
-      "B": "द्वितीय अध्याय (Second chapter)",
-      "C": "सप्तम अध्याय (Seventh chapter)",
-      "D": "चतुर्दश अध्याय (Fourteenth chapter)"
+      "A": "अवधारणा और नियति से बंधा (Bound by concept and destiny)",
+      "B": "स्वतंत्र कर्मों से नियंत्रित (Controlled by free actions)",
+      "C": "ईश्वर के आदेश से संचालित (Operated by God's command)",
+      "D": "कर्मों के फल से मुक्त (Free from fruits of karma)"
     },
-    "answer": ["D"]
+    "answer": ["A"]
   },
   {
     "id": 40,
-    "question": "‘बृहत्संहिता’ में किस विषय पर विस्तृत जानकारी मिलती है? / On which topic does 'Brihat Samhita' give extensive details?",
+    "question": "श्रृमण परंपराओं ने किस सामाजिक समस्या पर प्रकाश डाला? / What social issue did Shramana traditions highlight?",
     "options": {
-      "A": "केवल ज्योतिष (Only astrology)",
-      "B": "ज्योतिष, वास्तु, कृषि, मौसम आदि (Astrology, architecture, agriculture, weather, etc.)",
-      "C": "सिर्फ़ खगोल विज्ञान (Only astronomy)",
-      "D": "केवल चिकित्सा विज्ञान (Only medicine)"
+      "A": "जाति व्यवस्था का विरोध (Opposition to caste system)",
+      "B": "राजनीतिक सत्ता का समर्थन (Support for political power)",
+      "C": "आर्थिक असमानता को बढ़ावा (Promotion of economic inequality)",
+      "D": "धार्मिक समरसता (Religious harmony)"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 41,
-    "question": "‘मेघदूत’ में यक्ष किस ऋतु में संदेश भेजता है? / In 'Meghaduta', during which season does the Yaksha send his message?",
+    "question": "महाजनपद क्या होता है? / What is a Mahajanapada?",
     "options": {
-      "A": "ग्रीष्म ऋतु (Summer)",
-      "B": "वर्षा ऋतु (Monsoon)",
-      "C": "शीत ऋतु (Winter)",
-      "D": "वसंत ऋतु (Spring)"
+      "A": "छोटा गाँव / Small village",
+      "B": "राजनीतिक रूप से संगठित बड़ा क्षेत्र / Politically organized large territory",
+      "C": "एक मंदिर / A temple",
+      "D": "व्यापारिक मंडल / Trade guild"
     },
     "answer": ["B"]
   },
   {
     "id": 42,
-    "question": "‘रघुवंश’ में कुल किती सर्ग हैं? / How many cantos are there in 'Raghuvamsha'?",
+    "question": "महाजनपदों का काल लगभग कब माना जाता है? / Approximate period of Mahajanapadas?",
     "options": {
-      "A": "16",
-      "B": "19",
-      "C": "21",
-      "D": "25"
+      "A": "1000 BCE - 800 BCE",
+      "B": "600 BCE - 300 BCE",
+      "C": "200 BCE - 100 CE",
+      "D": "300 CE - 600 CE"
     },
-    "answer": ["C"]
+    "answer": ["B"]
   },
   {
     "id": 43,
-    "question": "‘नाट्यशास्त्र’ में अभिनय के कितने प्रकार बताए गए हैं? / How many types of acting are described in 'Natyashastra'?",
+    "question": "महाजनपदों की कुल संख्या कितनी थी? / How many Mahajanapadas were there?",
     "options": {
-      "A": "3",
-      "B": "4",
-      "C": "5",
-      "D": "6"
+      "A": "10",
+      "B": "12",
+      "C": "16",
+      "D": "20"
     },
-    "answer": ["B"]
+    "answer": ["C"]
   },
   {
     "id": 44,
-    "question": "‘हर्षचरित’ में बाणभट्ट ने किस शासक का जीवन वर्णन किया है? / In 'Harshacharita', whose life has Banabhatta described?",
+    "question": "निम्नलिखित में से कौन महाजनपदों में से नहीं है? / Which of the following was NOT a Mahajanapada?",
     "options": {
-      "A": "चंद्रगुप्त मौर्य (Chandragupta Maurya)",
-      "B": "हर्षवर्धन (Harshavardhana)",
-      "C": "समुद्रगुप्त (Samudragupta)",
-      "D": "विक्रमादित्य (Vikramaditya)"
+      "A": "मगध / Magadh",
+      "B": "कोशल / Kosala",
+      "C": "अवध / Awadh",
+      "D": "अवंति / Avanti"
     },
-    "answer": ["B"]
+    "answer": ["C"]
   },
   {
     "id": 45,
-    "question": "‘चरक संहिता’ मुख्यतः किस विज्ञान से जुड़ी है? / 'Charaka Samhita' is mainly related to which branch of science?",
+    "question": "महाजनपद मगध का मुख्य केंद्र कौन सा था? / What was the main center of Mahajanapada Magadh?",
     "options": {
-      "A": "अर्थशास्त्र (Economics)",
-      "B": "ज्योतिष (Astrology)",
-      "C": "आयुर्वेद (Ayurveda)",
-      "D": "खगोल विज्ञान (Astronomy)"
+      "A": "पाटलिपुत्र / Pataliputra",
+      "B": "काशी / Kashi",
+      "C": "वैशाली / Vaishali",
+      "D": "अयोध्या / Ayodhya"
     },
-    "answer": ["C"]
+    "answer": ["A"]
   },
   {
     "id": 46,
-    "question": "‘पंचसिद्धांतिका’ में कितनी खगोलीय पद्धतियों का वर्णन है? / How many astronomical systems are described in 'Pancha Siddhantika'?",
+    "question": "महाजनपदों का मुख्य क्षेत्र कौन-सा था? / Which was the main region of Mahajanapadas?",
     "options": {
-      "A": "3",
-      "B": "4",
-      "C": "5",
-      "D": "6"
+      "A": "गंगा-यमुना घाटी / Ganga-Yamuna Valley",
+      "B": "दक्कन पठार / Deccan Plateau",
+      "C": "थार मरुस्थल / Thar Desert",
+      "D": "हिमालय क्षेत्र / Himalayan Region"
     },
-    "answer": ["C"]
+    "answer": ["A"]
   },
   {
     "id": 47,
-    "question": "‘कामसूत्र’ किस विद्वान द्वारा लिखी गई थी? / Who wrote the 'Kamasutra'?",
+    "question": "महाजनपदों में राजतंत्र के अलावा और कौन-सी राजनीतिक व्यवस्था थी? / Besides monarchy, which other political system existed in Mahajanapadas?",
     "options": {
-      "A": "पतंजलि (Patanjali)",
-      "B": "वात्स्यायन (Vatsyayana)",
-      "C": "कालिदास (Kalidasa)",
-      "D": "वराहमिहिर (Varahamihira)"
+      "A": "गणतंत्र / Republic",
+      "B": "तानाशाही / Dictatorship",
+      "C": "फेदरल सिस्टम / Federal system",
+      "D": "जातीय शासन / Tribal rule"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 48,
-    "question": "‘अमरकोश’ का विषय क्या है? / What is the subject of 'Amarakosha'?",
+    "question": "महाजनपदों में राजा के अधिकारों का निर्धारण किसके द्वारा होता था? / Who determined the king’s powers in Mahajanapadas?",
     "options": {
-      "A": "भूगोल (Geography)",
-      "B": "शब्दकोश (Lexicon)",
-      "C": "काव्यशास्त्र (Poetics)",
-      "D": "इतिहास (History)"
+      "A": "सभाओं (Sabha) और समितियों (Samiti)",
+      "B": "साधु संतो",
+      "C": "विदेशी व्यापारी",
+      "D": "ग्राम पंचायत"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 49,
-    "question": "‘आर्यभटीय’ में गणित के अलावा किस विषय का विस्तार से वर्णन है? / Apart from mathematics, which subject is extensively discussed in 'Aryabhatiya'?",
+    "question": "महाजनपदों में सभा, समिति और परिषद की भूमिका क्या थी? / What was the role of Sabha, Samiti, and Parishad in Mahajanapadas?",
     "options": {
-      "A": "अर्थशास्त्र (Economics)",
-      "B": "खगोल विज्ञान (Astronomy)",
-      "C": "वास्तुशास्त्र (Architecture)",
-      "D": "चिकित्सा विज्ञान (Medicine)"
+      "A": "राजनीतिक निर्णय लेना / Political decision making",
+      "B": "व्यापार करना / Doing business",
+      "C": "कृषि करना / Farming",
+      "D": "धार्मिक अनुष्ठान करना / Performing rituals"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 50,
-    "question": "‘देवी चंद्रगुप्तम’ किस प्रकार का साहित्य है? / What type of literature is 'Devi Chandraguptam'?",
+    "question": "महाजनपदों में गणराज्य के उदाहरण कौन से हैं? / Examples of republics among Mahajanapadas?",
     "options": {
-      "A": "ऐतिहासिक नाटक (Historical drama)",
-      "B": "महाकाव्य (Epic)",
-      "C": "नीति शास्त्र (Treatise on ethics)",
-      "D": "काव्य संग्रह (Poetry collection)"
+      "A": "वज्जि संघ (लिच्छवि) / Vajji Confederacy (Licchavis)",
+      "B": "मगध / Magadh",
+      "C": "कोशल / Kosala",
+      "D": "अवंति / Avanti"
     },
     "answer": ["A"]
   },
   {
     "id": 51,
-    "question": "‘मिलिंद पन्हा’ किस शासक और भिक्षु के बीच संवाद है? / 'Milinda Panha' is a dialogue between which ruler and monk?",
+    "question": "महाजनपदों की अर्थव्यवस्था का मुख्य आधार क्या था? / What was the main basis of Mahajanapada economy?",
     "options": {
-      "A": "अशोक और उपगुप्त (Ashoka and Upagupta)",
-      "B": "मेनांडर और नागसेन (Menander and Nagasena)",
-      "C": "कनिष्क और वसुमित्र (Kanishka and Vasumitra)",
-      "D": "हुविश्क और अश्वघोष (Huvishka and Ashvaghosha)"
+      "A": "कृषि / Agriculture",
+      "B": "औद्योगिक उत्पादन / Industrial production",
+      "C": "मछली पकड़ना / Fishing",
+      "D": "पशुपालन / Animal husbandry"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 52,
-    "question": "‘बुद्धचरित’ में किसके जीवन का वर्णन है? / Whose life is described in 'Buddhacharita'?",
+    "question": "महाजनपदों में व्यापार और शिल्प का क्या स्थान था? / Role of trade and crafts in Mahajanapadas?",
     "options": {
-      "A": "गौतम बुद्ध (Gautama Buddha)",
-      "B": "महावीर (Mahavira)",
-      "C": "अशोक (Ashoka)",
-      "D": "कुमारजीव (Kumarajiva)"
+      "A": "महत्वपूर्ण, नगरों में विकसित थे / Important, developed in cities",
+      "B": "अल्प विकसित / Poorly developed",
+      "C": "मूलतः कृषि आधारित / Only agriculture based",
+      "D": "धार्मिक अनुष्ठान तक सीमित / Limited to rituals"
     },
     "answer": ["A"]
   },
   {
     "id": 53,
-    "question": "‘सौन्दरानंद’ के लेखक अश्वघोष ने किस विषय पर यह काव्य लिखा? / What is the theme of Ashvaghosha's 'Saundarananda'?",
+    "question": "महाजनपदों में सामाजिक संरचना किस पर आधारित थी? / Social structure in Mahajanapadas was based on?",
     "options": {
-      "A": "राजनीतिक युद्ध (Political wars)",
-      "B": "नंद के बौद्ध धर्म ग्रहण करने की कथा (Story of Nanda's conversion to Buddhism)",
-      "C": "गुप्त कालीन प्रशासन (Gupta administration)",
-      "D": "ग्राम जीवन का वर्णन (Village life description)"
+      "A": "वर्ण व्यवस्था / Varna system",
+      "B": "जाति व्यवस्था / Caste system",
+      "C": "लिंग आधारित व्यवस्था / Gender based system",
+      "D": "धार्मिक समुदाय / Religious community"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 54,
-    "question": "‘महावस्तु’ किस परंपरा का ग्रंथ है? / 'Mahavastu' belongs to which tradition?",
+    "question": "महाजनपदों के नगर जीवन की विशेषता क्या थी? / Characteristics of urban life in Mahajanapadas?",
     "options": {
-      "A": "महायान बौद्ध (Mahayana Buddhist)",
-      "B": "हीनयान बौद्ध (Hinayana Buddhist)",
-      "C": "जैन (Jain)",
-      "D": "वैदिक (Vedic)"
+      "A": "किलेबंदी, बाजार, और प्रशासन / Fortification, markets, and administration",
+      "B": "खुले मैदान / Open fields",
+      "C": "मंदिरों की अनुपस्थिति / Absence of temples",
+      "D": "सिर्फ कृषि कार्य / Only farming"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 55,
-    "question": "‘ललितविस्तर’ में मुख्यतः क्या वर्णित है? / What is mainly described in 'Lalitavistara'?",
+    "question": "महाजनपदों की सेनाओं का संगठन किस प्रकार था? / How were the armies of Mahajanapadas organized?",
     "options": {
-      "A": "गौतम बुद्ध का जीवन (Life of Gautama Buddha)",
-      "B": "महावीर के उपदेश (Teachings of Mahavira)",
-      "C": "कनिष्क के युद्ध (Wars of Kanishka)",
-      "D": "अशोक के शिलालेख (Edicts of Ashoka)"
+      "A": "हाथी, अश्व और पैदल सेना / Elephants, cavalry and infantry",
+      "B": "केवल पैदल सेना / Only infantry",
+      "C": "नौसेना आधारित / Naval forces",
+      "D": "घटनाओं पर निर्भर / Event based"
     },
     "answer": ["A"]
   },
   {
     "id": 56,
-    "question": "‘दिव्यावदान’ किस भाषा में रचित है? / In which language is 'Divyavadana' composed?",
+    "question": "महाजनपदों के युद्ध की प्रमुख रणनीति क्या थी? / What was the main war strategy of Mahajanapadas?",
     "options": {
-      "A": "संस्कृत (Sanskrit)",
-      "B": "पाली (Pali)",
-      "C": "प्राकृत (Prakrit)",
-      "D": "तिब्बती (Tibetan)"
+      "A": "संधि और गठबंधन के साथ विस्तार / Expansion through alliances and wars",
+      "B": "पूरी तरह से शांति / Complete peace",
+      "C": "व्यापार पर निर्भरता / Dependence on trade",
+      "D": "दुश्मनों को नजरअंदाज करना / Ignoring enemies"
     },
     "answer": ["A"]
   },
   {
     "id": 57,
-    "question": "‘महायान सूत्रालंकार’ का संबंध किस विषय से है? / 'Mahayana Sutralankara' is related to which subject?",
+    "question": "महाजनपदों का महत्त्व प्राचीन भारत के किस काल से जोड़ा जाता है? / Mahajanapadas are linked with which period of ancient India?",
     "options": {
-      "A": "बौद्ध दर्शन (Buddhist philosophy)",
-      "B": "वैदिक अनुष्ठान (Vedic rituals)",
-      "C": "जैन आगम (Jain Agamas)",
-      "D": "अर्थशास्त्र (Economics)"
+      "A": "वेदिक काल / Vedic Period",
+      "B": "बौद्ध और जैन काल / Buddhist and Jain Period",
+      "C": "मौर्य काल / Maurya Period",
+      "D": "मुगल काल / Mughal Period"
     },
-    "answer": ["A"]
+    "answer": ["B"]
   },
   {
     "id": 58,
-    "question": "‘अवतंसक सूत्र’ में किस आदर्श की व्याख्या है? / Which ideal is explained in 'Avatamsaka Sutra'?",
+    "question": "महाजनपद मगध का किस शासक ने मौर्य वंश की स्थापना की? / Which ruler of Magadh established the Maurya dynasty?",
     "options": {
-      "A": "अहिंसा (Non-violence)",
-      "B": "बोधिसत्त्व मार्ग (Bodhisattva path)",
-      "C": "वर्ण व्यवस्था (Caste system)",
-      "D": "त्याग व संन्यास (Renunciation)"
+      "A": "बिंदुसार / Bindusara",
+      "B": "चन्द्रगुप्त मौर्य / Chandragupta Maurya",
+      "C": "धृतराष्ट्र / Dhritarashtra",
+      "D": "अशोक / Ashoka"
     },
     "answer": ["B"]
   },
   {
     "id": 59,
-    "question": "‘महायान महासंघिका विनय’ किस प्रकार का ग्रंथ है? / What type of text is 'Mahayana Mahasanghika Vinaya'?",
+    "question": "मौर्य और गुप्त साम्राज्यों का विकास किस पूर्व महाजनपद पर आधारित था? / Maurya and Gupta empires developed based on which earlier Mahajanapada?",
     "options": {
-      "A": "धार्मिक नियमावली (Monastic code)",
-      "B": "काव्य (Poetry)",
-      "C": "इतिहास (History)",
-      "D": "राजनीतिक ग्रंथ (Political treatise)"
+      "A": "मगध / Magadh",
+      "B": "कोशल / Kosala",
+      "C": "वज्जि संघ / Vajji Confederacy",
+      "D": "अवंति / Avanti"
     },
     "answer": ["A"]
   },
   {
     "id": 60,
-    "question": "‘लंकावतार सूत्र’ किस दार्शनिक विचारधारा से जुड़ा है? / 'Lankavatara Sutra' is linked to which philosophical school?",
+    "question": "महाजनपदों में बौद्ध और जैन धर्म का प्रसार किस प्रकार हुआ? / How did Buddhism and Jainism spread in Mahajanapadas?",
     "options": {
-      "A": "योगाचार (Yogachara)",
-      "B": "सांख्य (Samkhya)",
-      "C": "वैष्णव (Vaishnava)",
-      "D": "चार्वाक (Charvaka)"
+      "A": "राजकीय संरक्षण और सामाजिक स्वीकृति के कारण / Through royal patronage and social acceptance",
+      "B": "बलपूर्वक धर्म परिवर्तन / Forced conversions",
+      "C": "व्यापार के माध्यम से / Through trade only",
+      "D": "विदेशी आक्रमणों से / Due to foreign invasions"
     },
     "answer": ["A"]
   },
   {
     "id": 61,
-    "question": "‘गाथा सप्तशती’ किस भाषा में लिखी गई है? / In which language was 'Gatha Saptashati' written?",
+    "question": "अर्थशास्त्र और चाणक्य का महाजनपदों के संदर्भ में योगदान क्या था? / What was the contribution of Arthashastra and Chanakya in Mahajanapadas context?",
     "options": {
-      "A": "संस्कृत (Sanskrit)",
-      "B": "पाली (Pali)",
-      "C": "प्राकृत (Prakrit)",
-      "D": "अपभ्रंश (Apabhramsha)"
+      "A": "राजनीतिक और आर्थिक नीतियों का मार्गदर्शन / Guidance on political and economic policies",
+      "B": "धार्मिक ग्रंथ / Religious text",
+      "C": "काव्य लेखन / Poetry",
+      "D": "युद्ध का पूर्ण विरोध / Total opposition to war"
     },
-    "answer": ["C"]
+    "answer": ["A"]
   },
   {
     "id": 62,
-    "question": "‘गाथा सप्तशती’ के रचयिता कौन माने जाते हैं? / Who is considered the author of 'Gatha Saptashati'?",
+    "question": "वज्जि संघ किस प्रकार की राजनीतिक व्यवस्था थी? / What type of political system was Vajji Confederacy?",
     "options": {
-      "A": "हुविश्क (Huvishka)",
-      "B": "हल सतवाहन (Hala Satavahana)",
-      "C": "नागार्जुन (Nagarjuna)",
-      "D": "वसुबंधु (Vasubandhu)"
+      "A": "गणराज्य (Republic)",
+      "B": "राजतंत्र (Monarchy)",
+      "C": "तानाशाही (Dictatorship)",
+      "D": "पशुपालन आधारित शासन (Animal husbandry based rule)"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 63,
-    "question": "‘प्रज्ञापारमिता सूत्र’ किस महत्त्वपूर्ण सिद्धांत को दर्शाता है? / Which important doctrine is depicted in 'Prajnaparamita Sutra'?",
+    "question": "कोशल महाजनपद का प्रमुख केंद्र कौन था? / What was the main center of Kosala Mahajanapada?",
     "options": {
-      "A": "शून्यवाद (Shunyavada)",
-      "B": "सांख्य तत्त्व (Samkhya principles)",
-      "C": "भक्ति मार्ग (Path of devotion)",
-      "D": "कर्म सिद्धांत (Doctrine of Karma)"
+      "A": "अयोध्या / Ayodhya",
+      "B": "काशी / Kashi",
+      "C": "पाटलिपुत्र / Pataliputra",
+      "D": "वैशाली / Vaishali"
     },
     "answer": ["A"]
   },
   {
     "id": 64,
-    "question": "‘मध्यमक कारिका’ के लेखक कौन थे? / Who was the author of 'Madhyamaka Karika'?",
+    "question": "महाजनपदों की समाप्ति का कारण क्या था? / What caused the end of Mahajanapadas?",
     "options": {
-      "A": "अश्वघोष (Ashvaghosha)",
-      "B": "नागार्जुन (Nagarjuna)",
-      "C": "वसुबंधु (Vasubandhu)",
-      "D": "धर्मपाल (Dharmapala)"
+      "A": "मगध के सम्राटों द्वारा विजय और सम्राज्य विस्तार / Conquest and empire expansion by Magadh rulers",
+      "B": "विदेशी आक्रमण / Foreign invasion",
+      "C": "प्राकृतिक आपदाएँ / Natural disasters",
+      "D": "कृषि संकट / Agricultural crisis"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 65,
-    "question": "‘वसुबंधु’ द्वारा रचित ‘अभिधर्मकोश’ का विषय क्या है? / What is the subject of Vasubandhu's 'Abhidharmakosha'?",
+    "question": "महाजनपदों के सामाजिक जीवन में किस व्यवस्था का प्रमुख स्थान था? / Which system had a dominant place in social life of Mahajanapadas?",
     "options": {
-      "A": "बौद्ध तत्वज्ञान और दर्शन (Buddhist metaphysics and philosophy)",
-      "B": "खगोल विज्ञान (Astronomy)",
-      "C": "राजनीति शास्त्र (Political science)",
-      "D": "काव्यशास्त्र (Poetics)"
+      "A": "वर्ण व्यवस्था / Varna system",
+      "B": "जाति व्यवस्था / Caste system",
+      "C": "धार्मिक समानता / Religious equality",
+      "D": "जातीय शासन / Tribal rule"
     },
     "answer": ["A"]
   },
   {
     "id": 66,
-    "question": "‘सद्धर्मपुण्डरीक सूत्र’ में किस विचार को महत्त्व दिया गया है? / Which concept is emphasized in 'Saddharma Pundarika Sutra'?",
+    "question": "महाजनपदों के समय किस धर्म ने अधिक प्रभाव डाला? / Which religion had more influence during Mahajanapada period?",
     "options": {
-      "A": "एकयान सिद्धांत (Ekayana doctrine)",
-      "B": "तीन लोक सिद्धांत (Three-world doctrine)",
-      "C": "आठ अंग मार्ग (Eightfold path)",
-      "D": "वर्ण-व्यवस्था (Caste system)"
+      "A": "बौद्ध और जैन धर्म / Buddhism and Jainism",
+      "B": "इस्लाम / Islam",
+      "C": "ईसाई धर्म / Christianity",
+      "D": "सिख धर्म / Sikhism"
     },
     "answer": ["A"]
   },
   {
     "id": 67,
-    "question": "‘मणिमेखलै’ किस भाषा में लिखी गई है? / In which language was 'Manimekalai' composed?",
+    "question": "महाजनपदों में किस प्रकार की सैन्य शक्ति मुख्य थी? / What type of military power was prominent in Mahajanapadas?",
     "options": {
-      "A": "संस्कृत (Sanskrit)",
-      "B": "तमिल (Tamil)",
-      "C": "प्राकृत (Prakrit)",
-      "D": "पाली (Pali)"
+      "A": "हाथी, अश्व और पैदल सेना / Elephants, cavalry and infantry",
+      "B": "समुद्री सेना / Naval forces",
+      "C": "युद्ध के लिए घोड़ों का उपयोग नहीं / No use of horses",
+      "D": "मुक्का बंदूक / Firearms"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 68,
-    "question": "‘मणिमेखलै’ किस धार्मिक परंपरा को दर्शाती है? / Which religious tradition does 'Manimekalai' depict?",
+    "question": "महाजनपदों में किसने आर्थिक नीतियों को दिशा दी? / Who guided the economic policies in Mahajanapadas?",
     "options": {
-      "A": "बौद्ध (Buddhist)",
-      "B": "जैन (Jain)",
-      "C": "वैष्णव (Vaishnava)",
-      "D": "शैव (Shaiva)"
+      "A": "अर्थशास्त्र (चाणक्य) / Arthashastra (Chanakya)",
+      "B": "राजा के निजी अधिकारी / King's private officers",
+      "C": "विदेशी व्यापारी / Foreign traders",
+      "D": "धार्मिक गुरु / Religious priests"
     },
     "answer": ["A"]
   },
   {
     "id": 69,
-    "question": "‘शिलप्पदिकारम्’ में किस नगर का वर्णन प्रमुख है? / Which city is prominently described in 'Silappadikaram'?",
+    "question": "महाजनपदों के समय नगरों की भूमिका क्या थी? / What was the role of cities during Mahajanapada period?",
     "options": {
-      "A": "उज्जैन (Ujjain)",
-      "B": "मदुरै (Madurai)",
-      "C": "पाटलिपुत्र (Pataliputra)",
-      "D": "काशी (Kashi)"
+      "A": "व्यापार, प्रशासन और सांस्कृतिक केंद्र / Trade, administration, and cultural centers",
+      "B": "सिर्फ कृषि केंद्र / Only agricultural centers",
+      "C": "धार्मिक अनुष्ठान केंद्र / Religious ritual centers",
+      "D": "मिलिट्री फोर्ट्स केवल / Military forts only"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 70,
-    "question": "‘शिलप्पदिकारम्’ की नायिका का नाम क्या है? / What is the name of the heroine of 'Silappadikaram'?",
+    "question": "महाजनपद मगध की राजधानी क्या थी? / What was the capital of Mahajanapada Magadh?",
     "options": {
-      "A": "मणिमेखलै (Manimekalai)",
-      "B": "कण्णगी (Kannagi)",
-      "C": "कोवलन (Kovalan)",
-      "D": "मल्लिका (Mallika)"
+      "A": "पाटलिपुत्र / Pataliputra",
+      "B": "वैशाली / Vaishali",
+      "C": "अयोध्या / Ayodhya",
+      "D": "राजगृह / Rajagriha"
     },
-    "answer": ["B"]
+    "answer": ["D"]
   },
   {
     "id": 71,
-    "question": "संगम साहित्य का काल किसे माना जाता है? / Which period is considered as the Sangam Age?",
+    "question": "कोशल महाजनपद की राजधानी क्या थी? / What was the capital of Kosala Mahajanapada?",
     "options": {
-      "A": "300 BCE – 300 CE",
-      "B": "600 BCE – 100 CE",
-      "C": "200 CE – 600 CE",
-      "D": "100 BCE – 500 CE"
+      "A": "अयोध्या / Ayodhya",
+      "B": "काशी / Kashi",
+      "C": "वैशाली / Vaishali",
+      "D": "राजगृह / Rajagriha"
     },
     "answer": ["A"]
   },
   {
     "id": 72,
-    "question": "संगम साहित्य किस भाषा में रचित है? / In which language is Sangam literature composed?",
+    "question": "वज्जि संघ (लिच्छवि गणराज्य) की राजधानी क्या थी? / What was the capital of Vajji Confederacy (Licchavi republic)?",
     "options": {
-      "A": "संस्कृत (Sanskrit)",
-      "B": "तमिल (Tamil)",
-      "C": "प्राकृत (Prakrit)",
-      "D": "पाली (Pali)"
+      "A": "वैशाली / Vaishali",
+      "B": "पाटलिपुत्र / Pataliputra",
+      "C": "राजगृह / Rajagriha",
+      "D": "अयोध्या / Ayodhya"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 73,
-    "question": "‘एट्टुत्तोगै’ किस प्रकार का संकलन है? / 'Ettuthogai' is a collection of what?",
+    "question": "अवंति महाजनपद की राजधानी कौन सी थी? / What was the capital of Avanti Mahajanapada?",
     "options": {
-      "A": "आठ महाकाव्य (Eight epics)",
-      "B": "आठ लघु काव्य संग्रह (Eight anthologies)",
-      "C": "आठ धार्मिक ग्रंथ (Eight religious texts)",
-      "D": "आठ व्याकरण शास्त्र (Eight grammar texts)"
+      "A": "उज्जयिनी / Ujjayini",
+      "B": "राजगृह / Rajagriha",
+      "C": "वैशाली / Vaishali",
+      "D": "पाटलिपुत्र / Pataliputra"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 74,
-    "question": "‘पट्टुपाट्टु’ में कितनी लंबी कविताएँ सम्मिलित हैं? / How many long poems are included in 'Pattuppattu'?",
+    "question": "पंचाल महाजनपद की राजधानी कौन सी थी? / What was the capital of Panchala Mahajanapada?",
     "options": {
-      "A": "10",
-      "B": "8",
-      "C": "5",
-      "D": "12"
+      "A": "अहलोलवा / Ahichchhatra",
+      "B": "वैशाली / Vaishali",
+      "C": "राजगृह / Rajagriha",
+      "D": "अयोध्या / Ayodhya"
     },
     "answer": ["A"]
   },
   {
     "id": 75,
-    "question": "‘तोलकाप्पियम’ किस विषय पर ग्रंथ है? / 'Tolkappiyam' is a treatise on which subject?",
+    "question": "मगध महाजनपद का क्षेत्रफल किस नदी घाटी में विस्तृत था? / Magadh Mahajanapada extended in which river valley?",
     "options": {
-      "A": "धर्मशास्त्र (Dharmashastra)",
-      "B": "व्याकरण और काव्यशास्त्र (Grammar and poetics)",
-      "C": "राजनीति (Politics)",
-      "D": "संगीत (Music)"
+      "A": "गंगा नदी घाटी / Ganga river valley",
+      "B": "यमुना नदी घाटी / Yamuna river valley",
+      "C": "सिन्धु नदी घाटी / Indus river valley",
+      "D": "गोदावरी नदी घाटी / Godavari river valley"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 76,
-    "question": "संगम साहित्य में वर्णित तीन तमिल राजवंश कौन से हैं? / Which three Tamil dynasties are mentioned in Sangam literature?",
+    "question": "कोशल महाजनपद किस क्षेत्र में स्थित था? / Where was Kosala Mahajanapada located?",
     "options": {
-      "A": "चेरा, चोल, पांड्य (Chera, Chola, Pandya)",
-      "B": "चेर, चालुक्य, पल्लव (Cher, Chalukya, Pallava)",
-      "C": "चोल, पल्लव, कदंब (Chola, Pallava, Kadamba)",
-      "D": "चेर, होयसाल, चोल (Cher, Hoysala, Chola)"
+      "A": "गंगा और गोमती नदी के बीच / Between Ganga and Gomti rivers",
+      "B": "सिन्धु नदी क्षेत्र / Indus river region",
+      "C": "दक्कन पठार / Deccan plateau",
+      "D": "पूर्वी भारत / Eastern India"
     },
     "answer": ["A"]
   },
   {
     "id": 77,
-    "question": "‘पेरुम्पाणाट्रुप्पडई’ किस वंश के राजा की प्रशंसा करती है? / 'Perumpanarruppadai' praises the king of which dynasty?",
+    "question": "मगध महाजनपद के प्रमुख राजा कौन थे? / Who were prominent kings of Magadh Mahajanapada?",
     "options": {
-      "A": "चेरा (Chera)",
-      "B": "चोल (Chola)",
-      "C": "पांड्य (Pandya)",
-      "D": "सातवाहन (Satavahana)"
+      "A": "शिशुनाग, नंद, मौर्य / Shishunaga, Nanda, Maurya",
+      "B": "पोरस, चंद्रगुप्त, अशोक / Porus, Chandragupta, Ashoka",
+      "C": "दुर्योधन, भीम, अर्जुन / Duryodhana, Bhima, Arjuna",
+      "D": "चन्द्रगुप्त, सम्राट हर्ष, विक्रमादित्य / Chandragupta, Harsha, Vikramaditya"
     },
     "answer": ["A"]
   },
   {
     "id": 78,
-    "question": "‘मदुरै कांची’ में किस नगर का वर्णन है? / Which city is described in 'Maduraikkanchi'?",
+    "question": "कोशल महाजनपद के प्रसिद्ध राजा कौन थे? / Who was a famous king of Kosala Mahajanapada?",
     "options": {
-      "A": "उज्जैन (Ujjain)",
-      "B": "मदुरै (Madurai)",
-      "C": "कांची (Kanchi)",
-      "D": "पुहार (Puhar)"
+      "A": "प्रयग / Prasenjit",
+      "B": "चन्द्रगुप्त मौर्य / Chandragupta Maurya",
+      "C": "अशोक / Ashoka",
+      "D": "पोरस / Porus"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 79,
-    "question": "‘पत्तिनप्पालै’ में किस बंदरगाह नगर का वर्णन है? / Which port city is described in 'Pattinappalai'?",
+    "question": "अवंति महाजनपद के प्रमुख राजा कौन थे? / Who were prominent kings of Avanti Mahajanapada?",
     "options": {
-      "A": "पुहार (Puhar)",
-      "B": "मुसिरी (Musiri)",
-      "C": "तूतुकुड़ी (Tuticorin)",
-      "D": "कोवलम (Kovalam)"
+      "A": "मधुवर्मन और हरि / Madhavarman and Hari",
+      "B": "चन्द्रगुप्त मौर्य / Chandragupta Maurya",
+      "C": "सम्राट अशोक / Emperor Ashoka",
+      "D": "शिशुनाग / Shishunaga"
     },
     "answer": ["A"]
   },
   {
     "id": 80,
-    "question": "संगम साहित्य में ‘अहम’ और ‘पुरम’ का क्या अर्थ है? / What do 'Aham' and 'Puram' mean in Sangam literature?",
+    "question": "वज्जि संघ (लिच्छवि गणराज्य) की प्रमुख व्यवस्था क्या थी? / What was the main governance system of Vajji Confederacy (Licchavi republic)?",
     "options": {
-      "A": "अहम - प्रेम काव्य, पुरम - वीरता और सार्वजनिक जीवन (Aham - love poetry, Puram - heroism & public life)",
-      "B": "अहम - राजनीति, पुरम - व्यापार (Aham - politics, Puram - trade)",
-      "C": "अहम - धर्म, पुरम - अर्थ (Aham - religion, Puram - economy)",
-      "D": "अहम - नृत्य, पुरम - संगीत (Aham - dance, Puram - music)"
+      "A": "गणराज्य / Republic",
+      "B": "राजतंत्र / Monarchy",
+      "C": "तानाशाही / Dictatorship",
+      "D": "फेदरल सिस्टम / Federal system"
     },
     "answer": ["A"]
   },
   {
     "id": 81,
-    "question": "मेगस्थनीज ने किस मौर्य शासक के दरबार में यात्रा की? / Megasthenes visited the court of which Mauryan ruler?",
+    "question": "मगध महाजनपद की स्थापना किस वंश ने की थी? / Which dynasty founded Magadh Mahajanapada?",
     "options": {
-      "A": "चंद्रगुप्त मौर्य (Chandragupta Maurya)",
-      "B": "बिन्दुसार (Bindusara)",
-      "C": "अशोक (Ashoka)",
-      "D": "दशरथ (Dasharatha)"
+      "A": "शिशुनाग वंश / Shishunaga dynasty",
+      "B": "गुप्त वंश / Gupta dynasty",
+      "C": "मौर्य वंश / Maurya dynasty",
+      "D": "नंद वंश / Nanda dynasty"
     },
     "answer": ["A"]
   },
   {
     "id": 82,
-    "question": "मेगस्थनीज की पुस्तक का नाम क्या है? / What is the name of Megasthenes' book?",
+    "question": "नंद वंश का उदय कहाँ हुआ था? / Where did the Nanda dynasty rise?",
     "options": {
-      "A": "इंडिका (Indica)",
-      "B": "पेरिप्लस (Periplus)",
-      "C": "जियोग्राफिका (Geographica)",
-      "D": "अनाबेसिस (Anabasis)"
+      "A": "मगध / Magadh",
+      "B": "कोशल / Kosala",
+      "C": "अवंति / Avanti",
+      "D": "पंचाल / Panchala"
     },
     "answer": ["A"]
   },
   {
     "id": 83,
-    "question": "‘Periplus of the Erythraean Sea’ में किस क्षेत्र के व्यापार का वर्णन है? / 'Periplus of the Erythraean Sea' describes trade of which region?",
+    "question": "मौर्य वंश के संस्थापक कौन थे? / Who was the founder of Maurya dynasty?",
     "options": {
-      "A": "भूमध्यसागर (Mediterranean)",
-      "B": "भारतीय महासागर (Indian Ocean)",
-      "C": "एशिया माइनर (Asia Minor)",
-      "D": "सहारा क्षेत्र (Saharan region)"
+      "A": "चन्द्रगुप्त मौर्य / Chandragupta Maurya",
+      "B": "अशोक / Ashoka",
+      "C": "बिंदुसार / Bindusara",
+      "D": "शिशुनाग / Shishunaga"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 84,
-    "question": "‘प्लिनी द एल्डर’ ने भारतीय वस्तुओं में किसे सबसे महंगा बताया? / Pliny the Elder considered which Indian product most expensive?",
+    "question": "मगध का क्षेत्रफल किससे बड़ा था? / Magadh’s territory was larger than?",
     "options": {
-      "A": "काली मिर्च (Black pepper)",
-      "B": "सोना (Gold)",
-      "C": "रेशम (Silk)",
-      "D": "मोती (Pearls)"
+      "A": "कोशल और अवंति / Kosala and Avanti",
+      "B": "पंचाल और वज्जि संघ / Panchala and Vajji Confederacy",
+      "C": "काशी और मल्ल / Kashi and Malla",
+      "D": "सभी उपरोक्त / All of the above"
     },
-    "answer": ["A"]
+    "answer": ["D"]
   },
   {
     "id": 85,
-    "question": "‘Claudius Ptolemy’ किस विषय के लिए प्रसिद्ध हैं? / Claudius Ptolemy is famous for which subject?",
+    "question": "कोशल महाजनपद का क्षेत्रफल किस नदी के आस-पास था? / Kosala’s area was around which river?",
     "options": {
-      "A": "खगोल एवं भूगोल (Astronomy and Geography)",
-      "B": "चिकित्सा (Medicine)",
-      "C": "राजनीति (Politics)",
-      "D": "काव्य (Poetry)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 86,
-    "question": "‘फाह्यान’ किस शासक के काल में भारत आए? / Fa-Hien visited India during the reign of which ruler?",
-    "options": {
-      "A": "चंद्रगुप्त प्रथम (Chandragupta I)",
-      "B": "समुद्रगुप्त (Samudragupta)",
-      "C": "चंद्रगुप्त द्वितीय विक्रमादित्य (Chandragupta II Vikramaditya)",
-      "D": "कुमारगुप्त (Kumaragupta)"
+      "A": "गंगा / Ganga",
+      "B": "यमुना / Yamuna",
+      "C": "गोमती / Gomti",
+      "D": "सिंधु / Sindhu"
     },
     "answer": ["C"]
   },
   {
-    "id": 87,
-    "question": "फाह्यान ने भारत में किस विषय पर विशेष ध्यान दिया? / What was Fa-Hien particularly focused on in India?",
+    "id": 86,
+    "question": "वज्जि संघ की राजधानी वैशाली किस वर्तमान राज्य में है? / In which present state is Vajji Confederacy’s capital Vaishali located?",
     "options": {
-      "A": "राजनीतिक स्थिति (Political condition)",
-      "B": "धार्मिक जीवन और बौद्ध तीर्थ (Religious life and Buddhist pilgrimages)",
-      "C": "व्यापारिक मार्ग (Trade routes)",
-      "D": "सैन्य शक्ति (Military power)"
+      "A": "बिहार / Bihar",
+      "B": "उत्तर प्रदेश / Uttar Pradesh",
+      "C": "झारखंड / Jharkhand",
+      "D": "मध्य प्रदेश / Madhya Pradesh"
+    },
+    "answer": ["A"]
+  },
+  {
+    "id": 87,
+    "question": "मगध के किस राजा के शासनकाल में मौर्य साम्राज्य की स्थापना हुई? / Under which Magadh king was Maurya Empire established?",
+    "options": {
+      "A": "नंद राजा / Nanda King",
+      "B": "चन्द्रगुप्त मौर्य / Chandragupta Maurya",
+      "C": "अशोक / Ashoka",
+      "D": "शिशुनाग / Shishunaga"
     },
     "answer": ["B"]
   },
   {
     "id": 88,
-    "question": "ह्वेनसांग भारत कब आए थे? / When did Xuanzang (Hiuen Tsang) visit India?",
+    "question": "मगध के प्रथम सम्राट कौन थे? / Who was the first emperor of Magadh?",
     "options": {
-      "A": "4th century CE",
-      "B": "5th century CE",
-      "C": "7th century CE",
-      "D": "8th century CE"
+      "A": "चन्द्रगुप्त मौर्य / Chandragupta Maurya",
+      "B": "अशोक / Ashoka",
+      "C": "बिंदुसार / Bindusara",
+      "D": "नंद / Nanda"
     },
-    "answer": ["C"]
+    "answer": ["A"]
   },
   {
     "id": 89,
-    "question": "ह्वेनसांग किस भारतीय शासक के दरबार में आए? / Xuanzang visited the court of which Indian ruler?",
+    "question": "कोशल महाजनपद के कौन से राजा को बुद्ध ने दर्शन दिया था? / Which Kosala king was visited by Buddha?",
     "options": {
-      "A": "हर्षवर्धन (Harshavardhana)",
-      "B": "समुद्रगुप्त (Samudragupta)",
-      "C": "चंद्रगुप्त II (Chandragupta II)",
-      "D": "कुमारगुप्त (Kumaragupta)"
+      "A": "प्रसेनजीत / Prasenjit",
+      "B": "दशरथ / Dasharatha",
+      "C": "विदेह / Videha",
+      "D": "हर्ष / Harsha"
     },
     "answer": ["A"]
   },
   {
     "id": 90,
-    "question": "अल-बेरूनी किस काल में भारत आए थे? / Al-Biruni visited India during which period?",
+    "question": "अवंति महाजनपद किस क्षेत्र में था? / Avanti Mahajanapada was in which region?",
     "options": {
-      "A": "दिल्ली सल्तनत (Delhi Sultanate)",
-      "B": "गजनवी (Ghaznavid)",
-      "C": "मुगल (Mughal)",
-      "D": "गुप्त (Gupta)"
+      "A": "मध्य प्रदेश / Madhya Pradesh",
+      "B": "राजस्थान / Rajasthan",
+      "C": "उत्तर प्रदेश / Uttar Pradesh",
+      "D": "बिहार / Bihar"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 91,
-    "question": "अल-बेरूनी की पुस्तक का नाम क्या है? / What is the name of Al-Biruni's book?",
+    "question": "मगध का क्षेत्रफल किस वर्तमान राज्य के हिस्से में आता है? / Magadh's area falls mostly in which present-day state?",
     "options": {
-      "A": "तहकीक-ए-हिंद (Tahqiq-i-Hind)",
-      "B": "तबकात-ए-नासिरी (Tabaqat-i-Nasiri)",
-      "C": "अकबरनामा (Akbarnama)",
-      "D": "आइन-ए-अकबरी (Ain-i-Akbari)"
+      "A": "बिहार / Bihar",
+      "B": "मध्य प्रदेश / Madhya Pradesh",
+      "C": "उत्तर प्रदेश / Uttar Pradesh",
+      "D": "झारखंड / Jharkhand"
     },
     "answer": ["A"]
   },
   {
     "id": 92,
-    "question": "मार्को पोलो ने भारत के किस भाग का वर्णन किया? / Marco Polo described which part of India?",
+    "question": "वज्जि संघ किस प्रकार की सरकार थी? / What kind of government was Vajji Confederacy?",
     "options": {
-      "A": "उत्तर भारत (North India)",
-      "B": "दक्षिण भारत (South India)",
-      "C": "पश्चिम भारत (West India)",
-      "D": "पूरब भारत (East India)"
+      "A": "गणराज्य / Republic",
+      "B": "राजतंत्र / Monarchy",
+      "C": "तानाशाही / Dictatorship",
+      "D": "सामंतवादी / Feudal"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 93,
-    "question": "‘Nicolo Conti’ ने भारत में किस चीज़ का विशेष वर्णन किया? / Nicolo Conti gave a detailed description of what in India?",
+    "question": "मगध के प्रसिद्ध राजा अशोक ने कौन सा धर्म अपनाया? / Which religion did famous Magadh king Ashoka adopt?",
     "options": {
-      "A": "मसाले और व्यापार (Spices and trade)",
-      "B": "युद्ध कला (Art of war)",
-      "C": "मूर्तिकला (Sculpture)",
-      "D": "राजनीतिक व्यवस्था (Political system)"
+      "A": "बौद्ध धर्म / Buddhism",
+      "B": "जैन धर्म / Jainism",
+      "C": "हिंदू धर्म / Hinduism",
+      "D": "इस्लाम / Islam"
     },
     "answer": ["A"]
   },
   {
     "id": 94,
-    "question": "इब्न बतूता किस शासक के दरबार में आए थे? / Ibn Battuta came to the court of which ruler?",
+    "question": "कोशल महाजनपद के क्षेत्रफल में मुख्य नदियाँ कौन सी थीं? / Main rivers in Kosala Mahajanapada?",
     "options": {
-      "A": "अलाउद्दीन खिलजी (Alauddin Khilji)",
-      "B": "मुहम्मद बिन तुगलक (Muhammad bin Tughlaq)",
-      "C": "शेरशाह सूरी (Sher Shah Suri)",
-      "D": "अकबर (Akbar)"
+      "A": "गंगा और गोमती / Ganga and Gomti",
+      "B": "यमुना और सरयू / Yamuna and Sarayu",
+      "C": "सिंधु और ब्रह्मपुत्र / Sindhu and Brahmaputra",
+      "D": "गोदावरी और नर्मदा / Godavari and Narmada"
     },
     "answer": ["B"]
   },
   {
     "id": 95,
-    "question": "इब्न बतूता की यात्रा वृत्तांत का नाम क्या है? / What is the name of Ibn Battuta's travelogue?",
+    "question": "मगध महाजनपद के किस राजा ने नंद वंश की स्थापना की? / Which king founded Nanda dynasty in Magadh?",
     "options": {
-      "A": "रिहला (Rihla)",
-      "B": "तारिख-ए-फिरोजशाही (Tarikh-i-Firuz Shahi)",
-      "C": "तारीख-ए-यामिनी (Tarikh-i-Yamini)",
-      "D": "अल-कानून (Al-Qanun)"
+      "A": "महापद्म नंद / Mahapadma Nanda",
+      "B": "चन्द्रगुप्त मौर्य / Chandragupta Maurya",
+      "C": "बिंदुसार / Bindusara",
+      "D": "अशोक / Ashoka"
     },
     "answer": ["A"]
   },
   {
     "id": 96,
-    "question": "‘पेरिप्लस’ में उल्लेखित ‘सोफिर’ किसे माना जाता है? / In 'Periplus', what is 'Sofir' believed to be?",
+    "question": "अवंति महाजनपद की राजधानी उज्जयिनी वर्तमान में किस शहर के नाम से जाना जाता है? / Capital of Avanti Mahajanapada Ujjayini is known by what name today?",
     "options": {
-      "A": "भरुच (Bharuch)",
-      "B": "सोपारा (Sopara)",
-      "C": "सूरत (Surat)",
-      "D": "ताम्रलिप्ति (Tamralipti)"
+      "A": "उज्जैन / Ujjain",
+      "B": "इंदौर / Indore",
+      "C": "भोपाल / Bhopal",
+      "D": "रतलाम / Ratlam"
     },
-    "answer": ["B"]
+    "answer": ["A"]
   },
   {
     "id": 97,
-    "question": "प्लिनी ने रोमन सोने के भारत में जाने पर क्या टिप्पणी की थी? / What did Pliny say about Roman gold going to India?",
+    "question": "पंचाल महाजनपद का क्षेत्र किस नदी के पास था? / Panchala Mahajanapada was near which river?",
     "options": {
-      "A": "भारत की अर्थव्यवस्था पर नकारात्मक प्रभाव (Negative effect on Indian economy)",
-      "B": "रोम की अर्थव्यवस्था के पतन का कारण (Cause of Roman economic decline)",
-      "C": "सोने का मूल्य बढ़ा (Gold value increased)",
-      "D": "भारत में महंगाई बढ़ी (Inflation in India)"
+      "A": "गंगा / Ganga",
+      "B": "यमुना / Yamuna",
+      "C": "सरयू / Sarayu",
+      "D": "गोमती / Gomti"
     },
     "answer": ["B"]
   },
   {
     "id": 98,
-    "question": "प्टोलमी के अनुसार भारत का दक्षिणी सिरे का नाम क्या था? / According to Ptolemy, what was the name of the southern tip of India?",
+    "question": "मगध महाजनपद की सबसे प्रमुख उपलब्धि क्या थी? / What was the most prominent achievement of Magadh Mahajanapada?",
     "options": {
-      "A": "कोमोरिन (Comorin)",
-      "B": "केपोरिन (Capeorin)",
-      "C": "मलबार (Malabar)",
-      "D": "तम्रपर्णी (Tamraparni)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 99,
-    "question": "ह्वेनसांग ने किस विश्वविद्यालय में अध्ययन किया? / Xuanzang studied at which university?",
-    "options": {
-      "A": "नालंदा (Nalanda)",
-      "B": "तक्षशिला (Takshashila)",
-      "C": "विक्रमशिला (Vikramashila)",
-      "D": "वलभी (Valabhi)"
-    },
-    "answer": ["A"]
-  },
-  {
-    "id": 100,
-    "question": "अल-बेरूनी ने भारत के किस ज्ञान क्षेत्र का विशेष अध्ययन किया? / Al-Biruni made a special study of which field of Indian knowledge?",
-    "options": {
-      "A": "गणित और खगोल (Mathematics and astronomy)",
-      "B": "काव्य (Poetry)",
-      "C": "धर्मशास्त्र (Religious law)",
-      "D": "संगीत (Music)"
+      "A": "मौर्य साम्राज्य का उदय / Rise of Maurya Empire",
+      "B": "बुद्ध धर्म की स्थापना / Establishment of Buddhism",
+      "C": "कोशल के साथ गठबंधन / Alliance with Kosala",
+      "D": "अवंति से युद्ध / War with Avanti"
     },
     "answer": ["A"]
   }
-]
-
-
- 
+]  
