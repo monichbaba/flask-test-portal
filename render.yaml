@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: student-test-app
+    name: name: flask-test-portal
     runtime: python
     buildCommand: |
       python -m pip install --upgrade pip
