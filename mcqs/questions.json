@@ -1,26 +1,964 @@
 [
   {
     "id": 1,
-    "question": "अशोक के किस प्रकार के शिलालेखों को सबसे पहले खुदवाया गया था? / Which type of Ashokan edicts were engraved first?",
+    "question": "शुंग वंश का संस्थापक कौन था और उसने किस वंश के बाद सत्ता संभाली थी? / Who was the founder of Shunga Dynasty and after which dynasty did he come to power?",
     "options": {
-      "A": "पिलर एडिक्ट्स (Pillar Edicts)",
-      "B": "रॉक एडिक्ट्स (Rock Edicts)",
-      "C": "माइनर एडिक्ट्स (Minor Edicts)",
-      "D": "कुप्पम एडिक्ट्स (Kuppam Edicts)"
+      "A": "Pushyamitra Shunga, Maurya Dynasty",
+      "B": "Agnimitra, Maurya Dynasty",
+      "C": "Pushyamitra Shunga, Gupta Dynasty",
+      "D": "Vasujyeshtha, Maurya Dynasty"
     },
-    "answer": ["A", "B"],
-    "explanation": "अशोक के शासनकाल में सबसे पहले पिलर और रॉक एडिक्ट्स खुदवाए गए थे। माइनर एडिक्ट्स बाद में पाए गए।"
+    "answer": ["A"],
+    "explanation": "Pushyamitra Shunga ने Maurya Dynasty के बाद सत्ता संभाली और Shunga Dynasty की स्थापना की।"
   },
   {
     "id": 2,
-    "question": "अशोक के दयाशील शासन का मुख्य संदेश क्या था? / What was the main message of Ashoka's benevolent rule?",
+    "question": "शुंग वंश की राजधानी के बारे में कौन सा कथन सही है? / Which statement about Shunga Dynasty's capital is correct?",
     "options": {
-      "A": "धर्म का पालन / Dhamma",
-      "B": "युद्ध और विजय / War and Conquest",
-      "C": "व्यापार और कर / Trade and Tax",
-      "D": "कला और स्थापत्य / Art and Architecture"
+      "A": "Shunga dynasty की प्रारंभिक राजधानी Pataliputra थी",
+      "B": "Baad me Vidisha राजधानी बनी",
+      "C": "Shunga dynasty की राजधानी Taxila थी",
+      "D": "Shunga dynasty की कोई राजधानी नहीं थी"
+    },
+    "answer": ["A", "B"],
+    "explanation": "शुरुआत में Pataliputra राजधानी थी और बाद में Vidisha मुख्य केंद्र बनी।"
+  },
+  {
+    "id": 3,
+    "question": "Pushyamitra Shunga के शासनकाल में कौन सा धार्मिक रुझान देखने को मिला? / What was the religious trend during Pushyamitra Shunga's reign?",
+    "options": {
+      "A": "Buddhism के खिलाफ प्रतिक्रिया",
+      "B": "Brahmanism का पुनरोत्थान",
+      "C": "Jainism का समर्थन",
+      "D": "Mauryan dharm नीति की निरंतरता"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Pushyamitra Shunga ने Buddhism के खिलाफ कदम उठाए और ब्राह्मणवाद को प्रोत्साहित किया।"
+  },
+  {
+    "id": 4,
+    "question": "Shunga dynasty के प्रशासनिक ढांचे में कौन-कौन से तत्व Maurya से जारी रहे? / Which elements of administration continued from Mauryas in Shunga dynasty?",
+    "options": {
+      "A": "राजकीय कार्यालय और पद",
+      "B": "सैन्य संगठन",
+      "C": "राजकोषीय प्रणाली",
+      "D": "स्थानीय स्वायत्तता पूरी तरह खत्म"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Shunga dynasty ने Maurya प्रशासनिक संरचना के कई पहलू जैसे कार्यालय, सेना और वित्तीय व्यवस्था को जारी रखा।"
+  },
+  {
+    "id": 5,
+    "question": "अग्निमित्र कौन था? / Who was Agnimitra?",
+    "options": {
+      "A": "Pushyamitra Shunga का पुत्र",
+      "B": "Maurya साम्राज्य का प्रशासक",
+      "C": "Shunga वंश का दूसरा शासक",
+      "D": "Buddhism के प्रमुख प्रचारक"
+    },
+    "answer": ["A", "C"],
+    "explanation": "Agnimitra Pushyamitra Shunga का पुत्र और Shunga dynasty का दूसरा शासक था।"
+  },
+  {
+    "id": 6,
+    "question": "शुंग वंश के दौरान किस प्रकार के धार्मिक स्थल पर हमला होने की संभावना थी? / Which religious sites were possibly attacked during Shunga period?",
+    "options": {
+      "A": "Buddhist Viharas",
+      "B": "Brahminical temples",
+      "C": "Jain Stupas",
+      "D": "Mauryan administrative centers"
     },
     "answer": ["A"],
-    "explanation": "अशोक ने अपने शासन में मुख्य रूप से धर्म (Dhamma) के पालन और नैतिक जीवन का संदेश दिया।"
+    "explanation": "इतिहासकारों के अनुसार, Pushyamitra Shunga के शासनकाल में Buddhist स्थल निशाना बने।"
+  },
+  {
+    "id": 7,
+    "question": "शुंग वंश के संदर्भ में निम्नलिखित कथनों में से कौन सही हैं? / Which of the following statements about Shunga dynasty are correct?",
+    "options": {
+      "A": "Maurya की तरह विस्तृत साम्राज्यवादी नीति अपनाई",
+      "B": "अल्प साम्राज्यवादी दृष्टिकोण अपनाया",
+      "C": "स्थानीय राजाओं को स्वतंत्रता दी",
+      "D": "सिर्फ धार्मिक गतिविधियों पर ध्यान दिया"
+    },
+    "answer": ["B", "C"],
+    "explanation": "Shunga dynasty ने Maurya की तरह विशाल साम्राज्य नहीं बनाया और स्थानीय राजाओं को काफी हद तक स्वायत्तता दी।"
+  },
+  {
+    "id": 8,
+    "question": "Pushyamitra Shunga का सैन्य दृष्टिकोण कैसा था? / What was Pushyamitra Shunga's military approach?",
+    "options": {
+      "A": "Buddhism के खिलाफ सैन्य अभियान",
+      "B": "विदेशी आक्रमणों से सुरक्षा",
+      "C": "Maurya की तरह विस्तारवादी नीतियाँ",
+      "D": "सैन्य पर पूर्ण निर्भरता नहीं"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Pushyamitra Shunga ने मुख्यतः धार्मिक विरोधियों के खिलाफ और बाहरी आक्रमणों से रक्षा के लिए सैन्य उपाय किए।"
+  },
+  {
+    "id": 9,
+    "question": "Shunga dynasty का आर्थिक ढांचा कैसा था? / What was the economic structure of Shunga dynasty?",
+    "options": {
+      "A": "कृषि प्रधान अर्थव्यवस्था",
+      "B": "शहरी केंद्रों पर जोर",
+      "C": "व्यापारिक नीतियों में स्थिरता",
+      "D": "Maurya की तुलना में अधिक कर संग्रह"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Shunga dynasty की अर्थव्यवस्था कृषि प्रधान थी, शहरी केंद्र विकसित हुए और व्यापारिक नीतियों में स्थिरता रही।"
+  },
+  {
+    "id": 10,
+    "question": "Shunga dynasty के कला और स्थापत्य पर किसका प्रभाव था? / Whose influence is seen on Shunga dynasty art and architecture?",
+    "options": {
+      "A": "Maurya style",
+      "B": "Buddhist architectural elements",
+      "C": "Local Brahmanical traditions",
+      "D": "Greek Hellenistic influence"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Shunga dynasty की कला और स्थापत्य में Maurya शैली, Buddhist और स्थानीय ब्राह्मणिक तत्वों का मिश्रण दिखाई देता है।"
+  },
+  {
+    "id": 11,
+    "question": "Shunga dynasty ke samay ka pramukh shilpa ka karya kya tha? / What was the prominent art form during Shunga dynasty?",
+    "options": {
+      "A": "Stupas aur toranas",
+      "B": "Cave paintings",
+      "C": "Greek style statues",
+      "D": "Maurya type pillars"
+    },
+    "answer": ["A", "D"],
+    "explanation": "Shunga dynasty ne Stupas aur toranas ko viksit kiya aur Maurya style ke pillars ka prayog bhi kiya."
+  },
+  {
+    "id": 12,
+    "question": "Shunga dynasty ke kitne pramukh shasak gaye jaate hain? / How many prominent rulers are mainly recognized in Shunga dynasty?",
+    "options": {
+      "A": "Pushyamitra Shunga",
+      "B": "Agnimitra",
+      "C": "Vasujyeshtha",
+      "D": "Devabhuti"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Shunga dynasty ke pramukh shasak Pushyamitra, Agnimitra aur Vasujyeshtha the; Devabhuti antima shasak the."
+  },
+  {
+    "id": 13,
+    "question": "Shunga dynasty ka sthapana kisne kiya aur kis prakar ki rajneeti follow ki? / Who established the Shunga dynasty and what type of politics was followed?",
+    "options": {
+      "A": "Pushyamitra Shunga, Brahmanical revival",
+      "B": "Agnimitra, Buddhist support",
+      "C": "Vasujyeshtha, Mauryan continuity",
+      "D": "Pushyamitra, Jain revival"
+    },
+    "answer": ["A"],
+    "explanation": "Pushyamitra Shunga ne Shunga dynasty ki sthapana ki aur Brahmanical revival ko badhava diya."
+  },
+  {
+    "id": 14,
+    "question": "Shunga dynasty ke samay kis prakar ka dharmik sahayog dekha gaya? / What type of religious patronage was observed in Shunga dynasty?",
+    "options": {
+      "A": "Buddhist viharas ko kam sahayog",
+      "B": "Brahmanical temples ko adhik sahayog",
+      "C": "Jain sthalon ka vikash",
+      "D": "Maurya dharm niti ka palan"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Shunga dynasty me Buddhist viharas par kam dhyan aur Brahmanical temples ko adhik sahayog diya gaya."
+  },
+  {
+    "id": 15,
+    "question": "Pushyamitra Shunga ke samay ka sainik pravartan kaisa tha? / What was the military policy during Pushyamitra Shunga's reign?",
+    "options": {
+      "A": "Buddhist viharo par attack",
+      "B": "Border protection",
+      "C": "Maurya type expansion",
+      "D": "Sainik kamjori"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Pushyamitra Shunga ne Buddhists ke khilaf aur border protection ke liye military actions liye."
+  },
+  {
+    "id": 16,
+    "question": "Shunga dynasty me kaun se shilp-kala pramukh rahe? / Which sculptural style was prominent in Shunga dynasty?",
+    "options": {
+      "A": "Stupa carving",
+      "B": "Torana carving",
+      "C": "Hellenistic influence",
+      "D": "Stone pillar inscriptions"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Shunga dynasty me Stupa aur Torana carving pramukh rahi aur stone pillars par inscriptions bhi kiye gaye."
+  },
+  {
+    "id": 17,
+    "question": "Shunga dynasty ki rajneeti aur arthavyavastha ka pramukh lakshan kya tha? / What was the key feature of Shunga dynasty's politics and economy?",
+    "options": {
+      "A": "Alp-samrajyavaadi approach",
+      "B": "Local rulers ko adhik autonomy",
+      "C": "Agriculture-based economy",
+      "D": "Full Mauryan expansion"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Shunga dynasty ne limited expansion aur local rulers ko autonomy diya, aur economy agriculture-based thi."
+  },
+  {
+    "id": 18,
+    "question": "Shunga dynasty ke samay kis prakar ki sthaptya dekhi gayi? / What type of architecture was seen during Shunga dynasty?",
+    "options": {
+      "A": "Stupas and pillars",
+      "B": "Rock-cut caves",
+      "C": "Hellenistic temples",
+      "D": "Wooden structures only"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Shunga dynasty ke samay Stupas, pillars aur rock-cut caves ka vikas hua."
+  },
+  {
+    "id": 19,
+    "question": "Shunga dynasty ke samay kis prakar ka dharm aur rajneeti sambandh tha? / What was the relationship between religion and politics in Shunga dynasty?",
+    "options": {
+      "A": "Brahmanical revival",
+      "B": "Buddhist suppression",
+      "C": "Religious neutrality",
+      "D": "Jain promotion"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Shunga dynasty me Brahmanical revival hua aur Buddhist establishments ko dabaya gaya."
+  },
+  {
+    "id": 20,
+    "question": "Shunga dynasty ke dauran kisne Maurya administration ko partly continue kiya? / Who partly continued Maurya administration during Shunga period?",
+    "options": {
+      "A": "Pushyamitra Shunga",
+      "B": "Agnimitra",
+      "C": "Devabhuti",
+      "D": "Vasujyeshtha"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Pushyamitra aur Agnimitra ne Maurya administrative structure ke kuch aspects ko continue kiya."
+  },
+  {
+    "id": 21,
+    "question": "Shunga dynasty me education aur learning ke pramukh kendra kaun the? / Which were the main centers of education during Shunga dynasty?",
+    "options": {
+      "A": "Taxila",
+      "B": "Nalanda",
+      "C": "Vidisha",
+      "D": "Pataliputra"
+    },
+    "answer": ["A", "C", "D"],
+    "explanation": "Shunga period me Taxila, Vidisha aur Pataliputra learning centers ke roop me prasiddh the."
+  },
+  {
+    "id": 22,
+    "question": "Shunga dynasty ke samay ka literary contribution kaunse hai? / Which were the literary contributions of Shunga period?",
+    "options": {
+      "A": "Yavaneswara Dharmashastra",
+      "B": "Mahabhasya by Patanjali",
+      "C": "Bharhut inscriptions",
+      "D": "Panini's Ashtadhyayi"
+    },
+    "answer": ["B", "C"],
+    "explanation": "Shunga period me Patanjali ka Mahabhasya aur Bharhut inscriptions prominent literary contributions the."
+  },
+  {
+    "id": 23,
+    "question": "Shunga dynasty ke ant me kaun sa ruler tha? / Who was the last ruler of Shunga dynasty?",
+    "options": {
+      "A": "Pushyamitra Shunga",
+      "B": "Devabhuti",
+      "C": "Agnimitra",
+      "D": "Vasujyeshtha"
+    },
+    "answer": ["B"],
+    "explanation": "Devabhuti Shunga dynasty ka antim shasak tha."
+  },
+  {
+    "id": 24,
+    "question": "Shunga dynasty ke dauran Maurya style ka kya prabhav raha? / What was the influence of Maurya style during Shunga period?",
+    "options": {
+      "A": "Administrative continuity",
+      "B": "Pillar architecture",
+      "C": "Stupa carving techniques",
+      "D": "Maurya coinage continued exactly"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Shunga dynasty me Maurya administrative structure, pillar architecture aur stupa carving techniques continue hui, lekin coinage exact nahi tha."
+  },
+  {
+    "id": 25,
+    "question": "Pushyamitra Shunga ke dharmik rujhan se kaun se group ko nuksan hua? / Which group suffered due to Pushyamitra Shunga's religious policy?",
+    "options": {
+      "A": "Buddhists",
+      "B": "Jains",
+      "C": "Brahmins",
+      "D": "Foreign traders"
+    },
+    "answer": ["A"],
+    "explanation": "Pushyamitra Shunga ke dharmik rujhan se primarily Buddhists ko nuksan hua."
+  },
+  {
+    "id": 26,
+    "question": "Shunga dynasty ka samay kis prakar ke political scenario ke liye jaana jata hai? / What kind of political scenario is Shunga period known for?",
+    "options": {
+      "A": "Decentralization",
+      "B": "Strong central Mauryan-like authority",
+      "C": "Local rulers autonomy",
+      "D": "No military focus"
+    },
+    "answer": ["A", "C"],
+    "explanation": "Shunga dynasty me decentralized system aur local rulers ki autonomy prominent thi."
+  },
+  {
+    "id": 27,
+    "question": "Shunga dynasty ke samay ka religious architecture ka pramukh example kya hai? / Which is the prominent example of religious architecture in Shunga dynasty?",
+    "options": {
+      "A": "Bharhut Stupa",
+      "B": "Sanchi Stupa",
+      "C": "Ajanta Caves",
+      "D": "Mahabodhi Temple"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Bharhut aur Sanchi Stupa Shunga dynasty ke religious architecture ke pramukh examples hai."
+  },
+  {
+    "id": 28,
+    "question": "Shunga dynasty me Maurya administrative pattern me kya changes aaye? / What changes occurred in Maurya administrative pattern during Shunga dynasty?",
+    "options": {
+      "A": "Local governors ko adhik swatantrata",
+      "B": "Tax collection system me kuch changes",
+      "C": "Complete Maurya style continuity",
+      "D": "Military recruitment me reform"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Shunga dynasty me local governors ko adhik autonomy mili, tax system aur military recruitment me reforms kiye gaye."
+  },
+  {
+    "id": 29,
+    "question": "Shunga dynasty ke samay kis prakar ki foreign policy thi? / What was the foreign policy during Shunga dynasty?",
+    "options": {
+      "A": "Trade with Hellenistic kingdoms",
+      "B": "Military campaigns against foreign invaders",
+      "C": "Complete isolation",
+      "D": "Alliance with Maurya remnants"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Shunga dynasty ne Hellenistic kingdoms ke saath trade maintain kiya aur foreign invasions se protection ke liye campaigns kiye."
+  },
+  {
+    "id": 30,
+    "question": "Shunga dynasty ke samay ka economic activity kya tha? / What was the economic activity in Shunga period?",
+    "options": {
+      "A": "Agriculture",
+      "B": "Urban trade centers",
+      "C": "Crafts and small industries",
+      "D": "Colonial style plantation"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Shunga period me agriculture pramukh tha, shahar me trade centers aur chhoti industries bhi develop hui."
+  },
+  {
+    "id": 31,
+    "question": "Shunga dynasty ke samay ka coinage system kaisa tha? / What was the coinage system in Shunga dynasty?",
+    "options": {
+      "A": "Punch-marked coins",
+      "B": "Indigenous coinage with symbols",
+      "C": "Greek-style coins",
+      "D": "No coinage system"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Shunga period me punch-marked coins aur local symbols ke saath indigenous coinage use kiya gaya."
+  },
+  {
+    "id": 32,
+    "question": "Shunga dynasty me kaun se art forms popular the? / Which art forms were popular in Shunga dynasty?",
+    "options": {
+      "A": "Stupa sculpture",
+      "B": "Torana carving",
+      "C": "Cave paintings",
+      "D": "Hellenistic statues"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Shunga dynasty me Stupa sculpture, Torana carving aur cave paintings ka vikas hua."
+  },
+  {
+    "id": 33,
+    "question": "Shunga dynasty ke samay me kis prakar ka dharmik tolerance tha? / What type of religious tolerance was present in Shunga dynasty?",
+    "options": {
+      "A": "Pro-Brahminical, anti-Buddhist",
+      "B": "Neutral for Jains",
+      "C": "Pro-Buddhist",
+      "D": "Complete religious freedom"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Shunga dynasty me Brahminical revival hua, Buddhists ke khilaf steps liye gaye aur Jains ke liye neutral approach thi."
+  },
+  {
+    "id": 34,
+    "question": "Shunga dynasty ka samay kis prakar ka cultural synthesis dikhata hai? / What kind of cultural synthesis is seen in Shunga period?",
+    "options": {
+      "A": "Maurya-Brahminical art fusion",
+      "B": "Greek Hellenistic influence",
+      "C": "Purely local style",
+      "D": "Buddhist architectural continuation"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Shunga dynasty me Maurya style, Brahminical art aur Hellenistic influence ka mixture dikhai deta hai."
+  },
+  {
+    "id": 35,
+    "question": "Shunga dynasty ke samay kis prakar ke inscriptions popular the? / What type of inscriptions were popular in Shunga period?",
+    "options": {
+      "A": "Stone pillars",
+      "B": "Stupa railings",
+      "C": "Cave walls",
+      "D": "Copper plates"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Shunga period me stone pillars, stupa railings aur cave walls par inscriptions likhe gaye."
+  },
+  {
+    "id": 36,
+    "question": "Shunga dynasty me kaun si trade aur commerce ka feature tha? / What was the feature of trade and commerce in Shunga dynasty?",
+    "options": {
+      "A": "Urban trade centers",
+      "B": "Trade with Hellenistic world",
+      "C": "Agriculture-based internal economy",
+      "D": "Maritime trade dominance"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Shunga dynasty me urban trade centers, Hellenistic world ke saath trade aur agriculture-based economy prominent thi."
+  },
+  {
+    "id": 37,
+    "question": "Shunga dynasty ke samay ka kaun sa pramukh stupa hai? / Which is the prominent stupa of Shunga period?",
+    "options": {
+      "A": "Sanchi Stupa",
+      "B": "Bharhut Stupa",
+      "C": "Ajanta Stupa",
+      "D": "Mahabodhi Stupa"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Sanchi aur Bharhut Stupa Shunga period ke prominent religious architecture examples hain."
+  },
+  {
+    "id": 38,
+    "question": "Shunga dynasty me Maurya dharm niti ka kya status tha? / What was the status of Mauryan religious policy during Shunga period?",
+    "options": {
+      "A": "Partly continued",
+      "B": "Completely discarded",
+      "C": "Adapted for Brahminical revival",
+      "D": "Neutral approach"
+    },
+    "answer": ["A", "C"],
+    "explanation": "Shunga dynasty me Maurya dharm niti ko partly continue kiya gaya aur Brahminical revival ke liye adapt kiya gaya."
+  },
+  {
+    "id": 39,
+    "question": "Shunga dynasty ka samay kis prakar ke rajnitik aur dharmik conflict ke liye jana jata hai? / What type of political and religious conflict is Shunga period known for?",
+    "options": {
+      "A": "Buddhists vs Brahmins",
+      "B": "Local rulers vs central authority",
+      "C": "Jains vs Brahmins",
+      "D": "Foreign invaders vs Shunga army"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Shunga dynasty me primarily Brahminical revival aur local rulers autonomy se related conflicts dekhe gaye."
+  },
+  {
+    "id": 40,
+    "question": "Shunga dynasty ke samay kis prakar ki art aur architecture ke pramukh examples hai? / Which are the prominent examples of art and architecture in Shunga period?",
+    "options": {
+      "A": "Sanchi Stupa",
+      "B": "Bharhut Stupa",
+      "C": "Pillar inscriptions",
+      "D": "Ajanta paintings"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Shunga period ke pramukh art aur architecture examples me Sanchi me milate hain, jinko amrudahibagh wale chura legaye."
+  },
+  {
+    "id": 41,
+    "question": "Shunga dynasty ke samay Sanchi Stupa ka kya vishesh yogdan tha? / What was the special contribution of Shunga dynasty to Sanchi Stupa?",
+    "options": {
+      "A": "First enlargement of Sanchi Stupa",
+      "B": "Torana (gateway) construction",
+      "C": "Main dome original construction",
+      "D": "Buddha idol installation inside"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Shunga dynasty ke dauran Sanchi Stupa ka pehla enlargement hua aur torana gateways ka construction hua."
+  },
+  {
+    "id": 42,
+    "question": "Shunga dynasty ke art ka pramukh lakshan kya tha? / What was the main feature of Shunga dynasty art?",
+    "options": {
+      "A": "Narrative relief sculptures",
+      "B": "Geometric decorative patterns",
+      "C": "Purely Mauryan polish style",
+      "D": "Use of sandstone"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Shunga art me narrative reliefs, geometric motifs aur sandstone ka upyog pramukh tha."
+  },
+  {
+    "id": 43,
+    "question": "Bharhut Stupa ke bare me kaun sa statement sahi hai? / Which statement about Bharhut Stupa is correct?",
+    "options": {
+      "A": "Shunga period me renovation hua",
+      "B": "Railings par Jataka tales ke reliefs mile",
+      "C": "Purely Mauryan construction",
+      "D": "Stone carving detailed tha"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Bharhut Stupa ka Shunga period me renovation hua, railings par Jataka tales ke reliefs the, aur stone carving bahut detailed tha."
+  },
+  {
+    "id": 44,
+    "question": "Shunga dynasty ke dauran stupa architecture me kya parivartan aaye? / What changes occurred in stupa architecture during Shunga dynasty?",
+    "options": {
+      "A": "Size enlargement",
+      "B": "Addition of toranas",
+      "C": "Stone railings ka prayog",
+      "D": "Wooden domes ka use"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Shunga period me stupas ko enlarge kiya gaya, toranas add hue aur stone railings ka prayog hua."
+  },
+  {
+    "id": 45,
+    "question": "Shunga dynasty ke stupa decoration me kaun si visheshta thi? / Which was the specialty of stupa decoration in Shunga dynasty?",
+    "options": {
+      "A": "Floral and geometric patterns",
+      "B": "Buddha ko symbolic roop me dikhana",
+      "C": "Large narrative panels",
+      "D": "Direct human idol of Buddha"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Shunga stupa decoration me floral patterns, Buddha ko symbols se darshana, aur narrative panels ka prayog hua."
+  },
+  {
+    "id": 46,
+    "question": "Sanchi Stupa ke enlargement ke samay kaun se architectural elements add kiye gaye? / Which architectural elements were added during Sanchi Stupa enlargement?",
+    "options": {
+      "A": "Harmika",
+      "B": "Chattra",
+      "C": "Toranas",
+      "D": "Wooden beams"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Shunga period me Sanchi Stupa me harmika, chattra aur toranas add kiye gaye."
+  },
+  {
+    "id": 47,
+    "question": "Punch-marked coins ke vishay me kaun sa statement sahi hai? / Which statement about punch-marked coins is correct?",
+    "options": {
+      "A": "Symbols ko punch mark se banaya jata tha",
+      "B": "Ye Maurya period me shuru hue aur Shunga period me continue hue",
+      "C": "Made from gold only",
+      "D": "Mostly silver coins the"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Punch-marked coins par symbols punch mark se banaye jate the, ye Maurya period me shuru hue aur Shunga period me continue hue; zyadatar silver ke the."
+  },
+  {
+    "id": 48,
+    "question": "Shunga dynasty ke numismatics ka pramukh feature kya tha? / What was the prominent feature of Shunga dynasty numismatics?",
+    "options": {
+      "A": "Local motifs ke saath punch-marked coins",
+      "B": "Maurya symbol continuity",
+      "C": "Greek legends",
+      "D": "Copper coins ka upyog"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Shunga numismatics me local motifs, Maurya symbols ka continuity aur copper coins ka upyog bhi hua."
+  },
+  {
+    "id": 49,
+    "question": "Punch-marked coins me kis prakar ke chinh milte the? / What type of symbols are found on punch-marked coins?",
+    "options": {
+      "A": "Geometric figures",
+      "B": "Animal motifs",
+      "C": "Religious symbols",
+      "D": "Portrait heads"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Punch-marked coins par geometric shapes, animal motifs aur religious symbols milte the; portrait heads Greek coins me the."
+  },
+  {
+    "id": 50,
+    "question": "Shunga dynasty ke art me Maurya style ka kya prabhav tha? / What was the influence of Maurya style on Shunga art?",
+    "options": {
+      "A": "Highly polished stone",
+      "B": "Monolithic pillars",
+      "C": "Symbolic representation",
+      "D": "Indo-Greek blending"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Shunga art me Maurya ka polish, monolithic pillars aur symbolic style ka prabhav dekha gaya."
+  },
+  {
+    "id": 51,
+    "question": "Bharhut Stupa ke railings ka artistic feature kya tha? / What was the artistic feature of Bharhut Stupa railings?",
+    "options": {
+      "A": "Deep narrative reliefs",
+      "B": "Jataka tales depiction",
+      "C": "Inscriptions naming donors",
+      "D": "Marble carving"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Bharhut Stupa railings par deep narrative reliefs, Jataka tales, aur donor inscriptions mile."
+  },
+  {
+    "id": 52,
+    "question": "Shunga dynasty ke stupas me kis architectural symbolism ka upyog hota tha? / Which architectural symbolism was used in Shunga stupas?",
+    "options": {
+      "A": "Harmika as heavens",
+      "B": "Chattra as spiritual levels",
+      "C": "Torana as entrance to sacred space",
+      "D": "Shikhara as mount Meru"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Shunga stupas me harmika heavens ka pratik tha, chattra spiritual levels aur torana sacred entrance ka pratik tha."
+  },
+  {
+    "id": 53,
+    "question": "Punch-marked coins ka pramukh uddeshya kya tha? / What was the primary purpose of punch-marked coins?",
+    "options": {
+      "A": "Facilitating trade",
+      "B": "Religious donations",
+      "C": "Tax payments",
+      "D": "Military salaries"
+    },
+    "answer": ["A", "C", "D"],
+    "explanation": "Punch-marked coins trade, tax collection aur military payments ke liye use hote the."
+  },
+  {
+    "id": 54,
+    "question": "Shunga period ke art me Buddha ka depiction kaise hota tha? / How was Buddha depicted in Shunga period art?",
+    "options": {
+      "A": "Symbolic form like Bodhi tree",
+      "B": "Footprints and wheel",
+      "C": "Human idol with face",
+      "D": "Empty throne"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Shunga art me Buddha ko human form me nahi, balki symbols jaise Bodhi tree, footprints, wheel aur empty throne se dikhaya jata tha."
+  },
+  {
+    "id": 55,
+    "question": "Shunga dynasty ke toranas ka pramukh feature kya tha? / What was the main feature of Shunga dynasty toranas?",
+    "options": {
+      "A": "Narrative carvings",
+      "B": "Stone construction",
+      "C": "Purely wooden design",
+      "D": "Religious symbolism"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Shunga toranas me narrative carvings, stone construction aur religious symbolism ka prayog hua."
+  },
+  {
+    "id": 56,
+    "question": "Punch-marked coins me metal composition kaisa tha? / What was the metal composition of punch-marked coins?",
+    "options": {
+      "A": "Mostly silver",
+      "B": "Copper also used",
+      "C": "Gold predominant",
+      "D": "Lead coins"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Punch-marked coins me silver predominant tha, lekin copper coins bhi use hote the."
+  },
+  {
+    "id": 57,
+    "question": "Sanchi Stupa ke toranas par kaun se scenes carve kiye gaye the? / Which scenes were carved on Sanchi Stupa toranas?",
+    "options": {
+      "A": "Jataka tales",
+      "B": "Royal processions",
+      "C": "Buddha's life events in symbolic form",
+      "D": "Hellenistic battle scenes"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Sanchi Stupa toranas par Jataka tales, royal processions aur Buddha ke symbolic life events carve kiye gaye."
+  },
+  {
+    "id": 58,
+    "question": "Punch-marked coins ka measurement aur weight kis system par adharit tha? / The measurement and weight of punch-marked coins was based on which system?",
+    "options": {
+      "A": "Karshapana weight standard",
+      "B": "Greek drachma system",
+      "C": "Local regional standards",
+      "D": "Chinese tael system"
+    },
+    "answer": ["A", "C"],
+    "explanation": "Punch-marked coins ka weight karshapana standard aur kuch jagah local standards par adharit tha."
+  },
+  {
+    "id": 59,
+    "question": "Shunga dynasty ke Bharhut Stupa me kis prakar ke inscriptions mile? / What type of inscriptions were found in Bharhut Stupa during Shunga dynasty?",
+    "options": {
+      "A": "Donor names",
+      "B": "Prakrit language",
+      "C": "Brahmi script",
+      "D": "Sanskrit poetry"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Bharhut Stupa inscriptions me donor names, Prakrit language aur Brahmi script ka prayog mila."
+  },
+  {
+    "id": 60,
+    "question": "Shunga dynasty ka art kis cultural blending ka example hai? / Shunga dynasty art is an example of which cultural blending?",
+    "options": {
+      "A": "Maurya tradition with local folk motifs",
+      "B": "Hellenistic influence",
+      "C": "Buddhist symbolism",
+      "D": "Persian rock carving style"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Shunga art me Maurya tradition, local folk motifs, Hellenistic influence aur Buddhist symbolism ka blend tha."
+  },
+  {
+    "id": 61,
+    "question": "शुंग वंश के संस्थापक पुष्यमित्र शुंग किसके सेनापति थे? / Pushyamitra Shunga, founder of the Shunga dynasty, was the commander-in-chief of whom?",
+    "options": {
+      "A": "बृहद्रथ मौर्य (Brihadratha Maurya)",
+      "B": "अशोक (Ashoka)",
+      "C": "देवनामप्रिय (Devanampriya)",
+      "D": "अग्निमित्र (Agnimitra)"
+    },
+    "answer": ["A"],
+    "explanation": "पुष्यमित्र शुंग मौर्य सम्राट बृहद्रथ के सेनापति थे, जिनकी हत्या कर उन्होंने शुंग वंश की स्थापना की।"
+  },
+  {
+    "id": 62,
+    "question": "पुष्यमित्र शुंग की मृत्यु के बाद किसने राजगद्दी संभाली? / Who succeeded Pushyamitra Shunga after his death?",
+    "options": {
+      "A": "अग्निमित्र (Agnimitra)",
+      "B": "वसुज्येष्ट (Vasujyeshtha)",
+      "C": "वसुमित्र (Vasumitra)",
+      "D": "देवभूति (Devabhuti)"
+    },
+    "answer": ["A"],
+    "explanation": "पुष्यमित्र शुंग के बाद उनके पुत्र अग्निमित्र ने गद्दी संभाली, जिनका उल्लेख कालिदास के 'मालविकाग्निमित्र' में भी है।"
+  },
+  {
+    "id": 63,
+    "question": "शुंग वंश के समय विदिशा क्यों महत्वपूर्ण था? / Why was Vidisha important during the Shunga period?",
+    "options": {
+      "A": "यह सांस्कृतिक केंद्र था / It was a cultural center",
+      "B": "यह धार्मिक स्मारकों का केंद्र था / It was a center of religious monuments",
+      "C": "यह वाणिज्यिक मार्ग पर था / It was on a commercial route",
+      "D": "यह राजधानी बनी / It became the capital"
+    },
+    "answer": ["A", "B", "C", "D"],
+    "explanation": "विदिशा शुंग काल में धार्मिक, सांस्कृतिक, वाणिज्यिक दृष्टि से महत्वपूर्ण था और बाद में यह राजधानी भी बना।"
+  },
+  {
+    "id": 64,
+    "question": "पुष्यमित्र शुंग का सबसे प्रमुख सैन्य अभियान किसके विरुद्ध था? / Against whom was Pushyamitra Shunga's most notable military campaign?",
+    "options": {
+      "A": "यवन (Indo-Greeks)",
+      "B": "सातवाहन (Satavahanas)",
+      "C": "कण्व (Kanvas)",
+      "D": "कलिंग (Kalinga)"
+    },
+    "answer": ["A"],
+    "explanation": "पुष्यमित्र शुंग ने यवनों (इंडो-ग्रीक) के आक्रमण को सफलतापूर्वक विफल किया।"
+  },
+  {
+    "id": 65,
+    "question": "शुंग वंश में 'मालविकाग्निमित्र' किसने रचा? / Who composed 'Malavikagnimitra' in the Shunga period?",
+    "options": {
+      "A": "कालिदास (Kalidasa)",
+      "B": "भास (Bhasa)",
+      "C": "पाणिनि (Panini)",
+      "D": "पतंजलि (Patanjali)"
+    },
+    "answer": ["A"],
+    "explanation": "'मालविकाग्निमित्र' कालिदास द्वारा रचित नाटक है, जिसमें अग्निमित्र का उल्लेख मिलता है।"
+  },
+  {
+    "id": 66,
+    "question": "पतंजलि ने महाभाष्य किस काल में लिखा? / In which period did Patanjali write the Mahabhashya?",
+    "options": {
+      "A": "मौर्य काल (Maurya period)",
+      "B": "शुंग काल (Shunga period)",
+      "C": "सातवाहन काल (Satavahana period)",
+      "D": "गुप्त काल (Gupta period)"
+    },
+    "answer": ["B"],
+    "explanation": "पतंजलि का 'महाभाष्य' शुंग काल में लिखा गया, जो संस्कृत व्याकरण पर एक महत्वपूर्ण ग्रंथ है।"
+  },
+  {
+    "id": 67,
+    "question": "शुंग काल में बौद्ध स्तूपों का विस्तार कहाँ प्रमुख रूप से हुआ? / Where was the expansion of Buddhist stupas most notable during the Shunga period?",
+    "options": {
+      "A": "सांची (Sanchi)",
+      "B": "भरहुत (Bharhut)",
+      "C": "अमरावती (Amaravati)",
+      "D": "नालंदा (Nalanda)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "शुंग काल में सांची और भरहुत के बौद्ध स्तूपों का विस्तार और अलंकरण हुआ।"
+  },
+  {
+    "id": 68,
+    "question": "शुंग काल में धार्मिक नीतियों को लेकर विवाद क्यों हुआ? / Why were Shunga religious policies controversial?",
+    "options": {
+      "A": "बौद्धों के प्रति विरोध / Opposition to Buddhists",
+      "B": "हिन्दू धर्म का संरक्षण / Patronage of Hinduism",
+      "C": "बौद्ध विहारों पर हमले / Attacks on Buddhist monasteries",
+      "D": "जैन धर्म का समर्थन / Support to Jainism"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "पुष्यमित्र शुंग पर बौद्धों के प्रति कठोरता और हिन्दू धर्म के पक्षपात का आरोप था।"
+  },
+  {
+    "id": 69,
+    "question": "भरहुत स्तूप की रेलिंग और तोरण किस काल में बनीं? / The railing and toranas of Bharhut stupa were constructed in which period?",
+    "options": {
+      "A": "मौर्य काल (Maurya period)",
+      "B": "शुंग काल (Shunga period)",
+      "C": "सातवाहन काल (Satavahana period)",
+      "D": "कुषाण काल (Kushan period)"
+    },
+    "answer": ["B"],
+    "explanation": "भरहुत स्तूप की अलंकृत रेलिंग और तोरण शुंग काल में बनाए गए।"
+  },
+  {
+    "id": 70,
+    "question": "शुंग वंश का अंतिम शासक कौन था? / Who was the last ruler of the Shunga dynasty?",
+    "options": {
+      "A": "देवभूति (Devabhuti)",
+      "B": "वसुमित्र (Vasumitra)",
+      "C": "अग्निमित्र (Agnimitra)",
+      "D": "भद्रक (Bhadraka)"
+    },
+    "answer": ["A"],
+    "explanation": "शुंग वंश का अंतिम शासक देवभूति था, जिसे उसके मंत्री वसुदेव कण्व ने मारकर कण्व वंश की स्थापना की।"
+  },
+  {
+    "id": 71,
+    "question": "कौन सा स्रोत पुष्यमित्र शुंग की बौद्ध विरोधी गतिविधियों का उल्लेख करता है? / Which source mentions Pushyamitra Shunga's anti-Buddhist activities?",
+    "options": {
+      "A": "अशोकावदान (Ashokavadana)",
+      "B": "मालविकाग्निमित्र (Malavikagnimitra)",
+      "C": "महाभाष्य (Mahabhashya)",
+      "D": "दिव्यावदान (Divyavadana)"
+    },
+    "answer": ["A", "D"],
+    "explanation": "अशोकावदान और दिव्यावदान में पुष्यमित्र शुंग की बौद्ध विरोधी कार्रवाइयों का उल्लेख मिलता है।"
+  },
+  {
+    "id": 72,
+    "question": "शुंग काल में कला का प्रमुख विषय क्या था? / What was the main theme of art during the Shunga period?",
+    "options": {
+      "A": "धार्मिक कथाएं / Religious stories",
+      "B": "दरबारी जीवन / Court life",
+      "C": "प्रकृति दृश्य / Nature scenes",
+      "D": "युद्ध दृश्य / War scenes"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "शुंग कला में धार्मिक कथाएं, दरबारी जीवन और प्रकृति दृश्य प्रमुख रूप से दर्शाए गए।"
+  },
+  {
+    "id": 73,
+    "question": "शुंग शासन के समय सिक्कों पर कौन सी विशेषता दिखाई देती है? / What feature is seen on coins during Shunga rule?",
+    "options": {
+      "A": "पंच-चिह्नित सिक्के / Punch-marked coins",
+      "B": "चित्रांकित धातु सिक्के / Cast coins with images",
+      "C": "यवन शैली के सिक्के / Indo-Greek style coins",
+      "D": "सोने के सिक्के / Gold coins"
+    },
+    "answer": ["A", "B"],
+    "explanation": "शुंग काल में पंच-चिह्नित सिक्कों के साथ-साथ चित्रांकित धातु सिक्के भी प्रचलित थे।"
+  },
+  {
+    "id": 74,
+    "question": "शुंग काल में नाट्य और संगीत किस दरबार में फले-फूले? / Where did drama and music flourish during the Shunga period?",
+    "options": {
+      "A": "विदिशा दरबार / Vidisha court",
+      "B": "पाटलिपुत्र दरबार / Pataliputra court",
+      "C": "उज्जयिनी दरबार / Ujjain court",
+      "D": "कण्व दरबार / Kanva court"
+    },
+    "answer": ["A", "B"],
+    "explanation": "विदिशा और पाटलिपुत्र के दरबारों में नाट्य और संगीत कला का विकास हुआ।"
+  },
+  {
+    "id": 75,
+    "question": "कौन सा ग्रंथ पुष्यमित्र शुंग के यज्ञों का उल्लेख करता है? / Which text mentions the yajnas of Pushyamitra Shunga?",
+    "options": {
+      "A": "महाभाष्य (Mahabhashya)",
+      "B": "अशोकावदान (Ashokavadana)",
+      "C": "मालविकाग्निमित्र (Malavikagnimitra)",
+      "D": "दिव्यावदान (Divyavadana)"
+    },
+    "answer": ["A"],
+    "explanation": "पतंजलि के 'महाभाष्य' में पुष्यमित्र शुंग के यज्ञों का उल्लेख है।"
+  },
+  {
+    "id": 76,
+    "question": "शुंग काल में साहित्य का संरक्षण किन भाषाओं में हुआ? / In which languages was literature patronized during the Shunga period?",
+    "options": {
+      "A": "संस्कृत (Sanskrit)",
+      "B": "पाली (Pali)",
+      "C": "प्राकृत (Prakrit)",
+      "D": "तिब्बती (Tibetan)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "शुंग काल में संस्कृत, पाली और प्राकृत में साहित्य का संरक्षण किया गया।"
+  },
+  {
+    "id": 77,
+    "question": "शुंग सेना ने किन दो दिशाओं में विस्तार किया? / In which two directions did the Shunga army expand?",
+    "options": {
+      "A": "उत्तर-पश्चिम (North-West)",
+      "B": "दक्षिण (South)",
+      "C": "पूर्व (East)",
+      "D": "उत्तर-पूर्व (North-East)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "शुंग सेना ने उत्तर-पश्चिम में यवनों के विरुद्ध और दक्षिण में सातवाहनों के विरुद्ध अभियान किए।"
+  },
+  {
+    "id": 78,
+    "question": "कौन सा विद्रोह शुंग शासन के दौरान हुआ? / Which revolt occurred during the Shunga rule?",
+    "options": {
+      "A": "विदर्भ विद्रोह (Vidarbha revolt)",
+      "B": "कलिंग विद्रोह (Kalinga revolt)",
+      "C": "यवन आक्रमण (Indo-Greek invasion)",
+      "D": "सौराष्ट्र विद्रोह (Saurashtra revolt)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "शुंग शासन के दौरान विदर्भ विद्रोह और यवन आक्रमण हुए।"
+  },
+  {
+    "id": 79,
+    "question": "शुंग काल में किन धार्मिक परंपराओं का मिश्रण दिखाई देता है? / Which religious traditions show a mixture in the Shunga period?",
+    "options": {
+      "A": "वैदिक और बौद्ध / Vedic and Buddhist",
+      "B": "हिन्दू और जैन / Hindu and Jain",
+      "C": "बौद्ध और जैन / Buddhist and Jain",
+      "D": "वैदिक और यवन / Vedic and Indo-Greek"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "शुंग काल में वैदिक, बौद्ध और जैन परंपराओं का मिश्रण देखने को मिलता है।"
+  },
+  {
+    "id": 80,
+    "question": "शुंग वंश के पतन का मुख्य कारण क्या था? / What was the main cause of the fall of the Shunga dynasty?",
+    "options": {
+      "A": "मंत्री का विद्रोह / Minister's revolt",
+      "B": "कमजोर उत्तराधिकारी / Weak successors",
+      "C": "विदेशी आक्रमण / Foreign invasions",
+      "D": "आर्थिक संकट / Economic crisis"
+    },
+    "answer": ["A", "B"],
+    "explanation": "शुंग वंश के पतन में मंत्री वसु के विद्रोह और कमजोर उत्तराधिकारियों की बड़ी भूमिका थी।"
   }
 ]
+
+
