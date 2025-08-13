@@ -958,7 +958,853 @@
     },
     "answer": ["A", "B"],
     "explanation": "शुंग वंश के पतन में मंत्री वसु के विद्रोह और कमजोर उत्तराधिकारियों की बड़ी भूमिका थी।"
+  },
+  {
+    "id": 81,
+    "question": "कन्व वंश की स्थापना किसके द्वारा की गई थी? / Who founded the Kanva Dynasty?",
+    "options": {
+      "A": "वासुदेव",
+      "B": "सुसर्मन",
+      "C": "देवभूति",
+      "D": "अग्निमित्र"
+    },
+    "answer": ["A"],
+    "explanation": "कन्व वंश की स्थापना शुंग वंश के अंतिम शासक देवभूति के मंत्री वासुदेव ने की थी।"
+  },
+  {
+    "id": 82,
+    "question": "कन्व वंश की राजधानी कहाँ थी? / What was the capital of the Kanva Dynasty?",
+    "options": {
+      "A": "विदिशा",
+      "B": "पाटलिपुत्र",
+      "C": "उज्जैन",
+      "D": "काशी"
+    },
+    "answer": ["B"],
+    "explanation": "कन्व वंश की राजधानी पाटलिपुत्र थी, जो मौर्य और शुंग वंश की भी राजधानी रही।"
+  },
+  {
+    "id": 83,
+    "question": "कन्व वंश के पतन का प्रमुख कारण क्या था? / What was the main reason for the fall of the Kanva Dynasty?",
+    "options": {
+      "A": "आंतरिक षड्यंत्र",
+      "B": "सातवाहन आक्रमण",
+      "C": "हूण आक्रमण",
+      "D": "शक्तिशाली उत्तराधिकारी का अभाव"
+    },
+    "answer": ["B", "D"],
+    "explanation": "कन्व वंश का पतन सातवाहन आक्रमण और शक्तिशाली उत्तराधिकारियों की कमी के कारण हुआ।"
+  },
+  {
+    "id": 84,
+    "question": "कन्व वंश की अवधि कितनी रही? / What was the duration of the Kanva Dynasty?",
+    "options": {
+      "A": "लगभग 100 वर्ष",
+      "B": "लगभग 45 वर्ष",
+      "C": "लगभग 25 वर्ष",
+      "D": "लगभग 200 वर्ष"
+    },
+    "answer": ["B"],
+    "explanation": "कन्व वंश लगभग 73 ई.पू. से 28 ई.पू. तक, लगभग 45 वर्षों तक चला।"
+  },
+  {
+    "id": 85,
+    "question": "कन्व वंश के शासकों ने किस सांस्कृतिक क्षेत्र में विशेष योगदान दिया? / In which cultural field did the Kanva rulers contribute significantly?",
+    "options": {
+      "A": "साहित्य",
+      "B": "मूर्ति कला",
+      "C": "नाट्यकला",
+      "D": "संगीत"
+    },
+    "answer": ["A", "B"],
+    "explanation": "कन्व शासकों ने साहित्य और मूर्तिकला में संरक्षण दिया, हालांकि उनका राजनीतिक प्रभाव सीमित था।"
+  },
+  {
+    "id": 86,
+    "question": "कन्व वंश के काल में प्रमुख साहित्यिक भाषा कौन सी थी? / What was the main literary language during the Kanva period?",
+    "options": {
+      "A": "संस्कृत",
+      "B": "पाली",
+      "C": "प्राकृत",
+      "D": "तमिल"
+    },
+    "answer": ["A", "C"],
+    "explanation": "कन्व काल में संस्कृत दरबारी साहित्य की भाषा थी जबकि प्राकृत का प्रयोग जनसाहित्य में हुआ।"
+  },
+  {
+    "id": 87,
+    "question": "कन्व वंश के अंत के बाद किस वंश ने उत्तर भारत पर अधिकार किया? / Which dynasty succeeded the Kanva Dynasty in North India?",
+    "options": {
+      "A": "सातवाहन",
+      "B": "गुप्त",
+      "C": "नंद",
+      "D": "इक्ष्वाकु"
+    },
+    "answer": ["A"],
+    "explanation": "कन्व वंश के पतन के बाद सातवाहन वंश ने उत्तर भारत के कुछ हिस्सों पर नियंत्रण कर लिया।"
+  },
+  {
+    "id": 88,
+    "question": "कन्व वंश की स्थापना से संबंधित कौन सा कथन सही है? / Which statement is correct about the establishment of the Kanva Dynasty?",
+    "options": {
+      "A": "यह शुंग वंश का हिस्सा था",
+      "B": "यह शुंग वंश के मंत्री द्वारा स्थापित हुआ",
+      "C": "यह हूण आक्रमण के बाद स्थापित हुआ",
+      "D": "यह सातवाहन साम्राज्य से अलग हुआ"
+    },
+    "answer": ["B"],
+    "explanation": "कन्व वंश की स्थापना वासुदेव ने की थी जो शुंग वंश के अंतिम शासक देवभूति के मंत्री थे।"
+  },
+  {
+    "id": 89,
+    "question": "कन्व कालीन कला में कौन सी विशेषता देखी गई? / Which feature is seen in Kanva period art?",
+    "options": {
+      "A": "स्तूपों का विस्तार",
+      "B": "स्थानीय शैली का प्रभाव",
+      "C": "रोमन कला का प्रभाव",
+      "D": "गुप्त शैली की शुरुआत"
+    },
+    "answer": ["A", "B"],
+    "explanation": "कन्व काल में स्तूपों के विस्तार और स्थानीय कला शैलियों का प्रभाव देखा गया।"
+  },
+  {
+    "id": 90,
+    "question": "कन्व वंश के शासकों ने मुख्य रूप से किस धर्म का समर्थन किया? / Which religion did the Kanva rulers mainly support?",
+    "options": {
+      "A": "बौद्ध धर्म",
+      "B": "हिंदू धर्म",
+      "C": "जैन धर्म",
+      "D": "अजिविक"
+    },
+    "answer": ["B"],
+    "explanation": "कन्व वंश के शासक मुख्य रूप से हिंदू धर्म के संरक्षक थे, यद्यपि अन्य धर्मों के प्रति सहिष्णुता रही।"
+  },
+  {
+    "id": 91,
+    "question": "सातवाहन साम्राज्य का उद्गम किस क्षेत्र में माना जाता है? / The origin of the Satavahana Empire is considered in which region?",
+    "options": {
+      "A": "गंगा घाटी (Ganga Valley)",
+      "B": "दक्षिण भारत (Deccan Region)",
+      "C": "गुजरात का तटीय क्षेत्र (Coastal Gujarat)",
+      "D": "कश्मीर घाटी (Kashmir Valley)"
+    },
+    "answer": ["B"],
+    "explanation": "सातवाहन साम्राज्य का उद्गम दक्कन क्षेत्र में हुआ था, जो उनकी प्रारंभिक राजनीतिक और सांस्कृतिक गतिविधियों का केंद्र था।"
+  },
+  {
+    "id": 92,
+    "question": "सातवाहन काल में 'प्रमुख व्यापारिक मार्ग' किनको जोड़ता था? / Which major trade route was linked during the Satavahana period?",
+    "options": {
+      "A": "पाटलिपुत्र से ताम्रलिप्त (Pataliputra to Tamralipti)",
+      "B": "उत्तर भारत से दक्कन (North India to Deccan)",
+      "C": "उज्जैन से समुद्री तट (Ujjain to Coastal Ports)",
+      "D": "कावेरी घाटी से सिंधु घाटी (Kaveri Valley to Indus Valley)"
+    },
+    "answer": ["B", "C"],
+    "explanation": "सातवाहनों ने उत्तर भारत और दक्कन के बीच भूमि मार्ग और उज्जैन से समुद्री बंदरगाहों तक व्यापारिक मार्गों को नियंत्रित किया।"
+  },
+  {
+    "id": 93,
+    "question": "सातवाहन सिक्कों की विशेषता क्या थी? / What was the characteristic feature of Satavahana coins?",
+    "options": {
+      "A": "ग्रीक शिलालेख (Greek inscriptions)",
+      "B": "सीसा और तांबे के सिक्के (Lead and copper coins)",
+      "C": "सोने की अधिकता (High gold content)",
+      "D": "प्राचीनतम पंच-चिह्नित सिक्के (Earliest punch-marked coins)"
+    },
+    "answer": ["B"],
+    "explanation": "सातवाहनों के सिक्कों में सीसा और तांबे का प्रमुख उपयोग हुआ, जो क्षेत्रीय अर्थव्यवस्था की पहचान थी।"
+  },
+  {
+    "id": 94,
+    "question": "अमरावती स्तूप का निर्माण और विकास किसके संरक्षण में हुआ? / The construction and development of the Amaravati Stupa took place under whose patronage?",
+    "options": {
+      "A": "सातवाहन शासक (Satavahana rulers)",
+      "B": "शुंग शासक (Shunga rulers)",
+      "C": "कण्व शासक (Kanva rulers)",
+      "D": "पल्लव शासक (Pallava rulers)"
+    },
+    "answer": ["A"],
+    "explanation": "अमरावती स्तूप का विकास सातवाहन शासकों के संरक्षण में हुआ, जो बौद्ध धर्म के बड़े समर्थक थे।"
+  },
+  {
+    "id": 95,
+    "question": "सातवाहन शासन में भूमि अनुदानों का उल्लेख किन अभिलेखों में मिलता है? / In which inscriptions are land grants of Satavahana rule mentioned?",
+    "options": {
+      "A": "ब्राह्मी अभिलेख (Brahmi inscriptions)",
+      "B": "खरोष्ठी अभिलेख (Kharosthi inscriptions)",
+      "C": "संस्कृत शिलालेख (Sanskrit inscriptions)",
+      "D": "अरबी शिलालेख (Arabic inscriptions)"
+    },
+    "answer": ["A"],
+    "explanation": "सातवाहन शासन के भूमि अनुदान ब्राह्मी लिपि के अभिलेखों में दर्ज हैं, जिनमें धार्मिक और सांस्कृतिक उद्देश्यों का उल्लेख है।"
+  },
+  {
+    "id": 96,
+    "question": "कार्ले गुफाएं मुख्य रूप से किस धर्म से जुड़ी हुई हैं? / The Karle Caves are primarily associated with which religion?",
+    "options": {
+      "A": "बौद्ध धर्म (Buddhism)",
+      "B": "जैन धर्म (Jainism)",
+      "C": "हिंदू धर्म (Hinduism)",
+      "D": "पारसी धर्म (Zoroastrianism)"
+    },
+    "answer": ["A"],
+    "explanation": "कार्ले गुफाएं सातवाहन काल के बौद्ध स्थापत्य कला का उत्कृष्ट उदाहरण हैं।"
+  },
+  {
+    "id": 97,
+    "question": "सातवाहन काल में व्यापारिक केंद्र के रूप में कौन सा नगर प्रसिद्ध था? / Which city was famous as a trade center during the Satavahana period?",
+    "options": {
+      "A": "प्रतिष्ठान (Pratishthana)",
+      "B": "उज्जैन (Ujjain)",
+      "C": "मथुरा (Mathura)",
+      "D": "पाटलिपुत्र (Pataliputra)"
+    },
+    "answer": ["A"],
+    "explanation": "प्रतिष्ठान सातवाहन साम्राज्य का प्रमुख राजनीतिक और व्यापारिक केंद्र था।"
+  },
+  {
+    "id": 98,
+    "question": "सातवाहनों द्वारा किन क्षेत्रों के साथ समुद्री व्यापार किया जाता था? / Satavahanas had maritime trade with which regions?",
+    "options": {
+      "A": "रोमन साम्राज्य (Roman Empire)",
+      "B": "दक्षिण पूर्व एशिया (Southeast Asia)",
+      "C": "अफ्रीका का पूर्वी तट (East African Coast)",
+      "D": "चीन (China)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "सातवाहन साम्राज्य ने रोमन साम्राज्य और दक्षिण पूर्व एशिया के साथ सक्रिय समुद्री व्यापार किया।"
+  },
+  {
+    "id": 99,
+    "question": "सातवाहन शासन की राजनीतिक विशेषता क्या थी? / What was the political feature of Satavahana rule?",
+    "options": {
+      "A": "केन्द्रीयकृत प्रशासन (Centralized administration)",
+      "B": "अर्ध-स्वायत्त सामंत (Semi-autonomous feudatories)",
+      "C": "गणराज्य प्रणाली (Republican system)",
+      "D": "राजतंत्र का पूर्ण अभाव (Complete absence of monarchy)"
+    },
+    "answer": ["B"],
+    "explanation": "सातवाहन साम्राज्य में अर्ध-स्वायत्त सामंत व्यवस्था थी, जो प्रशासनिक विकेंद्रीकरण को दर्शाती है।"
+  },
+  {
+    "id": 100,
+    "question": "सातवाहन काल में 'गाचा' शब्द किसके लिए प्रयुक्त होता था? / In the Satavahana period, the term 'Gacha' was used for what?",
+    "options": {
+      "A": "भूमि कर (Land tax)",
+      "B": "व्यापारिक संघ (Merchant guild)",
+      "C": "धार्मिक मठ (Religious monastery)",
+      "D": "सैन्य दल (Military troop)"
+    },
+    "answer": ["B"],
+    "explanation": "सातवाहन काल में 'गाचा' शब्द का प्रयोग व्यापारिक संघों के लिए किया जाता था।"
+  },
+  {
+    "id": 101,
+    "question": "सातवाहन साम्राज्य का सबसे प्रारम्भिक प्रमाण किस शिलालेख से मिलता है? / The earliest epigraphic evidence of the Satavahana Empire is found from which inscription?",
+    "options": {
+      "A": "नानाघाट शिलालेख (Naneghat Inscription)",
+      "B": "कन्हेरी गुफा शिलालेख (Kanheri Cave Inscription)",
+      "C": "हथीगुंफा शिलालेख (Hathigumpha Inscription)",
+      "D": "अमरावती शिलालेख (Amaravati Inscription)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "नानाघाट शिलालेख सातवाहन काल की प्रारम्भिक वंशावली देता है, जबकि हथीगुंफा शिलालेख सातवाहन-कलिंग संघर्ष का प्रमाण देता है।"
+  },
+  {
+    "id": 102,
+    "question": "सातवाहन शासनकाल के दौरान किस बंदरगाह का उल्लेख रोमन व्यापार में सर्वाधिक मिलता है? / Which port during the Satavahana period is most frequently mentioned in Roman trade records?",
+    "options": {
+      "A": "भारुकच्छ (Bharukachchha)",
+      "B": "सोपारा (Sopara)",
+      "C": "कृष्णपट्टनम (Krishnapatnam)",
+      "D": "मसुलीपट्टनम (Masulipatnam)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "रोमन स्रोत जैसे 'Periplus of the Erythraean Sea' में भारुकच्छ और सोपारा दोनों का उल्लेख प्रमुख सातवाहन व्यापार केंद्र के रूप में हुआ है।"
+  },
+  {
+    "id": 103,
+    "question": "सातवाहन शासकों के सिक्कों की प्रमुख विशेषता क्या थी? / What was the chief characteristic of Satavahana coins?",
+    "options": {
+      "A": "सीसा और तांबे का उपयोग (Use of lead and copper)",
+      "B": "राजा का नाम प्राकृत में अंकित (Name of the king inscribed in Prakrit)",
+      "C": "द्विभाषी लेखन (Bilingual legends)",
+      "D": "सोने के सिक्कों की अधिकता (Prevalence of gold coins)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "सातवाहन सिक्के मुख्यतः सीसा और तांबे के थे, जिन पर प्राकृत भाषा में राजा का नाम अंकित होता था और कई बार द्विभाषी लेखन भी मिलता है।"
+  },
+  {
+    "id": 104,
+    "question": "नागानिक का नानाघाट शिलालेख किस प्रकार की जानकारी देता है? / The Naneghat inscription of Naganika provides information of which type?",
+    "options": {
+      "A": "राजकीय वंशावली (Royal genealogy)",
+      "B": "धार्मिक दान (Religious donations)",
+      "C": "यज्ञ और अश्वमेध अनुष्ठान (Yajnas and Ashvamedha rituals)",
+      "D": "भूमि अनुदान (Land grants)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "नागानिक के नानाघाट शिलालेख में सातवाहन वंशावली, धार्मिक दान और यज्ञ अनुष्ठानों का विस्तृत वर्णन है।"
+  },
+  {
+    "id": 105,
+    "question": "सातवाहन काल में किस गुफा का निर्माण मुख्यतः बौद्ध भिक्षुओं के लिए किया गया था? / Which cave complex during the Satavahana period was primarily built for Buddhist monks?",
+    "options": {
+      "A": "कार्ले गुफाएँ (Karla Caves)",
+      "B": "अजन्ता गुफाएँ (Ajanta Caves)",
+      "C": "एलीफेंटा गुफाएँ (Elephanta Caves)",
+      "D": "कन्हेरी गुफाएँ (Kanheri Caves)"
+    },
+    "answer": ["A", "D"],
+    "explanation": "कार्ले और कन्हेरी गुफाएँ सातवाहन काल के दौरान बौद्ध भिक्षुओं के लिए प्रमुख विहार और चैत्यगृह के रूप में विकसित हुईं।"
+  },
+  {
+    "id": 106,
+    "question": "सातवाहन साम्राज्य के चरमकाल में समुद्रपार व्यापार में कौन-सी वस्तुएँ मुख्य रूप से निर्यात होती थीं? / During the peak of the Satavahana Empire, which goods were primarily exported in overseas trade?",
+    "options": {
+      "A": "काली मिर्च और इलायची (Black pepper and cardamom)",
+      "B": "मोती और रत्न (Pearls and gems)",
+      "C": "कपास के वस्त्र (Cotton textiles)",
+      "D": "लोहा और इस्पात (Iron and steel)"
+    },
+    "answer": ["B", "C", "D"],
+    "explanation": "सातवाहन काल में मोती, रत्न, कपास के वस्त्र और लोहा-इस्पात का निर्यात भूमध्यसागरीय और दक्षिण-पूर्व एशियाई क्षेत्रों में होता था।"
+  },
+  {
+    "id": 107,
+    "question": "सातवाहन शासकों ने भूमि अनुदान प्रायः किसे दिया? / Satavahana rulers primarily gave land grants to whom?",
+    "options": {
+      "A": "ब्राह्मणों को (Brahmanas)",
+      "B": "बौद्ध संघों को (Buddhist Sanghas)",
+      "C": "किसानों को (Farmers)",
+      "D": "मंत्री वर्ग को (Ministerial class)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "सातवाहन काल में भूमि अनुदान प्रमुख रूप से ब्राह्मणों और बौद्ध संघों को दिया जाता था, जो सांस्कृतिक और धार्मिक संरक्षण का प्रतीक था।"
+  },
+  {
+    "id": 108,
+    "question": "सातवाहन शासन में अश्वमेध यज्ञ करने वाले शासक का नाम क्या था? / Which Satavahana ruler performed the Ashvamedha sacrifice?",
+    "options": {
+      "A": "गौतमिपुत्र शातकर्णी (Gautamiputra Satakarni)",
+      "B": "वासिष्ठीपुत्र पुलुमावि (Vashishthiputra Pulumavi)",
+      "C": "हाला (Hala)",
+      "D": "शिवाजी शातकर्णी (Shivaji Satakarni)"
+    },
+    "answer": ["A"],
+    "explanation": "गौतमिपुत्र शातकर्णी सातवाहन काल के सबसे शक्तिशाली शासकों में थे, जिन्होंने अश्वमेध यज्ञ सम्पन्न किया।"
+  },
+  {
+    "id": 109,
+    "question": "‘गाथासप्तशती’ का रचनाकार कौन था? / Who was the author of 'Gathasaptashati'?",
+    "options": {
+      "A": "हाला (Hala)",
+      "B": "गौतमिपुत्र शातकर्णी (Gautamiputra Satakarni)",
+      "C": "वासिष्ठीपुत्र पुलुमावि (Vashishthiputra Pulumavi)",
+      "D": "शिवाजी शातकर्णी (Shivaji Satakarni)"
+    },
+    "answer": ["A"],
+    "explanation": "हाला सातवाहन शासक थे, जिन्होंने प्राकृत में ‘गाथासप्तशती’ की रचना की।"
+  },
+  {
+    "id": 110,
+    "question": "सातवाहन साम्राज्य के पतन का प्रमुख कारण क्या था? / What was the primary reason for the decline of the Satavahana Empire?",
+    "options": {
+      "A": "पश्चिमी क्षत्रपों का आक्रमण (Invasion of Western Kshatrapas)",
+      "B": "अंतःकलह (Internal conflicts)",
+      "C": "व्यापार में गिरावट (Decline in trade)",
+      "D": "कृषि उत्पादन में कमी (Decrease in agricultural output)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "सातवाहन साम्राज्य का पतन पश्चिमी क्षत्रपों के आक्रमण, अंतःकलह और समुद्री व्यापार में गिरावट के कारण हुआ।"
+  },
+  {
+    "id": 111,
+    "question": "सातवाहन काल में 'गाहा सत्तसई' (Gaha Sattasai) किस भाषा में रचित हुई? / In which language was 'Gaha Sattasai' composed during the Satavahana period?",
+    "options": {
+      "A": "संस्कृत (Sanskrit)",
+      "B": "प्राकृत (Prakrit)",
+      "C": "पाली (Pali)",
+      "D": "तमिल (Tamil)"
+    },
+    "answer": ["B"],
+    "explanation": "'गाहा सत्तसई' सातवाहन राजा हाल द्वारा प्राकृत भाषा में रचित एक महत्वपूर्ण काव्य संग्रह है।"
+  },
+  {
+    "id": 112,
+    "question": "सातवाहन शासन में 'महामात्र' और 'अमात्य' पद मुख्यतः किस कार्य से जुड़े थे? / The positions of 'Mahamatra' and 'Amatya' in Satavahana administration were mainly associated with which function?",
+    "options": {
+      "A": "न्याय प्रशासन (Judicial Administration)",
+      "B": "भूमि राजस्व (Land Revenue)",
+      "C": "सैन्य संचालन (Military Command)",
+      "D": "धार्मिक अनुष्ठान (Religious Rituals)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "महामात्र और अमात्य प्रशासनिक व न्यायिक कार्यों से जुड़े थे और भूमि राजस्व संग्रह में भी भूमिका निभाते थे।"
+  },
+  {
+    "id": 113,
+    "question": "सातवाहन काल में 'गहपति' शब्द का प्रयोग किसके लिए किया जाता था? / In the Satavahana period, the term 'Gahapati' was used for whom?",
+    "options": {
+      "A": "शाही मंत्री (Royal Minister)",
+      "B": "गांव का मुखिया (Village Headman)",
+      "C": "समृद्ध कृषक (Prosperous Landowner)",
+      "D": "मंदिर पुजारी (Temple Priest)"
+    },
+    "answer": ["C"],
+    "explanation": "'गहपति' शब्द सातवाहन काल में समृद्ध कृषक या भू-स्वामी के लिए प्रयुक्त होता था।"
+  },
+  {
+    "id": 114,
+    "question": "सातवाहन सिक्कों में कौन-सी विशेषता मिलती है? / Which feature is found in Satavahana coins?",
+    "options": {
+      "A": "द्विभाषी अभिलेख (Bilingual Legends)",
+      "B": "केवल तांबे के सिक्के (Only Copper Coins)",
+      "C": "सीसा और कांस्य सिक्कों का उपयोग (Use of Lead and Bronze Coins)",
+      "D": "केवल स्वर्ण सिक्के (Only Gold Coins)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "सातवाहन सिक्कों में द्विभाषी अभिलेख पाए जाते हैं और उन्होंने सीसा, कांस्य और तांबे के सिक्कों का व्यापक उपयोग किया।"
+  },
+  {
+    "id": 115,
+    "question": "अमरावती स्तूप के विकास का श्रेय मुख्यतः किसको जाता है? / The development of the Amaravati Stupa is mainly credited to whom?",
+    "options": {
+      "A": "प्रारंभिक मौर्य (Early Mauryas)",
+      "B": "सातवाहन शासक (Satavahana Rulers)",
+      "C": "इक्ष्वाकु वंश (Ikshvaku Dynasty)",
+      "D": "चोल वंश (Chola Dynasty)"
+    },
+    "answer": ["B", "C"],
+    "explanation": "अमरावती स्तूप का निर्माण सातवाहन काल में प्रारंभ हुआ और बाद में इक्ष्वाकु शासकों द्वारा इसका विस्तार किया गया।"
+  },
+  {
+    "id": 116,
+    "question": "सातवाहन राजाओं ने अपनी उपाधि 'दक्षिणापथपति' का प्रयोग क्यों किया? / Why did the Satavahana rulers use the title 'Dakshinapathapati'?",
+    "options": {
+      "A": "उत्तर भारत पर नियंत्रण दर्शाने के लिए (To show control over North India)",
+      "B": "दक्षिणी पथ के शासक के रूप में अपनी स्थिति दर्शाने के लिए (To denote their rule over Dakshinapatha)",
+      "C": "सैन्य विजय के प्रतीक के रूप में (As a symbol of military conquest)",
+      "D": "धार्मिक श्रेष्ठता के संकेत के रूप में (As a sign of religious supremacy)"
+    },
+    "answer": ["B", "C"],
+    "explanation": "'दक्षिणापथपति' उपाधि सातवाहन राजाओं ने दक्षिणी भारत पर अपने अधिकार और विजय को दर्शाने के लिए प्रयोग की।"
+  },
+  {
+    "id": 117,
+    "question": "सातवाहन काल के दौरान सबसे प्रमुख बंदरगाह कौन सा था? / Which was the most prominent port during the Satavahana period?",
+    "options": {
+      "A": "भृगुकच्छ (Bharukachchha)",
+      "B": "सोपारा (Sopara)",
+      "C": "काळिय (Kalyan)",
+      "D": "मुसलिपट्टनम (Masulipatnam)"
+    },
+    "answer": ["B", "C"],
+    "explanation": "सोपारा और कळ्याण सातवाहन काल के प्रमुख पश्चिमी तट के बंदरगाह थे, जो रोमन व्यापार में सक्रिय थे।"
+  },
+  {
+    "id": 118,
+    "question": "सातवाहन अभिलेखों में 'गाव-भोग' शब्द का अर्थ क्या है? / What does the term 'Gav-bhoga' mean in Satavahana inscriptions?",
+    "options": {
+      "A": "गांव का कृषि उत्पादन (Village Agricultural Produce)",
+      "B": "गांव का सामूहिक कर (Village Collective Tax)",
+      "C": "गांव का प्रशासनिक क्षेत्र (Village Administrative Unit)",
+      "D": "गांव के लोग (People of the Village)"
+    },
+    "answer": ["C"],
+    "explanation": "'गाव-भोग' सातवाहन अभिलेखों में प्रशासनिक इकाई के रूप में प्रयुक्त होता था।"
+  },
+  {
+    "id": 119,
+    "question": "सातवाहन काल में भूमि अनुदान (Land Grants) का प्रमुख उद्देश्य क्या था? / What was the main purpose of land grants in the Satavahana period?",
+    "options": {
+      "A": "सैन्य अधिकारियों को पुरस्कृत करना (Rewarding Military Officers)",
+      "B": "ब्राह्मणों और बौद्ध विहारों का पोषण (Supporting Brahmins and Buddhist Viharas)",
+      "C": "कृषि विस्तार (Agricultural Expansion)",
+      "D": "नगर निर्माण (Urban Development)"
+    },
+    "answer": ["B", "C"],
+    "explanation": "सातवाहन भूमि अनुदान का उद्देश्य धार्मिक संस्थानों को पोषित करना और कृषि क्षेत्र का विस्तार करना था।"
+  },
+  {
+    "id": 120,
+    "question": "सातवाहन कालीन कर प्रणाली में 'पिंडकर' किस पर लगाया जाता था? / On what was 'Pindkara' levied in the Satavahana tax system?",
+    "options": {
+      "A": "भूमि उपज (Agricultural Produce)",
+      "B": "व्यापारिक लेनदेन (Trade Transactions)",
+      "C": "पशुधन (Livestock)",
+      "D": "वन उत्पाद (Forest Produce)"
+    },
+    "answer": ["A"],
+    "explanation": "'पिंडकर' सातवाहन काल में भूमि उपज पर लगाया जाने वाला एक प्रमुख कर था।"
+  },
+  {
+    "id": 121,
+    "question": "सातवाहन काल में 'गुणधर' शब्द का प्रयोग किसके लिए होता था? / In the Satavahana period, the term 'Gunadhara' was used for whom?",
+    "options": {
+      "A": "सैन्य अधिकारी (Military officer)",
+      "B": "भूमि कर संग्रहकर्ता (Land revenue collector)",
+      "C": "बौद्ध भिक्षु (Buddhist monk)",
+      "D": "राजकीय वास्तुकार (Royal architect)"
+    },
+    "answer": ["B", "D"],
+    "explanation": "गुणधर शब्द सातवाहन काल में भूमि कर संग्रहकर्ता और कुछ राजकीय निर्माण कार्यों के प्रभारी अधिकारियों के लिए प्रयुक्त होता था।"
+  },
+  {
+    "id": 122,
+    "question": "सातवाहन शासकों की आधिकारिक भाषा कौन सी थी? / What was the official language of Satavahana rulers?",
+    "options": {
+      "A": "संस्कृत (Sanskrit)",
+      "B": "प्राकृत (Prakrit)",
+      "C": "पाली (Pali)",
+      "D": "तेलुगु (Telugu)"
+    },
+    "answer": ["B"],
+    "explanation": "सातवाहन शासकों की शिलालेख और सिक्कों की भाषा मुख्यतः प्राकृत थी, जो ब्राह्मी लिपि में अंकित होती थी।"
+  },
+  {
+    "id": 123,
+    "question": "अमरावती स्तूप का विस्तार सातवाहन काल में किनके संरक्षण में हुआ? / The expansion of Amaravati Stupa during the Satavahana period happened under the patronage of whom?",
+    "options": {
+      "A": "गौतमिपुत्र सातकर्णि",
+      "B": "शिव श्री",
+      "C": "वाशिष्ठीपुत्र पुलुमावी",
+      "D": "हाला"
+    },
+    "answer": ["A", "C"],
+    "explanation": "अमरावती स्तूप का प्रमुख विस्तार गौतमिपुत्र सातकर्णि और उनके पुत्र वाशिष्ठीपुत्र पुलुमावी के काल में हुआ।"
+  },
+  {
+    "id": 124,
+    "question": "सातवाहन काल में 'नील' (Indigo) व्यापार किन क्षेत्रों के साथ प्रमुख रूप से होता था? / During the Satavahana period, indigo trade was mainly conducted with which regions?",
+    "options": {
+      "A": "रोमन साम्राज्य (Roman Empire)",
+      "B": "मिस्र (Egypt)",
+      "C": "चीन (China)",
+      "D": "श्रीलंका (Sri Lanka)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "नील सातवाहन काल का प्रमुख निर्यात था, जिसे रोमन साम्राज्य और मिस्र में उच्च मूल्य पर बेचा जाता था।"
+  },
+  {
+    "id": 125,
+    "question": "सातवाहन सिक्कों पर 'उज्जयिनी चिह्न' किसका प्रतीक था? / What did the 'Ujjayini symbol' on Satavahana coins represent?",
+    "options": {
+      "A": "चारों दिशाओं का संगम (Confluence of four directions)",
+      "B": "धर्मचक्र (Dharmachakra)",
+      "C": "साम्राज्य विस्तार (Imperial expansion)",
+      "D": "बौद्ध संघ का केंद्र (Centre of Buddhist Sangha)"
+    },
+    "answer": ["A"],
+    "explanation": "उज्जयिनी चिह्न चार अर्धवृत्ताकार चिह्नों का संगम था, जो चार दिशाओं के मिलन और व्यापार मार्गों के केंद्र को दर्शाता था।"
+  },
+  {
+    "id": 126,
+    "question": "सातवाहन काल में 'कर्ला गुफाएं' किस वास्तुकला शैली से संबंधित हैं? / The Karle Caves of the Satavahana period belong to which architectural style?",
+    "options": {
+      "A": "नागर शैली (Nagara style)",
+      "B": "द्रविड़ शैली (Dravida style)",
+      "C": "चैत्य-गृह (Chaitya-griha)",
+      "D": "विहार (Vihara)"
+    },
+    "answer": ["C", "D"],
+    "explanation": "कर्ला गुफाएं चैत्य-गृह और विहार दोनों का उत्कृष्ट उदाहरण हैं, जिनमें शिल्पकला और धार्मिक उपयोग का संगम मिलता है।"
+  },
+  {
+    "id": 127,
+    "question": "सातवाहन काल के भूमि अनुदानों में किनका विशेष उल्लेख मिलता है? / Satavahana land grants especially mention which recipients?",
+    "options": {
+      "A": "ब्राह्मण",
+      "B": "बौद्ध संघ",
+      "C": "जैन मुनि",
+      "D": "किसान समुदाय"
+    },
+    "answer": ["A", "B"],
+    "explanation": "सातवाहन भूमि अनुदान मुख्यतः ब्राह्मणों और बौद्ध संघ को दिए जाते थे, जिससे धार्मिक एवं सांस्कृतिक गतिविधियों को बढ़ावा मिला।"
+  },
+  {
+    "id": 128,
+    "question": "सातवाहन शासकों के सैन्य अभियान का प्रमुख उद्देश्य क्या था? / What was the main objective of Satavahana military campaigns?",
+    "options": {
+      "A": "उत्तरी भारत पर नियंत्रण",
+      "B": "व्यापार मार्गों पर अधिकार",
+      "C": "धार्मिक विस्तार",
+      "D": "दक्षिण भारत का एकीकरण"
+    },
+    "answer": ["B", "D"],
+    "explanation": "सातवाहन सैन्य अभियानों का मुख्य लक्ष्य दक्षिण भारत का एकीकरण और महत्वपूर्ण समुद्री व स्थल व्यापार मार्गों पर नियंत्रण था।"
+  },
+  {
+    "id": 129,
+    "question": "प्राचीन स्रोतों में सातवाहन को किस नाम से संबोधित किया गया है? / By what name were the Satavahanas referred to in ancient sources?",
+    "options": {
+      "A": "अंध्र",
+      "B": "श्रातिक",
+      "C": "सालिवाहन",
+      "D": "मौर्यक"
+    },
+    "answer": ["A", "C"],
+    "explanation": "सातवाहन को प्राचीन साहित्य और शिलालेखों में अंध्र और सालिवाहन नाम से भी संबोधित किया गया है।"
+  },
+  {
+    "id": 130,
+    "question": "सातवाहन काल में समुद्री व्यापार के लिए प्रमुख बंदरगाह कौन से थे? / Which were the major ports for maritime trade during the Satavahana period?",
+    "options": {
+      "A": "भरोच",
+      "B": "सोपारा",
+      "C": "कुडालोर",
+      "D": "मछलीपट्टनम"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "भरोच, सोपारा और मछलीपट्टनम सातवाहन काल के प्रमुख समुद्री व्यापार केंद्र थे, जो रोम, अरब और दक्षिण एशिया से जुड़े थे।"
+  },
+  {
+    "id": 131,
+    "question": "Satavahana rulers के संदर्भ में 'Gautamiputra' शब्द किस विशेष ऐतिहासिक तथ्य से जुड़ा है? / In the context of Satavahana rulers, the term 'Gautamiputra' is linked to which specific historical fact?",
+    "options": {
+      "A": "Matrilineal naming tradition",
+      "B": "Buddhist monastic title",
+      "C": "Guild leader designation",
+      "D": "Foreign ambassador’s honorific"
+    },
+    "answer": ["A"],
+    "explanation": "Satavahana rulers जैसे Gautamiputra Satakarni में 'Gautamiputra' उनकी माता 'Gautami Balashri' के नाम से matrilineal नामकरण का उदाहरण है, जो Deccan dynasties में विशेष रहा।"
+  },
+  {
+    "id": 132,
+    "question": "Satavahana inscriptions में 'Agaṇikula' का उल्लेख किसके लिए किया गया है? / In Satavahana inscriptions, 'Agaṇikula' refers to which of the following?",
+    "options": {
+      "A": "Foreign tribes",
+      "B": "Fire-worshipping clans",
+      "C": "Guild associations",
+      "D": "Brahmana communities"
+    },
+    "answer": ["B"],
+    "explanation": "'Agaṇikula' उन जातियों या कुलों के लिए प्रयुक्त शब्द था जो अग्नि-पूजा परंपरा का पालन करते थे, और यह सांस्कृतिक-धार्मिक विविधता को दर्शाता है।"
+  },
+  {
+    "id": 133,
+    "question": "Satavahana trade routes के प्रमुख केंद्र कौन-कौन से थे? / Which were the major centres along Satavahana trade routes?",
+    "options": {
+      "A": "Paithan",
+      "B": "Amaravati",
+      "C": "Bharuch",
+      "D": "Karur"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Paithan (Pratishthana) राजधानी और व्यापार केंद्र था, Amaravati धार्मिक और सांस्कृतिक केंद्र, Bharuch समुद्री व्यापार का प्रमुख बंदरगाह।"
+  },
+  {
+    "id": 134,
+    "question": "Karle caves inscriptions Satavahana period में किससे संबंधित हैं? / Karle caves inscriptions during Satavahana period are related to which?",
+    "options": {
+      "A": "Royal military orders",
+      "B": "Buddhist monastic donations",
+      "C": "Foreign trade records",
+      "D": "Agricultural land grants"
+    },
+    "answer": ["B"],
+    "explanation": "Karle caves inscriptions मुख्यतः Buddhist monks को Satavahana rulers और व्यापारिक guilds द्वारा दान के संदर्भ में हैं।"
+  },
+  {
+    "id": 135,
+    "question": "Satavahana coinage में lead coins का प्रयोग किस कारण से प्रमुख था? / Why was the use of lead coins prominent in Satavahana coinage?",
+    "options": {
+      "A": "Abundance of local lead ore",
+      "B": "Cheaper than silver/gold",
+      "C": "Symbol of sovereignty",
+      "D": "Religious purity beliefs"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Deccan क्षेत्र में lead ore की प्रचुरता और यह चाँदी/सोने से सस्ता होने के कारण Satavahanas ने lead coins का व्यापक उपयोग किया।"
+  },
+  {
+    "id": 136,
+    "question": "Nasik inscription में Gautamiputra Satakarni की किस उपलब्धि का वर्णन है? / The Nasik inscription describes which achievement of Gautamiputra Satakarni?",
+    "options": {
+      "A": "Defeat of Western Kshatrapas",
+      "B": "Construction of Karle caves",
+      "C": "Brahmana land grants",
+      "D": "Trade with Roman Empire"
+    },
+    "answer": ["A"],
+    "explanation": "Nasik inscription में Gautamiputra Satakarni की Western Kshatrap ruler Nahapana पर विजय का उल्लेख है।"
+  },
+  {
+    "id": 137,
+    "question": "Satavahana dynasty के कौन से शासक ने Prakrit में सबसे अधिक inscriptions जारी किए? / Which Satavahana ruler issued the most inscriptions in Prakrit?",
+    "options": {
+      "A": "Satakarni I",
+      "B": "Gautamiputra Satakarni",
+      "C": "Pulomavi II",
+      "D": "Yajna Sri Satakarni"
+    },
+    "answer": ["B"],
+    "explanation": "Gautamiputra Satakarni के काल में Prakrit inscriptions की संख्या सबसे अधिक मिलती है, जो भाषा नीति और प्रशासनिक संचार का संकेत है।"
+  },
+  {
+    "id": 138,
+    "question": "Satavahana land grants में 'agrahara' का क्या अर्थ था? / In Satavahana land grants, what did 'agrahara' mean?",
+    "options": {
+      "A": "Tax-free village grant to Brahmanas",
+      "B": "Royal pasture land",
+      "C": "Military cantonment",
+      "D": "Guild-managed agricultural estate"
+    },
+    "answer": ["A"],
+    "explanation": "'Agrahara' वह भूमि होती थी जिसे Brahmanas को tax-free village के रूप में अनुदान दिया जाता था।"
+  },
+  {
+    "id": 139,
+    "question": "Roman coins का Satavahana empire में मिलना किसका प्रमाण है? / The finding of Roman coins in the Satavahana empire is evidence of which?",
+    "options": {
+      "A": "Direct Roman colonies in Deccan",
+      "B": "Flourishing Indo-Roman trade",
+      "C": "Gift exchange with Roman Senate",
+      "D": "Mercenary hiring from Rome"
+    },
+    "answer": ["B"],
+    "explanation": "Roman coins की उपस्थिति Indo-Roman trade के व्यापक नेटवर्क का प्रमाण है, विशेषकर समुद्री मार्गों के माध्यम से।"
+  },
+  {
+    "id": 140,
+    "question": "Satavahana cultural patronage में Amaravati Stupa का महत्व क्या था? / What was the significance of Amaravati Stupa in Satavahana cultural patronage?",
+    "options": {
+      "A": "Centre of Mahayana Buddhist art",
+      "B": "Political assembly hall",
+      "C": "Military watchtower",
+      "D": "Royal treasury"
+    },
+    "answer": ["A"],
+    "explanation": "Amaravati Stupa Mahayana Buddhist art का प्रमुख केंद्र था, जहाँ Satavahana rulers ने उदार संरक्षण दिया।"
+  },
+  {
+    "id": 141,
+    "question": "Satavahana inscriptions में guilds का उल्लेख किस प्रकार होता था? / How were guilds mentioned in Satavahana inscriptions?",
+    "options": {
+      "A": "As donors to religious sites",
+      "B": "As tax collectors",
+      "C": "As royal advisors",
+      "D": "As foreign envoys"
+    },
+    "answer": ["A"],
+    "explanation": "Guilds को अक्सर धार्मिक स्थलों के दानदाताओं के रूप में inscriptions में दर्शाया गया है, जो उनकी आर्थिक शक्ति को दर्शाता है।"
+  },
+  {
+    "id": 142,
+    "question": "Satavahana naval activity के प्रमाण किससे मिलते हैं? / Evidence of Satavahana naval activity comes from which?",
+    "options": {
+      "A": "Periplus of the Erythraean Sea",
+      "B": "Bharuch dock remains",
+      "C": "Karle cave depictions",
+      "D": "Nasik fort records"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Periplus of the Erythraean Sea और Bharuch dock remains से Satavahana समुद्री व्यापार व नौसैनिक गतिविधियों का प्रमाण मिलता है।"
+  },
+  {
+    "id": 143,
+    "question": "Satavahana rulers ने coinage पर किस प्रकार के प्रतीक का प्रयोग किया? / What kind of symbols did Satavahana rulers use on their coinage?",
+    "options": {
+      "A": "Elephants and ships",
+      "B": "Mountains and rivers",
+      "C": "Temples and stupas",
+      "D": "Royal portraits"
+    },
+    "answer": ["A", "C"],
+    "explanation": "Satavahana coins पर elephants, ships, temples और stupas के प्रतीक धार्मिक व राजनीतिक संदेश के लिए प्रयुक्त होते थे।"
+  },
+  {
+    "id": 144,
+    "question": "Satavahana polity में feudatories की क्या भूमिका थी? / What was the role of feudatories in Satavahana polity?",
+    "options": {
+      "A": "Military support providers",
+      "B": "Revenue administrators",
+      "C": "Religious functionaries",
+      "D": "Trade negotiators"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Feudatories Satavahana राज्य में सैन्य सहायता और राजस्व प्रशासन में योगदान करते थे।"
+  },
+  {
+    "id": 145,
+    "question": "Satavahana inscriptions में 'Yavana' का उल्लेख किस संदर्भ में आता है? / In Satavahana inscriptions, 'Yavana' is mentioned in what context?",
+    "options": {
+      "A": "Foreign mercenaries",
+      "B": "Greek merchants/donors",
+      "C": "Roman tax collectors",
+      "D": "Persian diplomats"
+    },
+    "answer": ["B"],
+    "explanation": "'Yavana' शब्द का प्रयोग inscriptions में प्रायः Greek merchants या donors के संदर्भ में मिलता है।"
+  },
+  {
+    "id": 146,
+    "question": "Satavahana inscriptions में 'nigama' का प्रयोग किसके लिए होता था? / In Satavahana inscriptions, 'nigama' referred to which?",
+    "options": {
+      "A": "Urban trade guild",
+      "B": "Village council",
+      "C": "Military unit",
+      "D": "Religious sect"
+    },
+    "answer": ["A"],
+    "explanation": "'Nigama' शहरी व्यापारिक guild को दर्शाने के लिए प्रयुक्त होता था।"
+  },
+  {
+    "id": 147,
+    "question": "Satavahana military campaigns का उत्तर भारत में विस्तार किसके विरुद्ध था? / The expansion of Satavahana military campaigns into North India was against whom?",
+    "options": {
+      "A": "Sakas",
+      "B": "Kushanas",
+      "C": "Nandas",
+      "D": "Magadhan feudatories"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Satavahana campaigns का उत्तर भारत में विस्तार मुख्यतः Sakas और Kushanas के विरुद्ध था।"
+  },
+  {
+    "id": 148,
+    "question": "Satavahana administration में 'amatya' का कार्य क्या था? / What was the function of 'amatya' in Satavahana administration?",
+    "options": {
+      "A": "Ministerial duties",
+      "B": "Temple priest",
+      "C": "Army commander",
+      "D": "Trade supervisor"
+    },
+    "answer": ["A"],
+    "explanation": "'Amatya' Satavahana प्रशासन में मंत्री पद को दर्शाता था।"
+  },
+  {
+    "id": 149,
+    "question": "Satavahana inscriptions में 'sethi' शब्द का प्रयोग किसके लिए होता था? / In Satavahana inscriptions, 'sethi' refers to whom?",
+    "options": {
+      "A": "Village headman",
+      "B": "Wealthy merchant/banker",
+      "C": "Temple architect",
+      "D": "Guild secretary"
+    },
+    "answer": ["B"],
+    "explanation": "'Sethi' शब्द का प्रयोग धनी व्यापारी या साहूकार के लिए होता था, जो अक्सर धार्मिक स्थलों को दान देते थे।"
+  },
+  {
+    "id": 150,
+    "question": "Satavahana rule के अंत में राजनीतिक विघटन के मुख्य कारण कौन से थे? / Which were the main causes of political fragmentation at the end of Satavahana rule?",
+    "options": {
+      "A": "Feudatory independence",
+      "B": "Foreign invasions",
+      "C": "Economic decline",
+      "D": "Dynastic succession disputes"
+    },
+    "answer": ["A", "B", "C", "D"],
+    "explanation": "Satavahana अंत में feudatories का स्वतंत्र होना, विदेशी आक्रमण, आर्थिक गिरावट और उत्तराधिकार विवाद ने राजनीतिक विघटन को जन्म दिया।"
   }
 ]
+
+
+
+
+
+
 
 
