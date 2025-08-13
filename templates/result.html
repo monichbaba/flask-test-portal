@@ -18,8 +18,16 @@
         .correct-answer {
             color: #198754;
         }
+        .correct-answer li {
+            background-color: #d4edda;  /* Light green */
+            border-radius: 5px;
+        }
         .your-answer {
             color: #0d6efd;
+        }
+        .your-answer li {
+            background-color: #cfe2ff;  /* Light blue */
+            border-radius: 5px;
         }
         .status-correct {
             color: #198754;
@@ -28,6 +36,15 @@
         .status-incorrect {
             color: #dc3545;
             font-weight: bold;
+        }
+        .explanation {
+            margin-top: 10px;
+            font-weight: bold;           /* Bold text */
+            font-style: italic;          /* Elegant touch */
+            color: #ff8c00;              /* Dark orange */
+            padding: 5px 8px;            /* Padding */
+            border-radius: 5px;          /* Rounded edges */
+            background-color: #fff3e0;   /* Light orange */
         }
     </style>
 </head>
@@ -59,6 +76,10 @@
                         <div class="status-correct">✅ Correct</div>
                     {% else %}
                         <div class="status-incorrect">❌ Incorrect</div>
+                    {% endif %}
+
+                    {% if r.explanation %}
+                        <div class="explanation">💡 Explanation: {{ r.explanation }}</div>
                     {% endif %}
                 </div>
             </div>

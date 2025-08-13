@@ -41,7 +41,8 @@ def submit():
             'question': q['question'],
             'your_answers': [q['options'][opt] for opt in selected],
             'correct_answers': [q['options'][opt] for opt in q['answer']],
-            'is_correct': is_correct
+            'is_correct': is_correct,
+            'explanation': q.get('explanation', '')  # <-- Added explanation
         })
 
     return render_template('result.html', results=results)
