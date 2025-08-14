@@ -1,1447 +1,965 @@
 [
   {
     "id": 1,
-    "question": "कुजुला कडफीसेस (Kujula Kadphises) ने किस क्षेत्र में अपना शासन स्थापित किया था? / Which region did Kujula Kadphises establish his rule?",
+    "question": "उत्तर प्रदेश के देवगढ़ स्थित दशावतार मंदिर किस स्थापत्य शैली का प्रमुख उदाहरण है? / Dashavatara Temple at Deogarh, Uttar Pradesh is a prime example of which architectural style?",
     "options": {
-      "A": "गांधार (Gandhara)",
-      "B": "मथुरा (Mathura)",
-      "C": "दक्कन (Deccan)",
-      "D": "उत्तर प्रदेश (Uttar Pradesh)"
+      "A": "गुप्त शैली (Gupta Style)",
+      "B": "नागर शैली (Nagara Style)",
+      "C": "द्रविड़ शैली (Dravida Style)",
+      "D": "वेसर शैली (Vesara Style)"
     },
     "answer": ["A", "B"],
-    "explanation": "कुजुला कडफीसेस ने मुख्य रूप से गांधार, पंजाब और मथुरा क्षेत्रों में शासन किया।"
+    "explanation": "देवगढ़ का दशावतार मंदिर गुप्त काल में निर्मित नागर शैली का प्रारंभिक उदाहरण है।"
   },
   {
     "id": 2,
-    "question": "कुशान साम्राज्य की स्थापना के पीछे कौन सी जाति / कबीला था? / Which tribe was behind the establishment of the Kushan Empire?",
+    "question": "भितरगांव मंदिर (कानपुर देहात, यूपी) की विशेषता क्या है? / What is the special feature of Bhitargaon Temple (Kanpur Dehat, UP)?",
     "options": {
-      "A": "युज़ी (Yuezhi)",
-      "B": "सक (Scythians)",
-      "C": "पार्थियन (Parthians)",
-      "D": "मौर्य (Mauryas)"
+      "A": "यह पूरी तरह पत्थर का बना है (Completely stone-built)",
+      "B": "यह पूरी तरह ईंट से बना है (Completely brick-built)",
+      "C": "गुप्त काल का है (Belongs to Gupta Period)",
+      "D": "इसमें लोहे के क्लैम्प का प्रयोग हुआ है (Use of iron clamps)"
     },
-    "answer": ["A"],
-    "explanation": "कुशान साम्राज्य की स्थापना मध्य एशिया के युज़ी (Yuezhi) जनजाति ने की थी।"
+    "answer": ["B", "C", "D"],
+    "explanation": "भितरगांव मंदिर गुप्त काल का है, पूरी तरह ईंट से बना है और इसमें संरचना को जोड़ने के लिए लोहे के क्लैम्प का उपयोग हुआ है।"
   },
   {
     "id": 3,
-    "question": "कुशानों के काल में कौन सा प्रमुख व्यापार मार्ग विकसित हुआ था? / Which major trade route developed during the Kushan period?",
+    "question": "नचना-कुठारा (मध्य प्रदेश) का पार्वती मंदिर किस काल से संबंधित है? / Parvati Temple at Nachna Kuthara (MP) belongs to which period?",
     "options": {
-      "A": "सिल्क रोड (Silk Route)",
-      "B": "दक्कन रोड (Deccan Route)",
-      "C": "महानदी मार्ग (Mahanadi Route)",
-      "D": "पाटलिपुत्र मार्ग (Patliputra Route)"
+      "A": "गुप्त काल (Gupta Period)",
+      "B": "मौर्य काल (Maurya Period)",
+      "C": "पल्लव काल (Pallava Period)",
+      "D": "कुषाण काल (Kushan Period)"
     },
     "answer": ["A"],
-    "explanation": "कुशान साम्राज्य ने सिल्क रोड व्यापार को नियंत्रित किया और चीन तथा रोमन साम्राज्य से व्यापार को बढ़ावा दिया।"
+    "explanation": "नचना-कुठारा का पार्वती मंदिर गुप्त काल का प्रमुख उदाहरण है।"
   },
   {
     "id": 4,
-    "question": "कुशान शासक कनिष्क (Kanishka) किस धर्म को बढ़ावा देने के लिए प्रसिद्ध है? / Which religion is Kanishka known to have promoted?",
+    "question": "तिगवा (जबलपुर, मध्य प्रदेश) का शिव मंदिर किस शैली में निर्मित है? / The Shiva Temple at Tigawa (Jabalpur, MP) is built in which style?",
     "options": {
-      "A": "बौद्ध धर्म (Buddhism)",
-      "B": "जैन धर्म (Jainism)",
-      "C": "हिंदू धर्म (Hinduism)",
-      "D": "ज़ороएस्ट्रियन (Zoroastrianism)"
+      "A": "नागर शैली (Nagara Style)",
+      "B": "द्रविड़ शैली (Dravida Style)",
+      "C": "गुप्त शैली (Gupta Style)",
+      "D": "हॉयसला शैली (Hoysala Style)"
     },
-    "answer": ["A"],
-    "explanation": "कनिष्क महान बौद्ध सम्राट थे और महायान बौद्ध धर्म को सक्रिय रूप से प्रोत्साहित किया।"
+    "answer": ["A", "C"],
+    "explanation": "तिगवा का शिव मंदिर गुप्त कालीन नागर शैली का उत्कृष्ट उदाहरण है।"
   },
   {
     "id": 5,
-    "question": "कुशान साम्राज्य की मुद्रा प्रणाली किस संस्कृति से प्रभावित थी? / The Kushan coinage system was influenced by which culture?",
+    "question": "एरण (मध्य प्रदेश) का विष्णु मंदिर किस धातु के विशाल स्तंभ के लिए प्रसिद्ध है? / Vishnu Temple at Eran (MP) is famous for a colossal pillar made of which metal?",
     "options": {
-      "A": "ग्रीक (Greek)",
-      "B": "रोमन (Roman)",
-      "C": "चीन (Chinese)",
-      "D": "मौर्य (Mauryan)"
+      "A": "लोहा (Iron)",
+      "B": "कांस्य (Bronze)",
+      "C": "पत्थर (Stone)",
+      "D": "पीतल (Brass)"
     },
-    "answer": ["A", "B"],
-    "explanation": "कुशानों की मुद्रा प्रणाली मुख्य रूप से यूनानी और रोमन प्रभाव में विकसित हुई थी।"
+    "answer": ["A"],
+    "explanation": "एरण विष्णु मंदिर के पास लोहे का विशाल स्तंभ गुप्त कालीन धातुकर्म का उदाहरण है।"
   },
   {
     "id": 6,
-    "question": "कुशानों के शासनकाल में सबसे प्रमुख भाषा कौन सी थी? / Which language was prominent during the Kushan rule?",
+    "question": "सांची का मंदिर संख्या 17 किस शैली का है? / Temple No. 17 at Sanchi belongs to which style?",
     "options": {
-      "A": "ग्रीक (Greek)",
-      "B": "संसकृत (Sanskrit)",
-      "C": "कुइरू (Kharosthi)",
-      "D": "प्राकृत (Prakrit)"
+      "A": "गुप्त शैली (Gupta Style)",
+      "B": "मौर्य शैली (Maurya Style)",
+      "C": "नागर शैली (Nagara Style)",
+      "D": "पल्लव शैली (Pallava Style)"
     },
-    "answer": ["C", "D"],
-    "explanation": "कुशान प्रशासन में खरोष्ठी और प्राकृत भाषाएँ प्रमुख रूप से उपयोग में लाई गईं।"
+    "answer": ["A", "C"],
+    "explanation": "सांची का मंदिर संख्या 17 गुप्त कालीन नागर शैली का प्रारंभिक उदाहरण है।"
   },
   {
     "id": 7,
-    "question": "कुशानों ने किस प्रकार के कला और स्थापत्य को बढ़ावा दिया? / What type of art and architecture did the Kushans promote?",
+    "question": "गुप्त कालीन मंदिर वास्तुकला की विशेषताएँ कौन-सी हैं? / Which are the features of Gupta period temple architecture?",
     "options": {
-      "A": "गांधार कला (Gandhara Art)",
-      "B": "मैत्रेय कला (Mathura Art)",
-      "C": "मौर्य स्तूप (Mauryan Stupa)",
-      "D": "हड़प्पा शैली (Harappan Style)"
+      "A": "गर्भगृह (Garbhagriha)",
+      "B": "मंडप (Mandapa)",
+      "C": "शिखर (Shikhara)",
+      "D": "गोपुरम (Gopuram)"
     },
-    "answer": ["A", "B"],
-    "explanation": "कुशानों ने गांधार और मथुरा क्षेत्रों की मूर्तिकला और स्थापत्य को विकसित किया।"
+    "answer": ["A", "B", "C"],
+    "explanation": "गुप्त काल में मंदिरों में गर्भगृह, मंडप और शिखर का आरंभ हुआ; गोपुरम द्रविड़ शैली की विशेषता है।"
   },
   {
     "id": 8,
-    "question": "कुशानों के काल में कौन सा विदेशी धर्म भारत आया? / Which foreign religion came to India during the Kushan period?",
+    "question": "भितरगांव मंदिर किस कारण से ऐतिहासिक महत्व रखता है? / Why does Bhitargaon Temple hold historical importance?",
     "options": {
-      "A": "जैन धर्म (Jainism)",
-      "B": "बौद्ध धर्म (Buddhism)",
-      "C": "ज़ороएस्ट्रियन धर्म (Zoroastrianism)",
-      "D": "ईसाई धर्म (Christianity)"
+      "A": "भारत का सबसे प्राचीन ईंट का मंदिर (Oldest surviving brick temple in India)",
+      "B": "पहला गुफा मंदिर (First cave temple)",
+      "C": "पहली बार लोहे के क्लैम्प का प्रयोग (First use of iron clamps)",
+      "D": "दक्षिण भारत का पहला मंदिर (First South Indian temple)"
     },
-    "answer": ["C"],
-    "explanation": "ज़ोरोएस्ट्रियन धर्म मध्य एशिया से भारत में कुशानों के समय आया।"
+    "answer": ["A", "C"],
+    "explanation": "भितरगांव मंदिर भारत का सबसे प्राचीन जीवित ईंट का मंदिर है और इसमें लोहे के क्लैम्प का प्रयोग हुआ है।"
   },
   {
     "id": 9,
-    "question": "कनिष्क के काल में कौन सा प्रसिद्ध बौद्ध सम्मेलन हुआ था? / Which famous Buddhist council took place during Kanishka's reign?",
+    "question": "नचना-कुठारा पार्वती मंदिर के स्थापत्य में क्या विशेष है? / What is special in the architecture of Parvati Temple at Nachna Kuthara?",
     "options": {
-      "A": "कुशान बौद्ध सभा (Kushan Buddhist Council)",
-      "B": "धर्मसमिति (Dharmasangha Council)",
-      "C": "सर्वमान्य बौद्ध परिषद (Sarvamanya Buddhist Council)",
-      "D": "तृतीय बौद्ध संधि (Third Buddhist Council)"
+      "A": "द्वि-मंजिला संरचना (Two-storey structure)",
+      "B": "उच्च चबूतरा (High plinth)",
+      "C": "लकड़ी का शिखर (Wooden shikhara)",
+      "D": "काष्ठ-स्तंभ (Wooden pillars)"
     },
-    "answer": ["D"],
-    "explanation": "कनिष्क ने तृतीय बौद्ध परिषद का आयोजन कर महायान संप्रदाय को बढ़ावा दिया।"
+    "answer": ["A", "B"],
+    "explanation": "नचना-कुठारा का पार्वती मंदिर उच्च चबूतरे पर निर्मित द्वि-मंजिला संरचना है।"
   },
   {
     "id": 10,
-    "question": "कुशानों का कौन सा शासक चीन और रोमन साम्राज्य के साथ संपर्क स्थापित करने में सफल रहा? / Which Kushan ruler successfully established contacts with China and the Roman Empire?",
+    "question": "तिगवा मंदिर में मूर्तिकला का कौन-सा पहलू उल्लेखनीय है? / Which aspect of sculpture is notable in Tigawa Temple?",
     "options": {
-      "A": "कुजुला कडफीसेस (Kujula Kadphises)",
-      "B": "कनिष्क (Kanishka)",
-      "C": "विमा कडफीसेस (Vima Kadphises)",
-      "D": "हुधा कडफीसेस (Huvishka)"
+      "A": "सूक्ष्म नक्काशी (Fine carving)",
+      "B": "रंगीन भित्तिचित्र (Coloured murals)",
+      "C": "लोहे की जाली (Iron lattice)",
+      "D": "काष्ठ छत (Wooden roof)"
     },
-    "answer": ["B", "D"],
-    "explanation": "कनिष्क और उनके उत्तराधिकारी हुविश्का ने चीन और रोमन साम्राज्य के साथ व्यापारिक और राजनीतिक संपर्क स्थापित किए।"
+    "answer": ["A"],
+    "explanation": "तिगवा मंदिर की मूर्तियों में सूक्ष्म नक्काशी और गुप्त कालीन शिल्प कौशल झलकता है।"
   },
   {
     "id": 11,
-    "question": "कुशानों के शासनकाल में प्रमुख कृषि क्षेत्र कौन सा था? / Which was a major agricultural region during the Kushan period?",
-    "options": {
-      "A": "गंगा-Yamuna घाटी (Ganga-Yamuna Valley)",
-      "B": "दक्कन पठार (Deccan Plateau)",
-      "C": "पंजाब क्षेत्र (Punjab Region)",
-      "D": "राजस्थान मरुस्थल (Rajasthan Desert)"
-    },
-    "answer": ["A", "C"],
-    "explanation": "कुशानों ने गंगा-यमुना घाटी और पंजाब में कृषि और सिंचाई प्रणाली को बढ़ावा दिया।"
-  },
-  {
-    "id": 12,
-    "question": "कुशानों ने किस प्रकार की सेना का निर्माण किया? / What type of army did the Kushans develop?",
-    "options": {
-      "A": "घुड़सवार सेना (Cavalry)",
-      "B": "पैदल सेना (Infantry)",
-      "C": "तलवारबाज सेना (Swordsmen Corps)",
-      "D": "तोपखाने (Artillery)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "कुशानों की सेना मुख्यतः घुड़सवार और पैदल सैनिकों से बनी थी।"
-  },
-  {
-    "id": 13,
-    "question": "कुशानों की मुद्रा पर आम तौर पर किस देवता की छवि मिलती है? / Which deity images are commonly found on Kushan coins?",
-    "options": {
-      "A": "ज़्यूस (Zeus)",
-      "B": "शिव (Shiva)",
-      "C": "विष्णु (Vishnu)",
-      "D": "गणेश (Ganesha)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "कुशानों के सिक्कों पर ग्रीक देवता ज़्यूस और भारतीय देवता शिव की छवियाँ मिलती हैं।"
-  },
-  {
-    "id": 14,
-    "question": "कुशानों के प्रशासन में किस प्रकार का लेखा और टैक्स सिस्टम था? / What type of administration and taxation system existed under the Kushans?",
-    "options": {
-      "A": "केंद्रित प्रशासन (Centralized Administration)",
-      "B": "स्थानीय स्वायत्तता (Local Autonomy)",
-      "C": "भूमि कर आधारित (Land Tax Based)",
-      "D": "व्यापार कर आधारित (Trade Tax Based)"
-    },
-    "answer": ["A", "C", "D"],
-    "explanation": "कुशानों ने केंद्रीय प्रशासन के साथ-साथ भूमि और व्यापार कर प्रणाली विकसित की।"
-  },
-  {
-    "id": 15,
-    "question": "कुशानों के समय भारत में कौन सा प्रमुख शहर व्यापारिक केंद्र था? / Which major city was a commercial hub during the Kushan period?",
-    "options": {
-      "A": "मथुरा (Mathura)",
-      "B": "सिकंदरिया (Alexandria)",
-      "C": "गांधार (Gandhara)",
-      "D": "काबुल (Kabul)"
-    },
-    "answer": ["A", "C", "D"],
-    "explanation": "मथुरा, गांधार और काबुल कुशानों के समय प्रमुख व्यापारिक केंद्र थे।"
-  },
-  {
-    "id": 16,
-    "question": "कुजुला कडफीसेस (Kujula Kadphises) का मुख्य योगदान किस क्षेत्र में था? / What was Kujula Kadphises' main contribution?",
-    "options": {
-      "A": "कुशान साम्राज्य का एकीकरण (Consolidation of Kushan Empire)",
-      "B": "मथुरा का विस्तार (Expansion into Mathura)",
-      "C": "चीन के साथ संपर्क (Contact with China)",
-      "D": "बौद्ध धर्म का प्रोत्साहन (Promotion of Buddhism)"
-    },
-    "answer": ["A"],
-    "explanation": "कुजुला कडफीसेस ने मुख्य रूप से विभिन्न युज़ी कबीलों को एकत्रित कर कुशान साम्राज्य को एकीकृत किया।"
-  },
-  {
-    "id": 17,
-    "question": "विमा कडफीसेस (Vima Kadphises) ने किस क्षेत्र में विस्तार किया? / Which region did Vima Kadphises expand into?",
-    "options": {
-      "A": "मथुरा (Mathura)",
-      "B": "उत्तर भारत (Northern India)",
-      "C": "दक्कन (Deccan)",
-      "D": "गांधार (Gandhara)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "विमा कडफीसेस ने मथुरा और उत्तरी भारत के क्षेत्रों में साम्राज्य का विस्तार किया।"
-  },
-  {
-    "id": 18,
-    "question": "कुशानों के प्रारंभिक विस्तार में किस प्रकार की सेना का उपयोग हुआ? / What type of army was used in early Kushan expansion?",
-    "options": {
-      "A": "घुड़सवार सेना (Cavalry)",
-      "B": "पैदल सेना (Infantry)",
-      "C": "तोपखाने (Artillery)",
-      "D": "नाविक बल (Naval Force)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "कुशानों ने प्रारंभिक विस्तार में घुड़सवार और पैदल सेना का मुख्य उपयोग किया।"
-  },
-  {
-    "id": 19,
-    "question": "कुशानों की प्रारंभिक मुद्रा प्रणाली किसके प्रभाव में थी? / The early Kushan coinage was influenced by which culture?",
-    "options": {
-      "A": "ग्रीक (Greek)",
-      "B": "रोमन (Roman)",
-      "C": "मौर्य (Mauryan)",
-      "D": "युज़ी (Yuezhi)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "कुशानों की प्रारंभिक मुद्रा प्रणाली ग्रीक और रोमन प्रभाव में विकसित हुई थी।"
-  },
-  {
-    "id": 20,
-    "question": "विमा कडफीसेस के शासनकाल में प्रमुख आर्थिक गतिविधियाँ कौन सी थीं? / What were the major economic activities during Vima Kadphises' reign?",
-    "options": {
-      "A": "सिक्का निर्माण (Coinage)",
-      "B": "व्यापार (Trade)",
-      "C": "कृषि (Agriculture)",
-      "D": "नौकायन (Navigation)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "विमा कडफीसेस के काल में सिक्का निर्माण, व्यापार और कृषि प्रमुख आर्थिक गतिविधियाँ थीं।"
-  },
-  {
-    "id": 21,
-    "question": "कुशानों के शुरुआती विस्तार के दौरान किस क्षेत्र में अधिक राजनीतिक दबाव था? / Which region faced more political pressure during early Kushan expansion?",
-    "options": {
-      "A": "गांधार (Gandhara)",
-      "B": "मथुरा (Mathura)",
-      "C": "पंजाब (Punjab)",
-      "D": "दक्कन (Deccan)"
-    },
-    "answer": ["A", "C"],
-    "explanation": "गांधार और पंजाब में राजनीतिक दबाव अधिक था क्योंकि ये सीमावर्ती और रणनीतिक क्षेत्र थे।"
-  },
-  {
-    "id": 22,
-    "question": "कुशानों के प्रारंभिक विस्तार में किस प्रकार की धार्मिक नीति अपनाई गई? / What religious policy was adopted during early Kushan expansion?",
-    "options": {
-      "A": "धर्मनिरपेक्षता (Religious Tolerance)",
-      "B": "एक धर्म को बाध्य करना (Enforcing One Religion)",
-      "C": "बौद्ध धर्म को प्रोत्साहन (Promoting Buddhism)",
-      "D": "हिंदू धर्म का समर्थन (Supporting Hinduism)"
-    },
-    "answer": ["A", "C"],
-    "explanation": "कुशानों ने धार्मिक सहिष्णुता अपनाई और विशेष रूप से बौद्ध धर्म को प्रोत्साहित किया।"
-  },
-  {
-    "id": 23,
-    "question": "कुशानों के विस्तार के दौरान मुख्य रूप से किस रणनीति का उपयोग हुआ? / What strategy was primarily used during Kushan expansion?",
-    "options": {
-      "A": "सैन्य विजय (Military Conquest)",
-      "B": "संधि और गठबंधन (Treaties & Alliances)",
-      "C": "आर्थिक दबाव (Economic Pressure)",
-      "D": "जनता आंदोलन (Popular Revolt)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "कुशानों ने सैन्य विजय और स्थानीय रजाओं के साथ गठबंधन का प्रयोग करके विस्तार किया।"
-  },
-  {
-    "id": 24,
-    "question": "कुशानों के प्रारंभिक विस्तार में किस प्रकार की मुद्रा अधिक प्रचलित थी? / What type of coinage was prevalent in early Kushan expansion?",
-    "options": {
-      "A": "सोने के सिक्के (Gold Coins)",
-      "B": "चांदी के सिक्के (Silver Coins)",
-      "C": "तांबे के सिक्के (Copper Coins)",
-      "D": "कांस्य के सिक्के (Bronze Coins)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "कुशानों ने अपने प्रारंभिक विस्तार में सोने, चांदी और तांबे के सिक्के जारी किए।"
-  },
-  {
-    "id": 25,
-    "question": "विमा कडफीसेस ने किस क्षेत्र में बौद्ध स्थलों का निर्माण कराया? / In which region did Vima Kadphises promote Buddhist sites?",
-    "options": {
-      "A": "मथुरा (Mathura)",
-      "B": "गांधार (Gandhara)",
-      "C": "काबुल (Kabul)",
-      "D": "राजस्थान (Rajasthan)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "विमा कडफीसेस ने मथुरा और गांधार में बौद्ध स्थलों का निर्माण कराया।"
-  },
-  {
-    "id": 26,
-    "question": "कुशानों के प्रारंभिक विस्तार में कौन से बाहरी संपर्क महत्वपूर्ण थे? / Which external contacts were important during early Kushan expansion?",
-    "options": {
-      "A": "रोमन साम्राज्य (Roman Empire)",
-      "B": "चीन (China)",
-      "C": "पर्शियन साम्राज्य (Persian Empire)",
-      "D": "यूनान (Greece)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "कुशानों ने रोमन, चीन और पारस के साथ व्यापार और कूटनीतिक संपर्क बनाए।"
-  },
-  {
-    "id": 27,
-    "question": "कुशानों के प्रारंभिक विस्तार के दौरान कौन सी कला शैली प्रमुख रही? / Which art style was prominent during early Kushan expansion?",
-    "options": {
-      "A": "गांधार कला (Gandhara Art)",
-      "B": "मथुरा कला (Mathura Art)",
-      "C": "हड़प्पा शैली (Harappan Style)",
-      "D": "मौर्य शैली (Mauryan Style)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "गांधार और मथुरा की कला शैली कुशानों के प्रारंभिक विस्तार के दौरान प्रमुख थी।"
-  },
-  {
-    "id": 28,
-    "question": "कुशानों के प्रारंभिक विस्तार में कौन सी आर्थिक नीतियाँ अपनाई गईं? / Which economic policies were adopted during early Kushan expansion?",
-    "options": {
-      "A": "सिक्का प्रणाली (Coinage System)",
-      "B": "व्यापार कर (Trade Tax)",
-      "C": "भूमि कर (Land Tax)",
-      "D": "मुक्त बाजार (Free Market)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "कुशानों ने सिक्का प्रणाली, व्यापार कर और भूमि कर नीतियाँ अपनाईं।"
-  },
-  {
-    "id": 29,
-    "question": "कुशानों के प्रारंभिक विस्तार में किस प्रकार के प्रशासनिक उपाय लागू किए गए? / What type of administrative measures were implemented during early Kushan expansion?",
-    "options": {
-      "A": "केंद्रित प्रशासन (Centralized Administration)",
-      "B": "स्थानीय रजाओं की स्वायत्तता (Local Autonomy)",
-      "C": "सैन्य गवर्नर (Military Governors)",
-      "D": "जनता परिषद (People's Council)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "कुशानों ने केंद्रित प्रशासन के साथ-साथ स्थानीय रजाओं को स्वायत्तता दी और सैन्य गवर्नरों की नियुक्ति की।"
-  },
-  {
-    "id": 30,
-    "question": "विमा कडफीसेस के विस्तार से कौन सा व्यापारिक नेटवर्क सुदृढ़ हुआ? / Which trade network strengthened due to Vima Kadphises’ expansion?",
-    "options": {
-      "A": "सिल्क रोड (Silk Route)",
-      "B": "दक्कन व्यापार मार्ग (Deccan Trade Route)",
-      "C": "पर्शियन मार्ग (Persian Route)",
-      "D": "गंगा-यमुना मार्ग (Ganga-Yamuna Route)"
-    },
-    "answer": ["A", "C", "D"],
-    "explanation": "विमा कडफीसेस के विस्तार से सिल्क रोड, पर्शियन मार्ग और गंगा-यमुना व्यापार मार्ग सुदृढ़ हुए।"
-  },
-  {
-    "id": 31,
-    "question": "कनिष्क I (Kanishka I) को किस काल का 'स्वर्ण युग' माना जाता है? / Kanishka I is considered the 'Golden Age' of which period?",
-    "options": {
-      "A": "कुशान साम्राज्य (Kushan Empire)",
-      "B": "गुप्त साम्राज्य (Gupta Empire)",
-      "C": "मौर्य साम्राज्य (Maurya Empire)",
-      "D": "सिंधु घाटी सभ्यता (Indus Valley Civilization)"
-    },
-    "answer": ["A"],
-    "explanation": "कनिष्क I के शासनकाल को कुशान साम्राज्य का स्वर्ण युग माना जाता है।"
-  },
-  {
-    "id": 32,
-    "question": "कनिष्क I के शासनकाल में कौन सा धर्म विशेष रूप से फल-फूल रहा था? / Which religion particularly flourished during Kanishka I's reign?",
-    "options": {
-      "A": "महायान बौद्ध धर्म (Mahayana Buddhism)",
-      "B": "हिंदू धर्म (Hinduism)",
-      "C": "जैन धर्म (Jainism)",
-      "D": "ज़ोरोएस्ट्रियन धर्म (Zoroastrianism)"
-    },
-    "answer": ["A"],
-    "explanation": "कनिष्क I ने महायान बौद्ध धर्म को बढ़ावा दिया और बौद्ध धर्म का प्रचार किया।"
-  },
-  {
-    "id": 33,
-    "question": "कनिष्क I के शासनकाल में कौन सा प्रसिद्ध बौद्ध सम्मेलन हुआ था? / Which famous Buddhist council took place during Kanishka I's reign?",
-    "options": {
-      "A": "तृतीय बौद्ध परिषद (Third Buddhist Council)",
-      "B": "द्वितीय बौद्ध परिषद (Second Buddhist Council)",
-      "C": "चौथा बौद्ध सम्मेलन (Fourth Buddhist Council)",
-      "D": "सर्वमान्य बौद्ध परिषद (Sarvamanya Buddhist Council)"
-    },
-    "answer": ["A", "C"],
-    "explanation": "कनिष्क I के समय तृतीय बौद्ध परिषद हुई, जिसे कभी-कभी चौथे बौद्ध सम्मेलन के रूप में भी संदर्भित किया जाता है।"
-  },
-  {
-    "id": 34,
-    "question": "कनिष्क I ने किस क्षेत्र में प्रशासनिक सुधार किए? / In which areas did Kanishka I implement administrative reforms?",
-    "options": {
-      "A": "सैन्य प्रशासन (Military Administration)",
-      "B": "सिक्का प्रणाली (Coinage System)",
-      "C": "कृषि और भूमि प्रबंधन (Agriculture & Land Management)",
-      "D": "सड़क और व्यापार मार्ग (Roads & Trade Routes)"
-    },
-    "answer": ["A", "B", "C", "D"],
-    "explanation": "कनिष्क I ने सैन्य प्रशासन, मुद्रा प्रणाली, कृषि और व्यापार मार्गों में सुधार किए।"
-  },
-  {
-    "id": 35,
-    "question": "कनिष्क I की मुद्रा पर कौन-कौन से देवता/प्रतीक मिलते हैं? / Which deities/symbols appear on Kanishka I’s coins?",
-    "options": {
-      "A": "ग्रीक देवता ज़्यूस (Greek Zeus)",
-      "B": "हिंदू देवता शिव (Hindu Shiva)",
-      "C": "बौद्ध प्रतीक (Buddhist Symbols)",
-      "D": "रोमन देवता जुपिटर (Roman Jupiter)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "कनिष्क I के सिक्कों पर ग्रीक, हिंदू और बौद्ध प्रतीक दिखाई देते हैं।"
-  },
-  {
-    "id": 36,
-    "question": "कनिष्क I के शासनकाल में कौन से प्रमुख शहर व्यापारिक केंद्र बने? / Which major cities became commercial hubs during Kanishka I’s reign?",
-    "options": {
-      "A": "मथुरा (Mathura)",
-      "B": "सिकंदरिया (Alexandria)",
-      "C": "गांधार (Gandhara)",
-      "D": "काबुल (Kabul)"
-    },
-    "answer": ["A", "C", "D"],
-    "explanation": "मथुरा, गांधार और काबुल कनिष्क I के समय प्रमुख व्यापारिक केंद्र बने।"
-  },
-  {
-    "id": 37,
-    "question": "कनिष्क I के शासनकाल में कौन सा विदेशी व्यापारिक नेटवर्क प्रमुख रहा? / Which foreign trade network was prominent during Kanishka I's reign?",
-    "options": {
-      "A": "सिल्क रोड (Silk Route)",
-      "B": "रोमन व्यापार मार्ग (Roman Trade Route)",
-      "C": "पर्शियन मार्ग (Persian Route)",
-      "D": "दक्कन मार्ग (Deccan Route)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "कनिष्क I ने सिल्क रोड, रोमन और पर्शियन मार्गों के माध्यम से अंतरराष्ट्रीय व्यापार बढ़ाया।"
-  },
-  {
-    "id": 38,
-    "question": "कनिष्क I के शासनकाल में कला और मूर्तिकला का कौन सा क्षेत्र प्रमुख था? / Which art and sculpture region flourished during Kanishka I's reign?",
-    "options": {
-      "A": "गांधार कला (Gandhara Art)",
-      "B": "मथुरा कला (Mathura Art)",
-      "C": "हड़प्पा शैली (Harappan Style)",
-      "D": "मौर्य शैली (Mauryan Style)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "कनिष्क I के शासनकाल में गांधार और मथुरा की कला और मूर्तिकला में उत्कृष्टता थी।"
-  },
-  {
-    "id": 39,
-    "question": "कनिष्क I के समय कौन सी धार्मिक सहिष्णुता नीति अपनाई गई? / Which religious tolerance policy was adopted during Kanishka I’s reign?",
-    "options": {
-      "A": "सभी धर्मों के लिए सहिष्णुता (Tolerance to all religions)",
-      "B": "केवल बौद्ध धर्म को मान्यता (Only Buddhism)",
-      "C": "केवल हिंदू धर्म को मान्यता (Only Hinduism)",
-      "D": "संपत्ति कर पर आधारित नीति (Tax-based Policy)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "कनिष्क I ने सभी धर्मों के लिए सहिष्णुता अपनाई, विशेष रूप से बौद्ध धर्म को बढ़ावा दिया।"
-  },
-  {
-    "id": 40,
-    "question": "कनिष्क I ने किस क्षेत्र में सेना और सैन्य गवर्नर नियुक्त किए? / In which areas did Kanishka I deploy army and military governors?",
-    "options": {
-      "A": "सिन्धु और पंजाब (Sindh & Punjab)",
-      "B": "मथुरा और उत्तर भारत (Mathura & Northern India)",
-      "C": "दक्कन (Deccan)",
-      "D": "गांधार और काबुल (Gandhara & Kabul)"
-    },
-    "answer": ["A", "B", "D"],
-    "explanation": "कनिष्क I ने महत्वपूर्ण सीमावर्ती क्षेत्रों में सेना और सैन्य गवर्नरों की नियुक्ति की।"
-  },
-  {
-    "id": 41,
-    "question": "कनिष्क I के समय प्रमुख कृषि क्षेत्र कौन सा था? / Which was the major agricultural region during Kanishka I’s reign?",
-    "options": {
-      "A": "गंगा-यमुना घाटी (Ganga-Yamuna Valley)",
-      "B": "पंजाब क्षेत्र (Punjab Region)",
-      "C": "राजस्थान मरुस्थल (Rajasthan Desert)",
-      "D": "दक्कन पठार (Deccan Plateau)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "गंगा-यमुना घाटी और पंजाब कुशान साम्राज्य के समय प्रमुख कृषि क्षेत्र थे।"
-  },
-  {
-    "id": 42,
-    "question": "कनिष्क I के शासनकाल में कौन से प्रमुख विदेशी संपर्क विकसित हुए? / Which major foreign contacts developed during Kanishka I’s reign?",
-    "options": {
-      "A": "चीन (China)",
-      "B": "रोमन साम्राज्य (Roman Empire)",
-      "C": "पर्शियन साम्राज्य (Persian Empire)",
-      "D": "यूनान (Greece)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "कनिष्क I ने चीन, रोमन और पर्शियन साम्राज्यों के साथ व्यापार और कूटनीतिक संपर्क स्थापित किए।"
-  },
-  {
-    "id": 43,
-    "question": "कनिष्क I की मुद्रा प्रणाली किस संस्कृति से प्रभावित थी? / Kanishka I’s coinage system was influenced by which culture?",
-    "options": {
-      "A": "ग्रीक (Greek)",
-      "B": "रोमन (Roman)",
-      "C": "भारतीय (Indian)",
-      "D": "चीन (Chinese)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "कनिष्क I के सिक्के ग्रीक, रोमन और भारतीय प्रभाव में बनाए गए।"
-  },
-  {
-    "id": 44,
-    "question": "कनिष्क I के समय कौन से प्रमुख व्यापारिक केंद्र विकसित हुए? / Which major trade hubs developed during Kanishka I’s reign?",
-    "options": {
-      "A": "मथुरा (Mathura)",
-      "B": "काबुल (Kabul)",
-      "C": "सिकंदरिया (Alexandria)",
-      "D": "गांधार (Gandhara)"
-    },
-    "answer": ["A", "B", "D"],
-    "explanation": "मथुरा, काबुल और गांधार प्रमुख व्यापारिक केंद्र बने।"
-  },
-  {
-    "id": 45,
-    "question": "कनिष्क I के शासनकाल में कला और मूर्तिकला में कौन सी शैली प्रमुख थी? / Which style was prominent in art and sculpture during Kanishka I’s reign?",
-    "options": {
-      "A": "गांधार शैली (Gandhara Style)",
-      "B": "मथुरा शैली (Mathura Style)",
-      "C": "मौर्य शैली (Mauryan Style)",
-      "D": "हड़प्पा शैली (Harappan Style)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "गांधार और मथुरा की कला शैली कनिष्क I के शासनकाल में प्रमुख थी।"
-  },
-  {
-    "id": 46,
-    "question": "कनिष्क I के समय कौन सा धार्मिक अनुयायियों की संख्या में वृद्धि हुई? / Which religious followers increased during Kanishka I’s reign?",
-    "options": {
-      "A": "बौद्ध धर्म (Buddhism)",
-      "B": "हिंदू धर्म (Hinduism)",
-      "C": "जैन धर्म (Jainism)",
-      "D": "ज़ोरोएस्ट्रियन धर्म (Zoroastrianism)"
-    },
-    "answer": ["A"],
-    "explanation": "कनिष्क I के समय बौद्ध धर्म के अनुयायियों की संख्या में वृद्धि हुई।"
-  },
-  {
-    "id": 47,
-    "question": "कनिष्क I के शासनकाल में कौन से व्यापारिक मार्ग प्रमुख रहे? / Which trade routes were prominent during Kanishka I’s reign?",
-    "options": {
-      "A": "सिल्क रोड (Silk Route)",
-      "B": "गंगा-यमुना मार्ग (Ganga-Yamuna Route)",
-      "C": "पर्शियन मार्ग (Persian Route)",
-      "D": "दक्कन मार्ग (Deccan Route)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "सिल्क रोड, गंगा-यमुना मार्ग और पर्शियन मार्ग कनिष्क I के समय प्रमुख थे।"
-  },
-  {
-    "id": 48,
-    "question": "कनिष्क I के समय प्रशासन में किस प्रकार की सुधारात्मक नीति अपनाई गई? / What type of administrative reform policy was adopted during Kanishka I’s reign?",
-    "options": {
-      "A": "केंद्रित प्रशासन (Centralized Administration)",
-      "B": "स्थानीय स्वायत्तता (Local Autonomy)",
-      "C": "सैन्य गवर्नर नियुक्ति (Military Governors)",
-      "D": "जनता परिषद (People’s Council)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "कनिष्क I ने केंद्रित प्रशासन, स्थानीय स्वायत्तता और सैन्य गवर्नर नियुक्ति की।"
-  },
-  {
-    "id": 49,
-    "question": "कनिष्क I के समय कौन सी कृषि नीति अपनाई गई? / Which agricultural policy was adopted during Kanishka I’s reign?",
-    "options": {
-      "A": "भूमि कर (Land Tax)",
-      "B": "सिंचाई प्रणाली (Irrigation System)",
-      "C": "व्यापार कर (Trade Tax)",
-      "D": "स्वतंत्र कृषक नीति (Independent Peasant Policy)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "कनिष्क I ने भूमि कर और सिंचाई प्रणाली को बढ़ावा दिया।"
-  },
-  {
-    "id": 50,
-    "question": "कनिष्क I के शासनकाल में किस प्रकार की कला और स्थापत्य में उन्नति हुई? / What type of art and architecture flourished during Kanishka I’s reign?",
-    "options": {
-      "A": "गांधार और मथुरा शैली (Gandhara & Mathura Style)",
-      "B": "हड़प्पा शैली (Harappan Style)",
-      "C": "मौर्य शैली (Mauryan Style)",
-      "D": "दक्कन शैली (Deccan Style)"
-    },
-    "answer": ["A"],
-    "explanation": "कनिष्क I के समय गांधार और मथुरा की शैली में कला और स्थापत्य में उत्कृष्ट उन्नति हुई।"
-  },
-  {
-    "id": 51,
-    "question": "कुशान साम्राज्य की राजनीतिक संरचना कैसी थी? / What was the political structure of the Kushan Empire?",
-    "options": {
-      "A": "केंद्रित राजतंत्र (Centralized Monarchy)",
-      "B": "संघीय प्रणाली (Federal System)",
-      "C": "स्थानीय स्वायत्तता (Local Autonomy)",
-      "D": "लोकतांत्रिक परिषद (Democratic Council)"
-    },
-    "answer": ["A", "C"],
-    "explanation": "कुशान साम्राज्य में केंद्रित राजतंत्र था, लेकिन स्थानीय गवर्नरों (Satraps) को कुछ स्वायत्तता दी गई।"
-  },
-  {
-    "id": 52,
-    "question": "कुशानों का Satrap सिस्टम किससे प्रेरित था? / The Kushan Satrap system was inspired by which culture?",
-    "options": {
-      "A": "इंडो-स्काइथियन्स (Indo-Scythians)",
-      "B": "रोमन साम्राज्य (Roman Empire)",
-      "C": "मौर्य साम्राज्य (Mauryan Empire)",
-      "D": "ग्रीक साम्राज्य (Greek Kingdoms)"
-    },
-    "answer": ["A", "D"],
-    "explanation": "कुशानों के Satrap प्रशासन में इंडो-स्काइथियन्स और कुछ पश्चिमी Satrap प्रथाओं का प्रभाव था।"
-  },
-  {
-    "id": 53,
-    "question": "कुशान साम्राज्य की प्रारंभिक राजधानी कौन सी थी? / What was the initial capital of the Kushan Empire?",
-    "options": {
-      "A": "पेशावर (Pushkalavati/Peshawar)",
-      "B": "मथुरा (Mathura)",
-      "C": "गांधार (Gandhara)",
-      "D": "सिंध (Sindh)"
-    },
-    "answer": ["A"],
-    "explanation": "कुशानों की प्रारंभिक राजधानी पेशावर (Pushkalavati) थी, बाद में मथुरा मुख्य केंद्र बनी।"
-  },
-  {
-    "id": 54,
-    "question": "कुशान साम्राज्य में कौन-कौन सी मुद्राएँ प्रचलित थीं? / Which currencies were prevalent in the Kushan Empire?",
-    "options": {
-      "A": "सोने के सिक्के (Gold Coins)",
-      "B": "चांदी के सिक्के (Silver Coins)",
-      "C": "तांबे के सिक्के (Copper Coins)",
-      "D": "कांस्य के सिक्के (Bronze Coins)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "कुशान साम्राज्य में सोने, चांदी और तांबे के सिक्के प्रचलित थे।"
-  },
-  {
-    "id": 55,
-    "question": "कुशानों के सिक्कों पर कौन-कौन से प्रतीक/देवता दिखाए गए थे? / Which symbols/deities appear on Kushan coins?",
-    "options": {
-      "A": "ग्रीक देवता (Greek Deities)",
-      "B": "हिंदू देवता (Hindu Deities)",
-      "C": "ज़ोरोएस्ट्रियन प्रतीक (Zoroastrian Symbols)",
-      "D": "रोमन सम्राट (Roman Emperor)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "कुशानों के सिक्कों पर ग्रीक, हिंदू और ज़ोरोएस्ट्रियन प्रतीक अंकित थे।"
-  },
-  {
-    "id": 56,
-    "question": "कुशानों के व्यापारिक नेटवर्क में कौन-कौन शामिल थे? / Which trade networks were part of Kushan commerce?",
-    "options": {
-      "A": "सिल्क रोड (Silk Route)",
-      "B": "इंडो-रोमन व्यापार (Indo-Roman Trade)",
-      "C": "दक्कन मार्ग (Deccan Route)",
-      "D": "पर्शियन मार्ग (Persian Route)"
-    },
-    "answer": ["A", "B", "D"],
-    "explanation": "कुशान साम्राज्य सिल्क रोड, इंडो-रोमन व्यापार और पर्शियन मार्ग के माध्यम से सक्रिय व्यापार करता था।"
-  },
-  {
-    "id": 57,
-    "question": "कुशानों की कृषि प्रणाली का क्या आधार था? / What supported the Kushan agricultural system?",
-    "options": {
-      "A": "सिंचाई (Irrigation)",
-      "B": "प्राकृतिक वर्षा (Natural Rainfall)",
-      "C": "व्यापार कर (Trade Tax)",
-      "D": "जैविक खेती (Organic Farming)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "कुशानों में कृषि सिंचाई और प्राकृतिक वर्षा दोनों पर आधारित थी।"
-  },
-  {
-    "id": 58,
-    "question": "कनिष्क I ने किस धर्म को प्रमुख रूप से बढ़ावा दिया? / Which religion did Kanishka I particularly promote?",
-    "options": {
-      "A": "महायान बौद्ध धर्म (Mahayana Buddhism)",
-      "B": "ब्राह्मणिक हिंदू धर्म (Brahmanical Hinduism)",
-      "C": "ज़ोरोएस्ट्रियन धर्म (Zoroastrianism)",
-      "D": "जैन धर्म (Jainism)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "कनिष्क I ने महायान बौद्ध धर्म, ब्राह्मणिक हिंदू धर्म और ज़ोरोएस्ट्रियन धर्म को बढ़ावा दिया।"
-  },
-  {
-    "id": 59,
-    "question": "कनिष्क I ने कौन सा बौद्ध परिषद आयोजित किया? / Which Buddhist council did Kanishka I convene?",
-    "options": {
-      "A": "चौथा बौद्ध परिषद (Fourth Buddhist Council)",
-      "B": "तृतीय बौद्ध परिषद (Third Buddhist Council)",
-      "C": "द्वितीय बौद्ध परिषद (Second Buddhist Council)",
-      "D": "सर्वमान्य बौद्ध परिषद (Universal Buddhist Council)"
-    },
-    "answer": ["A"],
-    "explanation": "कनिष्क I ने चौथा बौद्ध परिषद आयोजित किया, जो महायान बौद्ध धर्म के विकास में महत्वपूर्ण था।"
-  },
-  {
-    "id": 60,
-    "question": "कुशानों के कला और स्थापत्य में कौन सी दो प्रमुख शैलियाँ थीं? / Which were the two major art & architectural styles of Kushans?",
-    "options": {
-      "A": "गांधार कला (Gandhara Art)",
-      "B": "मथुरा स्कूल (Mathura School)",
-      "C": "हड़प्पा शैली (Harappan Style)",
-      "D": "मौर्य शैली (Mauryan Style)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "कुशानों में गांधार कला (हेल्लेनिस्टिक प्रभाव) और मथुरा स्कूल (भारतीय शैली) प्रमुख थीं।"
-  },
-  {
-    "id": 61,
-    "question": "कुशानों की भाषा और लिपियाँ कौन-कौन सी थीं? / Which languages & scripts were used by Kushans?",
-    "options": {
-      "A": "ग्रीक (Greek)",
-      "B": "बैक्ट्रियन (Bactrian)",
-      "C": "संस्कृत (Sanskrit)",
-      "D": "पर्शियन (Persian)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "कुशानों ने ग्रीक, बैक्ट्रियन और संस्कृत लिपियों का उपयोग किया।"
-  },
-  {
-    "id": 62,
-    "question": "कुशानों के विदेशी संपर्कों में किस-किस देश/क्षेत्र शामिल थे? / Which countries/regions were in contact with Kushans?",
-    "options": {
-      "A": "रोम (Rome)",
-      "B": "केंद्रीय एशिया (Central Asia)",
-      "C": "चीन (China)",
-      "D": "दक्कन (Deccan)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "कुशानों के संपर्क रोम, केंद्रीय एशिया और चीन के साथ थे।"
-  },
-  {
-    "id": 63,
-    "question": "कुशानों के सिक्कों पर राजा के अलावा और क्या दिखाया गया? / What besides the king appeared on Kushan coins?",
-    "options": {
-      "A": "देवता (Deities)",
-      "B": "सांकेतिक प्रतीक (Symbolic Icons)",
-      "C": "भूगोलिक नक्शे (Geographical Maps)",
-      "D": "सैनिक चित्र (Military Figures)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "कुशानों के सिक्कों पर देवता और सांकेतिक प्रतीक अंकित थे, भूगोलिक नक्शे या सैनिक चित्र नहीं।"
-  },
-  {
-    "id": 64,
-    "question": "कुशानों की आर्थिक गतिविधियों में कौन-कौन सी शामिल थीं? / Which were the major economic activities of Kushans?",
-    "options": {
-      "A": "व्यापार (Trade)",
-      "B": "कृषि (Agriculture)",
-      "C": "खनन (Mining)",
-      "D": "सिक्का निर्माण (Coinage)"
-    },
-    "answer": ["A", "B", "D"],
-    "explanation": "कुशानों की अर्थव्यवस्था में व्यापार, कृषि और सिक्का निर्माण प्रमुख थे।"
-  },
-  {
-    "id": 65,
-    "question": "कुशानों ने सिल्क रोड के माध्यम से कौन-कौन से वस्त्र और वस्तुएँ व्यापार में लाए? / Which goods were traded via Silk Route under Kushans?",
-    "options": {
-      "A": "रेशम (Silk)",
-      "B": "मसाले (Spices)",
-      "C": "रत्न (Gems)",
-      "D": "लोहे के औज़ार (Iron Tools)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "कुशानों ने सिल्क रोड के माध्यम से रेशम, मसाले और रत्नों का व्यापार किया।"
-  },
-  {
-    "id": 66,
-    "question": "कुशानों की प्रशासनिक प्रणाली में स्थानीय गवर्नरों को क्या कहा जाता था? / What were local governors called in Kushan administration?",
-    "options": {
-      "A": "Satraps",
-      "B": "Maharajas",
-      "C": "Chancellors",
-      "D": "Senapati"
-    },
-    "answer": ["A"],
-    "explanation": "कुशानों में स्थानीय गवर्नरों को Satraps कहा जाता था।"
-  },
-  {
-    "id": 67,
-    "question": "कुशानों की कला पर कौन-कौन से बाहरी प्रभाव थे? / Which external influences were seen in Kushan art?",
-    "options": {
-      "A": "हेल्लेनिस्टिक प्रभाव (Hellenistic Influence)",
-      "B": "रोमन प्रभाव (Roman Influence)",
-      "C": "मौर्य शैली (Mauryan Style)",
-      "D": "मेसोपोटामियन प्रभाव (Mesopotamian Influence)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "कुशानों की कला पर हेल्लेनिस्टिक और रोमन प्रभाव देखा गया।"
-  },
-  {
-    "id": 68,
-    "question": "कुशानों के समय मथुरा क्षेत्र किस कारण से प्रसिद्ध था? / Why was Mathura region famous during Kushan period?",
-    "options": {
-      "A": "कृषि (Agriculture)",
-      "B": "कला और मूर्तिकला (Art & Sculpture)",
-      "C": "व्यापार (Trade)",
-      "D": "सैनिक प्रशिक्षण (Military Training)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "मथुरा कृषि, कला और व्यापार के लिए प्रसिद्ध था।"
-  },
-  {
-    "id": 69,
-    "question": "कुशानों के शासनकाल में कौन-कौन से धर्म एक साथ फल-फूल रहे थे? / Which religions flourished together during Kushan reign?",
-    "options": {
-      "A": "बौद्ध धर्म (Buddhism)",
-      "B": "हिंदू धर्म (Hinduism)",
-      "C": "ज़ोरोएस्ट्रियन धर्म (Zoroastrianism)",
-      "D": "जैन धर्म (Jainism)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "कुशानों के समय बौद्ध, हिंदू और ज़ोरोएस्ट्रियन धर्म एक साथ फल-फूल रहे थे।"
-  },
-  {
-    "id": 70,
-    "question": "कुशानों के विदेशी संपर्कों के माध्यम से कौन-कौन से लाभ हुए? / What benefits resulted from Kushan foreign contacts?",
-    "options": {
-      "A": "वाणिज्यिक लाभ (Commercial Gains)",
-      "B": "सांस्कृतिक आदान-प्रदान (Cultural Exchange)",
-      "C": "सैनिक गठबंधन (Military Alliances)",
-      "D": "भाषाई प्रसार (Language Spread)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "कुशानों के विदेशी संपर्कों से वाणिज्यिक, सांस्कृतिक और सैनिक लाभ हुए।"
-  },
-  {
-    "id": 71,
-    "question": "पश्चिमी सातपथियों (Western Satraps) को और किस नाम से जाना जाता था? / What was another name for Western Satraps?",
-    "options": {
-      "A": "खत्रपस (Kshatrapas)",
-      "B": "मौर्य (Mauryas)",
-      "C": "शुंग (Shungas)",
-      "D": "गुप्त (Guptas)"
-    },
-    "answer": ["A"],
-    "explanation": "Western Satraps को खत्रपस (Kshatrapas) के नाम से भी जाना जाता था।"
-  },
-  {
-    "id": 72,
-    "question": "पश्चिमी सातपथियों की उत्पत्ति किस जनजाति से हुई थी? / Which tribe were the Western Satraps originally from?",
-    "options": {
-      "A": "इंडो-स्काइथियन्स (Indo-Scythians)",
-      "B": "इंडो-पार्थियन (Indo-Parthians)",
-      "C": "मौर्य (Mauryas)",
-      "D": "गुप्त (Guptas)"
-    },
-    "answer": ["A"],
-    "explanation": "Western Satraps की उत्पत्ति इंडो-स्काइथियन्स (Indo-Scythian) जनजाति से हुई थी।"
-  },
-  {
-    "id": 73,
-    "question": "पश्चिमी सातपथियों का मुख्य क्षेत्र कौन सा था? / What was the main territory of the Western Satraps?",
-    "options": {
-      "A": "गुजरात (Gujarat)",
-      "B": "मालवा (Malwa)",
-      "C": "काठियावाड़ (Kathiawar)",
-      "D": "उत्तर प्रदेश (Uttar Pradesh)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "Western Satraps का क्षेत्र मुख्य रूप से गुजरात, मालवा और काठियावाड़ में फैला था।"
-  },
-  {
-    "id": 74,
-    "question": "पश्चिमी सातपथियों के कुछ हिस्सों में कौन सा राज्य शामिल था? / Which part of India was also included in Western Satraps’ territory?",
-    "options": {
-      "A": "महाराष्ट्र (Maharashtra)",
-      "B": "राजस्थान (Rajasthan)",
-      "C": "बिहार (Bihar)",
-      "D": "पंजाब (Punjab)"
-    },
-    "answer": ["A"],
-    "explanation": "Western Satraps का कुछ क्षेत्र महाराष्ट्र में भी शामिल था।"
-  },
-  {
-    "id": 75,
-    "question": "पश्चिमी सातपथियों के प्रमुख शासकों में से एक कौन था? / Who was one of the important rulers of Western Satraps?",
-    "options": {
-      "A": "चष्टाना (Chashtana)",
-      "B": "कुजुला कदफिसेस (Kujula Kadphises)",
-      "C": "विमा कदफिसेस (Vima Kadphises)",
-      "D": "कनिष्क I (Kanishka I)"
-    },
-    "answer": ["A"],
-    "explanation": "चष्टाना (Chashtana) पश्चिमी सातपथियों के प्रमुख शासकों में से एक थे।"
-  },
-  {
-    "id": 76,
-    "question": "चष्टाना के शासनकाल का अनुमानित समय क्या है? / What is the approximate reign period of Chashtana?",
-    "options": {
-      "A": "c. 78–130 CE",
-      "B": "c. 30–80 CE",
-      "C": "c. 127–150 CE",
-      "D": "c. 50–100 CE"
-    },
-    "answer": ["A"],
-    "explanation": "चष्टाना का शासनकाल लगभग 78–130 CE माना जाता है।"
-  },
-  {
-    "id": 77,
-    "question": "पश्चिमी सातपथियों की प्रशासनिक प्रणाली किसकी प्रेरणा से थी? / The administrative system of Western Satraps was inspired by which culture?",
-    "options": {
-      "A": "इंडो-स्काइथियन्स (Indo-Scythians)",
-      "B": "कुशान (Kushan)",
-      "C": "गुप्त (Guptas)",
-      "D": "मौर्य (Mauryas)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Western Satraps की प्रशासनिक प्रणाली इंडो-स्काइथियन्स से प्रेरित थी, और कुछ तत्व कुशानों से लिए गए थे।"
-  },
-  {
-    "id": 78,
-    "question": "पश्चिमी सातपथियों के सिक्कों पर आमतौर पर क्या अंकित होता था? / What was typically depicted on Western Satraps’ coins?",
-    "options": {
-      "A": "राजा का चित्र (King’s Image)",
-      "B": "देवताओं के प्रतीक (Deity Symbols)",
-      "C": "सैनिक चित्र (Military Figures)",
-      "D": "भूगोलिक नक्शे (Geographical Maps)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Western Satraps के सिक्कों पर राजा और देवताओं के प्रतीक दिखाई देते थे।"
-  },
-  {
-    "id": 79,
-    "question": "पश्चिमी सातपथियों का व्यापार मुख्य रूप से किसके माध्यम से होता था? / Through which trade route did Western Satraps primarily trade?",
-    "options": {
-      "A": "सिल्क रोड (Silk Route)",
-      "B": "अशोक मार्ग (Ashoka Route)",
-      "C": "पर्शियन मार्ग (Persian Route)",
-      "D": "दक्कन मार्ग (Deccan Route)"
-    },
-    "answer": ["A", "C"],
-    "explanation": "Western Satraps का व्यापार मुख्य रूप से सिल्क रोड और पर्शियन मार्ग के माध्यम से होता था।"
-  },
-  {
-    "id": 80,
-    "question": "पश्चिमी सातपथियों की सांस्कृतिक विरासत में कौन-कौन सी प्रमुख विशेषताएँ थीं? / What were major cultural features of Western Satraps?",
-    "options": {
-      "A": "सिक्का कला (Coin Art)",
-      "B": "धार्मिक सहिष्णुता (Religious Tolerance)",
-      "C": "गांधार और मथुरा कला (Gandhara & Mathura Art)",
-      "D": "मौर्य स्थापत्य (Mauryan Architecture)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "Western Satraps की सांस्कृतिक विरासत में सिक्का कला, धार्मिक सहिष्णुता और गांधार एवं मथुरा कला प्रमुख थी।"
-  },
-  {
-    "id": 81,
-    "question": "रुद्रदमन I किस वंश के शासक थे? / Rudradaman I belonged to which dynasty?",
-    "options": {
-      "A": "पश्चिमी सातपथी (Western Satraps)",
-      "B": "कुशान (Kushan)",
-      "C": "मौर्य (Maurya)",
-      "D": "गुप्त (Gupta)"
-    },
-    "answer": ["A"],
-    "explanation": "रुद्रदमन I पश्चिमी सातपथी (Western Satraps) वंश के शासक थे।"
-  },
-  {
-    "id": 82,
-    "question": "रुद्रदमन I का सम्बन्ध किसके साथ था? / What was Rudradaman I’s relation with Chashtana?",
-    "options": {
-      "A": "पुत्र (Son)",
-      "B": "भाई (Brother)",
-      "C": "पिता (Father)",
-      "D": "नाती (Grandson)"
-    },
-    "answer": ["A"],
-    "explanation": "रुद्रदमन I, चष्टाना (Chashtana) के पुत्र थे।"
-  },
-  {
-    "id": 83,
-    "question": "रुद्रदमन I की उपाधि क्या थी? / What title did Rudradaman I hold?",
-    "options": {
-      "A": "महाक्षत्रप (Mahakshatrap)",
-      "B": "राजा (Raja)",
-      "C": "सम्राट (Emperor)",
-      "D": "चाणक्य (Chanakya)"
-    },
-    "answer": ["A"],
-    "explanation": "रुद्रदमन I को महाक्षत्रप (Mahakshatrap) कहा जाता था।"
-  },
-  {
-    "id": 84,
-    "question": "रुद्रदमन I के साम्राज्य का क्षेत्र कौन-कौन सा था? / Which territories were part of Rudradaman I’s empire?",
-    "options": {
-      "A": "गुजरात (Gujarat)",
-      "B": "मालवा (Malwa)",
-      "C": "काठियावाड़ (Kathiawar)",
-      "D": "उत्तर प्रदेश (Uttar Pradesh)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "रुद्रदमन I के शासन क्षेत्र में गुजरात, मालवा और काठियावाड़ शामिल थे।"
-  },
-  {
-    "id": 85,
-    "question": "रुद्रदमन I का शासनकाल लगभग कब था? / Approximate reign of Rudradaman I?",
-    "options": {
-      "A": "c. 130–150 CE",
-      "B": "c. 78–130 CE",
-      "C": "c. 127–150 CE",
-      "D": "c. 35–78 CE"
-    },
-    "answer": ["A"],
-    "explanation": "रुद्रदमन I का शासनकाल लगभग 130–150 CE माना जाता है।"
-  },
-  {
-    "id": 86,
-    "question": "रुद्रदमन I की उपलब्धियाँ कौन-कौन सी थीं? / What were the achievements of Rudradaman I?",
-    "options": {
-      "A": "क्षेत्र का विस्तार (Territorial Expansion)",
-      "B": "पश्चिमी सातपथियों का पुनर्निर्माण (Restoration of Western Satraps)",
-      "C": "सिक्का सुधार (Coin Reforms)",
-      "D": "धर्मसभा की स्थापना (Religious Council)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "रुद्रदमन I ने अपने क्षेत्र का विस्तार किया, Western Satraps का पुनर्निर्माण किया और सिक्का सुधार किए।"
-  },
-  {
-    "id": 87,
-    "question": "रुद्रदमन I की प्रसिद्ध शिलालेख कौन-सी है? / Which inscription is Rudradaman I famous for?",
-    "options": {
-      "A": "सातपथीय शिलालेख (Junagadh Rock Inscription)",
-      "B": "अशोक शिलालेख (Ashokan Edict)",
-      "C": "मौर्य शिलालेख (Mauryan Edict)",
-      "D": "कुशान शिलालेख (Kushan Inscription)"
-    },
-    "answer": ["A"],
-    "explanation": "रुद्रदमन I की प्रसिद्ध शिलालेख ज्यूनागढ़ शिला (Junagadh Rock Inscription) है।"
-  },
-  {
-    "id": 88,
-    "question": "रुद्रदमन I ने किस क्षेत्र को मुख्य रूप से मजबूत किया? / Which region did Rudradaman I primarily consolidate?",
-    "options": {
-      "A": "गुजरात (Gujarat)",
-      "B": "मालवा (Malwa)",
-      "C": "काठियावाड़ (Kathiawar)",
-      "D": "महाराष्ट्र (Maharashtra)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "रुद्रदमन I ने मुख्य रूप से गुजरात, मालवा और काठियावाड़ क्षेत्रों को मजबूत किया।"
-  },
-  {
-    "id": 89,
-    "question": "रुद्रदमन I को पश्चिमी सातपथियों के शासन में क्यों महत्वपूर्ण माना जाता है? / Why is Rudradaman I considered significant in Western Satraps’ history?",
-    "options": {
-      "A": "शक्ति और विस्तार (Powerful ruler & Expansion)",
-      "B": "सांस्कृतिक योगदान (Cultural Contributions)",
-      "C": "सिक्का सुधार (Coinage Reforms)",
-      "D": "धार्मिक सुधार (Religious Reforms)"
-    },
-    "answer": ["A", "C"],
-    "explanation": "रुद्रदमन I को शक्तिशाली शासक और सिक्का सुधारक के रूप में महत्व दिया जाता है।"
-  },
-  {
-    "id": 90,
-    "question": "रुद्रदमन I ने किन क्षेत्रों का पुनर्निर्माण किया? / Which areas did Rudradaman I restore?",
-    "options": {
-      "A": "पश्चिमी सातपथियों का राज्य (Western Satraps’ Territories)",
-      "B": "कुशान साम्राज्य (Kushan Empire)",
-      "C": "मौर्य साम्राज्य (Mauryan Empire)",
-      "D": "गुप्त साम्राज्य (Gupta Empire)"
-    },
-    "answer": ["A"],
-    "explanation": "रुद्रदमन I ने Western Satraps के क्षेत्रों का पुनर्निर्माण किया।"
-  },
-  {
-    "id": 91,
-    "question": "रुद्रदमन I ने किन क्षेत्रों के शासकों को पराजित किया? / Which regional rulers did Rudradaman I subdue?",
-    "options": {
-      "A": "गुजरात (Gujarat)",
-      "B": "मालवा (Malwa)",
-      "C": "काठियावाड़ (Kathiawar)",
-      "D": "राजस्थान (Rajasthan)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "रुद्रदमन I ने गुजरात और मालवा के स्थानीय शासकों को पराजित किया।"
-  },
-  {
-    "id": 92,
-    "question": "रुद्रदमन I किस क्षेत्र में शांति और व्यवस्था बहाल करने के लिए प्रसिद्ध थे? / In which region was Rudradaman I known for restoring order?",
-    "options": {
-      "A": "सौराष्ट्र (Saurashtra)",
-      "B": "गुजरात (Gujarat)",
-      "C": "मालवा (Malwa)",
-      "D": "महाराष्ट्र (Maharashtra)"
-    },
-    "answer": ["A"],
-    "explanation": "रुद्रदमन I सौराष्ट्र क्षेत्र में शांति और व्यवस्था बहाल करने के लिए प्रसिद्ध थे।"
-  },
-  {
-    "id": 93,
-    "question": "रुद्रदमन I की सैन्य ताकत का मुख्य आधार क्या था? / What was the main basis of Rudradaman I’s military strength?",
-    "options": {
-      "A": "विशाल सेना (Large Army)",
-      "B": "प्रभावी प्रशासन (Effective Administration)",
-      "C": "सिंचाई प्रणाली (Irrigation System)",
-      "D": "धार्मिक सुधार (Religious Reforms)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "रुद्रदमन I की सैन्य ताकत में विशाल सेना और प्रभावी प्रशासन शामिल थे।"
-  },
-  {
-    "id": 94,
-    "question": "रुद्रदमन I ने प्रशासन में कौन सा सिस्टम जारी रखा? / Which administrative system did Rudradaman I continue?",
-    "options": {
-      "A": "महाक्षत्रप प्रणाली (Mahakshatrap System)",
-      "B": "मौर्य प्रणाली (Mauryan System)",
-      "C": "गुप्त प्रणाली (Gupta System)",
-      "D": "कुशान प्रणाली (Kushan System)"
-    },
-    "answer": ["A"],
-    "explanation": "रुद्रदमन I ने Mahakshatrap (महाक्षत्रप) प्रणाली जारी रखी।"
-  },
-  {
-    "id": 95,
-    "question": "स्थानीय प्रशासन कौन संभालता था? / Who handled local administration under Rudradaman I?",
-    "options": {
-      "A": "खत्रपस (Kshatraps)",
-      "B": "महाराजा (Maharajas)",
-      "C": "सैनिक जनरल (Military Generals)",
-      "D": "ग्राम प्रधान (Village Heads)"
-    },
-    "answer": ["A"],
-    "explanation": "स्थानीय प्रशासन खत्रपस (Kshatraps) द्वारा संभाला जाता था।"
-  },
-  {
-    "id": 96,
-    "question": "स्थानीय प्रशासन के माध्यम से रुद्रदमन I को क्या लाभ मिला? / What benefit did Rudradaman I gain from local administration?",
-    "options": {
-      "A": "सरल प्रशासन (Smooth Governance)",
-      "B": "सैन्य विस्तार (Military Expansion)",
-      "C": "धार्मिक समरसता (Religious Harmony)",
-      "D": "व्यापारिक नियंत्रण (Trade Control)"
-    },
-    "answer": ["A", "D"],
-    "explanation": "स्थानीय प्रशासन के माध्यम से Rudradaman I को सरल प्रशासन और व्यापारिक नियंत्रण में लाभ मिला।"
-  },
-  {
-    "id": 97,
-    "question": "रुद्रदमन I की राजस्व प्रणाली का मुख्य स्रोत क्या था? / What was the primary source of revenue for Rudradaman I?",
-    "options": {
-      "A": "भूमि कर (Land Revenue)",
-      "B": "व्यापार कर (Trade Tax)",
-      "C": "सिक्का कर (Coinage Tax)",
-      "D": "गृह कर (House Tax)"
-    },
-    "answer": ["A"],
-    "explanation": "रुद्रदमन I की राजस्व प्रणाली में भूमि कर मुख्य स्रोत था।"
-  },
-  {
-    "id": 98,
-    "question": "सिक्कों का उपयोग रुद्रदमन I के शासन में किन कार्यों के लिए होता था? / For what purposes was coinage used under Rudradaman I?",
-    "options": {
-      "A": "व्यापार (Trade)",
-      "B": "सैनिकों का वेतन (Paying Soldiers)",
-      "C": "धार्मिक अनुष्ठान (Religious Ceremonies)",
-      "D": "सार्वजनिक निर्माण (Public Works)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "सिक्कों का उपयोग मुख्य रूप से व्यापार और सैनिकों का वेतन देने में किया जाता था।"
-  },
-  {
-    "id": 99,
-    "question": "रुद्रदमन I की सैन्य और प्रशासनिक प्रणाली का क्या महत्व था? / What was the significance of Rudradaman I’s military & administrative system?",
-    "options": {
-      "A": "क्षेत्रीय स्थिरता (Regional Stability)",
-      "B": "व्यापारिक वृद्धि (Trade Expansion)",
-      "C": "धार्मिक पुनर्निर्माण (Religious Revival)",
-      "D": "सांस्कृतिक परिवर्तन (Cultural Change)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Rudradaman I की सैन्य और प्रशासनिक प्रणाली ने क्षेत्रीय स्थिरता और व्यापारिक वृद्धि सुनिश्चित की।"
-  },
-  {
-    "id": 100,
-    "question": "रुद्रदमन I के शासन में किन क्षेत्रों में प्रशासन और सेना का बेहतर समन्वय था? / In which areas was better coordination between administration and army under Rudradaman I?",
-    "options": {
-      "A": "गुजरात (Gujarat)",
-      "B": "मालवा (Malwa)",
-      "C": "सौराष्ट्र (Saurashtra)",
-      "D": "महाराष्ट्र (Maharashtra)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "Rudradaman I के शासन में गुजरात, मालवा और सौराष्ट्र क्षेत्रों में प्रशासन और सेना का समन्वय बेहतर था।"
-  },
-  {
-    "id": 101,
-    "question": "रुद्रदमन I की प्रशासनिक प्रणाली में Satraps का क्या योगदान था? / What was the contribution of Satraps in Rudradaman I’s administration?",
-    "options": {
-      "A": "स्थानीय प्रशासन (Local Administration)",
-      "B": "सैन्य निगरानी (Military Oversight)",
-      "C": "कर संग्रह (Revenue Collection)",
-      "D": "धार्मिक अनुष्ठान (Religious Ceremonies)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "Satraps ने Rudradaman I की प्रशासनिक प्रणाली में स्थानीय प्रशासन, सैन्य निगरानी और कर संग्रह में योगदान दिया।"
-  },
-  {
-    "id": 102,
-    "question": "रुद्रदमन I ने किन क्षेत्रों में सेना को प्रमुख रूप से तैनात किया? / Where was the army primarily deployed under Rudradaman I?",
-    "options": {
-      "A": "सीमा क्षेत्र (Border Areas)",
-      "B": "सौराष्ट्र (Saurashtra)",
-      "C": "मालवा (Malwa)",
-      "D": "गुजरात (Gujarat)"
-    },
-    "answer": ["A", "B", "C", "D"],
-    "explanation": "रुद्रदमन I ने सेना को सीमा क्षेत्र, सौराष्ट्र, मालवा और गुजरात में प्रमुख रूप से तैनात किया।"
-  },
-  {
-    "id": 103,
-    "question": "रुद्रदमन I के शासनकाल में राजस्व संग्रह के कौन-कौन से तरीके थे? / Which methods were used for revenue collection under Rudradaman I?",
-    "options": {
-      "A": "भूमि कर (Land Revenue)",
-      "B": "सिक्कों का उपयोग (Use of Coins)",
-      "C": "व्यापार कर (Trade Tax)",
-      "D": "स्थानीय उपकर (Local Levies)"
-    },
-    "answer": ["A", "B", "D"],
-    "explanation": "राजस्व संग्रह के लिए भूमि कर, सिक्कों का उपयोग और स्थानीय उपकर मुख्य रूप से लागू थे।"
-  },
-  {
-    "id": 104,
-    "question": "रुद्रदमन I की सेना और प्रशासन का संयुक्त उद्देश्य क्या था? / What was the joint purpose of army and administration under Rudradaman I?",
-    "options": {
-      "A": "क्षेत्रीय नियंत्रण (Regional Control)",
-      "B": "व्यापार और सुरक्षा (Trade & Security)",
-      "C": "धार्मिक पुनर्निर्माण (Religious Revival)",
-      "D": "सांस्कृतिक विस्तार (Cultural Expansion)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Rudradaman I की सेना और प्रशासन का संयुक्त उद्देश्य क्षेत्रीय नियंत्रण और व्यापार-सुरक्षा सुनिश्चित करना था।"
-  },
-  {
-    "id": 105,
-    "question": "रुद्रदमन I के प्रशासनिक सुधार का कौन सा पहलू सबसे महत्वपूर्ण था? / Which aspect of Rudradaman I’s administrative reforms was most significant?",
-    "options": {
-      "A": "Satrapy system का जारी रहना (Continuation of Satrapy System)",
-      "B": "राजस्व संग्रह में सुधार (Revenue Collection Reforms)",
-      "C": "धार्मिक अनुष्ठानों का आयोजन (Religious Ceremonies)",
-      "D": "सिक्का निर्माण का सुधार (Coinage Reforms)"
-    },
-    "answer": ["A", "B", "D"],
-    "explanation": "Rudradaman I के प्रशासनिक सुधारों में Satrapy system, राजस्व सुधार और सिक्का निर्माण सबसे महत्वपूर्ण थे।"
-  },
-  {
-    "id": 106,
-    "question": "रुद्रदमन I की सेना में किस प्रकार की संरचना थी? / What was the structure of Rudradaman I’s army?",
-    "options": {
-      "A": "स्थायी सेना (Standing Army)",
-      "B": "सैन्य जनजातियाँ (Tribal Militias)",
-      "C": "सीमा चौकियाँ (Border Garrisons)",
-      "D": "नौसेना (Navy)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "Rudradaman I की सेना में स्थायी सेना, सैन्य जनजातियाँ और सीमा चौकियाँ शामिल थीं।"
-  },
-  {
-    "id": 107,
-    "question": "रुद्रदमन I के शासन में सिक्का प्रणाली का क्या महत्व था? / What was the significance of coinage system under Rudradaman I?",
-    "options": {
-      "A": "व्यापार में सुविधा (Facilitated Trade)",
-      "B": "सैनिकों को वेतन देने में उपयोग (Paying Soldiers)",
-      "C": "कर संग्रह में आसानी (Ease of Tax Collection)",
-      "D": "धार्मिक दान (Religious Offerings)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "सिक्का प्रणाली व्यापार, सैनिक वेतन और कर संग्रह में उपयोगी थी।"
-  },
-  {
-    "id": 108,
-    "question": "ज्यूनागढ़ शिला लेख (Junagadh Rock Inscription) किस भाषा में लिखा गया था? / In which language was Junagadh Rock Inscription written?",
+    "question": "एरण के स्तंभ पर किस भाषा और लिपि में लेख मिलता है? / In which language and script is the inscription on Eran pillar?",
     "options": {
       "A": "संस्कृत (Sanskrit)",
       "B": "प्राकृत (Prakrit)",
-      "C": "बैक्ट्रियन (Bactrian)",
-      "D": "खरोष्ठी (Kharosthi)"
-    },
-    "answer": ["A"],
-    "explanation": "ज्यूनागढ़ शिला लेख भारत में लिखा गया पहला लंबा संस्कृत लेख है।"
-  },
-  {
-    "id": 109,
-    "question": "ज्यूनागढ़ शिला लेख में किस लिपि का उपयोग हुआ था? / Which script was used in Junagadh Rock Inscription?",
-    "options": {
-      "A": "ब्राह्मी (Brahmi)",
-      "B": "खरोष्ठी (Kharosthi)",
-      "C": "देवनागरी (Devanagari)",
-      "D": "ग्रीक (Greek)"
-    },
-    "answer": ["A"],
-    "explanation": "ज्यूनागढ़ शिला लेख ब्राह्मी लिपि में खुदवाया गया था।"
-  },
-  {
-    "id": 110,
-    "question": "ज्यूनागढ़ शिला लेख में रुद्रदमन I की कौन-कौन सी विशेषताएँ बताई गई हैं? / What qualities of Rudradaman I are mentioned in Junagadh Inscription?",
-    "options": {
-      "A": "धार्मिक (Dharmic)",
-      "B": "साहसी (Courageous)",
-      "C": "न्यायप्रिय (Just)",
-      "D": "सांस्कृतिक विद्वान (Cultural Scholar)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "लेख में Rudradaman I को धर्मप्रिय, साहसी और न्यायप्रिय शासक के रूप में वर्णित किया गया है।"
-  },
-  {
-    "id": 111,
-    "question": "ज्यूनागढ़ शिला लेख किस जलाशय की मरम्मत का उल्लेख करता है? / Which water body repair is mentioned in Junagadh Inscription?",
-    "options": {
-      "A": "सुदर्शन ताल (Sudarshana Lake)",
-      "B": "गंगा नदी (Ganga River)",
-      "C": "यमुना नदी (Yamuna River)",
-      "D": "सिन्धु नदी (Indus River)"
-    },
-    "answer": ["A"],
-    "explanation": "लेख में सुदर्शन ताल की मरम्मत का उल्लेख किया गया है।"
-  },
-  {
-    "id": 112,
-    "question": "सुदर्शन ताल की मरम्मत किसने पहले की थी, और रुद्रदमन I ने इसे कब सुधार किया? / Who repaired Sudarshana Lake previously and who repaired it later?",
-    "options": {
-      "A": "मौर्य साम्राज्य द्वारा निर्मित (Built by Mauryas)",
-      "B": "चंद्रगुप्त द्वारा सुधार (Repaired by Chandragupta)",
-      "C": "रुद्रदमन I द्वारा सुधार (Repaired by Rudradaman I)",
-      "D": "गुप्त शासक द्वारा सुधार (Repaired by Gupta rulers)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "सुदर्शन ताल को मौर्यों ने बनाया, चंद्रगुप्त ने पहले सुधारा और Rudradaman I ने पुनः मरम्मत की।"
-  },
-  {
-    "id": 113,
-    "question": "ज्यूनागढ़ शिला लेख से हमें पश्चिमी सातपथियों के प्रशासन के बारे में क्या जानकारी मिलती है? / What insights about Western Satraps’ administration do we get from Junagadh Inscription?",
-    "options": {
-      "A": "सामाजिक जीवन (Social Life)",
-      "B": "सिंचाई व्यवस्था (Irrigation & Water Management)",
-      "C": "सैनिक संरचना (Military Structure)",
-      "D": "धार्मिक प्रथाएँ (Religious Practices)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "लेख से प्रशासन, सामाजिक जीवन और जल प्रबंधन की जानकारी मिलती है।"
-  },
-  {
-    "id": 114,
-    "question": "रुद्रदमन I की आर्थिक नीतियों में मुख्य योगदान क्या था? / What were the main economic contributions of Rudradaman I?",
-    "options": {
-      "A": "सिंचाई परियोजनाएँ (Irrigation Projects)",
-      "B": "गुजरात के बंदरगाहों का विकास (Development of Gujarat Ports)",
-      "C": "सिक्का प्रणाली (Coinage System)",
-      "D": "चावल का निर्यात (Rice Export)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "Rudradaman I ने सिंचाई परियोजनाएँ, बंदरगाहों का विकास और सिक्का प्रणाली में सुधार किया।"
-  },
-  {
-    "id": 115,
-    "question": "गुजरात के कौन-कौन से बंदरगाह रुद्रदमन I के शासनकाल में विकसित हुए? / Which Gujarat ports flourished under Rudradaman I?",
-    "options": {
-      "A": "भरूच (Bharuch)",
-      "B": "सोपारा (Sopara)",
-      "C": "सूरत (Surat)",
-      "D": "दमन (Daman)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Rudradaman I के शासनकाल में भरूच और सोपारा बंदरगाह मुख्य रूप से विकसित हुए।"
-  },
-  {
-    "id": 116,
-    "question": "सिंचाई परियोजनाओं का कृषि अर्थव्यवस्था में क्या योगदान था? / What was the contribution of irrigation projects to agrarian economy?",
-    "options": {
-      "A": "फसल उत्पादन में वृद्धि (Increase in Crop Yield)",
-      "B": "जल आपूर्ति में सुधार (Better Water Supply)",
-      "C": "व्यापार में वृद्धि (Trade Expansion)",
-      "D": "धार्मिक समरसता (Religious Harmony)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "सिंचाई परियोजनाओं से फसल उत्पादन और जल आपूर्ति में सुधार हुआ।"
-  },
-  {
-    "id": 117,
-    "question": "रुद्रदमन I की सिक्का प्रणाली में मुख्य विशेषताएँ क्या थीं? / What were key features of Rudradaman I’s coinage system?",
-    "options": {
-      "A": "राष्ट्राध्यक्ष का चित्र (Ruler’s Image)",
-      "B": "चाँदी के सिक्के (Silver Coins)",
-      "C": "धार्मिक प्रतीक (Religious Symbols)",
-      "D": "सोने के सिक्के (Gold Coins)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Rudradaman I के सिक्कों में शासक का चित्र और चाँदी का उपयोग प्रमुख था।"
-  },
-  {
-    "id": 118,
-    "question": "सुदर्शन ताल की मरम्मत से रुद्रदमन I का प्रशासनिक दृष्टिकोण क्या दिखता है? / What does the repair of Sudarshana Lake reflect about Rudradaman I’s administration?",
-    "options": {
-      "A": "राज्य-प्रायोजित सार्वजनिक कार्य (State-Sponsored Public Works)",
-      "B": "सैनिक प्रशिक्षण (Military Training)",
-      "C": "व्यापार नियंत्रण (Trade Regulation)",
-      "D": "धार्मिक संरक्षण (Religious Protection)"
-    },
-    "answer": ["A"],
-    "explanation": "सुदर्शन ताल की मरम्मत राज्य-प्रायोजित सार्वजनिक कार्यों की एक उदाहरण है।"
-  },
-  {
-    "id": 119,
-    "question": "रुद्रदमन I के शासनकाल में कृषि और व्यापार का सम्बन्ध कैसे था? / How were agriculture and trade linked under Rudradaman I?",
-    "options": {
-      "A": "सिंचाई परियोजनाएँ कृषि उत्पादन बढ़ाती थीं (Irrigation boosted agriculture)",
-      "B": "अधिक उत्पादन से व्यापार बढ़ा (Higher produce expanded trade)",
-      "C": "सिक्कों का उपयोग व्यापार में सुविधा लाया (Coinage facilitated trade)",
-      "D": "धार्मिक अनुष्ठानों से व्यापार नियंत्रित हुआ (Religious Ceremonies regulated trade)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "सिंचाई परियोजनाओं और सिक्का प्रणाली ने कृषि उत्पादन और व्यापार में सुधार किया।"
-  },
-  {
-    "id": 120,
-    "question": "ज्यूनागढ़ शिला लेख से क्या पता चलता है कि रुद्रदमन I का प्रशासन किस तरह का था? / What does Junagadh Inscription indicate about Rudradaman I’s administration?",
-    "options": {
-      "A": "न्यायप्रिय और धर्मनिष्ठ (Just & Dharmic)",
-      "B": "सैन्यकेंद्रित (Military Oriented)",
-      "C": "सार्वजनिक कल्याण उन्मुख (Public Welfare Oriented)",
-      "D": "धार्मिक अनुष्ठानों पर आधारित (Religious Ceremony Oriented)"
+      "C": "ब्राह्मी लिपि (Brahmi Script)",
+      "D": "खरोष्ठी लिपि (Kharosthi Script)"
     },
     "answer": ["A", "C"],
-    "explanation": "लेख से पता चलता है कि Rudradaman I का प्रशासन न्यायप्रिय और सार्वजनिक कल्याण उन्मुख था।"
+    "explanation": "एरण के स्तंभ पर संस्कृत भाषा में ब्राह्मी लिपि का उपयोग हुआ है।"
+  },
+  {
+    "id": 12,
+    "question": "सांची मंदिर संख्या 17 का महत्व क्या है? / What is the importance of Sanchi Temple No. 17?",
+    "options": {
+      "A": "सबसे प्राचीन जीवित पत्थर का मंदिर (Oldest surviving stone temple)",
+      "B": "द्रविड़ शैली का पहला उदाहरण (First example of Dravida style)",
+      "C": "गुप्त काल का उदाहरण (Example of Gupta period)",
+      "D": "बौद्ध धर्म से संबंधित (Related to Buddhism)"
+    },
+    "answer": ["A", "C", "D"],
+    "explanation": "सांची का मंदिर संख्या 17 सबसे प्राचीन पत्थर का मंदिर है, गुप्त काल का है और बौद्ध स्थल पर स्थित है।"
+  },
+  {
+    "id": 13,
+    "question": "गुप्त कालीन मंदिरों में प्रयोग होने वाली प्रमुख सामग्री क्या थी? / What was the primary material used in Gupta period temples?",
+    "options": {
+      "A": "ईंट (Brick)",
+      "B": "पत्थर (Stone)",
+      "C": "कांस्य (Bronze)",
+      "D": "लकड़ी (Wood)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "गुप्त काल में मंदिरों के निर्माण में ईंट और पत्थर दोनों का प्रयोग होता था।"
+  },
+  {
+    "id": 14,
+    "question": "भितरगांव मंदिर में किस देवी-देवता की मूर्ति प्रमुख है? / Which deity's idol is prominent in Bhitargaon Temple?",
+    "options": {
+      "A": "विष्णु (Vishnu)",
+      "B": "शिव (Shiva)",
+      "C": "देवी दुर्गा (Goddess Durga)",
+      "D": "बुद्ध (Buddha)"
+    },
+    "answer": ["B"],
+    "explanation": "भितरगांव मंदिर में मुख्य रूप से शिव की पूजा होती थी।"
+  },
+  {
+    "id": 15,
+    "question": "नचना-कुठारा पार्वती मंदिर का गर्भगृह किस विशेषता के लिए जाना जाता है? / The sanctum of Parvati Temple at Nachna Kuthara is known for which feature?",
+    "options": {
+      "A": "अंधकारमय और छोटा आकार (Dark and small size)",
+      "B": "खुला हुआ चौकोर आकार (Open square shape)",
+      "C": "बहु-द्वार (Multiple doors)",
+      "D": "अर्ध-मंडप से जुड़ा (Connected with ardha-mandapa)"
+    },
+    "answer": ["B", "D"],
+    "explanation": "नचना-कुठारा मंदिर का गर्भगृह खुला हुआ चौकोर आकार का है और अर्ध-मंडप से जुड़ा है।"
+  },
+  {
+    "id": 16,
+    "question": "तिगवा मंदिर का शिखर कैसा है? / What type of shikhara does Tigawa Temple have?",
+    "options": {
+      "A": "लैटिन क्रॉस आकार (Latin cross form)",
+      "B": "लाट-प्रकार (Latina type)",
+      "C": "घट-पल्लव प्रकार (Ghata-pallava type)",
+      "D": "वेसर प्रकार (Vesara type)"
+    },
+    "answer": ["C"],
+    "explanation": "तिगवा मंदिर का शिखर घट-पल्लव प्रकार का है, जो नागर शैली की पहचान है।"
+  },
+  {
+    "id": 17,
+    "question": "एरण के विष्णु मंदिर में किस अवतार की प्रतिमा प्रमुख है? / Which incarnation's idol is prominent in Vishnu Temple at Eran?",
+    "options": {
+      "A": "वराह (Varaha)",
+      "B": "नरसिंह (Narasimha)",
+      "C": "राम (Rama)",
+      "D": "कृष्ण (Krishna)"
+    },
+    "answer": ["A"],
+    "explanation": "एरण के विष्णु मंदिर में वराह अवतार की विशाल प्रतिमा प्रमुख है।"
+  },
+  {
+    "id": 18,
+    "question": "सांची का मंदिर संख्या 17 किस धर्म से संबंधित है? / Sanchi Temple No. 17 is related to which religion?",
+    "options": {
+      "A": "बौद्ध धर्म (Buddhism)",
+      "B": "हिंदू धर्म (Hinduism)",
+      "C": "जैन धर्म (Jainism)",
+      "D": "यहूदी धर्म (Judaism)"
+    },
+    "answer": ["A"],
+    "explanation": "सांची का मंदिर संख्या 17 बौद्ध धर्म से संबंधित है और महास्थूप परिसर में स्थित है।"
+  },
+  {
+    "id": 19,
+    "question": "गुप्त कालीन मंदिरों में मूर्तियों की मुख्य विशेषता क्या थी? / What was the main feature of sculptures in Gupta period temples?",
+    "options": {
+      "A": "आदर्शवादी मानव आकृति (Idealized human form)",
+      "B": "अतिवास्तविक आकृति (Hyper-realistic form)",
+      "C": "स्थूल और भारी संरचना (Massive and heavy structure)",
+      "D": "अतिशयोक्तिपूर्ण अलंकरण (Exaggerated ornamentation)"
+    },
+    "answer": ["A"],
+    "explanation": "गुप्त काल की मूर्तियों में आदर्शवादी और संतुलित मानव आकृतियों का प्रयोग होता था।"
+  },
+  {
+    "id": 20,
+    "question": "भितरगांव मंदिर का निर्माण किस वंश ने करवाया था? / Which dynasty built Bhitargaon Temple?",
+    "options": {
+      "A": "गुप्त वंश (Gupta Dynasty)",
+      "B": "मौर्य वंश (Maurya Dynasty)",
+      "C": "पल्लव वंश (Pallava Dynasty)",
+      "D": "चालुक्य वंश (Chalukya Dynasty)"
+    },
+    "answer": ["A"],
+    "explanation": "भितरगांव मंदिर का निर्माण गुप्त वंश के शासनकाल में हुआ था।"
+  },
+  {
+    "id": 21,
+    "question": "गुप्त काल में नागर शैली की शुरुआत किन विशेषताओं के साथ हुई? / With which features did Nagara style begin during Gupta period?",
+    "options": {
+      "A": "गर्भगृह का निर्माण (Construction of sanctum)",
+      "B": "द्रविड़ शैली के गोपुरम का समावेश (Inclusion of Dravida style gopuram)",
+      "C": "प्रारंभिक शिखर का विकास (Development of early shikhara)",
+      "D": "मंडप का समावेश (Inclusion of mandapa)"
+    },
+    "answer": ["A", "C", "D"],
+    "explanation": "गुप्त काल में नागर शैली की शुरुआत गर्भगृह, मंडप और प्रारंभिक शिखर के साथ हुई; गोपुरम द्रविड़ शैली की पहचान है।"
+  },
+  {
+    "id": 22,
+    "question": "गुप्त कालीन मंदिरों में गर्भगृह की अवधारणा किससे प्रभावित थी? / The concept of garbhagriha in Gupta temples was influenced by which?",
+    "options": {
+      "A": "वैदिक यज्ञ वेदी (Vedic yajna altar)",
+      "B": "बौद्ध चैत्यगृह (Buddhist chaitya hall)",
+      "C": "जैन बसदी (Jain basadi)",
+      "D": "महापाषाणिक संरचना (Megalithic structure)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "गुप्त काल में गर्भगृह का विचार वैदिक वेदी और बौद्ध चैत्यगृह दोनों से प्रभावित था।"
+  },
+  {
+    "id": 23,
+    "question": "नागर शैली में शिखर का प्रारंभिक रूप कैसा था? / What was the early form of shikhara in Nagara style?",
+    "options": {
+      "A": "घट-पल्लव रूप (Ghata-pallava form)",
+      "B": "रीढ़-आकार (Spine-shaped)",
+      "C": "पिरामिड आकार (Pyramidal form)",
+      "D": "गोलाकार गुंबद (Circular dome)"
+    },
+    "answer": ["A"],
+    "explanation": "गुप्त काल में नागर शैली के शिखर का प्रारंभिक रूप घट-पल्लव था, जो बाद में अधिक ऊँचा हुआ।"
+  },
+  {
+    "id": 24,
+    "question": "अंतराल (antarala) किसके बीच का भाग होता है? / Antarala is the part between which two sections?",
+    "options": {
+      "A": "गर्भगृह और मंडप (Garbhagriha and mandapa)",
+      "B": "शिखर और मंडप (Shikhara and mandapa)",
+      "C": "गर्भगृह और सभामंडप (Garbhagriha and sabhamandapa)",
+      "D": "मंडप और अर्धमंडप (Mandapa and ardhamandapa)"
+    },
+    "answer": ["A"],
+    "explanation": "अंतराल गर्भगृह और मंडप के बीच का छोटा मार्ग होता है।"
+  },
+  {
+    "id": 25,
+    "question": "गुप्त कालीन मंदिरों में किस तत्व की उत्पत्ति पहली बार स्पष्ट रूप से दिखाई देती है? / Which element is seen clearly for the first time in Gupta period temples?",
+    "options": {
+      "A": "ऊँचा चबूतरा (High plinth)",
+      "B": "शिखर (Shikhara)",
+      "C": "गोपुरम (Gopuram)",
+      "D": "प्राकार दीवार (Enclosure wall)"
+    },
+    "answer": ["B"],
+    "explanation": "गुप्त काल में पहली बार मंदिरों पर शिखर का स्पष्ट रूप से विकास हुआ।"
+  },
+  {
+    "id": 26,
+    "question": "गुप्त काल में मंदिर योजना का प्रमुख प्रकार कौन-सा था? / Which was the main type of temple plan in Gupta period?",
+    "options": {
+      "A": "आयताकार योजना (Rectangular plan)",
+      "B": "चतुर्भुज योजना (Square plan)",
+      "C": "वृत्ताकार योजना (Circular plan)",
+      "D": "षट्कोणीय योजना (Hexagonal plan)"
+    },
+    "answer": ["B"],
+    "explanation": "गुप्त काल में मंदिरों की योजना प्रायः चतुर्भुजाकार होती थी।"
+  },
+  {
+    "id": 27,
+    "question": "गुप्त काल के मंदिरों में शिखर की ऊँचाई किस कारण सीमित थी? / Why was the height of shikhara limited in Gupta temples?",
+    "options": {
+      "A": "निर्माण तकनीक की सीमा (Limitations of construction technology)",
+      "B": "धार्मिक नियम (Religious rules)",
+      "C": "सामग्री की कमी (Lack of material)",
+      "D": "सौंदर्य उद्देश्य (Aesthetic purpose)"
+    },
+    "answer": ["A", "D"],
+    "explanation": "गुप्त काल में तकनीकी सीमाओं और सौंदर्य कारणों से शिखर की ऊँचाई सीमित थी।"
+  },
+  {
+    "id": 28,
+    "question": "गुप्त कालीन मंदिरों में मंडप का उद्देश्य क्या था? / What was the purpose of mandapa in Gupta temples?",
+    "options": {
+      "A": "धार्मिक अनुष्ठान के लिए सभा स्थान (Assembly space for rituals)",
+      "B": "मूर्ति रखने का स्थान (Place for keeping idol)",
+      "C": "भोजन पकाने का स्थान (Cooking space)",
+      "D": "रक्षा हेतु प्रहरी कक्ष (Guard room for security)"
+    },
+    "answer": ["A"],
+    "explanation": "मंडप धार्मिक अनुष्ठानों और सभा के लिए उपयोग होने वाला आवृत स्थान था।"
+  },
+  {
+    "id": 29,
+    "question": "नागर शैली में गर्भगृह का प्रवेशद्वार किस प्रकार सजाया जाता था? / How was the entrance of garbhagriha decorated in Nagara style?",
+    "options": {
+      "A": "तोरण (Torana)",
+      "B": "मकरमुख (Makara-mukha)",
+      "C": "लतापट्टिका (Latapatrika)",
+      "D": "झरोखा (Jharokha)"
+    },
+    "answer": ["B", "C"],
+    "explanation": "गर्भगृह के द्वार पर मकरमुख और लतापट्टिका की नक्काशी की जाती थी।"
+  },
+  {
+    "id": 30,
+    "question": "गुप्त कालीन मंदिरों में किस पत्थर का प्रमुख प्रयोग हुआ? / Which stone was mainly used in Gupta temples?",
+    "options": {
+      "A": "बलुआ पत्थर (Sandstone)",
+      "B": "संगमरमर (Marble)",
+      "C": "ग्रेनाइट (Granite)",
+      "D": "चूना पत्थर (Limestone)"
+    },
+    "answer": ["A"],
+    "explanation": "गुप्त काल में बलुआ पत्थर का प्रमुख उपयोग मंदिर निर्माण में हुआ।"
+  },
+  {
+    "id": 31,
+    "question": "गुप्त कालीन मंदिरों में अंतराल की अवधारणा का विकास किससे जोड़ा जाता है? / The development of antarala concept is associated with which?",
+    "options": {
+      "A": "विस्तृत मंदिर योजना (Expanded temple plan)",
+      "B": "अधिक अनुष्ठानों की आवश्यकता (Need for more rituals)",
+      "C": "नागर और द्रविड़ शैली के मिश्रण (Mix of Nagara and Dravida styles)",
+      "D": "वास्तुशास्त्र का प्रभाव (Influence of Vastu-shastra)"
+    },
+    "answer": ["A", "D"],
+    "explanation": "अंतराल की अवधारणा विस्तृत मंदिर योजना और वास्तुशास्त्र के प्रभाव से विकसित हुई।"
+  },
+  {
+    "id": 32,
+    "question": "गुप्त कालीन नागर शैली के मंदिरों में गर्भगृह की स्थिति कैसी होती थी? / How was the position of garbhagriha in Gupta Nagara temples?",
+    "options": {
+      "A": "पूर्वाभिमुख (East-facing)",
+      "B": "पश्चिमाभिमुख (West-facing)",
+      "C": "उत्तराभिमुख (North-facing)",
+      "D": "दक्षिणाभिमुख (South-facing)"
+    },
+    "answer": ["A"],
+    "explanation": "गुप्त कालीन नागर शैली में गर्भगृह सामान्यतः पूर्वाभिमुख होता था।"
+  },
+  {
+    "id": 33,
+    "question": "गुप्त काल में मंदिरों के बाहरी भाग पर किस प्रकार की नक्काशी प्रमुख थी? / Which type of carving was prominent on exterior of Gupta temples?",
+    "options": {
+      "A": "देवमूर्ति (Deity figures)",
+      "B": "वनस्पति अलंकरण (Floral motifs)",
+      "C": "युद्ध दृश्य (War scenes)",
+      "D": "पशु आकृतियाँ (Animal figures)"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "गुप्त कालीन मंदिरों के बाहरी भाग में देवमूर्ति, वनस्पति अलंकरण और पशु आकृतियाँ प्रमुख थीं।"
+  },
+  {
+    "id": 34,
+    "question": "गुप्त काल के मंदिरों में मंडप की छत का आकार कैसा होता था? / What was the shape of mandapa roof in Gupta temples?",
+    "options": {
+      "A": "समतल (Flat)",
+      "B": "गोलाकार (Circular)",
+      "C": "पिरामिड आकार (Pyramidal)",
+      "D": "वक्राकार (Curvilinear)"
+    },
+    "answer": ["C"],
+    "explanation": "गुप्त काल में मंडप की छत प्रायः पिरामिड आकार की होती थी।"
+  },
+  {
+    "id": 35,
+    "question": "गुप्त काल में मंदिर निर्माण की प्रेरणा किन धार्मिक ग्रंथों से मिली? / Which religious texts inspired temple construction in Gupta period?",
+    "options": {
+      "A": "वास्तुशास्त्र (Vastu-shastra)",
+      "B": "अग्निपुराण (Agni Purana)",
+      "C": "मनुस्मृति (Manusmriti)",
+      "D": "गरुड़ पुराण (Garuda Purana)"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "गुप्त काल में वास्तुशास्त्र, अग्निपुराण और गरुड़ पुराण से मंदिर निर्माण की प्रेरणा ली गई।"
+  },
+  {
+    "id": 36,
+    "question": "गुप्त कालीन शिखर के ऊपर किस तत्व का प्रयोग होता था? / Which element was used above the Gupta period shikhara?",
+    "options": {
+      "A": "अमलक (Amalaka)",
+      "B": "कलश (Kalasha)",
+      "C": "गोपुरम (Gopuram)",
+      "D": "तोरण (Torana)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "गुप्त कालीन शिखर के ऊपर अमलक और कलश रखा जाता था।"
+  },
+  {
+    "id": 37,
+    "question": "गुप्त काल में मंदिरों के निर्माण के लिए कौन-सी तकनीक प्रमुख थी? / Which technique was prominent in Gupta temple construction?",
+    "options": {
+      "A": "ड्राई मासनरी (Dry masonry)",
+      "B": "लाइम मोर्टार का उपयोग (Use of lime mortar)",
+      "C": "लोहे के क्लैम्प का प्रयोग (Use of iron clamps)",
+      "D": "स्टील फ्रेम का प्रयोग (Use of steel frame)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "गुप्त कालीन मंदिरों में ड्राई मासनरी, चूने का गारा और लोहे के क्लैम्प का प्रयोग किया जाता था।"
+  },
+  {
+    "id": 38,
+    "question": "गुप्त कालीन नागर शैली के मंदिरों में शिखर का विकास बाद में किस रूप में हुआ? / The shikhara of Gupta Nagara temples later evolved into which form?",
+    "options": {
+      "A": "लाटिना प्रकार (Latina type)",
+      "B": "फलेका प्रकार (Phaleka type)",
+      "C": "रीढ़ाकार प्रकार (Rekha-prasada type)",
+      "D": "वेसर प्रकार (Vesara type)"
+    },
+    "answer": ["C"],
+    "explanation": "गुप्त काल का घट-पल्लव शिखर आगे चलकर रीढ़ाकार (रेखा-प्रसाद) रूप में विकसित हुआ।"
+  },
+  {
+    "id": 39,
+    "question": "गुप्त कालीन मंदिरों के मंडप में खंभों पर किस प्रकार के शिल्प दिखते थे? / What kind of art is seen on pillars of Gupta period mandapas?",
+    "options": {
+      "A": "लता और बेल की आकृति (Creeper and vine patterns)",
+      "B": "पौराणिक दृश्य (Mythological scenes)",
+      "C": "शिलालेख (Inscriptions)",
+      "D": "मीनाक्षी मूर्तियाँ (Meenakshi idols)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "गुप्त कालीन मंडप के खंभों पर लता-बेल, पौराणिक दृश्य और शिलालेख देखने को मिलते हैं।"
+  },
+  {
+    "id": 40,
+    "question": "गुप्त काल में मंदिर वास्तुकला का महत्व किस कारण बढ़ा? / Why did the importance of temple architecture increase during Gupta period?",
+    "options": {
+      "A": "हिंदू धर्म का पुनरुत्थान (Revival of Hinduism)",
+      "B": "राजाओं का संरक्षण (Royal patronage)",
+      "C": "शहरीकरण में वृद्धि (Increase in urbanization)",
+      "D": "धातुकला का विकास (Development of metallurgy)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "गुप्त काल में हिंदू धर्म के पुनरुत्थान, राजाओं के संरक्षण और शहरीकरण के कारण मंदिर वास्तुकला का महत्व बढ़ा।"
+  },
+  {
+    "id": 41,
+    "question": "गुप्त काल में मंदिर निर्माण में प्रयुक्त 'Ashlar Masonry' तकनीक की विशेषता क्या थी? / What was the main characteristic of 'Ashlar Masonry' used in Gupta period temple construction?",
+    "options": {
+      "A": "बिना गारे के सटीक तराशे पत्थरों का प्रयोग (Precisely cut stones without mortar)",
+      "B": "कच्ची ईंटों और गारे का प्रयोग (Use of raw bricks and mortar)",
+      "C": "पत्थरों को चूना-प्लास्टर से जोड़ना (Joining stones with lime plaster)",
+      "D": "लोहे के क्लैम्प से जोड़ना (Joining with iron clamps)"
+    },
+    "answer": ["A", "D"],
+    "explanation": "Ashlar Masonry में पत्थरों को सटीक आकार में तराशकर बिना गारे के जोड़ा जाता था, और कई बार मजबूती के लिए लोहे के क्लैम्प का प्रयोग भी किया जाता था।"
+  },
+  {
+    "id": 42,
+    "question": "गुप्तकालीन मंदिरों में चूना और प्लास्टर का मुख्य उपयोग किसके लिए होता था? / What was the primary use of lime and plaster in Gupta period temples?",
+    "options": {
+      "A": "मूर्तियों की फिक्सिंग के लिए (For fixing sculptures)",
+      "B": "दीवारों को चिकना करने और रंगाई के लिए (For smoothing walls and painting)",
+      "C": "शिखर को जोड़ने के लिए (For joining the shikhara)",
+      "D": "अमलक पर नक्काशी करने के लिए (For carving on amalaka)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "गुप्तकाल में चूना-प्लास्टर का प्रयोग मूर्तियों को स्थिर करने और दीवारों को चिकना कर रंगाई करने में प्रमुखता से होता था।"
+  },
+  {
+    "id": 43,
+    "question": "अमलक (Amalaka) का प्रारंभिक प्रयोग गुप्तकाल में किस शैलीगत परिवर्तन को दर्शाता है? / The early use of Amalaka in Gupta period indicates which stylistic change?",
+    "options": {
+      "A": "शिखर के शीर्ष पर अलंकरण का विकास (Development of ornamentation at the top of the shikhara)",
+      "B": "गार्भगृह की सुरक्षा (Protection of sanctum)",
+      "C": "अंतराल की ऊंचाई बढ़ाना (Increasing height of the antarala)",
+      "D": "मंडप के स्तंभों की संख्या घटाना (Reducing number of mandapa pillars)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "अमलक का प्रारंभिक प्रयोग शिखर के शीर्ष पर अलंकरण और गार्भगृह के पवित्र स्थान को प्रतीकात्मक सुरक्षा प्रदान करने के लिए किया जाता था।"
+  },
+  {
+    "id": 44,
+    "question": "गुप्तकालीन मंदिरों में द्वार लिंटल (Door Lintel) की नक्काशी में कौन से विषय प्रमुख थे? / What themes were predominant in the carving of door lintels in Gupta period temples?",
+    "options": {
+      "A": "देव-देवियों के चित्र (Images of deities)",
+      "B": "वनस्पति और पुष्प अलंकरण (Floral and vegetal motifs)",
+      "C": "युद्ध और शिकार दृश्य (War and hunting scenes)",
+      "D": "खगोल और गणितीय चिह्न (Astronomical and mathematical symbols)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "गुप्तकालीन द्वार लिंटल पर अधिकतर देव-देवियों की मूर्तियां और पुष्प-वनस्पति आधारित अलंकरण बनाए जाते थे।"
+  },
+  {
+    "id": 45,
+    "question": "गुप्तकाल में स्तंभों की सजावट का मुख्य तकनीकी पहलू क्या था? / What was the main technical aspect of pillar decoration in the Gupta period?",
+    "options": {
+      "A": "लोहे के कोर के साथ पत्थर की परत (Stone casing over iron core)",
+      "B": "सतही नक्काशी (Surface carving)",
+      "C": "रंगीन प्लास्टर का प्रयोग (Use of colored plaster)",
+      "D": "मोज़ाइक कार्य (Mosaic work)"
+    },
+    "answer": ["B", "C"],
+    "explanation": "गुप्तकाल में स्तंभों पर सतही नक्काशी और कभी-कभी रंगीन प्लास्टर से सजावट की जाती थी।"
+  },
+  {
+    "id": 46,
+    "question": "Ashlar Masonry में पत्थरों को जोड़ने के लिए किस तकनीक का उपयोग किया जाता था? / Which technique was used to join stones in Ashlar Masonry?",
+    "options": {
+      "A": "टंग-एंड-ग्रूव जॉइंट (Tongue-and-groove joint)",
+      "B": "सूखी जोड़ तकनीक (Dry jointing)",
+      "C": "लोहे के डॉवेल (Iron dowels)",
+      "D": "कांस्य पिन (Bronze pins)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Ashlar Masonry में पत्थरों को जोड़ने के लिए टंग-एंड-ग्रूव, सूखी जोड़ और लोहे के डॉवेल का प्रयोग किया जाता था।"
+  },
+  {
+    "id": 47,
+    "question": "गुप्तकाल में मंदिर के स्तंभ आधार (Base) पर किस प्रकार के अलंकरण का प्रचलन था? / What type of ornamentation was prevalent on the pillar bases in Gupta period temples?",
+    "options": {
+      "A": "घट-पल्लव आकृति (Pot-and-foliage motif)",
+      "B": "हाथी और सिंह आकृति (Elephant and lion figures)",
+      "C": "मानव-मिथुन आकृति (Human couples)",
+      "D": "यंत्रमूलक आकृति (Mechanical motifs)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "गुप्तकालीन स्तंभ आधार पर घट-पल्लव, हाथी, सिंह और मानव-मिथुन जैसी आकृतियां आम थीं।"
+  },
+  {
+    "id": 48,
+    "question": "गुप्तकालीन मंदिरों में प्लास्टर का रंगीन उपयोग किससे संबंधित था? / The colored use of plaster in Gupta period temples was related to which aspect?",
+    "options": {
+      "A": "धार्मिक अनुष्ठानिक महत्व (Religious ritual significance)",
+      "B": "मूर्तियों को जीवंत दिखाना (Making sculptures appear lifelike)",
+      "C": "राजनीतिक प्रचार (Political propaganda)",
+      "D": "सैन्य चिह्न (Military insignia)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "प्लास्टर को रंगकर मूर्तियों को जीवंत दिखाया जाता था और इसका धार्मिक अनुष्ठानों में भी महत्व था।"
+  },
+  {
+    "id": 49,
+    "question": "अमलक की नक्काशी में गुप्तकाल में कौन सी प्रतीकात्मकता झलकती थी? / What symbolism was reflected in the carving of amalaka in Gupta period?",
+    "options": {
+      "A": "सूर्य के किरणों का प्रतीक (Symbol of sun rays)",
+      "B": "चक्र का प्रतीक (Symbol of wheel)",
+      "C": "पर्वत शिखर का प्रतीक (Symbol of mountain peak)",
+      "D": "जल तरंगों का प्रतीक (Symbol of water waves)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "अमलक को सूर्य की किरणों, चक्र और पर्वत शिखर का प्रतीक माना जाता था।"
+  },
+  {
+    "id": 50,
+    "question": "गुप्तकाल में मंदिरों के प्रवेश द्वार के ऊपर लिंटल पर किस प्रकार की संरचना रखी जाती थी? / What structure was placed above the lintel at temple entrances in Gupta period?",
+    "options": {
+      "A": "तोरण (Torana)",
+      "B": "अर्धचंद्र (Architrave)",
+      "C": "लघु शिखर (Miniature shikhara)",
+      "D": "पताका (Flagstaff)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "लिंटल के ऊपर तोरण, अर्धचंद्र और कभी-कभी लघु शिखर की संरचना रखी जाती थी।"
+  },
+  {
+    "id": 51,
+    "question": "गुप्तकालीन मंदिर निर्माण में 'ashlar masonry' का प्रमुख लाभ क्या था? / What was the main advantage of ashlar masonry in Gupta temple construction?",
+    "options": {
+      "A": "पत्थरों के जोड़ों में कोई मोर्टार का उपयोग नहीं",
+      "B": "अत्यधिक मजबूती और स्थायित्व",
+      "C": "मूर्ति-निर्माण के लिए उपयुक्त सतह",
+      "D": "लागत में भारी कमी"
+    },
+    "answer": ["B", "C"],
+    "explanation": "Ashlar masonry से पत्थर का सतह चिकना और मजबूत बनता था, जिससे मूर्ति-निर्माण आसान होता था और संरचना स्थायी रहती थी।"
+  },
+  {
+    "id": 52,
+    "question": "गुप्तकालीन मंदिरों में चूना और प्लास्टर के उपयोग के पीछे कौन-कौन से कारण थे? / What were the reasons for using lime and plaster in Gupta temples?",
+    "options": {
+      "A": "पत्थरों के बीच सीलिंग और मजबूती",
+      "B": "भीतरी सतह को चमकदार बनाना",
+      "C": "ध्वनि गूंज कम करना",
+      "D": "जल प्रतिरोध बढ़ाना"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "चूना और प्लास्टर का उपयोग जोड़ सील करने, भीतरी दीवारों को सजाने और जल से सुरक्षा हेतु किया जाता था।"
+  },
+  {
+    "id": 53,
+    "question": "अमलका (Amalaka) का प्रारंभिक उपयोग गुप्तकालीन मंदिरों में किस रूप में हुआ? / In Gupta temples, what was the initial purpose of Amalaka?",
+    "options": {
+      "A": "सिर्फ सजावट के लिए",
+      "B": "शिखर का स्थायित्व बढ़ाने हेतु",
+      "C": "धार्मिक प्रतीक के रूप में",
+      "D": "गर्भगृह में प्रकाश प्रवेश हेतु"
+    },
+    "answer": ["B", "C"],
+    "explanation": "अमलका शिखर की संरचना को स्थिर करता था और सूर्य-चक्र या आध्यात्मिक प्रतीक के रूप में माना जाता था।"
+  },
+  {
+    "id": 54,
+    "question": "गुप्तकालीन मंदिरों में प्रवेश-द्वार की लिंटल (door lintel) पर आमतौर पर कौन सी नक्काशी पाई जाती थी? / What carvings were commonly found on door lintels in Gupta temples?",
+    "options": {
+      "A": "गंगा-यमुना प्रतिमा",
+      "B": "पुष्प और बेल-पत्र अलंकरण",
+      "C": "युद्ध के दृश्य",
+      "D": "नवरस दर्शाने वाले चित्र"
+    },
+    "answer": ["A", "B"],
+    "explanation": "गंगा-यमुना की मूर्तियां और पुष्प-बेल अलंकरण गुप्तकालीन मंदिर लिंटल का प्रमुख अंग थे।"
+  },
+  {
+    "id": 55,
+    "question": "गुप्तकालीन मंदिर वास्तुकला में स्तंभों की सतह पर की गई नक्काशी का एक उद्देश्य क्या था? / What was one purpose of pillar carvings in Gupta temple architecture?",
+    "options": {
+      "A": "संरचना की मजबूती",
+      "B": "धार्मिक कथाओं का संचार",
+      "C": "स्थानीय कारीगरों की पहचान",
+      "D": "दृश्य आकर्षण बढ़ाना"
+    },
+    "answer": ["B", "D"],
+    "explanation": "स्तंभ नक्काशी से धार्मिक कथाएं दर्शाई जाती थीं और साथ ही सौंदर्य में वृद्धि होती थी।"
+  },
+  {
+    "id": 56,
+    "question": "गुप्तकालीन वास्तु-कला में पत्थरों को जोड़ने की तकनीक में कौन-सा तरीका प्रमुख था? / Which technique was prominent in joining stones in Gupta architecture?",
+    "options": {
+      "A": "लोहे के क्लैम्प और डॉवेल का प्रयोग",
+      "B": "केवल चूना-मोर्टार से जोड़ना",
+      "C": "लकड़ी के पिन और गोंद का उपयोग",
+      "D": "पत्थर को इंटरलॉक करना"
+    },
+    "answer": ["A", "D"],
+    "explanation": "गुप्तकालीन मंदिरों में पत्थरों को इंटरलॉकिंग और लोहे के क्लैम्प से जोड़ा जाता था।"
+  },
+  {
+    "id": 57,
+    "question": "गुप्तकाल में मंदिर की बाहरी दीवारों पर की गई सजावट का एक व्यावहारिक लाभ क्या था? / What was one practical benefit of exterior wall decoration in Gupta temples?",
+    "options": {
+      "A": "धूप से सुरक्षा",
+      "B": "वर्षा जल का प्रवाह नियंत्रित करना",
+      "C": "दीवारों में दरारें छिपाना",
+      "D": "अंतर्वर्ती तापमान नियंत्रित करना"
+    },
+    "answer": ["C", "D"],
+    "explanation": "बाहरी सजावट से दरारें छिपाई जाती थीं और मोटाई व अलंकरण से अंदर का तापमान संतुलित रहता था।"
+  },
+  {
+    "id": 58,
+    "question": "गुप्तकालीन मंदिरों में शिल्पकार अक्सर पत्थर के ब्लॉकों की सतह को पहले से क्यों तैयार करते थे? / Why did Gupta temple artisans pre-finish stone block surfaces?",
+    "options": {
+      "A": "निर्माण के समय फिटिंग आसान बनाने के लिए",
+      "B": "आगे की नक्काशी के लिए सपाट सतह तैयार करने हेतु",
+      "C": "मोर्टार की आवश्यकता खत्म करने हेतु",
+      "D": "पत्थर की मजबूती बढ़ाने हेतु"
+    },
+    "answer": ["A", "B"],
+    "explanation": "पहले से सतह तैयार करने से फिटिंग और आगे की नक्काशी में आसानी होती थी।"
+  },
+  {
+    "id": 59,
+    "question": "गुप्तकालीन मंदिरों में प्लास्टर का रंग आमतौर पर किस आधार पर चुना जाता था? / On what basis was the plaster color in Gupta temples usually chosen?",
+    "options": {
+      "A": "स्थानीय उपलब्ध खनिज",
+      "B": "धार्मिक महत्व",
+      "C": "शाही आदेश",
+      "D": "मौसमी प्रभाव"
+    },
+    "answer": ["A", "B"],
+    "explanation": "रंग का चुनाव स्थानीय खनिज और धार्मिक प्रतीकों के आधार पर किया जाता था।"
+  },
+  {
+    "id": 60,
+    "question": "गुप्तकालीन मंदिरों में अलंकरण की शुरुआत अक्सर किस हिस्से से की जाती थी? / In Gupta temples, which part was often ornamented first?",
+    "options": {
+      "A": "गर्भगृह का द्वार",
+      "B": "शिखर का शीर्ष",
+      "C": "मंडप की छत",
+      "D": "अंतःपुर की दीवारें"
+    },
+    "answer": ["A", "C"],
+    "explanation": "अलंकरण की शुरुआत गर्भगृह के प्रवेश-द्वार और मंडप की छत से की जाती थी।"
+  },
+  {
+    "id": 61,
+    "question": "Dashavatara Temple, Deogarh (U.P.) ka shikhar kaunsa architectural feature pradarshit karta hai? / Which architectural feature does the Dashavatara Temple, Deogarh (U.P.)'s shikhara display?",
+    "options": {
+      "A": "Latina shikhara",
+      "B": "Dravida vimana",
+      "C": "Bhumija shikhara",
+      "D": "Phamsana roof"
+    },
+    "answer": ["A"],
+    "explanation": "Deogarh ka Dashavatara Mandir ek prarambhik Nagara shaili ka udaharan hai jisme Latina shikhara ka prayog hua tha."
+  },
+  {
+    "id": 62,
+    "question": "Bhitargaon Temple kis material se bana hai aur iska pramukh mahatva kya hai? / The Bhitargaon Temple is made of which material and what is its primary significance?",
+    "options": {
+      "A": "Sandstone – earliest stone temple",
+      "B": "Brick – oldest surviving shikhara temple",
+      "C": "Granite – Dravida style",
+      "D": "Laterite – Buddhist influence"
+    },
+    "answer": ["B"],
+    "explanation": "Bhitargaon Temple eent se bana prachin shikhara mandir hai jo Gupta yug ka mahatvapurn udaharan hai."
+  },
+  {
+    "id": 63,
+    "question": "Tigawa Temple, MP ka mool vishay kya tha? / What was the main theme of the Tigawa Temple in MP?",
+    "options": {
+      "A": "Vishnu worship",
+      "B": "Shiva worship",
+      "C": "Devi worship",
+      "D": "Surya worship"
+    },
+    "answer": ["A"],
+    "explanation": "Tigawa ka prarambhik mandir Vishnu ko samarpit tha, jo Gupta shaili ka ek saral roop dikhata hai."
+  },
+  {
+    "id": 64,
+    "question": "Gupta kalin mandiron ke pramukh vishayon me kaun-kaun se shamil the? / Which themes were prominent in Gupta period temples?",
+    "options": {
+      "A": "Vaishnav",
+      "B": "Shaiva",
+      "C": "Shakta",
+      "D": "Jaina"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Gupta yug me Vaishnav, Shaiva aur Shakta prabhav spasht the, jabki Jaina prabhav simit tha."
+  },
+  {
+    "id": 65,
+    "question": "Gupta kalin puranik kathayon ke chitrankan me kaun se granth ke drishya milte hain? / In Gupta period temple reliefs, which texts' scenes are depicted?",
+    "options": {
+      "A": "Ramayana",
+      "B": "Mahabharata",
+      "C": "Bhagavata Purana",
+      "D": "Arthashastra"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "Mandiron me Ramayana, Mahabharata aur Bhagavata Purana ke pradarshan milte hain, Arthashastra ka nahi."
+  },
+  {
+    "id": 66,
+    "question": "Dashavatara ki pratima kala Gupta yug me kahan vishesh roop se milti hai? / Where is the iconography of Dashavatara especially found in the Gupta period?",
+    "options": {
+      "A": "Ajanta Caves",
+      "B": "Ellora Caves",
+      "C": "Deogarh Temple",
+      "D": "Elephanta Caves"
+    },
+    "answer": ["C"],
+    "explanation": "Deogarh ka Dashavatara Mandir Vishnu ke dash roopon ka shilp kala ka pramukh kendr tha."
+  },
+  {
+    "id": 67,
+    "question": "Mandiron ke dwar par Ganga-Yamuna figurines ka prayog kis arth me hota tha? / The Ganga-Yamuna figurines on temple doorways symbolized what?",
+    "options": {
+      "A": "Fertility and prosperity",
+      "B": "Sacred rivers' sanctity",
+      "C": "War victories",
+      "D": "Political authority"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Ganga-Yamuna figurines pavitrata, samriddhi aur shubh pravesh ka pratik thi."
+  },
+  {
+    "id": 68,
+    "question": "Dwarpals ki sthapana ka uddeshya kya tha? / What was the purpose of placing dwarpalas at temple entrances?",
+    "options": {
+      "A": "Decorative art",
+      "B": "Symbolic guardianship",
+      "C": "Political propaganda",
+      "D": "Narrative storytelling"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Dwarpals mandir ke rakshak aur saundaryabodh dono ka pratinidhitva karte the."
+  },
+  {
+    "id": 69,
+    "question": "Amalaka ka vikas prarambhik roop me kaunse karyon ke liye hua tha? / In early development, the amalaka served which purposes?",
+    "options": {
+      "A": "Structural stability",
+      "B": "Symbolic representation of the sun",
+      "C": "Water storage",
+      "D": "Aesthetic crowning element"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "Amalaka shikhar ki majbooti, surya pratik aur saundaryik charan ka pratik tha."
+  },
+  {
+    "id": 70,
+    "question": "Mandir shikhar ke upar sthit kalash ka pramukh arth kya tha? / What was the main symbolism of the kalasha atop temple shikhara?",
+    "options": {
+      "A": "Abundance",
+      "B": "Victory",
+      "C": "Cosmic axis",
+      "D": "Water source"
+    },
+    "answer": ["A", "C"],
+    "explanation": "Kalash samriddhi aur brahmand ki dhuri ka pratik tha."
+  },
+  {
+    "id": 71,
+    "question": "Bhitargaon Mandir ke shikhar ka roop kaunse shaili ka udaharan hai? / The shikhara of Bhitargaon Temple represents which style?",
+    "options": {
+      "A": "Latina",
+      "B": "Phamsana",
+      "C": "Rekha-prasada",
+      "D": "Dravida"
+    },
+    "answer": ["A"],
+    "explanation": "Bhitargaon ka shikhara Latina shaili ka prarambhik roop hai jo Gupta yug me vikshit hua."
+  },
+  {
+    "id": 72,
+    "question": "Tigawa Temple ka antarala kis uddeshya se banaya gaya tha? / The antarala in Tigawa Temple was constructed for what purpose?",
+    "options": {
+      "A": "Ritual transition space",
+      "B": "Priestly seating",
+      "C": "Storage of offerings",
+      "D": "Depiction of deities"
+    },
+    "answer": ["A"],
+    "explanation": "Antarala garbhagriha aur mandapa ke beech ek pavitra parivartan sthal tha."
+  },
+  {
+    "id": 73,
+    "question": "Gupta kalin murti shilp me dvaar par sthit Ganga-Yamuna kaunse pradarshan se sambandhit the? / In Gupta period sculpture, Ganga-Yamuna depictions at the doorway are related to which representation?",
+    "options": {
+      "A": "River goddesses",
+      "B": "Seasonal cycles",
+      "C": "Ritual purity",
+      "D": "Political alliance"
+    },
+    "answer": ["A", "C"],
+    "explanation": "Ye nadi deviyan pavitrata aur pavitra snan ka pratik thi."
+  },
+  {
+    "id": 74,
+    "question": "Amalaka aur kalash ki sthapana ka prarambhik samay kaunsa tha? / The initial placement of amalaka and kalasha occurred in which period?",
+    "options": {
+      "A": "Maurya",
+      "B": "Kushan",
+      "C": "Gupta",
+      "D": "Pala"
+    },
+    "answer": ["C"],
+    "explanation": "Amalaka aur kalash ka prarambhik prayog Gupta kal me hua."
+  },
+  {
+    "id": 75,
+    "question": "Dashavatara Temple me mandapa ka kya mahatva tha? / What was the significance of the mandapa in Dashavatara Temple?",
+    "options": {
+      "A": "Gathering of devotees",
+      "B": "Priests' residence",
+      "C": "Musical performances",
+      "D": "Narrative relief display"
+    },
+    "answer": ["A", "D"],
+    "explanation": "Mandapa bhakton ke sangrah aur puranik kathaon ke shilp darshan ke liye tha."
+  },
+  {
+    "id": 76,
+    "question": "Gupta kalin Vaishnav mandiron me kaunse avataron ki murtikala sabse zyada milti hai? / In Gupta period Vaishnav temples, which avatars' iconography is most common?",
+    "options": {
+      "A": "Matsya",
+      "B": "Varaha",
+      "C": "Narasimha",
+      "D": "Vamana"
+    },
+    "answer": ["B", "C"],
+    "explanation": "Varaha aur Narasimha ke shilp pramukh roop se milte hain."
+  },
+  {
+    "id": 77,
+    "question": "Dwarpals ke haath me aam taur par kaunse astr shilpit hote the? / Which weapons are commonly carved in dwarpalas' hands?",
+    "options": {
+      "A": "Gada",
+      "B": "Trishul",
+      "C": "Chakra",
+      "D": "Dhanush"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Dwarpals ke haath me gada aur trishul ka shilp aam roop se hota tha."
+  },
+  {
+    "id": 78,
+    "question": "Gupta kalin mandiron me pravesh ke upar kaunse shubh chinh banaye jate the? / Which auspicious symbols were carved above entrances in Gupta temples?",
+    "options": {
+      "A": "Kalash",
+      "B": "Swastika",
+      "C": "Padma",
+      "D": "Lotus creeper"
+    },
+    "answer": ["A", "B", "C", "D"],
+    "explanation": "Pravesh ke upar kalash, swastika, padma, aur bel-patton ka shilp shubh maana jata tha."
+  },
+  {
+    "id": 79,
+    "question": "Bhitargaon Temple me prayukt ornamentation ka mukhya kendr kya tha? / What was the main focus of ornamentation in Bhitargaon Temple?",
+    "options": {
+      "A": "Door lintels",
+      "B": "Pillars",
+      "C": "Ceilings",
+      "D": "Plinths"
+    },
+    "answer": ["A", "B"],
+    "explanation": "Bhitargaon me dwar ke lintels aur stambh par vishesh shilp kala ka prayog hua tha."
+  },
+  {
+    "id": 80,
+    "question": "Tigawa Temple ke shilp me kis prakar ka alankaran prarambhik roop se dekha ja sakta hai? / What type of ornamentation can be seen in the early sculpture of Tigawa Temple?",
+    "options": {
+      "A": "Minimalistic carving",
+      "B": "Highly ornate niches",
+      "C": "Complex friezes",
+      "D": "Painted frescoes"
+    },
+    "answer": ["A"],
+    "explanation": "Tigawa Temple ke shilp me saral aur minimalistic carving ka prarambhik roop dekha ja sakta hai."
   }
 ]
-  
-
 
 
 
