@@ -1,725 +1,744 @@
 [
   {
     "id": 1,
-    "question": "मौर्य साम्राज्य के किस शासक के समय सबसे पहले चांदी के पंच-मार्क सिक्के जारी किए गए थे? / Under which Mauryan ruler were silver punch-marked coins first issued?",
+    "question": "ह्वेनसांग के विवरण के अनुसार, हर्ष का राज्य प्रशासन किस सिद्धांत पर आधारित था? / According to Xuanzang's account, Harsha's administration was based on which principle?",
     "options": {
-      "A": "चंद्रगुप्त मौर्य / Chandragupta Maurya",
-      "B": "बिंदुसार / Bindusara",
-      "C": "अशोक / Ashoka",
-      "D": "सम्राट धर्मशेष / Samrat Dharmasesha"
+      "A": "धर्म व दया (Dharma & Compassion)",
+      "B": "सैन्य बल (Military Strength)",
+      "C": "कठोर कर संग्रह (Strict Tax Collection)",
+      "D": "संपूर्ण धार्मिक स्वतंत्रता (Complete Religious Freedom)"
     },
-    "answer": ["A"],
-    "explanation": "चांदी के पंच-मार्क सिक्के सबसे पहले चंद्रगुप्त मौर्य के शासनकाल में जारी किए गए थे, जिनमें विभिन्न प्रतीक अंकित थे।"
+    "answer": ["A", "D"],
+    "explanation": "ह्वेनसांग के अनुसार हर्ष का शासन धर्म, दया और धार्मिक सहिष्णुता पर आधारित था, साथ ही लोगों को धार्मिक स्वतंत्रता प्राप्त थी।"
   },
   {
     "id": 2,
-    "question": "पंच-मार्क सिक्कों पर कौन-कौन से प्रतीक पाए जाते थे? / Which symbols were commonly found on punch-marked coins?",
+    "question": "हर्ष और पुलकेशिन द्वितीय के युद्ध में पुलकेशिन ने किस रणनीति से विजय प्राप्त की? / In the battle between Harsha and Pulakeshin II, what strategy led Pulakeshin to victory?",
     "options": {
-      "A": "सूर्य / Sun",
-      "B": "लक्ष्मी / Lakshmi",
-      "C": "सिंह / Lion",
-      "D": "पशु और वृक्ष / Animals and Trees"
+      "A": "नदी की प्राकृतिक रक्षा (Natural river defense)",
+      "B": "तेज घुड़सवार आक्रमण (Swift cavalry attack)",
+      "C": "कूटनीतिक धोखा (Diplomatic deception)",
+      "D": "दक्षिण के साम्राज्यों का समर्थन (Support from southern kingdoms)"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "पंच-मार्क सिक्कों पर सूर्य, लक्ष्मी, विभिन्न जानवर और वृक्ष आदि प्रतीक प्रचलित थे। अशोक के समय सिंह प्रतीक विशेष रूप से दिखाई देने लगा।"
+    "answer": ["A", "B"],
+    "explanation": "पुलकेशिन द्वितीय ने नर्मदा नदी को प्राकृतिक रक्षा के रूप में उपयोग किया और तेज घुड़सवार हमलों से हर्ष की सेना को पीछे हटाया।"
   },
   {
     "id": 3,
-    "question": "मौर्य साम्राज्य में अशोक के सिक्कों की विशेषता क्या थी? / What was distinctive about Ashoka's coins?",
+    "question": "ह्वेनसांग के विवरण में 'कनौज' का क्या महत्व बताया गया है? / What importance did Xuanzang attribute to 'Kannauj'?",
     "options": {
-      "A": "सिर्फ पिलर एडिक्ट्स / Only pillar edicts",
-      "B": "सिंह और ध्वज प्रतीक / Lion and wheel symbols",
-      "C": "ज्यामितीय प्रतीक / Geometric symbols",
-      "D": "रूपांतरण नहीं / No symbols at all"
+      "A": "धार्मिक केंद्र (Religious centre)",
+      "B": "राजधानी (Capital city)",
+      "C": "व्यापारिक केंद्र (Commercial hub)",
+      "D": "कला और शिक्षा का केंद्र (Centre of art and learning)"
     },
-    "answer": ["B", "C"],
-    "explanation": "अशोक के सिक्कों पर सिंह, चक्र और ज्यामितीय प्रतीक प्रमुख थे, जो पहले के पंच-मार्क सिक्कों से भिन्न थे।"
+    "answer": ["A", "B", "D"],
+    "explanation": "ह्वेनसांग ने कनौज को हर्ष की राजधानी बताया जो धर्म, कला और शिक्षा का प्रमुख केंद्र था।"
   },
   {
     "id": 4,
-    "question": "पंच-मार्क सिक्कों का मुख्य धातु क्या था? / What was the primary metal of punch-marked coins?",
+    "question": "गुप्त साम्राज्य और उत्तर गुप्तों (Later Guptas) में मुख्य अंतर क्या था? / What was the main difference between the Imperial Gupta Empire and the Later Guptas?",
     "options": {
-      "A": "सोना / Gold",
-      "B": "चांदी / Silver",
-      "C": "तांबा / Copper",
-      "D": "लोहे / Iron"
+      "A": "राजनीतिक शक्ति का स्तर (Level of political power)",
+      "B": "कला और वास्तुकला का विकास (Development of art & architecture)",
+      "C": "राजधानी का स्थान (Location of capital)",
+      "D": "विदेशी आक्रमणों का प्रभाव (Impact of foreign invasions)"
     },
-    "answer": ["B"],
-    "explanation": "मौर्य काल के सबसे पुराने भारतीय सिक्के मुख्य रूप से चांदी के बनाए जाते थे।"
+    "answer": ["A", "D"],
+    "explanation": "गुप्त साम्राज्य अपने चरम पर राजनीतिक रूप से सशक्त था जबकि उत्तर गुप्त कमजोर थे और हून आक्रमणों से प्रभावित हुए।"
   },
   {
     "id": 5,
-    "question": "मौर्य साम्राज्य के दौरान सिक्कों पर प्रतीक क्यों अंकित किए जाते थे? / Why were symbols marked on coins during Mauryan period?",
+    "question": "हर्ष के साहित्यिक कार्यों में कौन-कौन से शामिल हैं? / Which of the following are literary works of Harsha?",
     "options": {
-      "A": "धर्म प्रचार के लिए / For religious propagation",
-      "B": "मूल्य और प्रमाण के लिए / To indicate value and authenticity",
-      "C": "सजावट के लिए / For decoration",
-      "D": "विदेशी व्यापार को आकर्षित करने के लिए / To attract foreign trade"
+      "A": "नागानंद (Nagananda)",
+      "B": "रत्नावली (Ratnavali)",
+      "C": "प्रियदर्शिका (Priyadarsika)",
+      "D": "कादंबरी (Kadambari)"
     },
-    "answer": ["B", "D"],
-    "explanation": "पंच-मार्क सिक्के मूल्य और प्रमाण सूचक होते थे और विदेशी व्यापार में भी उपयोगी माने जाते थे।"
+    "answer": ["A", "B", "C"],
+    "explanation": "हर्ष ने नागानंद, रत्नावली और प्रियदर्शिका नाटकों की रचना की; कादंबरी बाणभट्ट की रचना है।"
   },
   {
     "id": 6,
-    "question": "बिंदुसार के शासनकाल में सिक्कों में कौन सा बदलाव हुआ था? / What change occurred in coins during Bindusara's reign?",
+    "question": "बाणभट्ट द्वारा लिखित 'हर्षचरित' किस प्रकार का ग्रंथ है? / What type of work is Banabhatta's 'Harshacharita'?",
     "options": {
-      "A": "पांच से अधिक प्रतीक / More than five symbols",
-      "B": "सिक्कों पर कोई प्रतीक नहीं / No symbols on coins",
-      "C": "चांदी की जगह तांबे का उपयोग / Copper instead of silver",
-      "D": "सिक्कों पर नियमित ज्यामितीय पैटर्न / Regular geometric patterns"
+      "A": "चरित साहित्य (Biographical literature)",
+      "B": "ऐतिहासिक उपन्यास (Historical novel)",
+      "C": "नाट्यकृति (Dramatic work)",
+      "D": "धार्मिक ग्रंथ (Religious text)"
     },
-    "answer": ["A", "D"],
-    "explanation": "बिंदुसार के समय सिक्कों पर पंच-मार्क की संख्या बढ़ी और ज्यामितीय पैटर्न नियमित होने लगे।"
+    "answer": ["A"],
+    "explanation": "'हर्षचरित' बाणभट्ट द्वारा लिखा गया चरित साहित्य है जिसमें हर्ष का जीवन वर्णित है।"
   },
   {
     "id": 7,
-    "question": "अशोक के समय कौन से सिक्के आर्थिक और प्रतीकात्मक दोनों दृष्टि से महत्वपूर्ण थे? / Which coins were important both economically and symbolically during Ashoka's reign?",
+    "question": "ह्वेनसांग के अनुसार हर्ष का कर संग्रह किस प्रकार होता था? / According to Xuanzang, how was Harsha's tax collection system?",
     "options": {
-      "A": "सिंह और चक्र वाले चांदी के सिक्के / Silver coins with lion and wheel",
-      "B": "सिर्फ पिलर एडिक्ट्स / Only pillar edicts",
-      "C": "पंच-मार्क पुराने सिक्के / Old punch-marked coins",
-      "D": "कांस्य सिक्के / Bronze coins"
+      "A": "बहुत कम कर (Very low taxes)",
+      "B": "प्राकृतिक उपज के रूप में कर (Taxes in kind)",
+      "C": "नकद कर (Cash taxes)",
+      "D": "विदेशी व्यापार पर भारी कर (Heavy tax on foreign trade)"
     },
-    "answer": ["A", "C"],
-    "explanation": "अशोक के समय, सिंह और चक्र वाले चांदी के सिक्के प्रतीकात्मक और आर्थिक दोनों दृष्टि से महत्वपूर्ण थे। पुराने पंच-मार्क सिक्के भी इस्तेमाल में बने रहे।"
+    "answer": ["A", "B"],
+    "explanation": "ह्वेनसांग के अनुसार हर्ष का कर बहुत कम था और प्रायः उपज के रूप में वसूला जाता था।"
   },
   {
     "id": 8,
-    "question": "पंच-मार्क सिक्कों के किस पहलू ने उन्हें विदेशी व्यापार के लिए स्वीकार्य बनाया? / Which feature of punch-marked coins made them acceptable in foreign trade?",
+    "question": "पुलकेशिन द्वितीय और हर्ष के युद्ध का परिणाम क्या हुआ? / What was the result of the war between Pulakeshin II and Harsha?",
     "options": {
-      "A": "मानकीकृत वजन / Standardized weight",
-      "B": "चांदी का उपयोग / Use of silver",
-      "C": "रंगीन चित्र / Colorful designs",
-      "D": "राजाओं के नाम / Names of kings"
+      "A": "हर्ष की पराजय (Defeat of Harsha)",
+      "B": "दक्षिण भारत में हर्ष का प्रभाव समाप्त (End of Harsha’s influence in South India)",
+      "C": "नर्मदा को सीमा के रूप में मानना (Recognition of Narmada as boundary)",
+      "D": "पुलकेशिन की कैद (Capture of Pulakeshin)"
     },
-    "answer": ["A", "B"],
-    "explanation": "मानकीकृत वजन और चांदी का उपयोग इन सिक्कों को विदेशी व्यापार में स्वीकार्य बनाता था।"
+    "answer": ["A", "B", "C"],
+    "explanation": "पुलकेशिन ने हर्ष को हराया, नर्मदा को उत्तर-दक्षिण की सीमा के रूप में मान लिया गया, और हर्ष का दक्षिण में प्रभाव समाप्त हुआ।"
   },
   {
     "id": 9,
-    "question": "अशोक के सिक्कों पर सिंह प्रतीक का क्या महत्व था? / What was the significance of the lion symbol on Ashoka's coins?",
+    "question": "गुप्त कालीन कला का स्वर्ण युग किन कारणों से माना जाता है? / Why is the Gupta period considered the golden age of art?",
     "options": {
-      "A": "सिंह साम्राज्य की शक्ति का प्रतीक / Symbol of imperial power",
-      "B": "धर्म का प्रतीक / Symbol of dharma",
-      "C": "विदेशी व्यापार के लिए डिजाइन / Design for foreign trade",
-      "D": "सिर्फ सजावटी कारण / Only decorative purpose"
+      "A": "अजंता की गुफाएं (Ajanta caves)",
+      "B": "सारनाथ की मूर्तियां (Sarnath sculptures)",
+      "C": "नालंदा विश्वविद्यालय का विकास (Growth of Nalanda University)",
+      "D": "पाटलिपुत्र का पुनर्निर्माण (Reconstruction of Pataliputra)"
     },
-    "answer": ["A", "B"],
-    "explanation": "सिंह प्रतीक साम्राज्य की शक्ति और धर्म का प्रतिनिधित्व करता था, और यह राजनीतिक संदेश भी देता था।"
+    "answer": ["A", "B", "C"],
+    "explanation": "गुप्त काल को कला का स्वर्ण युग अजंता की भित्ति चित्रकारी, सारनाथ की मूर्तिकला और नालंदा के विकास के कारण कहा जाता है।"
   },
   {
     "id": 10,
-    "question": "मौर्य पंच-मार्क सिक्कों के निर्माण में कौन-कौन सी तकनीक इस्तेमाल होती थी? / Which techniques were used in making Mauryan punch-marked coins?",
+    "question": "हर्ष के दरबार में बाणभट्ट के अलावा और कौन-कौन विद्वान थे? / Apart from Banabhatta, who were the other scholars in Harsha’s court?",
     "options": {
-      "A": "सिक्का धातु को गर्म कर पंच लगाना / Heating metal and punching",
-      "B": "खुदाई द्वारा निशान / Engraving by chiseling",
-      "C": "मोल्डिंग / Molding",
-      "D": "सिक्के को ढालना / Casting"
+      "A": "मातंग दिवाकर (Matanga Divakara)",
+      "B": "धवन (Dhavaka)",
+      "C": "ह्वेनसांग (Xuanzang)",
+      "D": "कालिदास (Kalidasa)"
     },
-    "answer": ["A", "B"],
-    "explanation": "पंच-मार्क सिक्कों को धातु गर्म करके पंच लगाकर और खुदाई द्वारा निशान अंकित कर बनाया जाता था।"
+    "answer": ["A", "B", "C"],
+    "explanation": "हर्ष के दरबार में बाणभट्ट के साथ मातंग दिवाकर, कवि धवन और चीनी यात्री ह्वेनसांग उपस्थित रहते थे।"
   },
   {
     "id": 11,
-    "question": "Which of the following features are characteristic of Indo-Greek coins? / निम्नलिखित में से कौन-सी विशेषताएँ इंडो-ग्रीक सिक्कों की हैं?",
+    "question": "हर्ष के समय का प्रयाग प्रशस्ति शिलालेख किसने लिखा था? / Who wrote the Prayaga Prashasti inscription of Harsha’s time?",
     "options": {
-      "A": "Greek inscriptions",
-      "B": "Indian motifs",
-      "C": "Mostly gold coins",
-      "D": "Use of punch-mark technique"
+      "A": "बाणभट्ट (Banabhatta)",
+      "B": "हर्षवर्धन (Harshavardhana)",
+      "C": "रविकीरति (Ravikirti)",
+      "D": "भानुचंद्र (Bhanu Chandra)"
     },
-    "answer": ["A", "B"],
-    "explanation": "Indo-Greek coins commonly have Greek inscriptions and Indian motifs; they were mostly silver or bronze, not gold, and did not use the Mauryan punch-mark technique."
+    "answer": ["C"],
+    "explanation": "प्रयाग प्रशस्ति शिलालेख का लेखक पुलकेशिन द्वितीय के मंत्री और कवि रविकीरति थे।"
   },
   {
     "id": 12,
-    "question": "Menander I (Milinda) is associated with which type of coins? / मेनंदर I (मिलिंदा) किस प्रकार के सिक्कों से जुड़े हैं?",
+    "question": "अलहाबाद स्तंभ शिलालेख किन-किन कालों से संबंधित है? / The Allahabad pillar inscription is associated with which periods?",
     "options": {
-      "A": "Drachms with king's portrait on obverse",
-      "B": "Coins with Athena or animal motifs on reverse",
-      "C": "Punch-marked silver coins",
-      "D": "Gupta gold dinars"
+      "A": "अशोक (Ashoka)",
+      "B": "समुद्रगुप्त (Samudragupta)",
+      "C": "जहाँगीर (Jahangir)",
+      "D": "हर्षवर्धन (Harshavardhana)"
     },
-    "answer": ["A", "B"],
-    "explanation": "Menander I issued drachms with his portrait on obverse and deities or animals like Athena on reverse; punch-marked coins and Gupta gold dinars are unrelated."
+    "answer": ["A", "B", "C"],
+    "explanation": "अलहाबाद स्तंभ पर अशोक के शिलालेख, समुद्रगुप्त की प्रयाग प्रशस्ति और जहाँगीर के शिलालेख मिलते हैं।"
   },
   {
     "id": 13,
-    "question": "Which of the following metals were used in Indo-Greek coins? / इंडो-ग्रीक सिक्कों में निम्नलिखित में से कौन-सा धातु प्रयोग किया गया था?",
+    "question": "बाणभट्ट की 'कादंबरी' किस रूप में प्रसिद्ध है? / In what form is Banabhatta’s 'Kadambari' famous?",
     "options": {
-      "A": "Silver",
-      "B": "Bronze",
-      "C": "Gold",
-      "D": "Copper"
+      "A": "प्रथम उपन्यास (First novel)",
+      "B": "काव्य (Poetry)",
+      "C": "नाट्यकृति (Drama)",
+      "D": "प्रबंध (Prose romance)"
     },
-    "answer": ["A", "B"],
-    "explanation": "Indo-Greek coins were mainly minted in silver and some bronze; gold and copper were not commonly used in their coinage."
+    "answer": ["D"],
+    "explanation": "'कादंबरी' संस्कृत गद्य का उत्कृष्ट उदाहरण और एक प्रबंध कथा (prose romance) है।"
   },
   {
     "id": 14,
-    "question": "Identify the correct statements regarding Indo-Greek coins’ cultural synthesis / इंडो-ग्रीक सिक्कों के सांस्कृतिक मिश्रण के संबंध में सही कथन पहचानें:",
+    "question": "हर्ष की 'नागानंद' नाटक की मुख्य थीम क्या है? / What is the main theme of Harsha’s 'Nagananda' play?",
     "options": {
-      "A": "Greek iconography blended with Indian symbols",
-      "B": "Bilingual inscriptions were common",
-      "C": "Exclusively Greek deities on all coins",
-      "D": "Coins show no influence of local culture"
+      "A": "बोधिसत्व का त्याग (Bodhisattva's sacrifice)",
+      "B": "प्रेम और राजनीति (Love and politics)",
+      "C": "धार्मिक परिवर्तन (Religious conversion)",
+      "D": "सैन्य विजय (Military victory)"
     },
-    "answer": ["A", "B"],
-    "explanation": "Indo-Greek coins show cultural synthesis: Greek imagery blended with Indian symbols and often had bilingual inscriptions; not exclusively Greek deities and local culture was evident."
+    "answer": ["A"],
+    "explanation": "'नागानंद' बोधिसत्व जिमुतवाहन के त्याग और करुणा पर आधारित है।"
   },
   {
     "id": 15,
-    "question": "Which statements about Menander I coins are correct? / मेनंदर I के सिक्कों के बारे में कौन-से कथन सही हैं?",
+    "question": "पुलकेशिन द्वितीय के दरबार में प्रयाग प्रशस्ति के समकक्ष कौन-सा शिलालेख था? / Which inscription in Pulakeshin II's court was equivalent to Prayaga Prashasti?",
     "options": {
-      "A": "Portraits of the king appear on obverse",
-      "B": "Reverse shows deities or animals",
-      "C": "Coins used punch-marked symbols",
-      "D": "Made mostly of silver"
+      "A": "ऐहोल प्रशस्ति (Aihole Prashasti)",
+      "B": "हथिगुंफा शिलालेख (Hathigumpha Inscription)",
+      "C": "बेलगाम शिलालेख (Belgaum Inscription)",
+      "D": "कनकदुर्ग शिलालेख (Kanakdurga Inscription)"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "Menander I coins typically show his portrait on obverse, deities/animals on reverse, and were mainly silver; punch-mark symbols are not used."
+    "answer": ["A"],
+    "explanation": "ऐहोल प्रशस्ति पुलकेशिन द्वितीय के मंत्री रविकीरति द्वारा रचित थी, जो प्रयाग प्रशस्ति के समकक्ष मानी जाती है।"
   },
   {
     "id": 16,
-    "question": "Indo-Greek coins contributed to which of the following aspects? / इंडो-ग्रीक सिक्कों ने निम्नलिखित में से किन पहलुओं में योगदान दिया?",
+    "question": "ह्वेनसांग ने हर्ष के शासनकाल में शिक्षा व्यवस्था के बारे में क्या उल्लेख किया? / What did Xuanzang mention about the education system during Harsha’s reign?",
     "options": {
-      "A": "Spread of Hellenistic art",
-      "B": "Introduction of Indian symbols in Greek coinage",
-      "C": "Mauryan administrative techniques",
-      "D": "Development of gold dinars"
+      "A": "नालंदा विश्वविद्यालय की ख्याति (Fame of Nalanda University)",
+      "B": "मठों में शिक्षा (Education in monasteries)",
+      "C": "विदेशी छात्रों का आगमन (Arrival of foreign students)",
+      "D": "केवल धार्मिक शिक्षा (Only religious education)"
     },
-    "answer": ["A", "B"],
-    "explanation": "Indo-Greek coins contributed to the spread of Hellenistic art and introduction of Indian motifs in Greek coins; Mauryan administration and gold dinars are unrelated."
+    "answer": ["A", "B", "C"],
+    "explanation": "ह्वेनसांग ने नालंदा की ख्याति, मठ आधारित शिक्षा और विदेशी छात्रों के आगमन का उल्लेख किया।"
   },
   {
     "id": 17,
-    "question": "Which statements about the obverse and reverse of Indo-Greek coins are true? / इंडो-ग्रीक सिक्कों के सामने और पीछे के बारे में कौन-से कथन सही हैं?",
+    "question": "उत्तर गुप्त काल की राजनीतिक कमजोरी के क्या कारण थे? / What were the reasons for political weakness during Later Gupta period?",
     "options": {
-      "A": "Obverse usually depicts king's portrait",
-      "B": "Reverse depicts deities or animals",
-      "C": "Obverse shows only Indian motifs",
-      "D": "Reverse never had Greek influence"
+      "A": "हूण आक्रमण (Huna invasions)",
+      "B": "प्रांतीय विद्रोह (Provincial revolts)",
+      "C": "केंद्र का अस्थिर होना (Instability at the centre)",
+      "D": "कृषि उत्पादन में गिरावट (Decline in agricultural output)"
     },
-    "answer": ["A", "B"],
-    "explanation": "Obverse commonly has king’s portrait and reverse shows deities or animals; obverse does not show only Indian motifs, and reverse often retains Greek influence."
+    "answer": ["A", "B", "C"],
+    "explanation": "उत्तर गुप्त काल की कमजोरी हूण आक्रमण, प्रांतीय विद्रोह और केंद्र की अस्थिरता के कारण हुई।"
   },
   {
     "id": 18,
-    "question": "Indo-Greek coins provide evidence for which historical aspects? / इंडो-ग्रीक सिक्के किन ऐतिहासिक पहलुओं के प्रमाण प्रदान करते हैं?",
+    "question": "कौन-सा शिलालेख हर्ष और पुलकेशिन द्वितीय के संघर्ष का विवरण देता है? / Which inscription gives an account of the conflict between Harsha and Pulakeshin II?",
     "options": {
-      "A": "Political authority of Indo-Greek kings",
-      "B": "Cultural exchange between Greeks and Indians",
-      "C": "Mauryan taxation system",
-      "D": "Exclusive Indian deities"
+      "A": "ऐहोल प्रशस्ति (Aihole Prashasti)",
+      "B": "अलहाबाद स्तंभ शिलालेख (Allahabad Pillar Inscription)",
+      "C": "बेलगाम शिलालेख (Belgaum Inscription)",
+      "D": "हथिगुंफा शिलालेख (Hathigumpha Inscription)"
     },
-    "answer": ["A", "B"],
-    "explanation": "Indo-Greek coins show political power of kings and Greek-Indian cultural exchange; they do not provide evidence of Mauryan taxation or exclusively Indian deities."
+    "answer": ["A"],
+    "explanation": "ऐहोल प्रशस्ति में पुलकेशिन द्वितीय और हर्ष के संघर्ष का विवरण मिलता है।"
   },
   {
     "id": 19,
-    "question": "Which of the following are true regarding inscriptions on Indo-Greek coins? / इंडो-ग्रीक सिक्कों पर अभिलेखों के बारे में कौन-से कथन सही हैं?",
+    "question": "बाणभट्ट के अनुसार हर्ष की व्यक्तिगत विशेषताएं क्या थीं? / According to Banabhatta, what were Harsha’s personal qualities?",
     "options": {
-      "A": "Mostly Greek script",
-      "B": "Some coins with bilingual Greek-Kharosthi or Brahmi",
-      "C": "Exclusively Sanskrit inscriptions",
-      "D": "Obverse always blank"
+      "A": "विद्वता (Scholarship)",
+      "B": "सैन्य कौशल (Military skill)",
+      "C": "धार्मिक सहिष्णुता (Religious tolerance)",
+      "D": "कठोर शासन (Harsh rule)"
     },
-    "answer": ["A", "B"],
-    "explanation": "Indo-Greek coins mostly had Greek inscriptions, sometimes bilingual with local scripts; exclusively Sanskrit or blank obverse is incorrect."
+    "answer": ["A", "B", "C"],
+    "explanation": "बाणभट्ट ने हर्ष को विद्वान, युद्धकुशल और धार्मिक रूप से सहिष्णु बताया।"
   },
   {
     "id": 20,
-    "question": "Which of the following statements are correct about Menander I (Milinda) and his coins? / मेनंदर I (मिलिंदा) और उनके सिक्कों के बारे में कौन-से कथन सही हैं?",
+    "question": "नालंदा विश्वविद्यालय के उत्थान का श्रेय हर्ष के किस कार्य को जाता है? / The rise of Nalanda University during Harsha’s reign is credited to which of his actions?",
     "options": {
-      "A": "He issued silver drachms",
-      "B": "Portraits appear on obverse, reverse has animals or deities",
-      "C": "Used punch-marked techniques like Mauryas",
-      "D": "Reflects Indo-Greek cultural synthesis"
+      "A": "राजकीय अनुदान (Royal grants)",
+      "B": "विदेशी विद्वानों का आमंत्रण (Invitation to foreign scholars)",
+      "C": "करों में छूट (Tax exemptions)",
+      "D": "मठों का विस्तार (Expansion of monasteries)"
     },
     "answer": ["A", "B", "D"],
-    "explanation": "Menander I issued silver drachms with obverse portraits and reverse animals/deities; his coins show Indo-Greek cultural synthesis. Punch-marked technique was not used."
+    "explanation": "हर्ष ने नालंदा को राजकीय अनुदान दिया, विदेशी विद्वानों को आमंत्रित किया और मठों का विस्तार किया।"
   },
   {
     "id": 21,
-    "question": "कुषाण साम्राज्य के सबसे प्रसिद्ध सिक्काधारी कौन थे? / Who were the most prominent coin issuers of Kushan Empire?",
+    "question": "हरषवर्धन ने अपनी राजधानी थानेसर से कन्नौज क्यों स्थानांतरित की? / Why did Harshavardhana shift his capital from Thanesar to Kannauj?",
     "options": {
-      "A": "कनिष्क / Kanishka",
-      "B": "हुविष्क / Huvishka",
-      "C": "चंद्रगुप्त / Chandragupta",
-      "D": "अशोक / Ashoka"
+      "A": "भौगोलिक व सामरिक दृष्टि से अधिक अनुकूल स्थान / Geographically and strategically more suitable location",
+      "B": "गंगा घाटी पर राजनीतिक प्रभाव बढ़ाना / To increase political influence over the Ganga valley",
+      "C": "पुलकेशिन द्वितीय से पराजय के बाद मजबूरी में / Due to compulsion after defeat by Pulakeshin II",
+      "D": "बौद्ध धर्म केंद्रों के समीप होना / Proximity to Buddhist centers"
     },
-    "answer": ["A", "B"],
-    "explanation": "कनिष्क और हुविष्क कुशाण साम्राज्य के प्रमुख सिक्काधारी थे, जिनके सिक्के आज भी बहुत प्रसिद्ध हैं।"
+    "correct_answers": ["A", "B", "D"],
+    "answer": "A, B, D",
+    "explanation": "हरषवर्धन ने राजधानी कन्नौज स्थानांतरित की क्योंकि यह सामरिक दृष्टि से बेहतर, गंगा घाटी पर राजनीतिक प्रभाव के लिए केंद्रीय और बौद्ध गतिविधियों के केंद्रों के निकट था; पुलकेशिन द्वितीय से युध्द बाद यह निर्णय नहीं लिया गया था।"
   },
   {
     "id": 22,
-    "question": "कुषाण सिक्कों में प्रमुख धातुएँ कौन-कौन सी थीं? / What were the main metals used in Kushan coins?",
+    "question": "हरषवर्धन के साम्राज्य की सीमाएं किन-किन क्षेत्रों तक फैली थीं? / Which regions did Harshavardhana’s empire extend to?",
     "options": {
-      "A": "सोना / Gold",
-      "B": "चांदी / Silver",
-      "C": "तांबा / Copper",
-      "D": "लोहा / Iron"
+      "A": "कश्मीर से नर्मदा तक / From Kashmir to Narmada",
+      "B": "बंगाल और असम तक / Till Bengal and Assam",
+      "C": "कच्छ और सिंध तक / Till Kutch and Sindh",
+      "D": "पंजाब से बिहार तक / From Punjab to Bihar"
     },
-    "answer": ["A", "C"],
-    "explanation": "कुषाण सिक्के मुख्यतः सोने (dinars) और तांबे में बनाए जाते थे।"
+    "correct_answers": ["A", "B", "D"],
+    "answer": "A, B, D",
+    "explanation": "हरषवर्धन का साम्राज्य उत्तर भारत में फैला था जिसमें पंजाब, कश्मीर, गंगा घाटी, बंगाल और असम सम्मिलित थे; दक्षिण में नर्मदा तक विस्तार था, लेकिन कच्छ और सिंध उनके अधीन नहीं थे।"
   },
   {
     "id": 23,
-    "question": "कुषाण सिक्कों पर किस प्रकार की लिपि अंकित होती थी? / What scripts were inscribed on Kushan coins?",
+    "question": "अइहोले अभिलेख (Aihole inscription) का संबंध किस घटना से है? / The Aihole inscription is related to which event?",
     "options": {
-      "A": "ग्रीक / Greek",
-      "B": "बाक्त्रीय / Bactrian",
-      "C": "देवनागरी / Devanagari",
-      "D": "कुशाण लिपि / Kushan script"
+      "A": "हरषवर्धन की विजय / Victory of Harshavardhana",
+      "B": "पुलकेशिन द्वितीय की विजय / Victory of Pulakeshin II",
+      "C": "रविकीरति द्वारा रचित / Composed by Ravikirti",
+      "D": "कन्नौज की संधि / Treaty of Kannauj"
     },
-    "answer": ["A", "B"],
-    "explanation": "कुषाण सिक्कों पर ग्रीक और बाक्त्रीय लिपि का प्रयोग हुआ, जो उनके व्यापारिक और सांस्कृतिक प्रभाव को दर्शाता था।"
+    "correct_answers": ["B", "C"],
+    "answer": "B, C",
+    "explanation": "अइहोले अभिलेख चालुक्य राजा पुलकेशिन द्वितीय की विजय का वर्णन करता है और इसे दरबारी कवि रविकीरति ने रचा था; इसमें हरष की पराजय का भी उल्लेख है।"
   },
   {
     "id": 24,
-    "question": "कनिष्क के सिक्कों की प्रमुख विशेषता क्या थी? / What was the main feature of Kanishka’s coins?",
+    "question": "भास्करवर्मन किस क्षेत्र के शासक थे और हरष से उनका संबंध कैसा था? / Bhaskaravarman was ruler of which region and what was his relation with Harsha?",
     "options": {
-      "A": "राजा घोड़े पर / King on horseback",
-      "B": "देवता पीछे / Deities on reverse",
-      "C": "पंच-मार्क / Punch-marked",
-      "D": "मौर्य प्रतीक / Mauryan symbols"
+      "A": "असम / Assam",
+      "B": "मित्र व सहयोगी / Ally and friend",
+      "C": "शत्रु / Enemy",
+      "D": "बंगाल / Bengal"
     },
-    "answer": ["A", "B"],
-    "explanation": "कनिष्क के सिक्कों पर राजा घोड़े पर सवार दिखाई देता था और पीछे विभिन्न देवताओं की आकृतियाँ अंकित थीं।"
+    "correct_answers": ["A", "B"],
+    "answer": "A, B",
+    "explanation": "भास्करवर्मन कामरूप (असम) के शासक थे और हरषवर्धन के राजनीतिक सहयोगी व मित्र थे; दोनों ने मिलकर कई अभियानों में सहयोग किया।"
   },
   {
     "id": 25,
-    "question": "कुषाण सिक्कों में कौन-कौन से भारतीय देवता पाए जाते थे? / Which Indian deities were found on Kushan coins?",
+    "question": "ह्वेनसांग (Xuanzang) के विवरण में हरषवर्धन के किस पक्ष का विशेष उल्लेख है? / Which aspect of Harshavardhana is prominently mentioned in Xuanzang’s account?",
     "options": {
-      "A": "विष्णु / Vishnu",
-      "B": "शिव / Shiva",
-      "C": "बुद्ध / Buddha",
-      "D": "इन्द्र / Indra"
+      "A": "धार्मिक सहिष्णुता / Religious tolerance",
+      "B": "व्यक्तिगत प्रशासनिक भूमिका / Personal administrative role",
+      "C": "सैन्य संगठन / Military organization",
+      "D": "दक्षिण भारत पर विजय / Conquest of South India"
     },
-    "answer": ["A", "B"],
-    "explanation": "कुषाण सिक्कों पर विष्णु और शिव प्रमुख रूप से अंकित थे, जो स्थानीय धार्मिक दृष्टिकोण को दर्शाते थे।"
+    "correct_answers": ["A", "B", "C"],
+    "answer": "A, B, C",
+    "explanation": "ह्वेनसांग ने हरष की धार्मिक सहिष्णुता, व्यक्तिगत प्रशासनिक भागीदारी और संगठित सेना का उल्लेख किया है; दक्षिण भारत की विजय का उल्लेख नहीं मिलता।"
   },
   {
     "id": 26,
-    "question": "कुषाण सिक्कों में ग्रीक और बाक्त्रीय लिपि का प्रयोग क्यों किया गया? / Why were Greek and Bactrian scripts used on Kushan coins?",
+    "question": "अग्रहारा भूमि अनुदान का उद्देश्य क्या था? / What was the purpose of Agrahara land grants?",
     "options": {
-      "A": "विदेशी व्यापार को आकर्षित करने के लिए / To attract foreign trade",
-      "B": "धार्मिक संदेश देने के लिए / To convey religious messages",
-      "C": "सिक्कों की सजावट के लिए / For decoration",
-      "D": "कुषाण साम्राज्य की वैधता दिखाने के लिए / To assert imperial legitimacy"
+      "A": "ब्राह्मणों को धार्मिक व शैक्षिक कार्यों हेतु भूमि देना / To grant land to Brahmins for religious and educational purposes",
+      "B": "राजस्व वसूलना / To collect revenue",
+      "C": "सैनिकों को पुरस्कृत करना / To reward soldiers",
+      "D": "गांव का पूरा राजस्व अधिकार देना / To grant full revenue rights of a village"
     },
-    "answer": ["A", "D"],
-    "explanation": "ग्रीक और बाक्त्रीय लिपि विदेशी व्यापार और साम्राज्य की वैधता को दर्शाने के लिए इस्तेमाल की गई।"
+    "correct_answers": ["A", "D"],
+    "answer": "A, D",
+    "explanation": "अग्रहारा भूमि अनुदान में ब्राह्मणों को गांव का पूर्ण राजस्व अधिकार धार्मिक व शैक्षिक कार्यों के लिए दिया जाता था; यह सैनिक पुरस्कार के लिए नहीं था।"
   },
   {
     "id": 27,
-    "question": "हुविष्क के सिक्कों की विशेष पहचान क्या थी? / What was distinctive about Huvishka’s coins?",
+    "question": "हरषवर्धन प्रारंभ में किस धर्म के अनुयायी थे और बाद में किस धर्म को अपनाया? / Which religion did Harshavardhana initially follow and which did he adopt later?",
     "options": {
-      "A": "धार्मिक विविधता / Religious diversity",
-      "B": "केवल सोने के सिक्के / Only gold coins",
-      "C": "राजा की तस्वीर नहीं / No image of king",
-      "D": "सिर्फ पंच-मार्क / Only punch-marked"
+      "A": "शैव / Shaiva",
+      "B": "वैष्णव / Vaishnava",
+      "C": "महायान बौद्ध / Mahayana Buddhist",
+      "D": "जैन / Jain"
     },
-    "answer": ["A"],
-    "explanation": "हुविष्क के सिक्कों में विभिन्न देवताओं और धार्मिक प्रतीकों की विविधता दिखाई देती है।"
+    "correct_answers": ["A", "C"],
+    "answer": "A, C",
+    "explanation": "हरषवर्धन प्रारंभ में शैव धर्म के अनुयायी थे, लेकिन बाद में महायान बौद्ध धर्म के संरक्षक बने।"
   },
   {
     "id": 28,
-    "question": "कुषाण सिक्कों का व्यापारिक महत्व क्या था? / What was the commercial importance of Kushan coins?",
+    "question": "कन्नौज बौद्ध महासभा का आयोजन किसने और किसके प्रभाव में किया? / Who organized the Kannauj Buddhist assembly and under whose influence?",
     "options": {
-      "A": "विदेशी व्यापार में स्वीकार्य / Accepted in foreign trade",
-      "B": "स्थानीय कर संग्रह में उपयोग / Used in local tax collection",
-      "C": "सिर्फ धार्मिक अनुष्ठानों के लिए / Only for rituals",
-      "D": "राजनीतिक संदेश देने के लिए / Convey political message"
+      "A": "हरषवर्धन / Harshavardhana",
+      "B": "ह्वेनसांग / Xuanzang",
+      "C": "भास्करवर्मन / Bhaskaravarman",
+      "D": "पुलकेशिन द्वितीय / Pulakeshin II"
     },
-    "answer": ["A", "B"],
-    "explanation": "कुषाण सिक्के विदेशी व्यापार और स्थानीय कर संग्रह दोनों में महत्वपूर्ण थे।"
+    "correct_answers": ["A", "B"],
+    "answer": "A, B",
+    "explanation": "कन्नौज बौद्ध महासभा का आयोजन हरषवर्धन ने किया और यह ह्वेनसांग के प्रभाव में था; इसमें कई राज्यों के प्रतिनिधि शामिल हुए।"
   },
   {
     "id": 29,
-    "question": "कनिष्क के सिक्कों पर राजा की मुद्रा का क्या संदेश था? / What message did the posture of king on Kanishka’s coins convey?",
+    "question": "प्रयाग में हरषवर्धन द्वारा आयोजित पाँच-वर्षीय धार्मिक सभा में क्या विशेष था? / What was special about the five-yearly religious congregation at Prayag organized by Harsha?",
     "options": {
-      "A": "सैनिक शक्ति / Military power",
-      "B": "साम्राज्यिक अधिकार / Imperial authority",
-      "C": "धार्मिक भक्ति / Religious devotion",
-      "D": "सजावटी कारण / Decorative purpose"
+      "A": "सभी धर्मों के प्रतिनिधियों को आमंत्रित करना / Inviting representatives of all religions",
+      "B": "राजकोष का बड़ा भाग दान करना / Donating a major part of the royal treasury",
+      "C": "सैन्य प्रदर्शन / Military parade",
+      "D": "गंगा स्नान का आयोजन / Organizing Ganga bathing"
     },
-    "answer": ["A", "B"],
-    "explanation": "राजा घोड़े पर सवार मुद्रा साम्राज्य की सैन्य शक्ति और अधिकार को दर्शाती थी।"
+    "correct_answers": ["A", "B", "D"],
+    "answer": "A, B, D",
+    "explanation": "प्रयाग सभा में हरष सभी धर्मों के प्रतिनिधियों को आमंत्रित करते, राजकोष का अधिकांश भाग दान करते और गंगा स्नान का आयोजन भी होता; यह सैन्य प्रदर्शन का मंच नहीं था।"
   },
   {
     "id": 30,
-    "question": "कुषाण सिक्कों पर देवताओं की आकृतियाँ किस दृष्टि से महत्वपूर्ण थीं? / How were deity figures on Kushan coins significant?",
+    "question": "बाणभट्ट ने हरषवर्धन के दरबार में कौन-कौन से ग्रंथ लिखे? / Which works did Banabhatta compose in Harsha’s court?",
     "options": {
-      "A": "धार्मिक संदेश / Religious message",
-      "B": "सांस्कृतिक पहचान / Cultural identity",
-      "C": "मात्र सजावट / Only decoration",
-      "D": "विदेशी व्यापार को आकर्षित करना / Attract foreign trade"
+      "A": "हर्षचरित / Harshacharita",
+      "B": "कादंबरी / Kadambari",
+      "C": "नागानंद / Nagananda",
+      "D": "रत्नावली / Ratnavali"
     },
-    "answer": ["A", "B"],
-    "explanation": "देवताओं की आकृतियाँ धार्मिक संदेश और सांस्कृतिक पहचान को व्यक्त करती थीं।"
+    "correct_answers": ["A", "B"],
+    "answer": "A, B",
+    "explanation": "बाणभट्ट ने हरष के दरबार में 'हर्षचरित' और 'कादंबरी' लिखी; 'नागानंद' और 'रत्नावली' स्वयं हरष द्वारा रचित नाटक थे।"
   },
   {
     "id": 31,
-    "question": "कुषाण सिक्कों के गोल्ड डिनार का वजन आमतौर पर कितना था? / What was the approximate weight of Kushan gold dinar?",
+    "question": "हरषवर्धन द्वारा रचित नाटकों में कौन-कौन से सम्मिलित हैं? / Which plays were composed by Harshavardhana?",
     "options": {
-      "A": "8 ग्राम / 8 grams",
-      "B": "4 ग्राम / 4 grams",
-      "C": "12 ग्राम / 12 grams",
-      "D": "16 ग्राम / 16 grams"
+      "A": "नागानंद / Nagananda",
+      "B": "प्रियदर्शिका / Priyadarshika",
+      "C": "रत्नावली / Ratnavali",
+      "D": "कादंबरी / Kadambari"
     },
-    "answer": ["A"],
-    "explanation": "कुषाण गोल्ड डिनार का औसत वजन लगभग 8 ग्राम था।"
+    "correct_answers": ["A", "B", "C"],
+    "answer": "A, B, C",
+    "explanation": "हरषवर्धन द्वारा रचित नाटक 'नागानंद', 'प्रियदर्शिका' और 'रत्नावली' हैं; 'कादंबरी' बाणभट्ट द्वारा लिखी गई थी।"
   },
   {
     "id": 32,
-    "question": "कुषाण सिक्कों पर यूनानी और बक्त्रीय भाषा का प्रयोग किस कारण से किया गया? / Why were Greek and Bactrian languages used on Kushan coins?",
+    "question": "ह्वेनसांग द्वारा लिखित यात्रा-वृत्तांत का नाम क्या है? / What is the name of Xuanzang’s travelogue?",
     "options": {
-      "A": "पूर्वी और पश्चिमी व्यापार में समझ बनाने के लिए / Facilitate East-West trade",
-      "B": "साम्राज्य की वैधता दिखाने के लिए / Assert imperial legitimacy",
-      "C": "स्थानीय जनता को शिक्षित करने के लिए / Educate local people",
-      "D": "सिक्कों को सजावटी बनाने के लिए / Decorative purpose"
+      "A": "सी-यू-की / Si-yu-ki",
+      "B": "फो-को-किंग / Fo-ko-king",
+      "C": "हर्षचरित / Harshacharita",
+      "D": "महावस्तु / Mahavastu"
     },
-    "answer": ["A", "B"],
-    "explanation": "यूनानी और बक्त्रीय लिपि और भाषा व्यापारिक और राजनीतिक प्रभाव दिखाने के लिए इस्तेमाल की गई।"
+    "correct_answers": ["A"],
+    "answer": "A",
+    "explanation": "ह्वेनसांग द्वारा लिखित यात्रा-वृत्तांत का नाम 'सी-यू-की' है, जिसमें भारत और हरष के शासन का विस्तार से वर्णन है।"
   },
   {
     "id": 33,
-    "question": "कनिष्क के सिक्कों पर कौन-कौन सी मुद्रा पाई जाती थी? / What types of coins were issued by Kanishka?",
+    "question": "हरषवर्धन के प्रशासन में सामंतवाद की क्या भूमिका थी? / What was the role of feudal polity in Harsha’s administration?",
     "options": {
-      "A": "सोने के डिनार / Gold dinars",
-      "B": "तांबे के सिक्के / Copper coins",
-      "C": "चांदी के सिक्के / Silver coins",
-      "D": "लोहे के सिक्के / Iron coins"
+      "A": "स्थानीय शासकों को सैन्य और राजस्व अधिकार देना / Granting military and revenue rights to local rulers",
+      "B": "केंद्र की शक्ति को मजबूत करना / Strengthening central authority",
+      "C": "प्रशासन का विकेंद्रीकरण / Decentralization of administration",
+      "D": "धार्मिक नियंत्रण बढ़ाना / Increasing religious control"
     },
-    "answer": ["A", "B"],
-    "explanation": "कनिष्क ने सोने के डिनार और तांबे के सिक्के जारी किए।"
+    "correct_answers": ["A", "C"],
+    "answer": "A, C",
+    "explanation": "हरष के समय सामंतों को सैन्य व राजस्व अधिकार दिए गए, जिससे प्रशासन विकेंद्रीकृत हुआ; इसने केंद्रीय सत्ता को उतना मजबूत नहीं किया जितना स्थानीय प्रभुत्व को।"
   },
   {
     "id": 34,
-    "question": "कुषाण सिक्कों की धार्मिक विविधता किसका प्रमाण है? / Religious diversity on Kushan coins is evidence of what?",
+    "question": "हरषवर्धन की राजस्व प्रणाली के मुख्य स्रोत क्या थे? / What were the main sources of Harshavardhana’s revenue system?",
     "options": {
-      "A": "सम्राट की सहिष्णुता / Emperor's tolerance",
-      "B": "एक धर्म की प्रभुता / Dominance of one religion",
-      "C": "अंतर्राष्ट्रीय व्यापार / International trade",
-      "D": "स्थानीय प्रशासन / Local administration"
+      "A": "भूमि कर / Land tax",
+      "B": "व्यापार शुल्क / Trade duties",
+      "C": "जल कर / Water tax",
+      "D": "पशु कर / Animal tax"
     },
-    "answer": ["A"],
-    "explanation": "कुषाण सिक्कों में विभिन्न देवताओं को अंकित करना सम्राट की धार्मिक सहिष्णुता का प्रमाण है।"
+    "correct_answers": ["A", "B"],
+    "answer": "A, B",
+    "explanation": "हरष के राजस्व के मुख्य स्रोत भूमि कर और व्यापार शुल्क थे; जल कर और पशु कर का प्रमुख उल्लेख नहीं मिलता।"
   },
   {
     "id": 35,
-    "question": "कुषाण सिक्कों पर राजा और देवताओं की आकृतियाँ किस दृष्टि से मूल्यवान थीं? / In what sense were the figures on Kushan coins valuable?",
+    "question": "हरष की धार्मिक नीति का विशेष पहलू क्या था? / What was a special aspect of Harsha’s religious policy?",
     "options": {
-      "A": "ऐतिहासिक और सांस्कृतिक दृष्टि / Historical and cultural perspective",
-      "B": "केवल आर्थिक / Only economic",
-      "C": "धार्मिक / Religious",
-      "D": "सजावटी / Decorative"
+      "A": "सभी धर्मों के प्रति सहिष्णुता / Tolerance towards all religions",
+      "B": "बौद्ध धर्म को एकमात्र संरक्षण / Exclusive patronage to Buddhism",
+      "C": "हिंदू और बौद्ध संस्थाओं दोनों का समर्थन / Support to both Hindu and Buddhist institutions",
+      "D": "जैन धर्म को संरक्षण / Patronage to Jainism"
     },
-    "answer": ["A", "C"],
-    "explanation": "राजा और देवताओं की आकृतियाँ ऐतिहासिक, सांस्कृतिक और धार्मिक दृष्टि से महत्वपूर्ण थीं।"
+    "correct_answers": ["A", "C"],
+    "answer": "A, C",
+    "explanation": "हरष ने सभी धर्मों के प्रति सहिष्णु नीति अपनाई और हिंदू व बौद्ध संस्थानों दोनों को संरक्षण दिया; केवल बौद्ध धर्म को ही संरक्षण नहीं दिया।"
   },
   {
     "id": 36,
-    "question": "कुषाण साम्राज्य के सिक्कों ने किस क्षेत्र में प्रभाव डाला? / In which domain did Kushan coins have impact?",
+    "question": "हरष और पुलकेशिन द्वितीय के संघर्ष का परिणाम क्या रहा? / What was the result of the conflict between Harsha and Pulakeshin II?",
     "options": {
-      "A": "धार्मिक और सांस्कृतिक / Religious and cultural",
-      "B": "व्यापार और आर्थिक / Trade and economic",
-      "C": "सिर्फ स्थानीय / Only local",
-      "D": "केवल राजनीतिक / Only political"
+      "A": "हरष की विजय / Victory of Harsha",
+      "B": "पुलकेशिन द्वितीय की विजय / Victory of Pulakeshin II",
+      "C": "नर्मदा को सीमा मानने की संधि / Treaty recognizing Narmada as boundary",
+      "D": "हरष का दक्षिण भारत पर अधिकार / Harsha’s control over South India"
     },
-    "answer": ["A", "B"],
-    "explanation": "कुषाण सिक्कों का प्रभाव धार्मिक, सांस्कृतिक, व्यापारिक और आर्थिक क्षेत्रों में था।"
+    "correct_answers": ["B", "C"],
+    "answer": "B, C",
+    "explanation": "पुलकेशिन द्वितीय ने हरष को पराजित किया और नर्मदा को दोनों साम्राज्यों की सीमा के रूप में मान्यता मिली।"
   },
   {
     "id": 37,
-    "question": "कुषाण सिक्कों पर राजा की मुद्रा और देवताओं का संयोजन किस संदेश को दिखाता था? / What did the combination of king’s posture and deities signify on Kushan coins?",
+    "question": "कौन-सा स्रोत हरष के जीवन का प्रत्यक्ष समकालीन विवरण देता है? / Which source gives a direct contemporary account of Harsha’s life?",
     "options": {
-      "A": "राजा की शक्ति और धार्मिक संरक्षण / King’s power and religious protection",
-      "B": "सिर्फ व्यापारिक मूल्य / Only trade value",
-      "C": "राजनीतिक संदेश / Political message",
-      "D": "सजावटी दृष्टि / Decorative purpose"
+      "A": "हर्षचरित / Harshacharita",
+      "B": "सी-यू-की / Si-yu-ki",
+      "C": "अइहोले अभिलेख / Aihole inscription",
+      "D": "रत्नावली / Ratnavali"
     },
-    "answer": ["A", "C"],
-    "explanation": "राजा की मुद्रा और देवताओं का संयोजन साम्राज्य की शक्ति और धार्मिक संरक्षण के साथ राजनीतिक संदेश देता था।"
+    "correct_answers": ["A", "B"],
+    "answer": "A, B",
+    "explanation": "'हर्षचरित' बाणभट्ट द्वारा और 'सी-यू-की' ह्वेनसांग द्वारा लिखे गए प्रत्यक्ष समकालीन स्रोत हैं; अइहोले अभिलेख मुख्यतः पुलकेशिन द्वितीय की विजय का विवरण है।"
   },
   {
     "id": 38,
-    "question": "कुषाण सिक्कों पर देवताओं के चित्र किस शैली में बनाए जाते थे? / In which style were deity figures on Kushan coins depicted?",
+    "question": "हरषवर्धन के नाटकों का विषय-वस्तु क्या थी? / What was the theme of Harshavardhana’s plays?",
     "options": {
-      "A": "स्थानीय भारतीय शैली / Local Indian style",
-      "B": "ग्रीक शैली / Greek style",
-      "C": "मिश्रित शैली / Mixed style",
-      "D": "केवल ज्यामितीय / Only geometric"
+      "A": "धार्मिक कथाएं / Religious tales",
+      "B": "रोमांटिक कथाएं / Romantic tales",
+      "C": "राजनीतिक व्यंग्य / Political satire",
+      "D": "दर्शन व नैतिकता / Philosophy and morality"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "कुषाण सिक्कों पर देवताओं की आकृतियाँ स्थानीय भारतीय, ग्रीक और मिश्रित शैली में बनाई जाती थीं।"
+    "correct_answers": ["A", "B", "D"],
+    "answer": "A, B, D",
+    "explanation": "हरष के नाटक धार्मिक, रोमांटिक और नैतिक-दर्शन आधारित विषयों पर केंद्रित थे; राजनीतिक व्यंग्य इनमें नहीं था।"
   },
   {
     "id": 39,
-    "question": "कुषाण सिक्कों में किन विशेषताओं ने उन्हें अंतर्राष्ट्रीय व्यापार में स्वीकार्य बनाया? / Which features made Kushan coins acceptable in international trade?",
+    "question": "हरषवर्धन की सभा में भाग लेने वाला विदेशी यात्री कौन था? / Which foreign traveller attended Harshavardhana’s assembly?",
     "options": {
-      "A": "धातु की शुद्धता / Metal purity",
-      "B": "मानकीकृत वजन / Standardized weight",
-      "C": "देवताओं का चित्र / Deity images",
-      "D": "राजा की तस्वीर / King’s portrait"
+      "A": "फाह्यान / Faxian",
+      "B": "ह्वेनसांग / Xuanzang",
+      "C": "अल-बरूनी / Al-Biruni",
+      "D": "इब्न बतूता / Ibn Battuta"
     },
-    "answer": ["A", "B"],
-    "explanation": "धातु की शुद्धता और मानकीकृत वजन ने कुशाण सिक्कों को अंतर्राष्ट्रीय व्यापार में स्वीकार्य बनाया।"
+    "correct_answers": ["B"],
+    "answer": "B",
+    "explanation": "ह्वेनसांग (Xuanzang) ने हरष की सभा में भाग लिया और उसके शासन का प्रत्यक्ष विवरण दिया; अन्य यात्री विभिन्न कालों से संबंधित हैं।"
   },
   {
     "id": 40,
-    "question": "कुषाण सिक्कों के अध्ययन से हमें क्या जानकारी मिलती है? / What information is derived from the study of Kushan coins?",
+    "question": "हरषवर्धन द्वारा प्रयाग सभा में दान का महत्व क्या था? / What was the significance of Harsha’s donation in the Prayag assembly?",
     "options": {
-      "A": "साम्राज्य की सीमा और प्रशासन / Empire boundaries and administration",
-      "B": "धार्मिक विश्वास और प्रतीक / Religious beliefs and symbols",
-      "C": "सिर्फ आर्थिक मूल्य / Only economic value",
-      "D": "सिक्कों की सजावट / Coin decoration"
+      "A": "धार्मिक एकता को बढ़ावा / Promotion of religious unity",
+      "B": "प्रजा में लोकप्रियता / Popularity among subjects",
+      "C": "आर्थिक स्थिरता / Economic stability",
+      "D": "धार्मिक संस्थानों का पोषण / Support of religious institutions"
     },
-    "answer": ["A", "B"],
-    "explanation": "कुषाण सिक्कों के अध्ययन से साम्राज्य की प्रशासनिक व्यवस्था, धार्मिक विश्वास और सांस्कृतिक प्रतीक स्पष्ट होते हैं।"
+    "correct_answers": ["A", "B", "D"],
+    "answer": "A, B, D",
+    "explanation": "हरष द्वारा प्रयाग सभा में दान धार्मिक एकता, प्रजा में लोकप्रियता और धार्मिक संस्थानों के पोषण का प्रतीक था; आर्थिक स्थिरता इसका मुख्य उद्देश्य नहीं था।"
   },
   {
     "id": 41,
-    "question": "चोल साम्राज्य के सिक्कों में मुख्य धातु क्या थी? / What was the main metal of Chola coins?",
+    "question": "उत्तर गुप्तों का उद्भव और प्रमुख शासन क्षेत्र कौन-से थे? / What was the origin and main territorial extent of the Later Guptas?",
     "options": {
-      "A": "सोना / Gold",
-      "B": "तांबा / Copper",
-      "C": "चांदी / Silver",
-      "D": "लोहा / Iron"
+      "A": "मगध और बिहार के भाग (Magadha & parts of Bihar)",
+      "B": "मालवा और गुजरात (Malwa & Gujarat)",
+      "C": "6वीं–7वीं शताब्दी ईस्वी (6th–7th century CE)",
+      "D": "कश्मीर और पंजाब (Kashmir & Punjab)"
     },
-    "answer": ["A", "B"],
-    "explanation": "चोल साम्राज्य के सिक्के मुख्यतः सोने और तांबे में बने थे, जो व्यापार और स्थानीय उपयोग दोनों में प्रचलित थे।"
+    "answer": ["A", "C"],
+    "explanation": "उत्तर गुप्तों का उद्भव 6वीं–7वीं शताब्दी ईस्वी में हुआ और इनका शासन मुख्यतः मगध व बिहार के भागों में था।"
   },
   {
     "id": 42,
-    "question": "चोल सिक्कों पर कौन-कौन से चित्र/प्रतीक पाए जाते थे? / Which motifs were found on Chola coins?",
+    "question": "गुप्त साम्राज्य और उत्तर गुप्तों के बीच कौन-से प्रमुख अंतर पाए जाते हैं? / Which are the major distinctions between the Imperial Guptas and the Later Guptas?",
     "options": {
-      "A": "शेर / Tiger",
-      "B": "घोड़ा / Horse",
-      "C": "मंदिर / Temple",
-      "D": "सूर्य / Sun"
+      "A": "राजनीतिक शक्ति में गिरावट (Decline in political power)",
+      "B": "सांस्कृतिक पतन (Cultural decline)",
+      "C": "अधिक क्षेत्रीय सीमितता (More regional limitation)",
+      "D": "विदेशी आक्रमणों का असर (Impact of foreign invasions)"
     },
-    "answer": ["A", "C"],
-    "explanation": "चोल सिक्कों पर शेर और मंदिर के चित्र प्रमुख रूप से अंकित पाए जाते थे।"
+    "answer": ["A", "C", "D"],
+    "explanation": "उत्तर गुप्त राजनीतिक रूप से कमजोर थे, सीमित क्षेत्र पर शासन करते थे और हूण जैसे विदेशी आक्रमणों से प्रभावित हुए।"
   },
   {
     "id": 43,
-    "question": "विजयनगर साम्राज्य के सिक्कों में कौन सा विशिष्ट चित्र मिलता है? / Which distinctive motif is found on Vijayanagara coins?",
+    "question": "उत्तर गुप्तों का शासनकाल मुख्यतः किन क्षेत्रों में था? / The Later Guptas ruled mainly over which areas?",
     "options": {
-      "A": "सिंह / Lion",
-      "B": "शेर और हाथी / Lion and Elephant",
-      "C": "मंदिर / Temple",
-      "D": "घोड़ा / Horse"
+      "A": "मगध (Magadha)",
+      "B": "अंग (Anga)",
+      "C": "बंगाल (Bengal)",
+      "D": "कांची (Kanchi)"
     },
-    "answer": ["B", "C"],
-    "explanation": "विजयनगर सिक्कों पर शेर और हाथी के साथ मंदिर के चित्र भी दिखाई देते हैं, जो साम्राज्य की शक्ति और धार्मिक दृष्टि दर्शाते हैं।"
+    "answer": ["A", "B", "C"],
+    "explanation": "उत्तर गुप्तों का शासन मगध, अंग और कुछ समय के लिए बंगाल के हिस्सों तक फैला था।"
   },
   {
     "id": 44,
-    "question": "राजपूत सिक्कों में नाम और लिपि कैसे अंकित होती थी? / How were rulers’ names inscribed on Rajput coins?",
+    "question": "उत्तर गुप्तों के उल्लेखनीय शासक कौन-कौन थे? / Who were the notable rulers of the Later Guptas?",
     "options": {
-      "A": "स्थानीय लिपियों में / In local scripts",
-      "B": "संस्कृत में / In Sanskrit",
-      "C": "अरबी लिपि में / In Arabic script",
-      "D": "ग्रीक लिपि में / In Greek script"
+      "A": "कृष्णगुप्त (Krishna Gupta)",
+      "B": "कुमारगुप्त तृतीय (Kumaragupta III)",
+      "C": "दामोदरगुप्त (Damodaragupta)",
+      "D": "आदित्यसेन (Adityasena)"
     },
-    "answer": ["A", "B"],
-    "explanation": "राजपूत सिक्कों पर शासकों के नाम स्थानीय लिपियों और संस्कृत में अंकित होते थे।"
+    "answer": ["A", "B", "C", "D"],
+    "explanation": "उत्तर गुप्तों के प्रमुख शासकों में कृष्णगुप्त, कुमारगुप्त III, दामोदरगुप्त और आदित्यसेन शामिल थे।"
   },
   {
     "id": 45,
-    "question": "चोल सिक्कों का व्यापारिक महत्व क्या था? / What was the commercial importance of Chola coins?",
+    "question": "उत्तर गुप्तों का मुख्य राजनीतिक प्रतिद्वंदी कौन था? / Who was the main political rival of the Later Guptas?",
     "options": {
-      "A": "स्थानीय व्यापार में उपयोग / Used in local trade",
-      "B": "विदेशी व्यापार को आकर्षित करना / Attract foreign trade",
-      "C": "सिर्फ धार्मिक अनुष्ठान / Only for rituals",
-      "D": "राजनीतिक संदेश / Convey political message"
+      "A": "मौखरी (Maukhari)",
+      "B": "हूण (Hunas)",
+      "C": "चालुक्य (Chalukyas)",
+      "D": "पल्लव (Pallavas)"
     },
     "answer": ["A", "B"],
-    "explanation": "चोल सिक्के स्थानीय और विदेशी व्यापार दोनों में महत्वपूर्ण थे।"
+    "explanation": "उत्तर गुप्तों का संघर्ष मौखरी शासकों और हूण आक्रमणकारियों से हुआ।"
   },
   {
     "id": 46,
-    "question": "विजयनगर सिक्कों पर हाथी प्रतीक का क्या महत्व था? / What was the significance of elephant motif on Vijayanagara coins?",
+    "question": "उत्तर गुप्तों के पतन का कारण क्या था? / What was the main cause of the Later Guptas’ decline?",
     "options": {
-      "A": "साम्राज्य की शक्ति / Symbol of imperial power",
-      "B": "धार्मिक महत्व / Religious significance",
-      "C": "सिर्फ सजावट / Decorative purpose",
-      "D": "विदेशी व्यापार संकेत / Foreign trade indicator"
+      "A": "हर्ष द्वारा पराजय (Defeat by Harsha)",
+      "B": "आर्थिक पतन (Economic decline)",
+      "C": "आंतरिक विद्रोह (Internal revolts)",
+      "D": "समुद्री व्यापार में गिरावट (Decline in maritime trade)"
     },
     "answer": ["A", "B"],
-    "explanation": "हाथी का प्रतीक साम्राज्य की शक्ति और धार्मिक दृष्टि को दर्शाता था।"
+    "explanation": "उत्तर गुप्तों को हर्ष ने पराजित किया और आर्थिक पतन ने इनके शासन को कमजोर किया।"
   },
   {
     "id": 47,
-    "question": "चोल और विजयनगर सिक्कों में किस तरह के प्रतीकात्मक चित्र पाए जाते थे? / What symbolic motifs are found in Chola and Vijayanagara coins?",
+    "question": "उत्तर गुप्त काल में व्यापार और नगरों की स्थिति कैसी थी? / What was the state of trade and urban centres during the Later Gupta period?",
     "options": {
-      "A": "जानवर / Animals",
-      "B": "मंदिर / Temple",
-      "C": "राजा की तस्वीर / King’s portrait",
-      "D": "ज्यामितीय डिजाइन / Geometric design"
+      "A": "व्यापार में गिरावट (Decline in trade)",
+      "B": "शहरी केंद्रों का पतन (Decline of urban centres)",
+      "C": "अंतर्राष्ट्रीय व्यापार में वृद्धि (Increase in international trade)",
+      "D": "ग्राम आधारित अर्थव्यवस्था का विकास (Growth of village-based economy)"
     },
-    "answer": ["A", "B"],
-    "explanation": "दोनों साम्राज्यों के सिक्कों पर जानवर और मंदिर के प्रतीक मिलते हैं, जो सत्ता और धार्मिक दृष्टिकोण दिखाते हैं।"
+    "answer": ["A", "B", "D"],
+    "explanation": "उत्तर गुप्त काल में व्यापार और नगरों का पतन हुआ, जबकि ग्राम आधारित अर्थव्यवस्था और कृषक जीवन प्रमुख हुआ।"
   },
   {
     "id": 48,
-    "question": "राजपूत सिक्कों का स्थानीय प्रशासन में क्या महत्व था? / What was the significance of Rajput coins in local administration?",
+    "question": "उत्तर गुप्तों के प्रशासन में कौन-सी प्रवृत्ति उभरी? / Which trend emerged in the administration of the Later Guptas?",
     "options": {
-      "A": "कर संग्रह में / Tax collection",
-      "B": "सैन्य वेतन भुगतान / Military salary",
-      "C": "सिर्फ धार्मिक उद्देश्य / Only religious purposes",
-      "D": "मात्र सजावट / Only decorative"
+      "A": "भूमि अनुदान प्रणाली का विस्तार (Expansion of land grant system)",
+      "B": "राजधानी का बार-बार परिवर्तन (Frequent shifting of capital)",
+      "C": "कृषि कर का उन्मूलन (Abolition of agricultural tax)",
+      "D": "प्रोटो-जागीरदारी संरचना (Proto-feudal structure)"
     },
-    "answer": ["A", "B"],
-    "explanation": "राजपूत सिक्के कर संग्रह और सैनिकों की वेतन व्यवस्था में प्रयोग किए जाते थे।"
+    "answer": ["A", "D"],
+    "explanation": "उत्तर गुप्त प्रशासन में भूमि अनुदान और प्रोटो-जागीरदारी व्यवस्था का विकास हुआ।"
   },
   {
     "id": 49,
-    "question": "चोल सिक्कों पर शेर प्रतीक का क्या संदेश था? / What did the tiger symbol on Chola coins signify?",
+    "question": "उत्तर गुप्त काल में धार्मिक स्थिति कैसी थी? / What was the religious condition during the Later Gupta period?",
     "options": {
-      "A": "साम्राज्यिक शक्ति / Imperial power",
-      "B": "धार्मिक भक्ति / Religious devotion",
-      "C": "विदेशी व्यापार / Foreign trade",
-      "D": "सजावटी उद्देश्य / Decorative purpose"
+      "A": "हिंदू पुनरुत्थान (Hindu revivalism)",
+      "B": "बौद्ध संरक्षण (Buddhist patronage)",
+      "C": "जैन धर्म का पतन (Decline of Jainism)",
+      "D": "धार्मिक सहिष्णुता (Religious tolerance)"
     },
-    "answer": ["A", "B"],
-    "explanation": "शेर प्रतीक साम्राज्य की शक्ति और धार्मिक भक्ति का संकेत देता था।"
+    "answer": ["A", "B", "D"],
+    "explanation": "उत्तर गुप्तों के समय हिंदू पुनरुत्थान के साथ बौद्ध संरक्षण भी जारी रहा और धार्मिक सहिष्णुता बनी रही।"
   },
   {
     "id": 50,
-    "question": "विजयनगर सिक्कों पर राजा और हाथी का संयोजन किस संदेश को दर्शाता था? / What message did the combination of king and elephant convey on Vijayanagara coins?",
+    "question": "उत्तर गुप्त काल की सांस्कृतिक उपलब्धियों में क्या शामिल था? / What were the cultural achievements of the Later Gupta period?",
     "options": {
-      "A": "सैन्य और राजनीतिक शक्ति / Military and political power",
-      "B": "धार्मिक संरक्षण / Religious protection",
-      "C": "सिर्फ व्यापारिक मूल्य / Only trade value",
-      "D": "सजावटी उद्देश्य / Decorative purpose"
+      "A": "मंदिर निर्माण (Temple building)",
+      "B": "संस्कृत साहित्य का संरक्षण (Support of Sanskrit literature)",
+      "C": "अजंता की गुफाओं का निर्माण (Construction of Ajanta caves)",
+      "D": "धातु कला का विकास (Development of metallurgy)"
     },
     "answer": ["A", "B"],
-    "explanation": "राजा और हाथी का संयोजन सैन्य और राजनीतिक शक्ति के साथ धार्मिक संरक्षण का संदेश देता था।"
+    "explanation": "उत्तर गुप्त काल में मंदिर निर्माण और संस्कृत साहित्य के संरक्षण पर ध्यान दिया गया।"
   },
   {
     "id": 51,
-    "question": "मध्यकालीन भारतीय सिक्कों पर स्थानीय लिपियों का प्रयोग क्यों किया गया? / Why were local scripts used on medieval Indian coins?",
+    "question": "उत्तर गुप्तों के अभिलेखों में कौन-से प्रमुख हैं? / Which are the major inscriptions of the Later Guptas?",
     "options": {
-      "A": "स्थानीय जनता को पहचान देने के लिए / To provide identity to local people",
-      "B": "विदेशी व्यापार के लिए / For foreign trade",
-      "C": "सिक्कों को सजावटी बनाने के लिए / For decoration",
-      "D": "साम्राज्य की वैधता दिखाने के लिए / To assert imperial legitimacy"
+      "A": "भितरी ताम्रपत्र (Bhitari Copperplate)",
+      "B": "नालंदा ताम्रपत्र (Nalanda Copperplate)",
+      "C": "अलहाबाद स्तंभ (Allahabad Pillar)",
+      "D": "ऐहोल प्रशस्ति (Aihole Prashasti)"
     },
-    "answer": ["A", "D"],
-    "explanation": "स्थानीय लिपियों का प्रयोग स्थानीय पहचान और साम्राज्य की वैधता को दर्शाने के लिए किया गया।"
+    "answer": ["A", "B"],
+    "explanation": "उत्तर गुप्तों के प्रमुख अभिलेख भितरी और नालंदा ताम्रपत्र हैं।"
   },
   {
     "id": 52,
-    "question": "चोल सिक्कों की ऐतिहासिक जानकारी हमें किस बात की जानकारी देती है? / What historical information do Chola coins provide?",
+    "question": "नालंदा ताम्रपत्र में क्या उल्लेखित है? / What is mentioned in the Nalanda Copperplate?",
     "options": {
-      "A": "राजा के नाम और शासनकाल / King’s name and reign",
-      "B": "धार्मिक विश्वास / Religious beliefs",
-      "C": "सिर्फ सजावट / Only decorative",
-      "D": "सिक्कों का वजन / Coin weight"
+      "A": "भूमि अनुदान का विवरण (Details of land grant)",
+      "B": "बौद्ध मठ के संरक्षण का आदेश (Order for patronage of Buddhist monastery)",
+      "C": "कर उन्मूलन का आदेश (Order abolishing taxes)",
+      "D": "शाही वंशावली (Royal genealogy)"
     },
-    "answer": ["A", "B"],
-    "explanation": "चोल सिक्के राजा के नाम, शासनकाल और धार्मिक विश्वासों की जानकारी देते हैं।"
+    "answer": ["A", "B", "D"],
+    "explanation": "नालंदा ताम्रपत्र में भूमि अनुदान, बौद्ध मठों के संरक्षण और शाही वंशावली का उल्लेख है।"
   },
   {
     "id": 53,
-    "question": "विजयनगर सिक्कों पर मंदिर प्रतीक किस दृष्टि से महत्वपूर्ण था? / Why was the temple motif significant on Vijayanagara coins?",
+    "question": "भितरी ताम्रपत्र से हमें क्या जानकारी मिलती है? / What information do we get from the Bhitari Copperplate?",
     "options": {
-      "A": "धार्मिक दृष्टि से / Religious perspective",
-      "B": "साम्राज्य की वैधता दिखाने के लिए / To assert empire legitimacy",
-      "C": "सिर्फ सजावटी / Only decorative",
-      "D": "विदेशी व्यापार / Foreign trade"
+      "A": "शासन क्षेत्र (Extent of rule)",
+      "B": "धार्मिक संरक्षण (Religious patronage)",
+      "C": "हर्ष से संघर्ष (Conflict with Harsha)",
+      "D": "भूमि अनुदान (Land grants)"
     },
-    "answer": ["A", "B"],
-    "explanation": "मंदिर प्रतीक धार्मिक महत्व और साम्राज्य की वैधता को दर्शाता था।"
+    "answer": ["A", "B", "D"],
+    "explanation": "भितरी ताम्रपत्र में शासन क्षेत्र, धार्मिक संरक्षण और भूमि अनुदान की जानकारी मिलती है।"
   },
   {
     "id": 54,
-    "question": "राजपूत सिक्कों पर जानवर प्रतीक किस संदेश को दर्शाते थे? / What message did animal symbols on Rajput coins convey?",
+    "question": "उत्तर गुप्त काल की आर्थिक प्रवृत्ति में क्या देखा गया? / What was the economic trend during the Later Gupta period?",
     "options": {
-      "A": "साम्राज्यिक शक्ति / Imperial power",
-      "B": "सैन्य क्षमता / Military capability",
-      "C": "धार्मिक भक्ति / Religious devotion",
-      "D": "सजावटी उद्देश्य / Decorative purpose"
+      "A": "व्यापार में गिरावट (Decline in trade)",
+      "B": "मुद्रा प्रचलन में कमी (Reduction in coin circulation)",
+      "C": "भूमि आधारित अर्थव्यवस्था (Land-based economy)",
+      "D": "राजकीय खजाने की वृद्धि (Increase in royal treasury)"
     },
-    "answer": ["A", "B"],
-    "explanation": "राजपूत सिक्कों पर जानवर प्रतीक साम्राज्यिक शक्ति और सैन्य क्षमता को दर्शाते थे।"
+    "answer": ["A", "B", "C"],
+    "explanation": "उत्तर गुप्त काल में व्यापार में गिरावट, मुद्रा प्रचलन में कमी और भूमि आधारित अर्थव्यवस्था का विकास हुआ।"
   },
   {
     "id": 55,
-    "question": "चोल और विजयनगर सिक्कों में किस तत्व ने उन्हें व्यापार में स्वीकार्य बनाया? / Which factor made Chola and Vijayanagara coins acceptable in trade?",
+    "question": "उत्तर गुप्तों और मौखरी शासकों के संघर्ष का परिणाम क्या हुआ? / What was the result of the conflict between the Later Guptas and the Maukharis?",
     "options": {
-      "A": "धातु की शुद्धता / Metal purity",
-      "B": "मानकीकृत वजन / Standardized weight",
-      "C": "राजा की तस्वीर / King’s portrait",
-      "D": "मंदिर और जानवर प्रतीक / Temple and animal motifs"
+      "A": "सीमाई क्षेत्रों का नुकसान (Loss of frontier territories)",
+      "B": "शक्ति संतुलन में बदलाव (Change in power balance)",
+      "C": "मौखरी विजय (Maukhari victory)",
+      "D": "उत्तर गुप्तों का विस्तार (Expansion of Later Guptas)"
     },
-    "answer": ["A", "B"],
-    "explanation": "धातु की शुद्धता और मानकीकृत वजन ने इन्हें व्यापार में स्वीकार्य बनाया।"
+    "answer": ["A", "B", "C"],
+    "explanation": "संघर्ष में मौखरी विजयी हुए, उत्तर गुप्तों ने सीमाई क्षेत्रों को खो दिया और शक्ति संतुलन बदल गया।"
   },
   {
     "id": 56,
-    "question": "मध्यकालीन सिक्कों के अध्ययन से हमें क्या जानकारी मिलती है? / What information is derived from studying medieval coins?",
+    "question": "उत्तर गुप्तों के समय प्रशासन की विशेषता क्या थी? / What was the characteristic feature of administration during the Later Gupta period?",
     "options": {
-      "A": "साम्राज्य की शक्ति और विस्तार / Empire power and extent",
-      "B": "धार्मिक और सांस्कृतिक दृष्टि / Religious and cultural perspective",
-      "C": "सिर्फ सिक्कों का आकार / Only coin size",
-      "D": "केवल सजावट / Only decoration"
+      "A": "राज्य का विकेन्द्रीकरण (Decentralization of state)",
+      "B": "भूमि अनुदानों पर निर्भरता (Dependence on land grants)",
+      "C": "मजबूत केंद्रीय सेना (Strong central army)",
+      "D": "कर-मुक्त भूमि का विस्तार (Expansion of tax-free land)"
     },
-    "answer": ["A", "B"],
-    "explanation": "इन सिक्कों के अध्ययन से साम्राज्य की शक्ति, विस्तार और धार्मिक-सांस्कृतिक दृष्टि का ज्ञान मिलता है।"
+    "answer": ["A", "B", "D"],
+    "explanation": "उत्तर गुप्त प्रशासन विकेन्द्रीकृत था, भूमि अनुदानों पर निर्भर करता था और कर-मुक्त भूमि का विस्तार हुआ।"
   },
   {
     "id": 57,
-    "question": "विजयनगर और चोल सिक्कों में जानवर प्रतीक का उद्देश्य क्या था? / What was the purpose of animal motifs on Vijayanagara and Chola coins?",
+    "question": "उत्तर गुप्त काल की सांस्कृतिक नीति में क्या शामिल था? / What was included in the cultural policy of the Later Guptas?",
     "options": {
-      "A": "साम्राज्य की शक्ति दिखाना / Display empire power",
-      "B": "धार्मिक दृष्टि / Religious perspective",
-      "C": "सिर्फ सजावट / Decorative only",
-      "D": "विदेशी व्यापार संकेत / Foreign trade indicator"
+      "A": "संस्कृत ग्रंथों का संरक्षण (Preservation of Sanskrit texts)",
+      "B": "मंदिर वास्तुकला का विकास (Development of temple architecture)",
+      "C": "बौद्ध विहारों का विस्तार (Expansion of Buddhist viharas)",
+      "D": "जैन मठों का विनाश (Destruction of Jain monasteries)"
     },
-    "answer": ["A", "B"],
-    "explanation": "जानवर प्रतीक साम्राज्य की शक्ति और धार्मिक दृष्टिकोण को दर्शाते थे।"
+    "answer": ["A", "B", "C"],
+    "explanation": "उत्तर गुप्तों ने संस्कृत साहित्य का संरक्षण, मंदिर वास्तुकला और बौद्ध विहारों के विस्तार को बढ़ावा दिया।"
   },
   {
     "id": 58,
-    "question": "चोल और राजपूत सिक्कों पर राजा का नाम अंकित क्यों किया गया? / Why was the king's name inscribed on Chola and Rajput coins?",
+    "question": "उत्तर गुप्तों के पतन के बाद उनका क्षेत्र किसके अधीन आ गया? / After the decline of the Later Guptas, their territory came under whose control?",
     "options": {
-      "A": "सिक्कों की वैधता दिखाने के लिए / To assert coin legitimacy",
-      "B": "धार्मिक भक्ति दिखाने के लिए / To show religious devotion",
-      "C": "विदेशी व्यापार आकर्षित करने के लिए / To attract foreign trade",
-      "D": "सिर्फ सजावटी उद्देश्य / Only decorative"
+      "A": "हर्ष (Harsha)",
+      "B": "पल्लव (Pallavas)",
+      "C": "गौड़ (Gauda kingdom)",
+      "D": "चालुक्य (Chalukyas)"
     },
-    "answer": ["A"],
-    "explanation": "राजा का नाम सिक्कों की वैधता और साम्राज्य की सत्ता को दर्शाने के लिए अंकित किया गया।"
+    "answer": ["A", "C"],
+    "explanation": "उत्तर गुप्तों का क्षेत्र हर्ष के साम्राज्य में मिला और कुछ क्षेत्र गौड़ राज्य के अधीन आ गए।"
   },
   {
     "id": 59,
-    "question": "मध्यकालीन भारतीय सिक्कों पर मंदिर और जानवर प्रतीक किस दृष्टि से महत्वपूर्ण थे? / Why were temple and animal motifs significant on medieval Indian coins?",
+    "question": "उत्तर गुप्तों के समय कृषि व्यवस्था में क्या परिवर्तन आया? / What change occurred in the agrarian system during the Later Gupta period?",
     "options": {
-      "A": "सांस्कृतिक और धार्मिक दृष्टि / Cultural and religious perspective",
-      "B": "सिर्फ सजावट / Only decorative",
-      "C": "व्यापार में उपयोग / Trade use",
-      "D": "राजनीतिक संदेश / Political message"
+      "A": "कृषि भूमि का निजीकरण (Privatization of agricultural land)",
+      "B": "भूमि अनुदानों के कारण कृषक निर्भरता (Peasant dependence due to land grants)",
+      "C": "कृषि उत्पादन में भारी वृद्धि (Large increase in agricultural output)",
+      "D": "सिंचाई साधनों का विकास (Development of irrigation facilities)"
     },
-    "answer": ["A", "D"],
-    "explanation": "मंदिर और जानवर प्रतीक सांस्कृतिक, धार्मिक और राजनीतिक संदेश प्रदान करते थे।"
+    "answer": ["A", "B", "D"],
+    "explanation": "भूमि अनुदानों के कारण कृषक निर्भरता बढ़ी, निजी स्वामित्व में वृद्धि हुई और सिंचाई साधनों का विकास हुआ।"
   },
   {
     "id": 60,
-    "question": "चोल, विजयनगर और राजपूत सिक्कों में प्रमुख सामान्य विशेषता क्या थी? / What was the main common feature of Chola, Vijayanagara and Rajput coins?",
+    "question": "उत्तर गुप्तों की राजनीतिक संरचना को 'प्रोटो-जागीरदारी' क्यों कहा जाता है? / Why is the political structure of the Later Guptas called 'proto-feudal'?",
     "options": {
-      "A": "स्थानिक लिपि में नाम अंकन / Names inscribed in local scripts",
-      "B": "मूल धातु सोना या तांबा / Base metal gold or copper",
-      "C": "सिर्फ धार्मिक चित्र / Only religious images",
-      "D": "सिक्कों का आकार समान / Uniform coin size"
+      "A": "भूमि अनुदानों से स्थानीय प्रभुओं का उभार (Rise of local chiefs through land grants)",
+      "B": "केंद्र की सत्ता का क्षरण (Erosion of central authority)",
+      "C": "सैन्य सेवाओं के बदले भूमि देना (Granting land in exchange for military services)",
+      "D": "केवल कृषकों पर कर लगाना (Taxing only peasants)"
     },
-    "answer": ["A", "B"],
-    "explanation": "तीनों साम्राज्यों के सिक्कों में स्थानीय लिपियों में नाम अंकित होते थे और मुख्य धातु सोना या तांबा थी।"
+    "answer": ["A", "B", "C"],
+    "explanation": "भूमि अनुदानों से स्थानीय प्रभु शक्तिशाली हुए, केंद्रीय सत्ता कमजोर हुई और सैन्य सेवाओं के बदले भूमि दी जाती थी।"
   }
 ]
-
 
 
