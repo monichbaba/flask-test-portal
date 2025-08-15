@@ -1,966 +1,725 @@
 [
   {
     "id": 1,
-    "question": "उत्तर प्रदेश के देवगढ़ स्थित दशावतार मंदिर किस स्थापत्य शैली का प्रमुख उदाहरण है? / Dashavatara Temple at Deogarh, Uttar Pradesh is a prime example of which architectural style?",
+    "question": "मौर्य साम्राज्य के किस शासक के समय सबसे पहले चांदी के पंच-मार्क सिक्के जारी किए गए थे? / Under which Mauryan ruler were silver punch-marked coins first issued?",
     "options": {
-      "A": "गुप्त शैली (Gupta Style)",
-      "B": "नागर शैली (Nagara Style)",
-      "C": "द्रविड़ शैली (Dravida Style)",
-      "D": "वेसर शैली (Vesara Style)"
+      "A": "चंद्रगुप्त मौर्य / Chandragupta Maurya",
+      "B": "बिंदुसार / Bindusara",
+      "C": "अशोक / Ashoka",
+      "D": "सम्राट धर्मशेष / Samrat Dharmasesha"
     },
-    "answer": ["A", "B"],
-    "explanation": "देवगढ़ का दशावतार मंदिर गुप्त काल में निर्मित नागर शैली का प्रारंभिक उदाहरण है।"
+    "answer": ["A"],
+    "explanation": "चांदी के पंच-मार्क सिक्के सबसे पहले चंद्रगुप्त मौर्य के शासनकाल में जारी किए गए थे, जिनमें विभिन्न प्रतीक अंकित थे।"
   },
   {
     "id": 2,
-    "question": "भितरगांव मंदिर (कानपुर देहात, यूपी) की विशेषता क्या है? / What is the special feature of Bhitargaon Temple (Kanpur Dehat, UP)?",
+    "question": "पंच-मार्क सिक्कों पर कौन-कौन से प्रतीक पाए जाते थे? / Which symbols were commonly found on punch-marked coins?",
     "options": {
-      "A": "यह पूरी तरह पत्थर का बना है (Completely stone-built)",
-      "B": "यह पूरी तरह ईंट से बना है (Completely brick-built)",
-      "C": "गुप्त काल का है (Belongs to Gupta Period)",
-      "D": "इसमें लोहे के क्लैम्प का प्रयोग हुआ है (Use of iron clamps)"
+      "A": "सूर्य / Sun",
+      "B": "लक्ष्मी / Lakshmi",
+      "C": "सिंह / Lion",
+      "D": "पशु और वृक्ष / Animals and Trees"
     },
-    "answer": ["B", "C", "D"],
-    "explanation": "भितरगांव मंदिर गुप्त काल का है, पूरी तरह ईंट से बना है और इसमें संरचना को जोड़ने के लिए लोहे के क्लैम्प का उपयोग हुआ है।"
+    "answer": ["A", "B", "D"],
+    "explanation": "पंच-मार्क सिक्कों पर सूर्य, लक्ष्मी, विभिन्न जानवर और वृक्ष आदि प्रतीक प्रचलित थे। अशोक के समय सिंह प्रतीक विशेष रूप से दिखाई देने लगा।"
   },
   {
     "id": 3,
-    "question": "नचना-कुठारा (मध्य प्रदेश) का पार्वती मंदिर किस काल से संबंधित है? / Parvati Temple at Nachna Kuthara (MP) belongs to which period?",
+    "question": "मौर्य साम्राज्य में अशोक के सिक्कों की विशेषता क्या थी? / What was distinctive about Ashoka's coins?",
     "options": {
-      "A": "गुप्त काल (Gupta Period)",
-      "B": "मौर्य काल (Maurya Period)",
-      "C": "पल्लव काल (Pallava Period)",
-      "D": "कुषाण काल (Kushan Period)"
+      "A": "सिर्फ पिलर एडिक्ट्स / Only pillar edicts",
+      "B": "सिंह और ध्वज प्रतीक / Lion and wheel symbols",
+      "C": "ज्यामितीय प्रतीक / Geometric symbols",
+      "D": "रूपांतरण नहीं / No symbols at all"
     },
-    "answer": ["A"],
-    "explanation": "नचना-कुठारा का पार्वती मंदिर गुप्त काल का प्रमुख उदाहरण है।"
+    "answer": ["B", "C"],
+    "explanation": "अशोक के सिक्कों पर सिंह, चक्र और ज्यामितीय प्रतीक प्रमुख थे, जो पहले के पंच-मार्क सिक्कों से भिन्न थे।"
   },
   {
     "id": 4,
-    "question": "तिगवा (जबलपुर, मध्य प्रदेश) का शिव मंदिर किस शैली में निर्मित है? / The Shiva Temple at Tigawa (Jabalpur, MP) is built in which style?",
+    "question": "पंच-मार्क सिक्कों का मुख्य धातु क्या था? / What was the primary metal of punch-marked coins?",
     "options": {
-      "A": "नागर शैली (Nagara Style)",
-      "B": "द्रविड़ शैली (Dravida Style)",
-      "C": "गुप्त शैली (Gupta Style)",
-      "D": "हॉयसला शैली (Hoysala Style)"
+      "A": "सोना / Gold",
+      "B": "चांदी / Silver",
+      "C": "तांबा / Copper",
+      "D": "लोहे / Iron"
     },
-    "answer": ["A", "C"],
-    "explanation": "तिगवा का शिव मंदिर गुप्त कालीन नागर शैली का उत्कृष्ट उदाहरण है।"
+    "answer": ["B"],
+    "explanation": "मौर्य काल के सबसे पुराने भारतीय सिक्के मुख्य रूप से चांदी के बनाए जाते थे।"
   },
   {
     "id": 5,
-    "question": "एरण (मध्य प्रदेश) का विष्णु मंदिर किस धातु के विशाल स्तंभ के लिए प्रसिद्ध है? / Vishnu Temple at Eran (MP) is famous for a colossal pillar made of which metal?",
+    "question": "मौर्य साम्राज्य के दौरान सिक्कों पर प्रतीक क्यों अंकित किए जाते थे? / Why were symbols marked on coins during Mauryan period?",
     "options": {
-      "A": "लोहा (Iron)",
-      "B": "कांस्य (Bronze)",
-      "C": "पत्थर (Stone)",
-      "D": "पीतल (Brass)"
+      "A": "धर्म प्रचार के लिए / For religious propagation",
+      "B": "मूल्य और प्रमाण के लिए / To indicate value and authenticity",
+      "C": "सजावट के लिए / For decoration",
+      "D": "विदेशी व्यापार को आकर्षित करने के लिए / To attract foreign trade"
     },
-    "answer": ["A"],
-    "explanation": "एरण विष्णु मंदिर के पास लोहे का विशाल स्तंभ गुप्त कालीन धातुकर्म का उदाहरण है।"
+    "answer": ["B", "D"],
+    "explanation": "पंच-मार्क सिक्के मूल्य और प्रमाण सूचक होते थे और विदेशी व्यापार में भी उपयोगी माने जाते थे।"
   },
   {
     "id": 6,
-    "question": "सांची का मंदिर संख्या 17 किस शैली का है? / Temple No. 17 at Sanchi belongs to which style?",
+    "question": "बिंदुसार के शासनकाल में सिक्कों में कौन सा बदलाव हुआ था? / What change occurred in coins during Bindusara's reign?",
     "options": {
-      "A": "गुप्त शैली (Gupta Style)",
-      "B": "मौर्य शैली (Maurya Style)",
-      "C": "नागर शैली (Nagara Style)",
-      "D": "पल्लव शैली (Pallava Style)"
+      "A": "पांच से अधिक प्रतीक / More than five symbols",
+      "B": "सिक्कों पर कोई प्रतीक नहीं / No symbols on coins",
+      "C": "चांदी की जगह तांबे का उपयोग / Copper instead of silver",
+      "D": "सिक्कों पर नियमित ज्यामितीय पैटर्न / Regular geometric patterns"
     },
-    "answer": ["A", "C"],
-    "explanation": "सांची का मंदिर संख्या 17 गुप्त कालीन नागर शैली का प्रारंभिक उदाहरण है।"
+    "answer": ["A", "D"],
+    "explanation": "बिंदुसार के समय सिक्कों पर पंच-मार्क की संख्या बढ़ी और ज्यामितीय पैटर्न नियमित होने लगे।"
   },
   {
     "id": 7,
-    "question": "गुप्त कालीन मंदिर वास्तुकला की विशेषताएँ कौन-सी हैं? / Which are the features of Gupta period temple architecture?",
+    "question": "अशोक के समय कौन से सिक्के आर्थिक और प्रतीकात्मक दोनों दृष्टि से महत्वपूर्ण थे? / Which coins were important both economically and symbolically during Ashoka's reign?",
     "options": {
-      "A": "गर्भगृह (Garbhagriha)",
-      "B": "मंडप (Mandapa)",
-      "C": "शिखर (Shikhara)",
-      "D": "गोपुरम (Gopuram)"
+      "A": "सिंह और चक्र वाले चांदी के सिक्के / Silver coins with lion and wheel",
+      "B": "सिर्फ पिलर एडिक्ट्स / Only pillar edicts",
+      "C": "पंच-मार्क पुराने सिक्के / Old punch-marked coins",
+      "D": "कांस्य सिक्के / Bronze coins"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "गुप्त काल में मंदिरों में गर्भगृह, मंडप और शिखर का आरंभ हुआ; गोपुरम द्रविड़ शैली की विशेषता है।"
+    "answer": ["A", "C"],
+    "explanation": "अशोक के समय, सिंह और चक्र वाले चांदी के सिक्के प्रतीकात्मक और आर्थिक दोनों दृष्टि से महत्वपूर्ण थे। पुराने पंच-मार्क सिक्के भी इस्तेमाल में बने रहे।"
   },
   {
     "id": 8,
-    "question": "भितरगांव मंदिर किस कारण से ऐतिहासिक महत्व रखता है? / Why does Bhitargaon Temple hold historical importance?",
+    "question": "पंच-मार्क सिक्कों के किस पहलू ने उन्हें विदेशी व्यापार के लिए स्वीकार्य बनाया? / Which feature of punch-marked coins made them acceptable in foreign trade?",
     "options": {
-      "A": "भारत का सबसे प्राचीन ईंट का मंदिर (Oldest surviving brick temple in India)",
-      "B": "पहला गुफा मंदिर (First cave temple)",
-      "C": "पहली बार लोहे के क्लैम्प का प्रयोग (First use of iron clamps)",
-      "D": "दक्षिण भारत का पहला मंदिर (First South Indian temple)"
+      "A": "मानकीकृत वजन / Standardized weight",
+      "B": "चांदी का उपयोग / Use of silver",
+      "C": "रंगीन चित्र / Colorful designs",
+      "D": "राजाओं के नाम / Names of kings"
     },
-    "answer": ["A", "C"],
-    "explanation": "भितरगांव मंदिर भारत का सबसे प्राचीन जीवित ईंट का मंदिर है और इसमें लोहे के क्लैम्प का प्रयोग हुआ है।"
+    "answer": ["A", "B"],
+    "explanation": "मानकीकृत वजन और चांदी का उपयोग इन सिक्कों को विदेशी व्यापार में स्वीकार्य बनाता था।"
   },
   {
     "id": 9,
-    "question": "नचना-कुठारा पार्वती मंदिर के स्थापत्य में क्या विशेष है? / What is special in the architecture of Parvati Temple at Nachna Kuthara?",
+    "question": "अशोक के सिक्कों पर सिंह प्रतीक का क्या महत्व था? / What was the significance of the lion symbol on Ashoka's coins?",
     "options": {
-      "A": "द्वि-मंजिला संरचना (Two-storey structure)",
-      "B": "उच्च चबूतरा (High plinth)",
-      "C": "लकड़ी का शिखर (Wooden shikhara)",
-      "D": "काष्ठ-स्तंभ (Wooden pillars)"
+      "A": "सिंह साम्राज्य की शक्ति का प्रतीक / Symbol of imperial power",
+      "B": "धर्म का प्रतीक / Symbol of dharma",
+      "C": "विदेशी व्यापार के लिए डिजाइन / Design for foreign trade",
+      "D": "सिर्फ सजावटी कारण / Only decorative purpose"
     },
     "answer": ["A", "B"],
-    "explanation": "नचना-कुठारा का पार्वती मंदिर उच्च चबूतरे पर निर्मित द्वि-मंजिला संरचना है।"
+    "explanation": "सिंह प्रतीक साम्राज्य की शक्ति और धर्म का प्रतिनिधित्व करता था, और यह राजनीतिक संदेश भी देता था।"
   },
   {
     "id": 10,
-    "question": "तिगवा मंदिर में मूर्तिकला का कौन-सा पहलू उल्लेखनीय है? / Which aspect of sculpture is notable in Tigawa Temple?",
+    "question": "मौर्य पंच-मार्क सिक्कों के निर्माण में कौन-कौन सी तकनीक इस्तेमाल होती थी? / Which techniques were used in making Mauryan punch-marked coins?",
     "options": {
-      "A": "सूक्ष्म नक्काशी (Fine carving)",
-      "B": "रंगीन भित्तिचित्र (Coloured murals)",
-      "C": "लोहे की जाली (Iron lattice)",
-      "D": "काष्ठ छत (Wooden roof)"
+      "A": "सिक्का धातु को गर्म कर पंच लगाना / Heating metal and punching",
+      "B": "खुदाई द्वारा निशान / Engraving by chiseling",
+      "C": "मोल्डिंग / Molding",
+      "D": "सिक्के को ढालना / Casting"
     },
-    "answer": ["A"],
-    "explanation": "तिगवा मंदिर की मूर्तियों में सूक्ष्म नक्काशी और गुप्त कालीन शिल्प कौशल झलकता है।"
+    "answer": ["A", "B"],
+    "explanation": "पंच-मार्क सिक्कों को धातु गर्म करके पंच लगाकर और खुदाई द्वारा निशान अंकित कर बनाया जाता था।"
   },
   {
     "id": 11,
-    "question": "एरण के स्तंभ पर किस भाषा और लिपि में लेख मिलता है? / In which language and script is the inscription on Eran pillar?",
+    "question": "Which of the following features are characteristic of Indo-Greek coins? / निम्नलिखित में से कौन-सी विशेषताएँ इंडो-ग्रीक सिक्कों की हैं?",
     "options": {
-      "A": "संस्कृत (Sanskrit)",
-      "B": "प्राकृत (Prakrit)",
-      "C": "ब्राह्मी लिपि (Brahmi Script)",
-      "D": "खरोष्ठी लिपि (Kharosthi Script)"
+      "A": "Greek inscriptions",
+      "B": "Indian motifs",
+      "C": "Mostly gold coins",
+      "D": "Use of punch-mark technique"
     },
-    "answer": ["A", "C"],
-    "explanation": "एरण के स्तंभ पर संस्कृत भाषा में ब्राह्मी लिपि का उपयोग हुआ है।"
+    "answer": ["A", "B"],
+    "explanation": "Indo-Greek coins commonly have Greek inscriptions and Indian motifs; they were mostly silver or bronze, not gold, and did not use the Mauryan punch-mark technique."
   },
   {
     "id": 12,
-    "question": "सांची मंदिर संख्या 17 का महत्व क्या है? / What is the importance of Sanchi Temple No. 17?",
+    "question": "Menander I (Milinda) is associated with which type of coins? / मेनंदर I (मिलिंदा) किस प्रकार के सिक्कों से जुड़े हैं?",
     "options": {
-      "A": "सबसे प्राचीन जीवित पत्थर का मंदिर (Oldest surviving stone temple)",
-      "B": "द्रविड़ शैली का पहला उदाहरण (First example of Dravida style)",
-      "C": "गुप्त काल का उदाहरण (Example of Gupta period)",
-      "D": "बौद्ध धर्म से संबंधित (Related to Buddhism)"
+      "A": "Drachms with king's portrait on obverse",
+      "B": "Coins with Athena or animal motifs on reverse",
+      "C": "Punch-marked silver coins",
+      "D": "Gupta gold dinars"
     },
-    "answer": ["A", "C", "D"],
-    "explanation": "सांची का मंदिर संख्या 17 सबसे प्राचीन पत्थर का मंदिर है, गुप्त काल का है और बौद्ध स्थल पर स्थित है।"
+    "answer": ["A", "B"],
+    "explanation": "Menander I issued drachms with his portrait on obverse and deities or animals like Athena on reverse; punch-marked coins and Gupta gold dinars are unrelated."
   },
   {
     "id": 13,
-    "question": "गुप्त कालीन मंदिरों में प्रयोग होने वाली प्रमुख सामग्री क्या थी? / What was the primary material used in Gupta period temples?",
+    "question": "Which of the following metals were used in Indo-Greek coins? / इंडो-ग्रीक सिक्कों में निम्नलिखित में से कौन-सा धातु प्रयोग किया गया था?",
     "options": {
-      "A": "ईंट (Brick)",
-      "B": "पत्थर (Stone)",
-      "C": "कांस्य (Bronze)",
-      "D": "लकड़ी (Wood)"
+      "A": "Silver",
+      "B": "Bronze",
+      "C": "Gold",
+      "D": "Copper"
     },
     "answer": ["A", "B"],
-    "explanation": "गुप्त काल में मंदिरों के निर्माण में ईंट और पत्थर दोनों का प्रयोग होता था।"
+    "explanation": "Indo-Greek coins were mainly minted in silver and some bronze; gold and copper were not commonly used in their coinage."
   },
   {
     "id": 14,
-    "question": "भितरगांव मंदिर में किस देवी-देवता की मूर्ति प्रमुख है? / Which deity's idol is prominent in Bhitargaon Temple?",
+    "question": "Identify the correct statements regarding Indo-Greek coins’ cultural synthesis / इंडो-ग्रीक सिक्कों के सांस्कृतिक मिश्रण के संबंध में सही कथन पहचानें:",
     "options": {
-      "A": "विष्णु (Vishnu)",
-      "B": "शिव (Shiva)",
-      "C": "देवी दुर्गा (Goddess Durga)",
-      "D": "बुद्ध (Buddha)"
+      "A": "Greek iconography blended with Indian symbols",
+      "B": "Bilingual inscriptions were common",
+      "C": "Exclusively Greek deities on all coins",
+      "D": "Coins show no influence of local culture"
     },
-    "answer": ["B"],
-    "explanation": "भितरगांव मंदिर में मुख्य रूप से शिव की पूजा होती थी।"
+    "answer": ["A", "B"],
+    "explanation": "Indo-Greek coins show cultural synthesis: Greek imagery blended with Indian symbols and often had bilingual inscriptions; not exclusively Greek deities and local culture was evident."
   },
   {
     "id": 15,
-    "question": "नचना-कुठारा पार्वती मंदिर का गर्भगृह किस विशेषता के लिए जाना जाता है? / The sanctum of Parvati Temple at Nachna Kuthara is known for which feature?",
+    "question": "Which statements about Menander I coins are correct? / मेनंदर I के सिक्कों के बारे में कौन-से कथन सही हैं?",
     "options": {
-      "A": "अंधकारमय और छोटा आकार (Dark and small size)",
-      "B": "खुला हुआ चौकोर आकार (Open square shape)",
-      "C": "बहु-द्वार (Multiple doors)",
-      "D": "अर्ध-मंडप से जुड़ा (Connected with ardha-mandapa)"
+      "A": "Portraits of the king appear on obverse",
+      "B": "Reverse shows deities or animals",
+      "C": "Coins used punch-marked symbols",
+      "D": "Made mostly of silver"
     },
-    "answer": ["B", "D"],
-    "explanation": "नचना-कुठारा मंदिर का गर्भगृह खुला हुआ चौकोर आकार का है और अर्ध-मंडप से जुड़ा है।"
+    "answer": ["A", "B", "D"],
+    "explanation": "Menander I coins typically show his portrait on obverse, deities/animals on reverse, and were mainly silver; punch-mark symbols are not used."
   },
   {
     "id": 16,
-    "question": "तिगवा मंदिर का शिखर कैसा है? / What type of shikhara does Tigawa Temple have?",
+    "question": "Indo-Greek coins contributed to which of the following aspects? / इंडो-ग्रीक सिक्कों ने निम्नलिखित में से किन पहलुओं में योगदान दिया?",
     "options": {
-      "A": "लैटिन क्रॉस आकार (Latin cross form)",
-      "B": "लाट-प्रकार (Latina type)",
-      "C": "घट-पल्लव प्रकार (Ghata-pallava type)",
-      "D": "वेसर प्रकार (Vesara type)"
+      "A": "Spread of Hellenistic art",
+      "B": "Introduction of Indian symbols in Greek coinage",
+      "C": "Mauryan administrative techniques",
+      "D": "Development of gold dinars"
     },
-    "answer": ["C"],
-    "explanation": "तिगवा मंदिर का शिखर घट-पल्लव प्रकार का है, जो नागर शैली की पहचान है।"
+    "answer": ["A", "B"],
+    "explanation": "Indo-Greek coins contributed to the spread of Hellenistic art and introduction of Indian motifs in Greek coins; Mauryan administration and gold dinars are unrelated."
   },
   {
     "id": 17,
-    "question": "एरण के विष्णु मंदिर में किस अवतार की प्रतिमा प्रमुख है? / Which incarnation's idol is prominent in Vishnu Temple at Eran?",
+    "question": "Which statements about the obverse and reverse of Indo-Greek coins are true? / इंडो-ग्रीक सिक्कों के सामने और पीछे के बारे में कौन-से कथन सही हैं?",
     "options": {
-      "A": "वराह (Varaha)",
-      "B": "नरसिंह (Narasimha)",
-      "C": "राम (Rama)",
-      "D": "कृष्ण (Krishna)"
+      "A": "Obverse usually depicts king's portrait",
+      "B": "Reverse depicts deities or animals",
+      "C": "Obverse shows only Indian motifs",
+      "D": "Reverse never had Greek influence"
     },
-    "answer": ["A"],
-    "explanation": "एरण के विष्णु मंदिर में वराह अवतार की विशाल प्रतिमा प्रमुख है।"
+    "answer": ["A", "B"],
+    "explanation": "Obverse commonly has king’s portrait and reverse shows deities or animals; obverse does not show only Indian motifs, and reverse often retains Greek influence."
   },
   {
     "id": 18,
-    "question": "सांची का मंदिर संख्या 17 किस धर्म से संबंधित है? / Sanchi Temple No. 17 is related to which religion?",
+    "question": "Indo-Greek coins provide evidence for which historical aspects? / इंडो-ग्रीक सिक्के किन ऐतिहासिक पहलुओं के प्रमाण प्रदान करते हैं?",
     "options": {
-      "A": "बौद्ध धर्म (Buddhism)",
-      "B": "हिंदू धर्म (Hinduism)",
-      "C": "जैन धर्म (Jainism)",
-      "D": "यहूदी धर्म (Judaism)"
+      "A": "Political authority of Indo-Greek kings",
+      "B": "Cultural exchange between Greeks and Indians",
+      "C": "Mauryan taxation system",
+      "D": "Exclusive Indian deities"
     },
-    "answer": ["A"],
-    "explanation": "सांची का मंदिर संख्या 17 बौद्ध धर्म से संबंधित है और महास्थूप परिसर में स्थित है।"
+    "answer": ["A", "B"],
+    "explanation": "Indo-Greek coins show political power of kings and Greek-Indian cultural exchange; they do not provide evidence of Mauryan taxation or exclusively Indian deities."
   },
   {
     "id": 19,
-    "question": "गुप्त कालीन मंदिरों में मूर्तियों की मुख्य विशेषता क्या थी? / What was the main feature of sculptures in Gupta period temples?",
+    "question": "Which of the following are true regarding inscriptions on Indo-Greek coins? / इंडो-ग्रीक सिक्कों पर अभिलेखों के बारे में कौन-से कथन सही हैं?",
     "options": {
-      "A": "आदर्शवादी मानव आकृति (Idealized human form)",
-      "B": "अतिवास्तविक आकृति (Hyper-realistic form)",
-      "C": "स्थूल और भारी संरचना (Massive and heavy structure)",
-      "D": "अतिशयोक्तिपूर्ण अलंकरण (Exaggerated ornamentation)"
+      "A": "Mostly Greek script",
+      "B": "Some coins with bilingual Greek-Kharosthi or Brahmi",
+      "C": "Exclusively Sanskrit inscriptions",
+      "D": "Obverse always blank"
     },
-    "answer": ["A"],
-    "explanation": "गुप्त काल की मूर्तियों में आदर्शवादी और संतुलित मानव आकृतियों का प्रयोग होता था।"
+    "answer": ["A", "B"],
+    "explanation": "Indo-Greek coins mostly had Greek inscriptions, sometimes bilingual with local scripts; exclusively Sanskrit or blank obverse is incorrect."
   },
   {
     "id": 20,
-    "question": "भितरगांव मंदिर का निर्माण किस वंश ने करवाया था? / Which dynasty built Bhitargaon Temple?",
+    "question": "Which of the following statements are correct about Menander I (Milinda) and his coins? / मेनंदर I (मिलिंदा) और उनके सिक्कों के बारे में कौन-से कथन सही हैं?",
     "options": {
-      "A": "गुप्त वंश (Gupta Dynasty)",
-      "B": "मौर्य वंश (Maurya Dynasty)",
-      "C": "पल्लव वंश (Pallava Dynasty)",
-      "D": "चालुक्य वंश (Chalukya Dynasty)"
+      "A": "He issued silver drachms",
+      "B": "Portraits appear on obverse, reverse has animals or deities",
+      "C": "Used punch-marked techniques like Mauryas",
+      "D": "Reflects Indo-Greek cultural synthesis"
     },
-    "answer": ["A"],
-    "explanation": "भितरगांव मंदिर का निर्माण गुप्त वंश के शासनकाल में हुआ था।"
+    "answer": ["A", "B", "D"],
+    "explanation": "Menander I issued silver drachms with obverse portraits and reverse animals/deities; his coins show Indo-Greek cultural synthesis. Punch-marked technique was not used."
   },
   {
     "id": 21,
-    "question": "गुप्त काल में नागर शैली की शुरुआत किन विशेषताओं के साथ हुई? / With which features did Nagara style begin during Gupta period?",
+    "question": "कुषाण साम्राज्य के सबसे प्रसिद्ध सिक्काधारी कौन थे? / Who were the most prominent coin issuers of Kushan Empire?",
     "options": {
-      "A": "गर्भगृह का निर्माण (Construction of sanctum)",
-      "B": "द्रविड़ शैली के गोपुरम का समावेश (Inclusion of Dravida style gopuram)",
-      "C": "प्रारंभिक शिखर का विकास (Development of early shikhara)",
-      "D": "मंडप का समावेश (Inclusion of mandapa)"
+      "A": "कनिष्क / Kanishka",
+      "B": "हुविष्क / Huvishka",
+      "C": "चंद्रगुप्त / Chandragupta",
+      "D": "अशोक / Ashoka"
     },
-    "answer": ["A", "C", "D"],
-    "explanation": "गुप्त काल में नागर शैली की शुरुआत गर्भगृह, मंडप और प्रारंभिक शिखर के साथ हुई; गोपुरम द्रविड़ शैली की पहचान है।"
+    "answer": ["A", "B"],
+    "explanation": "कनिष्क और हुविष्क कुशाण साम्राज्य के प्रमुख सिक्काधारी थे, जिनके सिक्के आज भी बहुत प्रसिद्ध हैं।"
   },
   {
     "id": 22,
-    "question": "गुप्त कालीन मंदिरों में गर्भगृह की अवधारणा किससे प्रभावित थी? / The concept of garbhagriha in Gupta temples was influenced by which?",
+    "question": "कुषाण सिक्कों में प्रमुख धातुएँ कौन-कौन सी थीं? / What were the main metals used in Kushan coins?",
     "options": {
-      "A": "वैदिक यज्ञ वेदी (Vedic yajna altar)",
-      "B": "बौद्ध चैत्यगृह (Buddhist chaitya hall)",
-      "C": "जैन बसदी (Jain basadi)",
-      "D": "महापाषाणिक संरचना (Megalithic structure)"
+      "A": "सोना / Gold",
+      "B": "चांदी / Silver",
+      "C": "तांबा / Copper",
+      "D": "लोहा / Iron"
     },
-    "answer": ["A", "B"],
-    "explanation": "गुप्त काल में गर्भगृह का विचार वैदिक वेदी और बौद्ध चैत्यगृह दोनों से प्रभावित था।"
+    "answer": ["A", "C"],
+    "explanation": "कुषाण सिक्के मुख्यतः सोने (dinars) और तांबे में बनाए जाते थे।"
   },
   {
     "id": 23,
-    "question": "नागर शैली में शिखर का प्रारंभिक रूप कैसा था? / What was the early form of shikhara in Nagara style?",
+    "question": "कुषाण सिक्कों पर किस प्रकार की लिपि अंकित होती थी? / What scripts were inscribed on Kushan coins?",
     "options": {
-      "A": "घट-पल्लव रूप (Ghata-pallava form)",
-      "B": "रीढ़-आकार (Spine-shaped)",
-      "C": "पिरामिड आकार (Pyramidal form)",
-      "D": "गोलाकार गुंबद (Circular dome)"
+      "A": "ग्रीक / Greek",
+      "B": "बाक्त्रीय / Bactrian",
+      "C": "देवनागरी / Devanagari",
+      "D": "कुशाण लिपि / Kushan script"
     },
-    "answer": ["A"],
-    "explanation": "गुप्त काल में नागर शैली के शिखर का प्रारंभिक रूप घट-पल्लव था, जो बाद में अधिक ऊँचा हुआ।"
+    "answer": ["A", "B"],
+    "explanation": "कुषाण सिक्कों पर ग्रीक और बाक्त्रीय लिपि का प्रयोग हुआ, जो उनके व्यापारिक और सांस्कृतिक प्रभाव को दर्शाता था।"
   },
   {
     "id": 24,
-    "question": "अंतराल (antarala) किसके बीच का भाग होता है? / Antarala is the part between which two sections?",
+    "question": "कनिष्क के सिक्कों की प्रमुख विशेषता क्या थी? / What was the main feature of Kanishka’s coins?",
     "options": {
-      "A": "गर्भगृह और मंडप (Garbhagriha and mandapa)",
-      "B": "शिखर और मंडप (Shikhara and mandapa)",
-      "C": "गर्भगृह और सभामंडप (Garbhagriha and sabhamandapa)",
-      "D": "मंडप और अर्धमंडप (Mandapa and ardhamandapa)"
+      "A": "राजा घोड़े पर / King on horseback",
+      "B": "देवता पीछे / Deities on reverse",
+      "C": "पंच-मार्क / Punch-marked",
+      "D": "मौर्य प्रतीक / Mauryan symbols"
     },
-    "answer": ["A"],
-    "explanation": "अंतराल गर्भगृह और मंडप के बीच का छोटा मार्ग होता है।"
+    "answer": ["A", "B"],
+    "explanation": "कनिष्क के सिक्कों पर राजा घोड़े पर सवार दिखाई देता था और पीछे विभिन्न देवताओं की आकृतियाँ अंकित थीं।"
   },
   {
     "id": 25,
-    "question": "गुप्त कालीन मंदिरों में किस तत्व की उत्पत्ति पहली बार स्पष्ट रूप से दिखाई देती है? / Which element is seen clearly for the first time in Gupta period temples?",
+    "question": "कुषाण सिक्कों में कौन-कौन से भारतीय देवता पाए जाते थे? / Which Indian deities were found on Kushan coins?",
     "options": {
-      "A": "ऊँचा चबूतरा (High plinth)",
-      "B": "शिखर (Shikhara)",
-      "C": "गोपुरम (Gopuram)",
-      "D": "प्राकार दीवार (Enclosure wall)"
+      "A": "विष्णु / Vishnu",
+      "B": "शिव / Shiva",
+      "C": "बुद्ध / Buddha",
+      "D": "इन्द्र / Indra"
     },
-    "answer": ["B"],
-    "explanation": "गुप्त काल में पहली बार मंदिरों पर शिखर का स्पष्ट रूप से विकास हुआ।"
+    "answer": ["A", "B"],
+    "explanation": "कुषाण सिक्कों पर विष्णु और शिव प्रमुख रूप से अंकित थे, जो स्थानीय धार्मिक दृष्टिकोण को दर्शाते थे।"
   },
   {
     "id": 26,
-    "question": "गुप्त काल में मंदिर योजना का प्रमुख प्रकार कौन-सा था? / Which was the main type of temple plan in Gupta period?",
+    "question": "कुषाण सिक्कों में ग्रीक और बाक्त्रीय लिपि का प्रयोग क्यों किया गया? / Why were Greek and Bactrian scripts used on Kushan coins?",
     "options": {
-      "A": "आयताकार योजना (Rectangular plan)",
-      "B": "चतुर्भुज योजना (Square plan)",
-      "C": "वृत्ताकार योजना (Circular plan)",
-      "D": "षट्कोणीय योजना (Hexagonal plan)"
+      "A": "विदेशी व्यापार को आकर्षित करने के लिए / To attract foreign trade",
+      "B": "धार्मिक संदेश देने के लिए / To convey religious messages",
+      "C": "सिक्कों की सजावट के लिए / For decoration",
+      "D": "कुषाण साम्राज्य की वैधता दिखाने के लिए / To assert imperial legitimacy"
     },
-    "answer": ["B"],
-    "explanation": "गुप्त काल में मंदिरों की योजना प्रायः चतुर्भुजाकार होती थी।"
+    "answer": ["A", "D"],
+    "explanation": "ग्रीक और बाक्त्रीय लिपि विदेशी व्यापार और साम्राज्य की वैधता को दर्शाने के लिए इस्तेमाल की गई।"
   },
   {
     "id": 27,
-    "question": "गुप्त काल के मंदिरों में शिखर की ऊँचाई किस कारण सीमित थी? / Why was the height of shikhara limited in Gupta temples?",
+    "question": "हुविष्क के सिक्कों की विशेष पहचान क्या थी? / What was distinctive about Huvishka’s coins?",
     "options": {
-      "A": "निर्माण तकनीक की सीमा (Limitations of construction technology)",
-      "B": "धार्मिक नियम (Religious rules)",
-      "C": "सामग्री की कमी (Lack of material)",
-      "D": "सौंदर्य उद्देश्य (Aesthetic purpose)"
+      "A": "धार्मिक विविधता / Religious diversity",
+      "B": "केवल सोने के सिक्के / Only gold coins",
+      "C": "राजा की तस्वीर नहीं / No image of king",
+      "D": "सिर्फ पंच-मार्क / Only punch-marked"
     },
-    "answer": ["A", "D"],
-    "explanation": "गुप्त काल में तकनीकी सीमाओं और सौंदर्य कारणों से शिखर की ऊँचाई सीमित थी।"
+    "answer": ["A"],
+    "explanation": "हुविष्क के सिक्कों में विभिन्न देवताओं और धार्मिक प्रतीकों की विविधता दिखाई देती है।"
   },
   {
     "id": 28,
-    "question": "गुप्त कालीन मंदिरों में मंडप का उद्देश्य क्या था? / What was the purpose of mandapa in Gupta temples?",
+    "question": "कुषाण सिक्कों का व्यापारिक महत्व क्या था? / What was the commercial importance of Kushan coins?",
     "options": {
-      "A": "धार्मिक अनुष्ठान के लिए सभा स्थान (Assembly space for rituals)",
-      "B": "मूर्ति रखने का स्थान (Place for keeping idol)",
-      "C": "भोजन पकाने का स्थान (Cooking space)",
-      "D": "रक्षा हेतु प्रहरी कक्ष (Guard room for security)"
+      "A": "विदेशी व्यापार में स्वीकार्य / Accepted in foreign trade",
+      "B": "स्थानीय कर संग्रह में उपयोग / Used in local tax collection",
+      "C": "सिर्फ धार्मिक अनुष्ठानों के लिए / Only for rituals",
+      "D": "राजनीतिक संदेश देने के लिए / Convey political message"
     },
-    "answer": ["A"],
-    "explanation": "मंडप धार्मिक अनुष्ठानों और सभा के लिए उपयोग होने वाला आवृत स्थान था।"
+    "answer": ["A", "B"],
+    "explanation": "कुषाण सिक्के विदेशी व्यापार और स्थानीय कर संग्रह दोनों में महत्वपूर्ण थे।"
   },
   {
     "id": 29,
-    "question": "नागर शैली में गर्भगृह का प्रवेशद्वार किस प्रकार सजाया जाता था? / How was the entrance of garbhagriha decorated in Nagara style?",
+    "question": "कनिष्क के सिक्कों पर राजा की मुद्रा का क्या संदेश था? / What message did the posture of king on Kanishka’s coins convey?",
     "options": {
-      "A": "तोरण (Torana)",
-      "B": "मकरमुख (Makara-mukha)",
-      "C": "लतापट्टिका (Latapatrika)",
-      "D": "झरोखा (Jharokha)"
+      "A": "सैनिक शक्ति / Military power",
+      "B": "साम्राज्यिक अधिकार / Imperial authority",
+      "C": "धार्मिक भक्ति / Religious devotion",
+      "D": "सजावटी कारण / Decorative purpose"
     },
-    "answer": ["B", "C"],
-    "explanation": "गर्भगृह के द्वार पर मकरमुख और लतापट्टिका की नक्काशी की जाती थी।"
+    "answer": ["A", "B"],
+    "explanation": "राजा घोड़े पर सवार मुद्रा साम्राज्य की सैन्य शक्ति और अधिकार को दर्शाती थी।"
   },
   {
     "id": 30,
-    "question": "गुप्त कालीन मंदिरों में किस पत्थर का प्रमुख प्रयोग हुआ? / Which stone was mainly used in Gupta temples?",
+    "question": "कुषाण सिक्कों पर देवताओं की आकृतियाँ किस दृष्टि से महत्वपूर्ण थीं? / How were deity figures on Kushan coins significant?",
     "options": {
-      "A": "बलुआ पत्थर (Sandstone)",
-      "B": "संगमरमर (Marble)",
-      "C": "ग्रेनाइट (Granite)",
-      "D": "चूना पत्थर (Limestone)"
+      "A": "धार्मिक संदेश / Religious message",
+      "B": "सांस्कृतिक पहचान / Cultural identity",
+      "C": "मात्र सजावट / Only decoration",
+      "D": "विदेशी व्यापार को आकर्षित करना / Attract foreign trade"
     },
-    "answer": ["A"],
-    "explanation": "गुप्त काल में बलुआ पत्थर का प्रमुख उपयोग मंदिर निर्माण में हुआ।"
+    "answer": ["A", "B"],
+    "explanation": "देवताओं की आकृतियाँ धार्मिक संदेश और सांस्कृतिक पहचान को व्यक्त करती थीं।"
   },
   {
     "id": 31,
-    "question": "गुप्त कालीन मंदिरों में अंतराल की अवधारणा का विकास किससे जोड़ा जाता है? / The development of antarala concept is associated with which?",
+    "question": "कुषाण सिक्कों के गोल्ड डिनार का वजन आमतौर पर कितना था? / What was the approximate weight of Kushan gold dinar?",
     "options": {
-      "A": "विस्तृत मंदिर योजना (Expanded temple plan)",
-      "B": "अधिक अनुष्ठानों की आवश्यकता (Need for more rituals)",
-      "C": "नागर और द्रविड़ शैली के मिश्रण (Mix of Nagara and Dravida styles)",
-      "D": "वास्तुशास्त्र का प्रभाव (Influence of Vastu-shastra)"
+      "A": "8 ग्राम / 8 grams",
+      "B": "4 ग्राम / 4 grams",
+      "C": "12 ग्राम / 12 grams",
+      "D": "16 ग्राम / 16 grams"
     },
-    "answer": ["A", "D"],
-    "explanation": "अंतराल की अवधारणा विस्तृत मंदिर योजना और वास्तुशास्त्र के प्रभाव से विकसित हुई।"
+    "answer": ["A"],
+    "explanation": "कुषाण गोल्ड डिनार का औसत वजन लगभग 8 ग्राम था।"
   },
   {
     "id": 32,
-    "question": "गुप्त कालीन नागर शैली के मंदिरों में गर्भगृह की स्थिति कैसी होती थी? / How was the position of garbhagriha in Gupta Nagara temples?",
+    "question": "कुषाण सिक्कों पर यूनानी और बक्त्रीय भाषा का प्रयोग किस कारण से किया गया? / Why were Greek and Bactrian languages used on Kushan coins?",
     "options": {
-      "A": "पूर्वाभिमुख (East-facing)",
-      "B": "पश्चिमाभिमुख (West-facing)",
-      "C": "उत्तराभिमुख (North-facing)",
-      "D": "दक्षिणाभिमुख (South-facing)"
+      "A": "पूर्वी और पश्चिमी व्यापार में समझ बनाने के लिए / Facilitate East-West trade",
+      "B": "साम्राज्य की वैधता दिखाने के लिए / Assert imperial legitimacy",
+      "C": "स्थानीय जनता को शिक्षित करने के लिए / Educate local people",
+      "D": "सिक्कों को सजावटी बनाने के लिए / Decorative purpose"
     },
-    "answer": ["A"],
-    "explanation": "गुप्त कालीन नागर शैली में गर्भगृह सामान्यतः पूर्वाभिमुख होता था।"
+    "answer": ["A", "B"],
+    "explanation": "यूनानी और बक्त्रीय लिपि और भाषा व्यापारिक और राजनीतिक प्रभाव दिखाने के लिए इस्तेमाल की गई।"
   },
   {
     "id": 33,
-    "question": "गुप्त काल में मंदिरों के बाहरी भाग पर किस प्रकार की नक्काशी प्रमुख थी? / Which type of carving was prominent on exterior of Gupta temples?",
+    "question": "कनिष्क के सिक्कों पर कौन-कौन सी मुद्रा पाई जाती थी? / What types of coins were issued by Kanishka?",
     "options": {
-      "A": "देवमूर्ति (Deity figures)",
-      "B": "वनस्पति अलंकरण (Floral motifs)",
-      "C": "युद्ध दृश्य (War scenes)",
-      "D": "पशु आकृतियाँ (Animal figures)"
+      "A": "सोने के डिनार / Gold dinars",
+      "B": "तांबे के सिक्के / Copper coins",
+      "C": "चांदी के सिक्के / Silver coins",
+      "D": "लोहे के सिक्के / Iron coins"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "गुप्त कालीन मंदिरों के बाहरी भाग में देवमूर्ति, वनस्पति अलंकरण और पशु आकृतियाँ प्रमुख थीं।"
+    "answer": ["A", "B"],
+    "explanation": "कनिष्क ने सोने के डिनार और तांबे के सिक्के जारी किए।"
   },
   {
     "id": 34,
-    "question": "गुप्त काल के मंदिरों में मंडप की छत का आकार कैसा होता था? / What was the shape of mandapa roof in Gupta temples?",
+    "question": "कुषाण सिक्कों की धार्मिक विविधता किसका प्रमाण है? / Religious diversity on Kushan coins is evidence of what?",
     "options": {
-      "A": "समतल (Flat)",
-      "B": "गोलाकार (Circular)",
-      "C": "पिरामिड आकार (Pyramidal)",
-      "D": "वक्राकार (Curvilinear)"
+      "A": "सम्राट की सहिष्णुता / Emperor's tolerance",
+      "B": "एक धर्म की प्रभुता / Dominance of one religion",
+      "C": "अंतर्राष्ट्रीय व्यापार / International trade",
+      "D": "स्थानीय प्रशासन / Local administration"
     },
-    "answer": ["C"],
-    "explanation": "गुप्त काल में मंडप की छत प्रायः पिरामिड आकार की होती थी।"
+    "answer": ["A"],
+    "explanation": "कुषाण सिक्कों में विभिन्न देवताओं को अंकित करना सम्राट की धार्मिक सहिष्णुता का प्रमाण है।"
   },
   {
     "id": 35,
-    "question": "गुप्त काल में मंदिर निर्माण की प्रेरणा किन धार्मिक ग्रंथों से मिली? / Which religious texts inspired temple construction in Gupta period?",
+    "question": "कुषाण सिक्कों पर राजा और देवताओं की आकृतियाँ किस दृष्टि से मूल्यवान थीं? / In what sense were the figures on Kushan coins valuable?",
     "options": {
-      "A": "वास्तुशास्त्र (Vastu-shastra)",
-      "B": "अग्निपुराण (Agni Purana)",
-      "C": "मनुस्मृति (Manusmriti)",
-      "D": "गरुड़ पुराण (Garuda Purana)"
+      "A": "ऐतिहासिक और सांस्कृतिक दृष्टि / Historical and cultural perspective",
+      "B": "केवल आर्थिक / Only economic",
+      "C": "धार्मिक / Religious",
+      "D": "सजावटी / Decorative"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "गुप्त काल में वास्तुशास्त्र, अग्निपुराण और गरुड़ पुराण से मंदिर निर्माण की प्रेरणा ली गई।"
+    "answer": ["A", "C"],
+    "explanation": "राजा और देवताओं की आकृतियाँ ऐतिहासिक, सांस्कृतिक और धार्मिक दृष्टि से महत्वपूर्ण थीं।"
   },
   {
     "id": 36,
-    "question": "गुप्त कालीन शिखर के ऊपर किस तत्व का प्रयोग होता था? / Which element was used above the Gupta period shikhara?",
+    "question": "कुषाण साम्राज्य के सिक्कों ने किस क्षेत्र में प्रभाव डाला? / In which domain did Kushan coins have impact?",
     "options": {
-      "A": "अमलक (Amalaka)",
-      "B": "कलश (Kalasha)",
-      "C": "गोपुरम (Gopuram)",
-      "D": "तोरण (Torana)"
+      "A": "धार्मिक और सांस्कृतिक / Religious and cultural",
+      "B": "व्यापार और आर्थिक / Trade and economic",
+      "C": "सिर्फ स्थानीय / Only local",
+      "D": "केवल राजनीतिक / Only political"
     },
     "answer": ["A", "B"],
-    "explanation": "गुप्त कालीन शिखर के ऊपर अमलक और कलश रखा जाता था।"
+    "explanation": "कुषाण सिक्कों का प्रभाव धार्मिक, सांस्कृतिक, व्यापारिक और आर्थिक क्षेत्रों में था।"
   },
   {
     "id": 37,
-    "question": "गुप्त काल में मंदिरों के निर्माण के लिए कौन-सी तकनीक प्रमुख थी? / Which technique was prominent in Gupta temple construction?",
+    "question": "कुषाण सिक्कों पर राजा की मुद्रा और देवताओं का संयोजन किस संदेश को दिखाता था? / What did the combination of king’s posture and deities signify on Kushan coins?",
     "options": {
-      "A": "ड्राई मासनरी (Dry masonry)",
-      "B": "लाइम मोर्टार का उपयोग (Use of lime mortar)",
-      "C": "लोहे के क्लैम्प का प्रयोग (Use of iron clamps)",
-      "D": "स्टील फ्रेम का प्रयोग (Use of steel frame)"
+      "A": "राजा की शक्ति और धार्मिक संरक्षण / King’s power and religious protection",
+      "B": "सिर्फ व्यापारिक मूल्य / Only trade value",
+      "C": "राजनीतिक संदेश / Political message",
+      "D": "सजावटी दृष्टि / Decorative purpose"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "गुप्त कालीन मंदिरों में ड्राई मासनरी, चूने का गारा और लोहे के क्लैम्प का प्रयोग किया जाता था।"
+    "answer": ["A", "C"],
+    "explanation": "राजा की मुद्रा और देवताओं का संयोजन साम्राज्य की शक्ति और धार्मिक संरक्षण के साथ राजनीतिक संदेश देता था।"
   },
   {
     "id": 38,
-    "question": "गुप्त कालीन नागर शैली के मंदिरों में शिखर का विकास बाद में किस रूप में हुआ? / The shikhara of Gupta Nagara temples later evolved into which form?",
+    "question": "कुषाण सिक्कों पर देवताओं के चित्र किस शैली में बनाए जाते थे? / In which style were deity figures on Kushan coins depicted?",
     "options": {
-      "A": "लाटिना प्रकार (Latina type)",
-      "B": "फलेका प्रकार (Phaleka type)",
-      "C": "रीढ़ाकार प्रकार (Rekha-prasada type)",
-      "D": "वेसर प्रकार (Vesara type)"
+      "A": "स्थानीय भारतीय शैली / Local Indian style",
+      "B": "ग्रीक शैली / Greek style",
+      "C": "मिश्रित शैली / Mixed style",
+      "D": "केवल ज्यामितीय / Only geometric"
     },
-    "answer": ["C"],
-    "explanation": "गुप्त काल का घट-पल्लव शिखर आगे चलकर रीढ़ाकार (रेखा-प्रसाद) रूप में विकसित हुआ।"
+    "answer": ["A", "B", "C"],
+    "explanation": "कुषाण सिक्कों पर देवताओं की आकृतियाँ स्थानीय भारतीय, ग्रीक और मिश्रित शैली में बनाई जाती थीं।"
   },
   {
     "id": 39,
-    "question": "गुप्त कालीन मंदिरों के मंडप में खंभों पर किस प्रकार के शिल्प दिखते थे? / What kind of art is seen on pillars of Gupta period mandapas?",
+    "question": "कुषाण सिक्कों में किन विशेषताओं ने उन्हें अंतर्राष्ट्रीय व्यापार में स्वीकार्य बनाया? / Which features made Kushan coins acceptable in international trade?",
     "options": {
-      "A": "लता और बेल की आकृति (Creeper and vine patterns)",
-      "B": "पौराणिक दृश्य (Mythological scenes)",
-      "C": "शिलालेख (Inscriptions)",
-      "D": "मीनाक्षी मूर्तियाँ (Meenakshi idols)"
+      "A": "धातु की शुद्धता / Metal purity",
+      "B": "मानकीकृत वजन / Standardized weight",
+      "C": "देवताओं का चित्र / Deity images",
+      "D": "राजा की तस्वीर / King’s portrait"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "गुप्त कालीन मंडप के खंभों पर लता-बेल, पौराणिक दृश्य और शिलालेख देखने को मिलते हैं।"
+    "answer": ["A", "B"],
+    "explanation": "धातु की शुद्धता और मानकीकृत वजन ने कुशाण सिक्कों को अंतर्राष्ट्रीय व्यापार में स्वीकार्य बनाया।"
   },
   {
     "id": 40,
-    "question": "गुप्त काल में मंदिर वास्तुकला का महत्व किस कारण बढ़ा? / Why did the importance of temple architecture increase during Gupta period?",
+    "question": "कुषाण सिक्कों के अध्ययन से हमें क्या जानकारी मिलती है? / What information is derived from the study of Kushan coins?",
     "options": {
-      "A": "हिंदू धर्म का पुनरुत्थान (Revival of Hinduism)",
-      "B": "राजाओं का संरक्षण (Royal patronage)",
-      "C": "शहरीकरण में वृद्धि (Increase in urbanization)",
-      "D": "धातुकला का विकास (Development of metallurgy)"
+      "A": "साम्राज्य की सीमा और प्रशासन / Empire boundaries and administration",
+      "B": "धार्मिक विश्वास और प्रतीक / Religious beliefs and symbols",
+      "C": "सिर्फ आर्थिक मूल्य / Only economic value",
+      "D": "सिक्कों की सजावट / Coin decoration"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "गुप्त काल में हिंदू धर्म के पुनरुत्थान, राजाओं के संरक्षण और शहरीकरण के कारण मंदिर वास्तुकला का महत्व बढ़ा।"
+    "answer": ["A", "B"],
+    "explanation": "कुषाण सिक्कों के अध्ययन से साम्राज्य की प्रशासनिक व्यवस्था, धार्मिक विश्वास और सांस्कृतिक प्रतीक स्पष्ट होते हैं।"
   },
   {
     "id": 41,
-    "question": "गुप्त काल में मंदिर निर्माण में प्रयुक्त 'Ashlar Masonry' तकनीक की विशेषता क्या थी? / What was the main characteristic of 'Ashlar Masonry' used in Gupta period temple construction?",
+    "question": "चोल साम्राज्य के सिक्कों में मुख्य धातु क्या थी? / What was the main metal of Chola coins?",
     "options": {
-      "A": "बिना गारे के सटीक तराशे पत्थरों का प्रयोग (Precisely cut stones without mortar)",
-      "B": "कच्ची ईंटों और गारे का प्रयोग (Use of raw bricks and mortar)",
-      "C": "पत्थरों को चूना-प्लास्टर से जोड़ना (Joining stones with lime plaster)",
-      "D": "लोहे के क्लैम्प से जोड़ना (Joining with iron clamps)"
+      "A": "सोना / Gold",
+      "B": "तांबा / Copper",
+      "C": "चांदी / Silver",
+      "D": "लोहा / Iron"
     },
-    "answer": ["A", "D"],
-    "explanation": "Ashlar Masonry में पत्थरों को सटीक आकार में तराशकर बिना गारे के जोड़ा जाता था, और कई बार मजबूती के लिए लोहे के क्लैम्प का प्रयोग भी किया जाता था।"
+    "answer": ["A", "B"],
+    "explanation": "चोल साम्राज्य के सिक्के मुख्यतः सोने और तांबे में बने थे, जो व्यापार और स्थानीय उपयोग दोनों में प्रचलित थे।"
   },
   {
     "id": 42,
-    "question": "गुप्तकालीन मंदिरों में चूना और प्लास्टर का मुख्य उपयोग किसके लिए होता था? / What was the primary use of lime and plaster in Gupta period temples?",
+    "question": "चोल सिक्कों पर कौन-कौन से चित्र/प्रतीक पाए जाते थे? / Which motifs were found on Chola coins?",
     "options": {
-      "A": "मूर्तियों की फिक्सिंग के लिए (For fixing sculptures)",
-      "B": "दीवारों को चिकना करने और रंगाई के लिए (For smoothing walls and painting)",
-      "C": "शिखर को जोड़ने के लिए (For joining the shikhara)",
-      "D": "अमलक पर नक्काशी करने के लिए (For carving on amalaka)"
+      "A": "शेर / Tiger",
+      "B": "घोड़ा / Horse",
+      "C": "मंदिर / Temple",
+      "D": "सूर्य / Sun"
     },
-    "answer": ["A", "B"],
-    "explanation": "गुप्तकाल में चूना-प्लास्टर का प्रयोग मूर्तियों को स्थिर करने और दीवारों को चिकना कर रंगाई करने में प्रमुखता से होता था।"
+    "answer": ["A", "C"],
+    "explanation": "चोल सिक्कों पर शेर और मंदिर के चित्र प्रमुख रूप से अंकित पाए जाते थे।"
   },
   {
     "id": 43,
-    "question": "अमलक (Amalaka) का प्रारंभिक प्रयोग गुप्तकाल में किस शैलीगत परिवर्तन को दर्शाता है? / The early use of Amalaka in Gupta period indicates which stylistic change?",
+    "question": "विजयनगर साम्राज्य के सिक्कों में कौन सा विशिष्ट चित्र मिलता है? / Which distinctive motif is found on Vijayanagara coins?",
     "options": {
-      "A": "शिखर के शीर्ष पर अलंकरण का विकास (Development of ornamentation at the top of the shikhara)",
-      "B": "गार्भगृह की सुरक्षा (Protection of sanctum)",
-      "C": "अंतराल की ऊंचाई बढ़ाना (Increasing height of the antarala)",
-      "D": "मंडप के स्तंभों की संख्या घटाना (Reducing number of mandapa pillars)"
+      "A": "सिंह / Lion",
+      "B": "शेर और हाथी / Lion and Elephant",
+      "C": "मंदिर / Temple",
+      "D": "घोड़ा / Horse"
     },
-    "answer": ["A", "B"],
-    "explanation": "अमलक का प्रारंभिक प्रयोग शिखर के शीर्ष पर अलंकरण और गार्भगृह के पवित्र स्थान को प्रतीकात्मक सुरक्षा प्रदान करने के लिए किया जाता था।"
+    "answer": ["B", "C"],
+    "explanation": "विजयनगर सिक्कों पर शेर और हाथी के साथ मंदिर के चित्र भी दिखाई देते हैं, जो साम्राज्य की शक्ति और धार्मिक दृष्टि दर्शाते हैं।"
   },
   {
     "id": 44,
-    "question": "गुप्तकालीन मंदिरों में द्वार लिंटल (Door Lintel) की नक्काशी में कौन से विषय प्रमुख थे? / What themes were predominant in the carving of door lintels in Gupta period temples?",
+    "question": "राजपूत सिक्कों में नाम और लिपि कैसे अंकित होती थी? / How were rulers’ names inscribed on Rajput coins?",
     "options": {
-      "A": "देव-देवियों के चित्र (Images of deities)",
-      "B": "वनस्पति और पुष्प अलंकरण (Floral and vegetal motifs)",
-      "C": "युद्ध और शिकार दृश्य (War and hunting scenes)",
-      "D": "खगोल और गणितीय चिह्न (Astronomical and mathematical symbols)"
+      "A": "स्थानीय लिपियों में / In local scripts",
+      "B": "संस्कृत में / In Sanskrit",
+      "C": "अरबी लिपि में / In Arabic script",
+      "D": "ग्रीक लिपि में / In Greek script"
     },
     "answer": ["A", "B"],
-    "explanation": "गुप्तकालीन द्वार लिंटल पर अधिकतर देव-देवियों की मूर्तियां और पुष्प-वनस्पति आधारित अलंकरण बनाए जाते थे।"
+    "explanation": "राजपूत सिक्कों पर शासकों के नाम स्थानीय लिपियों और संस्कृत में अंकित होते थे।"
   },
   {
     "id": 45,
-    "question": "गुप्तकाल में स्तंभों की सजावट का मुख्य तकनीकी पहलू क्या था? / What was the main technical aspect of pillar decoration in the Gupta period?",
+    "question": "चोल सिक्कों का व्यापारिक महत्व क्या था? / What was the commercial importance of Chola coins?",
     "options": {
-      "A": "लोहे के कोर के साथ पत्थर की परत (Stone casing over iron core)",
-      "B": "सतही नक्काशी (Surface carving)",
-      "C": "रंगीन प्लास्टर का प्रयोग (Use of colored plaster)",
-      "D": "मोज़ाइक कार्य (Mosaic work)"
+      "A": "स्थानीय व्यापार में उपयोग / Used in local trade",
+      "B": "विदेशी व्यापार को आकर्षित करना / Attract foreign trade",
+      "C": "सिर्फ धार्मिक अनुष्ठान / Only for rituals",
+      "D": "राजनीतिक संदेश / Convey political message"
     },
-    "answer": ["B", "C"],
-    "explanation": "गुप्तकाल में स्तंभों पर सतही नक्काशी और कभी-कभी रंगीन प्लास्टर से सजावट की जाती थी।"
+    "answer": ["A", "B"],
+    "explanation": "चोल सिक्के स्थानीय और विदेशी व्यापार दोनों में महत्वपूर्ण थे।"
   },
   {
     "id": 46,
-    "question": "Ashlar Masonry में पत्थरों को जोड़ने के लिए किस तकनीक का उपयोग किया जाता था? / Which technique was used to join stones in Ashlar Masonry?",
+    "question": "विजयनगर सिक्कों पर हाथी प्रतीक का क्या महत्व था? / What was the significance of elephant motif on Vijayanagara coins?",
     "options": {
-      "A": "टंग-एंड-ग्रूव जॉइंट (Tongue-and-groove joint)",
-      "B": "सूखी जोड़ तकनीक (Dry jointing)",
-      "C": "लोहे के डॉवेल (Iron dowels)",
-      "D": "कांस्य पिन (Bronze pins)"
+      "A": "साम्राज्य की शक्ति / Symbol of imperial power",
+      "B": "धार्मिक महत्व / Religious significance",
+      "C": "सिर्फ सजावट / Decorative purpose",
+      "D": "विदेशी व्यापार संकेत / Foreign trade indicator"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "Ashlar Masonry में पत्थरों को जोड़ने के लिए टंग-एंड-ग्रूव, सूखी जोड़ और लोहे के डॉवेल का प्रयोग किया जाता था।"
+    "answer": ["A", "B"],
+    "explanation": "हाथी का प्रतीक साम्राज्य की शक्ति और धार्मिक दृष्टि को दर्शाता था।"
   },
   {
     "id": 47,
-    "question": "गुप्तकाल में मंदिर के स्तंभ आधार (Base) पर किस प्रकार के अलंकरण का प्रचलन था? / What type of ornamentation was prevalent on the pillar bases in Gupta period temples?",
+    "question": "चोल और विजयनगर सिक्कों में किस तरह के प्रतीकात्मक चित्र पाए जाते थे? / What symbolic motifs are found in Chola and Vijayanagara coins?",
     "options": {
-      "A": "घट-पल्लव आकृति (Pot-and-foliage motif)",
-      "B": "हाथी और सिंह आकृति (Elephant and lion figures)",
-      "C": "मानव-मिथुन आकृति (Human couples)",
-      "D": "यंत्रमूलक आकृति (Mechanical motifs)"
+      "A": "जानवर / Animals",
+      "B": "मंदिर / Temple",
+      "C": "राजा की तस्वीर / King’s portrait",
+      "D": "ज्यामितीय डिजाइन / Geometric design"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "गुप्तकालीन स्तंभ आधार पर घट-पल्लव, हाथी, सिंह और मानव-मिथुन जैसी आकृतियां आम थीं।"
+    "answer": ["A", "B"],
+    "explanation": "दोनों साम्राज्यों के सिक्कों पर जानवर और मंदिर के प्रतीक मिलते हैं, जो सत्ता और धार्मिक दृष्टिकोण दिखाते हैं।"
   },
   {
     "id": 48,
-    "question": "गुप्तकालीन मंदिरों में प्लास्टर का रंगीन उपयोग किससे संबंधित था? / The colored use of plaster in Gupta period temples was related to which aspect?",
+    "question": "राजपूत सिक्कों का स्थानीय प्रशासन में क्या महत्व था? / What was the significance of Rajput coins in local administration?",
     "options": {
-      "A": "धार्मिक अनुष्ठानिक महत्व (Religious ritual significance)",
-      "B": "मूर्तियों को जीवंत दिखाना (Making sculptures appear lifelike)",
-      "C": "राजनीतिक प्रचार (Political propaganda)",
-      "D": "सैन्य चिह्न (Military insignia)"
+      "A": "कर संग्रह में / Tax collection",
+      "B": "सैन्य वेतन भुगतान / Military salary",
+      "C": "सिर्फ धार्मिक उद्देश्य / Only religious purposes",
+      "D": "मात्र सजावट / Only decorative"
     },
     "answer": ["A", "B"],
-    "explanation": "प्लास्टर को रंगकर मूर्तियों को जीवंत दिखाया जाता था और इसका धार्मिक अनुष्ठानों में भी महत्व था।"
+    "explanation": "राजपूत सिक्के कर संग्रह और सैनिकों की वेतन व्यवस्था में प्रयोग किए जाते थे।"
   },
   {
     "id": 49,
-    "question": "अमलक की नक्काशी में गुप्तकाल में कौन सी प्रतीकात्मकता झलकती थी? / What symbolism was reflected in the carving of amalaka in Gupta period?",
+    "question": "चोल सिक्कों पर शेर प्रतीक का क्या संदेश था? / What did the tiger symbol on Chola coins signify?",
     "options": {
-      "A": "सूर्य के किरणों का प्रतीक (Symbol of sun rays)",
-      "B": "चक्र का प्रतीक (Symbol of wheel)",
-      "C": "पर्वत शिखर का प्रतीक (Symbol of mountain peak)",
-      "D": "जल तरंगों का प्रतीक (Symbol of water waves)"
+      "A": "साम्राज्यिक शक्ति / Imperial power",
+      "B": "धार्मिक भक्ति / Religious devotion",
+      "C": "विदेशी व्यापार / Foreign trade",
+      "D": "सजावटी उद्देश्य / Decorative purpose"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "अमलक को सूर्य की किरणों, चक्र और पर्वत शिखर का प्रतीक माना जाता था।"
+    "answer": ["A", "B"],
+    "explanation": "शेर प्रतीक साम्राज्य की शक्ति और धार्मिक भक्ति का संकेत देता था।"
   },
   {
     "id": 50,
-    "question": "गुप्तकाल में मंदिरों के प्रवेश द्वार के ऊपर लिंटल पर किस प्रकार की संरचना रखी जाती थी? / What structure was placed above the lintel at temple entrances in Gupta period?",
+    "question": "विजयनगर सिक्कों पर राजा और हाथी का संयोजन किस संदेश को दर्शाता था? / What message did the combination of king and elephant convey on Vijayanagara coins?",
     "options": {
-      "A": "तोरण (Torana)",
-      "B": "अर्धचंद्र (Architrave)",
-      "C": "लघु शिखर (Miniature shikhara)",
-      "D": "पताका (Flagstaff)"
+      "A": "सैन्य और राजनीतिक शक्ति / Military and political power",
+      "B": "धार्मिक संरक्षण / Religious protection",
+      "C": "सिर्फ व्यापारिक मूल्य / Only trade value",
+      "D": "सजावटी उद्देश्य / Decorative purpose"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "लिंटल के ऊपर तोरण, अर्धचंद्र और कभी-कभी लघु शिखर की संरचना रखी जाती थी।"
+    "answer": ["A", "B"],
+    "explanation": "राजा और हाथी का संयोजन सैन्य और राजनीतिक शक्ति के साथ धार्मिक संरक्षण का संदेश देता था।"
   },
   {
     "id": 51,
-    "question": "गुप्तकालीन मंदिर निर्माण में 'ashlar masonry' का प्रमुख लाभ क्या था? / What was the main advantage of ashlar masonry in Gupta temple construction?",
+    "question": "मध्यकालीन भारतीय सिक्कों पर स्थानीय लिपियों का प्रयोग क्यों किया गया? / Why were local scripts used on medieval Indian coins?",
     "options": {
-      "A": "पत्थरों के जोड़ों में कोई मोर्टार का उपयोग नहीं",
-      "B": "अत्यधिक मजबूती और स्थायित्व",
-      "C": "मूर्ति-निर्माण के लिए उपयुक्त सतह",
-      "D": "लागत में भारी कमी"
+      "A": "स्थानीय जनता को पहचान देने के लिए / To provide identity to local people",
+      "B": "विदेशी व्यापार के लिए / For foreign trade",
+      "C": "सिक्कों को सजावटी बनाने के लिए / For decoration",
+      "D": "साम्राज्य की वैधता दिखाने के लिए / To assert imperial legitimacy"
     },
-    "answer": ["B", "C"],
-    "explanation": "Ashlar masonry से पत्थर का सतह चिकना और मजबूत बनता था, जिससे मूर्ति-निर्माण आसान होता था और संरचना स्थायी रहती थी।"
+    "answer": ["A", "D"],
+    "explanation": "स्थानीय लिपियों का प्रयोग स्थानीय पहचान और साम्राज्य की वैधता को दर्शाने के लिए किया गया।"
   },
   {
     "id": 52,
-    "question": "गुप्तकालीन मंदिरों में चूना और प्लास्टर के उपयोग के पीछे कौन-कौन से कारण थे? / What were the reasons for using lime and plaster in Gupta temples?",
+    "question": "चोल सिक्कों की ऐतिहासिक जानकारी हमें किस बात की जानकारी देती है? / What historical information do Chola coins provide?",
     "options": {
-      "A": "पत्थरों के बीच सीलिंग और मजबूती",
-      "B": "भीतरी सतह को चमकदार बनाना",
-      "C": "ध्वनि गूंज कम करना",
-      "D": "जल प्रतिरोध बढ़ाना"
+      "A": "राजा के नाम और शासनकाल / King’s name and reign",
+      "B": "धार्मिक विश्वास / Religious beliefs",
+      "C": "सिर्फ सजावट / Only decorative",
+      "D": "सिक्कों का वजन / Coin weight"
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "चूना और प्लास्टर का उपयोग जोड़ सील करने, भीतरी दीवारों को सजाने और जल से सुरक्षा हेतु किया जाता था।"
+    "answer": ["A", "B"],
+    "explanation": "चोल सिक्के राजा के नाम, शासनकाल और धार्मिक विश्वासों की जानकारी देते हैं।"
   },
   {
     "id": 53,
-    "question": "अमलका (Amalaka) का प्रारंभिक उपयोग गुप्तकालीन मंदिरों में किस रूप में हुआ? / In Gupta temples, what was the initial purpose of Amalaka?",
+    "question": "विजयनगर सिक्कों पर मंदिर प्रतीक किस दृष्टि से महत्वपूर्ण था? / Why was the temple motif significant on Vijayanagara coins?",
     "options": {
-      "A": "सिर्फ सजावट के लिए",
-      "B": "शिखर का स्थायित्व बढ़ाने हेतु",
-      "C": "धार्मिक प्रतीक के रूप में",
-      "D": "गर्भगृह में प्रकाश प्रवेश हेतु"
+      "A": "धार्मिक दृष्टि से / Religious perspective",
+      "B": "साम्राज्य की वैधता दिखाने के लिए / To assert empire legitimacy",
+      "C": "सिर्फ सजावटी / Only decorative",
+      "D": "विदेशी व्यापार / Foreign trade"
     },
-    "answer": ["B", "C"],
-    "explanation": "अमलका शिखर की संरचना को स्थिर करता था और सूर्य-चक्र या आध्यात्मिक प्रतीक के रूप में माना जाता था।"
+    "answer": ["A", "B"],
+    "explanation": "मंदिर प्रतीक धार्मिक महत्व और साम्राज्य की वैधता को दर्शाता था।"
   },
   {
     "id": 54,
-    "question": "गुप्तकालीन मंदिरों में प्रवेश-द्वार की लिंटल (door lintel) पर आमतौर पर कौन सी नक्काशी पाई जाती थी? / What carvings were commonly found on door lintels in Gupta temples?",
+    "question": "राजपूत सिक्कों पर जानवर प्रतीक किस संदेश को दर्शाते थे? / What message did animal symbols on Rajput coins convey?",
     "options": {
-      "A": "गंगा-यमुना प्रतिमा",
-      "B": "पुष्प और बेल-पत्र अलंकरण",
-      "C": "युद्ध के दृश्य",
-      "D": "नवरस दर्शाने वाले चित्र"
+      "A": "साम्राज्यिक शक्ति / Imperial power",
+      "B": "सैन्य क्षमता / Military capability",
+      "C": "धार्मिक भक्ति / Religious devotion",
+      "D": "सजावटी उद्देश्य / Decorative purpose"
     },
     "answer": ["A", "B"],
-    "explanation": "गंगा-यमुना की मूर्तियां और पुष्प-बेल अलंकरण गुप्तकालीन मंदिर लिंटल का प्रमुख अंग थे।"
+    "explanation": "राजपूत सिक्कों पर जानवर प्रतीक साम्राज्यिक शक्ति और सैन्य क्षमता को दर्शाते थे।"
   },
   {
     "id": 55,
-    "question": "गुप्तकालीन मंदिर वास्तुकला में स्तंभों की सतह पर की गई नक्काशी का एक उद्देश्य क्या था? / What was one purpose of pillar carvings in Gupta temple architecture?",
+    "question": "चोल और विजयनगर सिक्कों में किस तत्व ने उन्हें व्यापार में स्वीकार्य बनाया? / Which factor made Chola and Vijayanagara coins acceptable in trade?",
     "options": {
-      "A": "संरचना की मजबूती",
-      "B": "धार्मिक कथाओं का संचार",
-      "C": "स्थानीय कारीगरों की पहचान",
-      "D": "दृश्य आकर्षण बढ़ाना"
+      "A": "धातु की शुद्धता / Metal purity",
+      "B": "मानकीकृत वजन / Standardized weight",
+      "C": "राजा की तस्वीर / King’s portrait",
+      "D": "मंदिर और जानवर प्रतीक / Temple and animal motifs"
     },
-    "answer": ["B", "D"],
-    "explanation": "स्तंभ नक्काशी से धार्मिक कथाएं दर्शाई जाती थीं और साथ ही सौंदर्य में वृद्धि होती थी।"
+    "answer": ["A", "B"],
+    "explanation": "धातु की शुद्धता और मानकीकृत वजन ने इन्हें व्यापार में स्वीकार्य बनाया।"
   },
   {
     "id": 56,
-    "question": "गुप्तकालीन वास्तु-कला में पत्थरों को जोड़ने की तकनीक में कौन-सा तरीका प्रमुख था? / Which technique was prominent in joining stones in Gupta architecture?",
+    "question": "मध्यकालीन सिक्कों के अध्ययन से हमें क्या जानकारी मिलती है? / What information is derived from studying medieval coins?",
     "options": {
-      "A": "लोहे के क्लैम्प और डॉवेल का प्रयोग",
-      "B": "केवल चूना-मोर्टार से जोड़ना",
-      "C": "लकड़ी के पिन और गोंद का उपयोग",
-      "D": "पत्थर को इंटरलॉक करना"
+      "A": "साम्राज्य की शक्ति और विस्तार / Empire power and extent",
+      "B": "धार्मिक और सांस्कृतिक दृष्टि / Religious and cultural perspective",
+      "C": "सिर्फ सिक्कों का आकार / Only coin size",
+      "D": "केवल सजावट / Only decoration"
     },
-    "answer": ["A", "D"],
-    "explanation": "गुप्तकालीन मंदिरों में पत्थरों को इंटरलॉकिंग और लोहे के क्लैम्प से जोड़ा जाता था।"
+    "answer": ["A", "B"],
+    "explanation": "इन सिक्कों के अध्ययन से साम्राज्य की शक्ति, विस्तार और धार्मिक-सांस्कृतिक दृष्टि का ज्ञान मिलता है।"
   },
   {
     "id": 57,
-    "question": "गुप्तकाल में मंदिर की बाहरी दीवारों पर की गई सजावट का एक व्यावहारिक लाभ क्या था? / What was one practical benefit of exterior wall decoration in Gupta temples?",
+    "question": "विजयनगर और चोल सिक्कों में जानवर प्रतीक का उद्देश्य क्या था? / What was the purpose of animal motifs on Vijayanagara and Chola coins?",
     "options": {
-      "A": "धूप से सुरक्षा",
-      "B": "वर्षा जल का प्रवाह नियंत्रित करना",
-      "C": "दीवारों में दरारें छिपाना",
-      "D": "अंतर्वर्ती तापमान नियंत्रित करना"
+      "A": "साम्राज्य की शक्ति दिखाना / Display empire power",
+      "B": "धार्मिक दृष्टि / Religious perspective",
+      "C": "सिर्फ सजावट / Decorative only",
+      "D": "विदेशी व्यापार संकेत / Foreign trade indicator"
     },
-    "answer": ["C", "D"],
-    "explanation": "बाहरी सजावट से दरारें छिपाई जाती थीं और मोटाई व अलंकरण से अंदर का तापमान संतुलित रहता था।"
+    "answer": ["A", "B"],
+    "explanation": "जानवर प्रतीक साम्राज्य की शक्ति और धार्मिक दृष्टिकोण को दर्शाते थे।"
   },
   {
     "id": 58,
-    "question": "गुप्तकालीन मंदिरों में शिल्पकार अक्सर पत्थर के ब्लॉकों की सतह को पहले से क्यों तैयार करते थे? / Why did Gupta temple artisans pre-finish stone block surfaces?",
+    "question": "चोल और राजपूत सिक्कों पर राजा का नाम अंकित क्यों किया गया? / Why was the king's name inscribed on Chola and Rajput coins?",
     "options": {
-      "A": "निर्माण के समय फिटिंग आसान बनाने के लिए",
-      "B": "आगे की नक्काशी के लिए सपाट सतह तैयार करने हेतु",
-      "C": "मोर्टार की आवश्यकता खत्म करने हेतु",
-      "D": "पत्थर की मजबूती बढ़ाने हेतु"
+      "A": "सिक्कों की वैधता दिखाने के लिए / To assert coin legitimacy",
+      "B": "धार्मिक भक्ति दिखाने के लिए / To show religious devotion",
+      "C": "विदेशी व्यापार आकर्षित करने के लिए / To attract foreign trade",
+      "D": "सिर्फ सजावटी उद्देश्य / Only decorative"
     },
-    "answer": ["A", "B"],
-    "explanation": "पहले से सतह तैयार करने से फिटिंग और आगे की नक्काशी में आसानी होती थी।"
+    "answer": ["A"],
+    "explanation": "राजा का नाम सिक्कों की वैधता और साम्राज्य की सत्ता को दर्शाने के लिए अंकित किया गया।"
   },
   {
     "id": 59,
-    "question": "गुप्तकालीन मंदिरों में प्लास्टर का रंग आमतौर पर किस आधार पर चुना जाता था? / On what basis was the plaster color in Gupta temples usually chosen?",
+    "question": "मध्यकालीन भारतीय सिक्कों पर मंदिर और जानवर प्रतीक किस दृष्टि से महत्वपूर्ण थे? / Why were temple and animal motifs significant on medieval Indian coins?",
     "options": {
-      "A": "स्थानीय उपलब्ध खनिज",
-      "B": "धार्मिक महत्व",
-      "C": "शाही आदेश",
-      "D": "मौसमी प्रभाव"
+      "A": "सांस्कृतिक और धार्मिक दृष्टि / Cultural and religious perspective",
+      "B": "सिर्फ सजावट / Only decorative",
+      "C": "व्यापार में उपयोग / Trade use",
+      "D": "राजनीतिक संदेश / Political message"
     },
-    "answer": ["A", "B"],
-    "explanation": "रंग का चुनाव स्थानीय खनिज और धार्मिक प्रतीकों के आधार पर किया जाता था।"
+    "answer": ["A", "D"],
+    "explanation": "मंदिर और जानवर प्रतीक सांस्कृतिक, धार्मिक और राजनीतिक संदेश प्रदान करते थे।"
   },
   {
     "id": 60,
-    "question": "गुप्तकालीन मंदिरों में अलंकरण की शुरुआत अक्सर किस हिस्से से की जाती थी? / In Gupta temples, which part was often ornamented first?",
+    "question": "चोल, विजयनगर और राजपूत सिक्कों में प्रमुख सामान्य विशेषता क्या थी? / What was the main common feature of Chola, Vijayanagara and Rajput coins?",
     "options": {
-      "A": "गर्भगृह का द्वार",
-      "B": "शिखर का शीर्ष",
-      "C": "मंडप की छत",
-      "D": "अंतःपुर की दीवारें"
-    },
-    "answer": ["A", "C"],
-    "explanation": "अलंकरण की शुरुआत गर्भगृह के प्रवेश-द्वार और मंडप की छत से की जाती थी।"
-  },
-  {
-    "id": 61,
-    "question": "Dashavatara Temple, Deogarh (U.P.) ka shikhar kaunsa architectural feature pradarshit karta hai? / Which architectural feature does the Dashavatara Temple, Deogarh (U.P.)'s shikhara display?",
-    "options": {
-      "A": "Latina shikhara",
-      "B": "Dravida vimana",
-      "C": "Bhumija shikhara",
-      "D": "Phamsana roof"
-    },
-    "answer": ["A"],
-    "explanation": "Deogarh ka Dashavatara Mandir ek prarambhik Nagara shaili ka udaharan hai jisme Latina shikhara ka prayog hua tha."
-  },
-  {
-    "id": 62,
-    "question": "Bhitargaon Temple kis material se bana hai aur iska pramukh mahatva kya hai? / The Bhitargaon Temple is made of which material and what is its primary significance?",
-    "options": {
-      "A": "Sandstone – earliest stone temple",
-      "B": "Brick – oldest surviving shikhara temple",
-      "C": "Granite – Dravida style",
-      "D": "Laterite – Buddhist influence"
-    },
-    "answer": ["B"],
-    "explanation": "Bhitargaon Temple eent se bana prachin shikhara mandir hai jo Gupta yug ka mahatvapurn udaharan hai."
-  },
-  {
-    "id": 63,
-    "question": "Tigawa Temple, MP ka mool vishay kya tha? / What was the main theme of the Tigawa Temple in MP?",
-    "options": {
-      "A": "Vishnu worship",
-      "B": "Shiva worship",
-      "C": "Devi worship",
-      "D": "Surya worship"
-    },
-    "answer": ["A"],
-    "explanation": "Tigawa ka prarambhik mandir Vishnu ko samarpit tha, jo Gupta shaili ka ek saral roop dikhata hai."
-  },
-  {
-    "id": 64,
-    "question": "Gupta kalin mandiron ke pramukh vishayon me kaun-kaun se shamil the? / Which themes were prominent in Gupta period temples?",
-    "options": {
-      "A": "Vaishnav",
-      "B": "Shaiva",
-      "C": "Shakta",
-      "D": "Jaina"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "Gupta yug me Vaishnav, Shaiva aur Shakta prabhav spasht the, jabki Jaina prabhav simit tha."
-  },
-  {
-    "id": 65,
-    "question": "Gupta kalin puranik kathayon ke chitrankan me kaun se granth ke drishya milte hain? / In Gupta period temple reliefs, which texts' scenes are depicted?",
-    "options": {
-      "A": "Ramayana",
-      "B": "Mahabharata",
-      "C": "Bhagavata Purana",
-      "D": "Arthashastra"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "Mandiron me Ramayana, Mahabharata aur Bhagavata Purana ke pradarshan milte hain, Arthashastra ka nahi."
-  },
-  {
-    "id": 66,
-    "question": "Dashavatara ki pratima kala Gupta yug me kahan vishesh roop se milti hai? / Where is the iconography of Dashavatara especially found in the Gupta period?",
-    "options": {
-      "A": "Ajanta Caves",
-      "B": "Ellora Caves",
-      "C": "Deogarh Temple",
-      "D": "Elephanta Caves"
-    },
-    "answer": ["C"],
-    "explanation": "Deogarh ka Dashavatara Mandir Vishnu ke dash roopon ka shilp kala ka pramukh kendr tha."
-  },
-  {
-    "id": 67,
-    "question": "Mandiron ke dwar par Ganga-Yamuna figurines ka prayog kis arth me hota tha? / The Ganga-Yamuna figurines on temple doorways symbolized what?",
-    "options": {
-      "A": "Fertility and prosperity",
-      "B": "Sacred rivers' sanctity",
-      "C": "War victories",
-      "D": "Political authority"
+      "A": "स्थानिक लिपि में नाम अंकन / Names inscribed in local scripts",
+      "B": "मूल धातु सोना या तांबा / Base metal gold or copper",
+      "C": "सिर्फ धार्मिक चित्र / Only religious images",
+      "D": "सिक्कों का आकार समान / Uniform coin size"
     },
     "answer": ["A", "B"],
-    "explanation": "Ganga-Yamuna figurines pavitrata, samriddhi aur shubh pravesh ka pratik thi."
-  },
-  {
-    "id": 68,
-    "question": "Dwarpals ki sthapana ka uddeshya kya tha? / What was the purpose of placing dwarpalas at temple entrances?",
-    "options": {
-      "A": "Decorative art",
-      "B": "Symbolic guardianship",
-      "C": "Political propaganda",
-      "D": "Narrative storytelling"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Dwarpals mandir ke rakshak aur saundaryabodh dono ka pratinidhitva karte the."
-  },
-  {
-    "id": 69,
-    "question": "Amalaka ka vikas prarambhik roop me kaunse karyon ke liye hua tha? / In early development, the amalaka served which purposes?",
-    "options": {
-      "A": "Structural stability",
-      "B": "Symbolic representation of the sun",
-      "C": "Water storage",
-      "D": "Aesthetic crowning element"
-    },
-    "answer": ["A", "B", "D"],
-    "explanation": "Amalaka shikhar ki majbooti, surya pratik aur saundaryik charan ka pratik tha."
-  },
-  {
-    "id": 70,
-    "question": "Mandir shikhar ke upar sthit kalash ka pramukh arth kya tha? / What was the main symbolism of the kalasha atop temple shikhara?",
-    "options": {
-      "A": "Abundance",
-      "B": "Victory",
-      "C": "Cosmic axis",
-      "D": "Water source"
-    },
-    "answer": ["A", "C"],
-    "explanation": "Kalash samriddhi aur brahmand ki dhuri ka pratik tha."
-  },
-  {
-    "id": 71,
-    "question": "Bhitargaon Mandir ke shikhar ka roop kaunse shaili ka udaharan hai? / The shikhara of Bhitargaon Temple represents which style?",
-    "options": {
-      "A": "Latina",
-      "B": "Phamsana",
-      "C": "Rekha-prasada",
-      "D": "Dravida"
-    },
-    "answer": ["A"],
-    "explanation": "Bhitargaon ka shikhara Latina shaili ka prarambhik roop hai jo Gupta yug me vikshit hua."
-  },
-  {
-    "id": 72,
-    "question": "Tigawa Temple ka antarala kis uddeshya se banaya gaya tha? / The antarala in Tigawa Temple was constructed for what purpose?",
-    "options": {
-      "A": "Ritual transition space",
-      "B": "Priestly seating",
-      "C": "Storage of offerings",
-      "D": "Depiction of deities"
-    },
-    "answer": ["A"],
-    "explanation": "Antarala garbhagriha aur mandapa ke beech ek pavitra parivartan sthal tha."
-  },
-  {
-    "id": 73,
-    "question": "Gupta kalin murti shilp me dvaar par sthit Ganga-Yamuna kaunse pradarshan se sambandhit the? / In Gupta period sculpture, Ganga-Yamuna depictions at the doorway are related to which representation?",
-    "options": {
-      "A": "River goddesses",
-      "B": "Seasonal cycles",
-      "C": "Ritual purity",
-      "D": "Political alliance"
-    },
-    "answer": ["A", "C"],
-    "explanation": "Ye nadi deviyan pavitrata aur pavitra snan ka pratik thi."
-  },
-  {
-    "id": 74,
-    "question": "Amalaka aur kalash ki sthapana ka prarambhik samay kaunsa tha? / The initial placement of amalaka and kalasha occurred in which period?",
-    "options": {
-      "A": "Maurya",
-      "B": "Kushan",
-      "C": "Gupta",
-      "D": "Pala"
-    },
-    "answer": ["C"],
-    "explanation": "Amalaka aur kalash ka prarambhik prayog Gupta kal me hua."
-  },
-  {
-    "id": 75,
-    "question": "Dashavatara Temple me mandapa ka kya mahatva tha? / What was the significance of the mandapa in Dashavatara Temple?",
-    "options": {
-      "A": "Gathering of devotees",
-      "B": "Priests' residence",
-      "C": "Musical performances",
-      "D": "Narrative relief display"
-    },
-    "answer": ["A", "D"],
-    "explanation": "Mandapa bhakton ke sangrah aur puranik kathaon ke shilp darshan ke liye tha."
-  },
-  {
-    "id": 76,
-    "question": "Gupta kalin Vaishnav mandiron me kaunse avataron ki murtikala sabse zyada milti hai? / In Gupta period Vaishnav temples, which avatars' iconography is most common?",
-    "options": {
-      "A": "Matsya",
-      "B": "Varaha",
-      "C": "Narasimha",
-      "D": "Vamana"
-    },
-    "answer": ["B", "C"],
-    "explanation": "Varaha aur Narasimha ke shilp pramukh roop se milte hain."
-  },
-  {
-    "id": 77,
-    "question": "Dwarpals ke haath me aam taur par kaunse astr shilpit hote the? / Which weapons are commonly carved in dwarpalas' hands?",
-    "options": {
-      "A": "Gada",
-      "B": "Trishul",
-      "C": "Chakra",
-      "D": "Dhanush"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Dwarpals ke haath me gada aur trishul ka shilp aam roop se hota tha."
-  },
-  {
-    "id": 78,
-    "question": "Gupta kalin mandiron me pravesh ke upar kaunse shubh chinh banaye jate the? / Which auspicious symbols were carved above entrances in Gupta temples?",
-    "options": {
-      "A": "Kalash",
-      "B": "Swastika",
-      "C": "Padma",
-      "D": "Lotus creeper"
-    },
-    "answer": ["A", "B", "C", "D"],
-    "explanation": "Pravesh ke upar kalash, swastika, padma, aur bel-patton ka shilp shubh maana jata tha."
-  },
-  {
-    "id": 79,
-    "question": "Bhitargaon Temple me prayukt ornamentation ka mukhya kendr kya tha? / What was the main focus of ornamentation in Bhitargaon Temple?",
-    "options": {
-      "A": "Door lintels",
-      "B": "Pillars",
-      "C": "Ceilings",
-      "D": "Plinths"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Bhitargaon me dwar ke lintels aur stambh par vishesh shilp kala ka prayog hua tha."
-  },
-  {
-    "id": 80,
-    "question": "Tigawa Temple ke shilp me kis prakar ka alankaran prarambhik roop se dekha ja sakta hai? / What type of ornamentation can be seen in the early sculpture of Tigawa Temple?",
-    "options": {
-      "A": "Minimalistic carving",
-      "B": "Highly ornate niches",
-      "C": "Complex friezes",
-      "D": "Painted frescoes"
-    },
-    "answer": ["A"],
-    "explanation": "Tigawa Temple ke shilp me saral aur minimalistic carving ka prarambhik roop dekha ja sakta hai."
+    "explanation": "तीनों साम्राज्यों के सिक्कों में स्थानीय लिपियों में नाम अंकित होते थे और मुख्य धातु सोना या तांबा थी।"
   }
 ]
-
 
 
 
