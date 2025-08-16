@@ -1,132 +1,602 @@
 [
   {
     "id": 1,
-    "question": "भारत में मानसून की अस्थिरता किस प्रकार से कृषि उत्पादन को प्रभावित करती है? / How does monsoon variability in India impact agricultural output?",
+    "question": "‘राष्ट्रकूट’ शब्द का शाब्दिक अर्थ क्या है? / What is the literal meaning of the word ‘Rashtrakuta’?",
     "options": {
-      "A": "यह केवल खरीफ फसल को प्रभावित करता है / It only affects Kharif crops.",
-      "B": "यह सभी प्रकार की फसलों की उत्पादकता को सीधे प्रभावित करता है / It directly affects productivity of all crop types.",
-      "C": "सिर्फ सिंचित क्षेत्रों में प्रभाव होता है / It impacts only irrigated zones.",
-      "D": "यह केवल पश्चिमी घाट पर असर डालता है / It only impacts Western Ghats."
+      "A": "ग्राम प्रमुख (Village Head)",
+      "B": "जिले का प्रमुख / प्रमुख कुल (Chief of a District/Clan)",
+      "C": "राज्यपाल (Governor)",
+      "D": "सेनापति (Commander)"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["B"],
+    "explanation": "‘राष्ट्रकूट’ शब्द का अर्थ है ‘राष्ट्र (जिला/प्रदेश) का कूट (प्रमुख कुल/वंश)’. यह एक क्षेत्रीय कुल या प्रमुख कुल को दर्शाता है।"
   },
   {
     "id": 2,
-    "question": "ग्रीनहाउस गैसों की बढ़ोतरी का भारतीय कपास उद्योग पर क्या संभावित प्रभाव हो सकता है? / What is the potential impact of increased greenhouse gases on the Indian cotton industry?",
+    "question": "राष्ट्रकूट साम्राज्य की प्राचीनतम राजधानी कहाँ थी? / Where was the earliest capital of the Rashtrakuta Empire located?",
     "options": {
-      "A": "बिना किसी प्रभाव के रहेगा / No significant impact.",
-      "B": "फाइबर की गुणवत्ता में सुधार होगा / It will improve fiber quality.",
-      "C": "कीट संक्रमण और उत्पादन में गिरावट / Increased pest attacks and reduced yield.",
-      "D": "रंगाई प्रक्रिया सस्ती हो जाएगी / Dyeing process will become cheaper."
+      "A": "मालखेड़ / मान्याकेटा (Malkhed / Manyakheta)",
+      "B": "एलोरा (Ellora)",
+      "C": "पैठण (Paithan)",
+      "D": "देवगिरि (Devagiri)"
     },
-    "answer": [
-      "C"
-    ]
+    "answer": ["B"],
+    "explanation": "प्रारंभिक काल में राष्ट्रकूटों की राजधानी एलोरा (मध्य महाराष्ट्र) के निकट थी। बाद में उन्होंने मान्याकेटा (मालखेड़, कर्नाटक) को अपनी स्थायी राजधानी बनाया।"
   },
   {
     "id": 3,
-    "question": "जलवायु परिवर्तन के संदर्भ में 'क्रॉप डाइवर्सिफिकेशन' नीति का मुख्य लाभ क्या है? / What is the primary benefit of 'Crop Diversification' policy in context of climate change?",
+    "question": "राष्ट्रकूट साम्राज्य की स्थायी राजधानी कौन सी थी? / Which was the permanent capital of the Rashtrakutas?",
     "options": {
-      "A": "नकद फसल उत्पादन बढ़ाना / Increase cash crop production.",
-      "B": "खाद की खपत बढ़ाना / Increase fertilizer usage.",
-      "C": "जलवायु जोखिम का प्रबंधन करना / Manage climate-related risk.",
-      "D": "खरीद मूल्य में स्थिरता लाना / Stabilize procurement prices."
+      "A": "मान्याकेटा (Manyakheta / Malkhed)",
+      "B": "पैठण (Paithan)",
+      "C": "कांची (Kanchi)",
+      "D": "बदर (Bidar)"
     },
-    "answer": [
-      "C"
-    ]
+    "answer": ["A"],
+    "explanation": "दंतिदुर्ग और कृष्ण प्रथम के बाद राष्ट्रकूटों की स्थायी राजधानी ‘मान्याकेटा’ (मालखेड़, आधुनिक कर्नाटक) थी।"
   },
   {
     "id": 4,
-    "question": "ग्लोबल वॉर्मिंग का भारत में चीनी उद्योग पर प्रभाव क्या हो सकता है? / What could be the impact of global warming on India's sugar industry?",
+    "question": "राष्ट्रकूटों के संस्थापक दंतिदुर्ग ने किस वंश को पराजित करके सत्ता स्थापित की? / Which dynasty was defeated by Dantidurga to establish Rashtrakuta power?",
     "options": {
-      "A": "गन्ने की मिठास बढ़ेगी / Sugarcane sweetness will increase.",
-      "B": "कम सिंचाई से उपज बढ़ेगी / Less irrigation will boost yield.",
-      "C": "गन्ने की वृद्धि अवधि घटेगी / Growth period of sugarcane may reduce.",
-      "D": "उद्योग पूरी तरह लाभ में आ जाएगा / Industry will become entirely profitable."
+      "A": "वाकाटक (Vakatakas)",
+      "B": "चलुक्य (Chalukyas of Badami)",
+      "C": "पल्लव (Pallavas)",
+      "D": "कदंब (Kadambas)"
     },
-    "answer": [
-      "C"
-    ]
+    "answer": ["B"],
+    "explanation": "दंतिदुर्ग ने 8वीं शताब्दी में बादामी चालुक्यों को पराजित कर डेक्कन क्षेत्र में राष्ट्रकूट सत्ता स्थापित की।"
   },
   {
     "id": 5,
-    "question": "‘राष्ट्रीय कृषि विकास योजना’ का एक उद्देश्य क्या है? / What is one of the objectives of the Rashtriya Krishi Vikas Yojana (RKVY)?",
+    "question": "राष्ट्रकूटों की प्रशासनिक व्यवस्था की विशेषता क्या थी? / What was the key feature of Rashtrakuta administration?",
     "options": {
-      "A": "सिर्फ जैविक खेती को बढ़ावा देना / Promote only organic farming.",
-      "B": "राज्यों को कृषि निवेश निर्णयों में लचीलापन देना / Give states flexibility in agricultural investments.",
-      "C": "निजी बीज कंपनियों को सब्सिडी देना / Subsidize private seed companies.",
-      "D": "केवल गेहूं और चावल को बढ़ावा देना / Promote only wheat and rice."
+      "A": "पूर्ण केन्द्रीयकरण (Complete Centralization)",
+      "B": "सामंती प्रणाली (Feudal System with Samantas)",
+      "C": "धर्माधारित शासन (Theocratic Rule)",
+      "D": "संसदीय प्रणाली (Parliamentary System)"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["B"],
+    "explanation": "राष्ट्रकूट प्रशासन सामंती प्रकृति का था, जिसमें सामंत (feudatories) को महत्वपूर्ण अधिकार प्राप्त थे।"
   },
   {
     "id": 6,
-    "question": "मालवा क्षेत्र में तापमान वृद्धि का किस उद्योग पर सीधा प्रभाव पड़ सकता है? / Rising temperatures in the Malwa region may directly impact which industry?",
+    "question": "राष्ट्रकूट साम्राज्य की राजनीति की मुख्य विशेषता क्या थी? / What was the main feature of Rashtrakuta polity?",
     "options": {
-      "A": "कपास उद्योग / Cotton industry",
-      "B": "सॉफ्टवेयर उद्योग / Software industry",
-      "C": "धातु उद्योग / Metal industry",
-      "D": "ट्रेडिंग सेक्टर / Trading sector"
+      "A": "कठोर केन्द्रीय शासन (Rigid Central Rule)",
+      "B": "विकेन्द्रित शासन प्रणाली (Decentralized Polity)",
+      "C": "धार्मिक एकाधिकार (Religious Monopoly)",
+      "D": "संसदीय परंपरा (Parliamentary Tradition)"
     },
-    "answer": [
-      "A"
-    ]
+    "answer": ["B"],
+    "explanation": "राष्ट्रकूट साम्राज्य विकेन्द्रित था, जिसमें सामंत व स्थानीय शासकों को स्वायत्तता प्राप्त थी।"
   },
   {
     "id": 7,
-    "question": "राष्ट्रीय खाद्य सुरक्षा मिशन (NFSM) के तहत किस जलवायु कारक को ध्यान में रखा जाता है? / Which climatic factor is considered under the National Food Security Mission (NFSM)?",
+    "question": "‘दंतिदुर्ग’ को राष्ट्रकूट साम्राज्य का संस्थापक क्यों माना जाता है? / Why is Dantidurga considered the founder of Rashtrakuta Empire?",
     "options": {
-      "A": "गर्मी की लहरें / Heatwaves",
-      "B": "बारिश की अनिश्चितता / Rainfall variability",
-      "C": "ठंडे तूफान / Cold cyclones",
-      "D": "कोहरा / Fog"
+      "A": "उसने चालुक्यों को हराकर स्वतंत्र सत्ता बनाई (Defeated Chalukyas and established independence)",
+      "B": "उसने एलोरा गुफाओं का निर्माण करवाया (Built Ellora caves)",
+      "C": "उसने मालवा पर विजय प्राप्त की (Conquered Malwa)",
+      "D": "उसने चीनी यात्रियों से संबंध बनाए (Established ties with Chinese travelers)"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["A"],
+    "explanation": "दंतिदुर्ग ने बादामी चालुक्यों को हराकर स्वतंत्र राष्ट्रकूट सत्ता स्थापित की, इसलिए उसे संस्थापक माना जाता है।"
   },
   {
     "id": 8,
-    "question": "कृषि बीमा योजना में जलवायु जोखिम कैसे कवर किया जाता है? / How is climate risk covered in the Agricultural Insurance Scheme?",
+    "question": "राष्ट्रकूटों की सैन्य शक्ति का आधार क्या था? / What was the basis of Rashtrakuta military power?",
     "options": {
-      "A": "केवल पशुधन को शामिल करके / Only livestock is covered",
-      "B": "मौसम आधारित बीमा के द्वारा / Through weather-based insurance",
-      "C": "खेती के उपकरणों का बीमा करके / By insuring farming tools",
-      "D": "बीज वितरण को नियंत्रित करके / By regulating seed distribution"
+      "A": "नौसेना (Navy)",
+      "B": "सामंती सेना (Feudatory Armies of Samantas)",
+      "C": "विदेशी भाड़े की सेना (Foreign Mercenaries)",
+      "D": "गुरिल्ला सेना (Guerrilla Forces)"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["B"],
+    "explanation": "राष्ट्रकूटों की सैन्य शक्ति मुख्यतः सामंती सामंतों द्वारा प्रदान की गई सेनाओं पर आधारित थी।"
   },
   {
     "id": 9,
-    "question": "जलवायु परिवर्तन का भारतीय चाय उद्योग पर दीर्घकालिक प्रभाव क्या हो सकता है? / What could be the long-term impact of climate change on India’s tea industry?",
+    "question": "मान्याकेटा (मालखेड़) किस आधुनिक राज्य में स्थित है? / In which modern state is Manyakheta (Malkhed) located?",
     "options": {
-      "A": "उत्पादन लागत घटेगी / Lower production costs",
-      "B": "सभी क्षेत्रों में चाय उगाने में वृद्धि / Tea cultivation will expand everywhere",
-      "C": "गुणवत्ता में गिरावट और उत्पादकता में कमी / Decline in quality and productivity",
-      "D": "चाय की मांग समाप्त हो जाएगी / Demand for tea will vanish"
+      "A": "महाराष्ट्र (Maharashtra)",
+      "B": "कर्नाटक (Karnataka)",
+      "C": "तेलंगाना (Telangana)",
+      "D": "मध्य प्रदेश (Madhya Pradesh)"
     },
-    "answer": [
-      "C"
-    ]
+    "answer": ["B"],
+    "explanation": "मान्याकेटा (मालखेड़) आधुनिक कर्नाटक राज्य में स्थित है।"
   },
   {
     "id": 10,
-    "question": "भारत की ‘राष्ट्रीय जैव ऊर्जा नीति’ किस जलवायु लक्ष्य से जुड़ी है? / India’s National Bio-Energy Policy is associated with which climate goal?",
+    "question": "राष्ट्रकूटों के अधीन स्थानीय स्वायत्त प्रशासन को क्या कहा जाता था? / What was the local autonomous administration under the Rashtrakutas called?",
     "options": {
-      "A": "जलवायु प्रवास नियंत्रण / Control climate migration",
-      "B": "ग्रीनहाउस गैस उत्सर्जन में कटौती / Reduce greenhouse gas emissions",
-      "C": "जैव विविधता बढ़ाना / Increase biodiversity",
-      "D": "शहरीकरण को बढ़ावा देना / Promote urbanization"
+      "A": "ग्राम सभा (Grama Sabha)",
+      "B": "उपविशय (Upa-Vishaya)",
+      "C": "मंडल (Mandala)",
+      "D": "देशमुखी (Deshmukhi)"
     },
-    "answer": [
-      "B"
-    ]
+    "answer": ["A", "B"],
+    "explanation": "राष्ट्रकूट काल में ‘ग्राम सभा’ और ‘उपविशय’ जैसे स्थानीय प्रशासनिक ढाँचे अस्तित्व में थे, जो स्वायत्त रूप से कार्य करते थे।"
+  },
+  {
+    "id": 11,
+    "question": "गोविंद तृतीय (Govinda III) को किस उपाधि से जाना जाता था? / By which title was Govinda III known?",
+    "options": {
+      "A": "प्रभुत्वराम (Prabhutvarama)",
+      "B": "त्रैलोक्यमल्ल (Trailokyamalla)",
+      "C": "विक्रमादित्य (Vikramaditya)",
+      "D": "राजमार्तंड (Rajmartanda)"
+    },
+    "answer": ["B"],
+    "explanation": "गोविंद III को 'त्रैलोक्यमल्ल' कहा जाता था, क्योंकि उसने उत्तर और दक्षिण भारत में एक साथ विजय प्राप्त की थी।"
+  },
+  {
+    "id": 12,
+    "question": "गोविंद III ने किन-किन उत्तर भारतीय शासकों को पराजित किया था? / Which North Indian rulers were defeated by Govinda III?",
+    "options": {
+      "A": "गुर्जर-प्रतिहार नागभट्ट द्वितीय (Nagabhata II of Gurjara-Pratihara)",
+      "B": "पाल वंश का धर्मपाल (Dharmapala of Pala dynasty)",
+      "C": "कन्नौज का राजा (King of Kannauj)",
+      "D": "चोल वंश का अधिपति (Ruler of Cholas)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "गोविंद III ने नागभट्ट द्वितीय (गुर्जर-प्रतिहार), पाल वंश के धर्मपाल और कन्नौज के राजा को हराया था।"
+  },
+  {
+    "id": 13,
+    "question": "अमोघवर्ष प्रथम का शासनकाल किस दृष्टि से महत्वपूर्ण था? / Why was the reign of Amoghavarsha I significant?",
+    "options": {
+      "A": "सबसे लम्बा शासनकाल (Longest Reign)",
+      "B": "धर्मनिष्ठ शासक (Religious Ruler)",
+      "C": "कन्नड़ साहित्य का विकास (Development of Kannada Literature)",
+      "D": "पल्लवों पर विजय (Victory over Pallavas)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "अमोघवर्ष प्रथम का शासन लगभग 64 वर्षों तक चला, वे जैन धर्म से प्रभावित थे और कन्नड़ साहित्य के महान संरक्षक थे।"
+  },
+  {
+    "id": 14,
+    "question": "अमोघवर्ष प्रथम द्वारा रचित ‘कविराजमार्ग’ किस भाषा में है? / In which language was 'Kavirajamarga' composed by Amoghavarsha I?",
+    "options": {
+      "A": "संस्कृत (Sanskrit)",
+      "B": "कन्नड़ (Kannada)",
+      "C": "प्राकृत (Prakrit)",
+      "D": "मराठी (Marathi)"
+    },
+    "answer": ["B"],
+    "explanation": "अमोघवर्ष प्रथम ने ‘कविराजमार्ग’ कन्नड़ भाषा में लिखा, जिसे कन्नड़ साहित्य का प्रथम महत्त्वपूर्ण ग्रंथ माना जाता है।"
+  },
+  {
+    "id": 15,
+    "question": "अमोघवर्ष प्रथम की तुलना अक्सर किस गुप्त सम्राट से की जाती है? / Amoghavarsha I is often compared to which Gupta emperor?",
+    "options": {
+      "A": "चंद्रगुप्त प्रथम (Chandragupta I)",
+      "B": "कुमारगुप्त (Kumaragupta)",
+      "C": "चंद्रगुप्त विक्रमादित्य (Chandragupta II Vikramaditya)",
+      "D": "समुद्रगुप्त (Samudragupta)"
+    },
+    "answer": ["C"],
+    "explanation": "अमोघवर्ष प्रथम की तुलना विक्रमादित्य चंद्रगुप्त II से की जाती है, क्योंकि दोनों ही साहित्य और कला के संरक्षक थे।"
+  },
+  {
+    "id": 16,
+    "question": "कृष्ण प्रथम के शासनकाल की सबसे प्रसिद्ध उपलब्धि कौन-सी थी? / What was the most famous achievement of Krishna I?",
+    "options": {
+      "A": "कैलासनाथ मंदिर का निर्माण (Construction of Kailasanatha temple at Ellora)",
+      "B": "पालों पर विजय (Victory over Palas)",
+      "C": "नई राजधानी की स्थापना (Establishment of new capital)",
+      "D": "नौसेना शक्ति का विकास (Development of naval power)"
+    },
+    "answer": ["A"],
+    "explanation": "कृष्ण प्रथम ने एलोरा में भव्य कैलासनाथ मंदिर का निर्माण करवाया, जो शिल्पकला का अद्भुत उदाहरण है।"
+  },
+  {
+    "id": 17,
+    "question": "एलोरा का कैलासनाथ मंदिर किस वास्तुशैली का अद्वितीय उदाहरण है? / Kailasanatha temple at Ellora is an example of which architectural style?",
+    "options": {
+      "A": "द्रविड़ शैली (Dravidian style)",
+      "B": "नागर शैली (Nagara style)",
+      "C": "वेसर शैली (Vesara style)",
+      "D": "मिश्रित शैली (Mixed style)"
+    },
+    "answer": ["A", "D"],
+    "explanation": "कैलासनाथ मंदिर मुख्यतः द्रविड़ शैली में निर्मित है, परंतु इसमें कई मिश्रित विशेषताएँ भी दिखाई देती हैं।"
+  },
+  {
+    "id": 18,
+    "question": "‘कविराजमार्ग’ ग्रंथ का मुख्य विषय क्या है? / What is the main subject of the text 'Kavirajamarga'?",
+    "options": {
+      "A": "अर्थशास्त्र (Economics)",
+      "B": "काव्यशास्त्र (Poetics)",
+      "C": "धर्मशास्त्र (Religious Law)",
+      "D": "राजनीति (Politics)"
+    },
+    "answer": ["B"],
+    "explanation": "‘कविराजमार्ग’ कन्नड़ भाषा का पहला काव्यशास्त्रीय ग्रंथ है, जिसमें काव्य और अलंकार पर चर्चा की गई है।"
+  },
+  {
+    "id": 19,
+    "question": "गोविंद III की विजय के बाद उत्तर भारत के शासकों ने क्या किया? / What did the North Indian rulers do after being defeated by Govinda III?",
+    "options": {
+      "A": "राष्ट्रकूट साम्राज्य को कर दिया (Accepted suzerainty of Rashtrakutas)",
+      "B": "नए गठबंधन बनाए (Formed new alliances)",
+      "C": "विद्रोह किया (Revolted)",
+      "D": "चालुक्यों से मित्रता की (Allied with Chalukyas)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "गोविंद III की विजय के बाद उत्तर भारतीय शासकों ने राष्ट्रकूट साम्राज्य की सर्वोच्चता स्वीकार की और कुछ ने आपसी गठबंधन बनाए।"
+  },
+  {
+    "id": 20,
+    "question": "अमोघवर्ष प्रथम किस धर्म से अत्यधिक प्रभावित थे? / Which religion greatly influenced Amoghavarsha I?",
+    "options": {
+      "A": "शैव धर्म (Shaivism)",
+      "B": "वैष्णव धर्म (Vaishnavism)",
+      "C": "जैन धर्म (Jainism)",
+      "D": "बौद्ध धर्म (Buddhism)"
+    },
+    "answer": ["C"],
+    "explanation": "अमोघवर्ष प्रथम जैन धर्म से अत्यधिक प्रभावित थे और उन्होंने जैन मुनियों को संरक्षण दिया।"
+  },
+  {
+    "id": 21,
+    "question": "कृष्ण प्रथम द्वारा निर्मित कैलासनाथ मंदिर का शिल्प कौन-सा है? / What is the rock-cut technique of Kailasanatha temple built by Krishna I?",
+    "options": {
+      "A": "ऊर्ध्वाधर शिल्प (Vertical excavation from top to bottom)",
+      "B": "क्षैतिज शिल्प (Horizontal excavation)",
+      "C": "गुफा प्रणाली (Cave excavation system)",
+      "D": "स्तूप संरचना (Stupa structure)"
+    },
+    "answer": ["A"],
+    "explanation": "कैलासनाथ मंदिर को ऊपर से नीचे की ओर शिला काटकर बनाया गया है, जो वास्तुकला का अद्भुत उदाहरण है।"
+  },
+  {
+    "id": 22,
+    "question": "गोविंद III की विजय यात्राएँ किस महाकाव्य से तुलना योग्य मानी जाती हैं? / The campaigns of Govinda III are compared to which epic ruler?",
+    "options": {
+      "A": "अशोक (Ashoka)",
+      "B": "समुद्रगुप्त (Samudragupta)",
+      "C": "चंद्रगुप्त मौर्य (Chandragupta Maurya)",
+      "D": "हर्षवर्धन (Harshavardhana)"
+    },
+    "answer": ["B"],
+    "explanation": "गोविंद III की उत्तर भारतीय विजय यात्राओं की तुलना समुद्रगुप्त की विजयों से की जाती है।"
+  },
+  {
+    "id": 23,
+    "question": "अमोघवर्ष प्रथम का शासनकाल किस सदी में था? / In which century did Amoghavarsha I rule?",
+    "options": {
+      "A": "7वीं शताब्दी (7th century)",
+      "B": "8वीं शताब्दी (8th century)",
+      "C": "9वीं शताब्दी (9th century)",
+      "D": "10वीं शताब्दी (10th century)"
+    },
+    "answer": ["C"],
+    "explanation": "अमोघवर्ष प्रथम का शासनकाल 9वीं शताब्दी में था और यह राष्ट्रकूट साम्राज्य का स्वर्णकाल माना जाता है।"
+  },
+  {
+    "id": 24,
+    "question": "अमोघवर्ष प्रथम ने अपनी राजधानी कहाँ स्थापित की थी? / Where did Amoghavarsha I establish his capital?",
+    "options": {
+      "A": "मान्याकेटा (Manyakheta)",
+      "B": "पैठण (Paithan)",
+      "C": "कांची (Kanchi)",
+      "D": "एलोरा (Ellora)"
+    },
+    "answer": ["A"],
+    "explanation": "अमोघवर्ष प्रथम ने मान्याकेटा (मालखेड़) को अपनी राजधानी बनाया।"
+  },
+  {
+    "id": 25,
+    "question": "कृष्ण प्रथम के समय निर्मित कैलासनाथ मंदिर किस देवता को समर्पित है? / To which deity is the Kailasanatha temple dedicated?",
+    "options": {
+      "A": "विष्णु (Vishnu)",
+      "B": "शिव (Shiva)",
+      "C": "ब्रह्मा (Brahma)",
+      "D": "सूर्य (Surya)"
+    },
+    "answer": ["B"],
+    "explanation": "कैलासनाथ मंदिर भगवान शिव को समर्पित है।"
+  },
+  {
+    "id": 26,
+    "question": "गोविंद III की विजय के बाद राष्ट्रकूट साम्राज्य की सीमा कहाँ तक विस्तारित हुई? / Up to which region did the Rashtrakuta empire expand under Govinda III?",
+    "options": {
+      "A": "कावेरी नदी तक (Up to Kaveri River in South)",
+      "B": "गंगा नदी तक (Up to River Ganga in North)",
+      "C": "बंगाल तक (Up to Bengal)",
+      "D": "सिंधु नदी तक (Up to River Indus)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "गोविंद III के समय राष्ट्रकूट साम्राज्य उत्तर में गंगा नदी और दक्षिण में कावेरी नदी तक फैल गया था।"
+  },
+  {
+    "id": 27,
+    "question": "कविराजमार्ग ग्रंथ का महत्व क्या है? / What is the importance of Kavirajamarga?",
+    "options": {
+      "A": "कन्नड़ गद्य की प्रथम कृति (First prose work in Kannada)",
+      "B": "कन्नड़ काव्य का आदर्श ग्रंथ (Earliest standard work on Kannada poetics)",
+      "C": "राजनीतिक इतिहास (Political history)",
+      "D": "धर्म ग्रंथ (Religious text)"
+    },
+    "answer": ["B"],
+    "explanation": "‘कविराजमार्ग’ कन्नड़ काव्यशास्त्र का प्रथम और आदर्श ग्रंथ माना जाता है।"
+  },
+  {
+    "id": 28,
+    "question": "कृष्ण प्रथम द्वारा निर्मित कैलासनाथ मंदिर किन गुफाओं में स्थित है? / In which caves is the Kailasanatha temple built by Krishna I located?",
+    "options": {
+      "A": "अजन्ता गुफाएँ (Ajanta Caves)",
+      "B": "एलोरा गुफाएँ (Ellora Caves)",
+      "C": "बाघ गुफाएँ (Bagh Caves)",
+      "D": "एलीफेंटा गुफाएँ (Elephanta Caves)"
+    },
+    "answer": ["B"],
+    "explanation": "कैलासनाथ मंदिर महाराष्ट्र की एलोरा गुफाओं में स्थित है।"
+  },
+  {
+    "id": 29,
+    "question": "गोविंद III के समय राष्ट्रकूट साम्राज्य की स्थिति कैसी थी? / What was the condition of Rashtrakuta empire under Govinda III?",
+    "options": {
+      "A": "सर्वाधिक विस्तृत साम्राज्य (Most expanded empire)",
+      "B": "राजनीतिक अव्यवस्था (Political instability)",
+      "C": "धार्मिक विघटन (Religious disintegration)",
+      "D": "विदेशी आक्रमणों का शिकार (Victim of foreign invasions)"
+    },
+    "answer": ["A"],
+    "explanation": "गोविंद III के समय राष्ट्रकूट साम्राज्य सर्वाधिक विस्तृत और शक्तिशाली था।"
+  },
+  {
+    "id": 30,
+    "question": "अमोघवर्ष प्रथम किस भाषा को विशेष महत्व देते थे? / Which language did Amoghavarsha I especially promote?",
+    "options": {
+      "A": "संस्कृत (Sanskrit)",
+      "B": "कन्नड़ (Kannada)",
+      "C": "प्राकृत (Prakrit)",
+      "D": "तेलुगु (Telugu)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "अमोघवर्ष प्रथम संस्कृत और कन्नड़ दोनों के संरक्षक थे, परंतु विशेषकर कन्नड़ साहित्य को उन्होंने नया रूप दिया।"
+  },
+  {
+    "id": 31,
+    "question": "एलोरा स्थित कैलासनाथ मंदिर की प्रमुख विशेषता क्या है? / What is the key feature of Kailasanatha temple at Ellora?",
+    "options": {
+      "A": "शैलकृत एकाश्मक (Rock-cut monolithic structure)",
+      "B": "गृहविहीन गुफा (Cave without sanctum)",
+      "C": "पूर्ण नागर शैली (Pure Nagara style)",
+      "D": "ऊर्ध्वाधर उत्खनन (Vertical excavation)"
+    },
+    "answer": ["A", "D"],
+    "explanation": "कैलासनाथ मंदिर एकाश्मक शैलकृत मंदिर है जिसे ऊपर से नीचे की ओर शिला काटकर बनाया गया।"
+  },
+  {
+    "id": 32,
+    "question": "पट्टडकल के मंदिर किस वास्तुशैली का प्रतिनिधित्व करते हैं? / The Pattadakal temples represent which architectural style?",
+    "options": {
+      "A": "द्रविड़ शैली (Dravidian style)",
+      "B": "नागर शैली (Nagara style)",
+      "C": "वेसर शैली (Vesara style)",
+      "D": "बौद्ध शैली (Buddhist style)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "पट्टडकल के मंदिर द्रविड़, नागर और मिश्रित वेसर शैली का अद्भुत संगम हैं।"
+  },
+  {
+    "id": 33,
+    "question": "वेसर शैली वास्तुकला की विशेषता क्या है? / What is the unique feature of Vesara style architecture?",
+    "options": {
+      "A": "द्रविड़ और नागर का मिश्रण (Fusion of Dravidian and Nagara styles)",
+      "B": "केवल द्रविड़ शैली (Pure Dravidian style)",
+      "C": "केवल नागर शैली (Pure Nagara style)",
+      "D": "स्तूप शैली का प्रभाव (Influence of Stupa style)"
+    },
+    "answer": ["A"],
+    "explanation": "वेसर शैली को द्रविड़ और नागर शैली का मिश्रण कहा जाता है।"
+  },
+  {
+    "id": 34,
+    "question": "राष्ट्रकूट कालीन कला में कौन-सा धार्मिक संरक्षण प्रमुख था? / Which religious patronage was prominent in Rashtrakuta art?",
+    "options": {
+      "A": "जैन धर्म (Jainism)",
+      "B": "शैव धर्म (Shaivism)",
+      "C": "वैष्णव धर्म (Vaishnavism)",
+      "D": "बौद्ध धर्म (Buddhism)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "राष्ट्रकूटों ने विशेषकर जैन और शैव धर्म को संरक्षण दिया।"
+  },
+  {
+    "id": 35,
+    "question": "‘कविराजमार्ग’ किस शासक के काल में रचित हुआ? / During whose reign was 'Kavirajamarga' composed?",
+    "options": {
+      "A": "दंतिदुर्ग (Dantidurga)",
+      "B": "अमोघवर्ष प्रथम (Amoghavarsha I)",
+      "C": "गोविंद III (Govinda III)",
+      "D": "कृष्ण I (Krishna I)"
+    },
+    "answer": ["B"],
+    "explanation": "‘कविराजमार्ग’ अमोघवर्ष प्रथम के काल में रचा गया और इसे कन्नड़ साहित्य का पहला काव्यशास्त्रीय ग्रंथ माना जाता है।"
+  },
+  {
+    "id": 36,
+    "question": "‘प्रश्नोत्तर रत्नमालिका’ का विषय क्या है? / What is the subject of 'Prashnottara Ratnamalika'?",
+    "options": {
+      "A": "काव्यशास्त्र (Poetics)",
+      "B": "राजनीति (Politics)",
+      "C": "दर्शनशास्त्र (Philosophy)",
+      "D": "अर्थशास्त्र (Economics)"
+    },
+    "answer": ["C"],
+    "explanation": "‘प्रश्नोत्तर रत्नमालिका’ दर्शनशास्त्र संबंधी ग्रंथ है।"
+  },
+  {
+    "id": 37,
+    "question": "‘कविराजमार्ग’ ग्रंथ किस भाषा में है और इसकी विषयवस्तु क्या है? / In which language was 'Kavirajamarga' written and what is its subject?",
+    "options": {
+      "A": "कन्नड़ – काव्यशास्त्र (Kannada – Poetics)",
+      "B": "संस्कृत – राजनीति (Sanskrit – Politics)",
+      "C": "प्राकृत – धर्मशास्त्र (Prakrit – Religious law)",
+      "D": "मराठी – साहित्य (Marathi – Literature)"
+    },
+    "answer": ["A"],
+    "explanation": "‘कविराजमार्ग’ कन्नड़ में काव्यशास्त्र पर आधारित ग्रंथ है।"
+  },
+  {
+    "id": 38,
+    "question": "पट्टडकल का महत्व किस कारण से है? / Why is Pattadakal significant?",
+    "options": {
+      "A": "यूनेस्को विश्व धरोहर स्थल (UNESCO World Heritage site)",
+      "B": "द्रविड़ और नागर शैली का संगम (Confluence of Dravidian and Nagara styles)",
+      "C": "जैन गुफाओं का प्रमुख केंद्र (Major centre of Jain caves)",
+      "D": "कृष्ण I की राजधानी (Capital of Krishna I)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "पट्टडकल यूनेस्को विश्व धरोहर स्थल है और यहाँ द्रविड़ व नागर शैली का अद्भुत संगम है।"
+  },
+  {
+    "id": 39,
+    "question": "राष्ट्रकूट काल में कन्नड़ साहित्य का प्रथम शास्त्रीय ग्रंथ कौन-सा है? / Which is the first classical text of Kannada literature under Rashtrakutas?",
+    "options": {
+      "A": "कविराजमार्ग (Kavirajamarga)",
+      "B": "प्रश्नोत्तर रत्नमालिका (Prashnottara Ratnamalika)",
+      "C": "रामचरितमानस (Ramcharitmanas)",
+      "D": "महाभारत (Mahabharata – Kannada adaptation)"
+    },
+    "answer": ["A"],
+    "explanation": "कविराजमार्ग को कन्नड़ साहित्य का प्रथम शास्त्रीय ग्रंथ माना जाता है।"
+  },
+  {
+    "id": 40,
+    "question": "‘कविराजमार्ग’ का रचनाकार कौन था? / Who authored 'Kavirajamarga'?",
+    "options": {
+      "A": "दंतिदुर्ग (Dantidurga)",
+      "B": "अमोघवर्ष प्रथम (Amoghavarsha I)",
+      "C": "गोविंद III (Govinda III)",
+      "D": "जैन आचार्य जिनसेन (Jinasena, Jain Acharya)"
+    },
+    "answer": ["B", "D"],
+    "explanation": "कविराजमार्ग का लेखन अमोघवर्ष प्रथम के संरक्षण में हुआ और जैन आचार्य जिनसेन को इसका सह-लेखक माना जाता है।"
+  },
+  {
+    "id": 41,
+    "question": "एलोरा गुफाएँ किन-किन धर्मों से संबंधित हैं? / Ellora caves are associated with which religions?",
+    "options": {
+      "A": "हिन्दू धर्म (Hinduism)",
+      "B": "जैन धर्म (Jainism)",
+      "C": "बौद्ध धर्म (Buddhism)",
+      "D": "सिख धर्म (Sikhism)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "एलोरा गुफाओं में हिंदू, जैन और बौद्ध तीनों धर्मों की गुफाएँ हैं।"
+  },
+  {
+    "id": 42,
+    "question": "राष्ट्रकूट काल में संस्कृत साहित्य का संरक्षण किस शासक ने किया? / Which ruler patronized Sanskrit literature during Rashtrakuta period?",
+    "options": {
+      "A": "दंतिदुर्ग (Dantidurga)",
+      "B": "अमोघवर्ष प्रथम (Amoghavarsha I)",
+      "C": "कृष्ण I (Krishna I)",
+      "D": "गोविंद IV (Govinda IV)"
+    },
+    "answer": ["B"],
+    "explanation": "अमोघवर्ष प्रथम ने कन्नड़ के साथ-साथ संस्कृत साहित्य का भी संरक्षण किया।"
+  },
+  {
+    "id": 43,
+    "question": "प्रश्नोत्तर रत्नमालिका किस दार्शनिक परंपरा से जुड़ी है? / 'Prashnottara Ratnamalika' is associated with which philosophical tradition?",
+    "options": {
+      "A": "जैन दर्शन (Jain philosophy)",
+      "B": "वैदिक दर्शन (Vedic philosophy)",
+      "C": "अद्वैत वेदांत (Advaita Vedanta)",
+      "D": "सांख्य दर्शन (Samkhya philosophy)"
+    },
+    "answer": ["C"],
+    "explanation": "‘प्रश्नोत्तर रत्नमालिका’ अद्वैत वेदांत दर्शन से संबंधित ग्रंथ है।"
+  },
+  {
+    "id": 44,
+    "question": "वेसर शैली का उद्गम किस क्षेत्र में माना जाता है? / The origin of Vesara style is associated with which region?",
+    "options": {
+      "A": "दक्षिणी डेक्कन (Southern Deccan)",
+      "B": "गंगा-यमुना दोआब (Ganga-Yamuna Doab)",
+      "C": "राजस्थान (Rajasthan)",
+      "D": "बंगाल (Bengal)"
+    },
+    "answer": ["A"],
+    "explanation": "वेसर शैली का उद्गम दक्षिणी डेक्कन क्षेत्र में माना जाता है।"
+  },
+  {
+    "id": 45,
+    "question": "राष्ट्रकूट शासकों के संरक्षण में कौन-सा धर्म विशेष रूप से फला-फूला? / Which religion especially flourished under the Rashtrakutas?",
+    "options": {
+      "A": "शैव धर्म (Shaivism)",
+      "B": "वैष्णव धर्म (Vaishnavism)",
+      "C": "जैन धर्म (Jainism)",
+      "D": "बौद्ध धर्म (Buddhism)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "राष्ट्रकूटों ने विशेषकर शैव और जैन धर्म को संरक्षण प्रदान किया।"
+  },
+  {
+    "id": 46,
+    "question": "कैलासनाथ मंदिर की निर्माण तकनीक किस दृष्टि से अद्वितीय है? / In what sense is the construction technique of Kailasanatha temple unique?",
+    "options": {
+      "A": "ऊपर से नीचे उत्खनन (Excavated from top to bottom)",
+      "B": "संपूर्ण एकाश्मक (Entirely monolithic)",
+      "C": "नागर शैली की शिखरयुक्त रचना (Nagara style tower)",
+      "D": "पूर्ण लकड़ी संरचना (Entirely wooden structure)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "कैलासनाथ मंदिर शिला को ऊपर से नीचे काटकर पूर्णत: एकाश्मक रूप में बनाया गया।"
+  },
+  {
+    "id": 47,
+    "question": "अमोघवर्ष प्रथम को किस उपाधि से जाना जाता था? / By which title was Amoghavarsha I known?",
+    "options": {
+      "A": "अतिशंकर (Atishankara)",
+      "B": "अतिशुभ (Atishubha)",
+      "C": "अतिशुभश्री (Atishubhashri)",
+      "D": "अतिशयनिधि (Atishayanidhi)"
+    },
+    "answer": ["C"],
+    "explanation": "अमोघवर्ष प्रथम को ‘अतिशुभश्री’ की उपाधि दी गई थी।"
+  },
+  {
+    "id": 48,
+    "question": "पट्टडकल मंदिर किस शिल्प के लिए प्रसिद्ध हैं? / Pattadakal temples are famous for which sculptural feature?",
+    "options": {
+      "A": "नृत्यमुद्राएँ (Dance postures)",
+      "B": "वीरगाथाएँ (Heroic narratives)",
+      "C": "पौराणिक कथाएँ (Mythological depictions)",
+      "D": "राजनीतिक दृश्य (Political scenes)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "पट्टडकल मंदिरों में नृत्यमुद्राएँ और पौराणिक कथाओं का चित्रण प्रमुख है।"
+  },
+  {
+    "id": 49,
+    "question": "कविराजमार्ग के संरक्षण में किस दार्शनिक और साहित्यिक परंपरा का विकास हुआ? / Under Kavirajamarga’s patronage, which philosophical and literary traditions developed?",
+    "options": {
+      "A": "जैन दर्शन और कन्नड़ साहित्य (Jain philosophy and Kannada literature)",
+      "B": "वैष्णव दर्शन और प्राकृत साहित्य (Vaishnava philosophy and Prakrit literature)",
+      "C": "बौद्ध दर्शन और संस्कृत साहित्य (Buddhist philosophy and Sanskrit literature)",
+      "D": "शैव दर्शन और तमिल साहित्य (Shaiva philosophy and Tamil literature)"
+    },
+    "answer": ["A"],
+    "explanation": "कविराजमार्ग के समय जैन दर्शन और कन्नड़ साहित्य दोनों का उत्कर्ष हुआ।"
+  },
+  {
+    "id": 50,
+    "question": "राष्ट्रकूट कालीन साहित्यिक और सांस्कृतिक संरक्षण से कौन-सी विशेषताएँ स्पष्ट होती हैं? / What features are evident from Rashtrakuta literary and cultural patronage?",
+    "options": {
+      "A": "कन्नड़ और संस्कृत दोनों का संरक्षण (Patronage of both Kannada and Sanskrit)",
+      "B": "धार्मिक सहिष्णुता (Religious tolerance)",
+      "C": "शैव और जैन धर्म का समर्थन (Support to Shaivism and Jainism)",
+      "D": "एकमात्र संस्कृत पर जोर (Exclusive focus on Sanskrit)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "राष्ट्रकूट काल में कन्नड़ और संस्कृत दोनों भाषाओं को संरक्षण मिला, साथ ही धार्मिक सहिष्णुता और शैव-जैन समर्थन भी स्पष्ट था।"
   }
 ]
