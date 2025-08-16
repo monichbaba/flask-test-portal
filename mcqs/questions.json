@@ -1,602 +1,711 @@
 [
   {
     "id": 1,
-    "question": "‘राष्ट्रकूट’ शब्द का शाब्दिक अर्थ क्या है? / What is the literal meaning of the word ‘Rashtrakuta’?",
+    "question": "प्रतीिहार (गुर्जर-प्रतीिहार) वंश की उत्पत्ति के विषय में कौन-से कथन सही हैं? / Which statements about the origin of the Gurjara-Pratihara dynasty are correct?",
     "options": {
-      "A": "ग्राम प्रमुख (Village Head)",
-      "B": "जिले का प्रमुख / प्रमुख कुल (Chief of a District/Clan)",
-      "C": "राज्यपाल (Governor)",
-      "D": "सेनापति (Commander)"
+      "A": "इन्हें गुर्जर समुदाय से जोड़ा जाता है / They are linked to the Gurjara community",
+      "B": "वंश की स्थापना नागभट्ट I ने की / The dynasty was founded by Nagabhata I",
+      "C": "‘प्रतीहार’ नाम लक्ष्मण के ‘द्वारपाल’ प्रसंग से जोड़ा जाता है / The name ‘Pratihara’ is linked to Lakshmana as a doorkeeper",
+      "D": "प्रारम्भिक केन्द्र कन्नौज था / Kannauj was the initial centre"
     },
-    "answer": ["B"],
-    "explanation": "‘राष्ट्रकूट’ शब्द का अर्थ है ‘राष्ट्र (जिला/प्रदेश) का कूट (प्रमुख कुल/वंश)’. यह एक क्षेत्रीय कुल या प्रमुख कुल को दर्शाता है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "अधिकांश इतिहासकार गुर्जर-प्रतीहारों को गुर्जर जातीयता/क्षेत्र से जोड़ते हैं; प्रारम्भिक सम्राट नागभट्ट I (8वीं सदी) माने जाते हैं। ‘प्रतीहार’ शब्द को राम-लक्ष्मण की ‘प्रतीहारी’ कथा से व्युत्पन्न माना जाता है। शुरुआती केन्द्र मालवा–राजस्थान (उज्जैन/भिल्लमाल) रहा, कन्नौज बाद में राजधानी बना।"
   },
   {
     "id": 2,
-    "question": "राष्ट्रकूट साम्राज्य की प्राचीनतम राजधानी कहाँ थी? / Where was the earliest capital of the Rashtrakuta Empire located?",
+    "question": "प्रतीहारों के आरम्भिक राजनैतिक केन्द्रों के बारे में सही युग्म चुनें। / Choose the correct early political centres of the Pratiharas.",
     "options": {
-      "A": "मालखेड़ / मान्याकेटा (Malkhed / Manyakheta)",
-      "B": "एलोरा (Ellora)",
-      "C": "पैठण (Paithan)",
-      "D": "देवगिरि (Devagiri)"
+      "A": "उज्जैन / Ujjain",
+      "B": "भिल्लमाल (भीनमाल) / Bhillamala (Bhinmal)",
+      "C": "कन्नौज (आरम्भ से) / Kannauj (from the very beginning)",
+      "D": "पाटलिपुत्र / Pataliputra"
     },
-    "answer": ["B"],
-    "explanation": "प्रारंभिक काल में राष्ट्रकूटों की राजधानी एलोरा (मध्य महाराष्ट्र) के निकट थी। बाद में उन्होंने मान्याकेटा (मालखेड़, कर्नाटक) को अपनी स्थायी राजधानी बनाया।"
+    "answer": ["A", "B"],
+    "explanation": "नागभट्ट I के समय मालवा–राजस्थान क्षेत्र (उज्जैन, भिल्लमाल) प्रभाव क्षेत्र थे। कन्नौज सम्राज्य की राजधानी बाद में बना; पाटलिपुत्र प्रतीहारों का केन्द्र नहीं था।"
   },
   {
     "id": 3,
-    "question": "राष्ट्रकूट साम्राज्य की स्थायी राजधानी कौन सी थी? / Which was the permanent capital of the Rashtrakutas?",
+    "question": "अरब आक्रमण-प्रतिरोध में प्रतीहारों की भूमिका के बारे में कौन-से कथन सही हैं? / Which are correct regarding Pratihara resistance to Arab raids?",
     "options": {
-      "A": "मान्याकेटा (Manyakheta / Malkhed)",
-      "B": "पैठण (Paithan)",
-      "C": "कांची (Kanchi)",
-      "D": "बदर (Bidar)"
+      "A": "नागभट्ट I ने सिंध-सीमा से बढ़ती अरब घुसपैठ को रोका / Nagabhata I checked Arab advances from Sindh frontier",
+      "B": "यह विजय नवरसारी शिलालेख में सीधे प्रतीहारों को श्रेय देती है / The Navsari inscription directly credits the Pratiharas",
+      "C": "राजस्थान क्षेत्र में स्थानीय शक्तियों के साथ समन्वय दिखा / They coordinated with local powers in Rajasthan",
+      "D": "यह संघर्ष मूलतः बंगाल डेल्टा में हुआ / The theatre was primarily the Bengal delta"
     },
-    "answer": ["A"],
-    "explanation": "दंतिदुर्ग और कृष्ण प्रथम के बाद राष्ट्रकूटों की स्थायी राजधानी ‘मान्याकेटा’ (मालखेड़, आधुनिक कर्नाटक) थी।"
+    "answer": ["A", "C"],
+    "explanation": "नागभट्ट I को पश्चिमोत्तर से आए अरब दबाव को रोकने का श्रेय मिलता है, विशेषकर राजस्थान–मालवा पट्टी में। नवरसारी शिलालेख चालुक्य नायक अवनीजनाश्रय को श्रेय देता है, अतः B गलत; संघर्ष का क्षेत्र बंगाल नहीं था।"
   },
   {
     "id": 4,
-    "question": "राष्ट्रकूटों के संस्थापक दंतिदुर्ग ने किस वंश को पराजित करके सत्ता स्थापित की? / Which dynasty was defeated by Dantidurga to establish Rashtrakuta power?",
+    "question": "कन्नौज के लिए त्रिपक्षीय संघर्ष की मूल विशेषताएँ चुनें। / Pick the core features of the Tripartite Struggle for Kannauj.",
     "options": {
-      "A": "वाकाटक (Vakatakas)",
-      "B": "चलुक्य (Chalukyas of Badami)",
-      "C": "पल्लव (Pallavas)",
-      "D": "कदंब (Kadambas)"
+      "A": "प्रतिस्पर्धी: गुर्जर-प्रतीहार, पाल, राष्ट्रकूट / Rivals: Pratihara, Pala, Rashtrakuta",
+      "B": "मुख्य केन्द्र कन्नौज रहा / Kannauj was the focal centre",
+      "C": "पालों की निर्णायक स्थायी विजय से समाप्त / Ended in a decisive, permanent Pala victory",
+      "D": "8वीं–9वीं सदी में कई उतार-चढ़ाव / Spanned the 8th–9th centuries with reversals"
     },
-    "answer": ["B"],
-    "explanation": "दंतिदुर्ग ने 8वीं शताब्दी में बादामी चालुक्यों को पराजित कर डेक्कन क्षेत्र में राष्ट्रकूट सत्ता स्थापित की।"
+    "answer": ["A", "B", "D"],
+    "explanation": "त्रिपक्षीय संघर्ष में तीन साम्राज्य शामिल थे और केन्द्र कन्नौज था। संघर्ष कई दशकों तक चला और पलड़े बदलते रहे; कोई स्थायी ‘एकपक्षीय’ विजेता अंत तक नहीं रहा।"
   },
   {
     "id": 5,
-    "question": "राष्ट्रकूटों की प्रशासनिक व्यवस्था की विशेषता क्या थी? / What was the key feature of Rashtrakuta administration?",
+    "question": "वत्सराज के बारे में कौन-से कथन सही हैं? / Which statements about Vatsaraja are correct?",
     "options": {
-      "A": "पूर्ण केन्द्रीयकरण (Complete Centralization)",
-      "B": "सामंती प्रणाली (Feudal System with Samantas)",
-      "C": "धर्माधारित शासन (Theocratic Rule)",
-      "D": "संसदीय प्रणाली (Parliamentary System)"
+      "A": "उन्होंने कन्नौज हेतु प्रतिस्पर्धा की शुरुआत तेज की / He invigorated the contest for Kannauj",
+      "B": "धर्मपाल के साथ संघर्ष में अग्रणी रहे / He confronted Dharmapala",
+      "C": "ध्रुव (राष्ट्रकूट) से पराजित भी हुए / He suffered a setback against Dhruva (Rashtrakuta)",
+      "D": "उनकी राजधानी स्थायी रूप से पाटलिपुत्र थी / His permanent capital was Pataliputra"
     },
-    "answer": ["B"],
-    "explanation": "राष्ट्रकूट प्रशासन सामंती प्रकृति का था, जिसमें सामंत (feudatories) को महत्वपूर्ण अधिकार प्राप्त थे।"
+    "answer": ["A", "B", "C"],
+    "explanation": "वत्सराज ने उत्तर भारत में प्रतीहार प्रतिष्ठा बढ़ाई, धर्मपाल से भिड़े और दक्षिण से आए राष्ट्रकूट ध्रुव के आक्रमण का सामना किया। पाटलिपुत्र प्रतीहार राजधानी नहीं था।"
   },
   {
     "id": 6,
-    "question": "राष्ट्रकूट साम्राज्य की राजनीति की मुख्य विशेषता क्या थी? / What was the main feature of Rashtrakuta polity?",
+    "question": "नागभट्ट II से सम्बंधित सही कथन चुनें। / Choose the correct statements about Nagabhata II.",
     "options": {
-      "A": "कठोर केन्द्रीय शासन (Rigid Central Rule)",
-      "B": "विकेन्द्रित शासन प्रणाली (Decentralized Polity)",
-      "C": "धार्मिक एकाधिकार (Religious Monopoly)",
-      "D": "संसदीय परंपरा (Parliamentary Tradition)"
+      "A": "उन्होंने कन्नौज पर अधिकार स्थापित किया / He established control over Kannauj",
+      "B": "गोविंदा III ने उन्हें उत्तर में चुनौती दी / Govinda III challenged him in the north",
+      "C": "उन्होंने ‘महाराजाधिराज’ जैसे विरुद्धक शीर्ष धारण किए / He assumed imperial titles like Maharajadhiraja",
+      "D": "उनका शासन केवल गुजरात तक सीमित रहा / His rule was confined only to Gujarat"
     },
-    "answer": ["B"],
-    "explanation": "राष्ट्रकूट साम्राज्य विकेन्द्रित था, जिसमें सामंत व स्थानीय शासकों को स्वायत्तता प्राप्त थी।"
+    "answer": ["A", "B", "C"],
+    "explanation": "नागभट्ट II ने कन्नौज पर अधिकार जमाया और सम्राटोचित उपाधियाँ लीं; पर राष्ट्रकूट गोविंदा III के उत्तर-आक्रमणों का सामना भी करना पड़ा। उनका प्रभाव गुजरात से आगे उत्तर भारत में फैला।"
   },
   {
     "id": 7,
-    "question": "‘दंतिदुर्ग’ को राष्ट्रकूट साम्राज्य का संस्थापक क्यों माना जाता है? / Why is Dantidurga considered the founder of Rashtrakuta Empire?",
+    "question": "मिहिर भोज (भोज I) के संदर्भ में कौन-से कथन सही हैं? / Which statements about Mihir Bhoja (Bhoja I) are correct?",
     "options": {
-      "A": "उसने चालुक्यों को हराकर स्वतंत्र सत्ता बनाई (Defeated Chalukyas and established independence)",
-      "B": "उसने एलोरा गुफाओं का निर्माण करवाया (Built Ellora caves)",
-      "C": "उसने मालवा पर विजय प्राप्त की (Conquered Malwa)",
-      "D": "उसने चीनी यात्रियों से संबंध बनाए (Established ties with Chinese travelers)"
+      "A": "उन्होंने ‘आदि-वराह’ से सम्बद्ध वैष्णव प्रतीक अपनाए / Adopted Vaishnava ‘Adi-Varaha’ symbolism",
+      "B": "कन्नौज उनकी राजधानी थी / Kannauj was his capital",
+      "C": "उनके सिक्कों पर वराह-चिह्न व ‘श्री-आदि-वराह’ दन्तक / Coins bear boar device & ‘Śrī Ādi-Varāha’ legend",
+      "D": "उन्होंने बौद्ध मत को ही राजधर्म बनाया / He made Buddhism the state religion"
     },
-    "answer": ["A"],
-    "explanation": "दंतिदुर्ग ने बादामी चालुक्यों को हराकर स्वतंत्र राष्ट्रकूट सत्ता स्थापित की, इसलिए उसे संस्थापक माना जाता है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "मिहिर भोज को प्रतीहारों का सर्वप्रमुख शासक माना जाता है; उनकी वैष्णव निष्ठा ‘आदि-वराह’ प्रतीकों व दन्तकों से स्पष्ट है और कन्नौज उनका राजकीय केन्द्र था। राजधर्म बौद्ध नहीं था।"
   },
   {
     "id": 8,
-    "question": "राष्ट्रकूटों की सैन्य शक्ति का आधार क्या था? / What was the basis of Rashtrakuta military power?",
+    "question": "मिहिर भोज की उत्तर भारतीय राजनीति पर छाप के बारे में सही विकल्प चुनें। / Select the correct points about Mihir Bhoja’s political reach.",
     "options": {
-      "A": "नौसेना (Navy)",
-      "B": "सामंती सेना (Feudatory Armies of Samantas)",
-      "C": "विदेशी भाड़े की सेना (Foreign Mercenaries)",
-      "D": "गुरिल्ला सेना (Guerrilla Forces)"
+      "A": "उन्होंने गंगा-यमुना दोआब पर दृढ़ पकड़ बनाई / Consolidated the Ganga–Yamuna Doab",
+      "B": "पालों और राष्ट्रकूटों—दोनों से दीर्घकालिक टकराव रहे / Prolonged contests with both Palas and Rashtrakutas",
+      "C": "उनका प्रभाव पश्चिम से मध्य भारत तक विस्तृत हुआ / Influence extended west to central India",
+      "D": "उन्होंने स्थायी रूप से बंगाल पर विजय पा ली / He permanently conquered Bengal"
     },
-    "answer": ["B"],
-    "explanation": "राष्ट्रकूटों की सैन्य शक्ति मुख्यतः सामंती सामंतों द्वारा प्रदान की गई सेनाओं पर आधारित थी।"
+    "answer": ["A", "B", "C"],
+    "explanation": "मिहिर भोज के समय प्रतीहार शक्ति चरम पर थी—दोआब पर नियंत्रण, पश्चिम-मध्य भारत तक विस्तार और प्रतिस्पर्धी साम्राज्यों से लंबे संघर्ष—ये सभी परिलक्षित होते हैं। बंगाल पर स्थायी वर्चस्व स्थापित नहीं हो सका।"
   },
   {
     "id": 9,
-    "question": "मान्याकेटा (मालखेड़) किस आधुनिक राज्य में स्थित है? / In which modern state is Manyakheta (Malkhed) located?",
+    "question": "महेंद्रपाल I के विषय में सही कथन चुनें। / Choose the correct statements about Mahendrapala I.",
     "options": {
-      "A": "महाराष्ट्र (Maharashtra)",
-      "B": "कर्नाटक (Karnataka)",
-      "C": "तेलंगाना (Telangana)",
-      "D": "मध्य प्रदेश (Madhya Pradesh)"
+      "A": "उन्होंने भोज I के पश्चात् साम्राज्य को संभाला / Succeeded Bhoja I and upheld the empire",
+      "B": "उनके शिलालेख उत्तर भारत के व्यापक नियंत्रण का संकेत देते हैं / Inscriptions indicate wide control in North India",
+      "C": "उनका प्रभाव बिहार के भागों तक पहुंचा / Influence extended into parts of Bihar",
+      "D": "वे राष्ट्रकूटों के अधीन सामन्त मात्र थे / He was merely a Rashtrakuta vassal"
     },
-    "answer": ["B"],
-    "explanation": "मान्याकेटा (मालखेड़) आधुनिक कर्नाटक राज्य में स्थित है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "महेंद्रपाल I ने प्रतीहार सम्राज्य का विस्तार व स्थिरता बनाए रखी; अभिलेखीय साक्ष्य उत्तर भारत में व्यापक प्रभुत्व और पूर्वोन्मुख प्रभाव (बिहार आदि) का संकेत देते हैं। राष्ट्रकूटों के अधीन सामन्त होने का कथन असंगत है।"
   },
   {
     "id": 10,
-    "question": "राष्ट्रकूटों के अधीन स्थानीय स्वायत्त प्रशासन को क्या कहा जाता था? / What was the local autonomous administration under the Rashtrakutas called?",
+    "question": "राजशेखर (Rājaśekhara) संबंधी तथ्य चुनें। / Choose the correct facts about Rajashekhara.",
     "options": {
-      "A": "ग्राम सभा (Grama Sabha)",
-      "B": "उपविशय (Upa-Vishaya)",
-      "C": "मंडल (Mandala)",
-      "D": "देशमुखी (Deshmukhi)"
+      "A": "वे गुर्जर-प्रतीहार दरबार से सम्बद्ध थे / Associated with the Pratihara court",
+      "B": "उन्होंने संस्कृत व प्राकृत—दोनों में रचनाएँ कीं / Composed in both Sanskrit and Prakrit",
+      "C": "‘कर्पूरमंजरी’ उनकी प्राकृत कृति है / ‘Karpūramañjarī’ is his Prakrit play",
+      "D": "वे केवल पाल दरबार के कवि थे / He served only the Pala court"
     },
-    "answer": ["A", "B"],
-    "explanation": "राष्ट्रकूट काल में ‘ग्राम सभा’ और ‘उपविशय’ जैसे स्थानीय प्रशासनिक ढाँचे अस्तित्व में थे, जो स्वायत्त रूप से कार्य करते थे।"
+    "answer": ["A", "B", "C"],
+    "explanation": "राजशेखर को प्रतीहार दरबार का प्रमुख आचार्य-कवि माना जाता है; उनकी ‘कर्पूरमंजरी’ प्राकृत में तथा अन्य कृतियाँ संस्कृत में हैं। उन्हें सिर्फ पाल दरबार से जोड़ना गलत है।"
   },
   {
     "id": 11,
-    "question": "गोविंद तृतीय (Govinda III) को किस उपाधि से जाना जाता था? / By which title was Govinda III known?",
+    "question": "प्रतीहार प्रशासन की प्रमुख विशेषताओं के बारे में सही कथन चुनें। / Select the correct features of Pratihara administration.",
     "options": {
-      "A": "प्रभुत्वराम (Prabhutvarama)",
-      "B": "त्रैलोक्यमल्ल (Trailokyamalla)",
-      "C": "विक्रमादित्य (Vikramaditya)",
-      "D": "राजमार्तंड (Rajmartanda)"
+      "A": "समन्त व्यवस्था का व्यापक प्रयोग / Extensive use of the samanta system",
+      "B": "भूमिदान व अनुदान-लेनदेन के अभिलेख / Land grants and donation records",
+      "C": "उपाधियाँ: ‘परमभट्टारक-महाराजाधिराज’ आदि / Imperial titles like ‘Paramabhattaraka-Maharajadhiraja’",
+      "D": "पूर्णतः केन्द्रीयकृत राजस्व, बिना स्थानीय स्वायतत्ता / Fully centralized revenue with no local autonomy"
     },
-    "answer": ["B"],
-    "explanation": "गोविंद III को 'त्रैलोक्यमल्ल' कहा जाता था, क्योंकि उसने उत्तर और दक्षिण भारत में एक साथ विजय प्राप्त की थी।"
+    "answer": ["A", "B", "C"],
+    "explanation": "प्रतीहार युग में सामन्तीय ढांचा प्रबल था; भूमि-अनुदान अभिलेखों से राजस्व/धार्मिक प्रोत्साहन झलकता है। उपाधियाँ गुप्तोत्तर सम्राटीय परंपरा का अनुकरण दिखाती हैं; पर राजस्व-प्रणाली पूर्णतः केन्द्रीयकृत नहीं थी।"
   },
   {
     "id": 12,
-    "question": "गोविंद III ने किन-किन उत्तर भारतीय शासकों को पराजित किया था? / Which North Indian rulers were defeated by Govinda III?",
+    "question": "किसे प्रतीहारों का सामन्त/उपशाखा माना जाता है? / Who were vassals/affiliates under the Pratiharas?",
     "options": {
-      "A": "गुर्जर-प्रतिहार नागभट्ट द्वितीय (Nagabhata II of Gurjara-Pratihara)",
-      "B": "पाल वंश का धर्मपाल (Dharmapala of Pala dynasty)",
-      "C": "कन्नौज का राजा (King of Kannauj)",
-      "D": "चोल वंश का अधिपति (Ruler of Cholas)"
+      "A": "तोमर (दिल्ली) / Tomaras of Delhi",
+      "B": "चाहमान (शाकम्भरी) / Chahamanas of Shakambhari",
+      "C": "परमार (मालवा) मूलतः राष्ट्रकूट सामन्त / Paramaras of Malwa were originally Rashtrakuta vassals",
+      "D": "चोल (तंजावुर) / Cholas of Thanjavur"
     },
     "answer": ["A", "B", "C"],
-    "explanation": "गोविंद III ने नागभट्ट द्वितीय (गुर्जर-प्रतिहार), पाल वंश के धर्मपाल और कन्नौज के राजा को हराया था।"
+    "explanation": "दिल्ली के तोमर और शाकम्भरी के चाहमान प्रतीहार प्रभाव क्षेत्र में उभरे; परमार वंश की प्रारम्भिक स्थिति राष्ट्रकूट सामन्तीय ढांचे से जुड़ती है। चोल दक्षिण में स्वतंत्र शक्ति थे।"
   },
   {
     "id": 13,
-    "question": "अमोघवर्ष प्रथम का शासनकाल किस दृष्टि से महत्वपूर्ण था? / Why was the reign of Amoghavarsha I significant?",
+    "question": "ग्वालियर क्षेत्र और प्रतीहार कला-संस्कृति के सम्बंध में सही कथन चुनें। / Choose the correct statements about Gwalior region and Pratihara art-culture.",
     "options": {
-      "A": "सबसे लम्बा शासनकाल (Longest Reign)",
-      "B": "धर्मनिष्ठ शासक (Religious Ruler)",
-      "C": "कन्नड़ साहित्य का विकास (Development of Kannada Literature)",
-      "D": "पल्लवों पर विजय (Victory over Pallavas)"
+      "A": "तेली का मंदिर नागर शैली का विशिष्ट उदाहरण है / Teli-ka-Mandir is a notable Nagara example",
+      "B": "ग्वालियर दुर्ग उत्तर-मध्य भारत की रणनीति में महत्त्वपूर्ण था / Gwalior fort was strategic in central-north India",
+      "C": "यह परिसर केवल चोलों द्वारा निर्मित है / Entire complex was built only by the Cholas",
+      "D": "कच्छपघातों आदि के साथ निरन्तर निर्माण परंपरा रही / Continued construction under Kachchhapaghatas etc."
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "अमोघवर्ष प्रथम का शासन लगभग 64 वर्षों तक चला, वे जैन धर्म से प्रभावित थे और कन्नड़ साहित्य के महान संरक्षक थे।"
+    "answer": ["A", "B", "D"],
+    "explanation": "ग्वालियर के तैली का मंदिर आदि नागर रूप-विन्यास के उत्कृष्ट नमूने हैं; दुर्ग की रणनीतिक स्थिति निर्णायक थी। निर्माण गतिविधियाँ कच्छपघातों सहित कई वंशों में जारी रहीं; इसे चोल-निर्माण कहना अनुचित है।"
   },
   {
     "id": 14,
-    "question": "अमोघवर्ष प्रथम द्वारा रचित ‘कविराजमार्ग’ किस भाषा में है? / In which language was 'Kavirajamarga' composed by Amoghavarsha I?",
+    "question": "ओसियां (ओसियन) के मंदिर-समूह के बारे में सही कथन चुनें। / Choose the correct statements about the Osian temple cluster.",
     "options": {
-      "A": "संस्कृत (Sanskrit)",
-      "B": "कन्नड़ (Kannada)",
-      "C": "प्राकृत (Prakrit)",
-      "D": "मराठी (Marathi)"
+      "A": "राजस्थान में 8वीं–9वीं सदी के मंदिर-निर्माण का केन्द्र / Hub of 8th–9th c. temple building in Rajasthan",
+      "B": "प्रतीहार कालीन संरचनात्मक परम्परा झलकती है / Reflects Pratihara-period architectural idiom",
+      "C": "केवल बौद्ध विहार, कोई हिन्दू/जैन प्रभाव नहीं / Only Buddhist viharas, no Hindu/Jain influence",
+      "D": "स्थानीय सामन्तों की भूमिका भी दिखती है / Shows role of local feudatories"
     },
-    "answer": ["B"],
-    "explanation": "अमोघवर्ष प्रथम ने ‘कविराजमार्ग’ कन्नड़ भाषा में लिखा, जिसे कन्नड़ साहित्य का प्रथम महत्त्वपूर्ण ग्रंथ माना जाता है।"
+    "answer": ["A", "B", "D"],
+    "explanation": "ओसियां में हिन्दू-जैन दोनों परम्पराओं के मंदिर हैं, जो प्रतीहार युगीन नगार शैली का रूप दिखाते हैं। स्थानीय सामन्तीय सहयोग/संरक्षण भी महत्त्वपूर्ण था।"
   },
   {
     "id": 15,
-    "question": "अमोघवर्ष प्रथम की तुलना अक्सर किस गुप्त सम्राट से की जाती है? / Amoghavarsha I is often compared to which Gupta emperor?",
+    "question": "नागर (उत्तरी) मंदिर-शैली की कौन-सी विशेषताएँ प्रतीहार युग में उभरती हैं? / Which Nagara features are visible in the Pratihara period?",
     "options": {
-      "A": "चंद्रगुप्त प्रथम (Chandragupta I)",
-      "B": "कुमारगुप्त (Kumaragupta)",
-      "C": "चंद्रगुप्त विक्रमादित्य (Chandragupta II Vikramaditya)",
-      "D": "समुद्रगुप्त (Samudragupta)"
+      "A": "लाटिना (रेखाभद्र) शिखर / Latina (rekha) shikhara",
+      "B": "अर्ध-मंडप, जालियाँ, समृद्ध अलंकरण / Mandapas, perforated screens, rich ornament",
+      "C": "द्रविड़ विमाना का विशुद्ध प्रयोग / Purely Dravida vimana only",
+      "D": "देव-प्रतिमाओं की पैनलों में श्रृंखला / Iconic panel series on walls"
     },
-    "answer": ["C"],
-    "explanation": "अमोघवर्ष प्रथम की तुलना विक्रमादित्य चंद्रगुप्त II से की जाती है, क्योंकि दोनों ही साहित्य और कला के संरक्षक थे।"
+    "answer": ["A", "B", "D"],
+    "explanation": "प्रतीहार कालीन उत्तर भारतीय मंदिरों में रेखा-शिखर, मंडप, जालीदार पैनल एवं सजावट प्रमुख हैं। द्रविड़ विमाना दक्षिणात्मक है; प्रतीहार नगार परम्परा का विकास करते हैं।"
   },
   {
     "id": 16,
-    "question": "कृष्ण प्रथम के शासनकाल की सबसे प्रसिद्ध उपलब्धि कौन-सी थी? / What was the most famous achievement of Krishna I?",
+    "question": "गुर्जर-प्रतीहार सिक्कों के बारे में सही कथन चुनें। / Choose the correct statements about Gurjara-Pratihara coinage.",
     "options": {
-      "A": "कैलासनाथ मंदिर का निर्माण (Construction of Kailasanatha temple at Ellora)",
-      "B": "पालों पर विजय (Victory over Palas)",
-      "C": "नई राजधानी की स्थापना (Establishment of new capital)",
-      "D": "नौसेना शक्ति का विकास (Development of naval power)"
+      "A": "मिहिर भोज के सिक्कों पर वराह-आइकॉन मिलता है / Boar icon appears on Mihir Bhoja’s coins",
+      "B": "‘श्री-आदि-वराह’ जैसे दन्तक/लेजेन्ड मिलते हैं / Legends like ‘Śrī Ādi-Varāha’ occur",
+      "C": "सिक्कों की शैली में उत्तर-पश्चिमी प्रभाव भी दिखते हैं / Northwestern stylistic influences appear",
+      "D": "सिक्के केवल ताम्र में, रजत/स्वर्ण नहीं / Only copper, no silver/gold"
     },
-    "answer": ["A"],
-    "explanation": "कृष्ण प्रथम ने एलोरा में भव्य कैलासनाथ मंदिर का निर्माण करवाया, जो शिल्पकला का अद्भुत उदाहरण है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "प्रतीहार सिक्काशास्त्र में वराह-चिह्न व सम्बद्ध दन्तक प्रसिद्ध हैं; रजत द्रम्म आदि चालित रहे और शैली में उत्तर-पश्चिमीय रूपांकनों का प्रभाव भी दिखता है। केवल ताम्र कहना गलत है।"
   },
   {
     "id": 17,
-    "question": "एलोरा का कैलासनाथ मंदिर किस वास्तुशैली का अद्वितीय उदाहरण है? / Kailasanatha temple at Ellora is an example of which architectural style?",
+    "question": "त्रिपक्षीय संघर्ष के काल-फलक में कौन-सी घटनाएँ सही जोड़ी जाती हैं? / Which events align correctly within the Tripartite Struggle timeframe?",
     "options": {
-      "A": "द्रविड़ शैली (Dravidian style)",
-      "B": "नागर शैली (Nagara style)",
-      "C": "वेसर शैली (Vesara style)",
-      "D": "मिश्रित शैली (Mixed style)"
+      "A": "वत्सराज–धर्मपाल का टकराव / Vatsaraja–Dharmapala confrontation",
+      "B": "ध्रुव/गोविंदा III के उत्तर अभियानों का प्रभाव / Northern campaigns of Dhruva/Govinda III",
+      "C": "नागभट्ट II का कन्नौज अधिग्रहण / Nagabhata II’s capture of Kannauj",
+      "D": "चोल-चालुक्य महासंघ का कन्नौज पर अधिकार / Chola–Chalukya combine seizing Kannauj"
     },
-    "answer": ["A", "D"],
-    "explanation": "कैलासनाथ मंदिर मुख्यतः द्रविड़ शैली में निर्मित है, परंतु इसमें कई मिश्रित विशेषताएँ भी दिखाई देती हैं।"
+    "answer": ["A", "B", "C"],
+    "explanation": "उक्त तीनों घटनाएँ 8वीं–9वीं सदी के कन्नौज-केन्द्रित शक्ति-संतुलन को दर्शाती हैं। चोल-चालुक्य के अधीन कन्नौज नहीं गया—यह उत्तर भारत की त्रिपक्षीय प्रतिद्वंद्विता थी।"
   },
   {
     "id": 18,
-    "question": "‘कविराजमार्ग’ ग्रंथ का मुख्य विषय क्या है? / What is the main subject of the text 'Kavirajamarga'?",
+    "question": "प्रतीहार–पाल सम्बन्धों के बारे में सही कथन चुनें। / Choose the correct statements about Pratihara–Pala relations.",
     "options": {
-      "A": "अर्थशास्त्र (Economics)",
-      "B": "काव्यशास्त्र (Poetics)",
-      "C": "धर्मशास्त्र (Religious Law)",
-      "D": "राजनीति (Politics)"
+      "A": "कन्नौज व दोआब पर संघर्ष / Contest over Kannauj and the Doab",
+      "B": "पूर्वी भारत (मगध/बिहार) में प्रभाव-क्षेत्र का ओवरलैप / Overlapping spheres in eastern India (Magadha/Bihar)",
+      "C": "कूटनीतिक/सैन्य उतार-चढ़ाव दीर्घकालीन रहे / Long-term diplomatic/military fluctuations",
+      "D": "पालों ने स्थायी रूप से कन्नौज को राजधानी बनाया / Palas permanently made Kannauj their capital"
     },
-    "answer": ["B"],
-    "explanation": "‘कविराजमार्ग’ कन्नड़ भाषा का पहला काव्यशास्त्रीय ग्रंथ है, जिसमें काव्य और अलंकार पर चर्चा की गई है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "दोआब व कन्नौज पर प्रभुत्व के लिए प्रतीहार-पाल में प्रतियोगिता रही और मगध-पट्टी पर प्रभाव-ओवरलैप दिखा। पाल राजधानी गौड़/बंगाल क्षेत्र में थी; कन्नौज का स्थायी आधिपत्य नहीं रहा।"
   },
   {
     "id": 19,
-    "question": "गोविंद III की विजय के बाद उत्तर भारत के शासकों ने क्या किया? / What did the North Indian rulers do after being defeated by Govinda III?",
+    "question": "प्रतीहारों की सीमाएँ उनके उत्कर्ष पर सामान्यतः किन क्षेत्रों तक वर्णित हैं? / At their zenith, which regions broadly fell within Pratihara influence?",
     "options": {
-      "A": "राष्ट्रकूट साम्राज्य को कर दिया (Accepted suzerainty of Rashtrakutas)",
-      "B": "नए गठबंधन बनाए (Formed new alliances)",
-      "C": "विद्रोह किया (Revolted)",
-      "D": "चालुक्यों से मित्रता की (Allied with Chalukyas)"
+      "A": "पश्चिम में राजस्थान–गुजरात / West: Rajasthan–Gujarat",
+      "B": "उत्तर में पन्जाब के अंश / North: parts of Punjab",
+      "C": "मध्य में मालवा–बुन्देलखण्ड / Central: Malwa–Bundelkhand",
+      "D": "स्थायी रूप से सम्पूर्ण बंगाल / Permanently entire Bengal"
     },
-    "answer": ["A", "B"],
-    "explanation": "गोविंद III की विजय के बाद उत्तर भारतीय शासकों ने राष्ट्रकूट साम्राज्य की सर्वोच्चता स्वीकार की और कुछ ने आपसी गठबंधन बनाए।"
+    "answer": ["A", "B", "C"],
+    "explanation": "उत्कर्ष पर प्रतीहार प्रभाव पश्चिम से मध्य भारत तक और उत्तर में पंजाब के हिस्सों तक रहा। बंगाल पर पाल शक्तियाँ हावी थीं; वहाँ प्रतीहारों का स्थायी नियंत्रण नहीं रहा।"
   },
   {
     "id": 20,
-    "question": "अमोघवर्ष प्रथम किस धर्म से अत्यधिक प्रभावित थे? / Which religion greatly influenced Amoghavarsha I?",
+    "question": "तोमर वंश और प्रतीहार सम्बन्ध पर सही कथन चुनें। / Choose the correct statements on Tomaras and the Pratiharas.",
     "options": {
-      "A": "शैव धर्म (Shaivism)",
-      "B": "वैष्णव धर्म (Vaishnavism)",
-      "C": "जैन धर्म (Jainism)",
-      "D": "बौद्ध धर्म (Buddhism)"
+      "A": "तोमर प्रारम्भ में प्रतीहारों के अधीन उभरे / Tomaras rose initially under Pratihara suzerainty",
+      "B": "दिल्ली क्षेत्र में उनकी उपस्थिति मिलती है / Presence around Delhi region",
+      "C": "वे सीधे पालों के सामन्त रहे / They were direct Pala vassals",
+      "D": "तोमर उभार से प्रतीहार सीमांत-प्रशासन में सहारा मिला / Tomara rise aided frontier administration"
     },
-    "answer": ["C"],
-    "explanation": "अमोघवर्ष प्रथम जैन धर्म से अत्यधिक प्रभावित थे और उन्होंने जैन मुनियों को संरक्षण दिया।"
+    "answer": ["A", "B", "D"],
+    "explanation": "दिल्ली-आसपास तोमर उभरे और प्रतीहारों की सीमांत-संरचना में सहायक बने। उनका पाल सामन्त होना ऐतिहासिक रूप से समर्थित नहीं है।"
   },
   {
     "id": 21,
-    "question": "कृष्ण प्रथम द्वारा निर्मित कैलासनाथ मंदिर का शिल्प कौन-सा है? / What is the rock-cut technique of Kailasanatha temple built by Krishna I?",
+    "question": "चाहमन (चौहान) और प्रतीहार सम्बन्ध हेतु सही कथन चुनें। / Choose correct statements on Chahamanas and the Pratiharas.",
     "options": {
-      "A": "ऊर्ध्वाधर शिल्प (Vertical excavation from top to bottom)",
-      "B": "क्षैतिज शिल्प (Horizontal excavation)",
-      "C": "गुफा प्रणाली (Cave excavation system)",
-      "D": "स्तूप संरचना (Stupa structure)"
+      "A": "शाकम्भरी चाहमान प्रतीहार प्रभाव क्षेत्र में उभरे / Shakambhari Chahamanas emerged under Pratihar influence",
+      "B": "वे बाद में स्वतन्त्र शक्ति बने / Later became independent",
+      "C": "उनका केन्द्र दक्कन में था / Their centre was in the Deccan",
+      "D": "सीमाओं की रक्षा में वे उपयोगी रहे / Useful for frontier defence"
     },
-    "answer": ["A"],
-    "explanation": "कैलासनाथ मंदिर को ऊपर से नीचे की ओर शिला काटकर बनाया गया है, जो वास्तुकला का अद्भुत उदाहरण है।"
+    "answer": ["A", "B", "D"],
+    "explanation": "शाकम्भरी चाहमान प्रारम्भ में प्रतीहारों के सामन्त रहे, फिर स्वतन्त्रता की ओर बढ़े और पश्चिमोत्तर सीमांत सुरक्षा में सहायक बने। उनका केन्द्र दक्कन नहीं था।"
   },
   {
     "id": 22,
-    "question": "गोविंद III की विजय यात्राएँ किस महाकाव्य से तुलना योग्य मानी जाती हैं? / The campaigns of Govinda III are compared to which epic ruler?",
+    "question": "‘गुर्जर-प्रतीहार’ संज्ञा के प्रयोग पर सही कथन चुनें। / Choose correct statements about the label ‘Gurjara-Pratihara’.",
     "options": {
-      "A": "अशोक (Ashoka)",
-      "B": "समुद्रगुप्त (Samudragupta)",
-      "C": "चंद्रगुप्त मौर्य (Chandragupta Maurya)",
-      "D": "हर्षवर्धन (Harshavardhana)"
+      "A": "यह कभी-कभी क्षेत्र/जातीयता व वंश—दोनों का सूचक बनता है / Sometimes denotes both region/ethnicity and dynasty",
+      "B": "विदेशी लेखकों में ‘जुर्ज’/‘गुर्जर’ रूप मिलते हैं / Foreign accounts mention ‘Jurz/Gurjara’",
+      "C": "इसे केवल स्थानीय उपाख्यान मानना सही है / It is only a local anecdotal label",
+      "D": "कन्नौज के सम्राटों के लिए ‘इम्पीरियल प्रतीहार’ भी कहा जाता है / Kannauj rulers are called ‘Imperial Pratiharas’"
     },
-    "answer": ["B"],
-    "explanation": "गोविंद III की उत्तर भारतीय विजय यात्राओं की तुलना समुद्रगुप्त की विजयों से की जाती है।"
+    "answer": ["A", "B", "D"],
+    "explanation": "गुर्जर-प्रतीहार पदनाम में क्षेत्रीय/जातीय व राजवंशी दोनों अर्थ-संकेत मिलते हैं; अरब-फारसी विवरणों में ऐसे रूप मिलते हैं। कन्नौज केन्द्रित धारा को 'इम्पीरियल' भी कहा जाता है।"
   },
   {
     "id": 23,
-    "question": "अमोघवर्ष प्रथम का शासनकाल किस सदी में था? / In which century did Amoghavarsha I rule?",
+    "question": "प्रतीहारों की धार्मिक नीतियों के बारे में सही कथन चुनें। / Choose correct statements on Pratihara religious policies.",
     "options": {
-      "A": "7वीं शताब्दी (7th century)",
-      "B": "8वीं शताब्दी (8th century)",
-      "C": "9वीं शताब्दी (9th century)",
-      "D": "10वीं शताब्दी (10th century)"
+      "A": "वैष्णव और शैव, दोनों परम्पराओं का संरक्षण / Patronage to both Vaishnava and Shaiva traditions",
+      "B": "जैन परम्परा को भी स्थानीय स्तर पर संरक्षण / Local patronage to Jain tradition as well",
+      "C": "केवल बौद्ध धर्म को राजधर्म बनाया / Only Buddhism was made state religion",
+      "D": "राजचिह्नों/सिक्कों में वैष्णव प्रतीक दिखते हैं / Vaishnava symbols on royal insignia/coins"
     },
-    "answer": ["C"],
-    "explanation": "अमोघवर्ष प्रथम का शासनकाल 9वीं शताब्दी में था और यह राष्ट्रकूट साम्राज्य का स्वर्णकाल माना जाता है।"
+    "answer": ["A", "B", "D"],
+    "explanation": "प्रतीहार बहुल-विध धार्मिक संरक्षण के लिए जाने जाते हैं—वैष्णव-शैव के साथ जैन परम्परा को भी समर्थन दिखता है। सिक्कों/चिह्नों में वैष्णव प्रतीक (वराह) प्रमुख हैं; बौद्ध-एकाधिकार नहीं।"
   },
   {
     "id": 24,
-    "question": "अमोघवर्ष प्रथम ने अपनी राजधानी कहाँ स्थापित की थी? / Where did Amoghavarsha I establish his capital?",
+    "question": "प्रतीहार कालीन अर्थव्यवस्था–समाज पर सही कथन चुनें। / Choose correct statements on economy-society under the Pratiharas.",
     "options": {
-      "A": "मान्याकेटा (Manyakheta)",
-      "B": "पैठण (Paithan)",
-      "C": "कांची (Kanchi)",
-      "D": "एलोरा (Ellora)"
+      "A": "भूमि-अनुदानों से ब्राह्मण व मठ-temple अर्थतंत्र को बल / Land grants strengthened brahmanical/temple economy",
+      "B": "दोआब व कन्नौज मार्गों से व्यापार-संचार / Trade via Doab & Kannauj routes",
+      "C": "समन्तीय विखंडन से राजस्व-विविधता / Feudal fragmentation created revenue diversity",
+      "D": "समुद्री व्यापार केवल दक्कन से जुड़ा, उत्तर अप्रासंगिक / Sea-trade only Deccan-linked; north irrelevant"
     },
-    "answer": ["A"],
-    "explanation": "अमोघवर्ष प्रथम ने मान्याकेटा (मालखेड़) को अपनी राजधानी बनाया।"
+    "answer": ["A", "B", "C"],
+    "explanation": "भूमिदान-प्रथा से धार्मिक संस्थानों की आर्थिक भूमिका बढ़ी; कन्नौज के व्यापार-मार्गों ने शहरी अर्थनीति को साधा; सामन्तीय ढांचे से विविध कर/अनुदान-व्यवस्थाएँ बनीं। उत्तर भारत समुद्री व्यापार से पूरी तरह कटा नहीं था।"
   },
   {
     "id": 25,
-    "question": "कृष्ण प्रथम के समय निर्मित कैलासनाथ मंदिर किस देवता को समर्पित है? / To which deity is the Kailasanatha temple dedicated?",
+    "question": "निम्नलिखित में से कौन-सी उपाधियाँ/अभिधान प्रतीहार सम्राटों से जुड़ती हैं? / Which titles/epithets are associated with Pratihara emperors?",
     "options": {
-      "A": "विष्णु (Vishnu)",
-      "B": "शिव (Shiva)",
-      "C": "ब्रह्मा (Brahma)",
-      "D": "सूर्य (Surya)"
+      "A": "परमभट्टारक / Paramabhattaraka",
+      "B": "महाराजाधिराज / Maharajadhiraja",
+      "C": "आदि-वराह / Ādi-Varāha (devotional epithet on coinage)",
+      "D": "चक्रवर्ती (कुछ सन्दर्भों में) / Chakravartin (in some contexts)"
     },
-    "answer": ["B"],
-    "explanation": "कैलासनाथ मंदिर भगवान शिव को समर्पित है।"
+    "answer": ["A", "B", "C", "D"],
+    "explanation": "प्रतीहार शासक गुप्तोत्तर सम्राटीय उपाधियों का विनियोग करते हैं; वैष्णव भक्ति-संकेत ‘आदि-वराह’ विशेष रूप से मिहिर भोज से जुड़ा दिखता है। ‘चक्रवर्ती’ भी कुछ प्रसंगों में प्रयुक्त।"
   },
   {
     "id": 26,
-    "question": "गोविंद III की विजय के बाद राष्ट्रकूट साम्राज्य की सीमा कहाँ तक विस्तारित हुई? / Up to which region did the Rashtrakuta empire expand under Govinda III?",
+    "question": "राजपाल (Rajyapala) के बारे में सही कथन चुनें। / Choose correct statements about Rajyapala.",
     "options": {
-      "A": "कावेरी नदी तक (Up to Kaveri River in South)",
-      "B": "गंगा नदी तक (Up to River Ganga in North)",
-      "C": "बंगाल तक (Up to Bengal)",
-      "D": "सिंधु नदी तक (Up to River Indus)"
+      "A": "उनके काल में महमूद गजनवी ने कन्नौज क्षेत्र पर धावा बोला / Mahmud of Ghazni raided Kannauj in his time",
+      "B": "राजपाल का रुख साहसी प्रतिरोध का था / He mounted a bold resistance",
+      "C": "उनके अनिर्णय/पीछे हटने से प्रतिष्ठा-हानि हुई / Vacillation/retreat hurt prestige",
+      "D": "बाद के शासकों/स्थानीय शक्तियों ने उन्हें दंडित किया / Later regional powers punished him"
     },
-    "answer": ["A", "B"],
-    "explanation": "गोविंद III के समय राष्ट्रकूट साम्राज्य उत्तर में गंगा नदी और दक्षिण में कावेरी नदी तक फैल गया था।"
+    "answer": ["A", "C", "D"],
+    "explanation": "1018 ई. में गजनवी आक्रमण के समय राजपाल की नीति को आलोचना मिली—प्रतिरोध सशक्त न होने से प्रतिष्ठा गिरी और बाद में क्षेत्रीय शक्तियों से दंड झेलना पड़ा।"
   },
   {
     "id": 27,
-    "question": "कविराजमार्ग ग्रंथ का महत्व क्या है? / What is the importance of Kavirajamarga?",
+    "question": "प्रतीहार साम्राज्य-पतन के कारण चुनें। / Select the causes of Pratihara decline.",
     "options": {
-      "A": "कन्नड़ गद्य की प्रथम कृति (First prose work in Kannada)",
-      "B": "कन्नड़ काव्य का आदर्श ग्रंथ (Earliest standard work on Kannada poetics)",
-      "C": "राजनीतिक इतिहास (Political history)",
-      "D": "धर्म ग्रंथ (Religious text)"
+      "A": "सामन्तीय विघटन / Feudal fragmentation",
+      "B": "प्रतिद्वन्द्वियों—पाल, राष्ट्रकूट, बाद में क्षेत्रीय राजपूत शक्तियाँ / Rivals: Palas, Rashtrakutas, rising Rajput polities",
+      "C": "उत्तर-पश्चिम से तुर्की आक्रमण / Turko-Afghan incursions from the northwest",
+      "D": "समुद्री साम्राज्य पर निर्भरता / Overreliance on maritime empire"
     },
-    "answer": ["B"],
-    "explanation": "‘कविराजमार्ग’ कन्नड़ काव्यशास्त्र का प्रथम और आदर्श ग्रंथ माना जाता है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "अन्दरूनी सामन्तीय टूटन, प्रतिद्वन्द्वी साम्राज्यों का दबाव और बाद के तुर्क आक्रमणों ने प्रतीहार शक्ति को कमज़ोर किया। समुद्री साम्राज्य उनकी पहचान नहीं थी।"
   },
   {
     "id": 28,
-    "question": "कृष्ण प्रथम द्वारा निर्मित कैलासनाथ मंदिर किन गुफाओं में स्थित है? / In which caves is the Kailasanatha temple built by Krishna I located?",
+    "question": "गुर्जर-प्रतीहारों की शाखाओं के बारे में सही कथन चुनें। / Choose the correct statements on Pratihara branches.",
     "options": {
-      "A": "अजन्ता गुफाएँ (Ajanta Caves)",
-      "B": "एलोरा गुफाएँ (Ellora Caves)",
-      "C": "बाघ गुफाएँ (Bagh Caves)",
-      "D": "एलीफेंटा गुफाएँ (Elephanta Caves)"
+      "A": "कन्नौज-आधारित ‘इम्पीरियल’ धारा / Kannauj-based ‘Imperial’ line",
+      "B": "मण्डोर (जोधपुर) की शाखाएँ / Branches at Mandor (Jodhpur)",
+      "C": "चालुक्य वंश की एक सीधी शाखा / A direct branch of the Chalukyas",
+      "D": "स्थानीय उपशाखाओं ने स्वयं का राज-पट विकसित किया / Local sub-branches developed their own annals"
     },
-    "answer": ["B"],
-    "explanation": "कैलासनाथ मंदिर महाराष्ट्र की एलोरा गुफाओं में स्थित है।"
+    "answer": ["A", "B", "D"],
+    "explanation": "इम्पीरियल कन्नौज-धारा के साथ मण्डोर आदि में प्रतीहार शाखाएँ दिखती हैं; स्थानीय अभिलेख/कथाएँ विकसित हुईं। चालुक्य से सीधी शाखा कहना अनुचित है।"
   },
   {
     "id": 29,
-    "question": "गोविंद III के समय राष्ट्रकूट साम्राज्य की स्थिति कैसी थी? / What was the condition of Rashtrakuta empire under Govinda III?",
+    "question": "निम्नलिखित ग्रन्थ-लेखक का सही युग्म चुनें। / Choose the correct author–work pair.",
     "options": {
-      "A": "सर्वाधिक विस्तृत साम्राज्य (Most expanded empire)",
-      "B": "राजनीतिक अव्यवस्था (Political instability)",
-      "C": "धार्मिक विघटन (Religious disintegration)",
-      "D": "विदेशी आक्रमणों का शिकार (Victim of foreign invasions)"
+      "A": "राजशेखर – कर्पूरमंजरी / Rajashekhara – Karpūramañjarī",
+      "B": "राजशेखर – काव्यमीमांसा / Rajashekhara – Kāvya-Mīmāṁsā",
+      "C": "राजशेखर – बृहत्त्संहिता / Rajashekhara – Bṛhatsaṁhitā",
+      "D": "राजशेखर – बालरामायण / Rajashekhara – Bālarāmāyaṇa"
     },
-    "answer": ["A"],
-    "explanation": "गोविंद III के समय राष्ट्रकूट साम्राज्य सर्वाधिक विस्तृत और शक्तिशाली था।"
+    "answer": ["A", "B"],
+    "explanation": "राजशेखर की प्रख्यात कृतियाँ ‘कर्पूरमंजरी’ (प्राकृत) और ‘काव्यमीमांसा’ (संस्कृत) हैं। ‘बृहत्त्संहिता’ वराहमिहिर की और ‘बालरामायण’ पर परम्परागत असंगतियां हैं।"
   },
   {
     "id": 30,
-    "question": "अमोघवर्ष प्रथम किस भाषा को विशेष महत्व देते थे? / Which language did Amoghavarsha I especially promote?",
+    "question": "कन्नौज के महत्व पर सही कथन चुनें। / Choose correct statements on the importance of Kannauj.",
     "options": {
-      "A": "संस्कृत (Sanskrit)",
-      "B": "कन्नड़ (Kannada)",
-      "C": "प्राकृत (Prakrit)",
-      "D": "तेलुगु (Telugu)"
+      "A": "मध्य गंगा-यमुना दोआब का शहरी केन्द्र / Urban hub of the mid Doab",
+      "B": "उत्तर भारतीय शक्ति-संतुलन का प्रतीक / Symbol of North Indian balance of power",
+      "C": "अंतर-क्षेत्रीय व्यापार-मार्गों का जंक्शन / Junction of inter-regional trade routes",
+      "D": "दक्षिण भारतीय तटीय राजधानी / A southern coastal capital"
     },
-    "answer": ["A", "B"],
-    "explanation": "अमोघवर्ष प्रथम संस्कृत और कन्नड़ दोनों के संरक्षक थे, परंतु विशेषकर कन्नड़ साहित्य को उन्होंने नया रूप दिया।"
+    "answer": ["A", "B", "C"],
+    "explanation": "कन्नौज भौगोलिक-आर्थिक दृष्टि से केन्द्रीय रहा—दोआब, व्यापार और वैभव का प्रतिमान; दक्षिणी तटीय राजधानी कहना असंगत है।"
   },
   {
     "id": 31,
-    "question": "एलोरा स्थित कैलासनाथ मंदिर की प्रमुख विशेषता क्या है? / What is the key feature of Kailasanatha temple at Ellora?",
+    "question": "निम्नलिखित में से किसके काल में कन्नौज दृढ़ रूप से प्रतीहार अधीन रहा? / Under whose reign was Kannauj firmly under the Pratiharas?",
     "options": {
-      "A": "शैलकृत एकाश्मक (Rock-cut monolithic structure)",
-      "B": "गृहविहीन गुफा (Cave without sanctum)",
-      "C": "पूर्ण नागर शैली (Pure Nagara style)",
-      "D": "ऊर्ध्वाधर उत्खनन (Vertical excavation)"
+      "A": "नागभट्ट II / Nagabhata II",
+      "B": "मिहिर भोज / Mihir Bhoja",
+      "C": "महेंद्रपाल I / Mahendrapala I",
+      "D": "धर्मपाल / Dharmapala"
     },
-    "answer": ["A", "D"],
-    "explanation": "कैलासनाथ मंदिर एकाश्मक शैलकृत मंदिर है जिसे ऊपर से नीचे की ओर शिला काटकर बनाया गया।"
+    "answer": ["A", "B", "C"],
+    "explanation": "नागभट्ट II ने अधिकार स्थापित किया; मिहिर भोज व महेंद्रपाल I ने उसे सुदृढ़/विस्तृत रखा। धर्मपाल पाला सम्राट थे।"
   },
   {
     "id": 32,
-    "question": "पट्टडकल के मंदिर किस वास्तुशैली का प्रतिनिधित्व करते हैं? / The Pattadakal temples represent which architectural style?",
+    "question": "अरबी-फारसी यात्रियों/इतिहासकारों के उल्लेख पर सही कथन चुनें। / Choose correct statements about Arabic–Persian notices.",
     "options": {
-      "A": "द्रविड़ शैली (Dravidian style)",
-      "B": "नागर शैली (Nagara style)",
-      "C": "वेसर शैली (Vesara style)",
-      "D": "बौद्ध शैली (Buddhist style)"
+      "A": "कुछ लेखों में ‘जुर्ज/गुर्जर’ नामावली मिलती है / Some refer to ‘Jurz/Gurjara’",
+      "B": "कन्नौज-सम्राट की उत्तर भारत में प्रभुता का वर्णन / Describe the hegemony of the Kannauj emperor",
+      "C": "वे प्रतीहारों को दक्कन के चोल मानते हैं / Equate Pratiharas with Deccan Cholas",
+      "D": "भू-रणनीतिक वाणिज्यिक महत्त्व पर संकेत / Indicate geo-strategic & commercial import"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "पट्टडकल के मंदिर द्रविड़, नागर और मिश्रित वेसर शैली का अद्भुत संगम हैं।"
+    "answer": ["A", "B", "D"],
+    "explanation": "अरबी-फारसी विवरणों में गुर्जर/कन्नौज के शक्तिशाली सम्राट का वर्णन और व्यापारिक-भौगोलिक महत्व का संकेत मिलता है; उन्हें चोल कहना गलत है।"
   },
   {
     "id": 33,
-    "question": "वेसर शैली वास्तुकला की विशेषता क्या है? / What is the unique feature of Vesara style architecture?",
+    "question": "निम्नलिखित में से कौन-सी रणकौशल विशेषताएँ प्रतीहारों से जोड़ी जाती हैं? / Which martial features are associated with the Pratiharas?",
     "options": {
-      "A": "द्रविड़ और नागर का मिश्रण (Fusion of Dravidian and Nagara styles)",
-      "B": "केवल द्रविड़ शैली (Pure Dravidian style)",
-      "C": "केवल नागर शैली (Pure Nagara style)",
-      "D": "स्तूप शैली का प्रभाव (Influence of Stupa style)"
+      "A": "घुड़सवार सेना का प्रयोग / Use of cavalry",
+      "B": "उत्तर-पश्चिमी सीमांत पर त्वरित प्रतिक्रिया / Rapid response on NW frontier",
+      "C": "ऊँट-दल का मरु-क्षेत्र में उपयोग / Camel-corps in desert tracts",
+      "D": "केवल नौ-सैनिक बेड़ों पर निर्भरता / Exclusive reliance on naval fleets"
     },
-    "answer": ["A"],
-    "explanation": "वेसर शैली को द्रविड़ और नागर शैली का मिश्रण कहा जाता है।"
-  },
-  {
-    "id": 34,
-    "question": "राष्ट्रकूट कालीन कला में कौन-सा धार्मिक संरक्षण प्रमुख था? / Which religious patronage was prominent in Rashtrakuta art?",
-    "options": {
-      "A": "जैन धर्म (Jainism)",
-      "B": "शैव धर्म (Shaivism)",
-      "C": "वैष्णव धर्म (Vaishnavism)",
-      "D": "बौद्ध धर्म (Buddhism)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "राष्ट्रकूटों ने विशेषकर जैन और शैव धर्म को संरक्षण दिया।"
+    "answer": ["A", "B", "C"],
+    "explanation": "राजस्थान–पश्चिमोत्तर क्षेत्र में घुड़सवार व ऊँट-दल रणनीतिक रहे; सीमांत दबावों पर तीव्र प्रतिक्रिया चाहिए थी। प्रतीहार नौसैनिक शक्ति-आधारित साम्राज्य नहीं थे।"
   },
   {
     "id": 35,
-    "question": "‘कविराजमार्ग’ किस शासक के काल में रचित हुआ? / During whose reign was 'Kavirajamarga' composed?",
+    "question": "गुर्जर-प्रतीहार वंश और पाल वंश के बीच लंबे समय तक संघर्ष का मुख्य कारण क्या था? / What was the main reason for the prolonged conflict between the Gurjara-Pratihara dynasty and the Palas?",
     "options": {
-      "A": "दंतिदुर्ग (Dantidurga)",
-      "B": "अमोघवर्ष प्रथम (Amoghavarsha I)",
-      "C": "गोविंद III (Govinda III)",
-      "D": "कृष्ण I (Krishna I)"
+      "A": "कन्नौज पर अधिकार / Control over Kannauj",
+      "B": "मालवा के व्यापारिक मार्ग / Trade routes of Malwa",
+      "C": "गुजरात की बंदरगाहें / Ports of Gujarat",
+      "D": "कश्मीर पर प्रभुत्व / Supremacy over Kashmir"
     },
-    "answer": ["B"],
-    "explanation": "‘कविराजमार्ग’ अमोघवर्ष प्रथम के काल में रचा गया और इसे कन्नड़ साहित्य का पहला काव्यशास्त्रीय ग्रंथ माना जाता है।"
+    "answer": ["A"],
+    "explanation": "कन्नौज का भू-राजनीतिक और आर्थिक महत्व बहुत अधिक था। इसलिए गुर्जर-प्रतीहार, पाल और राष्ट्रकूट वंशों के बीच त्रिपक्षीय संघर्ष (Tripartite Struggle) का मुख्य केन्द्र कन्नौज रहा। मालवा और गुजरात महत्वपूर्ण थे परंतु संघर्ष का मूल कारण कन्नौज था।"
   },
   {
     "id": 36,
-    "question": "‘प्रश्नोत्तर रत्नमालिका’ का विषय क्या है? / What is the subject of 'Prashnottara Ratnamalika'?",
+    "question": "नागभट्ट प्रथम (Pratihara) ने किन आक्रमणकारियों को हराया था? / Whom did Nagabhata I (Pratihara) defeat?",
     "options": {
-      "A": "काव्यशास्त्र (Poetics)",
-      "B": "राजनीति (Politics)",
-      "C": "दर्शनशास्त्र (Philosophy)",
-      "D": "अर्थशास्त्र (Economics)"
+      "A": "अरब आक्रमणकारी / Arab invaders",
+      "B": "तुर्क आक्रमणकारी / Turkic invaders",
+      "C": "पाल शासक / Pala rulers",
+      "D": "गुजरात के चालुक्य / Chalukyas of Gujarat"
     },
-    "answer": ["C"],
-    "explanation": "‘प्रश्नोत्तर रत्नमालिका’ दर्शनशास्त्र संबंधी ग्रंथ है।"
+    "answer": ["A"],
+    "explanation": "नागभट्ट प्रथम ने 8वीं शताब्दी में अरब आक्रमणकारियों (सिन्ध और राजस्थान पर आक्रमण) को हराकर उत्तर-पश्चिम भारत की रक्षा की। इसे 'भारतीय संस्कृति का रक्षक' भी कहा गया। पाल या चालुक्यों से संघर्ष का उल्लेख उसके काल में नहीं मिलता।"
   },
   {
     "id": 37,
-    "question": "‘कविराजमार्ग’ ग्रंथ किस भाषा में है और इसकी विषयवस्तु क्या है? / In which language was 'Kavirajamarga' written and what is its subject?",
+    "question": "गुर्जर-प्रतीहार वंश का सर्वाधिक शक्तिशाली शासक किसे माना जाता है? / Who is considered the most powerful ruler of the Gurjara-Pratihara dynasty?",
     "options": {
-      "A": "कन्नड़ – काव्यशास्त्र (Kannada – Poetics)",
-      "B": "संस्कृत – राजनीति (Sanskrit – Politics)",
-      "C": "प्राकृत – धर्मशास्त्र (Prakrit – Religious law)",
-      "D": "मराठी – साहित्य (Marathi – Literature)"
+      "A": "मिहिर भोज / Mihira Bhoja",
+      "B": "नागभट्ट प्रथम / Nagabhata I",
+      "C": "रामभद्र / Ramabhadra",
+      "D": "यशोवर्मन / Yashovarman"
     },
     "answer": ["A"],
-    "explanation": "‘कविराजमार्ग’ कन्नड़ में काव्यशास्त्र पर आधारित ग्रंथ है।"
+    "explanation": "मिहिर भोज (836–885 ई.) को गुर्जर-प्रतीहार वंश का सबसे शक्तिशाली शासक माना जाता है। उसने कन्नौज को राजधानी बनाकर पाल और राष्ट्रकूट दोनों को चुनौती दी। उसके शासनकाल में साम्राज्य उत्तर भारत के विशाल हिस्से तक फैला।"
   },
   {
     "id": 38,
-    "question": "पट्टडकल का महत्व किस कारण से है? / Why is Pattadakal significant?",
+    "question": "‘त्रिपक्षीय संघर्ष’ (Tripartite Struggle) में निम्नलिखित में से कौन-से वंश शामिल थे? / Which dynasties were involved in the Tripartite Struggle?",
     "options": {
-      "A": "यूनेस्को विश्व धरोहर स्थल (UNESCO World Heritage site)",
-      "B": "द्रविड़ और नागर शैली का संगम (Confluence of Dravidian and Nagara styles)",
-      "C": "जैन गुफाओं का प्रमुख केंद्र (Major centre of Jain caves)",
-      "D": "कृष्ण I की राजधानी (Capital of Krishna I)"
+      "A": "गुर्जर-प्रतीहार / Gurjara-Pratiharas",
+      "B": "पाल / Palas",
+      "C": "राष्ट्रकूट / Rashtrakutas",
+      "D": "चोल / Cholas"
     },
-    "answer": ["A", "B"],
-    "explanation": "पट्टडकल यूनेस्को विश्व धरोहर स्थल है और यहाँ द्रविड़ व नागर शैली का अद्भुत संगम है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "त्रिपक्षीय संघर्ष 8वीं–9वीं शताब्दी में कन्नौज को लेकर हुआ था। इसमें पाल, राष्ट्रकूट और गुर्जर-प्रतीहार शामिल थे। चोल वंश दक्षिण भारत में सक्रिय था, इस संघर्ष में शामिल नहीं था।"
   },
   {
     "id": 39,
-    "question": "राष्ट्रकूट काल में कन्नड़ साहित्य का प्रथम शास्त्रीय ग्रंथ कौन-सा है? / Which is the first classical text of Kannada literature under Rashtrakutas?",
+    "question": "गुर्जर-प्रतीहार वंश के सांस्कृतिक योगदानों में से कौन-से उल्लेखनीय हैं? / Which of the following are notable cultural contributions of the Gurjara-Pratiharas?",
     "options": {
-      "A": "कविराजमार्ग (Kavirajamarga)",
-      "B": "प्रश्नोत्तर रत्नमालिका (Prashnottara Ratnamalika)",
-      "C": "रामचरितमानस (Ramcharitmanas)",
-      "D": "महाभारत (Mahabharata – Kannada adaptation)"
+      "A": "मंदिर स्थापत्य कला / Temple architecture",
+      "B": "अरबी आक्रमणों से भारतीय संस्कृति की रक्षा / Defence of Indian culture from Arab invasions",
+      "C": "संस्कृत साहित्य का संरक्षण / Patronage of Sanskrit literature",
+      "D": "बौद्ध विहार निर्माण / Construction of Buddhist viharas"
     },
-    "answer": ["A"],
-    "explanation": "कविराजमार्ग को कन्नड़ साहित्य का प्रथम शास्त्रीय ग्रंथ माना जाता है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "गुर्जर-प्रतीहारों ने नागर शैली में मंदिर स्थापत्य को प्रोत्साहन दिया, संस्कृत साहित्य और विद्वानों का संरक्षण किया तथा अरब आक्रमणों को रोककर भारतीय संस्कृति की रक्षा की। बौद्ध विहार निर्माण मुख्यतः पाल वंश द्वारा किया गया।"
   },
   {
     "id": 40,
-    "question": "‘कविराजमार्ग’ का रचनाकार कौन था? / Who authored 'Kavirajamarga'?",
+    "question": "मिहिर भोज ने किस उपाधि का प्रयोग किया था? / Which title was used by Mihira Bhoja?",
     "options": {
-      "A": "दंतिदुर्ग (Dantidurga)",
-      "B": "अमोघवर्ष प्रथम (Amoghavarsha I)",
-      "C": "गोविंद III (Govinda III)",
-      "D": "जैन आचार्य जिनसेन (Jinasena, Jain Acharya)"
+      "A": "आदिवराह / Adivaraha",
+      "B": "परमेश्वर / Parameshwara",
+      "C": "महाराजाधिराज / Maharajadhiraja",
+      "D": "धराधिपति / Dharadhipati"
     },
-    "answer": ["B", "D"],
-    "explanation": "कविराजमार्ग का लेखन अमोघवर्ष प्रथम के संरक्षण में हुआ और जैन आचार्य जिनसेन को इसका सह-लेखक माना जाता है।"
+    "answer": ["A", "C"],
+    "explanation": "मिहिर भोज ने 'आदिवराह' की उपाधि धारण की थी और उसके सिक्कों पर वराह की छवि अंकित मिलती है। साथ ही उसने महाराजाधिराज जैसी शाही उपाधियाँ भी प्रयोग कीं।"
   },
   {
     "id": 41,
-    "question": "एलोरा गुफाएँ किन-किन धर्मों से संबंधित हैं? / Ellora caves are associated with which religions?",
+    "question": "प्रतीहार वंश के पतन का मुख्य कारण क्या था? / What was the main reason for the decline of the Pratihara dynasty?",
     "options": {
-      "A": "हिन्दू धर्म (Hinduism)",
-      "B": "जैन धर्म (Jainism)",
-      "C": "बौद्ध धर्म (Buddhism)",
-      "D": "सिख धर्म (Sikhism)"
+      "A": "विदेशी आक्रमण / Foreign invasions",
+      "B": "प्रांतीय शासकों की स्वायत्तता / Autonomy of provincial rulers",
+      "C": "आर्थिक संकट / Economic crisis",
+      "D": "त्रिपक्षीय संघर्ष की थकावट / Exhaustion from the Tripartite Struggle"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "एलोरा गुफाओं में हिंदू, जैन और बौद्ध तीनों धर्मों की गुफाएँ हैं।"
+    "answer": ["A", "B", "D"],
+    "explanation": "प्रतीहार वंश के पतन के कई कारण थे: लगातार त्रिपक्षीय संघर्ष से कमजोर होना, प्रांतीय शासकों का स्वायत्त हो जाना और अरब-तुर्क आक्रमणों का दबाव। आर्थिक संकट ने इसे और गहरा किया लेकिन प्राथमिक कारण आक्रमण और राजनीतिक विखंडन रहे।"
   },
   {
     "id": 42,
-    "question": "राष्ट्रकूट काल में संस्कृत साहित्य का संरक्षण किस शासक ने किया? / Which ruler patronized Sanskrit literature during Rashtrakuta period?",
+    "question": "प्रतीहार वंश के किस शासक ने कन्नौज को राजधानी बनाया? / Which ruler of the Pratihara dynasty made Kannauj his capital?",
     "options": {
-      "A": "दंतिदुर्ग (Dantidurga)",
-      "B": "अमोघवर्ष प्रथम (Amoghavarsha I)",
-      "C": "कृष्ण I (Krishna I)",
-      "D": "गोविंद IV (Govinda IV)"
+      "A": "नागभट्ट द्वितीय / Nagabhata II",
+      "B": "मिहिर भोज / Mihira Bhoja",
+      "C": "रामभद्र / Ramabhadra",
+      "D": "यशोवर्मन / Yashovarman"
     },
     "answer": ["B"],
-    "explanation": "अमोघवर्ष प्रथम ने कन्नड़ के साथ-साथ संस्कृत साहित्य का भी संरक्षण किया।"
+    "explanation": "मिहिर भोज ने कन्नौज को अपनी राजधानी बनाया और इसे साम्राज्य का केन्द्र बनाया। इससे वह त्रिपक्षीय संघर्ष में एक प्रमुख शक्ति बन गया।"
   },
   {
     "id": 43,
-    "question": "प्रश्नोत्तर रत्नमालिका किस दार्शनिक परंपरा से जुड़ी है? / 'Prashnottara Ratnamalika' is associated with which philosophical tradition?",
+    "question": "अरब यात्रियों ने प्रतीहारों के राज्य के बारे में क्या उल्लेख किया है? / What did Arab travelers mention about the Pratihara kingdom?",
     "options": {
-      "A": "जैन दर्शन (Jain philosophy)",
-      "B": "वैदिक दर्शन (Vedic philosophy)",
-      "C": "अद्वैत वेदांत (Advaita Vedanta)",
-      "D": "सांख्य दर्शन (Samkhya philosophy)"
+      "A": "सेना बहुत बड़ी थी / The army was very large",
+      "B": "राजधानी में समृद्धि थी / The capital was prosperous",
+      "C": "राज्य राजनीतिक रूप से कमजोर था / The kingdom was politically weak",
+      "D": "शासक ने अरबों से संधि की थी / The ruler had a treaty with Arabs"
     },
-    "answer": ["C"],
-    "explanation": "‘प्रश्नोत्तर रत्नमालिका’ अद्वैत वेदांत दर्शन से संबंधित ग्रंथ है।"
+    "answer": ["A", "B"],
+    "explanation": "अरब यात्री सुलेमान ने 9वीं शताब्दी में लिखा कि प्रतीहारों की सेना विशाल थी (8-9 लाख सैनिक) और राजधानी समृद्ध थी। उसने राजनीतिक कमजोरी या संधि का उल्लेख नहीं किया।"
   },
   {
     "id": 44,
-    "question": "वेसर शैली का उद्गम किस क्षेत्र में माना जाता है? / The origin of Vesara style is associated with which region?",
+    "question": "गुर्जर-प्रतीहार वंश की राजधानी कौन-कौन सी रही? / Which were the capitals of the Gurjara-Pratihara dynasty at different times?",
     "options": {
-      "A": "दक्षिणी डेक्कन (Southern Deccan)",
-      "B": "गंगा-यमुना दोआब (Ganga-Yamuna Doab)",
-      "C": "राजस्थान (Rajasthan)",
-      "D": "बंगाल (Bengal)"
+      "A": "अवंती / Avanti",
+      "B": "मालवा / Malwa",
+      "C": "कन्नौज / Kannauj",
+      "D": "अजमेर / Ajmer"
     },
-    "answer": ["A"],
-    "explanation": "वेसर शैली का उद्गम दक्षिणी डेक्कन क्षेत्र में माना जाता है।"
+    "answer": ["B", "C"],
+    "explanation": "प्रतीहार वंश का प्रारंभिक केन्द्र मालवा क्षेत्र था, बाद में मिहिर भोज ने कन्नौज को राजधानी बनाया। अजमेर मुख्यतः चौहान वंश की राजधानी थी।"
   },
   {
     "id": 45,
-    "question": "राष्ट्रकूट शासकों के संरक्षण में कौन-सा धर्म विशेष रूप से फला-फूला? / Which religion especially flourished under the Rashtrakutas?",
+    "question": "प्रतीहार वंश को 'भारतीय संस्कृति का रक्षक' क्यों कहा जाता है? / Why is the Pratihara dynasty called the 'Protector of Indian culture'?",
     "options": {
-      "A": "शैव धर्म (Shaivism)",
-      "B": "वैष्णव धर्म (Vaishnavism)",
-      "C": "जैन धर्म (Jainism)",
-      "D": "बौद्ध धर्म (Buddhism)"
+      "A": "अरब आक्रमणकारियों को रोकना / Resisting Arab invaders",
+      "B": "भारतीय मंदिरों और विद्या का संरक्षण / Patronage of temples and learning",
+      "C": "त्रिपक्षीय संघर्ष में विजयी होना / Victory in the Tripartite Struggle",
+      "D": "बौद्ध धर्म का प्रचार / Propagation of Buddhism"
     },
-    "answer": ["A", "C"],
-    "explanation": "राष्ट्रकूटों ने विशेषकर शैव और जैन धर्म को संरक्षण प्रदान किया।"
+    "answer": ["A", "B"],
+    "explanation": "गुर्जर-प्रतीहारों ने अरब आक्रमणों को रोककर भारतीय संस्कृति की रक्षा की और मंदिर स्थापत्य व संस्कृत साहित्य को प्रोत्साहन दिया। इन्हें इसीलिए 'भारतीय संस्कृति का रक्षक' कहा गया।"
   },
   {
     "id": 46,
-    "question": "कैलासनाथ मंदिर की निर्माण तकनीक किस दृष्टि से अद्वितीय है? / In what sense is the construction technique of Kailasanatha temple unique?",
+    "question": "नागभट्ट द्वितीय के समय प्रतीहार वंश की शक्ति का मुख्य विस्तार किस क्षेत्र में हुआ? / Under Nagabhata II, in which region did the Pratihara dynasty expand its power?",
     "options": {
-      "A": "ऊपर से नीचे उत्खनन (Excavated from top to bottom)",
-      "B": "संपूर्ण एकाश्मक (Entirely monolithic)",
-      "C": "नागर शैली की शिखरयुक्त रचना (Nagara style tower)",
-      "D": "पूर्ण लकड़ी संरचना (Entirely wooden structure)"
+      "A": "कन्नौज / Kannauj",
+      "B": "गुजरात / Gujarat",
+      "C": "राजस्थान / Rajasthan",
+      "D": "बंगाल / Bengal"
     },
-    "answer": ["A", "B"],
-    "explanation": "कैलासनाथ मंदिर शिला को ऊपर से नीचे काटकर पूर्णत: एकाश्मक रूप में बनाया गया।"
+    "answer": ["A", "C"],
+    "explanation": "नागभट्ट द्वितीय ने कन्नौज को जीतकर अपना प्रभाव स्थापित किया और राजस्थान क्षेत्र में शक्ति का विस्तार किया। बंगाल पालों के अधीन रहा।"
   },
   {
     "id": 47,
-    "question": "अमोघवर्ष प्रथम को किस उपाधि से जाना जाता था? / By which title was Amoghavarsha I known?",
+    "question": "कन्नौज त्रिपक्षीय संघर्ष का अंतिम परिणाम क्या रहा? / What was the final result of the Kannauj Tripartite Struggle?",
     "options": {
-      "A": "अतिशंकर (Atishankara)",
-      "B": "अतिशुभ (Atishubha)",
-      "C": "अतिशुभश्री (Atishubhashri)",
-      "D": "अतिशयनिधि (Atishayanidhi)"
+      "A": "प्रतीहारों का वर्चस्व / Supremacy of the Pratiharas",
+      "B": "पालों की निर्णायक विजय / Decisive victory of the Palas",
+      "C": "राष्ट्रकूटों की स्थायी प्रभुता / Permanent supremacy of the Rashtrakutas",
+      "D": "तीनों वंश कमजोर हो गए / All three dynasties weakened"
     },
-    "answer": ["C"],
-    "explanation": "अमोघवर्ष प्रथम को ‘अतिशुभश्री’ की उपाधि दी गई थी।"
+    "answer": ["A", "D"],
+    "explanation": "कन्नौज अंततः प्रतीहारों के नियंत्रण में आया, लेकिन लंबे संघर्ष से तीनों वंश कमजोर हो गए। इससे नए राजवंशों (चंदेल, कलचुरी, पालवंशी) के उदय का मार्ग प्रशस्त हुआ।"
   },
   {
     "id": 48,
-    "question": "पट्टडकल मंदिर किस शिल्प के लिए प्रसिद्ध हैं? / Pattadakal temples are famous for which sculptural feature?",
+    "question": "गुर्जर-प्रतीहारों के सिक्कों की कौन-सी विशेषताएँ थीं? / What were the features of Gurjara-Pratihara coins?",
     "options": {
-      "A": "नृत्यमुद्राएँ (Dance postures)",
-      "B": "वीरगाथाएँ (Heroic narratives)",
-      "C": "पौराणिक कथाएँ (Mythological depictions)",
-      "D": "राजनीतिक दृश्य (Political scenes)"
+      "A": "वराह की छवि / Image of Varaha",
+      "B": "संस्कृत शिलालेख / Sanskrit inscriptions",
+      "C": "सोने और चाँदी के सिक्के / Gold and silver coins",
+      "D": "अरबी लिपि का प्रयोग / Use of Arabic script"
     },
-    "answer": ["A", "C"],
-    "explanation": "पट्टडकल मंदिरों में नृत्यमुद्राएँ और पौराणिक कथाओं का चित्रण प्रमुख है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "गुर्जर-प्रतीहारों के सिक्कों पर वराह की छवि अंकित थी और संस्कृत शिलालेख मिलते हैं। ये प्रायः सोने और चाँदी के बने होते थे। अरबी लिपि का प्रयोग नहीं मिलता।"
   },
   {
     "id": 49,
-    "question": "कविराजमार्ग के संरक्षण में किस दार्शनिक और साहित्यिक परंपरा का विकास हुआ? / Under Kavirajamarga’s patronage, which philosophical and literary traditions developed?",
+    "question": "अरब यात्री अल-मसूदी ने गुर्जर-प्रतीहार साम्राज्य के बारे में क्या लिखा? / What did Arab traveler Al-Masudi write about the Gurjara-Pratihara empire?",
     "options": {
-      "A": "जैन दर्शन और कन्नड़ साहित्य (Jain philosophy and Kannada literature)",
-      "B": "वैष्णव दर्शन और प्राकृत साहित्य (Vaishnava philosophy and Prakrit literature)",
-      "C": "बौद्ध दर्शन और संस्कृत साहित्य (Buddhist philosophy and Sanskrit literature)",
-      "D": "शैव दर्शन और तमिल साहित्य (Shaiva philosophy and Tamil literature)"
+      "A": "यह भारत का सबसे शक्तिशाली साम्राज्य था / It was the most powerful empire of India",
+      "B": "राजा गरीब था पर राज्य समृद्ध / The king was poor but the state was prosperous",
+      "C": "राज्य की सेना विशाल थी / The army of the state was huge",
+      "D": "राजा ने इस्लाम स्वीकार कर लिया था / The king accepted Islam"
     },
-    "answer": ["A"],
-    "explanation": "कविराजमार्ग के समय जैन दर्शन और कन्नड़ साहित्य दोनों का उत्कर्ष हुआ।"
+    "answer": ["A", "C"],
+    "explanation": "अल-मसूदी ने 10वीं शताब्दी में प्रतीहार साम्राज्य को भारत का सबसे शक्तिशाली साम्राज्य कहा और उसकी सेना की विशालता का उल्लेख किया। इस्लाम स्वीकार करने की बात निराधार है।"
   },
   {
     "id": 50,
-    "question": "राष्ट्रकूट कालीन साहित्यिक और सांस्कृतिक संरक्षण से कौन-सी विशेषताएँ स्पष्ट होती हैं? / What features are evident from Rashtrakuta literary and cultural patronage?",
+    "question": "गुर्जर-प्रतीहार वंश के अंत के बाद उत्तर भारत में कौन-सा वंश प्रमुख हुआ? / Which dynasty rose to prominence in North India after the decline of the Gurjara-Pratiharas?",
     "options": {
-      "A": "कन्नड़ और संस्कृत दोनों का संरक्षण (Patronage of both Kannada and Sanskrit)",
-      "B": "धार्मिक सहिष्णुता (Religious tolerance)",
-      "C": "शैव और जैन धर्म का समर्थन (Support to Shaivism and Jainism)",
-      "D": "एकमात्र संस्कृत पर जोर (Exclusive focus on Sanskrit)"
+      "A": "चौहान वंश / Chauhan dynasty",
+      "B": "गहड़वाल वंश / Gahadavala dynasty",
+      "C": "चंदेल वंश / Chandela dynasty",
+      "D": "पाण्ड्य वंश / Pandya dynasty"
+    },
+    "answer": ["B", "C"],
+    "explanation": "गुर्जर-प्रतीहारों के पतन के बाद कन्नौज पर गहड़वाल वंश का प्रभुत्व स्थापित हुआ। साथ ही मध्य भारत में चंदेल वंश का उत्थान हुआ। चौहान भी उभरे परंतु मुख्य शक्ति गहड़वाल और चंदेल बने।"
+  },
+  {
+    "id": 51,
+    "question": "प्रतीहार वंश की सैन्य शक्ति का मुख्य आधार क्या था? / What was the main basis of the military strength of the Pratihara dynasty?",
+    "options": {
+      "A": "घुड़सवार सेना / Cavalry",
+      "B": "हाथी सेना / Elephant corps",
+      "C": "नौसेना / Navy",
+      "D": "पैदल सेना / Infantry"
+    },
+    "answer": ["A", "B"],
+    "explanation": "प्रतीहार सेना में घुड़सवार और हाथी सेना का विशेष महत्व था। विशाल घुड़सवार सेना अरब आक्रमणकारियों को रोकने में सहायक रही। नौसेना का कोई विशेष महत्व प्रतीहारों के लिए नहीं था।"
+  },
+  {
+    "id": 52,
+    "question": "प्रतीहार वंश और राष्ट्रकूटों के बीच संघर्ष का मुख्य कारण क्या था? / What was the main reason for the conflict between the Pratiharas and the Rashtrakutas?",
+    "options": {
+      "A": "कन्नौज पर अधिकार / Control over Kannauj",
+      "B": "मालवा क्षेत्र का प्रभुत्व / Supremacy over Malwa region",
+      "C": "गुजरात की बंदरगाहें / Ports of Gujarat",
+      "D": "महाराष्ट्र क्षेत्र का नियंत्रण / Control of Maharashtra region"
+    },
+    "answer": ["A", "B"],
+    "explanation": "प्रतीहार और राष्ट्रकूटों में कन्नौज व मालवा के नियंत्रण को लेकर बार-बार संघर्ष हुआ। गुजरात और महाराष्ट्र पर दोनों का समान रूप से नियंत्रण नहीं था।"
+  },
+  {
+    "id": 53,
+    "question": "प्रतीहार वंश के पतन का लाभ किन राजवंशों को हुआ? / Which dynasties benefited from the decline of the Pratihara dynasty?",
+    "options": {
+      "A": "चंदेल / Chandelas",
+      "B": "चौहान / Chauhans",
+      "C": "परमार / Paramaras",
+      "D": "काकतीय / Kakatiyas"
     },
     "answer": ["A", "B", "C"],
-    "explanation": "राष्ट्रकूट काल में कन्नड़ और संस्कृत दोनों भाषाओं को संरक्षण मिला, साथ ही धार्मिक सहिष्णुता और शैव-जैन समर्थन भी स्पष्ट था।"
+    "explanation": "प्रतीहार वंश के पतन के बाद उत्तर भारत और मध्य भारत में चंदेल, चौहान और परमार शक्तिशाली हुए। काकतीय वंश दक्षिण भारत का था।"
+  },
+  {
+    "id": 54,
+    "question": "प्रतीहार वंश की प्रशासनिक विशेषताओं में क्या शामिल था? / What were the features of the Pratihara administration?",
+    "options": {
+      "A": "मंडल और देश स्तर का प्रशासन / Administration at Mandal and Desh level",
+      "B": "भूमि कर व्यवस्था / Land revenue system",
+      "C": "मंत्रिपरिषद का सहयोग / Assistance of a council of ministers",
+      "D": "स्थायी सेना / Standing army"
+    },
+    "answer": ["A", "B", "C", "D"],
+    "explanation": "प्रतीहार प्रशासन संगठित था। मंडल-देश-ग्राम प्रशासनिक ढाँचा था। भूमि कर प्रमुख राजस्व था। मंत्रिपरिषद शासक की मदद करती थी और स्थायी सेना रखी जाती थी।"
+  },
+  {
+    "id": 55,
+    "question": "प्रतीहार वंश ने किस स्थापत्य शैली को सबसे अधिक प्रोत्साहन दिया? / Which architectural style was most promoted by the Pratiharas?",
+    "options": {
+      "A": "नागर शैली / Nagara style",
+      "B": "द्रविड़ शैली / Dravidian style",
+      "C": "वेसर शैली / Vesara style",
+      "D": "पाली शैली / Pali style"
+    },
+    "answer": ["A"],
+    "explanation": "प्रतीहारों ने नागर शैली के मंदिर स्थापत्य को विशेष प्रोत्साहन दिया। ग्वालियर का तैलापति मंदिर और अन्य उदाहरण इसके प्रमाण हैं। द्रविड़ शैली दक्षिण भारत की थी।"
+  },
+  {
+    "id": 56,
+    "question": "गुर्जर-प्रतीहार वंश के अंतर्गत कौन-से प्रसिद्ध मंदिर बने? / Which famous temples were built under the Gurjara-Pratihara dynasty?",
+    "options": {
+      "A": "ग्वालियर का तैलापति मंदिर / Teli-ka-Mandir at Gwalior",
+      "B": "कन्नौज का शिव मंदिर / Shiva temple of Kannauj",
+      "C": "खजुराहो के मंदिर / Temples of Khajuraho",
+      "D": "अजंता गुफाएँ / Ajanta caves"
+    },
+    "answer": ["A", "B"],
+    "explanation": "गुर्जर-प्रतीहार काल में ग्वालियर का तैलापति मंदिर और कन्नौज का शिव मंदिर बने। खजुराहो के मंदिर चंदेलों के और अजंता गुफाएँ वाकाटक काल की हैं।"
+  },
+  {
+    "id": 57,
+    "question": "गुर्जर-प्रतीहार वंश के शासनकाल की प्रमुख आर्थिक विशेषता क्या थी? / What was the major economic feature of the Gurjara-Pratihara rule?",
+    "options": {
+      "A": "भूमि कर पर आधारित अर्थव्यवस्था / Economy based on land revenue",
+      "B": "व्यापारिक मार्गों पर नियंत्रण / Control over trade routes",
+      "C": "बंदरगाहों से विदेशी व्यापार / Foreign trade through ports",
+      "D": "नौसैनिक प्रभुता / Naval supremacy"
+    },
+    "answer": ["A", "B"],
+    "explanation": "प्रतीहारों की अर्थव्यवस्था भूमि कर पर आधारित थी और उन्होंने व्यापारिक मार्गों पर नियंत्रण रखा। विदेशी व्यापार और नौसैनिक प्रभुता पाल और चोलों की विशेषता थी।"
+  },
+  {
+    "id": 58,
+    "question": "गुर्जर-प्रतीहार शासकों की धार्मिक नीति क्या थी? / What was the religious policy of the Gurjara-Pratihara rulers?",
+    "options": {
+      "A": "मुख्यतः वैष्णव धर्म का पालन / Primarily followers of Vaishnavism",
+      "B": "शैव और शाक्त धर्म का भी समर्थन / Supported Shaivism and Shaktism as well",
+      "C": "बौद्ध धर्म का विशेष संरक्षण / Special patronage of Buddhism",
+      "D": "धार्मिक सहिष्णुता / Religious tolerance"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "प्रतीहार शासक मुख्यतः वैष्णव थे, परंतु शैव और शाक्त संप्रदायों को भी संरक्षण दिया और धार्मिक सहिष्णुता बरती। बौद्ध धर्म का संरक्षण पाल वंश ने किया।"
+  },
+  {
+    "id": 59,
+    "question": "गुर्जर-प्रतीहारों के प्रशासन में ग्राम का प्रमुख अधिकारी कौन था? / Who was the chief officer of the village in the administration of the Gurjara-Pratiharas?",
+    "options": {
+      "A": "ग्रामाध्यक्ष / Gramadhyaksha",
+      "B": "पटेल / Patel",
+      "C": "ग्रामभोजक / Gramabhojaka",
+      "D": "मुखिया / Mukhiya"
+    },
+    "answer": ["C"],
+    "explanation": "ग्राम स्तर पर प्रशासन का प्रमुख अधिकारी ग्रामभोजक होता था। वह कर वसूलने और ग्राम की व्यवस्था देखने का कार्य करता था।"
+  },
+  {
+    "id": 60,
+    "question": "गुर्जर-प्रतीहारों की उत्तर-पश्चिम भारत में ऐतिहासिक भूमिका क्या रही? / What was the historical role of the Gurjara-Pratiharas in North-West India?",
+    "options": {
+      "A": "अरब आक्रमणों को रोकना / Stopping Arab invasions",
+      "B": "भारतीय संस्कृति की रक्षा / Protecting Indian culture",
+      "C": "मध्य एशिया से संबंध स्थापित करना / Establishing relations with Central Asia",
+      "D": "नौसैनिक शक्ति का विस्तार / Expansion of naval power"
+    },
+    "answer": ["A", "B"],
+    "explanation": "गुर्जर-प्रतीहारों ने अरब आक्रमणों को सफलतापूर्वक रोका और भारतीय संस्कृति व सभ्यता की रक्षा की। नौसैनिक शक्ति और मध्य एशिया से संबंध उनकी विशेषता नहीं थी।"
   }
 ]
+  
