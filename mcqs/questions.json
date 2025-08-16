@@ -1,744 +1,132 @@
 [
   {
     "id": 1,
-    "question": "ह्वेनसांग के विवरण के अनुसार, हर्ष का राज्य प्रशासन किस सिद्धांत पर आधारित था? / According to Xuanzang's account, Harsha's administration was based on which principle?",
+    "question": "भारत में मानसून की अस्थिरता किस प्रकार से कृषि उत्पादन को प्रभावित करती है? / How does monsoon variability in India impact agricultural output?",
     "options": {
-      "A": "धर्म व दया (Dharma & Compassion)",
-      "B": "सैन्य बल (Military Strength)",
-      "C": "कठोर कर संग्रह (Strict Tax Collection)",
-      "D": "संपूर्ण धार्मिक स्वतंत्रता (Complete Religious Freedom)"
+      "A": "यह केवल खरीफ फसल को प्रभावित करता है / It only affects Kharif crops.",
+      "B": "यह सभी प्रकार की फसलों की उत्पादकता को सीधे प्रभावित करता है / It directly affects productivity of all crop types.",
+      "C": "सिर्फ सिंचित क्षेत्रों में प्रभाव होता है / It impacts only irrigated zones.",
+      "D": "यह केवल पश्चिमी घाट पर असर डालता है / It only impacts Western Ghats."
     },
-    "answer": ["A", "D"],
-    "explanation": "ह्वेनसांग के अनुसार हर्ष का शासन धर्म, दया और धार्मिक सहिष्णुता पर आधारित था, साथ ही लोगों को धार्मिक स्वतंत्रता प्राप्त थी।"
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 2,
-    "question": "हर्ष और पुलकेशिन द्वितीय के युद्ध में पुलकेशिन ने किस रणनीति से विजय प्राप्त की? / In the battle between Harsha and Pulakeshin II, what strategy led Pulakeshin to victory?",
+    "question": "ग्रीनहाउस गैसों की बढ़ोतरी का भारतीय कपास उद्योग पर क्या संभावित प्रभाव हो सकता है? / What is the potential impact of increased greenhouse gases on the Indian cotton industry?",
     "options": {
-      "A": "नदी की प्राकृतिक रक्षा (Natural river defense)",
-      "B": "तेज घुड़सवार आक्रमण (Swift cavalry attack)",
-      "C": "कूटनीतिक धोखा (Diplomatic deception)",
-      "D": "दक्षिण के साम्राज्यों का समर्थन (Support from southern kingdoms)"
+      "A": "बिना किसी प्रभाव के रहेगा / No significant impact.",
+      "B": "फाइबर की गुणवत्ता में सुधार होगा / It will improve fiber quality.",
+      "C": "कीट संक्रमण और उत्पादन में गिरावट / Increased pest attacks and reduced yield.",
+      "D": "रंगाई प्रक्रिया सस्ती हो जाएगी / Dyeing process will become cheaper."
     },
-    "answer": ["A", "B"],
-    "explanation": "पुलकेशिन द्वितीय ने नर्मदा नदी को प्राकृतिक रक्षा के रूप में उपयोग किया और तेज घुड़सवार हमलों से हर्ष की सेना को पीछे हटाया।"
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 3,
-    "question": "ह्वेनसांग के विवरण में 'कनौज' का क्या महत्व बताया गया है? / What importance did Xuanzang attribute to 'Kannauj'?",
+    "question": "जलवायु परिवर्तन के संदर्भ में 'क्रॉप डाइवर्सिफिकेशन' नीति का मुख्य लाभ क्या है? / What is the primary benefit of 'Crop Diversification' policy in context of climate change?",
     "options": {
-      "A": "धार्मिक केंद्र (Religious centre)",
-      "B": "राजधानी (Capital city)",
-      "C": "व्यापारिक केंद्र (Commercial hub)",
-      "D": "कला और शिक्षा का केंद्र (Centre of art and learning)"
+      "A": "नकद फसल उत्पादन बढ़ाना / Increase cash crop production.",
+      "B": "खाद की खपत बढ़ाना / Increase fertilizer usage.",
+      "C": "जलवायु जोखिम का प्रबंधन करना / Manage climate-related risk.",
+      "D": "खरीद मूल्य में स्थिरता लाना / Stabilize procurement prices."
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "ह्वेनसांग ने कनौज को हर्ष की राजधानी बताया जो धर्म, कला और शिक्षा का प्रमुख केंद्र था।"
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 4,
-    "question": "गुप्त साम्राज्य और उत्तर गुप्तों (Later Guptas) में मुख्य अंतर क्या था? / What was the main difference between the Imperial Gupta Empire and the Later Guptas?",
+    "question": "ग्लोबल वॉर्मिंग का भारत में चीनी उद्योग पर प्रभाव क्या हो सकता है? / What could be the impact of global warming on India's sugar industry?",
     "options": {
-      "A": "राजनीतिक शक्ति का स्तर (Level of political power)",
-      "B": "कला और वास्तुकला का विकास (Development of art & architecture)",
-      "C": "राजधानी का स्थान (Location of capital)",
-      "D": "विदेशी आक्रमणों का प्रभाव (Impact of foreign invasions)"
+      "A": "गन्ने की मिठास बढ़ेगी / Sugarcane sweetness will increase.",
+      "B": "कम सिंचाई से उपज बढ़ेगी / Less irrigation will boost yield.",
+      "C": "गन्ने की वृद्धि अवधि घटेगी / Growth period of sugarcane may reduce.",
+      "D": "उद्योग पूरी तरह लाभ में आ जाएगा / Industry will become entirely profitable."
     },
-    "answer": ["A", "D"],
-    "explanation": "गुप्त साम्राज्य अपने चरम पर राजनीतिक रूप से सशक्त था जबकि उत्तर गुप्त कमजोर थे और हून आक्रमणों से प्रभावित हुए।"
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 5,
-    "question": "हर्ष के साहित्यिक कार्यों में कौन-कौन से शामिल हैं? / Which of the following are literary works of Harsha?",
+    "question": "‘राष्ट्रीय कृषि विकास योजना’ का एक उद्देश्य क्या है? / What is one of the objectives of the Rashtriya Krishi Vikas Yojana (RKVY)?",
     "options": {
-      "A": "नागानंद (Nagananda)",
-      "B": "रत्नावली (Ratnavali)",
-      "C": "प्रियदर्शिका (Priyadarsika)",
-      "D": "कादंबरी (Kadambari)"
+      "A": "सिर्फ जैविक खेती को बढ़ावा देना / Promote only organic farming.",
+      "B": "राज्यों को कृषि निवेश निर्णयों में लचीलापन देना / Give states flexibility in agricultural investments.",
+      "C": "निजी बीज कंपनियों को सब्सिडी देना / Subsidize private seed companies.",
+      "D": "केवल गेहूं और चावल को बढ़ावा देना / Promote only wheat and rice."
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "हर्ष ने नागानंद, रत्नावली और प्रियदर्शिका नाटकों की रचना की; कादंबरी बाणभट्ट की रचना है।"
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 6,
-    "question": "बाणभट्ट द्वारा लिखित 'हर्षचरित' किस प्रकार का ग्रंथ है? / What type of work is Banabhatta's 'Harshacharita'?",
+    "question": "मालवा क्षेत्र में तापमान वृद्धि का किस उद्योग पर सीधा प्रभाव पड़ सकता है? / Rising temperatures in the Malwa region may directly impact which industry?",
     "options": {
-      "A": "चरित साहित्य (Biographical literature)",
-      "B": "ऐतिहासिक उपन्यास (Historical novel)",
-      "C": "नाट्यकृति (Dramatic work)",
-      "D": "धार्मिक ग्रंथ (Religious text)"
+      "A": "कपास उद्योग / Cotton industry",
+      "B": "सॉफ्टवेयर उद्योग / Software industry",
+      "C": "धातु उद्योग / Metal industry",
+      "D": "ट्रेडिंग सेक्टर / Trading sector"
     },
-    "answer": ["A"],
-    "explanation": "'हर्षचरित' बाणभट्ट द्वारा लिखा गया चरित साहित्य है जिसमें हर्ष का जीवन वर्णित है।"
+    "answer": [
+      "A"
+    ]
   },
   {
     "id": 7,
-    "question": "ह्वेनसांग के अनुसार हर्ष का कर संग्रह किस प्रकार होता था? / According to Xuanzang, how was Harsha's tax collection system?",
+    "question": "राष्ट्रीय खाद्य सुरक्षा मिशन (NFSM) के तहत किस जलवायु कारक को ध्यान में रखा जाता है? / Which climatic factor is considered under the National Food Security Mission (NFSM)?",
     "options": {
-      "A": "बहुत कम कर (Very low taxes)",
-      "B": "प्राकृतिक उपज के रूप में कर (Taxes in kind)",
-      "C": "नकद कर (Cash taxes)",
-      "D": "विदेशी व्यापार पर भारी कर (Heavy tax on foreign trade)"
+      "A": "गर्मी की लहरें / Heatwaves",
+      "B": "बारिश की अनिश्चितता / Rainfall variability",
+      "C": "ठंडे तूफान / Cold cyclones",
+      "D": "कोहरा / Fog"
     },
-    "answer": ["A", "B"],
-    "explanation": "ह्वेनसांग के अनुसार हर्ष का कर बहुत कम था और प्रायः उपज के रूप में वसूला जाता था।"
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 8,
-    "question": "पुलकेशिन द्वितीय और हर्ष के युद्ध का परिणाम क्या हुआ? / What was the result of the war between Pulakeshin II and Harsha?",
+    "question": "कृषि बीमा योजना में जलवायु जोखिम कैसे कवर किया जाता है? / How is climate risk covered in the Agricultural Insurance Scheme?",
     "options": {
-      "A": "हर्ष की पराजय (Defeat of Harsha)",
-      "B": "दक्षिण भारत में हर्ष का प्रभाव समाप्त (End of Harsha’s influence in South India)",
-      "C": "नर्मदा को सीमा के रूप में मानना (Recognition of Narmada as boundary)",
-      "D": "पुलकेशिन की कैद (Capture of Pulakeshin)"
+      "A": "केवल पशुधन को शामिल करके / Only livestock is covered",
+      "B": "मौसम आधारित बीमा के द्वारा / Through weather-based insurance",
+      "C": "खेती के उपकरणों का बीमा करके / By insuring farming tools",
+      "D": "बीज वितरण को नियंत्रित करके / By regulating seed distribution"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "पुलकेशिन ने हर्ष को हराया, नर्मदा को उत्तर-दक्षिण की सीमा के रूप में मान लिया गया, और हर्ष का दक्षिण में प्रभाव समाप्त हुआ।"
+    "answer": [
+      "B"
+    ]
   },
   {
     "id": 9,
-    "question": "गुप्त कालीन कला का स्वर्ण युग किन कारणों से माना जाता है? / Why is the Gupta period considered the golden age of art?",
+    "question": "जलवायु परिवर्तन का भारतीय चाय उद्योग पर दीर्घकालिक प्रभाव क्या हो सकता है? / What could be the long-term impact of climate change on India’s tea industry?",
     "options": {
-      "A": "अजंता की गुफाएं (Ajanta caves)",
-      "B": "सारनाथ की मूर्तियां (Sarnath sculptures)",
-      "C": "नालंदा विश्वविद्यालय का विकास (Growth of Nalanda University)",
-      "D": "पाटलिपुत्र का पुनर्निर्माण (Reconstruction of Pataliputra)"
+      "A": "उत्पादन लागत घटेगी / Lower production costs",
+      "B": "सभी क्षेत्रों में चाय उगाने में वृद्धि / Tea cultivation will expand everywhere",
+      "C": "गुणवत्ता में गिरावट और उत्पादकता में कमी / Decline in quality and productivity",
+      "D": "चाय की मांग समाप्त हो जाएगी / Demand for tea will vanish"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "गुप्त काल को कला का स्वर्ण युग अजंता की भित्ति चित्रकारी, सारनाथ की मूर्तिकला और नालंदा के विकास के कारण कहा जाता है।"
+    "answer": [
+      "C"
+    ]
   },
   {
     "id": 10,
-    "question": "हर्ष के दरबार में बाणभट्ट के अलावा और कौन-कौन विद्वान थे? / Apart from Banabhatta, who were the other scholars in Harsha’s court?",
+    "question": "भारत की ‘राष्ट्रीय जैव ऊर्जा नीति’ किस जलवायु लक्ष्य से जुड़ी है? / India’s National Bio-Energy Policy is associated with which climate goal?",
     "options": {
-      "A": "मातंग दिवाकर (Matanga Divakara)",
-      "B": "धवन (Dhavaka)",
-      "C": "ह्वेनसांग (Xuanzang)",
-      "D": "कालिदास (Kalidasa)"
+      "A": "जलवायु प्रवास नियंत्रण / Control climate migration",
+      "B": "ग्रीनहाउस गैस उत्सर्जन में कटौती / Reduce greenhouse gas emissions",
+      "C": "जैव विविधता बढ़ाना / Increase biodiversity",
+      "D": "शहरीकरण को बढ़ावा देना / Promote urbanization"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "हर्ष के दरबार में बाणभट्ट के साथ मातंग दिवाकर, कवि धवन और चीनी यात्री ह्वेनसांग उपस्थित रहते थे।"
-  },
-  {
-    "id": 11,
-    "question": "हर्ष के समय का प्रयाग प्रशस्ति शिलालेख किसने लिखा था? / Who wrote the Prayaga Prashasti inscription of Harsha’s time?",
-    "options": {
-      "A": "बाणभट्ट (Banabhatta)",
-      "B": "हर्षवर्धन (Harshavardhana)",
-      "C": "रविकीरति (Ravikirti)",
-      "D": "भानुचंद्र (Bhanu Chandra)"
-    },
-    "answer": ["C"],
-    "explanation": "प्रयाग प्रशस्ति शिलालेख का लेखक पुलकेशिन द्वितीय के मंत्री और कवि रविकीरति थे।"
-  },
-  {
-    "id": 12,
-    "question": "अलहाबाद स्तंभ शिलालेख किन-किन कालों से संबंधित है? / The Allahabad pillar inscription is associated with which periods?",
-    "options": {
-      "A": "अशोक (Ashoka)",
-      "B": "समुद्रगुप्त (Samudragupta)",
-      "C": "जहाँगीर (Jahangir)",
-      "D": "हर्षवर्धन (Harshavardhana)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "अलहाबाद स्तंभ पर अशोक के शिलालेख, समुद्रगुप्त की प्रयाग प्रशस्ति और जहाँगीर के शिलालेख मिलते हैं।"
-  },
-  {
-    "id": 13,
-    "question": "बाणभट्ट की 'कादंबरी' किस रूप में प्रसिद्ध है? / In what form is Banabhatta’s 'Kadambari' famous?",
-    "options": {
-      "A": "प्रथम उपन्यास (First novel)",
-      "B": "काव्य (Poetry)",
-      "C": "नाट्यकृति (Drama)",
-      "D": "प्रबंध (Prose romance)"
-    },
-    "answer": ["D"],
-    "explanation": "'कादंबरी' संस्कृत गद्य का उत्कृष्ट उदाहरण और एक प्रबंध कथा (prose romance) है।"
-  },
-  {
-    "id": 14,
-    "question": "हर्ष की 'नागानंद' नाटक की मुख्य थीम क्या है? / What is the main theme of Harsha’s 'Nagananda' play?",
-    "options": {
-      "A": "बोधिसत्व का त्याग (Bodhisattva's sacrifice)",
-      "B": "प्रेम और राजनीति (Love and politics)",
-      "C": "धार्मिक परिवर्तन (Religious conversion)",
-      "D": "सैन्य विजय (Military victory)"
-    },
-    "answer": ["A"],
-    "explanation": "'नागानंद' बोधिसत्व जिमुतवाहन के त्याग और करुणा पर आधारित है।"
-  },
-  {
-    "id": 15,
-    "question": "पुलकेशिन द्वितीय के दरबार में प्रयाग प्रशस्ति के समकक्ष कौन-सा शिलालेख था? / Which inscription in Pulakeshin II's court was equivalent to Prayaga Prashasti?",
-    "options": {
-      "A": "ऐहोल प्रशस्ति (Aihole Prashasti)",
-      "B": "हथिगुंफा शिलालेख (Hathigumpha Inscription)",
-      "C": "बेलगाम शिलालेख (Belgaum Inscription)",
-      "D": "कनकदुर्ग शिलालेख (Kanakdurga Inscription)"
-    },
-    "answer": ["A"],
-    "explanation": "ऐहोल प्रशस्ति पुलकेशिन द्वितीय के मंत्री रविकीरति द्वारा रचित थी, जो प्रयाग प्रशस्ति के समकक्ष मानी जाती है।"
-  },
-  {
-    "id": 16,
-    "question": "ह्वेनसांग ने हर्ष के शासनकाल में शिक्षा व्यवस्था के बारे में क्या उल्लेख किया? / What did Xuanzang mention about the education system during Harsha’s reign?",
-    "options": {
-      "A": "नालंदा विश्वविद्यालय की ख्याति (Fame of Nalanda University)",
-      "B": "मठों में शिक्षा (Education in monasteries)",
-      "C": "विदेशी छात्रों का आगमन (Arrival of foreign students)",
-      "D": "केवल धार्मिक शिक्षा (Only religious education)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "ह्वेनसांग ने नालंदा की ख्याति, मठ आधारित शिक्षा और विदेशी छात्रों के आगमन का उल्लेख किया।"
-  },
-  {
-    "id": 17,
-    "question": "उत्तर गुप्त काल की राजनीतिक कमजोरी के क्या कारण थे? / What were the reasons for political weakness during Later Gupta period?",
-    "options": {
-      "A": "हूण आक्रमण (Huna invasions)",
-      "B": "प्रांतीय विद्रोह (Provincial revolts)",
-      "C": "केंद्र का अस्थिर होना (Instability at the centre)",
-      "D": "कृषि उत्पादन में गिरावट (Decline in agricultural output)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "उत्तर गुप्त काल की कमजोरी हूण आक्रमण, प्रांतीय विद्रोह और केंद्र की अस्थिरता के कारण हुई।"
-  },
-  {
-    "id": 18,
-    "question": "कौन-सा शिलालेख हर्ष और पुलकेशिन द्वितीय के संघर्ष का विवरण देता है? / Which inscription gives an account of the conflict between Harsha and Pulakeshin II?",
-    "options": {
-      "A": "ऐहोल प्रशस्ति (Aihole Prashasti)",
-      "B": "अलहाबाद स्तंभ शिलालेख (Allahabad Pillar Inscription)",
-      "C": "बेलगाम शिलालेख (Belgaum Inscription)",
-      "D": "हथिगुंफा शिलालेख (Hathigumpha Inscription)"
-    },
-    "answer": ["A"],
-    "explanation": "ऐहोल प्रशस्ति में पुलकेशिन द्वितीय और हर्ष के संघर्ष का विवरण मिलता है।"
-  },
-  {
-    "id": 19,
-    "question": "बाणभट्ट के अनुसार हर्ष की व्यक्तिगत विशेषताएं क्या थीं? / According to Banabhatta, what were Harsha’s personal qualities?",
-    "options": {
-      "A": "विद्वता (Scholarship)",
-      "B": "सैन्य कौशल (Military skill)",
-      "C": "धार्मिक सहिष्णुता (Religious tolerance)",
-      "D": "कठोर शासन (Harsh rule)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "बाणभट्ट ने हर्ष को विद्वान, युद्धकुशल और धार्मिक रूप से सहिष्णु बताया।"
-  },
-  {
-    "id": 20,
-    "question": "नालंदा विश्वविद्यालय के उत्थान का श्रेय हर्ष के किस कार्य को जाता है? / The rise of Nalanda University during Harsha’s reign is credited to which of his actions?",
-    "options": {
-      "A": "राजकीय अनुदान (Royal grants)",
-      "B": "विदेशी विद्वानों का आमंत्रण (Invitation to foreign scholars)",
-      "C": "करों में छूट (Tax exemptions)",
-      "D": "मठों का विस्तार (Expansion of monasteries)"
-    },
-    "answer": ["A", "B", "D"],
-    "explanation": "हर्ष ने नालंदा को राजकीय अनुदान दिया, विदेशी विद्वानों को आमंत्रित किया और मठों का विस्तार किया।"
-  },
-  {
-    "id": 21,
-    "question": "हरषवर्धन ने अपनी राजधानी थानेसर से कन्नौज क्यों स्थानांतरित की? / Why did Harshavardhana shift his capital from Thanesar to Kannauj?",
-    "options": {
-      "A": "भौगोलिक व सामरिक दृष्टि से अधिक अनुकूल स्थान / Geographically and strategically more suitable location",
-      "B": "गंगा घाटी पर राजनीतिक प्रभाव बढ़ाना / To increase political influence over the Ganga valley",
-      "C": "पुलकेशिन द्वितीय से पराजय के बाद मजबूरी में / Due to compulsion after defeat by Pulakeshin II",
-      "D": "बौद्ध धर्म केंद्रों के समीप होना / Proximity to Buddhist centers"
-    },
-    "correct_answers": ["A", "B", "D"],
-    "answer": "A, B, D",
-    "explanation": "हरषवर्धन ने राजधानी कन्नौज स्थानांतरित की क्योंकि यह सामरिक दृष्टि से बेहतर, गंगा घाटी पर राजनीतिक प्रभाव के लिए केंद्रीय और बौद्ध गतिविधियों के केंद्रों के निकट था; पुलकेशिन द्वितीय से युध्द बाद यह निर्णय नहीं लिया गया था।"
-  },
-  {
-    "id": 22,
-    "question": "हरषवर्धन के साम्राज्य की सीमाएं किन-किन क्षेत्रों तक फैली थीं? / Which regions did Harshavardhana’s empire extend to?",
-    "options": {
-      "A": "कश्मीर से नर्मदा तक / From Kashmir to Narmada",
-      "B": "बंगाल और असम तक / Till Bengal and Assam",
-      "C": "कच्छ और सिंध तक / Till Kutch and Sindh",
-      "D": "पंजाब से बिहार तक / From Punjab to Bihar"
-    },
-    "correct_answers": ["A", "B", "D"],
-    "answer": "A, B, D",
-    "explanation": "हरषवर्धन का साम्राज्य उत्तर भारत में फैला था जिसमें पंजाब, कश्मीर, गंगा घाटी, बंगाल और असम सम्मिलित थे; दक्षिण में नर्मदा तक विस्तार था, लेकिन कच्छ और सिंध उनके अधीन नहीं थे।"
-  },
-  {
-    "id": 23,
-    "question": "अइहोले अभिलेख (Aihole inscription) का संबंध किस घटना से है? / The Aihole inscription is related to which event?",
-    "options": {
-      "A": "हरषवर्धन की विजय / Victory of Harshavardhana",
-      "B": "पुलकेशिन द्वितीय की विजय / Victory of Pulakeshin II",
-      "C": "रविकीरति द्वारा रचित / Composed by Ravikirti",
-      "D": "कन्नौज की संधि / Treaty of Kannauj"
-    },
-    "correct_answers": ["B", "C"],
-    "answer": "B, C",
-    "explanation": "अइहोले अभिलेख चालुक्य राजा पुलकेशिन द्वितीय की विजय का वर्णन करता है और इसे दरबारी कवि रविकीरति ने रचा था; इसमें हरष की पराजय का भी उल्लेख है।"
-  },
-  {
-    "id": 24,
-    "question": "भास्करवर्मन किस क्षेत्र के शासक थे और हरष से उनका संबंध कैसा था? / Bhaskaravarman was ruler of which region and what was his relation with Harsha?",
-    "options": {
-      "A": "असम / Assam",
-      "B": "मित्र व सहयोगी / Ally and friend",
-      "C": "शत्रु / Enemy",
-      "D": "बंगाल / Bengal"
-    },
-    "correct_answers": ["A", "B"],
-    "answer": "A, B",
-    "explanation": "भास्करवर्मन कामरूप (असम) के शासक थे और हरषवर्धन के राजनीतिक सहयोगी व मित्र थे; दोनों ने मिलकर कई अभियानों में सहयोग किया।"
-  },
-  {
-    "id": 25,
-    "question": "ह्वेनसांग (Xuanzang) के विवरण में हरषवर्धन के किस पक्ष का विशेष उल्लेख है? / Which aspect of Harshavardhana is prominently mentioned in Xuanzang’s account?",
-    "options": {
-      "A": "धार्मिक सहिष्णुता / Religious tolerance",
-      "B": "व्यक्तिगत प्रशासनिक भूमिका / Personal administrative role",
-      "C": "सैन्य संगठन / Military organization",
-      "D": "दक्षिण भारत पर विजय / Conquest of South India"
-    },
-    "correct_answers": ["A", "B", "C"],
-    "answer": "A, B, C",
-    "explanation": "ह्वेनसांग ने हरष की धार्मिक सहिष्णुता, व्यक्तिगत प्रशासनिक भागीदारी और संगठित सेना का उल्लेख किया है; दक्षिण भारत की विजय का उल्लेख नहीं मिलता।"
-  },
-  {
-    "id": 26,
-    "question": "अग्रहारा भूमि अनुदान का उद्देश्य क्या था? / What was the purpose of Agrahara land grants?",
-    "options": {
-      "A": "ब्राह्मणों को धार्मिक व शैक्षिक कार्यों हेतु भूमि देना / To grant land to Brahmins for religious and educational purposes",
-      "B": "राजस्व वसूलना / To collect revenue",
-      "C": "सैनिकों को पुरस्कृत करना / To reward soldiers",
-      "D": "गांव का पूरा राजस्व अधिकार देना / To grant full revenue rights of a village"
-    },
-    "correct_answers": ["A", "D"],
-    "answer": "A, D",
-    "explanation": "अग्रहारा भूमि अनुदान में ब्राह्मणों को गांव का पूर्ण राजस्व अधिकार धार्मिक व शैक्षिक कार्यों के लिए दिया जाता था; यह सैनिक पुरस्कार के लिए नहीं था।"
-  },
-  {
-    "id": 27,
-    "question": "हरषवर्धन प्रारंभ में किस धर्म के अनुयायी थे और बाद में किस धर्म को अपनाया? / Which religion did Harshavardhana initially follow and which did he adopt later?",
-    "options": {
-      "A": "शैव / Shaiva",
-      "B": "वैष्णव / Vaishnava",
-      "C": "महायान बौद्ध / Mahayana Buddhist",
-      "D": "जैन / Jain"
-    },
-    "correct_answers": ["A", "C"],
-    "answer": "A, C",
-    "explanation": "हरषवर्धन प्रारंभ में शैव धर्म के अनुयायी थे, लेकिन बाद में महायान बौद्ध धर्म के संरक्षक बने।"
-  },
-  {
-    "id": 28,
-    "question": "कन्नौज बौद्ध महासभा का आयोजन किसने और किसके प्रभाव में किया? / Who organized the Kannauj Buddhist assembly and under whose influence?",
-    "options": {
-      "A": "हरषवर्धन / Harshavardhana",
-      "B": "ह्वेनसांग / Xuanzang",
-      "C": "भास्करवर्मन / Bhaskaravarman",
-      "D": "पुलकेशिन द्वितीय / Pulakeshin II"
-    },
-    "correct_answers": ["A", "B"],
-    "answer": "A, B",
-    "explanation": "कन्नौज बौद्ध महासभा का आयोजन हरषवर्धन ने किया और यह ह्वेनसांग के प्रभाव में था; इसमें कई राज्यों के प्रतिनिधि शामिल हुए।"
-  },
-  {
-    "id": 29,
-    "question": "प्रयाग में हरषवर्धन द्वारा आयोजित पाँच-वर्षीय धार्मिक सभा में क्या विशेष था? / What was special about the five-yearly religious congregation at Prayag organized by Harsha?",
-    "options": {
-      "A": "सभी धर्मों के प्रतिनिधियों को आमंत्रित करना / Inviting representatives of all religions",
-      "B": "राजकोष का बड़ा भाग दान करना / Donating a major part of the royal treasury",
-      "C": "सैन्य प्रदर्शन / Military parade",
-      "D": "गंगा स्नान का आयोजन / Organizing Ganga bathing"
-    },
-    "correct_answers": ["A", "B", "D"],
-    "answer": "A, B, D",
-    "explanation": "प्रयाग सभा में हरष सभी धर्मों के प्रतिनिधियों को आमंत्रित करते, राजकोष का अधिकांश भाग दान करते और गंगा स्नान का आयोजन भी होता; यह सैन्य प्रदर्शन का मंच नहीं था।"
-  },
-  {
-    "id": 30,
-    "question": "बाणभट्ट ने हरषवर्धन के दरबार में कौन-कौन से ग्रंथ लिखे? / Which works did Banabhatta compose in Harsha’s court?",
-    "options": {
-      "A": "हर्षचरित / Harshacharita",
-      "B": "कादंबरी / Kadambari",
-      "C": "नागानंद / Nagananda",
-      "D": "रत्नावली / Ratnavali"
-    },
-    "correct_answers": ["A", "B"],
-    "answer": "A, B",
-    "explanation": "बाणभट्ट ने हरष के दरबार में 'हर्षचरित' और 'कादंबरी' लिखी; 'नागानंद' और 'रत्नावली' स्वयं हरष द्वारा रचित नाटक थे।"
-  },
-  {
-    "id": 31,
-    "question": "हरषवर्धन द्वारा रचित नाटकों में कौन-कौन से सम्मिलित हैं? / Which plays were composed by Harshavardhana?",
-    "options": {
-      "A": "नागानंद / Nagananda",
-      "B": "प्रियदर्शिका / Priyadarshika",
-      "C": "रत्नावली / Ratnavali",
-      "D": "कादंबरी / Kadambari"
-    },
-    "correct_answers": ["A", "B", "C"],
-    "answer": "A, B, C",
-    "explanation": "हरषवर्धन द्वारा रचित नाटक 'नागानंद', 'प्रियदर्शिका' और 'रत्नावली' हैं; 'कादंबरी' बाणभट्ट द्वारा लिखी गई थी।"
-  },
-  {
-    "id": 32,
-    "question": "ह्वेनसांग द्वारा लिखित यात्रा-वृत्तांत का नाम क्या है? / What is the name of Xuanzang’s travelogue?",
-    "options": {
-      "A": "सी-यू-की / Si-yu-ki",
-      "B": "फो-को-किंग / Fo-ko-king",
-      "C": "हर्षचरित / Harshacharita",
-      "D": "महावस्तु / Mahavastu"
-    },
-    "correct_answers": ["A"],
-    "answer": "A",
-    "explanation": "ह्वेनसांग द्वारा लिखित यात्रा-वृत्तांत का नाम 'सी-यू-की' है, जिसमें भारत और हरष के शासन का विस्तार से वर्णन है।"
-  },
-  {
-    "id": 33,
-    "question": "हरषवर्धन के प्रशासन में सामंतवाद की क्या भूमिका थी? / What was the role of feudal polity in Harsha’s administration?",
-    "options": {
-      "A": "स्थानीय शासकों को सैन्य और राजस्व अधिकार देना / Granting military and revenue rights to local rulers",
-      "B": "केंद्र की शक्ति को मजबूत करना / Strengthening central authority",
-      "C": "प्रशासन का विकेंद्रीकरण / Decentralization of administration",
-      "D": "धार्मिक नियंत्रण बढ़ाना / Increasing religious control"
-    },
-    "correct_answers": ["A", "C"],
-    "answer": "A, C",
-    "explanation": "हरष के समय सामंतों को सैन्य व राजस्व अधिकार दिए गए, जिससे प्रशासन विकेंद्रीकृत हुआ; इसने केंद्रीय सत्ता को उतना मजबूत नहीं किया जितना स्थानीय प्रभुत्व को।"
-  },
-  {
-    "id": 34,
-    "question": "हरषवर्धन की राजस्व प्रणाली के मुख्य स्रोत क्या थे? / What were the main sources of Harshavardhana’s revenue system?",
-    "options": {
-      "A": "भूमि कर / Land tax",
-      "B": "व्यापार शुल्क / Trade duties",
-      "C": "जल कर / Water tax",
-      "D": "पशु कर / Animal tax"
-    },
-    "correct_answers": ["A", "B"],
-    "answer": "A, B",
-    "explanation": "हरष के राजस्व के मुख्य स्रोत भूमि कर और व्यापार शुल्क थे; जल कर और पशु कर का प्रमुख उल्लेख नहीं मिलता।"
-  },
-  {
-    "id": 35,
-    "question": "हरष की धार्मिक नीति का विशेष पहलू क्या था? / What was a special aspect of Harsha’s religious policy?",
-    "options": {
-      "A": "सभी धर्मों के प्रति सहिष्णुता / Tolerance towards all religions",
-      "B": "बौद्ध धर्म को एकमात्र संरक्षण / Exclusive patronage to Buddhism",
-      "C": "हिंदू और बौद्ध संस्थाओं दोनों का समर्थन / Support to both Hindu and Buddhist institutions",
-      "D": "जैन धर्म को संरक्षण / Patronage to Jainism"
-    },
-    "correct_answers": ["A", "C"],
-    "answer": "A, C",
-    "explanation": "हरष ने सभी धर्मों के प्रति सहिष्णु नीति अपनाई और हिंदू व बौद्ध संस्थानों दोनों को संरक्षण दिया; केवल बौद्ध धर्म को ही संरक्षण नहीं दिया।"
-  },
-  {
-    "id": 36,
-    "question": "हरष और पुलकेशिन द्वितीय के संघर्ष का परिणाम क्या रहा? / What was the result of the conflict between Harsha and Pulakeshin II?",
-    "options": {
-      "A": "हरष की विजय / Victory of Harsha",
-      "B": "पुलकेशिन द्वितीय की विजय / Victory of Pulakeshin II",
-      "C": "नर्मदा को सीमा मानने की संधि / Treaty recognizing Narmada as boundary",
-      "D": "हरष का दक्षिण भारत पर अधिकार / Harsha’s control over South India"
-    },
-    "correct_answers": ["B", "C"],
-    "answer": "B, C",
-    "explanation": "पुलकेशिन द्वितीय ने हरष को पराजित किया और नर्मदा को दोनों साम्राज्यों की सीमा के रूप में मान्यता मिली।"
-  },
-  {
-    "id": 37,
-    "question": "कौन-सा स्रोत हरष के जीवन का प्रत्यक्ष समकालीन विवरण देता है? / Which source gives a direct contemporary account of Harsha’s life?",
-    "options": {
-      "A": "हर्षचरित / Harshacharita",
-      "B": "सी-यू-की / Si-yu-ki",
-      "C": "अइहोले अभिलेख / Aihole inscription",
-      "D": "रत्नावली / Ratnavali"
-    },
-    "correct_answers": ["A", "B"],
-    "answer": "A, B",
-    "explanation": "'हर्षचरित' बाणभट्ट द्वारा और 'सी-यू-की' ह्वेनसांग द्वारा लिखे गए प्रत्यक्ष समकालीन स्रोत हैं; अइहोले अभिलेख मुख्यतः पुलकेशिन द्वितीय की विजय का विवरण है।"
-  },
-  {
-    "id": 38,
-    "question": "हरषवर्धन के नाटकों का विषय-वस्तु क्या थी? / What was the theme of Harshavardhana’s plays?",
-    "options": {
-      "A": "धार्मिक कथाएं / Religious tales",
-      "B": "रोमांटिक कथाएं / Romantic tales",
-      "C": "राजनीतिक व्यंग्य / Political satire",
-      "D": "दर्शन व नैतिकता / Philosophy and morality"
-    },
-    "correct_answers": ["A", "B", "D"],
-    "answer": "A, B, D",
-    "explanation": "हरष के नाटक धार्मिक, रोमांटिक और नैतिक-दर्शन आधारित विषयों पर केंद्रित थे; राजनीतिक व्यंग्य इनमें नहीं था।"
-  },
-  {
-    "id": 39,
-    "question": "हरषवर्धन की सभा में भाग लेने वाला विदेशी यात्री कौन था? / Which foreign traveller attended Harshavardhana’s assembly?",
-    "options": {
-      "A": "फाह्यान / Faxian",
-      "B": "ह्वेनसांग / Xuanzang",
-      "C": "अल-बरूनी / Al-Biruni",
-      "D": "इब्न बतूता / Ibn Battuta"
-    },
-    "correct_answers": ["B"],
-    "answer": "B",
-    "explanation": "ह्वेनसांग (Xuanzang) ने हरष की सभा में भाग लिया और उसके शासन का प्रत्यक्ष विवरण दिया; अन्य यात्री विभिन्न कालों से संबंधित हैं।"
-  },
-  {
-    "id": 40,
-    "question": "हरषवर्धन द्वारा प्रयाग सभा में दान का महत्व क्या था? / What was the significance of Harsha’s donation in the Prayag assembly?",
-    "options": {
-      "A": "धार्मिक एकता को बढ़ावा / Promotion of religious unity",
-      "B": "प्रजा में लोकप्रियता / Popularity among subjects",
-      "C": "आर्थिक स्थिरता / Economic stability",
-      "D": "धार्मिक संस्थानों का पोषण / Support of religious institutions"
-    },
-    "correct_answers": ["A", "B", "D"],
-    "answer": "A, B, D",
-    "explanation": "हरष द्वारा प्रयाग सभा में दान धार्मिक एकता, प्रजा में लोकप्रियता और धार्मिक संस्थानों के पोषण का प्रतीक था; आर्थिक स्थिरता इसका मुख्य उद्देश्य नहीं था।"
-  },
-  {
-    "id": 41,
-    "question": "उत्तर गुप्तों का उद्भव और प्रमुख शासन क्षेत्र कौन-से थे? / What was the origin and main territorial extent of the Later Guptas?",
-    "options": {
-      "A": "मगध और बिहार के भाग (Magadha & parts of Bihar)",
-      "B": "मालवा और गुजरात (Malwa & Gujarat)",
-      "C": "6वीं–7वीं शताब्दी ईस्वी (6th–7th century CE)",
-      "D": "कश्मीर और पंजाब (Kashmir & Punjab)"
-    },
-    "answer": ["A", "C"],
-    "explanation": "उत्तर गुप्तों का उद्भव 6वीं–7वीं शताब्दी ईस्वी में हुआ और इनका शासन मुख्यतः मगध व बिहार के भागों में था।"
-  },
-  {
-    "id": 42,
-    "question": "गुप्त साम्राज्य और उत्तर गुप्तों के बीच कौन-से प्रमुख अंतर पाए जाते हैं? / Which are the major distinctions between the Imperial Guptas and the Later Guptas?",
-    "options": {
-      "A": "राजनीतिक शक्ति में गिरावट (Decline in political power)",
-      "B": "सांस्कृतिक पतन (Cultural decline)",
-      "C": "अधिक क्षेत्रीय सीमितता (More regional limitation)",
-      "D": "विदेशी आक्रमणों का असर (Impact of foreign invasions)"
-    },
-    "answer": ["A", "C", "D"],
-    "explanation": "उत्तर गुप्त राजनीतिक रूप से कमजोर थे, सीमित क्षेत्र पर शासन करते थे और हूण जैसे विदेशी आक्रमणों से प्रभावित हुए।"
-  },
-  {
-    "id": 43,
-    "question": "उत्तर गुप्तों का शासनकाल मुख्यतः किन क्षेत्रों में था? / The Later Guptas ruled mainly over which areas?",
-    "options": {
-      "A": "मगध (Magadha)",
-      "B": "अंग (Anga)",
-      "C": "बंगाल (Bengal)",
-      "D": "कांची (Kanchi)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "उत्तर गुप्तों का शासन मगध, अंग और कुछ समय के लिए बंगाल के हिस्सों तक फैला था।"
-  },
-  {
-    "id": 44,
-    "question": "उत्तर गुप्तों के उल्लेखनीय शासक कौन-कौन थे? / Who were the notable rulers of the Later Guptas?",
-    "options": {
-      "A": "कृष्णगुप्त (Krishna Gupta)",
-      "B": "कुमारगुप्त तृतीय (Kumaragupta III)",
-      "C": "दामोदरगुप्त (Damodaragupta)",
-      "D": "आदित्यसेन (Adityasena)"
-    },
-    "answer": ["A", "B", "C", "D"],
-    "explanation": "उत्तर गुप्तों के प्रमुख शासकों में कृष्णगुप्त, कुमारगुप्त III, दामोदरगुप्त और आदित्यसेन शामिल थे।"
-  },
-  {
-    "id": 45,
-    "question": "उत्तर गुप्तों का मुख्य राजनीतिक प्रतिद्वंदी कौन था? / Who was the main political rival of the Later Guptas?",
-    "options": {
-      "A": "मौखरी (Maukhari)",
-      "B": "हूण (Hunas)",
-      "C": "चालुक्य (Chalukyas)",
-      "D": "पल्लव (Pallavas)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "उत्तर गुप्तों का संघर्ष मौखरी शासकों और हूण आक्रमणकारियों से हुआ।"
-  },
-  {
-    "id": 46,
-    "question": "उत्तर गुप्तों के पतन का कारण क्या था? / What was the main cause of the Later Guptas’ decline?",
-    "options": {
-      "A": "हर्ष द्वारा पराजय (Defeat by Harsha)",
-      "B": "आर्थिक पतन (Economic decline)",
-      "C": "आंतरिक विद्रोह (Internal revolts)",
-      "D": "समुद्री व्यापार में गिरावट (Decline in maritime trade)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "उत्तर गुप्तों को हर्ष ने पराजित किया और आर्थिक पतन ने इनके शासन को कमजोर किया।"
-  },
-  {
-    "id": 47,
-    "question": "उत्तर गुप्त काल में व्यापार और नगरों की स्थिति कैसी थी? / What was the state of trade and urban centres during the Later Gupta period?",
-    "options": {
-      "A": "व्यापार में गिरावट (Decline in trade)",
-      "B": "शहरी केंद्रों का पतन (Decline of urban centres)",
-      "C": "अंतर्राष्ट्रीय व्यापार में वृद्धि (Increase in international trade)",
-      "D": "ग्राम आधारित अर्थव्यवस्था का विकास (Growth of village-based economy)"
-    },
-    "answer": ["A", "B", "D"],
-    "explanation": "उत्तर गुप्त काल में व्यापार और नगरों का पतन हुआ, जबकि ग्राम आधारित अर्थव्यवस्था और कृषक जीवन प्रमुख हुआ।"
-  },
-  {
-    "id": 48,
-    "question": "उत्तर गुप्तों के प्रशासन में कौन-सी प्रवृत्ति उभरी? / Which trend emerged in the administration of the Later Guptas?",
-    "options": {
-      "A": "भूमि अनुदान प्रणाली का विस्तार (Expansion of land grant system)",
-      "B": "राजधानी का बार-बार परिवर्तन (Frequent shifting of capital)",
-      "C": "कृषि कर का उन्मूलन (Abolition of agricultural tax)",
-      "D": "प्रोटो-जागीरदारी संरचना (Proto-feudal structure)"
-    },
-    "answer": ["A", "D"],
-    "explanation": "उत्तर गुप्त प्रशासन में भूमि अनुदान और प्रोटो-जागीरदारी व्यवस्था का विकास हुआ।"
-  },
-  {
-    "id": 49,
-    "question": "उत्तर गुप्त काल में धार्मिक स्थिति कैसी थी? / What was the religious condition during the Later Gupta period?",
-    "options": {
-      "A": "हिंदू पुनरुत्थान (Hindu revivalism)",
-      "B": "बौद्ध संरक्षण (Buddhist patronage)",
-      "C": "जैन धर्म का पतन (Decline of Jainism)",
-      "D": "धार्मिक सहिष्णुता (Religious tolerance)"
-    },
-    "answer": ["A", "B", "D"],
-    "explanation": "उत्तर गुप्तों के समय हिंदू पुनरुत्थान के साथ बौद्ध संरक्षण भी जारी रहा और धार्मिक सहिष्णुता बनी रही।"
-  },
-  {
-    "id": 50,
-    "question": "उत्तर गुप्त काल की सांस्कृतिक उपलब्धियों में क्या शामिल था? / What were the cultural achievements of the Later Gupta period?",
-    "options": {
-      "A": "मंदिर निर्माण (Temple building)",
-      "B": "संस्कृत साहित्य का संरक्षण (Support of Sanskrit literature)",
-      "C": "अजंता की गुफाओं का निर्माण (Construction of Ajanta caves)",
-      "D": "धातु कला का विकास (Development of metallurgy)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "उत्तर गुप्त काल में मंदिर निर्माण और संस्कृत साहित्य के संरक्षण पर ध्यान दिया गया।"
-  },
-  {
-    "id": 51,
-    "question": "उत्तर गुप्तों के अभिलेखों में कौन-से प्रमुख हैं? / Which are the major inscriptions of the Later Guptas?",
-    "options": {
-      "A": "भितरी ताम्रपत्र (Bhitari Copperplate)",
-      "B": "नालंदा ताम्रपत्र (Nalanda Copperplate)",
-      "C": "अलहाबाद स्तंभ (Allahabad Pillar)",
-      "D": "ऐहोल प्रशस्ति (Aihole Prashasti)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "उत्तर गुप्तों के प्रमुख अभिलेख भितरी और नालंदा ताम्रपत्र हैं।"
-  },
-  {
-    "id": 52,
-    "question": "नालंदा ताम्रपत्र में क्या उल्लेखित है? / What is mentioned in the Nalanda Copperplate?",
-    "options": {
-      "A": "भूमि अनुदान का विवरण (Details of land grant)",
-      "B": "बौद्ध मठ के संरक्षण का आदेश (Order for patronage of Buddhist monastery)",
-      "C": "कर उन्मूलन का आदेश (Order abolishing taxes)",
-      "D": "शाही वंशावली (Royal genealogy)"
-    },
-    "answer": ["A", "B", "D"],
-    "explanation": "नालंदा ताम्रपत्र में भूमि अनुदान, बौद्ध मठों के संरक्षण और शाही वंशावली का उल्लेख है।"
-  },
-  {
-    "id": 53,
-    "question": "भितरी ताम्रपत्र से हमें क्या जानकारी मिलती है? / What information do we get from the Bhitari Copperplate?",
-    "options": {
-      "A": "शासन क्षेत्र (Extent of rule)",
-      "B": "धार्मिक संरक्षण (Religious patronage)",
-      "C": "हर्ष से संघर्ष (Conflict with Harsha)",
-      "D": "भूमि अनुदान (Land grants)"
-    },
-    "answer": ["A", "B", "D"],
-    "explanation": "भितरी ताम्रपत्र में शासन क्षेत्र, धार्मिक संरक्षण और भूमि अनुदान की जानकारी मिलती है।"
-  },
-  {
-    "id": 54,
-    "question": "उत्तर गुप्त काल की आर्थिक प्रवृत्ति में क्या देखा गया? / What was the economic trend during the Later Gupta period?",
-    "options": {
-      "A": "व्यापार में गिरावट (Decline in trade)",
-      "B": "मुद्रा प्रचलन में कमी (Reduction in coin circulation)",
-      "C": "भूमि आधारित अर्थव्यवस्था (Land-based economy)",
-      "D": "राजकीय खजाने की वृद्धि (Increase in royal treasury)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "उत्तर गुप्त काल में व्यापार में गिरावट, मुद्रा प्रचलन में कमी और भूमि आधारित अर्थव्यवस्था का विकास हुआ।"
-  },
-  {
-    "id": 55,
-    "question": "उत्तर गुप्तों और मौखरी शासकों के संघर्ष का परिणाम क्या हुआ? / What was the result of the conflict between the Later Guptas and the Maukharis?",
-    "options": {
-      "A": "सीमाई क्षेत्रों का नुकसान (Loss of frontier territories)",
-      "B": "शक्ति संतुलन में बदलाव (Change in power balance)",
-      "C": "मौखरी विजय (Maukhari victory)",
-      "D": "उत्तर गुप्तों का विस्तार (Expansion of Later Guptas)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "संघर्ष में मौखरी विजयी हुए, उत्तर गुप्तों ने सीमाई क्षेत्रों को खो दिया और शक्ति संतुलन बदल गया।"
-  },
-  {
-    "id": 56,
-    "question": "उत्तर गुप्तों के समय प्रशासन की विशेषता क्या थी? / What was the characteristic feature of administration during the Later Gupta period?",
-    "options": {
-      "A": "राज्य का विकेन्द्रीकरण (Decentralization of state)",
-      "B": "भूमि अनुदानों पर निर्भरता (Dependence on land grants)",
-      "C": "मजबूत केंद्रीय सेना (Strong central army)",
-      "D": "कर-मुक्त भूमि का विस्तार (Expansion of tax-free land)"
-    },
-    "answer": ["A", "B", "D"],
-    "explanation": "उत्तर गुप्त प्रशासन विकेन्द्रीकृत था, भूमि अनुदानों पर निर्भर करता था और कर-मुक्त भूमि का विस्तार हुआ।"
-  },
-  {
-    "id": 57,
-    "question": "उत्तर गुप्त काल की सांस्कृतिक नीति में क्या शामिल था? / What was included in the cultural policy of the Later Guptas?",
-    "options": {
-      "A": "संस्कृत ग्रंथों का संरक्षण (Preservation of Sanskrit texts)",
-      "B": "मंदिर वास्तुकला का विकास (Development of temple architecture)",
-      "C": "बौद्ध विहारों का विस्तार (Expansion of Buddhist viharas)",
-      "D": "जैन मठों का विनाश (Destruction of Jain monasteries)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "उत्तर गुप्तों ने संस्कृत साहित्य का संरक्षण, मंदिर वास्तुकला और बौद्ध विहारों के विस्तार को बढ़ावा दिया।"
-  },
-  {
-    "id": 58,
-    "question": "उत्तर गुप्तों के पतन के बाद उनका क्षेत्र किसके अधीन आ गया? / After the decline of the Later Guptas, their territory came under whose control?",
-    "options": {
-      "A": "हर्ष (Harsha)",
-      "B": "पल्लव (Pallavas)",
-      "C": "गौड़ (Gauda kingdom)",
-      "D": "चालुक्य (Chalukyas)"
-    },
-    "answer": ["A", "C"],
-    "explanation": "उत्तर गुप्तों का क्षेत्र हर्ष के साम्राज्य में मिला और कुछ क्षेत्र गौड़ राज्य के अधीन आ गए।"
-  },
-  {
-    "id": 59,
-    "question": "उत्तर गुप्तों के समय कृषि व्यवस्था में क्या परिवर्तन आया? / What change occurred in the agrarian system during the Later Gupta period?",
-    "options": {
-      "A": "कृषि भूमि का निजीकरण (Privatization of agricultural land)",
-      "B": "भूमि अनुदानों के कारण कृषक निर्भरता (Peasant dependence due to land grants)",
-      "C": "कृषि उत्पादन में भारी वृद्धि (Large increase in agricultural output)",
-      "D": "सिंचाई साधनों का विकास (Development of irrigation facilities)"
-    },
-    "answer": ["A", "B", "D"],
-    "explanation": "भूमि अनुदानों के कारण कृषक निर्भरता बढ़ी, निजी स्वामित्व में वृद्धि हुई और सिंचाई साधनों का विकास हुआ।"
-  },
-  {
-    "id": 60,
-    "question": "उत्तर गुप्तों की राजनीतिक संरचना को 'प्रोटो-जागीरदारी' क्यों कहा जाता है? / Why is the political structure of the Later Guptas called 'proto-feudal'?",
-    "options": {
-      "A": "भूमि अनुदानों से स्थानीय प्रभुओं का उभार (Rise of local chiefs through land grants)",
-      "B": "केंद्र की सत्ता का क्षरण (Erosion of central authority)",
-      "C": "सैन्य सेवाओं के बदले भूमि देना (Granting land in exchange for military services)",
-      "D": "केवल कृषकों पर कर लगाना (Taxing only peasants)"
-    },
-    "answer": ["A", "B", "C"],
-    "explanation": "भूमि अनुदानों से स्थानीय प्रभु शक्तिशाली हुए, केंद्रीय सत्ता कमजोर हुई और सैन्य सेवाओं के बदले भूमि दी जाती थी।"
+    "answer": [
+      "B"
+    ]
   }
 ]
-
-
