@@ -1,482 +1,629 @@
 [
-  {
-    "id": 1,
-    "question": "भारत और रूस के बीच हाल ही में किस क्षेत्र में सहयोग बढ़ाया गया है?",
-    "options": {
-      "A": "ऊर्जा",
-      "B": "स्वास्थ्य",
-      "C": "संस्कृति",
-      "D": "विज्ञान और प्रौद्योगिकी"
+    {
+        "id": 1,
+        "question": "भारत में जलवायु के प्रमुख प्रकार कौन–से माने जाते हैं? / Which major climate types are recognised in India?",
+        "options": {
+            "A": "Tropical monsoon / उष्णकटिबंधीय मॉनसून",
+            "B": "Tropical wet and dry / उष्णकटिबंधीय आर्द्र–शुष्क (वैश्विक 'Aw')",
+            "C": "Humid subtropical (north India plains) / ग्रीष्म-समशीतोष्ण (उत्तर भारतीय मैदान)",
+            "D": "Mountain / Alpine (Himalayas) / पर्वतीय/आल्पाइन"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "explanation": "भारत में विविध ऊर्ध्वाधर और अक्षीय स्थलाकृति के कारण कई जलवायु प्रकार मिलते हैं — मुख्यतः मॉनसून-प्रेरित उष्णकटिबंधीय प्रकार (tropical monsoon & wet–dry), उत्तर के समशीतोष्ण प्लैन क्लाइमेट और हिमालय की पर्वतीय/आल्पाइन शृंखला। / Because of topographic and latitudinal diversity India hosts tropical monsoon, tropical wet–dry, humid subtropical plains and mountain/alpine climates."
     },
-    "answer": ["A", "D"],
-    "explanation": "भारत और रूस ने ऊर्जा और विज्ञान-प्रौद्योगिकी क्षेत्रों में सहयोग बढ़ाया है, विशेषकर तेल आपूर्ति और अंतरिक्ष अनुसंधान में।"
-  },
-  {
-    "id": 2,
-    "question": "रूस से भारत को किस प्रकार की सैन्य आपूर्ति की जा रही है?",
-    "options": {
-      "A": "AK-203 राइफल्स",
-      "B": "सुपरसोनिक मिसाइल",
-      "C": "सैनिक हेलीकॉप्टर",
-      "D": "सैन्य वाहन"
+    {
+        "id": 2,
+        "question": "प्रमुख दक्षिण-पश्चिम मॉनसून भारत में सामान्यतः किस अवधि में सक्रिय रहता है? / During which months is the Southwest monsoon mainly active over most of India?",
+        "options": {
+            "A": "June–September / जून–सितंबर",
+            "B": "October–December / अक्टूबर–दिसंबर",
+            "C": "March–May / मार्च–मई",
+            "D": "November–February / नवम्बर–फरवरी"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "दक्षिण-पश्चिम मॉनसून सामान्यतः जून के आरम्भ में केरल पर आकर जून–सितंबर में लगभग समग्र भारत को गर्म ऋतु का मुख्य वर्षा-अवधि देता है। अक्टूबर–नवम्बर में पीछे हटता है। / The SW monsoon arrives in June and is the principal rainy season over India during June–September, retreating in October–November."
     },
-    "answer": ["A"],
-    "explanation": "रूस से भारत को AK-203 राइफल्स की आपूर्ति की जा रही है, जो भारतीय सेना के लिए महत्वपूर्ण हैं।"
-  },
-  {
-    "id": 3,
-    "question": "भारत और रूस के बीच किस समुद्री गलियारे का उद्घाटन किया गया है?",
-    "options": {
-      "A": "व्लादिवोस्तोक-चेन्नई गलियारा",
-      "B": "मुम्बई-सेंट पीटर्सबर्ग गलियारा",
-      "C": "कोलकाता-निकोलाेवस्क गलियारा",
-      "D": "व्लादिवोस्तोक-मुंबई गलियारा"
+    {
+        "id": 3,
+        "question": "मॉनसून वर्षा के लिए महत्त्वपूर्ण आर्द्रता स्रोत कौन–से हैं? / Which are major moisture sources for the Indian monsoon?",
+        "options": {
+            "A": "Arabian Sea / अरब सागर",
+            "B": "Bay of Bengal / बंगाल की खाड़ी",
+            "C": "Indian Ocean (broader basin) / भारतीय महासागर (विस्तृत बेसिन)",
+            "D": "North Atlantic / उत्तर अटलांटिक"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "भारतीय मॉनसून का आर्द्रता–बोझ मुख्यतः अरब सागर और बंगाल की खाड़ी तथा व्यापक रूप से भारतीय महासागर से आता है — ये क्षेत्रों के ऊपर बनकर नमी और बादल पहुँचाते हैं। उत्तर अटलांटिक का प्रत्यक्ष योगदान मॉनसून की रोज़मर्रा की बारिश में सामान्यतः नहीं होता। / Moisture for the monsoon is derived mainly from the Arabian Sea, Bay of Bengal and the wider Indian Ocean basin; North Atlantic is not a direct source."
     },
-    "answer": ["A"],
-    "explanation": "व्लादिवोस्तोक-चेन्नई समुद्री गलियारे का उद्घाटन किया गया है, जिससे दोनों देशों के बीच व्यापार में वृद्धि हो रही है।"
-  },
-  {
-    "id": 4,
-    "question": "भारत और रूस के बीच किस संयुक्त सैन्य अभ्यास का आयोजन किया गया है?",
-    "options": {
-      "A": "INDRA",
-      "B": "Vostok",
-      "C": "Yudh Abhyas",
-      "D": "Druzhba"
+    {
+        "id": 4,
+        "question": "सबसे अधिक वार्षिक वर्षा के क्षेत्र कौन–से हैं? / Which regions receive the heaviest annual rainfall in India?",
+        "options": {
+            "A": "Meghalaya (Cherrapunji / Mawsynram) / मेघालय",
+            "B": "Western Ghats (windward slopes) / पश्चिमी घाट (वायु-समूहमुखी ढलान)",
+            "C": "Rajasthan (Thar) / राजस्थान (थार)",
+            "D": "Gujarat mainland / गुजरात मुख्यभूमि"
+        },
+        "answer": [
+            "A",
+            "B"
+        ],
+        "explanation": "मेघालय के चेरापूंजी/मॉसिनराम और पश्चिमी घाट के वायुविद-समौंही ढलान (windward) पर बहुत अधिक वर्षा होती है — जबकि थार रेगिस्तान और गुजरात का अधिकांश भाग अपेक्षाकृत सूखा है। / Mawsynram/Cherrapunji (Meghalaya) and the windward Western Ghats receive the heaviest rainfall; Thar and large parts of Gujarat are comparatively dry."
     },
-    "answer": ["A"],
-    "explanation": "भारत और रूस के बीच INDRA नामक संयुक्त सैन्य अभ्यास का आयोजन किया गया है, जो दोनों देशों के सैन्य संबंधों को मजबूत करता है।"
-  },
-  {
-    "id": 5,
-    "question": "भारत और रूस के बीच किस प्रमुख ऊर्जा परियोजना पर चर्चा की गई है?",
-    "options": {
-      "A": "नमक परियोजना",
-      "B": "साइबेरिया गैस पाइपलाइन",
-      "C": "अंतर्राष्ट्रीय परमाणु ऊर्जा परियोजना",
-      "D": "चंद्रमा मिशन सहयोग"
+    {
+        "id": 5,
+        "question": "किसे rain-shadow क्षेत्र माना जाता है (Western Ghats के सापेक्ष)? / Which areas lie in the rain-shadow of the Western Ghats?",
+        "options": {
+            "A": "Deccan Plateau (interior Maharashtra / Karnataka) / डेक्कन पठार",
+            "B": "Konkan coastal strip / कोंकण तटीय पट्टी",
+            "C": "Leeward eastern Deccan pockets (parts of Telangana & interior Tamil Nadu) / लीवार्ड पूर्वी डेक्कन के भाग",
+            "D": "Gujarat coast directly windward of Ghats / गुजरात तट"
+        },
+        "answer": [
+            "A",
+            "C"
+        ],
+        "explanation": "पश्चिमी घाट की वायुविद (windward) तरफ तटीय क्षेत्र भारी वर्षा पाते हैं; उसके पीछे आकर डेक्कन के कई हिस्से (interior Maharashtra/Karnataka और कुछ दक्षिण-पूर्वी pockets जैसे interior Tamil Nadu/parts of Telangana) तुलनात्मक रूप से सुखे rain-shadow में आते हैं। / Windward coasts get heavy rains; interior Deccan areas and certain leeward pockets lie in the Western Ghats rain-shadow."
     },
-    "answer": ["B"],
-    "explanation": "भारत और रूस के बीच साइबेरिया गैस पाइपलाइन परियोजना पर चर्चा की गई है, जो ऊर्जा आपूर्ति को सुनिश्चित करेगा।"
-  },
-  {
-    "id": 6,
-    "question": "भारत और रूस के बीच किस रक्षा समझौते पर हस्ताक्षर किए गए हैं?",
-    "options": {
-      "A": "S-400 मिसाइल रक्षा प्रणाली",
-      "B": "BrahMos मिसाइल प्रणाली",
-      "C": "INS Vikrant विमानवाहक पोत",
-      "D": "Tejas विमान"
+    {
+        "id": 6,
+        "question": "हिमालयों का भारतीय जलवायु पर क्या प्रभाव होता है? / What are important climatic effects of the Himalayas on India?",
+        "options": {
+            "A": "They shield India from cold Central Asian winds in winter (moderating climate) / सर्दियों में मध्य एशियाई ठंडी हवाओं से रक्षा",
+            "B": "They completely block monsoon and prevent rainfall over north India / मॉनसून को पूरी तरह रोकते हैं",
+            "C": "They create snow-fed perennial rivers and influence rainfall distribution / हिमनदों द्वारा perennial नदियाँ और वर्षा वितरण पर प्रभाव",
+            "D": "They increase cyclone frequency over Bay of Bengal / बंगाल की खाड़ी पर चक्रवात बढाते हैं"
+        },
+        "answer": [
+            "A",
+            "C"
+        ],
+        "explanation": "हिमालय शीत हवा को ब्लॉक कर भारत के अंदरूनी भागों को अपेक्षाकृत गर्म बनाते हैं और साथ ही हिमनदों द्वारा स्थायी नदियाँ (Ganga–Brahmaputra जैसे) बनती हैं जो मानसून के साथ जोडकर जलवायु व जल साधन प्रभावित करती हैं। वे मॉनसून को 'पूरी तरह' नहीं रोकते; चक्रवात-आवृत्ति हिमालय का मुख्य कारण नहीं है। / The Himalayas block cold Central Asian winds and create snow-fed perennial rivers, affecting rainfall and water resources; they do not completely block the monsoon nor directly increase cyclone frequency over the Bay."
     },
-    "answer": ["B"],
-    "explanation": "भारत और रूस के बीच BrahMos मिसाइल प्रणाली पर समझौते पर हस्ताक्षर किए गए हैं, जो दोनों देशों की रक्षा क्षमता को बढ़ाएंगे।"
-  },
-  {
-    "id": 7,
-    "question": "रूस के राष्ट्रपति ने हाल ही में किस भारतीय नेता से मुलाकात की?",
-    "options": {
-      "A": "प्रधानमंत्री नरेंद्र मोदी",
-      "B": "रक्षा मंत्री राजनाथ सिंह",
-      "C": "विदेश मंत्री एस. जयशंकर",
-      "D": "राष्ट्रपति द्रौपदी मुर्मू"
+    {
+        "id": 7,
+        "question": "Bay of Bengal बनाम Arabian Sea — किसमें चक्रवात और गंभीर तुफान अधिक आते हैं? / Which basin typically generates more tropical cyclones affecting India?",
+        "options": {
+            "A": "Bay of Bengal / बंगाल की खाड़ी",
+            "B": "Arabian Sea / अरब सागर",
+            "C": "Both equal frequency / दोनों समान",
+            "D": "Neither — cyclones form in Atlantic only / नहीं"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "बंगाल की खाड़ी में अरब सागर की तुलना में अधिक और अधिक तीव्र चक्रवाती घटनाएँ बनती हैं, इसलिए पूर्वी भारत (इष्टतः बंगाल तट, ओडिशा, AP) पर पोस्ट-मानसून/ऑक्टोबर–नवम्बर में ऊँची वर्षा/तूफ़ान का खतरा रहता है। / The Bay of Bengal produces more frequent and often stronger cyclones affecting the Indian coast than the Arabian Sea."
     },
-    "answer": ["A"],
-    "explanation": "रूस के राष्ट्रपति ने प्रधानमंत्री नरेंद्र मोदी से मुलाकात की, जिसमें द्विपक्षीय संबंधों पर चर्चा की गई।"
-  },
-  {
-    "id": 8,
-    "question": "भारत और रूस के बीच किस क्षेत्र में संयुक्त अनुसंधान परियोजना पर काम चल रहा है?",
-    "options": {
-      "A": "कृषि",
-      "B": "अंतरिक्ष",
-      "C": "स्वास्थ्य",
-      "D": "सूचना प्रौद्योगिकी"
+    {
+        "id": 8,
+        "question": "भारत में मुख्य वन/वेजिटेशन प्रकार कौन–से हैं? / Major vegetation types found in India include:",
+        "options": {
+            "A": "Tropical evergreen / उष्णकटिबंधीय सदाबहार",
+            "B": "Tropical moist deciduous / आर्द्र पतझड़ी (moist deciduous)",
+            "C": "Tropical dry deciduous / शुष्क पतझड़ी",
+            "D": "Tropical thorn / कांटेदार वन (thorn)",
+            "E": "Montane & Alpine / पर्वतीय-आल्पाइन",
+            "F": "Mangrove / मैन्ग्रोव"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+        ],
+        "explanation": "भारत का vegitation मॉनसून-आधारित gradients और elevation के अनुसार बदलता है: पश्चिमी घाट/NE में tropical evergreen, मध्य-भारत में moist deciduous, शुष्क इलाकों में dry deciduous/ thorn, हिमालय में montane–alpine और तटीय डेल्टाओं जैसे Sundarbans में mangrove मिलते हैं। / Vegetation in India ranges from tropical evergreen and moist/dry deciduous to thorn, montane/alpine and mangrove according to rainfall and elevation gradients."
     },
-    "answer": ["B"],
-    "explanation": "भारत और रूस के बीच अंतरिक्ष क्षेत्र में संयुक्त अनुसंधान परियोजना पर काम चल रहा है, जिसमें उपग्रह प्रक्षेपण और अनुसंधान शामिल हैं।"
-  },
-  {
-    "id": 9,
-    "question": "भारत और रूस के बीच किस प्रमुख व्यापार समझौते पर सहमति बनी है?",
-    "options": {
-      "A": "मुक्त व्यापार समझौता",
-      "B": "न्यूक्लियर ऊर्जा समझौता",
-      "C": "डिजिटल व्यापार समझौता",
-      "D": "ब्रह्मोस मिसाइल समझौता"
+    {
+        "id": 9,
+        "question": "Alluvial soils किन क्षेत्रों में मुख्य रूप से मिलते हैं? / Alluvial soils are primarily found in:",
+        "options": {
+            "A": "Indo-Gangetic plains / Indo-Gangetic मैदान",
+            "B": "River deltas and coastal plains (e.g., Ganga, Brahmaputra, Godavari deltas) / नदी डेल्टाएँ/तटीय मैदाने",
+            "C": "Deccan lava plateau / डेक्कन लावा पठार",
+            "D": "Thar desert / थार रेगिस्तान"
+        },
+        "answer": [
+            "A",
+            "B"
+        ],
+        "explanation": "Alluvial soils नदियों के द्वारा लाये गए सिंदूरी तलछट से बनते हैं और इसलिए Indo-Gangetic plain व विभिन्न नदी-डेल्टाओं/तटीय मैदानों में व्यापक होते हैं। डेक्कन ट्रैप/थार रेगिस्तान में नहीं। / Alluvium is deposited by rivers, so it dominates the Indo-Gangetic plains and river deltas/coastal plains."
     },
-    "answer": ["A"],
-    "explanation": "भारत और रूस के बीच मुक्त व्यापार समझौते पर सहमति बनी है, जिससे दोनों देशों के बीच व्यापार बढ़ेगा।"
-  },
-  {
-    "id": 10,
-    "question": "भारत और रूस के बीच किस क्षेत्र में सांस्कृतिक आदान-प्रदान बढ़ाया गया है?",
-    "options": {
-      "A": "संगीत और कला",
-      "B": "साहित्य और फिल्म",
-      "C": "खेल और पर्यटन",
-      "D": "सभी उपर्युक्त"
+    {
+        "id": 10,
+        "question": "Black (Regur) soils किस क्षेत्र से संबंधित हैं और किस फसल के लिए उपयुक्त मानी जाती हैं? / Black (Regur) soils are associated with which region and are best suited for which crop?",
+        "options": {
+            "A": "Deccan lava plateau (Maharashtra, parts of MP & Gujarat) / डेक्कन लावा पठार",
+            "B": "Alluvial plain of Ganga / गंगा का अवसादी मैदान",
+            "C": "Highly suitable for cotton (good moisture retention) / कपास",
+            "D": "Best for rice paddy (waterlogged paddy) / धान (जलभराव)"
+        },
+        "answer": [
+            "A",
+            "C"
+        ],
+        "explanation": "Black/regur soils बेसाल्टिक ट्रैप्स के अपक्षय से बनते हैं और Deccan क्षेत्रों (Vidarbha, Marathwada, parts of Karnataka & MP) में पाए जाते हैं; वे ऊँची काठिन्य वाली मिट्टी में अच्छी नमी पकड़ने की क्षमता रखते हैं — इसलिए कपास के लिए विशेष रूप से उपयुक्त माने जाते हैं। धान-जैसी पृष्ठभूमि-जलभराव वाली फसलों के लिए वे सामान्यतः सर्वश्रेष्ठ प्राथमिकता नहीं होते। / Regur black soils develop over basalt (Deccan) and are ideal for cotton due to moisture retention."
     },
-    "answer": ["D"],
-    "explanation": "भारत और रूस के बीच संगीत, कला, साहित्य, फिल्म, खेल और पर्यटन के क्षेत्रों में सांस्कृतिक आदान-प्रदान बढ़ाया गया है।"
-  },
-  {
-    "id": 11,
-    "question": "भारत और रूस के बीच किस क्षेत्र में संयुक्त परियोजना पर काम चल रहा है?",
-    "options": {
-      "A": "नवीकरणीय ऊर्जा",
-      "B": "सैन्य वाहन निर्माण",
-      "C": "सूचना प्रौद्योगिकी",
-      "D": "जलवायु परिवर्तन"
+    {
+        "id": 11,
+        "question": "Laterite soils कहाँ बनते हैं और उनमें मुख्य कमी कौन-सी होती है? / Laterite soils form under which conditions and what is their main limitation?",
+        "options": {
+            "A": "High rainfall & high temperature (intense leaching) / उच्च वर्षा और तापमान",
+            "B": "Found on uplands of Western Ghats and parts of peninsular India / पश्चिमी घाट/दक्षिण भारत के उच्चतम क्षेत्र",
+            "C": "High natural fertility for intensive cropping / उच्च प्राकृतिक उर्वरता",
+            "D": "Low fertility due to leaching of bases and organic matter / पोषक तत्वों की कमी"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "Laterite soils उष्णकटिबंधीय, उच्च वर्षा वाले क्षेत्रों में तीव्र लेचिंग से बनते हैं (Western Ghats, Konkan, parts of Kerala, Karnataka). वे लौह/अलुमिना समृद्ध हो सकते हैं पर बेसिक पोषक तत्व और कार्बन की कमी के कारण सामान्यतः कम उर्वरता दर्शाते हैं। / Laterites form under intense weathering in hot, wet climates (Western Ghats etc.) and tend to be low in fertility because of leaching."
     },
-    "answer": ["A"],
-    "explanation": "भारत और रूस के बीच नवीकरणीय ऊर्जा क्षेत्र में संयुक्त परियोजना पर काम चल रहा है, जिसमें सौर और पवन ऊर्जा शामिल हैं।"
-  },
-  {
-    "id": 12,
-    "question": "भारत और रूस के बीच किस क्षेत्र में संयुक्त प्रशिक्षण कार्यक्रम आयोजित किया गया है?",
-    "options": {
-      "A": "वायु सेना",
-      "B": "नौसेना",
-      "C": "थलसेना",
-      "D": "सभी उपर्युक्त"
+    {
+        "id": 12,
+        "question": "शुगर-केन (sugarcane) की प्रधान उत्पादन-राज्य कौन–से हैं? / Major sugarcane producing states in India include:",
+        "options": {
+            "A": "Uttar Pradesh / उत्तर प्रदेश",
+            "B": "Maharashtra / महाराष्ट्र",
+            "C": "Karnataka / कर्नाटक",
+            "D": "Rajasthan / राजस्थान"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "भारत में प्रमुख शुगर-केन उत्पादक यूपी, महाराष्ट्र और कर्नाटक हैं; राजस्थान में सीमित उत्पादन है पर मुख्य तीन राज्यों के मुकाबले कम। / UP, Maharashtra and Karnataka are major sugarcane producers; Rajasthan's production is comparatively low."
     },
-    "answer": ["D"],
-    "explanation": "भारत और रूस के बीच वायु सेना, नौसेना और थलसेना के संयुक्त प्रशिक्षण कार्यक्रम आयोजित किए गए हैं, जो दोनों देशों की सैन्य क्षमता को बढ़ाते हैं।"
-  },
-  {
-    "id": 13,
-    "question": "भारत और रूस के बीच किस क्षेत्र में संयुक्त विज्ञान परियोजना पर काम चल रहा है?",
-    "options": {
-      "A": "जैव प्रौद्योगिकी",
-      "B": "कृषि विज्ञान",
-      "C": "भौतिकी",
-      "D": "अंतरिक्ष विज्ञान"
+    {
+        "id": 13,
+        "question": "चाय (tea) के लिए अनुकूल जलवायु-गुण कौन–से हैं? / Which climatic/edaphic conditions suit tea cultivation?",
+        "options": {
+            "A": "High and well-distributed rainfall (≥1500 mm) / अच्छी और सम वितरित वर्षा",
+            "B": "High altitude or hill slopes with good drainage / उच्च ऊँचाई/ढलान व जल निकास",
+            "C": "Alkaline, calcareous soils / क्षारीय, कैल्सियस मिट्टियाँ",
+            "D": "Acidic, humus-rich soils (well-drained) / अम्लीय, कार्बनिक मिट्टी"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "चाय के लिए उच्च वर्षा, ढलानों पर अच्छा जल-निकास और अम्लीय, ह्यूमस-समृद्ध मिट्टी अनुकूल हैं — यही कारण है कि North-east (Assam highlands, Darjeeling) व Western Ghats (Nilgiris, Coorg) प्रमुख चाय क्षेत्र हैं। क्षारीय मिट्टी चाय के लिए ठीक नहीं होती। / Tea thrives in high, well-distributed rainfall, hill slopes with drainage and acidic humus soils."
     },
-    "answer": ["D"],
-    "explanation": "भारत और रूस के बीच अंतरिक्ष विज्ञान क्षेत्र में संयुक्त विज्ञान परियोजना पर काम चल रहा है, जिसमें उपग्रह प्रक्षेपण और अनुसंधान शामिल हैं।"
-  },
-  {
-    "id": 14,
-    "question": "भारत और रूस के बीच किस क्षेत्र में संयुक्त रक्षा परियोजना पर काम चल रहा है?",
-    "options": {
-      "A": "सैन्य वाहन निर्माण",
-      "B": "मिसाइल प्रणाली",
-      "C": "विमान निर्माण",
-      "D": "सभी उपर्युक्त"
+    {
+        "id": 14,
+        "question": "कॉफ़ी (coffee) उत्पादन भारत में किस इलाके से जुड़ा है? / Coffee cultivation in India is principally associated with:",
+        "options": {
+            "A": "Western Ghats (Kodagu/Coorg, Chikmagalur) / पश्चिमी घाट",
+            "B": "Assam floodplains / असम मैदान",
+            "C": "Nilgiris and parts of Kerala / नीलगिरि व केरल के हिस्से",
+            "D": "Thar Desert / थार मरुस्थल"
+        },
+        "answer": [
+            "A",
+            "C"
+        ],
+        "explanation": "कॉफ़ी भारत में प्रमुखतः Western Ghats के hill districts (Kodagu/Coorg, Chikmagalur) तथा Nilgiris/parts of Kerala में उगती है जहाँ छाँव, अच्छी वर्षा और उर्वर मिट्टी मिलती है। असम और थार उपयुक्त नहीं हैं। / Coffee is mainly grown in Western Ghats (Coorg, Chikmagalur) and Nilgiris/Kerala, which provide shade, rainfall and suitable soils."
     },
-    "answer": ["D"],
-    "explanation": "भारत और रूस के बीच सैन्य वाहन निर्माण, मिसाइल प्रणाली और विमान निर्माण के क्षेत्रों में संयुक्त रक्षा परियोजना पर काम चल रहा है।"
-  },
-  {
-    "id": 15,
-    "question": "भारत और रूस के बीच किस क्षेत्र में संयुक्त व्यापार समझौते पर चर्चा की गई है?",
-    "options": {
-      "A": "सॉफ्टवेयर और सूचना प्रौद्योगिकी",
-      "B": "खाद्य प्रसंस्करण उद्योग",
-      "C": "वस्त्र उद्योग",
-      "D": "सभी उपर्युक्त"
+    {
+        "id": 15,
+        "question": "किस–किस फसलों का जलवायु-निर्भर उद्योग सीधे प्रचलित रहता है? / Which crop-based industries are directly climate-dependent in India?",
+        "options": {
+            "A": "Tea processing / चाय प्रसंस्करण",
+            "B": "Jute mills (Bengal delta) / जूट मिलें",
+            "C": "IT services / सूचना-प्रौद्योगिकी",
+            "D": "Sugar mills (sugarcane belt) / शुगर मिलें"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "Tea, jute, sugar-based industries अपने-अपने जलवायु/फसल क्षेत्रों के नजदीक बने रहते हैं (उच्च वर्षा/hill areas for tea; deltaic Bengal for jute; cane belts for sugar). IT-services ज्यादातर भौगोलिक जलवायु पर निर्भर नहीं होतीं। / Tea, jute and sugar industries are closely tied to the climatic zones where those crops are produced; IT services are location-independent relative to climate."
     },
-    "answer": ["D"],
-    "explanation": "भारत और रूस के बीच सॉफ्टवेयर, सूचना प्रौद्योगिकी, खाद्य प्रसंस्करण उद्योग और वस्त्र उद्योग के क्षेत्रों में संयुक्त व्यापार समझौते पर चर्चा की गई है।"
-  },
-  {
-    "id": 16,
-    "question": "भारत और रूस के बीच किस क्षेत्र में संयुक्त सांस्कृतिक कार्यक्रम आयोजित किया गया है?",
-    "options": {
-      "A": "संगीत और कला",
-      "B": "साहित्य और फिल्म",
-      "C": "खेल और पर्यटन",
-      "D": "सभी उपर्युक्त"
+    {
+        "id": 16,
+        "question": "El Niño / La Niña (ENSO) का भारतीय मॉनसून पर क्या सामान्य प्रभाव होता है? / What are typical ENSO effects on the Indian monsoon?",
+        "options": {
+            "A": "El Niño often associated with weakened monsoon and drought tendency / El Niño → कमजोर मॉनसून (सूखे का प्रचलन)",
+            "B": "La Niña often associated with stronger monsoon and excess rainfall / La Niña → मजबूत मॉनसून (अति-वृष्टि)",
+            "C": "No connection between ENSO and Indian monsoon / ENSO का कोई सम्बन्ध नहीं",
+            "D": "ENSO always determines exact rainfall at district level / ENSO हमेशा जिला-स्तर की वर्षा तय करता है"
+        },
+        "answer": [
+            "A",
+            "B"
+        ],
+        "explanation": "वैश्विक ENSO चक्र (El Niño/La Niña) के साथ भारतीय मॉनसून में सांख्यिकीय सम्बन्ध देखा जाता है — El Niño काल में मॉनसून कमजोर होने का झुकाव और La Niña में सशक्त होने का। पर ENSO अकेले जिला-स्तर के प्रत्यक्ष सटीक परिणाम की गारंटी नहीं देता। / ENSO typically weakens (El Niño) or strengthens (La Niña) the Indian monsoon in a probabilistic sense, but it doesn't deterministically set local rainfall."
     },
-    "answer": ["D"],
-    "explanation": "भारत और रूस के बीच संगीत, कला, साहित्य, फिल्म, खेल और पर्यटन के क्षेत्रों में संयुक्त सांस्कृतिक कार्यक्रम आयोजित किए गए हैं।"
-  },
-  {
-    "id": 17,
-    "question": "अगस्त 2025 में, भारत और अमेरिका के बीच QUAD सहयोग में किन क्षेत्रों को बढ़ावा दिया गया?",
-    "options": {
-      "A": "सुरक्षा और रक्षा",
-      "B": "क्लाइमेट चेंज और ऊर्जा",
-      "C": "कृषि और खाद्य सुरक्षा",
-      "D": "साइबर सुरक्षा और तकनीकी साझेदारी"
+    {
+        "id": 17,
+        "question": "मानसून-संबंधी विविधता (active/break spells) किस कारण होती है? / What drives active and break spells of the Indian monsoon?",
+        "options": {
+            "A": "Intra-seasonal oscillations (e.g., Madden–Julian Oscillation) / मौसमी-आन्तरिक उतार-चढ़ाव",
+            "B": "Monsoon depressions and lows over Bay of Bengal / बंगाल की खाड़ी के दबाव-केंद्र",
+            "C": "Tectonic earthquakes / भूवैज्ञानिक भूकम्प",
+            "D": "Localized land-sea thermal contrast and mid-latitude interactions / स्थानीय तापीय अंतर और मध्य-देशीय अन्तरक्रिया"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "मॉनसून के active/break पैटर्न intra-seasonal oscillations (MJO), मॉनसून-डेप्रेशन/लो और स्थानीय भूमि-समुद्र तापीय असमानताएँ तथा मध्य-लैटिट्यूड इंटरैक्शन के संयोग से बनते हैं। भूकम्प का सत्रीय पैटर्न पर प्रत्यक्ष असर नहीं माना जाता। / Active/break spells result from MJO/intra-seasonal oscillations, monsoon depressions, and land–sea thermal contrasts interacting with mid-latitude dynamics; earthquakes are not causal."
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "QUAD 2025 में भारत और अमेरिका ने रक्षा, साइबर सुरक्षा और जलवायु परिवर्तन पर साझेदारी को मजबूत किया। कृषि क्षेत्र को प्राथमिकता नहीं दी गई।"
-  },
-  {
-    "id": 18,
-    "question": "भारत और अमेरिका के बीच रक्षा क्षेत्र में किस प्रकार का सहयोग बढ़ा है?",
-    "options": {
-      "A": "हवाई जहाज और ड्रोन तकनीक",
-      "B": "सैन्य शिक्षा और प्रशिक्षण",
-      "C": "परमाणु हथियार साझा करना",
-      "D": "नौसैनिक अभ्यास (Naval Exercises)"
+    {
+        "id": 18,
+        "question": "किस फसल के लिए किस मिट्टी/जलवायु का संयोजन अनुकूल माना जाता है? / Which crop suits which soil/climate combination?",
+        "options": {
+            "A": "Rice — high rainfall, alluvial/flat delta soils / धान — उच्च वर्षा, आवल्वियल/डेल्टा",
+            "B": "Cotton — black regur soils, semi-arid to sub-humid / कपास — ब्लैक मिट्टी, अर्ध-शुष्क/उप-आर्द्र",
+            "C": "Wheat — hot humid summer & no winter frost / गेंहू — गर्म आर्द्र गर्मियाँ",
+            "D": "Tea — hill slopes, high rainfall, acidic soil / चाय — ढलान, उच्च वर्षा, अम्लीय मिट्टी"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "धान उच्च वर्षा/ऐलुवियल या डेल्टिक मिट्टियों में विकसित होता है; कपास ब्लैक/regur मिट्टी और मध्यम वर्षा वाले अर्ध-शुष्क वातावरण में अच्छा होता है; चाय ढलानों, उच्च वर्षा और अम्लीय मिट्टी में उत्तम होती है। गेंहू ठंडे-सुखे शीतकाल और सिंचित मैदानों में अच्छा होता है, न कि 'गरम आर्द्र' शर्तों में। / Rice fits high rainfall/alluvial deltas; cotton fits black soils and semi-arid climates; tea fits hill slopes with high rainfall and acidic soils; wheat prefers cool, dry winters with irrigation."
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "भारत और अमेरिका ने ड्रोन, हवाई जहाज तकनीक और सैन्य प्रशिक्षण साझा किया, जबकि परमाणु हथियार साझा करना दोनों देशों की नीति के खिलाफ है।"
-  },
-  {
-    "id": 19,
-    "question": "अमेरिका की हालिया अर्थव्यवस्था नीति के तहत भारत को किस क्षेत्र में दबाव का सामना करना पड़ा?",
-    "options": {
-      "A": "चिप और तकनीकी निर्यात",
-      "B": "तेल और ऊर्जा आयात",
-      "C": "कृषि निर्यात",
-      "D": "औद्योगिक उत्पादन"
+    {
+        "id": 19,
+        "question": "सूखे-प्रवण (drought-prone) भारतीय क्षेत्र कौन–से हैं? / Which Indian regions are commonly drought-prone?",
+        "options": {
+            "A": "Rajasthan (parts of Thar & Aravalli rainshadow) / राजस्थान",
+            "B": "Bundelkhand (UP/MP) / बुन्देलखंड",
+            "C": "Kerala highlands / केरल उच्चभूमि",
+            "D": "Sundarbans delta / सुन्दरबन"
+        },
+        "answer": [
+            "A",
+            "B"
+        ],
+        "explanation": "Rajasthan (थार/अर्वली rainshadow) और Bundelkhand जैसी अंदरूनी अर्थो-कृषि पट्टियाँ कम और अनिश्चित वर्षा के कारण drought-prone रहीं हैं। केरल highlands व Sundarbans सामान्यतः उच्च वर्षा-क्षेत्र हैं। / Thar/Aravalli zones (Rajasthan) and Bundelkhand are drought-prone due to low/erratic rainfall; Kerala highlands and Sundarbans are high-rain regions."
     },
-    "answer": ["A", "B"],
-    "explanation": "अमेरिका ने भारत को उच्च तकनीक चिप्स और रूस से तेल आयात को लेकर दबाव डाला, जबकि कृषि और सामान्य उद्योग प्रभावित नहीं हुए।"
-  },
-  {
-    "id": 20,
-    "question": "भारत और अमेरिका के बीच 2025 में IT और टेक्नोलॉजी सहयोग में किस क्षेत्र को प्राथमिकता दी गई?",
-    "options": {
-      "A": "क्लाउड कंप्यूटिंग",
-      "B": "आर्टिफिशियल इंटेलिजेंस",
-      "C": "सामाजिक मीडिया निगरानी",
-      "D": "ब्लॉकचेन और साइबर सिक्योरिटी"
+    {
+        "id": 20,
+        "question": "बाढ़-जोखिम किन क्षेत्रों में अधिक है? / Flood risk in India is highest in which regions?",
+        "options": {
+            "A": "Indo-Gangetic plains (Ganga & Brahmaputra basins) / Indo-Gangetic मैदान",
+            "B": "Western Ghats hill slopes (landslides & flash floods) / पश्चिमी घाट ढलान",
+            "C": "Thar Desert / थार मरुस्थल",
+            "D": "Rain-shadow interiors (permanently arid) / रेन-शैडो इन्टिरियर्स"
+        },
+        "answer": [
+            "A",
+            "B"
+        ],
+        "explanation": "Indo-Gangetic plain में मॉनसून के दौरान बहु-नदियाँ और डेल्टा-क्षेत्र बाढ़ का मुख्य केंद्र हैं; पश्चिमी घाट के तीव्र ढलान पर भारी मानसूनी वर्षा landslides और flash floods का कारण बनती है। थार और rain-shadow अंदरूनी क्षेत्र सामान्यतः बाढ़ कम होते हैं। / The Indo-Gangetic plains (Ganga/Brahmaputra) are highly flood-prone; Western Ghats slopes are prone to landslides and flash floods under heavy monsoon rain."
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "साइबर सुरक्षा, AI और क्लाउड टेक्नोलॉजी पर सहयोग बढ़ाया गया, सामाजिक मीडिया निगरानी पर साझेदारी नहीं हुई।"
-  },
-  {
-    "id": 21,
-    "question": "भारत-अमेरिका ऊर्जा सहयोग के तहत किन क्षेत्रों में निवेश बढ़ा है?",
-    "options": {
-      "A": "सौर ऊर्जा और नवीकरणीय ऊर्जा",
-      "B": "कोयला और फॉसिल फ्यूल",
-      "C": "न्यूक्लियर पावर",
-      "D": "हाइड्रोपावर"
+    {
+        "id": 21,
+        "question": "मिट्टी की लवणीयता (salinity) किन कारणों से बढ़ सकती है? / Soil salinity increases due to which factors?",
+        "options": {
+            "A": "Poor drainage and high evaporation in arid zones / निकास की कमी व उच्च वाष्पीकरण",
+            "B": "Excessive irrigation with saline groundwater / क्षारीय भूजल से अधिक सिंचाई",
+            "C": "Tidal seawater inundation in coastal zones / तटीय समुद्री ज्वार-आवेश",
+            "D": "Afforestation of degraded land / उपयुक्त वनोपकरण"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "खुले क्षेत्रों में निकासी का अभाव, ऊँचा evapotranspiration और क्षारीय जल से अनुचित सिंचाई मिट्टी में लवण जमा कर देते हैं; तटीय क्षेत्र में समुद्री जल-आवेश भी salinization का कारण है। afforestation अक्सर सुधारात्मक होता है। / Poor drainage/high evaporation, irrigation with saline water, and seawater inundation raise soil salinity; afforestation is generally remedial rather than causal."
     },
-    "answer": ["A", "C"],
-    "explanation": "भारत और अमेरिका ने सौर ऊर्जा और परमाणु ऊर्जा में निवेश बढ़ाया, जबकि कोयला पर सहयोग कम हुआ। हाइड्रोपावर क्षेत्र सीमित रूप से शामिल है।"
-  },
-  {
-    "id": 22,
-    "question": "अमेरिका ने भारत को किस वैश्विक मंच पर समर्थन दिया है?",
-    "options": {
-      "A": "G20 और IMF",
-      "B": "BRICS",
-      "C": "UN Security Council (स्थायी सदस्यता)",
-      "D": "WTO में कृषि मुद्दे"
+    {
+        "id": 22,
+        "question": "मैन्ग्रोव्स (mangroves) भारत में कहाँ-कहाँ प्रमुख हैं? / Mangroves in India are prominently found in:",
+        "options": {
+            "A": "Sundarbans (Ganga–Brahmaputra delta) / सुन्दरबंध",
+            "B": "Gulf of Kachchh and creeks of Gujarat / कच्छ की खाड़ी",
+            "C": "Kerala backwaters and Kerala coast / केरल बैकवॉटर्स",
+            "D": "Thar desert inland dunes / थार रेगिस्तान"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "Sundarbans विश्व का सबसे बड़ा मैन्ग्रोव क्षेत्र है; इसके अलावा गुजरात की खाड़ी/creeks और दक्षिणी तटीय backwaters (Kerala) में भी mangrove communities मिलती हैं। थार मरुस्थल में ऐसा coastal tidal mangrove सिस्टम नहीं है। / The Sundarbans, Gujarat creeks (Gulf of Kachchh) and Kerala backwaters host significant mangrove stands; Thar desert does not."
     },
-    "answer": ["A", "C", "D"],
-    "explanation": "अमेरिका ने भारत को G20, IMF और UN सुरक्षा परिषद में समर्थन दिया, जबकि BRICS अमेरिका का प्राथमिक मंच नहीं है।"
-  },
-  {
-    "id": 23,
-    "question": "अगस्त 2025 में भारत-अमेरिका के बीच सैन्य अभ्यास में किन नई तकनीकों का प्रयोग हुआ?",
-    "options": {
-      "A": "ड्रोन और UAV",
-      "B": "हाइपरसोनिक मिसाइल",
-      "C": "क्वांटम कम्युनिकेशन",
-      "D": "साइबर रक्षा अभ्यास"
+    {
+        "id": 23,
+        "question": "कौन-से उद्योग विशेष रूप से तटीय/समुद्री जलवायु से प्रभावित होते हैं? / Which industries are especially sensitive to coastal/marine climate?",
+        "options": {
+            "A": "Fishing and seafood processing / मत्स्यपालन व प्रसंस्करण",
+            "B": "Salt production (solar evaporation) / समुद्री नमक उत्पादन",
+            "C": "Heavy water-intensive steel plants inland / भारी जल-उपयोग स्टील प्लांट (अंदरूनी)",
+            "D": "Coastal tourism / तटीय पर्यटन"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "Fishing, salt (solar evaporation), और coastal tourism directly depend on coastal climatic conditions (sea temperature, winds, sunshine, monsoon/cyclones). Heavy inland steel plants are more dependent on mineral/energy logistics than coastal climate per se. / Fishing, salt production and coastal tourism are strongly climate-dependent industries on the coast."
     },
-    "answer": ["A", "D"],
-    "explanation": "ड्रोन, UAV और साइबर सुरक्षा अभ्यास में प्रयोग हुआ, जबकि हाइपरसोनिक और क्वांटम तकनीक का प्रयोग सीमित या भविष्य के लिए योजनाबद्ध है।"
-  },
-  {
-    "id": 24,
-    "question": "अमेरिका और भारत के बीच व्यापार में कौन-कौन से सेक्टर को प्राथमिकता दी गई है?",
-    "options": {
-      "A": "फार्मास्यूटिकल्स और हेल्थकेयर",
-      "B": "ऑटोमोबाइल",
-      "C": "सूचना प्रौद्योगिकी (IT)",
-      "D": "कृषि"
+    {
+        "id": 24,
+        "question": "Alluvial, Black, Laterite soils के तुलनात्मक गुणों में क्या सही है? / Which statements about alluvial, black and laterite soils are correct?",
+        "options": {
+            "A": "Alluvial soils are generally fertile and suited for multiple crops / ऐलुवियल उर्वरक और बहु-फसल",
+            "B": "Black soils retain moisture and are ideal for cotton / ब्लैक मिट्टी नमी रोकती है — कपास हेतु उपयुक्त",
+            "C": "Laterite soils are highly fertile without amendments / लेटराइट अत्यंत उर्वरक बिना सुधार के",
+            "D": "Laterite soils often need soil management due to leaching / लेटराइट में लीचिंग के कारण सुधार आवश्यक"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "Alluvial soils बहु-फसलों/उच्च कृषि उत्पादन के लिये उपयुक्त होते हैं; black soils moisture holding और cotton-friendly हैं; laterites में leaching के कारण पोटैशियम/फॉस्फेट/नाइट्रोजन कम रह सकते हैं — इसलिए सुधार/उर्वरीकरण अक्सर आवश्यक होते हैं। / Alluvial soils are fertile and multi-crop friendly; black soils retain moisture for cotton; laterites typically require management to overcome leaching and low fertility."
     },
-    "answer": ["A", "C"],
-    "explanation": "भारत और अमेरिका ने IT और फार्मास्यूटिकल्स में व्यापार सहयोग को प्राथमिकता दी, ऑटो और कृषि सेक्टर कम महत्व में रहे।"
-  },
-  {
-    "id": 25,
-    "question": "भारत और अमेरिका के बीच हाल के समय में किस सुरक्षा गठबंधन की चर्चा हुई है?",
-    "options": {
-      "A": "AUKUS",
-      "B": "QUAD",
-      "C": "BRICS",
-      "D": "NATO"
+    {
+        "id": 25,
+        "question": "मॉन्सून हवाएँ सामान्यतः किस दिशा से आकर भारत पर प्रभाव डालती हैं? / The dominant monsoon winds arrive over India from which direction?",
+        "options": {
+            "A": "Southwest → Northeast / दक्षिण-पश्चिम से उत्तर-पूर्व",
+            "B": "Northeast → Southwest / उत्तर-पूर्व से दक्षिण-पश्चिम",
+            "C": "East → West / पूर्व से पश्चिम",
+            "D": "West → East / पश्चिम से पूर्व"
+        },
+        "answer": [
+            "A"
+        ],
+        "explanation": "दक्षिण-पश्चिम मॉनसून समुद्री वायुओं को लेकर दक्षिण-पश्चिम दिशा से भारत की ओर आता है और आर्द्रता लेकर उत्तर-पूर्व दिशा में प्रवेश करता है। / The SW monsoon winds approach India from the southwest and move northeastward, carrying moisture inland."
     },
-    "answer": ["B"],
-    "explanation": "भारत और अमेरिका ने QUAD (जापान और ऑस्ट्रेलिया सहित) के माध्यम से सुरक्षा सहयोग पर चर्चा की, AUKUS और NATO का इसमें शामिल नहीं है।"
-  },
-  {
-    "id": 26,
-    "question": "भारत-अमेरिका डिजिटल साझेदारी में किन मुद्दों पर सहयोग हुआ?",
-    "options": {
-      "A": "साइबर सुरक्षा और डेटा संरक्षण",
-      "B": "सोशल मीडिया निगरानी",
-      "C": "AI आधारित ट्रैफिक मैनेजमेंट",
-      "D": "ब्लॉकचेन आधारित वित्तीय लेन-देन"
+    {
+        "id": 26,
+        "question": "Western disturbances का भारत पर प्रभाव क्या है? / What is the impact of Western Disturbances on India?",
+        "options": {
+            "A": "They bring winter precipitation (rain/snow) to NW India and Himalayas / सर्दियों में उत्तर-पश्चिम भारत व हिमालय में वर्षा/हिमपात",
+            "B": "They are primary cause of monsoon rains in June–September / जून–सितंबर मॉनसून की मुख्य वजह",
+            "C": "They affect Rabi rainfall and wheat production in Punjab/HP regions / रबी ऋतु व गेहूँ उत्पादन पर प्रभाव",
+            "D": "They create tropical cyclones in Bay of Bengal / बंगाल की खाड़ी में चक्रवात बनाते हैं"
+        },
+        "answer": [
+            "A",
+            "C"
+        ],
+        "explanation": "Western Disturbances यूरोप/Mediterranean से आने वाले पश्चिमी वातावरणीय disturbances हैं जो सर्दियों में NW India पर बरसात/हिमपात लाते हैं और रबी फसलों (जैसे गेहूँ) के लिए जरूरी सर्दियों-वर्षा प्रभावित करते हैं। वे मॉनसून-कारक नहीं हैं और न ही बंगाल-चक्रवात बनाते हैं। / Western Disturbances bring winter rain/snow to NW India/Himalayas and influence Rabi agriculture (wheat); they are not the monsoon cause nor Bay cyclones."
     },
-    "answer": ["A", "C", "D"],
-    "explanation": "साइबर सुरक्षा, AI और ब्लॉकचेन आधारित वित्तीय लेनदेन में सहयोग हुआ, सोशल मीडिया निगरानी साझेदारी का हिस्सा नहीं बनी।"
-  },
-  {
-    "id": 27,
-    "question": "अगस्त 2025 में भारत और अमेरिका ने किस प्रकार की आपदा प्रबंधन में साझेदारी की?",
-    "options": {
-      "A": "प्राकृतिक आपदा (बाढ़ और तूफान)",
-      "B": "मानव निर्मित आपदा (साइबर हमले)",
-      "C": "सैन्य संकट प्रबंधन",
-      "D": "अंतरिक्ष आपदा निगरानी"
+    {
+        "id": 27,
+        "question": "Plains में कृषि-केंद्रित उद्योगों को कौन-सी जलवायु/संसाधन शर्तें प्रभावित करती हैं? / Which climatic/resource conditions influence agro-industries in the plains?",
+        "options": {
+            "A": "Reliable irrigation and winter temperatures for wheat milling / सिंचाई व शीतकालीन तापमान (गेहूँ मिलिंग)",
+            "B": "High humidity and shade for tea processing / उच्च आर्द्रता व छाँव (चाय)",
+            "C": "High insolation and arid land for cotton ginning / उच्च प्रकाश व शुष्क भूमि (कॉटन ginnery)",
+            "D": "Proximity to river deltas for jute retting & processing / नदी डेल्टा के पास (जूट रेटिंग)"
+        },
+        "answer": [
+            "A",
+            "C",
+            "D"
+        ],
+        "explanation": "Plains-based agro-industries depend irrigation/winter climate for wheat, arid/semi-arid high-insolation belts favor cotton processing & ginning, और जूट रेटिंग के लिए deltaic, slow-flowing water areas आवश्यक होते हैं। चाय hill/monsoon regions में होती है, plains-humidity नहीं। / Agro-industries in plains rely on irrigation for wheat, arid high-insolation belts for cotton processing, and river deltas for jute; tea requires hill/monsoon climates."
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "भारत और अमेरिका ने प्राकृतिक आपदा, साइबर हमलों और अंतरिक्ष निगरानी में सहयोग किया, सैन्य संकट प्रबंधन QUAD के अंतर्गत सीमित है।"
-  },
-  {
-    "id": 28,
-    "question": "भारत और अमेरिका की हालिया रक्षा खरीद में किन उपकरणों को प्राथमिकता दी गई?",
-    "options": {
-      "A": "फाइटर जेट और हेलीकॉप्टर",
-      "B": "टैंक और बख्तरबंद वाहन",
-      "C": "ड्रोन और UAV",
-      "D": "सबमरीन और नौसैनिक जहाज"
+    {
+        "id": 28,
+        "question": "कौन-से ऊर्जा/उद्योग जलवायु विशेषताओं पर जोरदार निर्भर करते हैं? / Which energy/industry types are strongly climate-dependent?",
+        "options": {
+            "A": "Hydropower (Himalayan steep gradient rivers) / जल-विद्युत (हिमालयी नदी झरनों)",
+            "B": "Wind farms (coastal / elevated ridges) / पवन ऊर्जा (तट/ऊँचे रिब्स)",
+            "C": "Solar parks (high insolation deserts like Thar) / सौर ऊर्जा (उच्च सौर विकिरण)",
+            "D": "Underground coal gasification (climate-independent) / भूमिगत कोयला गैसीकरण"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "Hydro power Himalayan steep gradient rivers पर निर्भर करता है; wind energy coastal ridges/plateaus (Kutch, Tamil Nadu) और solar parks उच्च-insolation थार जैसे रेगिस्तानी/अर्ध-शुष्क क्षेत्रों पर निर्भर करते हैं। UG coal gasification तकनीकी/भू-स्रोत पर निर्भर है, जलवायु-नियोजित नहीं। / Hydropower, wind and solar installations are climate/location sensitive — hydro to gradients and flows, wind to coastal/topography, solar to insolation."
     },
-    "answer": ["A", "C", "D"],
-    "explanation": "फाइटर जेट, ड्रोन और नौसैनिक जहाजों को प्राथमिकता दी गई, जबकि टैंक और बख्तरबंद वाहन प्राथमिकता में नहीं थे।"
-  },
-  {
-    "id": 29,
-    "question": "अमेरिका और भारत के बीच 2025 में जलवायु सहयोग किस क्षेत्र में बढ़ा?",
-    "options": {
-      "A": "सौर ऊर्जा परियोजनाएं",
-      "B": "वायु ऊर्जा (Wind Energy)",
-      "C": "कोयला आधारित ऊर्जा",
-      "D": "जैव ईंधन और बायोगैस"
+    {
+        "id": 29,
+        "question": "मिट्टी अपरदन (soil erosion) के मुख्य कारण कौन–से हैं? / Primary causes of soil erosion include:",
+        "options": {
+            "A": "Deforestation and removal of vegetative cover / वनों की कटाई",
+            "B": "Intense monsoon rainfall on steep slopes / तीव्र मानसूनी वर्षा और ढलान",
+            "C": "Appropriate contour farming and terracing / कंटूर फॉर्मिंग और टैरेसिंग",
+            "D": "Overgrazing and poor land-management / अतिचराई और खराब भूमि-प्रबंधन"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "Deforestation, intense rainfall on vulnerable slopes और overgrazing land cover हटा कर soil erosion बढाते हैं। कंटूर फॉर्मिंग/terracing वास्तव में अपरदन को रोकने के उपाय हैं, इसलिए वे कारण नहीं बल्कि समाधान हैं। / Deforestation, heavy rain on slopes and overgrazing accelerate erosion; contour farming and terracing are mitigation measures."
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "सौर, वायु और जैव ईंधन परियोजनाओं पर सहयोग बढ़ा, कोयला आधारित ऊर्जा में सहयोग नहीं हुआ।"
-  },
-  {
-    "id": 30,
-    "question": "भारत और अमेरिका ने 2025 में किस तकनीकी क्षेत्र में निवेश बढ़ाया?",
-    "options": {
-      "A": "क्वांटम कंप्यूटिंग",
-      "B": "AI और मशीन लर्निंग",
-      "C": "परमाणु ऊर्जा",
-      "D": "ऑटोमोटिव टेक्नोलॉजी"
+    {
+        "id": 30,
+        "question": "भारत में वर्षा-वितरण के सामान्य पैटर्न में क्या सही है? / Which statements about India’s rainfall distribution are correct?",
+        "options": {
+            "A": "Western Ghats and NE hills are high rainfall zones / पश्चिमी घाट व उत्तर-पूर्वी पहाड़ अधिक वर्षा",
+            "B": "Central India receives moderate monsoon rainfall / मध्य भारत मध्यम वर्षा प्राप्त करता है",
+            "C": "North-west India (Thar) receives very high annual rainfall / उत्तर-पश्चिम बहुत अधिक वर्षा",
+            "D": "Rainfall shows strong spatial variability due to relief & wind patterns / स्थलाकृति व पवन के कारण मजबूत स्थानिक भिन्नता"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "Western Ghats/NE hills में या तो orographic या monsoon convergence कारण से भारी वर्षा होती है; central India में सामान्यतः मध्यम मॉनसून वर्षा होती है; ठार/उत्तर-पश्चिम सूखा है — इसलिए उत्तर-पश्चिम पर 'बहुत अधिक वर्षा' कथन गलत है। वर्षा में स्थलीय व पवनीय प्रभावों से स्पष्ट स्थानिक भिन्नता होती है। / Western Ghats and NE hills are heavy rainfall zones; central India moderate; strong spatial variability arises from relief and wind patterns."
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "क्वांटम कंप्यूटिंग, AI और परमाणु ऊर्जा में निवेश बढ़ाया गया; ऑटोमोटिव टेक्नोलॉजी पर सीमित निवेश हुआ।"
-  },
-  {
-    "id": 31,
-    "question": "भारत और अमेरिका के बीच साइबर सुरक्षा सहयोग में कौन-कौन शामिल हैं?",
-    "options": {
-      "A": "हैकिंग और डेटा सुरक्षा",
-      "B": "क्रिप्टोकरेंसी निगरानी",
-      "C": "नेटवर्क इन्फ्रास्ट्रक्चर सुरक्षा",
-      "D": "सामाजिक मीडिया डेटा संग्रह"
+    {
+        "id": 31,
+        "question": "तटीय और द्वीपीय क्षेत्रों के लिए कौन-सी जैविक/जलवायु विशेषताएँ सामान्य हैं? / Which bioclimatic features are typical of coastal and island regions?",
+        "options": {
+            "A": "Moderated temperatures and high humidity / तापमान का समेकन व उच्च आर्द्रता",
+            "B": "Strong seasonality with freezing winters / कठोर ठंड और बर्फ",
+            "C": "Presence of mangroves and coastal wetlands / मैन्ग्रोव व तटीय दलदलों का होना",
+            "D": "Coral reefs in warm, clear, shallow seas (e.g., Gulf of Mannar, Lakshadweep) / प्रवाल भित्तियाँ"
+        },
+        "answer": [
+            "A",
+            "C",
+            "D"
+        ],
+        "explanation": "Coastal/island climates में तापमान की अप्रतिस्थापनशीलता (moderation) और उच्च आर्द्रता आम है; मैन्ग्रोव्स और coastal wetlands अक्सर मिलते हैं; coral reefs warm, shallow, clear seawater में बनते हैं (Gulf of Mannar, Lakshadweep)। कठोर, फ्रीज़िंग सर्दियाँ सामान्य नहीं। / Coastal/island regions have moderated temps/high humidity, mangroves/wetlands and coral reefs in suitable warm waters; freezing winters are not typical."
     },
-    "answer": ["A", "C"],
-    "explanation": "साइबर सुरक्षा सहयोग में डेटा और नेटवर्क सुरक्षा शामिल है, क्रिप्टोकरेंसी और सोशल मीडिया निगरानी मुख्य नहीं हैं।"
-  },
-  {
-    "id": 32,
-    "question": "भारत-अमेरिका ऊर्जा साझेदारी में हालिया वार्ता में किन पर जोर दिया गया?",
-    "options": {
-      "A": "परमाणु ऊर्जा सुरक्षा",
-      "B": "सौर ऊर्जा उत्पादन वृद्धि",
-      "C": "हाइड्रोजन ईंधन शोध",
-      "D": "कोयला आधारित ऊर्जा उत्पादन"
+    {
+        "id": 32,
+        "question": "भारत में अत्यधिक तापमान-चरम (temperature extremes) कहाँ पाए जाते हैं? / Where are temperature extremes in India typically recorded?",
+        "options": {
+            "A": "Highest summer temperatures — Thar Desert / थार मरुस्था में उच्चतम गर्मी",
+            "B": "Lowest winter minimums — Leh/Ladakh region / लद्दाख/लेह में न्यूनतम तापमान",
+            "C": "Moderate year-round temperatures — coastal Kerala / केरल तट पर सममित तापमान",
+            "D": "Extreme cold and permafrost throughout peninsular India / प्रायद्वीपीय भारत में पर्माफ्रॉस्ट"
+        },
+        "answer": [
+            "A",
+            "B",
+            "C"
+        ],
+        "explanation": "Thar और उत्तर-पश्चिम India में सबसे अधिक गर्मी रेकॉर्ड होती है; उच्च-ऊँचाई वाले लेह/लद्दाख में सर्दियों में अत्यन्त निम्न तापमान रहते हैं; तटीय केरल में तापमान वर्ष भर तुलनात्मक रूप से सममित रहता है। पर्माफ्रॉस्ट प्रायद्वीपीय भारत में सामान्य नहीं। / Thar records highest summer temps; Leh/Ladakh the lowest winters; coastal Kerala shows moderated year-round temps; permafrost is not present across peninsular India."
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "परमाणु, सौर और हाइड्रोजन ऊर्जा पर ध्यान दिया गया, कोयला आधारित ऊर्जा पर सहयोग सीमित है।"
-  },
-  {
-    "id": 33,
-    "question": "भारत और अमेरिका के बीच हाल के समय में वाणिज्यिक सहयोग में कौन से क्षेत्र शामिल हैं?",
-    "options": {
-      "A": "IT और सॉफ्टवेयर",
-      "B": "फार्मास्यूटिकल्स",
-      "C": "हवाई और रक्षा उपकरण",
-      "D": "कृषि निर्यात"
+    {
+        "id": 33,
+        "question": "किस मिट्टी में कार्बनिक पदार्थ (organic matter) सामान्यतः अधिक रहता है? / Which soils typically have higher soil organic matter?",
+        "options": {
+            "A": "Alluvial soils with regular silt deposition / ऐलुवियल (नियमित साइल्ट जमा)",
+            "B": "Forest soils (humid, undisturbed) / वन-मिट्टी (आर्द्र/अपकृत)",
+            "C": "Desert sands (arid, sparse vegetation) / रेतीली मरुस्थली मिट्टी",
+            "D": "Leached laterites without organic inputs / लीच्ड लेटराइट"
+        },
+        "answer": [
+            "A",
+            "B"
+        ],
+        "explanation": "Alluvial और स्वस्थ forest soils में आमतौर पर ऑर्गैनिक-मेटर अधिक मिलता है (नदी-सिल्ट और पत्तों/जैविक अपशिष्ट के कारण); रेतीली मरुस्थली और लीच्ड laterites में सामान्यतः organic matter कम होता है। / Alluvial and forest soils tend to be richer in organic matter; desert sands and leached laterites are poorer."
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "वाणिज्यिक सहयोग IT, फार्मास्यूटिकल्स और रक्षा उपकरण में हुआ, कृषि निर्यात प्राथमिक नहीं था।"
-  },
-  {
-    "id": 34,
-    "question": "भारत-अमेरिका शिक्षा और अनुसंधान सहयोग में किन क्षेत्रों को प्राथमिकता दी गई?",
-    "options": {
-      "A": "STEM और विज्ञान अनुसंधान",
-      "B": "सामाजिक विज्ञान और मानविकी",
-      "C": "उर्जा अनुसंधान",
-      "D": "डिजिटल शिक्षा और AI"
+    {
+        "id": 34,
+        "question": "जलवायु परिवर्तन (climate change) के कौन-से प्रभाव भारत पर प्रमुख रूप से देखे जा रहे / अनुमानित हैं? / Which climate change impacts are evident/expected in India?",
+        "options": {
+            "A": "Increased extreme rainfall events and localized floods / चरम वर्षा-घटनाओं में वृद्धि",
+            "B": "Glacial retreat in Himalayas affecting river flows / हिमालयी ग्लेशियरों का पीछे हटना",
+            "C": "Complete cessation of monsoon within next year / अगले वर्ष में मॉनसून का पूर्ण रूप से बंद हो जाना",
+            "D": "Sea-level rise threatening low-lying coastal zones / समुद्र-स्तर वृद्धि"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "भविष्यवाणियाँ और अवलोकन चरम घटनाओं के बढ़ने, हिमालयी ग्लेशियरों की पीछे हटने और समुद्र-स्तर वृद्धि के जोखिम दिखाते हैं जो सघन तटीय डेल्टाओं/समुद्री तटीय समुदायों के लिये चिंताजनक हैं। 'मॉनसून का अगले साल बंद' होना वास्तविक/वैज्ञानिक रूप से आधारहीन है। / Observations/projected impacts include more extreme rainfall/floods, Himalayan glacial retreat affecting runoff, and sea-level rise threatening coasts; a complete monsoon cessation next year is not supported."
     },
-    "answer": ["A", "C", "D"],
-    "explanation": "STEM, ऊर्जा अनुसंधान और AI शिक्षा को प्राथमिकता दी गई, जबकि मानविकी पर सहयोग सीमित है।"
-  },
-  {
-    "id": 35,
-    "question": "भारत और अमेरिका के बीच हाल के समय में कौन सा रक्षा अभ्यास आयोजित हुआ?",
-    "options": {
-      "A": "Malabar Naval Exercise",
-      "B": "Red Flag Air Exercise",
-      "C": "Iron Dome Missile Exercise",
-      "D": "Cyber Shield Exercise"
+    {
+        "id": 35,
+        "question": "सूचित कृषि-नीति (irrigation) होने पर किस तरह के क्रॉपिंग पैटर्न सम्भव होते हैं? / With assured irrigation, which cropping patterns become feasible?",
+        "options": {
+            "A": "Multiple cropping (2–3 crops/year) / बहु-फसली",
+            "B": "Only single Kharif crop (rain-dependent) / केवल एक-कुहार्फ फसल",
+            "C": "Rabi cropping (wheat, barley) increased / रबी की फसल वृद्धि",
+            "D": "Complete switch to horticulture irrespective of markets / पूर्ण रूप से बागवानी में बदल जाना"
+        },
+        "answer": [
+            "A",
+            "C"
+        ],
+        "explanation": "सुनिश्चित सिंचाई से फ़सलों की कटाई-आवृत्ति बढ़ाकर multiple cropping संभव हो जाता है तथा रबी फसलों (गेहूँ आदि) की कटाई विश्वसनीय होती है। पर मार्केट/ज़मीन प्रकार पर निर्भर करते हुए हर क्षेत्र में बागवानी में 'पूर्ण स्विच' व्यावहारिक नहीं है। / Assured irrigation enables multi-cropping and expanded Rabi cultivation; wholesale shift to horticulture depends on markets/soils and is not automatic."
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "Malabar, Red Flag और Cyber Shield अभ्यास हुए; Iron Dome का प्रयोग दोनों देशों के बीच नहीं हुआ।"
-  },
-  {
-    "id": 36,
-    "question": "भारत और अमेरिका के बीच हालिया रक्षा खरीद में किस प्रकार की तकनीक शामिल हुई?",
-    "options": {
-      "A": "ड्रोन और UAV",
-      "B": "हाइपरसोनिक मिसाइल",
-      "C": "सतह और पनडुब्बी युद्ध तकनीक",
-      "D": "साइबर सुरक्षा उपकरण"
+    {
+        "id": 36,
+        "question": "हिमालयी बनाम प्रायद्वीपीय नदियों के प्रवाह पैटर्न में क्या अंतर है? / What distinguishes Himalayan and Peninsular river regimes?",
+        "options": {
+            "A": "Himalayan rivers are largely perennial due to snow/glacier melt + monsoon / हिमालयी नदियाँ perennial",
+            "B": "Peninsular rivers are mostly seasonal and monsoon-fed (rainfall dependent) / प्रायद्वीपीय नदियाँ मौसमी",
+            "C": "Peninsular rivers have extensive glacial sources / प्रायद्वीपीय नदियों के ग्लेशियल स्रोत",
+            "D": "Himalayan rivers dry up completely in summer / हिमालयी नदियाँ गर्मियों में सूख जाती हैं"
+        },
+        "answer": [
+            "A",
+            "B"
+        ],
+        "explanation": "हिमालयी नदियाँ हिमनदों/बर्फ के मेल्ट और मॉनसून वर्षा के कारण वर्ष भर बहती रहती हैं; प्रायद्वीपीय नदियाँ सामान्यतः मॉनसून-नियंत्रित और ऋतुपरक होती हैं। प्रायद्वीपीय नदियों के ग्लेशियल स्रोत नहीं होते और हिमालयी नदियाँ गर्मियों में सूखती नहीं। / Himalayan rivers are perennial (glacial + monsoon fed); peninsular rivers are largely monsoon seasonal."
     },
-    "answer": ["A", "C", "D"],
-    "explanation": "ड्रोन, नौसैनिक तकनीक और साइबर उपकरण में सहयोग हुआ, हाइपरसोनिक मिसाइल भविष्य की योजना है।"
-  },
-  {
-    "id": 37,
-    "question": "भारत-अमेरिका ऊर्जा सहयोग में हाल के समय में किन नवाचारों को प्रोत्साहित किया गया?",
-    "options": {
-      "A": "सौर पैनल और ऊर्जा भंडारण",
-      "B": "ग्रीन हाइड्रोजन और बायोगैस",
-      "C": "कोयला गैसीफिकेशन",
-      "D": "न्यूक्लियर फ्यूजन अनुसंधान"
+    {
+        "id": 37,
+        "question": "कौन-से तटीय उद्योग जलवायु झटकों से सबसे ज्यादा संवेदनशील हैं? / Which coastal industries are most sensitive to climatic shocks?",
+        "options": {
+            "A": "Small-scale fish processing & landing centres / छोटे मत्स्य प्रसंस्करण केंद्र",
+            "B": "Salt pans (solar evaporation dependent) / नमक पैन",
+            "C": "Seaborne heavy metallurgy plants / भारी समुद्री धातु उद्योग",
+            "D": "Coastal tourism & resorts / तटीय पर्यटन"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "Small-scale fisheries, salt pans and coastal tourism directly प्रभावित होते हैं जब तूफ़ान/समुद्री स्तर या मॉनसून अनुचित होता है; बड़े समुद्री metallurgy plants स्टोरेज/लोजिस्टिक्स पर निर्भर करते हैं पर छोटे समुदाय-आधारित coastal industries अधिक संवेदनशील होती हैं। / Small fisheries, salt production and coastal tourism are highly vulnerable to climate extremes and sea-level/cyclone events."
     },
-    "answer": ["A", "B", "D"],
-    "explanation": "सौर, हाइड्रोजन और न्यूक्लियर फ्यूजन अनुसंधान को बढ़ावा मिला, कोयला गैसीफिकेशन प्राथमिक नहीं है।"
-  },
-  {
-    "id": 38,
-    "question": "भारत-अमेरिका हालिया आर्थिक सहयोग में किन क्षेत्रों को प्राथमिकता दी गई?",
-    "options": {
-      "A": "IT और डिजिटल सेवाएं",
-      "B": "हेल्थकेयर और बायोटेक",
-      "C": "ऑटोमोबाइल और वाहन उद्योग",
-      "D": "कृषि और खाद्य निर्यात"
+    {
+        "id": 38,
+        "question": "किस उपाय से जमीन की लवणता घटायी जा सकती है? / Which measures reduce soil salinity?",
+        "options": {
+            "A": "Application of gypsum (CaSO4) and chemical amendments / जिप्सम का उपयोग",
+            "B": "Leaching with good quality irrigation water and improved drainage / शुद्ध जल से लीचिंग और निकासी",
+            "C": "Continuous flood irrigation with saline water / क्षारीय जल से लगातार बाढ़ सिंचाई",
+            "D": "Afforestation with salt-tolerant species to stabilize soil / लवण-सहनशील पेड़ लगाना"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "Gypsum soil ionic displacement में मदद करता है; लीचिंग और निकासी salts को तबादला कर निकालते हैं; salt-tolerant afforestation जमीन की reclaim में मदद करती है। Saline पानी से बाढ़ सिंचाई लवणता और बर्दाश्त को और बढ़ा सकती है। / Gypsum application, leaching with quality water and drainage, and planting salt-tolerant species help reclaim saline soils; flood irrigation with saline water worsens salinity."
     },
-    "answer": ["A", "B"],
-    "explanation": "IT और हेल्थकेयर/बायोटेक को प्राथमिकता दी गई, ऑटोमोबाइल और कृषि क्षेत्र मुख्य फोकस में नहीं थे।"
-  },
-  {
-    "id": 39,
-    "question": "भारत और अमेरिका के बीच हाल के समय में अंतरिक्ष सहयोग किस क्षेत्र में बढ़ा?",
-    "options": {
-      "A": "सैटेलाइट लॉन्च और डेटा साझा करना",
-      "B": "मानवयुक्त अंतरिक्ष मिशन",
-      "C": "मंगल मिशन पर संयुक्त अनुसंधान",
-      "D": "अंतरिक्ष हथियार निर्माण"
+    {
+        "id": 39,
+        "question": "निम्न में से vegetation-climate मैच सही है? / Which vegetation-climate matches are correct?",
+        "options": {
+            "A": "Tropical evergreen — very high rainfall, no pronounced dry season / उष्णकटिबंधीय सदाबहार — बहुत वर्षा",
+            "B": "Tropical thorn — low rainfall, high evapotranspiration / कांटेदार वन — कम वर्षा",
+            "C": "Alpine scrubs — high temperature, humid plains / आल्पाइन — उच्च तापमान समतलीय",
+            "D": "Mangroves — saline tidal flats with sheltered coasts / मैन्ग्रोव — लवणीय ज्वारीय दलदल"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "Tropical evergreen forests में वर्षा बहुत अधिक व dry season न हो; thorn forests सूखे/कम वर्षा वाले इलाकों में; mangroves तटीय लवणीय ज्वारीय फ्लैट में उगते हैं। Alpine scrubs ठंडी उच्च-ऊँचाई पर होते हैं, न कि गर्म समतलीय परिस्थितियों में। / Tropical evergreen needs very high rain; thorn forests are drought-tolerant; mangroves occupy saline tidal flats; alpine scrubs are cold/high altitude environments."
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "सैटेलाइट, मानवयुक्त मिशन और मंगल अनुसंधान में सहयोग हुआ, अंतरिक्ष हथियार निर्माण शामिल नहीं है।"
-  },
-  {
-    "id": 40,
-    "question": "भारत और अमेरिका ने हाल ही में किस वैश्विक मंच पर सहयोग को मजबूत किया?",
-    "options": {
-      "A": "UN Climate Summit",
-      "B": "G20 Economic Forum",
-      "C": "BRICS",
-      "D": "WHO Health Initiatives"
-    },
-    "answer": ["A", "B", "D"],
-    "explanation": "भारत और अमेरिका ने UN Climate Summit, G20 और WHO में सहयोग बढ़ाया, BRICS मुख्य मंच नहीं है।"
-  }
+    {
+        "id": 40,
+        "question": "भूमि संरक्षण (soil conservation) के कौन-से व्यवहारिक उपाय प्रभावी माने जाते हैं? / Which practical soil conservation measures are effective?",
+        "options": {
+            "A": "Contour bunding and terracing on slopes / ढलानों पर कंटूर बंडिंग/टेरेसिंग",
+            "B": "Afforestation and shelter belts / वनोपकरण और आश्रय पट्टियाँ",
+            "C": "Unplanned clear-cutting for immediate agriculture expansion / अनियोजित कटाई",
+            "D": "Check-dams, gully plugging and controlled grazing / चेक-डैम/गुली प्लगिंग/नियंत्रित चराई"
+        },
+        "answer": [
+            "A",
+            "B",
+            "D"
+        ],
+        "explanation": "Contour bunding, terracing, afforestation, shelter belts और छोटे-पैमाने के check-dams/gully plugging व controlled grazing मिट्टी के अपरदन को घटाने और भूमि की उपज क्षमता बचाने में सिद्ध उपाय हैं। अनियोजित clear-cutting भूमि को कमजोर कर देता है। / Contour farming, terracing, afforestation, check-dams and controlled grazing are effective conservation practices; unplanned clear-cutting is harmful."
+    }
 ]
