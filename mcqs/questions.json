@@ -1,629 +1,484 @@
 [
-    {
-        "id": 1,
-        "question": "भारत में जलवायु के प्रमुख प्रकार कौन–से माने जाते हैं? / Which major climate types are recognised in India?",
-        "options": {
-            "A": "Tropical monsoon / उष्णकटिबंधीय मॉनसून",
-            "B": "Tropical wet and dry / उष्णकटिबंधीय आर्द्र–शुष्क (वैश्विक 'Aw')",
-            "C": "Humid subtropical (north India plains) / ग्रीष्म-समशीतोष्ण (उत्तर भारतीय मैदान)",
-            "D": "Mountain / Alpine (Himalayas) / पर्वतीय/आल्पाइन"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C",
-            "D"
-        ],
-        "explanation": "भारत में विविध ऊर्ध्वाधर और अक्षीय स्थलाकृति के कारण कई जलवायु प्रकार मिलते हैं — मुख्यतः मॉनसून-प्रेरित उष्णकटिबंधीय प्रकार (tropical monsoon & wet–dry), उत्तर के समशीतोष्ण प्लैन क्लाइमेट और हिमालय की पर्वतीय/आल्पाइन शृंखला। / Because of topographic and latitudinal diversity India hosts tropical monsoon, tropical wet–dry, humid subtropical plains and mountain/alpine climates."
+  {
+    "id": 1,
+    "question": "भारतीय संविधान में 'धर्मनिरपेक्षता' शब्द किस संशोधन द्वारा जोड़ा गया? / In the Indian Constitution, the term 'Secular' was added by which amendment?",
+    "options": {
+      "A": "42वां संविधान संशोधन / 42nd Amendment",
+      "B": "44वां संविधान संशोधन / 44th Amendment",
+      "C": "46वां संविधान संशोधन / 46th Amendment",
+      "D": "52वां संविधान संशोधन / 52nd Amendment"
     },
-    {
-        "id": 2,
-        "question": "प्रमुख दक्षिण-पश्चिम मॉनसून भारत में सामान्यतः किस अवधि में सक्रिय रहता है? / During which months is the Southwest monsoon mainly active over most of India?",
-        "options": {
-            "A": "June–September / जून–सितंबर",
-            "B": "October–December / अक्टूबर–दिसंबर",
-            "C": "March–May / मार्च–मई",
-            "D": "November–February / नवम्बर–फरवरी"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "दक्षिण-पश्चिम मॉनसून सामान्यतः जून के आरम्भ में केरल पर आकर जून–सितंबर में लगभग समग्र भारत को गर्म ऋतु का मुख्य वर्षा-अवधि देता है। अक्टूबर–नवम्बर में पीछे हटता है। / The SW monsoon arrives in June and is the principal rainy season over India during June–September, retreating in October–November."
+    "answer": ["A"],
+    "explanation": "42वें संविधान संशोधन (1976) द्वारा प्रस्तावना में 'Secular' और 'Socialist' शब्द जोड़े गए थे। यह इंदिरा गांधी की आपातकालीन अवधि का प्रमुख संशोधन था।"
+  },
+  {
+    "id": 2,
+    "question": "निम्नलिखित में से किन्हें मौलिक कर्तव्यों में शामिल किया गया है? / Which of the following are included in Fundamental Duties?",
+    "options": {
+      "A": "वैज्ञानिक दृष्टिकोण का विकास करना / Develop scientific temper",
+      "B": "राष्ट्रीय ध्वज और राष्ट्रगान का सम्मान करना / Respect the National Flag and Anthem",
+      "C": "मतदान करना / To vote in elections",
+      "D": "कर चुकाना / To pay taxes"
     },
-    {
-        "id": 3,
-        "question": "मॉनसून वर्षा के लिए महत्त्वपूर्ण आर्द्रता स्रोत कौन–से हैं? / Which are major moisture sources for the Indian monsoon?",
-        "options": {
-            "A": "Arabian Sea / अरब सागर",
-            "B": "Bay of Bengal / बंगाल की खाड़ी",
-            "C": "Indian Ocean (broader basin) / भारतीय महासागर (विस्तृत बेसिन)",
-            "D": "North Atlantic / उत्तर अटलांटिक"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "भारतीय मॉनसून का आर्द्रता–बोझ मुख्यतः अरब सागर और बंगाल की खाड़ी तथा व्यापक रूप से भारतीय महासागर से आता है — ये क्षेत्रों के ऊपर बनकर नमी और बादल पहुँचाते हैं। उत्तर अटलांटिक का प्रत्यक्ष योगदान मॉनसून की रोज़मर्रा की बारिश में सामान्यतः नहीं होता। / Moisture for the monsoon is derived mainly from the Arabian Sea, Bay of Bengal and the wider Indian Ocean basin; North Atlantic is not a direct source."
+    "answer": ["A","B"],
+    "explanation": "अनुच्छेद 51A में 11 मौलिक कर्तव्य सूचीबद्ध हैं। इसमें वैज्ञानिक दृष्टिकोण का विकास और राष्ट्रीय ध्वज/राष्ट्रगान का सम्मान शामिल है, जबकि मतदान और कर चुकाना मौलिक कर्तव्यों में नहीं आते।"
+  },
+  {
+    "id": 3,
+    "question": "प्रयागराज कुम्भ मेला किस यूनेस्को सूची में शामिल है? / Prayagraj Kumbh Mela is inscribed in which UNESCO list?",
+    "options": {
+      "A": "World Heritage Sites",
+      "B": "Intangible Cultural Heritage",
+      "C": "Cultural Landscapes",
+      "D": "Biosphere Reserves"
     },
-    {
-        "id": 4,
-        "question": "सबसे अधिक वार्षिक वर्षा के क्षेत्र कौन–से हैं? / Which regions receive the heaviest annual rainfall in India?",
-        "options": {
-            "A": "Meghalaya (Cherrapunji / Mawsynram) / मेघालय",
-            "B": "Western Ghats (windward slopes) / पश्चिमी घाट (वायु-समूहमुखी ढलान)",
-            "C": "Rajasthan (Thar) / राजस्थान (थार)",
-            "D": "Gujarat mainland / गुजरात मुख्यभूमि"
-        },
-        "answer": [
-            "A",
-            "B"
-        ],
-        "explanation": "मेघालय के चेरापूंजी/मॉसिनराम और पश्चिमी घाट के वायुविद-समौंही ढलान (windward) पर बहुत अधिक वर्षा होती है — जबकि थार रेगिस्तान और गुजरात का अधिकांश भाग अपेक्षाकृत सूखा है। / Mawsynram/Cherrapunji (Meghalaya) and the windward Western Ghats receive the heaviest rainfall; Thar and large parts of Gujarat are comparatively dry."
+    "answer": ["B"],
+    "explanation": "2017 में यूनेस्को ने प्रयागराज कुम्भ मेले को Intangible Cultural Heritage (ICH) of Humanity के रूप में सूचीबद्ध किया।"
+  },
+  {
+    "id": 4,
+    "question": "उत्तर प्रदेश में 'चिकनकारी कढ़ाई' का GI टैग किस जिले से जुड़ा है? / The GI tag of 'Chikankari Embroidery' is associated with which district of Uttar Pradesh?",
+    "options": {
+      "A": "वाराणसी / Varanasi",
+      "B": "लखनऊ / Lucknow",
+      "C": "फिरोजाबाद / Firozabad",
+      "D": "सहारनपुर / Saharanpur"
     },
-    {
-        "id": 5,
-        "question": "किसे rain-shadow क्षेत्र माना जाता है (Western Ghats के सापेक्ष)? / Which areas lie in the rain-shadow of the Western Ghats?",
-        "options": {
-            "A": "Deccan Plateau (interior Maharashtra / Karnataka) / डेक्कन पठार",
-            "B": "Konkan coastal strip / कोंकण तटीय पट्टी",
-            "C": "Leeward eastern Deccan pockets (parts of Telangana & interior Tamil Nadu) / लीवार्ड पूर्वी डेक्कन के भाग",
-            "D": "Gujarat coast directly windward of Ghats / गुजरात तट"
-        },
-        "answer": [
-            "A",
-            "C"
-        ],
-        "explanation": "पश्चिमी घाट की वायुविद (windward) तरफ तटीय क्षेत्र भारी वर्षा पाते हैं; उसके पीछे आकर डेक्कन के कई हिस्से (interior Maharashtra/Karnataka और कुछ दक्षिण-पूर्वी pockets जैसे interior Tamil Nadu/parts of Telangana) तुलनात्मक रूप से सुखे rain-shadow में आते हैं। / Windward coasts get heavy rains; interior Deccan areas and certain leeward pockets lie in the Western Ghats rain-shadow."
+    "answer": ["B"],
+    "explanation": "लखनऊ की चिकनकारी विश्व प्रसिद्ध है और इसे GI Tag प्राप्त है। यह मुगलकालीन कला का उत्कृष्ट उदाहरण है।"
+  },
+  {
+    "id": 5,
+    "question": "भारत में ग्रीन रेवोल्यूशन (हरित क्रांति) का सर्वाधिक प्रभाव किस फसल पर पड़ा? / The Green Revolution in India had the maximum impact on which crop?",
+    "options": {
+      "A": "चावल / Rice",
+      "B": "गेहूँ / Wheat",
+      "C": "गन्ना / Sugarcane",
+      "D": "ज्वार / Jowar"
     },
-    {
-        "id": 6,
-        "question": "हिमालयों का भारतीय जलवायु पर क्या प्रभाव होता है? / What are important climatic effects of the Himalayas on India?",
-        "options": {
-            "A": "They shield India from cold Central Asian winds in winter (moderating climate) / सर्दियों में मध्य एशियाई ठंडी हवाओं से रक्षा",
-            "B": "They completely block monsoon and prevent rainfall over north India / मॉनसून को पूरी तरह रोकते हैं",
-            "C": "They create snow-fed perennial rivers and influence rainfall distribution / हिमनदों द्वारा perennial नदियाँ और वर्षा वितरण पर प्रभाव",
-            "D": "They increase cyclone frequency over Bay of Bengal / बंगाल की खाड़ी पर चक्रवात बढाते हैं"
-        },
-        "answer": [
-            "A",
-            "C"
-        ],
-        "explanation": "हिमालय शीत हवा को ब्लॉक कर भारत के अंदरूनी भागों को अपेक्षाकृत गर्म बनाते हैं और साथ ही हिमनदों द्वारा स्थायी नदियाँ (Ganga–Brahmaputra जैसे) बनती हैं जो मानसून के साथ जोडकर जलवायु व जल साधन प्रभावित करती हैं। वे मॉनसून को 'पूरी तरह' नहीं रोकते; चक्रवात-आवृत्ति हिमालय का मुख्य कारण नहीं है। / The Himalayas block cold Central Asian winds and create snow-fed perennial rivers, affecting rainfall and water resources; they do not completely block the monsoon nor directly increase cyclone frequency over the Bay."
+    "answer": ["B"],
+    "explanation": "हरित क्रांति (1960s–70s) का सबसे बड़ा प्रभाव गेहूँ उत्पादन पर पड़ा, विशेषकर पंजाब, हरियाणा और पश्चिमी उत्तर प्रदेश में।"
+  },
+  {
+    "id": 6,
+    "question": "कुषाण शासक कनिष्क ने चौथी बौद्ध परिषद कहाँ बुलायी थी? / Kushan ruler Kanishka convened the Fourth Buddhist Council at which place?",
+    "options": {
+      "A": "पाटलिपुत्र / Pataliputra",
+      "B": "काश्मीर / Kashmir",
+      "C": "कुशीनगर / Kushinagar",
+      "D": "सांची / Sanchi"
     },
-    {
-        "id": 7,
-        "question": "Bay of Bengal बनाम Arabian Sea — किसमें चक्रवात और गंभीर तुफान अधिक आते हैं? / Which basin typically generates more tropical cyclones affecting India?",
-        "options": {
-            "A": "Bay of Bengal / बंगाल की खाड़ी",
-            "B": "Arabian Sea / अरब सागर",
-            "C": "Both equal frequency / दोनों समान",
-            "D": "Neither — cyclones form in Atlantic only / नहीं"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "बंगाल की खाड़ी में अरब सागर की तुलना में अधिक और अधिक तीव्र चक्रवाती घटनाएँ बनती हैं, इसलिए पूर्वी भारत (इष्टतः बंगाल तट, ओडिशा, AP) पर पोस्ट-मानसून/ऑक्टोबर–नवम्बर में ऊँची वर्षा/तूफ़ान का खतरा रहता है। / The Bay of Bengal produces more frequent and often stronger cyclones affecting the Indian coast than the Arabian Sea."
+    "answer": ["B"],
+    "explanation": "कनिष्क ने चौथी बौद्ध परिषद कश्मीर में (लगभग 72 AD) बुलाई थी। यह महायान बौद्ध धर्म के विकास में निर्णायक रही।"
+  },
+  {
+    "id": 7,
+    "question": "भारत का पहला जैवमंडल आरक्षित क्षेत्र कौन सा है? / Which is the first Biosphere Reserve of India?",
+    "options": {
+      "A": "सुंदरबन / Sundarbans",
+      "B": "नन्दादेवी / Nanda Devi",
+      "C": "निलगिरी / Nilgiri",
+      "D": "मानस / Manas"
     },
-    {
-        "id": 8,
-        "question": "भारत में मुख्य वन/वेजिटेशन प्रकार कौन–से हैं? / Major vegetation types found in India include:",
-        "options": {
-            "A": "Tropical evergreen / उष्णकटिबंधीय सदाबहार",
-            "B": "Tropical moist deciduous / आर्द्र पतझड़ी (moist deciduous)",
-            "C": "Tropical dry deciduous / शुष्क पतझड़ी",
-            "D": "Tropical thorn / कांटेदार वन (thorn)",
-            "E": "Montane & Alpine / पर्वतीय-आल्पाइन",
-            "F": "Mangrove / मैन्ग्रोव"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
-        ],
-        "explanation": "भारत का vegitation मॉनसून-आधारित gradients और elevation के अनुसार बदलता है: पश्चिमी घाट/NE में tropical evergreen, मध्य-भारत में moist deciduous, शुष्क इलाकों में dry deciduous/ thorn, हिमालय में montane–alpine और तटीय डेल्टाओं जैसे Sundarbans में mangrove मिलते हैं। / Vegetation in India ranges from tropical evergreen and moist/dry deciduous to thorn, montane/alpine and mangrove according to rainfall and elevation gradients."
+    "answer": ["C"],
+    "explanation": "भारत का पहला Biosphere Reserve निलगिरी (1986) घोषित किया गया था। इसे UNESCO का हिस्सा भी बनाया गया।"
+  },
+  {
+    "id": 8,
+    "question": "निम्नलिखित में से कौन-सा इंडस वैली सभ्यता का बंदरगाह नगर था? / Which of the following was a port city of Indus Valley Civilization?",
+    "options": {
+      "A": "लोथल / Lothal",
+      "B": "हड़प्पा / Harappa",
+      "C": "मोहनजोदड़ो / Mohenjo-Daro",
+      "D": "कालीबंगन / Kalibangan"
     },
-    {
-        "id": 9,
-        "question": "Alluvial soils किन क्षेत्रों में मुख्य रूप से मिलते हैं? / Alluvial soils are primarily found in:",
-        "options": {
-            "A": "Indo-Gangetic plains / Indo-Gangetic मैदान",
-            "B": "River deltas and coastal plains (e.g., Ganga, Brahmaputra, Godavari deltas) / नदी डेल्टाएँ/तटीय मैदाने",
-            "C": "Deccan lava plateau / डेक्कन लावा पठार",
-            "D": "Thar desert / थार रेगिस्तान"
-        },
-        "answer": [
-            "A",
-            "B"
-        ],
-        "explanation": "Alluvial soils नदियों के द्वारा लाये गए सिंदूरी तलछट से बनते हैं और इसलिए Indo-Gangetic plain व विभिन्न नदी-डेल्टाओं/तटीय मैदानों में व्यापक होते हैं। डेक्कन ट्रैप/थार रेगिस्तान में नहीं। / Alluvium is deposited by rivers, so it dominates the Indo-Gangetic plains and river deltas/coastal plains."
+    "answer": ["A"],
+    "explanation": "लोथल (गुजरात) सिंधु घाटी सभ्यता का प्रमुख बंदरगाह नगर था, जहाँ डॉकयार्ड के अवशेष मिले हैं।"
+  },
+  {
+    "id": 9,
+    "question": "उत्तर प्रदेश का कौन सा जिला 'ताला नगरी' के नाम से प्रसिद्ध है? / Which district of Uttar Pradesh is famous as 'Tala Nagri'?",
+    "options": {
+      "A": "मुरादाबाद / Moradabad",
+      "B": "अलीगढ़ / Aligarh",
+      "C": "कानपुर / Kanpur",
+      "D": "सहारनपुर / Saharanpur"
     },
-    {
-        "id": 10,
-        "question": "Black (Regur) soils किस क्षेत्र से संबंधित हैं और किस फसल के लिए उपयुक्त मानी जाती हैं? / Black (Regur) soils are associated with which region and are best suited for which crop?",
-        "options": {
-            "A": "Deccan lava plateau (Maharashtra, parts of MP & Gujarat) / डेक्कन लावा पठार",
-            "B": "Alluvial plain of Ganga / गंगा का अवसादी मैदान",
-            "C": "Highly suitable for cotton (good moisture retention) / कपास",
-            "D": "Best for rice paddy (waterlogged paddy) / धान (जलभराव)"
-        },
-        "answer": [
-            "A",
-            "C"
-        ],
-        "explanation": "Black/regur soils बेसाल्टिक ट्रैप्स के अपक्षय से बनते हैं और Deccan क्षेत्रों (Vidarbha, Marathwada, parts of Karnataka & MP) में पाए जाते हैं; वे ऊँची काठिन्य वाली मिट्टी में अच्छी नमी पकड़ने की क्षमता रखते हैं — इसलिए कपास के लिए विशेष रूप से उपयुक्त माने जाते हैं। धान-जैसी पृष्ठभूमि-जलभराव वाली फसलों के लिए वे सामान्यतः सर्वश्रेष्ठ प्राथमिकता नहीं होते। / Regur black soils develop over basalt (Deccan) and are ideal for cotton due to moisture retention."
+    "answer": ["B"],
+    "explanation": "अलीगढ़ ताले के उत्पादन के लिए प्रसिद्ध है और इसे 'ताला नगरी' कहा जाता है।"
+  },
+  {
+    "id": 10,
+    "question": "नंद वंश का अंतिम शासक कौन था जिसे चंद्रगुप्त मौर्य ने हराया? / Who was the last ruler of the Nanda dynasty defeated by Chandragupta Maurya?",
+    "options": {
+      "A": "घनानंद / Dhanananda",
+      "B": "महापद्मनंद / Mahapadmananda",
+      "C": "कौटिल्य / Kautilya",
+      "D": "पुष्यमित्र / Pushyamitra"
     },
-    {
-        "id": 11,
-        "question": "Laterite soils कहाँ बनते हैं और उनमें मुख्य कमी कौन-सी होती है? / Laterite soils form under which conditions and what is their main limitation?",
-        "options": {
-            "A": "High rainfall & high temperature (intense leaching) / उच्च वर्षा और तापमान",
-            "B": "Found on uplands of Western Ghats and parts of peninsular India / पश्चिमी घाट/दक्षिण भारत के उच्चतम क्षेत्र",
-            "C": "High natural fertility for intensive cropping / उच्च प्राकृतिक उर्वरता",
-            "D": "Low fertility due to leaching of bases and organic matter / पोषक तत्वों की कमी"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "Laterite soils उष्णकटिबंधीय, उच्च वर्षा वाले क्षेत्रों में तीव्र लेचिंग से बनते हैं (Western Ghats, Konkan, parts of Kerala, Karnataka). वे लौह/अलुमिना समृद्ध हो सकते हैं पर बेसिक पोषक तत्व और कार्बन की कमी के कारण सामान्यतः कम उर्वरता दर्शाते हैं। / Laterites form under intense weathering in hot, wet climates (Western Ghats etc.) and tend to be low in fertility because of leaching."
+    "answer": ["A"],
+    "explanation": "नंद वंश का अंतिम शासक घनानंद था, जिसे चाणक्य की सहायता से चंद्रगुप्त मौर्य ने पराजित किया और मौर्य साम्राज्य की नींव रखी।"
+  },
+  {
+    "id": 11,
+    "question": "1857 के विद्रोह में अवध (Awadh) क्षेत्र का मुख्य केंद्र कौन सा था? / What was the main center of the 1857 revolt in the Awadh region?",
+    "options": {
+      "A": "झाँसी (Jhansi)",
+      "B": "लखनऊ (Lucknow)",
+      "C": "बरेली (Bareilly)",
+      "D": "पटना (Patna)"
     },
-    {
-        "id": 12,
-        "question": "शुगर-केन (sugarcane) की प्रधान उत्पादन-राज्य कौन–से हैं? / Major sugarcane producing states in India include:",
-        "options": {
-            "A": "Uttar Pradesh / उत्तर प्रदेश",
-            "B": "Maharashtra / महाराष्ट्र",
-            "C": "Karnataka / कर्नाटक",
-            "D": "Rajasthan / राजस्थान"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "भारत में प्रमुख शुगर-केन उत्पादक यूपी, महाराष्ट्र और कर्नाटक हैं; राजस्थान में सीमित उत्पादन है पर मुख्य तीन राज्यों के मुकाबले कम। / UP, Maharashtra and Karnataka are major sugarcane producers; Rajasthan's production is comparatively low."
+    "answer": ["B"],
+    "explanation": "अवध क्षेत्र में 1857 के विद्रोह का मुख्य केंद्र लखनऊ था। यहाँ बेगम हजरत महल और बिरजिस कादर ने अंग्रेजों के विरुद्ध संघर्ष का नेतृत्व किया।"
+  },
+  {
+    "id": 12,
+    "question": "‘उज्वल भारत उज्जवल भविष्य योजना’ किससे संबंधित है? / The scheme 'Ujjwal Bharat Ujjwal Bhavishya' is related to:",
+    "options": {
+      "A": "नवीकरणीय ऊर्जा (Renewable Energy)",
+      "B": "विद्युत क्षेत्र (Power Sector)",
+      "C": "ग्राम विकास (Rural Development)",
+      "D": "शहरी रोजगार (Urban Employment)"
     },
-    {
-        "id": 13,
-        "question": "चाय (tea) के लिए अनुकूल जलवायु-गुण कौन–से हैं? / Which climatic/edaphic conditions suit tea cultivation?",
-        "options": {
-            "A": "High and well-distributed rainfall (≥1500 mm) / अच्छी और सम वितरित वर्षा",
-            "B": "High altitude or hill slopes with good drainage / उच्च ऊँचाई/ढलान व जल निकास",
-            "C": "Alkaline, calcareous soils / क्षारीय, कैल्सियस मिट्टियाँ",
-            "D": "Acidic, humus-rich soils (well-drained) / अम्लीय, कार्बनिक मिट्टी"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "चाय के लिए उच्च वर्षा, ढलानों पर अच्छा जल-निकास और अम्लीय, ह्यूमस-समृद्ध मिट्टी अनुकूल हैं — यही कारण है कि North-east (Assam highlands, Darjeeling) व Western Ghats (Nilgiris, Coorg) प्रमुख चाय क्षेत्र हैं। क्षारीय मिट्टी चाय के लिए ठीक नहीं होती। / Tea thrives in high, well-distributed rainfall, hill slopes with drainage and acidic humus soils."
+    "answer": ["B"],
+    "explanation": "‘उज्वल भारत उज्जवल भविष्य योजना’ का उद्देश्य बिजली क्षेत्र में सुधार और उपभोक्ताओं को स्थायी बिजली आपूर्ति सुनिश्चित करना है।"
+  },
+  {
+    "id": 13,
+    "question": "भारत के संविधान के किस अनुच्छेद में ‘समानता का अधिकार’ (Right to Equality) निहित है? / Right to Equality is enshrined in which Article of the Indian Constitution?",
+    "options": {
+      "A": "अनुच्छेद 14–18 (Articles 14–18)",
+      "B": "अनुच्छेद 19–22 (Articles 19–22)",
+      "C": "अनुच्छेद 23–24 (Articles 23–24)",
+      "D": "अनुच्छेद 25–28 (Articles 25–28)"
     },
-    {
-        "id": 14,
-        "question": "कॉफ़ी (coffee) उत्पादन भारत में किस इलाके से जुड़ा है? / Coffee cultivation in India is principally associated with:",
-        "options": {
-            "A": "Western Ghats (Kodagu/Coorg, Chikmagalur) / पश्चिमी घाट",
-            "B": "Assam floodplains / असम मैदान",
-            "C": "Nilgiris and parts of Kerala / नीलगिरि व केरल के हिस्से",
-            "D": "Thar Desert / थार मरुस्थल"
-        },
-        "answer": [
-            "A",
-            "C"
-        ],
-        "explanation": "कॉफ़ी भारत में प्रमुखतः Western Ghats के hill districts (Kodagu/Coorg, Chikmagalur) तथा Nilgiris/parts of Kerala में उगती है जहाँ छाँव, अच्छी वर्षा और उर्वर मिट्टी मिलती है। असम और थार उपयुक्त नहीं हैं। / Coffee is mainly grown in Western Ghats (Coorg, Chikmagalur) and Nilgiris/Kerala, which provide shade, rainfall and suitable soils."
+    "answer": ["A"],
+    "explanation": "अनुच्छेद 14 से 18 में समानता का अधिकार दिया गया है। इसमें कानून के समक्ष समानता, भेदभाव का निषेध और पदों पर समान अवसर शामिल हैं।"
+  },
+  {
+    "id": 14,
+    "question": "उत्तर प्रदेश का कौन सा जिला ‘तम्बाकू की खेती’ के लिए प्रसिद्ध है? / Which district of Uttar Pradesh is famous for tobacco cultivation?",
+    "options": {
+      "A": "गाजीपुर (Ghazipur)",
+      "B": "मुरादाबाद (Moradabad)",
+      "C": "ललितपुर (Lalitpur)",
+      "D": "गोंडा (Gonda)"
     },
-    {
-        "id": 15,
-        "question": "किस–किस फसलों का जलवायु-निर्भर उद्योग सीधे प्रचलित रहता है? / Which crop-based industries are directly climate-dependent in India?",
-        "options": {
-            "A": "Tea processing / चाय प्रसंस्करण",
-            "B": "Jute mills (Bengal delta) / जूट मिलें",
-            "C": "IT services / सूचना-प्रौद्योगिकी",
-            "D": "Sugar mills (sugarcane belt) / शुगर मिलें"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "Tea, jute, sugar-based industries अपने-अपने जलवायु/फसल क्षेत्रों के नजदीक बने रहते हैं (उच्च वर्षा/hill areas for tea; deltaic Bengal for jute; cane belts for sugar). IT-services ज्यादातर भौगोलिक जलवायु पर निर्भर नहीं होतीं। / Tea, jute and sugar industries are closely tied to the climatic zones where those crops are produced; IT services are location-independent relative to climate."
+    "answer": ["A"],
+    "explanation": "गाजीपुर जिला तम्बाकू की खेती और प्रसंस्करण के लिए प्रसिद्ध है। यहाँ भारत सरकार का ओपियम एवं एल्कलॉइड फैक्ट्री भी स्थित है।"
+  },
+  {
+    "id": 15,
+    "question": "नंद वंश के अंतिम शासक कौन थे जिन्हें चंद्रगुप्त मौर्य ने पराजित किया? / Who was the last ruler of the Nanda dynasty defeated by Chandragupta Maurya?",
+    "options": {
+      "A": "महापद्मनंद (Mahapadmananda)",
+      "B": "धनानंद (Dhanananda)",
+      "C": "कालानंद (Kalananda)",
+      "D": "गोपीनंद (Gopinanda)"
     },
-    {
-        "id": 16,
-        "question": "El Niño / La Niña (ENSO) का भारतीय मॉनसून पर क्या सामान्य प्रभाव होता है? / What are typical ENSO effects on the Indian monsoon?",
-        "options": {
-            "A": "El Niño often associated with weakened monsoon and drought tendency / El Niño → कमजोर मॉनसून (सूखे का प्रचलन)",
-            "B": "La Niña often associated with stronger monsoon and excess rainfall / La Niña → मजबूत मॉनसून (अति-वृष्टि)",
-            "C": "No connection between ENSO and Indian monsoon / ENSO का कोई सम्बन्ध नहीं",
-            "D": "ENSO always determines exact rainfall at district level / ENSO हमेशा जिला-स्तर की वर्षा तय करता है"
-        },
-        "answer": [
-            "A",
-            "B"
-        ],
-        "explanation": "वैश्विक ENSO चक्र (El Niño/La Niña) के साथ भारतीय मॉनसून में सांख्यिकीय सम्बन्ध देखा जाता है — El Niño काल में मॉनसून कमजोर होने का झुकाव और La Niña में सशक्त होने का। पर ENSO अकेले जिला-स्तर के प्रत्यक्ष सटीक परिणाम की गारंटी नहीं देता। / ENSO typically weakens (El Niño) or strengthens (La Niña) the Indian monsoon in a probabilistic sense, but it doesn't deterministically set local rainfall."
+    "answer": ["B"],
+    "explanation": "नंद वंश के अंतिम शासक धनानंद को चंद्रगुप्त मौर्य ने पराजित कर मौर्य साम्राज्य की स्थापना की।"
+  },
+  {
+    "id": 16,
+    "question": "निम्नलिखित में से किसे ‘भारत का मैनचेस्टर’ कहा जाता है? / Which of the following is known as the 'Manchester of India'?",
+    "options": {
+      "A": "कानपुर (Kanpur)",
+      "B": "अहमदाबाद (Ahmedabad)",
+      "C": "सूरत (Surat)",
+      "D": "वाराणसी (Varanasi)"
     },
-    {
-        "id": 17,
-        "question": "मानसून-संबंधी विविधता (active/break spells) किस कारण होती है? / What drives active and break spells of the Indian monsoon?",
-        "options": {
-            "A": "Intra-seasonal oscillations (e.g., Madden–Julian Oscillation) / मौसमी-आन्तरिक उतार-चढ़ाव",
-            "B": "Monsoon depressions and lows over Bay of Bengal / बंगाल की खाड़ी के दबाव-केंद्र",
-            "C": "Tectonic earthquakes / भूवैज्ञानिक भूकम्प",
-            "D": "Localized land-sea thermal contrast and mid-latitude interactions / स्थानीय तापीय अंतर और मध्य-देशीय अन्तरक्रिया"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "मॉनसून के active/break पैटर्न intra-seasonal oscillations (MJO), मॉनसून-डेप्रेशन/लो और स्थानीय भूमि-समुद्र तापीय असमानताएँ तथा मध्य-लैटिट्यूड इंटरैक्शन के संयोग से बनते हैं। भूकम्प का सत्रीय पैटर्न पर प्रत्यक्ष असर नहीं माना जाता। / Active/break spells result from MJO/intra-seasonal oscillations, monsoon depressions, and land–sea thermal contrasts interacting with mid-latitude dynamics; earthquakes are not causal."
+    "answer": ["B"],
+    "explanation": "अहमदाबाद को कपड़ा उद्योग के लिए ‘भारत का मैनचेस्टर’ कहा जाता है।"
+  },
+  {
+    "id": 17,
+    "question": "‘बायोस्फीयर रिजर्व’ में कौन-कौन शामिल होते हैं? / Which of the following are included in a Biosphere Reserve?",
+    "options": {
+      "A": "कोर क्षेत्र (Core Zone)",
+      "B": "बफर क्षेत्र (Buffer Zone)",
+      "C": "ट्रांजिशन क्षेत्र (Transition Zone)",
+      "D": "कृषि क्षेत्र (Agricultural Zone)"
     },
-    {
-        "id": 18,
-        "question": "किस फसल के लिए किस मिट्टी/जलवायु का संयोजन अनुकूल माना जाता है? / Which crop suits which soil/climate combination?",
-        "options": {
-            "A": "Rice — high rainfall, alluvial/flat delta soils / धान — उच्च वर्षा, आवल्वियल/डेल्टा",
-            "B": "Cotton — black regur soils, semi-arid to sub-humid / कपास — ब्लैक मिट्टी, अर्ध-शुष्क/उप-आर्द्र",
-            "C": "Wheat — hot humid summer & no winter frost / गेंहू — गर्म आर्द्र गर्मियाँ",
-            "D": "Tea — hill slopes, high rainfall, acidic soil / चाय — ढलान, उच्च वर्षा, अम्लीय मिट्टी"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "धान उच्च वर्षा/ऐलुवियल या डेल्टिक मिट्टियों में विकसित होता है; कपास ब्लैक/regur मिट्टी और मध्यम वर्षा वाले अर्ध-शुष्क वातावरण में अच्छा होता है; चाय ढलानों, उच्च वर्षा और अम्लीय मिट्टी में उत्तम होती है। गेंहू ठंडे-सुखे शीतकाल और सिंचित मैदानों में अच्छा होता है, न कि 'गरम आर्द्र' शर्तों में। / Rice fits high rainfall/alluvial deltas; cotton fits black soils and semi-arid climates; tea fits hill slopes with high rainfall and acidic soils; wheat prefers cool, dry winters with irrigation."
+    "answer": ["A","B","C"],
+    "explanation": "बायोस्फीयर रिजर्व में कोर, बफर और ट्रांजिशन क्षेत्र शामिल होते हैं। कृषि क्षेत्र इसका पृथक हिस्सा नहीं है।"
+  },
+  {
+    "id": 18,
+    "question": "भारत में ‘नाबार्ड’ की स्थापना कब हुई थी? / When was NABARD established in India?",
+    "options": {
+      "A": "1980",
+      "B": "1982",
+      "C": "1985",
+      "D": "1987"
     },
-    {
-        "id": 19,
-        "question": "सूखे-प्रवण (drought-prone) भारतीय क्षेत्र कौन–से हैं? / Which Indian regions are commonly drought-prone?",
-        "options": {
-            "A": "Rajasthan (parts of Thar & Aravalli rainshadow) / राजस्थान",
-            "B": "Bundelkhand (UP/MP) / बुन्देलखंड",
-            "C": "Kerala highlands / केरल उच्चभूमि",
-            "D": "Sundarbans delta / सुन्दरबन"
-        },
-        "answer": [
-            "A",
-            "B"
-        ],
-        "explanation": "Rajasthan (थार/अर्वली rainshadow) और Bundelkhand जैसी अंदरूनी अर्थो-कृषि पट्टियाँ कम और अनिश्चित वर्षा के कारण drought-prone रहीं हैं। केरल highlands व Sundarbans सामान्यतः उच्च वर्षा-क्षेत्र हैं। / Thar/Aravalli zones (Rajasthan) and Bundelkhand are drought-prone due to low/erratic rainfall; Kerala highlands and Sundarbans are high-rain regions."
+    "answer": ["B"],
+    "explanation": "राष्ट्रीय कृषि और ग्रामीण विकास बैंक (NABARD) की स्थापना 1982 में ग्रामीण विकास और कृषि वित्त के लिए की गई।"
+  },
+  {
+    "id": 19,
+    "question": "भारत में ‘लोकायुक्त’ किस स्तर पर कार्य करता है? / Lokayukta in India functions at which level?",
+    "options": {
+      "A": "केंद्र स्तर (Central Level)",
+      "B": "राज्य स्तर (State Level)",
+      "C": "जिला स्तर (District Level)",
+      "D": "ग्राम स्तर (Village Level)"
     },
-    {
-        "id": 20,
-        "question": "बाढ़-जोखिम किन क्षेत्रों में अधिक है? / Flood risk in India is highest in which regions?",
-        "options": {
-            "A": "Indo-Gangetic plains (Ganga & Brahmaputra basins) / Indo-Gangetic मैदान",
-            "B": "Western Ghats hill slopes (landslides & flash floods) / पश्चिमी घाट ढलान",
-            "C": "Thar Desert / थार मरुस्थल",
-            "D": "Rain-shadow interiors (permanently arid) / रेन-शैडो इन्टिरियर्स"
-        },
-        "answer": [
-            "A",
-            "B"
-        ],
-        "explanation": "Indo-Gangetic plain में मॉनसून के दौरान बहु-नदियाँ और डेल्टा-क्षेत्र बाढ़ का मुख्य केंद्र हैं; पश्चिमी घाट के तीव्र ढलान पर भारी मानसूनी वर्षा landslides और flash floods का कारण बनती है। थार और rain-shadow अंदरूनी क्षेत्र सामान्यतः बाढ़ कम होते हैं। / The Indo-Gangetic plains (Ganga/Brahmaputra) are highly flood-prone; Western Ghats slopes are prone to landslides and flash floods under heavy monsoon rain."
+    "answer": ["B"],
+    "explanation": "लोकायुक्त राज्यों में कार्य करता है जबकि लोकपाल केंद्र स्तर पर।"
+  },
+  {
+    "id": 20,
+    "question": "भारत में सबसे अधिक कोयला उत्पादन किस राज्य में होता है? / Which state produces the maximum coal in India?",
+    "options": {
+      "A": "झारखंड (Jharkhand)",
+      "B": "ओडिशा (Odisha)",
+      "C": "छत्तीसगढ़ (Chhattisgarh)",
+      "D": "मध्य प्रदेश (Madhya Pradesh)"
     },
-    {
-        "id": 21,
-        "question": "मिट्टी की लवणीयता (salinity) किन कारणों से बढ़ सकती है? / Soil salinity increases due to which factors?",
-        "options": {
-            "A": "Poor drainage and high evaporation in arid zones / निकास की कमी व उच्च वाष्पीकरण",
-            "B": "Excessive irrigation with saline groundwater / क्षारीय भूजल से अधिक सिंचाई",
-            "C": "Tidal seawater inundation in coastal zones / तटीय समुद्री ज्वार-आवेश",
-            "D": "Afforestation of degraded land / उपयुक्त वनोपकरण"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "खुले क्षेत्रों में निकासी का अभाव, ऊँचा evapotranspiration और क्षारीय जल से अनुचित सिंचाई मिट्टी में लवण जमा कर देते हैं; तटीय क्षेत्र में समुद्री जल-आवेश भी salinization का कारण है। afforestation अक्सर सुधारात्मक होता है। / Poor drainage/high evaporation, irrigation with saline water, and seawater inundation raise soil salinity; afforestation is generally remedial rather than causal."
+    "answer": ["A"],
+    "explanation": "झारखंड भारत में कोयला उत्पादन में अग्रणी राज्य है।"
+  },
+  {
+    "id": 21,
+    "question": "भारत में 'न्यायिक पुनर्विलोकन' (Judicial Review) की अवधारणा किस देश से ली गई है? / The concept of 'Judicial Review' in India has been borrowed from which country?",
+    "options": {
+      "A": "USA",
+      "B": "UK",
+      "C": "Canada",
+      "D": "Australia"
     },
-    {
-        "id": 22,
-        "question": "मैन्ग्रोव्स (mangroves) भारत में कहाँ-कहाँ प्रमुख हैं? / Mangroves in India are prominently found in:",
-        "options": {
-            "A": "Sundarbans (Ganga–Brahmaputra delta) / सुन्दरबंध",
-            "B": "Gulf of Kachchh and creeks of Gujarat / कच्छ की खाड़ी",
-            "C": "Kerala backwaters and Kerala coast / केरल बैकवॉटर्स",
-            "D": "Thar desert inland dunes / थार रेगिस्तान"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "Sundarbans विश्व का सबसे बड़ा मैन्ग्रोव क्षेत्र है; इसके अलावा गुजरात की खाड़ी/creeks और दक्षिणी तटीय backwaters (Kerala) में भी mangrove communities मिलती हैं। थार मरुस्थल में ऐसा coastal tidal mangrove सिस्टम नहीं है। / The Sundarbans, Gujarat creeks (Gulf of Kachchh) and Kerala backwaters host significant mangrove stands; Thar desert does not."
+    "answer": ["A"],
+    "explanation": "भारतीय संविधान में न्यायिक पुनर्विलोकन (Judicial Review) की अवधारणा अमेरिका के संविधान से ली गई है। यह सुप्रीम कोर्ट और हाई कोर्ट को कानूनों की संवैधानिकता जाँचने की शक्ति देता है।"
+  },
+  {
+    "id": 22,
+    "question": "गुप्तकाल में 'अश्वमेध यज्ञ' किस सम्राट ने किया था? / During Gupta period, which ruler performed the Ashvamedha Yajna?",
+    "options": {
+      "A": "चंद्रगुप्त प्रथम (Chandragupta I)",
+      "B": "समुद्रगुप्त (Samudragupta)",
+      "C": "चंद्रगुप्त द्वितीय (Chandragupta II)",
+      "D": "स्कन्दगुप्त (Skandagupta)"
     },
-    {
-        "id": 23,
-        "question": "कौन-से उद्योग विशेष रूप से तटीय/समुद्री जलवायु से प्रभावित होते हैं? / Which industries are especially sensitive to coastal/marine climate?",
-        "options": {
-            "A": "Fishing and seafood processing / मत्स्यपालन व प्रसंस्करण",
-            "B": "Salt production (solar evaporation) / समुद्री नमक उत्पादन",
-            "C": "Heavy water-intensive steel plants inland / भारी जल-उपयोग स्टील प्लांट (अंदरूनी)",
-            "D": "Coastal tourism / तटीय पर्यटन"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "Fishing, salt (solar evaporation), और coastal tourism directly depend on coastal climatic conditions (sea temperature, winds, sunshine, monsoon/cyclones). Heavy inland steel plants are more dependent on mineral/energy logistics than coastal climate per se. / Fishing, salt production and coastal tourism are strongly climate-dependent industries on the coast."
+    "answer": ["B"],
+    "explanation": "गुप्त सम्राट समुद्रगुप्त ने अपनी शक्ति और सार्वभौमिकता प्रदर्शित करने के लिए अश्वमेध यज्ञ किया था।"
+  },
+  {
+    "id": 23,
+    "question": "भारत में सबसे बड़ा थर्मल पावर प्लांट किस राज्य में है? / In which state is the largest thermal power plant of India located?",
+    "options": {
+      "A": "उत्तर प्रदेश (Uttar Pradesh)",
+      "B": "मध्य प्रदेश (Madhya Pradesh)",
+      "C": "तमिलनाडु (Tamil Nadu)",
+      "D": "गुजरात (Gujarat)"
     },
-    {
-        "id": 24,
-        "question": "Alluvial, Black, Laterite soils के तुलनात्मक गुणों में क्या सही है? / Which statements about alluvial, black and laterite soils are correct?",
-        "options": {
-            "A": "Alluvial soils are generally fertile and suited for multiple crops / ऐलुवियल उर्वरक और बहु-फसल",
-            "B": "Black soils retain moisture and are ideal for cotton / ब्लैक मिट्टी नमी रोकती है — कपास हेतु उपयुक्त",
-            "C": "Laterite soils are highly fertile without amendments / लेटराइट अत्यंत उर्वरक बिना सुधार के",
-            "D": "Laterite soils often need soil management due to leaching / लेटराइट में लीचिंग के कारण सुधार आवश्यक"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "Alluvial soils बहु-फसलों/उच्च कृषि उत्पादन के लिये उपयुक्त होते हैं; black soils moisture holding और cotton-friendly हैं; laterites में leaching के कारण पोटैशियम/फॉस्फेट/नाइट्रोजन कम रह सकते हैं — इसलिए सुधार/उर्वरीकरण अक्सर आवश्यक होते हैं। / Alluvial soils are fertile and multi-crop friendly; black soils retain moisture for cotton; laterites typically require management to overcome leaching and low fertility."
+    "answer": ["C"],
+    "explanation": "तमिलनाडु के तूतुकुड़ी (Tuticorin) और मेट्टूर क्षेत्रों में विशालतम थर्मल पावर प्लांट स्थित हैं।"
+  },
+  {
+    "id": 24,
+    "question": "‘कायस्थ’ समुदाय परंपरागत रूप से किस कार्य से जुड़ा था? / Traditionally, the 'Kayastha' community was associated with which occupation?",
+    "options": {
+      "A": "कृषि (Agriculture)",
+      "B": "युद्ध (Warrior duties)",
+      "C": "लेखन-कार्य (Scribal/Administrative duties)",
+      "D": "शिल्पकला (Art and Craft)"
     },
-    {
-        "id": 25,
-        "question": "मॉन्सून हवाएँ सामान्यतः किस दिशा से आकर भारत पर प्रभाव डालती हैं? / The dominant monsoon winds arrive over India from which direction?",
-        "options": {
-            "A": "Southwest → Northeast / दक्षिण-पश्चिम से उत्तर-पूर्व",
-            "B": "Northeast → Southwest / उत्तर-पूर्व से दक्षिण-पश्चिम",
-            "C": "East → West / पूर्व से पश्चिम",
-            "D": "West → East / पश्चिम से पूर्व"
-        },
-        "answer": [
-            "A"
-        ],
-        "explanation": "दक्षिण-पश्चिम मॉनसून समुद्री वायुओं को लेकर दक्षिण-पश्चिम दिशा से भारत की ओर आता है और आर्द्रता लेकर उत्तर-पूर्व दिशा में प्रवेश करता है। / The SW monsoon winds approach India from the southwest and move northeastward, carrying moisture inland."
+    "answer": ["C"],
+    "explanation": "कायस्थ समुदाय परंपरागत रूप से लेखन और प्रशासनिक कार्यों से जुड़ा हुआ था।"
+  },
+  {
+    "id": 25,
+    "question": "‘भूतपूर्व रियासत अवध’ को किस संधि के अंतर्गत अंग्रेजों ने अपने नियंत्रण में लिया? / Under which treaty did the British take control of Awadh (Oudh)?",
+    "options": {
+      "A": "सुगौली संधि (Treaty of Sugauli)",
+      "B": "इलाहाबाद संधि (Treaty of Allahabad)",
+      "C": "लखनऊ संधि (Treaty of Lucknow)",
+      "D": "अमृतसर संधि (Treaty of Amritsar)"
     },
-    {
-        "id": 26,
-        "question": "Western disturbances का भारत पर प्रभाव क्या है? / What is the impact of Western Disturbances on India?",
-        "options": {
-            "A": "They bring winter precipitation (rain/snow) to NW India and Himalayas / सर्दियों में उत्तर-पश्चिम भारत व हिमालय में वर्षा/हिमपात",
-            "B": "They are primary cause of monsoon rains in June–September / जून–सितंबर मॉनसून की मुख्य वजह",
-            "C": "They affect Rabi rainfall and wheat production in Punjab/HP regions / रबी ऋतु व गेहूँ उत्पादन पर प्रभाव",
-            "D": "They create tropical cyclones in Bay of Bengal / बंगाल की खाड़ी में चक्रवात बनाते हैं"
-        },
-        "answer": [
-            "A",
-            "C"
-        ],
-        "explanation": "Western Disturbances यूरोप/Mediterranean से आने वाले पश्चिमी वातावरणीय disturbances हैं जो सर्दियों में NW India पर बरसात/हिमपात लाते हैं और रबी फसलों (जैसे गेहूँ) के लिए जरूरी सर्दियों-वर्षा प्रभावित करते हैं। वे मॉनसून-कारक नहीं हैं और न ही बंगाल-चक्रवात बनाते हैं। / Western Disturbances bring winter rain/snow to NW India/Himalayas and influence Rabi agriculture (wheat); they are not the monsoon cause nor Bay cyclones."
+    "answer": ["B"],
+    "explanation": "1765 की इलाहाबाद संधि के अंतर्गत अवध नवाब को अंग्रेजों की अधीनता स्वीकार करनी पड़ी।"
+  },
+  {
+    "id": 26,
+    "question": "‘Operation Greens’ किससे संबंधित है? / 'Operation Greens' is related to which of the following?",
+    "options": {
+      "A": "डेयरी उत्पादन (Dairy Production)",
+      "B": "टमाटर-प्याज-आलू उत्पादन (TOP crops: Tomato, Onion, Potato)",
+      "C": "तेल बीज उत्पादन (Oilseeds Production)",
+      "D": "कपास उत्पादन (Cotton Production)"
     },
-    {
-        "id": 27,
-        "question": "Plains में कृषि-केंद्रित उद्योगों को कौन-सी जलवायु/संसाधन शर्तें प्रभावित करती हैं? / Which climatic/resource conditions influence agro-industries in the plains?",
-        "options": {
-            "A": "Reliable irrigation and winter temperatures for wheat milling / सिंचाई व शीतकालीन तापमान (गेहूँ मिलिंग)",
-            "B": "High humidity and shade for tea processing / उच्च आर्द्रता व छाँव (चाय)",
-            "C": "High insolation and arid land for cotton ginning / उच्च प्रकाश व शुष्क भूमि (कॉटन ginnery)",
-            "D": "Proximity to river deltas for jute retting & processing / नदी डेल्टा के पास (जूट रेटिंग)"
-        },
-        "answer": [
-            "A",
-            "C",
-            "D"
-        ],
-        "explanation": "Plains-based agro-industries depend irrigation/winter climate for wheat, arid/semi-arid high-insolation belts favor cotton processing & ginning, और जूट रेटिंग के लिए deltaic, slow-flowing water areas आवश्यक होते हैं। चाय hill/monsoon regions में होती है, plains-humidity नहीं। / Agro-industries in plains rely on irrigation for wheat, arid high-insolation belts for cotton processing, and river deltas for jute; tea requires hill/monsoon climates."
+    "answer": ["B"],
+    "explanation": "‘ऑपरेशन ग्रीन्स’ टमाटर, प्याज और आलू (TOP crops) के उत्पादन और आपूर्ति श्रृंखला को स्थिर करने हेतु चलाया गया है।"
+  },
+  {
+    "id": 27,
+    "question": "भारतीय संविधान की 9वीं अनुसूची (Ninth Schedule) कब जोड़ी गई थी? / When was the Ninth Schedule added to the Indian Constitution?",
+    "options": {
+      "A": "1951",
+      "B": "1961",
+      "C": "1975",
+      "D": "1982"
     },
-    {
-        "id": 28,
-        "question": "कौन-से ऊर्जा/उद्योग जलवायु विशेषताओं पर जोरदार निर्भर करते हैं? / Which energy/industry types are strongly climate-dependent?",
-        "options": {
-            "A": "Hydropower (Himalayan steep gradient rivers) / जल-विद्युत (हिमालयी नदी झरनों)",
-            "B": "Wind farms (coastal / elevated ridges) / पवन ऊर्जा (तट/ऊँचे रिब्स)",
-            "C": "Solar parks (high insolation deserts like Thar) / सौर ऊर्जा (उच्च सौर विकिरण)",
-            "D": "Underground coal gasification (climate-independent) / भूमिगत कोयला गैसीकरण"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "Hydro power Himalayan steep gradient rivers पर निर्भर करता है; wind energy coastal ridges/plateaus (Kutch, Tamil Nadu) और solar parks उच्च-insolation थार जैसे रेगिस्तानी/अर्ध-शुष्क क्षेत्रों पर निर्भर करते हैं। UG coal gasification तकनीकी/भू-स्रोत पर निर्भर है, जलवायु-नियोजित नहीं। / Hydropower, wind and solar installations are climate/location sensitive — hydro to gradients and flows, wind to coastal/topography, solar to insolation."
+    "answer": ["A"],
+    "explanation": "नौवीं अनुसूची को संविधान (पहला संशोधन) 1951 में जोड़ा गया था, मुख्य रूप से भूमि सुधार कानूनों को न्यायिक समीक्षा से बचाने के लिए।"
+  },
+  {
+    "id": 28,
+    "question": "कुंभ मेला 2019 किस नगर में आयोजित हुआ था? / The Kumbh Mela 2019 was held in which city?",
+    "options": {
+      "A": "हरिद्वार (Haridwar)",
+      "B": "उज्जैन (Ujjain)",
+      "C": "नासिक (Nashik)",
+      "D": "प्रयागराज (Prayagraj)"
     },
-    {
-        "id": 29,
-        "question": "मिट्टी अपरदन (soil erosion) के मुख्य कारण कौन–से हैं? / Primary causes of soil erosion include:",
-        "options": {
-            "A": "Deforestation and removal of vegetative cover / वनों की कटाई",
-            "B": "Intense monsoon rainfall on steep slopes / तीव्र मानसूनी वर्षा और ढलान",
-            "C": "Appropriate contour farming and terracing / कंटूर फॉर्मिंग और टैरेसिंग",
-            "D": "Overgrazing and poor land-management / अतिचराई और खराब भूमि-प्रबंधन"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "Deforestation, intense rainfall on vulnerable slopes और overgrazing land cover हटा कर soil erosion बढाते हैं। कंटूर फॉर्मिंग/terracing वास्तव में अपरदन को रोकने के उपाय हैं, इसलिए वे कारण नहीं बल्कि समाधान हैं। / Deforestation, heavy rain on slopes and overgrazing accelerate erosion; contour farming and terracing are mitigation measures."
+    "answer": ["D"],
+    "explanation": "2019 का कुंभ मेला उत्तर प्रदेश के प्रयागराज में आयोजित किया गया था।"
+  },
+  {
+    "id": 29,
+    "question": "भारत में सर्वाधिक चाय उत्पादन किस राज्य में होता है? / Which state produces the maximum tea in India?",
+    "options": {
+      "A": "पश्चिम बंगाल (West Bengal)",
+      "B": "असम (Assam)",
+      "C": "त्रिपुरा (Tripura)",
+      "D": "तमिलनाडु (Tamil Nadu)"
     },
-    {
-        "id": 30,
-        "question": "भारत में वर्षा-वितरण के सामान्य पैटर्न में क्या सही है? / Which statements about India’s rainfall distribution are correct?",
-        "options": {
-            "A": "Western Ghats and NE hills are high rainfall zones / पश्चिमी घाट व उत्तर-पूर्वी पहाड़ अधिक वर्षा",
-            "B": "Central India receives moderate monsoon rainfall / मध्य भारत मध्यम वर्षा प्राप्त करता है",
-            "C": "North-west India (Thar) receives very high annual rainfall / उत्तर-पश्चिम बहुत अधिक वर्षा",
-            "D": "Rainfall shows strong spatial variability due to relief & wind patterns / स्थलाकृति व पवन के कारण मजबूत स्थानिक भिन्नता"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "Western Ghats/NE hills में या तो orographic या monsoon convergence कारण से भारी वर्षा होती है; central India में सामान्यतः मध्यम मॉनसून वर्षा होती है; ठार/उत्तर-पश्चिम सूखा है — इसलिए उत्तर-पश्चिम पर 'बहुत अधिक वर्षा' कथन गलत है। वर्षा में स्थलीय व पवनीय प्रभावों से स्पष्ट स्थानिक भिन्नता होती है। / Western Ghats and NE hills are heavy rainfall zones; central India moderate; strong spatial variability arises from relief and wind patterns."
+    "answer": ["B"],
+    "explanation": "भारत में सर्वाधिक चाय उत्पादन असम राज्य में होता है।"
+  },
+  {
+    "id": 30,
+    "question": "किस स्वतंत्रता सेनानी ने 'इन्कलाब जिंदाबाद' का नारा दिया था? / Which freedom fighter gave the slogan 'Inquilab Zindabad'?",
+    "options": {
+      "A": "भगत सिंह (Bhagat Singh)",
+      "B": "चंद्रशेखर आज़ाद (Chandrashekhar Azad)",
+      "C": "रामप्रसाद बिस्मिल (Ramprasad Bismil)",
+      "D": "सुभाष चंद्र बोस (Subhas Chandra Bose)"
     },
-    {
-        "id": 31,
-        "question": "तटीय और द्वीपीय क्षेत्रों के लिए कौन-सी जैविक/जलवायु विशेषताएँ सामान्य हैं? / Which bioclimatic features are typical of coastal and island regions?",
-        "options": {
-            "A": "Moderated temperatures and high humidity / तापमान का समेकन व उच्च आर्द्रता",
-            "B": "Strong seasonality with freezing winters / कठोर ठंड और बर्फ",
-            "C": "Presence of mangroves and coastal wetlands / मैन्ग्रोव व तटीय दलदलों का होना",
-            "D": "Coral reefs in warm, clear, shallow seas (e.g., Gulf of Mannar, Lakshadweep) / प्रवाल भित्तियाँ"
-        },
-        "answer": [
-            "A",
-            "C",
-            "D"
-        ],
-        "explanation": "Coastal/island climates में तापमान की अप्रतिस्थापनशीलता (moderation) और उच्च आर्द्रता आम है; मैन्ग्रोव्स और coastal wetlands अक्सर मिलते हैं; coral reefs warm, shallow, clear seawater में बनते हैं (Gulf of Mannar, Lakshadweep)। कठोर, फ्रीज़िंग सर्दियाँ सामान्य नहीं। / Coastal/island regions have moderated temps/high humidity, mangroves/wetlands and coral reefs in suitable warm waters; freezing winters are not typical."
+    "answer": ["A"],
+    "explanation": "'इन्कलाब जिंदाबाद' का नारा भगत सिंह और उनके साथियों ने दिया था, जो स्वतंत्रता संग्राम का प्रमुख नारा बना।"
+  },
+  {
+    "id": 31,
+    "question": "‘बायोस्फीयर रिजर्व’ में कौन-कौन से क्षेत्र शामिल होते हैं? / Which areas are included in a 'Biosphere Reserve'?",
+    "options": {
+      "A": "कोर ज़ोन (Core Zone)",
+      "B": "बफ़र ज़ोन (Buffer Zone)",
+      "C": "ट्रांज़िशन ज़ोन (Transition Zone)",
+      "D": "इकोनॉमिक ज़ोन (Economic Zone)"
     },
-    {
-        "id": 32,
-        "question": "भारत में अत्यधिक तापमान-चरम (temperature extremes) कहाँ पाए जाते हैं? / Where are temperature extremes in India typically recorded?",
-        "options": {
-            "A": "Highest summer temperatures — Thar Desert / थार मरुस्था में उच्चतम गर्मी",
-            "B": "Lowest winter minimums — Leh/Ladakh region / लद्दाख/लेह में न्यूनतम तापमान",
-            "C": "Moderate year-round temperatures — coastal Kerala / केरल तट पर सममित तापमान",
-            "D": "Extreme cold and permafrost throughout peninsular India / प्रायद्वीपीय भारत में पर्माफ्रॉस्ट"
-        },
-        "answer": [
-            "A",
-            "B",
-            "C"
-        ],
-        "explanation": "Thar और उत्तर-पश्चिम India में सबसे अधिक गर्मी रेकॉर्ड होती है; उच्च-ऊँचाई वाले लेह/लद्दाख में सर्दियों में अत्यन्त निम्न तापमान रहते हैं; तटीय केरल में तापमान वर्ष भर तुलनात्मक रूप से सममित रहता है। पर्माफ्रॉस्ट प्रायद्वीपीय भारत में सामान्य नहीं। / Thar records highest summer temps; Leh/Ladakh the lowest winters; coastal Kerala shows moderated year-round temps; permafrost is not present across peninsular India."
+    "answer": ["A","B","C"],
+    "explanation": "बायोस्फीयर रिजर्व में कोर, बफ़र और ट्रांज़िशन ज़ोन शामिल होते हैं।"
+  },
+  {
+    "id": 32,
+    "question": "‘ध्यानचंद पुरस्कार’ किस क्षेत्र से जुड़ा है? / Dhyan Chand Award is related to which field?",
+    "options": {
+      "A": "साहित्य (Literature)",
+      "B": "खेल (Sports)",
+      "C": "संगीत (Music)",
+      "D": "सिनेमा (Cinema)"
     },
-    {
-        "id": 33,
-        "question": "किस मिट्टी में कार्बनिक पदार्थ (organic matter) सामान्यतः अधिक रहता है? / Which soils typically have higher soil organic matter?",
-        "options": {
-            "A": "Alluvial soils with regular silt deposition / ऐलुवियल (नियमित साइल्ट जमा)",
-            "B": "Forest soils (humid, undisturbed) / वन-मिट्टी (आर्द्र/अपकृत)",
-            "C": "Desert sands (arid, sparse vegetation) / रेतीली मरुस्थली मिट्टी",
-            "D": "Leached laterites without organic inputs / लीच्ड लेटराइट"
-        },
-        "answer": [
-            "A",
-            "B"
-        ],
-        "explanation": "Alluvial और स्वस्थ forest soils में आमतौर पर ऑर्गैनिक-मेटर अधिक मिलता है (नदी-सिल्ट और पत्तों/जैविक अपशिष्ट के कारण); रेतीली मरुस्थली और लीच्ड laterites में सामान्यतः organic matter कम होता है। / Alluvial and forest soils tend to be richer in organic matter; desert sands and leached laterites are poorer."
+    "answer": ["B"],
+    "explanation": "ध्यानचंद पुरस्कार खेलों में आजीवन उपलब्धियों के लिए दिया जाता है।"
+  },
+  {
+    "id": 33,
+    "question": "‘जीवाश्म ईंधन’ किसे कहते हैं? / Which of the following are called fossil fuels?",
+    "options": {
+      "A": "कोयला (Coal)",
+      "B": "प्राकृतिक गैस (Natural Gas)",
+      "C": "पेट्रोलियम (Petroleum)",
+      "D": "यूरेनियम (Uranium)"
     },
-    {
-        "id": 34,
-        "question": "जलवायु परिवर्तन (climate change) के कौन-से प्रभाव भारत पर प्रमुख रूप से देखे जा रहे / अनुमानित हैं? / Which climate change impacts are evident/expected in India?",
-        "options": {
-            "A": "Increased extreme rainfall events and localized floods / चरम वर्षा-घटनाओं में वृद्धि",
-            "B": "Glacial retreat in Himalayas affecting river flows / हिमालयी ग्लेशियरों का पीछे हटना",
-            "C": "Complete cessation of monsoon within next year / अगले वर्ष में मॉनसून का पूर्ण रूप से बंद हो जाना",
-            "D": "Sea-level rise threatening low-lying coastal zones / समुद्र-स्तर वृद्धि"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "भविष्यवाणियाँ और अवलोकन चरम घटनाओं के बढ़ने, हिमालयी ग्लेशियरों की पीछे हटने और समुद्र-स्तर वृद्धि के जोखिम दिखाते हैं जो सघन तटीय डेल्टाओं/समुद्री तटीय समुदायों के लिये चिंताजनक हैं। 'मॉनसून का अगले साल बंद' होना वास्तविक/वैज्ञानिक रूप से आधारहीन है। / Observations/projected impacts include more extreme rainfall/floods, Himalayan glacial retreat affecting runoff, and sea-level rise threatening coasts; a complete monsoon cessation next year is not supported."
+    "answer": ["A","B","C"],
+    "explanation": "कोयला, पेट्रोलियम और प्राकृतिक गैस को जीवाश्म ईंधन कहा जाता है। यूरेनियम परमाणु ईंधन है।"
+  },
+  {
+    "id": 34,
+    "question": "‘धारा 370’ किस राज्य से संबंधित थी? / Article 370 was related to which state?",
+    "options": {
+      "A": "नागालैंड (Nagaland)",
+      "B": "जम्मू-कश्मीर (Jammu & Kashmir)",
+      "C": "मणिपुर (Manipur)",
+      "D": "त्रिपुरा (Tripura)"
     },
-    {
-        "id": 35,
-        "question": "सूचित कृषि-नीति (irrigation) होने पर किस तरह के क्रॉपिंग पैटर्न सम्भव होते हैं? / With assured irrigation, which cropping patterns become feasible?",
-        "options": {
-            "A": "Multiple cropping (2–3 crops/year) / बहु-फसली",
-            "B": "Only single Kharif crop (rain-dependent) / केवल एक-कुहार्फ फसल",
-            "C": "Rabi cropping (wheat, barley) increased / रबी की फसल वृद्धि",
-            "D": "Complete switch to horticulture irrespective of markets / पूर्ण रूप से बागवानी में बदल जाना"
-        },
-        "answer": [
-            "A",
-            "C"
-        ],
-        "explanation": "सुनिश्चित सिंचाई से फ़सलों की कटाई-आवृत्ति बढ़ाकर multiple cropping संभव हो जाता है तथा रबी फसलों (गेहूँ आदि) की कटाई विश्वसनीय होती है। पर मार्केट/ज़मीन प्रकार पर निर्भर करते हुए हर क्षेत्र में बागवानी में 'पूर्ण स्विच' व्यावहारिक नहीं है। / Assured irrigation enables multi-cropping and expanded Rabi cultivation; wholesale shift to horticulture depends on markets/soils and is not automatic."
+    "answer": ["B"],
+    "explanation": "धारा 370 जम्मू-कश्मीर को विशेष दर्जा प्रदान करती थी, जिसे अगस्त 2019 में निरस्त कर दिया गया।"
+  },
+  {
+    "id": 35,
+    "question": "‘भाखड़ा नांगल परियोजना’ किन नदियों पर स्थित है? / The Bhakra Nangal Project is built on which rivers?",
+    "options": {
+      "A": "सतलज (Sutlej)",
+      "B": "रावी (Ravi)",
+      "C": "ब्यास (Beas)",
+      "D": "चिनाब (Chenab)"
     },
-    {
-        "id": 36,
-        "question": "हिमालयी बनाम प्रायद्वीपीय नदियों के प्रवाह पैटर्न में क्या अंतर है? / What distinguishes Himalayan and Peninsular river regimes?",
-        "options": {
-            "A": "Himalayan rivers are largely perennial due to snow/glacier melt + monsoon / हिमालयी नदियाँ perennial",
-            "B": "Peninsular rivers are mostly seasonal and monsoon-fed (rainfall dependent) / प्रायद्वीपीय नदियाँ मौसमी",
-            "C": "Peninsular rivers have extensive glacial sources / प्रायद्वीपीय नदियों के ग्लेशियल स्रोत",
-            "D": "Himalayan rivers dry up completely in summer / हिमालयी नदियाँ गर्मियों में सूख जाती हैं"
-        },
-        "answer": [
-            "A",
-            "B"
-        ],
-        "explanation": "हिमालयी नदियाँ हिमनदों/बर्फ के मेल्ट और मॉनसून वर्षा के कारण वर्ष भर बहती रहती हैं; प्रायद्वीपीय नदियाँ सामान्यतः मॉनसून-नियंत्रित और ऋतुपरक होती हैं। प्रायद्वीपीय नदियों के ग्लेशियल स्रोत नहीं होते और हिमालयी नदियाँ गर्मियों में सूखती नहीं। / Himalayan rivers are perennial (glacial + monsoon fed); peninsular rivers are largely monsoon seasonal."
+    "answer": ["A","C"],
+    "explanation": "भाखड़ा नांगल परियोजना सतलज और ब्यास नदियों पर स्थित है।"
+  },
+  {
+    "id": 36,
+    "question": "‘लखनऊ समझौता 1916’ (Lucknow Pact) किनके बीच हुआ था? / The Lucknow Pact 1916 was signed between whom?",
+    "options": {
+      "A": "कांग्रेस और मुस्लिम लीग (Congress & Muslim League)",
+      "B": "कांग्रेस और ब्रिटिश सरकार (Congress & British Govt.)",
+      "C": "मुस्लिम लीग और ब्रिटिश सरकार (Muslim League & British Govt.)",
+      "D": "कांग्रेस और क्रांतिकारी दल (Congress & Revolutionary Party)"
     },
-    {
-        "id": 37,
-        "question": "कौन-से तटीय उद्योग जलवायु झटकों से सबसे ज्यादा संवेदनशील हैं? / Which coastal industries are most sensitive to climatic shocks?",
-        "options": {
-            "A": "Small-scale fish processing & landing centres / छोटे मत्स्य प्रसंस्करण केंद्र",
-            "B": "Salt pans (solar evaporation dependent) / नमक पैन",
-            "C": "Seaborne heavy metallurgy plants / भारी समुद्री धातु उद्योग",
-            "D": "Coastal tourism & resorts / तटीय पर्यटन"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "Small-scale fisheries, salt pans and coastal tourism directly प्रभावित होते हैं जब तूफ़ान/समुद्री स्तर या मॉनसून अनुचित होता है; बड़े समुद्री metallurgy plants स्टोरेज/लोजिस्टिक्स पर निर्भर करते हैं पर छोटे समुदाय-आधारित coastal industries अधिक संवेदनशील होती हैं। / Small fisheries, salt production and coastal tourism are highly vulnerable to climate extremes and sea-level/cyclone events."
+    "answer": ["A"],
+    "explanation": "लखनऊ समझौता 1916 कांग्रेस और मुस्लिम लीग के बीच हुआ था, जिससे हिंदू-मुस्लिम एकता की भावना प्रकट हुई।"
+  },
+  {
+    "id": 37,
+    "question": "भारत में जनगणना कितने वर्षों में होती है? / Census in India is conducted after how many years?",
+    "options": {
+      "A": "5 वर्ष (5 years)",
+      "B": "10 वर्ष (10 years)",
+      "C": "12 वर्ष (12 years)",
+      "D": "15 वर्ष (15 years)"
     },
-    {
-        "id": 38,
-        "question": "किस उपाय से जमीन की लवणता घटायी जा सकती है? / Which measures reduce soil salinity?",
-        "options": {
-            "A": "Application of gypsum (CaSO4) and chemical amendments / जिप्सम का उपयोग",
-            "B": "Leaching with good quality irrigation water and improved drainage / शुद्ध जल से लीचिंग और निकासी",
-            "C": "Continuous flood irrigation with saline water / क्षारीय जल से लगातार बाढ़ सिंचाई",
-            "D": "Afforestation with salt-tolerant species to stabilize soil / लवण-सहनशील पेड़ लगाना"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "Gypsum soil ionic displacement में मदद करता है; लीचिंग और निकासी salts को तबादला कर निकालते हैं; salt-tolerant afforestation जमीन की reclaim में मदद करती है। Saline पानी से बाढ़ सिंचाई लवणता और बर्दाश्त को और बढ़ा सकती है। / Gypsum application, leaching with quality water and drainage, and planting salt-tolerant species help reclaim saline soils; flood irrigation with saline water worsens salinity."
+    "answer": ["B"],
+    "explanation": "भारत में हर 10 वर्षों में जनगणना की जाती है। पहली जनगणना 1872 में हुई थी।"
+  },
+  {
+    "id": 38,
+    "question": "‘ट्रिपल तलाक’ (Triple Talaq) को किस वर्ष असंवैधानिक घोषित किया गया? / In which year was Triple Talaq declared unconstitutional?",
+    "options": {
+      "A": "2015",
+      "B": "2017",
+      "C": "2019",
+      "D": "2021"
     },
-    {
-        "id": 39,
-        "question": "निम्न में से vegetation-climate मैच सही है? / Which vegetation-climate matches are correct?",
-        "options": {
-            "A": "Tropical evergreen — very high rainfall, no pronounced dry season / उष्णकटिबंधीय सदाबहार — बहुत वर्षा",
-            "B": "Tropical thorn — low rainfall, high evapotranspiration / कांटेदार वन — कम वर्षा",
-            "C": "Alpine scrubs — high temperature, humid plains / आल्पाइन — उच्च तापमान समतलीय",
-            "D": "Mangroves — saline tidal flats with sheltered coasts / मैन्ग्रोव — लवणीय ज्वारीय दलदल"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "Tropical evergreen forests में वर्षा बहुत अधिक व dry season न हो; thorn forests सूखे/कम वर्षा वाले इलाकों में; mangroves तटीय लवणीय ज्वारीय फ्लैट में उगते हैं। Alpine scrubs ठंडी उच्च-ऊँचाई पर होते हैं, न कि गर्म समतलीय परिस्थितियों में। / Tropical evergreen needs very high rain; thorn forests are drought-tolerant; mangroves occupy saline tidal flats; alpine scrubs are cold/high altitude environments."
+    "answer": ["B"],
+    "explanation": "सुप्रीम कोर्ट ने 2017 में ट्रिपल तलाक को असंवैधानिक घोषित किया था, जिसे बाद में 2019 में संसद द्वारा कानून बनाया गया।"
+  },
+  {
+    "id": 39,
+    "question": "‘बुंदेलखंड’ क्षेत्र किन राज्यों में फैला हुआ है? / Bundelkhand region lies in which states?",
+    "options": {
+      "A": "उत्तर प्रदेश (Uttar Pradesh)",
+      "B": "मध्य प्रदेश (Madhya Pradesh)",
+      "C": "राजस्थान (Rajasthan)",
+      "D": "बिहार (Bihar)"
     },
-    {
-        "id": 40,
-        "question": "भूमि संरक्षण (soil conservation) के कौन-से व्यवहारिक उपाय प्रभावी माने जाते हैं? / Which practical soil conservation measures are effective?",
-        "options": {
-            "A": "Contour bunding and terracing on slopes / ढलानों पर कंटूर बंडिंग/टेरेसिंग",
-            "B": "Afforestation and shelter belts / वनोपकरण और आश्रय पट्टियाँ",
-            "C": "Unplanned clear-cutting for immediate agriculture expansion / अनियोजित कटाई",
-            "D": "Check-dams, gully plugging and controlled grazing / चेक-डैम/गुली प्लगिंग/नियंत्रित चराई"
-        },
-        "answer": [
-            "A",
-            "B",
-            "D"
-        ],
-        "explanation": "Contour bunding, terracing, afforestation, shelter belts और छोटे-पैमाने के check-dams/gully plugging व controlled grazing मिट्टी के अपरदन को घटाने और भूमि की उपज क्षमता बचाने में सिद्ध उपाय हैं। अनियोजित clear-cutting भूमि को कमजोर कर देता है। / Contour farming, terracing, afforestation, check-dams and controlled grazing are effective conservation practices; unplanned clear-cutting is harmful."
-    }
+    "answer": ["A","B"],
+    "explanation": "बुंदेलखंड क्षेत्र उत्तर प्रदेश और मध्य प्रदेश के कुछ हिस्सों में फैला हुआ है।"
+  },
+  {
+    "id": 40,
+    "question": "‘शाहबाग आंदोलन’ (Shahbagh Movement) किस देश में हुआ था? / Shahbagh Movement took place in which country?",
+    "options": {
+      "A": "भारत (India)",
+      "B": "नेपाल (Nepal)",
+      "C": "बांग्लादेश (Bangladesh)",
+      "D": "म्यांमार (Myanmar)"
+    },
+    "answer": ["C"],
+    "explanation": "शाहबाग आंदोलन 2013 में बांग्लादेश में हुआ था, जो स्वतंत्रता संग्राम अपराधियों के विरुद्ध कठोर दंड की मांग को लेकर था।"
+  }
 ]
+
+
