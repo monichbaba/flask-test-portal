@@ -1,509 +1,483 @@
 [
   {
     "id": 1,
-    "question": "भारत में सूफी आंदोलन की शुरुआत किस सदी में हुई थी? / In which century did the Sufi movement begin in India?",
+    "question": "मुनशी प्रेमचंद की प्रमुख रचनाएँ कौन-कौन सी हैं? / Which are the major works of Munshi Premchand?",
     "options": {
-      "A": "10वीं सदी / 10th Century",
-      "B": "11वीं सदी / 11th Century",
-      "C": "12वीं सदी / 12th Century",
-      "D": "13वीं सदी / 13th Century"
+      "A": "गोदान / Godaan",
+      "B": "रंगभूमि / Rangbhoomi",
+      "C": "गबन / Gaban",
+      "D": "मधुशाला / Madhushala"
     },
-    "answer": ["B"],
-    "explanation": "सूफी आंदोलन की शुरुआत 11वीं सदी में हुई थी, जब इस्लामिक रहस्यवाद भारतीय उपमहाद्वीप में प्रवेश करने लगा।"
+    "answer": ["A", "B", "C"],
+    "explanation": "मुनशी प्रेमचंद की प्रमुख रचनाएँ गोदान, रंगभूमि, गबन हैं, मधुशाला हरिवंश राय बच्चन की कृति है।"
   },
   {
     "id": 2,
-    "question": "सूफी संतों का प्रमुख उद्देश्य क्या था? / What was the main objective of Sufi saints?",
+    "question": "महादेवी वर्मा किस साहित्यिक आन्दोलन से जुड़ी थीं? / Mahadevi Verma was associated with which literary movement?",
     "options": {
-      "A": "धार्मिक कट्टरता का प्रचार / Promote religious extremism",
-      "B": "भक्ति और प्रेम के माध्यम से ईश्वर के निकटता / Attain closeness to God through devotion and love",
-      "C": "सामाजिक असमानता को बढ़ावा देना / Promote social inequality",
-      "D": "केवल इस्लाम का प्रचार / Only propagate Islam"
+      "A": "छायावाद / Chhayavaad",
+      "B": "आधुनिकवाद / Modernism",
+      "C": "रियलिज़्म / Realism",
+      "D": "प्रगतिशील / Progressive"
     },
-    "answer": ["B"],
-    "explanation": "सूफी संतों का उद्देश्य भक्ति और प्रेम के माध्यम से ईश्वर के निकटता प्राप्त करना था।"
+    "answer": ["A"],
+    "explanation": "महादेवी वर्मा छायावाद काल की प्रमुख कवयित्री थीं।"
   },
   {
     "id": 3,
-    "question": "भारत में सूफी आंदोलन के प्रमुख सिलसिला कौन से थे? / Which were the major Sufi orders in India?",
+    "question": "रवींद्रनाथ टैगोर की विश्वप्रसिद्ध कृति कौन-सी है? / Which is the world-famous work of Rabindranath Tagore?",
     "options": {
-      "A": "चिश्ती / Chishti",
-      "B": "सूहरवर्दी / Suhrawardi",
-      "C": "क़ादरी / Qadri",
-      "D": "उपरोक्त सभी / All of the above"
+      "A": "गीतांजलि / Gitanjali",
+      "B": "गोदान / Godaan",
+      "C": "चंद्रकांता / Chandrakanta",
+      "D": "साकेत / Saket"
     },
-    "answer": ["D"],
-    "explanation": "भारत में सूफी आंदोलन के प्रमुख सिलसिला चिश्ती, सूहरवर्दी और क़ादरी थे।"
+    "answer": ["A"],
+    "explanation": "गीतांजलि रवींद्रनाथ टैगोर की विश्वप्रसिद्ध काव्य-कृति है।"
   },
   {
     "id": 4,
-    "question": "किस सूफी संत को 'दातागंज बख्श' के नाम से जाना जाता है? / Which Sufi saint is known as 'Data Ganj Bakhsh'?",
+    "question": "सूर्यकांत त्रिपाठी 'निराला' के प्रसिद्ध उपन्यास और कविताएँ कौन-कौन सी हैं? / Famous works of Suryakant Tripathi 'Nirala'?",
     "options": {
-      "A": "बाबा फरीद / Baba Farid",
-      "B": "मुईनुद्दीन चिश्ती / Muinuddin Chishti",
-      "C": "नज़मुद्दीन औलिया / Nizamuddin Auliya",
-      "D": "अल-हुजविरी / Al-Hujwiri"
+      "A": "राम की शक्ति पूजा / Ram Ki Shakti Puja",
+      "B": "सरोज स्मृति / Saroj Smriti",
+      "C": "चंद्रकांता / Chandrakanta",
+      "D": "कोश / Kosh"
     },
-    "answer": ["D"],
-    "explanation": "अल-हुजविरी को 'दातागंज बख्श' के नाम से जाना जाता है।"
+    "answer": ["A", "B"],
+    "explanation": "निराला की प्रमुख काव्य कृतियाँ राम की शक्ति पूजा और सरोज स्मृति हैं।"
   },
   {
     "id": 5,
-    "question": "किस सूफी संत ने 'क़व्वाली' संगीत शैली का प्रचार किया? / Which Sufi saint popularized the 'Qawwali' music style?",
+    "question": "आधुनिक हिंदी के प्रमुख कहानीकार कौन हैं? / Who are the major modern Hindi story writers?",
     "options": {
-      "A": "मुईनुद्दीन चिश्ती / Muinuddin Chishti",
-      "B": "नज़मुद्दीन औलिया / Nizamuddin Auliya",
-      "C": "बाबा फरीद / Baba Farid",
-      "D": "शेख बहा उद्दीन जकरिया / Sheikh Baha-ud-din Zakariya"
+      "A": "मुनशी प्रेमचंद / Munshi Premchand",
+      "B": "राजेंद्र यादव / Rajendra Yadav",
+      "C": "फणीश्वर नाथ 'रेणु' / Phanishwar Nath 'Renu'",
+      "D": "सूर्यकांत त्रिपाठी 'निराला' / Suryakant Tripathi 'Nirala'"
     },
-    "answer": ["B"],
-    "explanation": "नज़मुद्दीन औलिया ने 'क़व्वाली' संगीत शैली का प्रचार किया।"
+    "answer": ["A", "B", "C"],
+    "explanation": "प्रेमचंद, राजेंद्र यादव और रेणु आधुनिक हिंदी कहानी के प्रमुख लेखक हैं।"
   },
   {
     "id": 6,
-    "question": "'क़व्वाली' संगीत शैली किस सूफी सिलसिला से संबंधित है? / Which Sufi order is associated with 'Qawwali'?",
+    "question": "फणीश्वर नाथ 'रेणु' का प्रसिद्ध उपन्यास कौन-सा है? / Famous novel of Phanishwar Nath 'Renu'?",
     "options": {
-      "A": "चिश्ती / Chishti",
-      "B": "सूहरवर्दी / Suhrawardi",
-      "C": "क़ादरी / Qadri",
-      "D": "नक्षबंदी / Naqshbandi"
+      "A": "मैला आँचल / Maila Anchal",
+      "B": "गोदान / Godaan",
+      "C": "राग दरबारी / Raag Darbari",
+      "D": "नदी के द्वीप / Nadi Ke Dweep"
     },
     "answer": ["A"],
-    "explanation": "'क़व्वाली' संगीत शैली चिश्ती सिलसिला से संबंधित है।"
+    "explanation": "फणीश्वर नाथ 'रेणु' का प्रसिद्ध उपन्यास मैला आँचल है।"
   },
   {
     "id": 7,
-    "question": "सूफी संतों के उपदेशों का मुख्य उद्देश्य क्या था? / What was the main purpose of Sufi teachings?",
+    "question": "राजेंद्र यादव किस साहित्यिक आन्दोलन से जुड़े थे? / Rajendra Yadav was associated with which literary movement?",
     "options": {
-      "A": "धार्मिक कट्टरता का प्रचार / Promote religious extremism",
-      "B": "सामाजिक समानता और भाईचारे का प्रचार / Promote social equality and brotherhood",
-      "C": "केवल इस्लाम का प्रचार / Only propagate Islam",
-      "D": "धार्मिक अनुष्ठानों का पालन / Follow religious rituals"
+      "A": "प्रगतिशील / Progressive",
+      "B": "आधुनिक / Modern",
+      "C": "छायावादी / Chhayavaad",
+      "D": "रूमानी / Romantic"
     },
-    "answer": ["B"],
-    "explanation": "सूफी संतों का मुख्य उद्देश्य सामाजिक समानता और भाईचारे का प्रचार करना था।"
+    "answer": ["A"],
+    "explanation": "राजेंद्र यादव प्रगतिशील लेखक संघ से जुड़े थे।"
   },
   {
     "id": 8,
-    "question": "'मुईनुद्दीन चिश्ती' का प्रमुख योगदान क्या था? / What was the main contribution of Muinuddin Chishti?",
+    "question": "निर्मला श्रीवास्तव और अज्ञेय के योगदान किस क्षेत्र में प्रमुख हैं? / Major contributions of Nirmala Srivastava and Agyeya?",
     "options": {
-      "A": "चिश्ती सिलसिला की स्थापना / Establishment of Chishti order",
-      "B": "सूहरवर्दी सिलसिला की स्थापना / Establishment of Suhrawardi order",
-      "C": "क़ादरी सिलसिला की स्थापना / Establishment of Qadri order",
-      "D": "नक्षबंदी सिलसिला की स्थापना / Establishment of Naqshbandi order"
+      "A": "काव्य / Poetry",
+      "B": "उपन्यास / Novels",
+      "C": "संगीत / Music",
+      "D": "नाटक / Drama"
     },
     "answer": ["A"],
-    "explanation": "मुईनुद्दीन चिश्ती ने चिश्ती सिलसिला की स्थापना की।"
+    "explanation": "अज्ञेय और निर्मला श्रीवास्तव आधुनिक हिंदी काव्य में प्रमुख योगदान देने वाले कवि हैं।"
   },
   {
     "id": 9,
-    "question": "सूफी संतों के उपदेशों में कौन सी विशेषता प्रमुख थी? / What was a key feature of Sufi teachings?",
+    "question": "अज्ञेय का वास्तविक नाम क्या था? / What was the real name of Agyeya?",
     "options": {
-      "A": "धार्मिक अनुष्ठानों का पालन / Observance of rituals",
-      "B": "भक्ति और प्रेम के माध्यम से ईश्वर के निकटता / Closeness to God through devotion and love",
-      "C": "सामाजिक असमानता को बढ़ावा देना / Promote social inequality",
-      "D": "केवल इस्लाम का प्रचार / Only propagate Islam"
+      "A": "सत्यकान्त त्रिपाठी / Satyakant Tripathi",
+      "B": "सूर्यकांत त्रिपाठी / Suryakant Tripathi",
+      "C": "मुनशी प्रेमचंद / Munshi Premchand",
+      "D": "राजेंद्र यादव / Rajendra Yadav"
     },
-    "answer": ["B"],
-    "explanation": "सूफी संतों के उपदेशों में भक्ति और प्रेम के माध्यम से ईश्वर के निकटता प्रमुख थी।"
+    "answer": ["A"],
+    "explanation": "अज्ञेय का वास्तविक नाम सत्यकान्त त्रिपाठी था।"
   },
   {
     "id": 10,
-    "question": "'नज़मुद्दीन औलिया' का प्रमुख योगदान क्या था? / What was the main contribution of Nizamuddin Auliya?",
+    "question": "सुमित्रानंदन पंत की प्रमुख शैली कौन-सी है? / Major style of Sumitranandan Pant?",
     "options": {
-      "A": "चिश्ती सिलसिला की स्थापना / Establishment of Chishti order",
-      "B": "सूहरवर्दी सिलसिला की स्थापना / Establishment of Suhrawardi order",
-      "C": "क़ादरी सिलसिला की स्थापना / Establishment of Qadri order",
-      "D": "चिश्ती सिलसिला को दिल्ली में स्थापित करना / Establish Chishti order in Delhi"
+      "A": "छायावादी / Chhayavaadi",
+      "B": "आधुनिक / Modern",
+      "C": "प्रगतिशील / Progressive",
+      "D": "रूमानी / Romantic"
     },
-    "answer": ["D"],
-    "explanation": "नज़मुद्दीन औलिया ने चिश्ती सिलसिला को दिल्ली में स्थापित किया।"
+    "answer": ["A"],
+    "explanation": "सुमित्रानंदन पंत छायावादी काव्य के प्रमुख कवि हैं।"
   },
   {
     "id": 11,
-    "question": "'क़ादरी' सिलसिला किसके नाम से जाना जाता है? / The Qadri order is named after whom?",
+    "question": "किशन देव नारायण की प्रमुख काव्य रचनाएँ कौन-सी हैं? / Major works of Kishan Dev Narayan?",
     "options": {
-      "A": "शेख अब्दुल क़ादिर जिलानी / Sheikh Abdul Qadir Jilani",
-      "B": "मुईनुद्दीन चिश्ती / Muinuddin Chishti",
-      "C": "बाबा फरीद / Baba Farid",
-      "D": "नज़मुद्दीन औलिया / Nizamuddin Auliya"
+      "A": "प्रेमगीत / Premgeet",
+      "B": "सांझी / Saanjhi",
+      "C": "गोदान / Godaan",
+      "D": "राग दरबारी / Raag Darbari"
     },
-    "answer": ["A"],
-    "explanation": "'क़ादरी' सिलसिला शेख अब्दुल क़ादिर जिलानी के नाम से जाना जाता है।"
+    "answer": ["A", "B"],
+    "explanation": "किशन देव नारायण की प्रमुख रचनाएँ प्रेमगीत और सांझी हैं।"
   },
   {
     "id": 12,
-    "question": "'सूहरवर्दी' सिलसिला किसके नाम से जाना जाता है? / The Suhrawardi order is named after whom?",
+    "question": "राग दरबारी के लेखक कौन हैं? / Who is the author of Raag Darbari?",
     "options": {
-      "A": "शेख शिबली / Sheikh Shibli",
-      "B": "शेख बहा उद्दीन जकरिया / Sheikh Baha-ud-din Zakariya",
-      "C": "शेख नज़मुद्दीन / Sheikh Nizamuddin",
-      "D": "शेख अब्दुल क़ादिर जिलानी / Sheikh Abdul Qadir Jilani"
+      "A": "श्रीलाल शुक्ल / Shrilal Shukla",
+      "B": "मुनशी प्रेमचंद / Munshi Premchand",
+      "C": "फणीश्वर नाथ 'रेणु' / Phanishwar Nath 'Renu'",
+      "D": "राजेंद्र यादव / Rajendra Yadav"
     },
-    "answer": ["B"],
-    "explanation": "'सूहरवर्दी' सिलसिला शेख बहा उद्दीन जकरिया के नाम से जाना जाता है।"
+    "answer": ["A"],
+    "explanation": "राग दरबारी के लेखक श्रीलाल शुक्ल हैं।"
   },
   {
     "id": 13,
-    "question": "'नक्षबंदी' सिलसिला किसके नाम से जाना जाता है? / The Naqshbandi order is named after whom?",
+    "question": "महादेवी वर्मा की प्रमुख काव्य कृति कौन-सी है? / Major poetic work of Mahadevi Verma?",
     "options": {
-      "A": "शेख नज़मुद्दीन औलिया / Sheikh Nizamuddin Auliya",
-      "B": "शेख अब्दुल क़ादिर जिलानी / Sheikh Abdul Qadir Jilani",
-      "C": "शेख अहमद फरुकी / Sheikh Ahmed Faruqi",
-      "D": "शेख बहा उद्दीन जकरिया / Sheikh Baha-ud-din Zakariya"
+      "A": "यामा / Yama",
+      "B": "गीतांजलि / Gitanjali",
+      "C": "गोदान / Godaan",
+      "D": "साकेत / Saket"
     },
-    "answer": ["C"],
-    "explanation": "'नक्षबंदी' सिलसिला शेख अहमद फरुकी के नाम से जाना जाता है।"
+    "answer": ["A"],
+    "explanation": "महादेवी वर्मा की प्रमुख काव्य कृति यामा है।"
   },
   {
     "id": 14,
-    "question": "'क़ादरी' सिलसिला किस विशेषता के लिए प्रसिद्ध है? / For which feature is the Qadri order famous?",
+    "question": "सूर्यकांत त्रिपाठी 'निराला' का वास्तविक योगदान किस क्षेत्र में प्रमुख है? / Main contribution of Suryakant Tripathi 'Nirala'?",
     "options": {
-      "A": "भक्ति और प्रेम के माध्यम से ईश्वर के निकटता / Closeness to God through devotion and love",
-      "B": "सामाजिक समानता और भाईचारे का प्रचार / Promote social equality and brotherhood",
-      "C": "ध्यान और तपस्या के माध्यम से आत्मा की शुद्धि / Purification of soul through meditation and austerity",
-      "D": "धार्मिक अनुष्ठानों का पालन / Observance of rituals"
+      "A": "काव्य / Poetry",
+      "B": "उपन्यास / Novel",
+      "C": "नाटक / Drama",
+      "D": "कहानी / Story"
     },
-    "answer": ["C"],
-    "explanation": "'क़ादरी' सिलसिला ध्यान और तपस्या के माध्यम से आत्मा की शुद्धि के लिए प्रसिद्ध है।"
+    "answer": ["A"],
+    "explanation": "निराला का प्रमुख योगदान हिंदी काव्य में है।"
   },
   {
     "id": 15,
-    "question": "'चिश्ती' सिलसिला किस विशेषता के लिए प्रसिद्ध है? / For which feature is the Chishti order famous?",
+    "question": "आधुनिक हिंदी कहानी में किसका योगदान महत्वपूर्ण माना जाता है? / Whose contribution is considered significant in modern Hindi story writing?",
     "options": {
-      "A": "भक्ति और प्रेम के माध्यम से ईश्वर के निकटता / Closeness to God through devotion and love",
-      "B": "सामाजिक समानता और भाईचारे का प्रचार / Promote social equality and brotherhood",
-      "C": "ध्यान और तपस्या के माध्यम से आत्मा की शुद्धि / Purification of soul through meditation and austerity",
-      "D": "धार्मिक अनुष्ठानों का पालन / Observance of rituals"
+      "A": "मुनशी प्रेमचंद / Munshi Premchand",
+      "B": "राजेंद्र यादव / Rajendra Yadav",
+      "C": "फणीश्वर नाथ 'रेणु' / Phanishwar Nath 'Renu'",
+      "D": "महादेवी वर्मा / Mahadevi Verma"
     },
-    "answer": ["A"],
-    "explanation": "'चिश्ती' सिलसिला भक्ति और प्रेम के माध्यम से ईश्वर के निकटता के लिए प्रसिद्ध है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "प्रेमचंद, राजेंद्र यादव और रेणु आधुनिक हिंदी कहानी के प्रमुख लेखक हैं।"
   },
   {
     "id": 16,
-    "question": "भारत में सूफी आंदोलन के प्रमुख सिलसिला कौन से थे? / Which were the major Sufi orders in India?",
+    "question": "राजेंद्र यादव का प्रसिद्ध उपन्यास कौन-सा है? / Famous novel of Rajendra Yadav?",
     "options": {
-      "A": "चिश्ती / Chishti",
-      "B": "सूहरवर्दी / Suhrawardi",
-      "C": "क़ादरी / Qadri",
-      "D": "नक्षबंदी / Naqshbandi"
+      "A": "हंसते हुए लोग / Haste Hue Log",
+      "B": "मैला आँचल / Maila Anchal",
+      "C": "गोदान / Godaan",
+      "D": "राग दरबारी / Raag Darbari"
     },
-    "answer": ["A", "B", "C", "D"],
-    "explanation": "भारत में सूफी आंदोलन के प्रमुख सिलसिला चिश्ती, सूहरवर्दी, क़ादरी और नक्षबंदी थे।"
+    "answer": ["A"],
+    "explanation": "राजेंद्र यादव का प्रसिद्ध उपन्यास हंसते हुए लोग है।"
   },
   {
     "id": 17,
-    "question": "किस सूफी संत को 'दातागंज बख्श' के नाम से जाना जाता है? / Which Sufi saint is known as 'Data Ganj Bakhsh'?",
+    "question": "फणीश्वर नाथ 'रेणु' किस क्षेत्र के ग्रामीण जीवन को प्रमुखता से चित्रित करते हैं? / Which life does Phanishwar Nath 'Renu' mostly depict?",
     "options": {
-      "A": "बाबा फरीद / Baba Farid",
-      "B": "मुईनुद्दीन चिश्ती / Muinuddin Chishti",
-      "C": "नज़मुद्दीन औलिया / Nizamuddin Auliya",
-      "D": "अल-हुजविरी / Al-Hujwiri"
+      "A": "ग्रामीण / Rural",
+      "B": "शहरी / Urban",
+      "C": "महानगरीय / Metropolitan",
+      "D": "प्राचीन / Ancient"
     },
-    "answer": ["D"],
-    "explanation": "अल-हुजविरी को 'दातागंज बख्श' के नाम से जाना जाता है।"
+    "answer": ["A"],
+    "explanation": "रेणु की कहानियाँ ग्रामीण जीवन की वास्तविक झलक प्रस्तुत करती हैं।"
   },
   {
     "id": 18,
-    "question": "किस सूफी संत ने 'क़व्वाली' संगीत शैली का प्रचार किया? / Which Sufi saint popularized the 'Qawwali' music style?",
+    "question": "अज्ञेय किस प्रकार के साहित्य में प्रख्यात थे? / In which literature was Agyeya famous?",
     "options": {
-      "A": "मुईनुद्दीन चिश्ती / Muinuddin Chishti",
-      "B": "नज़मुद्दीन औलिया / Nizamuddin Auliya",
-      "C": "बाबा फरीद / Baba Farid",
-      "D": "शेख बहा उद्दीन जकरिया / Sheikh Baha-ud-din Zakariya"
+      "A": "काव्य / Poetry",
+      "B": "उपन्यास / Novel",
+      "C": "नाटक / Drama",
+      "D": "कहानी / Story"
     },
-    "answer": ["B"],
-    "explanation": "नज़मुद्दीन औलिया ने 'क़व्वाली' संगीत शैली का प्रचार किया।"
+    "answer": ["A"],
+    "explanation": "अज्ञेय आधुनिक हिंदी काव्य के प्रमुख कवि थे।"
   },
   {
     "id": 19,
-    "question": "'क़व्वाली' संगीत शैली किस सूफी सिलसिला से संबंधित है? / Which Sufi order is associated with 'Qawwali'?",
+    "question": "सुमित्रानंदन पंत की छायावादी रचनाओं में प्रमुख विषय क्या हैं? / Major themes in Sumitranandan Pant's Chhayavaadi works?",
     "options": {
-      "A": "चिश्ती / Chishti",
-      "B": "सूहरवर्दी / Suhrawardi",
-      "C": "क़ादरी / Qadri",
-      "D": "नक्षबंदी / Naqshbandi"
+      "A": "प्रकृति / Nature",
+      "B": "भावनाएँ / Emotions",
+      "C": "सामाजिक मुद्दे / Social Issues",
+      "D": "इतिहास / History"
     },
-    "answer": ["A"],
-    "explanation": "'क़व्वाली' संगीत शैली चिश्ती सिलसिला से संबंधित है।"
+    "answer": ["A", "B"],
+    "explanation": "सुमित्रानंदन पंत की छायावादी रचनाओं में प्रकृति और भावनाएँ प्रमुख विषय हैं।"
   },
   {
     "id": 20,
-    "question": "सूफी संतों के उपदेशों का मुख्य उद्देश्य क्या था? / What was the main purpose of Sufi teachings?",
+    "question": "आधुनिक हिंदी के लेखक अज्ञेय का वास्तविक नाम क्या था? / Real name of modern Hindi writer Agyeya?",
     "options": {
-      "A": "धार्मिक कट्टरता का प्रचार / Promote religious extremism",
-      "B": "सामाजिक समानता और भाईचारे का प्रचार / Promote social equality and brotherhood",
-      "C": "केवल इस्लाम का प्रचार / Only propagate Islam",
-      "D": "धार्मिक अनुष्ठानों का पालन / Follow religious rituals"
+      "A": "सत्यकान्त त्रिपाठी / Satyakant Tripathi",
+      "B": "सूर्यकांत त्रिपाठी / Suryakant Tripathi",
+      "C": "राजेंद्र यादव / Rajendra Yadav",
+      "D": "मुनशी प्रेमचंद / Munshi Premchand"
     },
-    "answer": ["B"],
-    "explanation": "सूफी संतों का मुख्य उद्देश्य सामाजिक समानता और भाईचारे का प्रचार करना था।"
+    "answer": ["A"],
+    "explanation": "अज्ञेय का वास्तविक नाम सत्यकान्त त्रिपाठी था।"
   },
   {
     "id": 21,
-    "question": "'मुईनुद्दीन चिश्ती' का प्रमुख योगदान क्या था? / What was the main contribution of Muinuddin Chishti?",
+    "question": "मुंशी प्रेमचंद को किस शैली का प्रमुख लेखक माना जाता है?",
     "options": {
-      "A": "चिश्ती सिलसिला की स्थापना / Establishment of Chishti order",
-      "B": "सूहरवर्दी सिलसिला की स्थापना / Establishment of Suhrawardi order",
-      "C": "क़ादरी सिलसिला की स्थापना / Establishment of Qadri order",
-      "D": "नक्षबंदी सिलसिला की स्थापना / Establishment of Naqshbandi order"
+      "A": "वास्तविकता प्रधान कहानी",
+      "B": "रोमांटिक कविता",
+      "C": "इतिहास आधारित निबंध",
+      "D": "प्रयोगात्मक साहित्य"
     },
     "answer": ["A"],
-    "explanation": "मुईनुद्दीन चिश्ती ने चिश्ती सिलसिला की स्थापना की।"
+    "explanation": "मुंशी प्रेमचंद को सामाजिक और यथार्थवादी कहानियों के लिए जाना जाता है।"
   },
   {
     "id": 22,
-    "question": "'नज़मुद्दीन औलिया' का प्रमुख योगदान क्या था? / What was the main contribution of Nizamuddin Auliya?",
+    "question": "महादेवी वर्मा को हिंदी साहित्य में किसका प्रतिनिधित्वकर्ता माना जाता है?",
     "options": {
-      "A": "चिश्ती सिलसिला की स्थापना / Establishment of Chishti order",
-      "B": "सूहरवर्दी सिलसिला की स्थापना / Establishment of Suhrawardi order",
-      "C": "क़ादरी सिलसिला की स्थापना / Establishment of Qadri order",
-      "D": "चिश्ती सिलसिला को दिल्ली में स्थापित करना / Establish Chishti order in Delhi"
+      "A": "छायावाद",
+      "B": "आधुनिकवाद",
+      "C": "रियलिज्म",
+      "D": "प्रायोगिक कविता"
     },
-    "answer": ["D"],
-    "explanation": "नज़मुद्दीन औलिया ने चिश्ती सिलसिला को दिल्ली में स्थापित किया।"
+    "answer": ["A"],
+    "explanation": "महादेवी वर्मा छायावादी कविताओं की प्रमुख लेखिका मानी जाती हैं।"
   },
   {
     "id": 23,
-    "question": "'क़ादरी' सिलसिला किसके नाम से जाना जाता है? / The Qadri order is named after whom?",
+    "question": "सुमित्रानंदन पंत की कविताओं में कौन सा तत्व प्रमुख रूप से दिखाई देता है?",
     "options": {
-      "A": "शेख अब्दुल क़ादिर जिलानी / Sheikh Abdul Qadir Jilani",
-      "B": "मुईनुद्दीन चिश्ती / Muinuddin Chishti",
-      "C": "बाबा फरीद / Baba Farid",
-      "D": "नज़मुद्दीन औलिया / Nizamuddin Auliya"
+      "A": "प्रकृति प्रेम",
+      "B": "राजनीतिक आलोचना",
+      "C": "धार्मिक उपदेश",
+      "D": "साइंस फिक्शन"
     },
     "answer": ["A"],
-    "explanation": "'क़ादरी' सिलसिला शेख अब्दुल क़ादिर जिलानी के नाम से जाना जाता है।"
+    "explanation": "सुमित्रानंदन पंत की कविताओं में प्रकृति प्रेम और सौंदर्य की झलक स्पष्ट रूप से दिखती है।"
   },
   {
     "id": 24,
-    "question": "'सूहरवर्दी' सिलसिला किसके नाम से जाना जाता है? / The Suhrawardi order is named after whom?",
+    "question": "सूर्यकांत त्रिपाठी 'निराला' को किस साहित्यिक आंदोलन से जोड़ा जाता है?",
     "options": {
-      "A": "शेख शिबली / Sheikh Shibli",
-      "B": "शेख बहा उद्दीन जकरिया / Sheikh Baha-ud-din Zakariya",
-      "C": "शेख नज़मुद्दीन / Sheikh Nizamuddin",
-      "D": "शेख अब्दुल क़ादिर जिलानी / Sheikh Abdul Qadir Jilani"
+      "A": "छायावाद",
+      "B": "आधुनिक हिंदी कविता",
+      "C": "प्रगतिशील आंदोलन",
+      "D": "आधुनिक कहानी"
     },
     "answer": ["B"],
-    "explanation": "'सूहरवर्दी' सिलसिला शेख बहा उद्दीन जकरिया के नाम से जाना जाता है।"
+    "explanation": "सूर्यकांत त्रिपाठी 'निराला' आधुनिक हिंदी कविता के अग्रणी कवियों में से हैं।"
   },
   {
     "id": 25,
-    "question": "'नक्षबंदी' सिलसिला किसके नाम से जाना जाता है? / The Naqshbandi order is named after whom?",
+    "question": "हरिवंश राय बच्चन की प्रमुख कृति कौन सी है?",
     "options": {
-      "A": "शेख नज़मुद्दीन औलिया / Sheikh Nizamuddin Auliya",
-      "B": "शेख अब्दुल क़ादिर जिलानी / Sheikh Abdul Qadir Jilani",
-      "C": "शेख अहमद फरुकी / Sheikh Ahmed Faruqi",
-      "D": "शेख बहा उद्दीन जकरिया / Sheikh Baha-ud-din Zakariya"
+      "A": "मधुशाला",
+      "B": "गोदान",
+      "C": "गबन",
+      "D": "राग दरबारी"
     },
-    "answer": ["C"],
-    "explanation": "'नक्षबंदी' सिलसिला शेख अहमद फरुकी के नाम से जाना जाता है।"
+    "answer": ["A"],
+    "explanation": "हरिवंश राय बच्चन की 'मधुशाला' उनकी सबसे प्रसिद्ध कृति है।"
   },
   {
     "id": 26,
-    "question": "'क़ादरी' सिलसिला किस विशेषता के लिए प्रसिद्ध है? / For which feature is the Qadri order famous?",
+    "question": "राजेंद्र यादव को हिंदी साहित्य में किसका अग्रणी लेखक माना जाता है?",
     "options": {
-      "A": "भक्ति और प्रेम के माध्यम से ईश्वर के निकटता / Closeness to God through devotion and love",
-      "B": "सामाजिक समानता और भाईचारे का प्रचार / Promote social equality and brotherhood",
-      "C": "ध्यान और तपस्या के माध्यम से आत्मा की शुद्धि / Purification of soul through meditation and austerity",
-      "D": "धार्मिक अनुष्ठानों का पालन / Observance of rituals"
+      "A": "आधुनिक कहानी",
+      "B": "छायावादी कविता",
+      "C": "इतिहास लेखन",
+      "D": "प्रगतिशील कविता"
     },
-    "answer": ["C"],
-    "explanation": "'क़ादरी' सिलसिला ध्यान और तपस्या के माध्यम से आत्मा की शुद्धि के लिए प्रसिद्ध है।"
+    "answer": ["A"],
+    "explanation": "राजेंद्र यादव आधुनिक हिंदी कहानी के प्रमुख लेखक माने जाते हैं।"
   },
   {
     "id": 27,
-    "question": "'चिश्ती' सिलसिला किस विशेषता के लिए प्रसिद्ध है? / For which feature is the Chishti order famous?",
+    "question": "महादेवी वर्मा की कौन सी कृति छायावादी कविता का उत्कृष्ट उदाहरण है?",
     "options": {
-      "A": "भक्ति और प्रेम के माध्यम से ईश्वर के निकटता / Closeness to God through devotion and love",
-      "B": "सामाजिक समानता और भाईचारे का प्रचार / Promote social equality and brotherhood",
-      "C": "ध्यान और तपस्या के माध्यम से आत्मा की शुद्धि / Purification of soul through meditation and austerity",
-      "D": "धार्मिक अनुष्ठानों का पालन / Observance of rituals"
+      "A": "यामा",
+      "B": "गोदान",
+      "C": "मधुशाला",
+      "D": "राग दरबारी"
     },
     "answer": ["A"],
-    "explanation": "'चिश्ती' सिलसिला भक्ति और प्रेम के माध्यम से ईश्वर के निकटता के लिए प्रसिद्ध है।"
-  },
-  {
-    "id": 26,
-    "question": "'क़ादरी' सिलसिला किस विशेषता के लिए प्रसिद्ध है? / For which feature is the Qadri order famous?",
-    "options": {
-      "A": "भक्ति और प्रेम के माध्यम से ईश्वर के निकटता / Closeness to God through devotion and love",
-      "B": "सामाजिक समानता और भाईचारे का प्रचार / Promote social equality and brotherhood",
-      "C": "ध्यान और तपस्या के माध्यम से आत्मा की शुद्धि / Purification of soul through meditation and austerity",
-      "D": "धार्मिक अनुष्ठानों का पालन / Observance of rituals"
-    },
-    "answer": ["C"],
-    "explanation": "'क़ादरी' सिलसिला ध्यान और तपस्या के माध्यम से आत्मा की शुद्धि के लिए प्रसिद्ध है।"
-  },
-  {
-    "id": 27,
-    "question": "'चिश्ती' सिलसिला किस विशेषता के लिए प्रसिद्ध है? / For which feature is the Chishti order famous?",
-    "options": {
-      "A": "भक्ति और प्रेम के माध्यम से ईश्वर के निकटता / Closeness to God through devotion and love",
-      "B": "सामाजिक समानता और भाईचारे का प्रचार / Promote social equality and brotherhood",
-      "C": "ध्यान और तपस्या के माध्यम से आत्मा की शुद्धि / Purification of soul through meditation and austerity",
-      "D": "धार्मिक अनुष्ठानों का पालन / Observance of rituals"
-    },
-    "answer": ["A"],
-    "explanation": "'चिश्ती' सिलसिला भक्ति और प्रेम के माध्यम से ईश्वर के निकटता के लिए प्रसिद्ध है।"
+    "explanation": "'यामा' महादेवी वर्मा की छायावादी काव्य कृति है।"
   },
   {
     "id": 28,
-    "question": "'सूहरवर्दी' सिलसिला किसके प्रमुख विचारों पर आधारित है? / The Suhrawardi order is primarily based on whose teachings?",
+    "question": "सुमित्रानंदन पंत का जन्मकाल कौन सा था?",
     "options": {
-      "A": "शेख बहा उद्दीन जकरिया / Sheikh Baha-ud-din Zakariya",
-      "B": "मुईनुद्दीन चिश्ती / Muinuddin Chishti",
-      "C": "शेख अब्दुल क़ादिर जिलानी / Sheikh Abdul Qadir Jilani",
-      "D": "नज़मुद्दीन औलिया / Nizamuddin Auliya"
+      "A": "1887-1960",
+      "B": "1900-1980",
+      "C": "1890-1950",
+      "D": "1870-1940"
     },
     "answer": ["A"],
-    "explanation": "सूहरवर्दी सिलसिला शेख बहा उद्दीन जकरिया के प्रमुख विचारों पर आधारित है।"
+    "explanation": "सुमित्रानंदन पंत का जन्म 1900 नहीं बल्कि 1900 के आसपास के समय में हुआ, लेकिन सटीक वर्ष 1900 से थोड़ा पहले 1900-1887 का काल देखा जाता है।"
   },
   {
     "id": 29,
-    "question": "'नक्षबंदी' सिलसिला किस दृष्टिकोण के लिए जाना जाता है? / The Naqshbandi order is known for which approach?",
+    "question": "मुंशी प्रेमचंद की कहानी 'गोदान' का मुख्य विषय क्या है?",
     "options": {
-      "A": "ध्यान और तपस्या / Meditation and austerity",
-      "B": "भक्ति और प्रेम / Devotion and love",
-      "C": "सामाजिक सेवा / Social service",
-      "D": "संगीत और कला / Music and arts"
+      "A": "किसानों का जीवन और सामाजिक अन्याय",
+      "B": "राजनीतिक क्रांति",
+      "C": "युवाओं का प्रेम",
+      "D": "धार्मिक अनुष्ठान"
     },
     "answer": ["A"],
-    "explanation": "'नक्षबंदी' सिलसिला ध्यान और तपस्या के माध्यम से आध्यात्मिक प्रगति पर जोर देता है।"
+    "explanation": "'गोदान' में भारतीय किसानों के जीवन और उनके सामाजिक एवं आर्थिक संघर्षों का यथार्थ चित्रण किया गया है।"
   },
   {
     "id": 30,
-    "question": "भारत में सूफी आंदोलन ने किस सामाजिक बदलाव को बढ़ावा दिया? / What social change did the Sufi movement promote in India?",
+    "question": "सूर्यकांत त्रिपाठी 'निराला' की कविता में प्रमुखता किस तत्व की दिखाई देती है?",
     "options": {
-      "A": "धार्मिक कट्टरता / Religious extremism",
-      "B": "सामाजिक समानता और भाईचारा / Social equality and brotherhood",
-      "C": "सामाजिक भेदभाव / Social discrimination",
-      "D": "सिर्फ इस्लाम का प्रचार / Only propagation of Islam"
+      "A": "आधुनिकता और स्वतंत्रता की भावना",
+      "B": "पुरानी परंपरा का संरक्षण",
+      "C": "ऐतिहासिक घटनाओं का विवरण",
+      "D": "प्राकृतिक आपदाएँ"
     },
-    "answer": ["B"],
-    "explanation": "सूफी आंदोलन ने सामाजिक समानता और भाईचारे को बढ़ावा दिया।"
+    "answer": ["A"],
+    "explanation": "निराला की कविता में स्वतंत्रता, नवीनता और आधुनिकता की झलक प्रमुख रूप से मिलती है।"
   },
   {
     "id": 31,
-    "question": "किस सूफी संत ने 'खानकाह' प्रणाली की स्थापना की? / Which Sufi saint established the 'Khanqah' system?",
+    "question": "हरिवंश राय बच्चन की कविताओं में प्रमुख भाव कौन सा है?",
     "options": {
-      "A": "मुईनुद्दीन चिश्ती / Muinuddin Chishti",
-      "B": "नज़मुद्दीन औलिया / Nizamuddin Auliya",
-      "C": "शेख बहा उद्दीन जकरिया / Sheikh Baha-ud-din Zakariya",
-      "D": "शेख अहमद फरुकी / Sheikh Ahmed Faruqi"
+      "A": "आनंद और जीवन के सुख",
+      "B": "दुःख और विलाप",
+      "C": "राजनीतिक आलोचना",
+      "D": "प्राकृतिक चित्रण"
     },
-    "answer": ["A", "B"],
-    "explanation": "मुईनुद्दीन चिश्ती और नज़मुद्दीन औलिया ने खानकाह प्रणाली की स्थापना कर भिक्षु जीवन और भक्ति-शिक्षा को बढ़ावा दिया।"
+    "answer": ["A"],
+    "explanation": "हरिवंश राय बच्चन की कविताओं में जीवन के सुख और आनंद का भाव स्पष्ट रूप से दिखाई देता है।"
   },
   {
     "id": 32,
-    "question": "भारत में सूफी आंदोलन और भक्ति आंदोलन के बीच मुख्य समानता क्या थी? / What was the main similarity between the Sufi and Bhakti movements in India?",
+    "question": "राजेंद्र यादव ने आधुनिक हिंदी कहानी में क्या नवीनता लाई?",
     "options": {
-      "A": "भक्ति और प्रेम के माध्यम से ईश्वर के निकटता / Closeness to God through devotion and love",
-      "B": "धार्मिक कट्टरता / Religious extremism",
-      "C": "सामाजिक भेदभाव / Social discrimination",
-      "D": "सिर्फ इस्लाम का प्रचार / Only propagation of Islam"
+      "A": "सामाजिक यथार्थ और नारी जीवन का चित्रण",
+      "B": "पुरानी कथाओं का पुनर्लेखन",
+      "C": "इतिहास आधारित कथाएँ",
+      "D": "धार्मिक उपदेश"
     },
     "answer": ["A"],
-    "explanation": "दोनों आंदोलन भक्ति और प्रेम के माध्यम से ईश्वर के निकटता प्राप्त करने पर जोर देते थे।"
+    "explanation": "राजेंद्र यादव ने सामाजिक यथार्थ और नारी जीवन की गहन समस्याओं को आधुनिक कहानी में प्रमुख बनाया।"
   },
   {
     "id": 33,
-    "question": "सूफी संतों ने किस माध्यम से आम जनता के साथ संबंध बनाए? / How did Sufi saints connect with common people?",
+    "question": "महादेवी वर्मा की 'नीड़' काव्य कृति किस विषय पर आधारित है?",
     "options": {
-      "A": "उच्च जाति के धर्मशास्त्रों द्वारा / Through high-caste scriptures",
-      "B": "भक्ति, संगीत और खानकाह के माध्यम से / Through devotion, music, and Khanqah",
-      "C": "राजनीति के माध्यम से / Through politics",
-      "D": "व्यापार के माध्यम से / Through trade"
+      "A": "साधुता और मानव जीवन का अंतर्दर्शन",
+      "B": "प्राकृतिक सौंदर्य",
+      "C": "ऐतिहासिक घटनाएँ",
+      "D": "राजनीतिक आंदोलन"
     },
-    "answer": ["B"],
-    "explanation": "सूफी संतों ने भक्ति, क़व्वाली संगीत और खानकाह के माध्यम से आम जनता से जुड़ाव स्थापित किया।"
+    "answer": ["A"],
+    "explanation": "'नीड़' में मानव जीवन, साधुता और आत्मा के अनुभव को चित्रित किया गया है।"
   },
   {
     "id": 34,
-    "question": "भारत में सूफी आंदोलन की प्रमुख विशेषता क्या थी? / What was the main characteristic of the Sufi movement in India?",
+    "question": "सुमित्रानंदन पंत को किस क्षेत्र की कविताओं के लिए प्रसिद्धि मिली?",
     "options": {
-      "A": "धार्मिक कट्टरता / Religious extremism",
-      "B": "समानता और मानवता / Equality and humanity",
-      "C": "राजनीतिक सत्ता का विस्तार / Expansion of political power",
-      "D": "सिर्फ इस्लाम का प्रचार / Only propagation of Islam"
+      "A": "प्रकृति और ग्रामीण जीवन",
+      "B": "शहरी जीवन",
+      "C": "राजनीतिक आंदोलन",
+      "D": "धार्मिक अनुष्ठान"
     },
-    "answer": ["B"],
-    "explanation": "सूफी आंदोलन समानता और मानवता को बढ़ावा देने के लिए जाना जाता था।"
+    "answer": ["A"],
+    "explanation": "सुमित्रानंदन पंत की कविताओं में प्राकृतिक सौंदर्य और ग्रामीण जीवन का चित्रण प्रमुख है।"
   },
   {
     "id": 35,
-    "question": "सूफी संतों ने किन धार्मिक अनुशासन को महत्व दिया? / Which religious discipline did Sufi saints emphasize?",
+    "question": "मुंशी प्रेमचंद ने कितनी प्रमुख कहानियों और उपन्यासों की रचना की?",
     "options": {
-      "A": "सिर्फ अनुष्ठान / Only rituals",
-      "B": "ध्यान, तपस्या और भक्ति / Meditation, austerity, and devotion",
-      "C": "राजनीतिक प्रचार / Political propagation",
-      "D": "सामाजिक भेदभाव / Social discrimination"
+      "A": "लगभग 200 से अधिक",
+      "B": "लगभग 50",
+      "C": "लगभग 100",
+      "D": "लगभग 20"
     },
-    "answer": ["B"],
-    "explanation": "सूफी संतों ने ध्यान, तपस्या और भक्ति के माध्यम से आध्यात्मिक प्रगति पर जोर दिया।"
+    "answer": ["A"],
+    "explanation": "मुंशी प्रेमचंद ने लगभग 200 से अधिक कहानियाँ और उपन्यास लिखे।"
   },
   {
     "id": 36,
-    "question": "भारत में सूफी आंदोलन के किस सिलसिला ने संगीत और भक्ति को महत्व दिया? / Which Sufi order in India emphasized music and devotion?",
+    "question": "सूर्यकांत त्रिपाठी 'निराला' की प्रमुख कविता कौन सी है?",
     "options": {
-      "A": "चिश्ती / Chishti",
-      "B": "क़ादरी / Qadri",
-      "C": "नक्षबंदी / Naqshbandi",
-      "D": "सूहरवर्दी / Suhrawardi"
+      "A": "विविधा",
+      "B": "सरोज-संवाद",
+      "C": "सरोजिनी",
+      "D": "राम की कविता"
     },
     "answer": ["A"],
-    "explanation": "चिश्ती सिलसिला संगीत (क़व्वाली) और भक्ति को महत्व देता था।"
+    "explanation": "'विविधा' निराला की प्रमुख कविता है जिसमें आधुनिकता और भावनाओं का मिश्रण मिलता है।"
   },
   {
     "id": 37,
-    "question": "किस सूफी संत का मकबरा भारत में एक प्रमुख तीर्थस्थल है? / Whose shrine is a major pilgrimage site in India?",
+    "question": "हरिवंश राय बच्चन ने किस माध्यम में साहित्य की लोकप्रियता बढ़ाई?",
     "options": {
-      "A": "मुईनुद्दीन चिश्ती / Muinuddin Chishti",
-      "B": "नज़मुद्दीन औलिया / Nizamuddin Auliya",
-      "C": "बाबा फरीद / Baba Farid",
-      "D": "उपरोक्त सभी / All of the above"
+      "A": "कविता और गीत",
+      "B": "उपन्यास",
+      "C": "नाटक",
+      "D": "निबंध"
     },
-    "answer": ["D"],
-    "explanation": "मुईनुद्दीन चिश्ती, नज़मुद्दीन औलिया और बाबा फरीद के मकबरे भारत में प्रमुख तीर्थस्थल हैं।"
+    "answer": ["A"],
+    "explanation": "हरिवंश राय बच्चन ने कविता और गीतों के माध्यम से साहित्य में लोकप्रियता बढ़ाई।"
   },
   {
     "id": 38,
-    "question": "सूफी आंदोलन ने भारत में किस प्रकार के धार्मिक दृष्टिकोण को बढ़ावा दिया? / What kind of religious perspective did the Sufi movement promote in India?",
+    "question": "राजेंद्र यादव ने नारी जीवन की किस स्थिति को प्रमुखता दी?",
     "options": {
-      "A": "सहनशीलता और समन्वय / Tolerance and syncretism",
-      "B": "कट्टरता / Extremism",
-      "C": "सिर्फ इस्लाम का प्रचार / Only Islam propagation",
-      "D": "अन्य धर्मों का अपमान / Disrespect for other religions"
+      "A": "सामाजिक संघर्ष और स्वतंत्रता की खोज",
+      "B": "धार्मिक पंथ",
+      "C": "शहरी जीवन की चुनौतियाँ",
+      "D": "शिक्षा का विस्तार"
     },
     "answer": ["A"],
-    "explanation": "सूफी आंदोलन सहनशीलता और धर्मों के बीच समन्वय को बढ़ावा देता था।"
+    "explanation": "राजेंद्र यादव ने अपनी कहानियों में नारी जीवन के सामाजिक संघर्ष और स्वतंत्रता की खोज को प्रमुखता दी।"
   },
   {
     "id": 39,
-    "question": "भारत में सूफी आंदोलन ने किस सामाजिक वर्ग के लोगों को मुख्य रूप से प्रभावित किया? / Which social class was primarily influenced by the Sufi movement in India?",
+    "question": "महादेवी वर्मा ने कौन सा पुरस्कार प्राप्त किया?",
     "options": {
-      "A": "शाही और राज परिवार / Royal families",
-      "B": "सामान्य जनता / Common people",
-      "C": "ब्रह्मण वर्ग / Brahmins",
-      "D": "सिर्फ व्यापारिक वर्ग / Only merchants"
+      "A": "भारत सरकार का साहित्य अकादमी पुरस्कार",
+      "B": "नोबेल पुरस्कार",
+      "C": "साहित्य फाउंडेशन सम्मान",
+      "D": "केंद्रीय विश्वविद्यालय सम्मान"
     },
-    "answer": ["B"],
-    "explanation": "सूफी आंदोलन ने मुख्य रूप से सामान्य जनता को प्रभावित किया।"
+    "answer": ["A"],
+    "explanation": "महादेवी वर्मा को भारत सरकार का साहित्य अकादमी पुरस्कार प्राप्त हुआ।"
   },
   {
     "id": 40,
-    "question": "सूफी संतों के जीवन का मूल मंत्र क्या था? / What was the core principle of Sufi saints' life?",
+    "question": "सुमित्रानंदन पंत की रचनाओं में किस प्रकार का भाव प्रमुख है?",
     "options": {
-      "A": "धन और सत्ता का संग्रह / Accumulation of wealth and power",
-      "B": "भक्ति, सेवा और प्रेम / Devotion, service, and love",
-      "C": "धार्मिक कट्टरता / Religious extremism",
-      "D": "सिर्फ शिक्षा / Only education"
+      "A": "उत्साह और जीवन का आनंद",
+      "B": "दुःख और विरह",
+      "C": "राजनीतिक जागरूकता",
+      "D": "ऐतिहासिक विवरण"
     },
-    "answer": ["B"],
-    "explanation": "सूफी संतों का जीवन भक्ति, सेवा और प्रेम के मूल मंत्र पर आधारित था।"
+    "answer": ["A"],
+    "explanation": "सुमित्रानंदन पंत की कविताओं में उत्साह और जीवन के आनंद का भाव प्रमुख रूप से दिखाई देता है।"
   }
 ]
-  
- 
 
