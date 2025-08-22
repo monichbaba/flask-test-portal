@@ -1,1811 +1,509 @@
 [
   {
     "id": 1,
-    "question": "भारतीय संविधान में किस अनुच्छेद के तहत राष्ट्रपति को आपातकाल लगाने का अधिकार प्राप्त है? / Under which article of the Indian Constitution does the President have the power to proclaim Emergency?",
+    "question": "भारत में सूफी आंदोलन की शुरुआत किस सदी में हुई थी? / In which century did the Sufi movement begin in India?",
     "options": {
-      "A": "Article 352",
-      "B": "Article 356",
-      "C": "Article 360",
-      "D": "Article 368"
+      "A": "10वीं सदी / 10th Century",
+      "B": "11वीं सदी / 11th Century",
+      "C": "12वीं सदी / 12th Century",
+      "D": "13वीं सदी / 13th Century"
     },
-    "answer": ["A", "C"],
-    "explanation": "Article 352 के तहत राष्ट्रीय आपातकाल और Article 360 के तहत वित्तीय आपातकाल की घोषणा की जा सकती है।"
+    "answer": ["B"],
+    "explanation": "सूफी आंदोलन की शुरुआत 11वीं सदी में हुई थी, जब इस्लामिक रहस्यवाद भारतीय उपमहाद्वीप में प्रवेश करने लगा।"
   },
   {
     "id": 2,
-    "question": "भारत का सबसे बड़ा तटीय राज्य कौन सा है? / Which is the largest coastal state of India?",
+    "question": "सूफी संतों का प्रमुख उद्देश्य क्या था? / What was the main objective of Sufi saints?",
     "options": {
-      "A": "महाराष्ट्र (Maharashtra)",
-      "B": "गुजरात (Gujarat)",
-      "C": "ओडिशा (Odisha)",
-      "D": "तमिलनाडु (Tamil Nadu)"
+      "A": "धार्मिक कट्टरता का प्रचार / Promote religious extremism",
+      "B": "भक्ति और प्रेम के माध्यम से ईश्वर के निकटता / Attain closeness to God through devotion and love",
+      "C": "सामाजिक असमानता को बढ़ावा देना / Promote social inequality",
+      "D": "केवल इस्लाम का प्रचार / Only propagate Islam"
     },
     "answer": ["B"],
-    "explanation": "गुजरात 1600+ km समुद्री तट के साथ भारत का सबसे बड़ा तटीय राज्य है।"
+    "explanation": "सूफी संतों का उद्देश्य भक्ति और प्रेम के माध्यम से ईश्वर के निकटता प्राप्त करना था।"
   },
   {
     "id": 3,
-    "question": "भारतीय राष्ट्रीय कांग्रेस की स्थापना किस वर्ष हुई थी? / In which year was the Indian National Congress founded?",
+    "question": "भारत में सूफी आंदोलन के प्रमुख सिलसिला कौन से थे? / Which were the major Sufi orders in India?",
     "options": {
-      "A": "1885",
-      "B": "1905",
-      "C": "1919",
-      "D": "1920"
+      "A": "चिश्ती / Chishti",
+      "B": "सूहरवर्दी / Suhrawardi",
+      "C": "क़ादरी / Qadri",
+      "D": "उपरोक्त सभी / All of the above"
     },
-    "answer": ["A"],
-    "explanation": "भारतीय राष्ट्रीय कांग्रेस की स्थापना 1885 में एलन ऑक्टेवियन ह्यूम की पहल पर हुई थी।"
+    "answer": ["D"],
+    "explanation": "भारत में सूफी आंदोलन के प्रमुख सिलसिला चिश्ती, सूहरवर्दी और क़ादरी थे।"
   },
   {
     "id": 4,
-    "question": "नर्मदा नदी का स्रोत किस राज्य में है? / In which state is the source of Narmada River located?",
+    "question": "किस सूफी संत को 'दातागंज बख्श' के नाम से जाना जाता है? / Which Sufi saint is known as 'Data Ganj Bakhsh'?",
     "options": {
-      "A": "मध्य प्रदेश (Madhya Pradesh)",
-      "B": "छत्तीसगढ़ (Chhattisgarh)",
-      "C": "महाराष्ट्र (Maharashtra)",
-      "D": "उत्तर प्रदेश (Uttar Pradesh)"
+      "A": "बाबा फरीद / Baba Farid",
+      "B": "मुईनुद्दीन चिश्ती / Muinuddin Chishti",
+      "C": "नज़मुद्दीन औलिया / Nizamuddin Auliya",
+      "D": "अल-हुजविरी / Al-Hujwiri"
     },
-    "answer": ["A"],
-    "explanation": "नर्मदा नदी की उत्पत्ति अमरकंटक (Madhya Pradesh) से होती है।"
+    "answer": ["D"],
+    "explanation": "अल-हुजविरी को 'दातागंज बख्श' के नाम से जाना जाता है।"
   },
   {
     "id": 5,
-    "question": "सतत विकास के तीन स्तंभ कौन से हैं? / What are the three pillars of sustainable development?",
+    "question": "किस सूफी संत ने 'क़व्वाली' संगीत शैली का प्रचार किया? / Which Sufi saint popularized the 'Qawwali' music style?",
     "options": {
-      "A": "Economic, Social, Environmental",
-      "B": "Political, Cultural, Scientific",
-      "C": "Economic, Political, Legal",
-      "D": "Social, Technological, Cultural"
+      "A": "मुईनुद्दीन चिश्ती / Muinuddin Chishti",
+      "B": "नज़मुद्दीन औलिया / Nizamuddin Auliya",
+      "C": "बाबा फरीद / Baba Farid",
+      "D": "शेख बहा उद्दीन जकरिया / Sheikh Baha-ud-din Zakariya"
     },
-    "answer": ["A"],
-    "explanation": "सतत विकास तीन स्तंभों पर आधारित है: आर्थिक विकास, सामाजिक न्याय और पर्यावरणीय सुरक्षा।"
+    "answer": ["B"],
+    "explanation": "नज़मुद्दीन औलिया ने 'क़व्वाली' संगीत शैली का प्रचार किया।"
   },
   {
     "id": 6,
-    "question": "भारत का पहला डिजिटल गांव कौन सा है? / Which was Indias first digital village?",
+    "question": "'क़व्वाली' संगीत शैली किस सूफी सिलसिला से संबंधित है? / Which Sufi order is associated with 'Qawwali'?",
     "options": {
-      "A": "पीपली (Pipli)",
-      "B": "सैती (Saiti)",
-      "C": "कोरगांव (Koregaon)",
-      "D": "सोमेश्वर (Someshwar)"
+      "A": "चिश्ती / Chishti",
+      "B": "सूहरवर्दी / Suhrawardi",
+      "C": "क़ादरी / Qadri",
+      "D": "नक्षबंदी / Naqshbandi"
     },
     "answer": ["A"],
-    "explanation": "पीपली गांव को डिजिटल इंडिया पहल के तहत भारत का पहला डिजिटल गांव घोषित किया गया।"
+    "explanation": "'क़व्वाली' संगीत शैली चिश्ती सिलसिला से संबंधित है।"
   },
   {
     "id": 7,
-    "question": "भारत के संविधान में राज्यसभा के कितने स्थायी सदस्य होते हैं? / How many permanent members are there in Rajya Sabha under Indian Constitution?",
+    "question": "सूफी संतों के उपदेशों का मुख्य उद्देश्य क्या था? / What was the main purpose of Sufi teachings?",
     "options": {
-      "A": "250",
-      "B": "245",
-      "C": "238",
-      "D": "None, Rajya Sabha has no permanent members"
+      "A": "धार्मिक कट्टरता का प्रचार / Promote religious extremism",
+      "B": "सामाजिक समानता और भाईचारे का प्रचार / Promote social equality and brotherhood",
+      "C": "केवल इस्लाम का प्रचार / Only propagate Islam",
+      "D": "धार्मिक अनुष्ठानों का पालन / Follow religious rituals"
     },
-    "answer": ["D"],
-    "explanation": "राज्यसभा का कोई स्थायी सदस्य नहीं होता। सभी सदस्य चुनाव या नामांकन द्वारा निर्धारित समय के लिए होते हैं।"
+    "answer": ["B"],
+    "explanation": "सूफी संतों का मुख्य उद्देश्य सामाजिक समानता और भाईचारे का प्रचार करना था।"
   },
   {
     "id": 8,
-    "question": "किस शासक ने 'अशोक के उपदेश' शिलालेख खुदवाए? / Which ruler had the Ashokan edicts engraved?",
+    "question": "'मुईनुद्दीन चिश्ती' का प्रमुख योगदान क्या था? / What was the main contribution of Muinuddin Chishti?",
     "options": {
-      "A": "अशोक (Ashoka)",
-      "B": "बिंदुसार (Bindusara)",
-      "C": "चंद्रगुप्त मौर्य (Chandragupta Maurya)",
-      "D": "सम्राट हल्द (Samrat Hald)"
+      "A": "चिश्ती सिलसिला की स्थापना / Establishment of Chishti order",
+      "B": "सूहरवर्दी सिलसिला की स्थापना / Establishment of Suhrawardi order",
+      "C": "क़ादरी सिलसिला की स्थापना / Establishment of Qadri order",
+      "D": "नक्षबंदी सिलसिला की स्थापना / Establishment of Naqshbandi order"
     },
     "answer": ["A"],
-    "explanation": "अशोक मौर्य ने अपने शासनकाल में धर्म और नीति को जनता तक पहुँचाने के लिए शिलालेख खुदवाए।"
+    "explanation": "मुईनुद्दीन चिश्ती ने चिश्ती सिलसिला की स्थापना की।"
   },
   {
     "id": 9,
-    "question": "भारत में सबसे अधिक जैव विविधता किस क्षेत्र में पाई जाती है? / Which region in India has the highest biodiversity?",
+    "question": "सूफी संतों के उपदेशों में कौन सी विशेषता प्रमुख थी? / What was a key feature of Sufi teachings?",
     "options": {
-      "A": "हिमालय (Himalaya)",
-      "B": "पश्चिम घाट (Western Ghats)",
-      "C": "संडरलैंड (Sundarban)",
-      "D": "इंडो-गंगेटिक मैदान (Indo-Gangetic Plains)"
+      "A": "धार्मिक अनुष्ठानों का पालन / Observance of rituals",
+      "B": "भक्ति और प्रेम के माध्यम से ईश्वर के निकटता / Closeness to God through devotion and love",
+      "C": "सामाजिक असमानता को बढ़ावा देना / Promote social inequality",
+      "D": "केवल इस्लाम का प्रचार / Only propagate Islam"
     },
-    "answer": ["A", "B"],
-    "explanation": "हिमालय और पश्चिम घाट भारत के प्रमुख जैव विविधता क्षेत्र हैं।"
+    "answer": ["B"],
+    "explanation": "सूफी संतों के उपदेशों में भक्ति और प्रेम के माध्यम से ईश्वर के निकटता प्रमुख थी।"
   },
   {
     "id": 10,
-    "question": "प्रधानमंत्री कौशल विकास योजना किस वर्ष शुरू हुई? / In which year was Pradhan Mantri Kaushal Vikas Yojana launched?",
+    "question": "'नज़मुद्दीन औलिया' का प्रमुख योगदान क्या था? / What was the main contribution of Nizamuddin Auliya?",
     "options": {
-      "A": "2015",
-      "B": "2014",
-      "C": "2016",
-      "D": "2013"
+      "A": "चिश्ती सिलसिला की स्थापना / Establishment of Chishti order",
+      "B": "सूहरवर्दी सिलसिला की स्थापना / Establishment of Suhrawardi order",
+      "C": "क़ादरी सिलसिला की स्थापना / Establishment of Qadri order",
+      "D": "चिश्ती सिलसिला को दिल्ली में स्थापित करना / Establish Chishti order in Delhi"
     },
-    "answer": ["B"],
-    "explanation": "प्रधानमंत्री कौशल विकास योजना (PMKVY) 2014 में शुरू की गई थी।"
+    "answer": ["D"],
+    "explanation": "नज़मुद्दीन औलिया ने चिश्ती सिलसिला को दिल्ली में स्थापित किया।"
   },
   {
     "id": 11,
-    "question": "भारतीय संविधान में निर्देशात्मक सिद्धांतों का मुख्य उद्देश्य क्या है? / What is the main objective of Directive Principles of State Policy in Indian Constitution?",
+    "question": "'क़ादरी' सिलसिला किसके नाम से जाना जाता है? / The Qadri order is named after whom?",
     "options": {
-      "A": "समानता और सामाजिक न्याय सुनिश्चित करना (Ensure equality and social justice)",
-      "B": "राष्ट्रपति को आपातकाल का अधिकार देना (Give emergency powers to President)",
-      "C": "संवैधानिक संशोधन को रोकना (Restrict constitutional amendment)",
-      "D": "सशस्त्र बलों का नियंत्रण (Control armed forces)"
+      "A": "शेख अब्दुल क़ादिर जिलानी / Sheikh Abdul Qadir Jilani",
+      "B": "मुईनुद्दीन चिश्ती / Muinuddin Chishti",
+      "C": "बाबा फरीद / Baba Farid",
+      "D": "नज़मुद्दीन औलिया / Nizamuddin Auliya"
     },
     "answer": ["A"],
-    "explanation": "निर्देशात्मक सिद्धांतों का उद्देश्य समाज में समानता, सामाजिक न्याय, और कल्याणकारी राज्य की स्थापना करना है।"
+    "explanation": "'क़ादरी' सिलसिला शेख अब्दुल क़ादिर जिलानी के नाम से जाना जाता है।"
   },
   {
     "id": 12,
-    "question": "भारत में किस वर्ष GST लागू किया गया? / In which year was GST implemented in India?",
+    "question": "'सूहरवर्दी' सिलसिला किसके नाम से जाना जाता है? / The Suhrawardi order is named after whom?",
     "options": {
-      "A": "2015",
-      "B": "2016",
-      "C": "2017",
-      "D": "2018"
+      "A": "शेख शिबली / Sheikh Shibli",
+      "B": "शेख बहा उद्दीन जकरिया / Sheikh Baha-ud-din Zakariya",
+      "C": "शेख नज़मुद्दीन / Sheikh Nizamuddin",
+      "D": "शेख अब्दुल क़ादिर जिलानी / Sheikh Abdul Qadir Jilani"
     },
-    "answer": ["C"],
-    "explanation": "भारत में 1 जुलाई 2017 से वस्तु एवं सेवा कर (GST) लागू किया गया।"
+    "answer": ["B"],
+    "explanation": "'सूहरवर्दी' सिलसिला शेख बहा उद्दीन जकरिया के नाम से जाना जाता है।"
   },
   {
     "id": 13,
-    "question": "किस नदी को 'दक्षिण भारत की जीवनरेखा' कहा जाता है? / Which river is called 'Lifeline of South India'?",
+    "question": "'नक्षबंदी' सिलसिला किसके नाम से जाना जाता है? / The Naqshbandi order is named after whom?",
     "options": {
-      "A": "गोदावरी (Godavari)",
-      "B": "कृष्णा (Krishna)",
-      "C": "कावेरी (Cauvery)",
-      "D": "तुंगभद्रा (Tungabhadra)"
+      "A": "शेख नज़मुद्दीन औलिया / Sheikh Nizamuddin Auliya",
+      "B": "शेख अब्दुल क़ादिर जिलानी / Sheikh Abdul Qadir Jilani",
+      "C": "शेख अहमद फरुकी / Sheikh Ahmed Faruqi",
+      "D": "शेख बहा उद्दीन जकरिया / Sheikh Baha-ud-din Zakariya"
     },
     "answer": ["C"],
-    "explanation": "कावेरी नदी दक्षिण भारत के कई राज्यों के लिए जलापूर्ति और कृषि की मुख्य स्रोत है।"
+    "explanation": "'नक्षबंदी' सिलसिला शेख अहमद फरुकी के नाम से जाना जाता है।"
   },
   {
     "id": 14,
-    "question": "भारतीय इतिहास में 'दमन' और 'प्रशासनिक सुधारों' के लिए किस शासक को जाना जाता है? / Which ruler is known for suppression and administrative reforms in Indian history?",
+    "question": "'क़ादरी' सिलसिला किस विशेषता के लिए प्रसिद्ध है? / For which feature is the Qadri order famous?",
     "options": {
-      "A": "अकबर (Akbar)",
-      "B": "औरंगज़ेब (Aurangzeb)",
-      "C": "शिवाजी (Shivaji)",
-      "D": "अशोक (Ashoka)"
+      "A": "भक्ति और प्रेम के माध्यम से ईश्वर के निकटता / Closeness to God through devotion and love",
+      "B": "सामाजिक समानता और भाईचारे का प्रचार / Promote social equality and brotherhood",
+      "C": "ध्यान और तपस्या के माध्यम से आत्मा की शुद्धि / Purification of soul through meditation and austerity",
+      "D": "धार्मिक अनुष्ठानों का पालन / Observance of rituals"
     },
-    "answer": ["B"],
-    "explanation": "औरंगज़ेब को धार्मिक दमन और प्रशासनिक सुधारों के लिए जाना जाता है।"
+    "answer": ["C"],
+    "explanation": "'क़ादरी' सिलसिला ध्यान और तपस्या के माध्यम से आत्मा की शुद्धि के लिए प्रसिद्ध है।"
   },
   {
     "id": 15,
-    "question": "भारत का पहला परमाणु परीक्षण कहाँ हुआ था? / Where was Indias first nuclear test conducted?",
+    "question": "'चिश्ती' सिलसिला किस विशेषता के लिए प्रसिद्ध है? / For which feature is the Chishti order famous?",
     "options": {
-      "A": "राजस्थान (Rajasthan)",
-      "B": "कर्नाटक (Karnataka)",
-      "C": "मध्य प्रदेश (Madhya Pradesh)",
-      "D": "गुजरात (Gujarat)"
+      "A": "भक्ति और प्रेम के माध्यम से ईश्वर के निकटता / Closeness to God through devotion and love",
+      "B": "सामाजिक समानता और भाईचारे का प्रचार / Promote social equality and brotherhood",
+      "C": "ध्यान और तपस्या के माध्यम से आत्मा की शुद्धि / Purification of soul through meditation and austerity",
+      "D": "धार्मिक अनुष्ठानों का पालन / Observance of rituals"
     },
     "answer": ["A"],
-    "explanation": "भारत ने 1974 में राजस्थान के पोखरण क्षेत्र में पहला परमाणु परीक्षण किया था।"
+    "explanation": "'चिश्ती' सिलसिला भक्ति और प्रेम के माध्यम से ईश्वर के निकटता के लिए प्रसिद्ध है।"
   },
   {
     "id": 16,
-    "question": "भारत में किस राज्य ने सबसे अधिक सौर ऊर्जा उत्पादन किया है? / Which state produces the highest solar energy in India?",
+    "question": "भारत में सूफी आंदोलन के प्रमुख सिलसिला कौन से थे? / Which were the major Sufi orders in India?",
     "options": {
-      "A": "राजस्थान (Rajasthan)",
-      "B": "कर्नाटक (Karnataka)",
-      "C": "तेलंगाना (Telangana)",
-      "D": "गुजरात (Gujarat)"
+      "A": "चिश्ती / Chishti",
+      "B": "सूहरवर्दी / Suhrawardi",
+      "C": "क़ादरी / Qadri",
+      "D": "नक्षबंदी / Naqshbandi"
     },
-    "answer": ["A", "D"],
-    "explanation": "राजस्थान और गुजरात भारत में सौर ऊर्जा उत्पादन में अग्रणी हैं।"
+    "answer": ["A", "B", "C", "D"],
+    "explanation": "भारत में सूफी आंदोलन के प्रमुख सिलसिला चिश्ती, सूहरवर्दी, क़ादरी और नक्षबंदी थे।"
   },
   {
     "id": 17,
-    "question": "भारत में प्रधानमंत्री कृषि सम्मान निधि योजना (PM-KISAN) का लाभ कौन उठा सकता है? / Who can avail benefits under PM-KISAN scheme in India?",
+    "question": "किस सूफी संत को 'दातागंज बख्श' के नाम से जाना जाता है? / Which Sufi saint is known as 'Data Ganj Bakhsh'?",
     "options": {
-      "A": "सभी किसान परिवार (All farmer families)",
-      "B": "शहरी मजदूर (Urban workers)",
-      "C": "सरकारी कर्मचारी (Government employees)",
-      "D": "विदेशी निवेशक (Foreign investors)"
+      "A": "बाबा फरीद / Baba Farid",
+      "B": "मुईनुद्दीन चिश्ती / Muinuddin Chishti",
+      "C": "नज़मुद्दीन औलिया / Nizamuddin Auliya",
+      "D": "अल-हुजविरी / Al-Hujwiri"
     },
-    "answer": ["A"],
-    "explanation": "PM-KISAN योजना का लाभ छोटे और सीमांत किसान परिवारों को दिया जाता है।"
+    "answer": ["D"],
+    "explanation": "अल-हुजविरी को 'दातागंज बख्श' के नाम से जाना जाता है।"
   },
   {
     "id": 18,
-    "question": "किस भारतीय वनस्पति क्षेत्र को UNESCO विश्व धरोहर स्थल के रूप में मान्यता प्राप्त है? / Which Indian forest area is recognized as UNESCO World Heritage site?",
+    "question": "किस सूफी संत ने 'क़व्वाली' संगीत शैली का प्रचार किया? / Which Sufi saint popularized the 'Qawwali' music style?",
     "options": {
-      "A": "सातपुड़ा (Satpura)",
-      "B": "संडरलैंड (Sundarbans)",
-      "C": "सिमलिंगा (Simlinga)",
-      "D": "कांची (Kanchi)"
+      "A": "मुईनुद्दीन चिश्ती / Muinuddin Chishti",
+      "B": "नज़मुद्दीन औलिया / Nizamuddin Auliya",
+      "C": "बाबा फरीद / Baba Farid",
+      "D": "शेख बहा उद्दीन जकरिया / Sheikh Baha-ud-din Zakariya"
     },
     "answer": ["B"],
-    "explanation": "संडरलैंड (सांडरबन्स) भारत का एकमात्र मैंग्रोव वन क्षेत्र है जिसे UNESCO विश्व धरोहर स्थल घोषित किया गया है।"
+    "explanation": "नज़मुद्दीन औलिया ने 'क़व्वाली' संगीत शैली का प्रचार किया।"
   },
   {
     "id": 19,
-    "question": "भारतीय संविधान में मौलिक अधिकारों में समानता का अधिकार किस अनुच्छेद में निहित है? / Under which article is Right to Equality guaranteed in Indian Constitution?",
+    "question": "'क़व्वाली' संगीत शैली किस सूफी सिलसिला से संबंधित है? / Which Sufi order is associated with 'Qawwali'?",
     "options": {
-      "A": "Article 14",
-      "B": "Article 15",
-      "C": "Article 16",
-      "D": "Article 17"
+      "A": "चिश्ती / Chishti",
+      "B": "सूहरवर्दी / Suhrawardi",
+      "C": "क़ादरी / Qadri",
+      "D": "नक्षबंदी / Naqshbandi"
     },
-    "answer": ["A", "B", "C", "D"],
-    "explanation": "Article 14, 15, 16 और 17 के तहत समानता का अधिकार सुनिश्चित किया गया है।"
+    "answer": ["A"],
+    "explanation": "'क़व्वाली' संगीत शैली चिश्ती सिलसिला से संबंधित है।"
   },
   {
     "id": 20,
-    "question": "भारत का पहला अंतरिक्ष उपग्रह 'आर्यभट्ट' किस वर्ष लॉन्च हुआ था? / In which year was Indias first satellite 'Aryabhata' launched?",
+    "question": "सूफी संतों के उपदेशों का मुख्य उद्देश्य क्या था? / What was the main purpose of Sufi teachings?",
     "options": {
-      "A": "1972",
-      "B": "1975",
-      "C": "1980",
-      "D": "1969"
+      "A": "धार्मिक कट्टरता का प्रचार / Promote religious extremism",
+      "B": "सामाजिक समानता और भाईचारे का प्रचार / Promote social equality and brotherhood",
+      "C": "केवल इस्लाम का प्रचार / Only propagate Islam",
+      "D": "धार्मिक अनुष्ठानों का पालन / Follow religious rituals"
     },
     "answer": ["B"],
-    "explanation": "आर्यभट्ट उपग्रह 19 अप्रैल 1975 को लॉन्च किया गया।"
+    "explanation": "सूफी संतों का मुख्य उद्देश्य सामाजिक समानता और भाईचारे का प्रचार करना था।"
   },
   {
     "id": 21,
-    "question": "नर्मदा नदी किन पहाड़ों के बीच बहती है? / Between which mountains does Narmada River flow?",
+    "question": "'मुईनुद्दीन चिश्ती' का प्रमुख योगदान क्या था? / What was the main contribution of Muinuddin Chishti?",
     "options": {
-      "A": "सतपुड़ा और विंध्य (Satpura & Vindhya)",
-      "B": "हिमालय और अरावली (Himalaya & Aravalli)",
-      "C": "सतपुड़ा और अरावली (Satpura & Aravalli)",
-      "D": "विंध्य और हिमालय (Vindhya & Himalaya)"
+      "A": "चिश्ती सिलसिला की स्थापना / Establishment of Chishti order",
+      "B": "सूहरवर्दी सिलसिला की स्थापना / Establishment of Suhrawardi order",
+      "C": "क़ादरी सिलसिला की स्थापना / Establishment of Qadri order",
+      "D": "नक्षबंदी सिलसिला की स्थापना / Establishment of Naqshbandi order"
     },
     "answer": ["A"],
-    "explanation": "नर्मदा नदी मध्य प्रदेश में सतपुड़ा और विंध्य पर्वतों के बीच बहती है।"
+    "explanation": "मुईनुद्दीन चिश्ती ने चिश्ती सिलसिला की स्थापना की।"
   },
   {
     "id": 22,
-    "question": "किस भारतीय राज्य में सबसे अधिक जिंदा बाघ पाए जाते हैं? / In which Indian state are most live tigers found?",
+    "question": "'नज़मुद्दीन औलिया' का प्रमुख योगदान क्या था? / What was the main contribution of Nizamuddin Auliya?",
     "options": {
-      "A": "मध्य प्रदेश (Madhya Pradesh)",
-      "B": "महाराष्ट्र (Maharashtra)",
-      "C": "उत्तर प्रदेश (Uttar Pradesh)",
-      "D": "राजस्थान (Rajasthan)"
+      "A": "चिश्ती सिलसिला की स्थापना / Establishment of Chishti order",
+      "B": "सूहरवर्दी सिलसिला की स्थापना / Establishment of Suhrawardi order",
+      "C": "क़ादरी सिलसिला की स्थापना / Establishment of Qadri order",
+      "D": "चिश्ती सिलसिला को दिल्ली में स्थापित करना / Establish Chishti order in Delhi"
     },
-    "answer": ["A", "B"],
-    "explanation": "मध्य प्रदेश और महाराष्ट्र में सबसे अधिक जिंदा बाघ पाए जाते हैं।"
+    "answer": ["D"],
+    "explanation": "नज़मुद्दीन औलिया ने चिश्ती सिलसिला को दिल्ली में स्थापित किया।"
   },
   {
     "id": 23,
-    "question": "भारत में जलवायु परिवर्तन पर काम करने के लिए राष्ट्रीय नीति किस वर्ष लागू हुई? / In which year was Indias National Policy on Climate Change implemented?",
+    "question": "'क़ादरी' सिलसिला किसके नाम से जाना जाता है? / The Qadri order is named after whom?",
     "options": {
-      "A": "2006",
-      "B": "2008",
-      "C": "2010",
-      "D": "2012"
+      "A": "शेख अब्दुल क़ादिर जिलानी / Sheikh Abdul Qadir Jilani",
+      "B": "मुईनुद्दीन चिश्ती / Muinuddin Chishti",
+      "C": "बाबा फरीद / Baba Farid",
+      "D": "नज़मुद्दीन औलिया / Nizamuddin Auliya"
     },
     "answer": ["A"],
-    "explanation": "भारत ने 2006 में राष्ट्रीय जलवायु परिवर्तन नीति (NPC) लागू की।"
+    "explanation": "'क़ादरी' सिलसिला शेख अब्दुल क़ादिर जिलानी के नाम से जाना जाता है।"
   },
   {
     "id": 24,
-    "question": "संविधान के किस भाग में संघ और राज्यों के बीच संबंध वर्णित हैं? / Which part of the Constitution describes relations between Union and States?",
+    "question": "'सूहरवर्दी' सिलसिला किसके नाम से जाना जाता है? / The Suhrawardi order is named after whom?",
     "options": {
-      "A": "Part V",
-      "B": "Part VI",
-      "C": "Part VII",
-      "D": "Part XI"
+      "A": "शेख शिबली / Sheikh Shibli",
+      "B": "शेख बहा उद्दीन जकरिया / Sheikh Baha-ud-din Zakariya",
+      "C": "शेख नज़मुद्दीन / Sheikh Nizamuddin",
+      "D": "शेख अब्दुल क़ादिर जिलानी / Sheikh Abdul Qadir Jilani"
     },
-    "answer": ["D"],
-    "explanation": "Part XI भारत में संघ और राज्यों के बीच संबंध को नियंत्रित करता है।"
+    "answer": ["B"],
+    "explanation": "'सूहरवर्दी' सिलसिला शेख बहा उद्दीन जकरिया के नाम से जाना जाता है।"
   },
   {
     "id": 25,
-    "question": "भारत में कौन सी नाभिकीय ऊर्जा परियोजना सबसे पुरानी है? / Which is Indias oldest nuclear power project?",
+    "question": "'नक्षबंदी' सिलसिला किसके नाम से जाना जाता है? / The Naqshbandi order is named after whom?",
     "options": {
-      "A": "टारापुर (Tarapur)",
-      "B": "ककनाड (Kakrapar)",
-      "C": "नरनपुर (Narora)",
-      "D": "कायाव (Kaiga)"
+      "A": "शेख नज़मुद्दीन औलिया / Sheikh Nizamuddin Auliya",
+      "B": "शेख अब्दुल क़ादिर जिलानी / Sheikh Abdul Qadir Jilani",
+      "C": "शेख अहमद फरुकी / Sheikh Ahmed Faruqi",
+      "D": "शेख बहा उद्दीन जकरिया / Sheikh Baha-ud-din Zakariya"
     },
-    "answer": ["A"],
-    "explanation": "टारापुर परमाणु ऊर्जा परियोजना भारत की सबसे पुरानी परियोजना है, 1969 में चालू हुई।"
+    "answer": ["C"],
+    "explanation": "'नक्षबंदी' सिलसिला शेख अहमद फरुकी के नाम से जाना जाता है।"
   },
   {
     "id": 26,
-    "question": "किस भारतीय शहर को 'साइबर सिटी' कहा जाता है? / Which Indian city is called 'Cyber City'?",
+    "question": "'क़ादरी' सिलसिला किस विशेषता के लिए प्रसिद्ध है? / For which feature is the Qadri order famous?",
     "options": {
-      "A": "गुरुग्राम (Gurugram)",
-      "B": "बेंगलुरु (Bengaluru)",
-      "C": "पुणे (Pune)",
-      "D": "हैदराबाद (Hyderabad)"
+      "A": "भक्ति और प्रेम के माध्यम से ईश्वर के निकटता / Closeness to God through devotion and love",
+      "B": "सामाजिक समानता और भाईचारे का प्रचार / Promote social equality and brotherhood",
+      "C": "ध्यान और तपस्या के माध्यम से आत्मा की शुद्धि / Purification of soul through meditation and austerity",
+      "D": "धार्मिक अनुष्ठानों का पालन / Observance of rituals"
     },
-    "answer": ["A", "B"],
-    "explanation": "गुरुग्राम और बेंगलुरु भारत में आईटी हब के रूप में प्रसिद्ध हैं और 'Cyber City' कहलाते हैं।"
+    "answer": ["C"],
+    "explanation": "'क़ादरी' सिलसिला ध्यान और तपस्या के माध्यम से आत्मा की शुद्धि के लिए प्रसिद्ध है।"
   },
   {
     "id": 27,
-    "question": "सात भारतीय राज्यों की सीमा 'भारत-बांग्लादेश बार्डर' से मिलती है। इनमें से कौन सा राज्य शामिल नहीं है? / Which of the following does not share the India-Bangladesh border?",
+    "question": "'चिश्ती' सिलसिला किस विशेषता के लिए प्रसिद्ध है? / For which feature is the Chishti order famous?",
     "options": {
-      "A": "पश्चिम बंगाल (West Bengal)",
-      "B": "असम (Assam)",
-      "C": "त्रिपुरा (Tripura)",
-      "D": "मणिपुर (Manipur)"
+      "A": "भक्ति और प्रेम के माध्यम से ईश्वर के निकटता / Closeness to God through devotion and love",
+      "B": "सामाजिक समानता और भाईचारे का प्रचार / Promote social equality and brotherhood",
+      "C": "ध्यान और तपस्या के माध्यम से आत्मा की शुद्धि / Purification of soul through meditation and austerity",
+      "D": "धार्मिक अनुष्ठानों का पालन / Observance of rituals"
     },
-    "answer": ["D"],
-    "explanation": "मणिपुर की सीमा बांग्लादेश से नहीं मिलती, जबकि पश्चिम बंगाल, असम, त्रिपुरा, मेघालय, मिज़ोरम, सिक्किम, पश्चिम बंगाल मिलती हैं।"
+    "answer": ["A"],
+    "explanation": "'चिश्ती' सिलसिला भक्ति और प्रेम के माध्यम से ईश्वर के निकटता के लिए प्रसिद्ध है।"
+  },
+  {
+    "id": 26,
+    "question": "'क़ादरी' सिलसिला किस विशेषता के लिए प्रसिद्ध है? / For which feature is the Qadri order famous?",
+    "options": {
+      "A": "भक्ति और प्रेम के माध्यम से ईश्वर के निकटता / Closeness to God through devotion and love",
+      "B": "सामाजिक समानता और भाईचारे का प्रचार / Promote social equality and brotherhood",
+      "C": "ध्यान और तपस्या के माध्यम से आत्मा की शुद्धि / Purification of soul through meditation and austerity",
+      "D": "धार्मिक अनुष्ठानों का पालन / Observance of rituals"
+    },
+    "answer": ["C"],
+    "explanation": "'क़ादरी' सिलसिला ध्यान और तपस्या के माध्यम से आत्मा की शुद्धि के लिए प्रसिद्ध है।"
+  },
+  {
+    "id": 27,
+    "question": "'चिश्ती' सिलसिला किस विशेषता के लिए प्रसिद्ध है? / For which feature is the Chishti order famous?",
+    "options": {
+      "A": "भक्ति और प्रेम के माध्यम से ईश्वर के निकटता / Closeness to God through devotion and love",
+      "B": "सामाजिक समानता और भाईचारे का प्रचार / Promote social equality and brotherhood",
+      "C": "ध्यान और तपस्या के माध्यम से आत्मा की शुद्धि / Purification of soul through meditation and austerity",
+      "D": "धार्मिक अनुष्ठानों का पालन / Observance of rituals"
+    },
+    "answer": ["A"],
+    "explanation": "'चिश्ती' सिलसिला भक्ति और प्रेम के माध्यम से ईश्वर के निकटता के लिए प्रसिद्ध है।"
   },
   {
     "id": 28,
-    "question": "भारत में स्वच्छ ऊर्जा उत्पादन में सबसे अधिक योगदान किस स्रोत का है? / Which source contributes most to clean energy production in India?",
+    "question": "'सूहरवर्दी' सिलसिला किसके प्रमुख विचारों पर आधारित है? / The Suhrawardi order is primarily based on whose teachings?",
     "options": {
-      "A": "सौर ऊर्जा (Solar)",
-      "B": "हाइड्रो (Hydro)",
-      "C": "पवन ऊर्जा (Wind)",
-      "D": "जैविक ऊर्जा (Biomass)"
+      "A": "शेख बहा उद्दीन जकरिया / Sheikh Baha-ud-din Zakariya",
+      "B": "मुईनुद्दीन चिश्ती / Muinuddin Chishti",
+      "C": "शेख अब्दुल क़ादिर जिलानी / Sheikh Abdul Qadir Jilani",
+      "D": "नज़मुद्दीन औलिया / Nizamuddin Auliya"
     },
-    "answer": ["B", "C"],
-    "explanation": "भारत में हाइड्रो और पवन ऊर्जा स्वच्छ ऊर्जा उत्पादन में सबसे बड़े योगदानकर्ता हैं।"
+    "answer": ["A"],
+    "explanation": "सूहरवर्दी सिलसिला शेख बहा उद्दीन जकरिया के प्रमुख विचारों पर आधारित है।"
   },
   {
     "id": 29,
-    "question": "भारत का पहला डिजिटल भुगतान गांव कौन सा है? / Which is Indias first digital payment village?",
+    "question": "'नक्षबंदी' सिलसिला किस दृष्टिकोण के लिए जाना जाता है? / The Naqshbandi order is known for which approach?",
     "options": {
-      "A": "भोपलगढ़ (Bhopalgarh)",
-      "B": "पीपली (Pipli)",
-      "C": "सोमेश्वर (Someshwar)",
-      "D": "कोरगांव (Koregaon)"
+      "A": "ध्यान और तपस्या / Meditation and austerity",
+      "B": "भक्ति और प्रेम / Devotion and love",
+      "C": "सामाजिक सेवा / Social service",
+      "D": "संगीत और कला / Music and arts"
     },
-    "answer": ["B"],
-    "explanation": "पीपली गांव को डिजिटल इंडिया पहल के तहत पहला डिजिटल भुगतान गांव घोषित किया गया।"
+    "answer": ["A"],
+    "explanation": "'नक्षबंदी' सिलसिला ध्यान और तपस्या के माध्यम से आध्यात्मिक प्रगति पर जोर देता है।"
   },
   {
     "id": 30,
-    "question": "भारत में 'पॉलिटिकल डिक्रीमेंट ऑफ इनकम' के अंतर्गत किस अधिकार को संरक्षित किया गया है? / Under Political Decrement of Income, which right is protected?",
+    "question": "भारत में सूफी आंदोलन ने किस सामाजिक बदलाव को बढ़ावा दिया? / What social change did the Sufi movement promote in India?",
     "options": {
-      "A": "समानता (Equality)",
-      "B": "स्वतंत्रता (Freedom)",
-      "C": "संपत्ति (Property)",
-      "D": "न्याय (Justice)"
+      "A": "धार्मिक कट्टरता / Religious extremism",
+      "B": "सामाजिक समानता और भाईचारा / Social equality and brotherhood",
+      "C": "सामाजिक भेदभाव / Social discrimination",
+      "D": "सिर्फ इस्लाम का प्रचार / Only propagation of Islam"
     },
-    "answer": ["C"],
-    "explanation": "संविधान के तहत संपत्ति का अधिकार अब मौलिक अधिकार नहीं, पर निर्देशात्मक सिद्धांतों में संरक्षित है।"
+    "answer": ["B"],
+    "explanation": "सूफी आंदोलन ने सामाजिक समानता और भाईचारे को बढ़ावा दिया।"
   },
   {
     "id": 31,
-    "question": "किस भारतीय राज्य ने 2022 में 'इलेक्ट्रिक बस नेटवर्क' को सर्वप्रथम लागू किया? / Which Indian state first implemented Electric Bus Network in 2022?",
+    "question": "किस सूफी संत ने 'खानकाह' प्रणाली की स्थापना की? / Which Sufi saint established the 'Khanqah' system?",
     "options": {
-      "A": "केरल (Kerala)",
-      "B": "तमिलनाडु (Tamil Nadu)",
-      "C": "कर्नाटक (Karnataka)",
-      "D": "उत्तर प्रदेश (Uttar Pradesh)"
+      "A": "मुईनुद्दीन चिश्ती / Muinuddin Chishti",
+      "B": "नज़मुद्दीन औलिया / Nizamuddin Auliya",
+      "C": "शेख बहा उद्दीन जकरिया / Sheikh Baha-ud-din Zakariya",
+      "D": "शेख अहमद फरुकी / Sheikh Ahmed Faruqi"
     },
-    "answer": ["B"],
-    "explanation": "तमिलनाडु ने 2022 में इलेक्ट्रिक बस नेटवर्क की शुरुआत की।"
+    "answer": ["A", "B"],
+    "explanation": "मुईनुद्दीन चिश्ती और नज़मुद्दीन औलिया ने खानकाह प्रणाली की स्थापना कर भिक्षु जीवन और भक्ति-शिक्षा को बढ़ावा दिया।"
   },
   {
     "id": 32,
-    "question": "भारत में 'सर्वोच्च न्यायालय के न्यायाधीश' के लिए न्यूनतम आयु सीमा क्या है? / What is the minimum age for appointment as Judge of Supreme Court of India?",
+    "question": "भारत में सूफी आंदोलन और भक्ति आंदोलन के बीच मुख्य समानता क्या थी? / What was the main similarity between the Sufi and Bhakti movements in India?",
     "options": {
-      "A": "35 वर्ष (35 years)",
-      "B": "40 वर्ष (40 years)",
-      "C": "45 वर्ष (45 years)",
-      "D": "50 वर्ष (50 years)"
+      "A": "भक्ति और प्रेम के माध्यम से ईश्वर के निकटता / Closeness to God through devotion and love",
+      "B": "धार्मिक कट्टरता / Religious extremism",
+      "C": "सामाजिक भेदभाव / Social discrimination",
+      "D": "सिर्फ इस्लाम का प्रचार / Only propagation of Islam"
     },
     "answer": ["A"],
-    "explanation": "भारतीय संविधान के अनुसार सर्वोच्च न्यायालय के न्यायाधीश के लिए न्यूनतम आयु 35 वर्ष है।"
+    "explanation": "दोनों आंदोलन भक्ति और प्रेम के माध्यम से ईश्वर के निकटता प्राप्त करने पर जोर देते थे।"
   },
   {
     "id": 33,
-    "question": "किस क्षेत्र में 'सीवेज ट्रीटमेंट प्लांट' भारत में सबसे अधिक विकसित हैं? / In which sector are Sewage Treatment Plants most developed in India?",
+    "question": "सूफी संतों ने किस माध्यम से आम जनता के साथ संबंध बनाए? / How did Sufi saints connect with common people?",
     "options": {
-      "A": "शहरी क्षेत्र (Urban Areas)",
-      "B": "ग्रामीण क्षेत्र (Rural Areas)",
-      "C": "औद्योगिक क्षेत्र (Industrial Areas)",
-      "D": "पहाड़ी क्षेत्र (Hilly Areas)"
+      "A": "उच्च जाति के धर्मशास्त्रों द्वारा / Through high-caste scriptures",
+      "B": "भक्ति, संगीत और खानकाह के माध्यम से / Through devotion, music, and Khanqah",
+      "C": "राजनीति के माध्यम से / Through politics",
+      "D": "व्यापार के माध्यम से / Through trade"
     },
-    "answer": ["A"],
-    "explanation": "भारत में सीवेज ट्रीटमेंट प्लांट मुख्यतः शहरी क्षेत्रों में विकसित किए गए हैं।"
+    "answer": ["B"],
+    "explanation": "सूफी संतों ने भक्ति, क़व्वाली संगीत और खानकाह के माध्यम से आम जनता से जुड़ाव स्थापित किया।"
   },
   {
     "id": 34,
-    "question": "कौन सा राज्य भारत में सबसे अधिक गेहूं का उत्पादन करता है? / Which state produces the most wheat in India?",
+    "question": "भारत में सूफी आंदोलन की प्रमुख विशेषता क्या थी? / What was the main characteristic of the Sufi movement in India?",
     "options": {
-      "A": "उत्तर प्रदेश (Uttar Pradesh)",
-      "B": "मध्य प्रदेश (Madhya Pradesh)",
-      "C": "पंजाब (Punjab)",
-      "D": "हरियाणा (Haryana)"
+      "A": "धार्मिक कट्टरता / Religious extremism",
+      "B": "समानता और मानवता / Equality and humanity",
+      "C": "राजनीतिक सत्ता का विस्तार / Expansion of political power",
+      "D": "सिर्फ इस्लाम का प्रचार / Only propagation of Islam"
     },
-    "answer": ["A", "B"],
-    "explanation": "उत्तर प्रदेश और मध्य प्रदेश भारत में गेहूं उत्पादन में अग्रणी हैं।"
+    "answer": ["B"],
+    "explanation": "सूफी आंदोलन समानता और मानवता को बढ़ावा देने के लिए जाना जाता था।"
   },
   {
     "id": 35,
-    "question": "भारत में किस वर्ष 'राष्ट्रीय शिक्षा नीति' लागू हुई? / In which year was National Education Policy implemented in India?",
+    "question": "सूफी संतों ने किन धार्मिक अनुशासन को महत्व दिया? / Which religious discipline did Sufi saints emphasize?",
     "options": {
-      "A": "2018",
-      "B": "2019",
-      "C": "2020",
-      "D": "2021"
+      "A": "सिर्फ अनुष्ठान / Only rituals",
+      "B": "ध्यान, तपस्या और भक्ति / Meditation, austerity, and devotion",
+      "C": "राजनीतिक प्रचार / Political propagation",
+      "D": "सामाजिक भेदभाव / Social discrimination"
     },
-    "answer": ["C"],
-    "explanation": "भारत में 2020 में नई राष्ट्रीय शिक्षा नीति (NEP) लागू हुई।"
+    "answer": ["B"],
+    "explanation": "सूफी संतों ने ध्यान, तपस्या और भक्ति के माध्यम से आध्यात्मिक प्रगति पर जोर दिया।"
   },
   {
     "id": 36,
-    "question": "कौन सी भारतीय योजनाएँ सीधे ग्रामीण रोजगार को बढ़ावा देती हैं? / Which Indian schemes directly promote rural employment?",
+    "question": "भारत में सूफी आंदोलन के किस सिलसिला ने संगीत और भक्ति को महत्व दिया? / Which Sufi order in India emphasized music and devotion?",
     "options": {
-      "A": "MGNREGA",
-      "B": "PM-KISAN",
-      "C": "PMKVY",
-      "D": "Swachh Bharat Mission"
+      "A": "चिश्ती / Chishti",
+      "B": "क़ादरी / Qadri",
+      "C": "नक्षबंदी / Naqshbandi",
+      "D": "सूहरवर्दी / Suhrawardi"
     },
-    "answer": ["A", "D"],
-    "explanation": "MGNREGA और स्वच्छ भारत मिशन ग्रामीण रोजगार को सीधे बढ़ावा देते हैं।"
+    "answer": ["A"],
+    "explanation": "चिश्ती सिलसिला संगीत (क़व्वाली) और भक्ति को महत्व देता था।"
   },
   {
     "id": 37,
-    "question": "भारत में किस राज्य का राष्ट्रीय उद्यान 'काजीरंगा' स्थित है? / In which state is Kaziranga National Park located?",
+    "question": "किस सूफी संत का मकबरा भारत में एक प्रमुख तीर्थस्थल है? / Whose shrine is a major pilgrimage site in India?",
     "options": {
-      "A": "असम (Assam)",
-      "B": "मणिपुर (Manipur)",
-      "C": "मेघालय (Meghalaya)",
-      "D": "त्रिपुरा (Tripura)"
+      "A": "मुईनुद्दीन चिश्ती / Muinuddin Chishti",
+      "B": "नज़मुद्दीन औलिया / Nizamuddin Auliya",
+      "C": "बाबा फरीद / Baba Farid",
+      "D": "उपरोक्त सभी / All of the above"
     },
-    "answer": ["A"],
-    "explanation": "काजीरंगा राष्ट्रीय उद्यान असम में स्थित है और यह यूनिक हॉर्नेड राइनो के लिए प्रसिद्ध है।"
+    "answer": ["D"],
+    "explanation": "मुईनुद्दीन चिश्ती, नज़मुद्दीन औलिया और बाबा फरीद के मकबरे भारत में प्रमुख तीर्थस्थल हैं।"
   },
   {
     "id": 38,
-    "question": "भारत का संविधान कब लागू हुआ? / When was the Constitution of India implemented?",
+    "question": "सूफी आंदोलन ने भारत में किस प्रकार के धार्मिक दृष्टिकोण को बढ़ावा दिया? / What kind of religious perspective did the Sufi movement promote in India?",
     "options": {
-      "A": "26 जनवरी 1950 (26 Jan 1950)",
-      "B": "15 अगस्त 1947 (15 Aug 1947)",
-      "C": "26 नवंबर 1949 (26 Nov 1949)",
-      "D": "2 अक्टूबर 1950 (2 Oct 1950)"
+      "A": "सहनशीलता और समन्वय / Tolerance and syncretism",
+      "B": "कट्टरता / Extremism",
+      "C": "सिर्फ इस्लाम का प्रचार / Only Islam propagation",
+      "D": "अन्य धर्मों का अपमान / Disrespect for other religions"
     },
     "answer": ["A"],
-    "explanation": "भारत का संविधान 26 जनवरी 1950 को लागू हुआ और यह भारत के गणतंत्र दिवस के रूप में मनाया जाता है।"
+    "explanation": "सूफी आंदोलन सहनशीलता और धर्मों के बीच समन्वय को बढ़ावा देता था।"
   },
   {
     "id": 39,
-    "question": "भारत में बायोगैस उत्पादन के लिए प्रमुख कच्चा माल कौन सा है? / What is the main raw material for biogas production in India?",
+    "question": "भारत में सूफी आंदोलन ने किस सामाजिक वर्ग के लोगों को मुख्य रूप से प्रभावित किया? / Which social class was primarily influenced by the Sufi movement in India?",
     "options": {
-      "A": "गोबर और कृषि अपशिष्ट (Cow dung & agricultural waste)",
-      "B": "कोयला (Coal)",
-      "C": "तेल (Oil)",
-      "D": "प्राकृतिक गैस (Natural Gas)"
+      "A": "शाही और राज परिवार / Royal families",
+      "B": "सामान्य जनता / Common people",
+      "C": "ब्रह्मण वर्ग / Brahmins",
+      "D": "सिर्फ व्यापारिक वर्ग / Only merchants"
     },
-    "answer": ["A"],
-    "explanation": "भारत में बायोगैस उत्पादन के लिए गोबर और कृषि अपशिष्ट का प्रमुख उपयोग किया जाता है।"
+    "answer": ["B"],
+    "explanation": "सूफी आंदोलन ने मुख्य रूप से सामान्य जनता को प्रभावित किया।"
   },
   {
     "id": 40,
-    "question": "किस भारतीय राज्य ने 2021 में 'वन्यजीव corridors' के लिए विशेष पहल की? / Which Indian state launched special initiative for wildlife corridors in 2021?",
+    "question": "सूफी संतों के जीवन का मूल मंत्र क्या था? / What was the core principle of Sufi saints' life?",
     "options": {
-      "A": "महाराष्ट्र (Maharashtra)",
-      "B": "उत्तर प्रदेश (Uttar Pradesh)",
-      "C": "कर्नाटक (Karnataka)",
-      "D": "राजस्थान (Rajasthan)"
+      "A": "धन और सत्ता का संग्रह / Accumulation of wealth and power",
+      "B": "भक्ति, सेवा और प्रेम / Devotion, service, and love",
+      "C": "धार्मिक कट्टरता / Religious extremism",
+      "D": "सिर्फ शिक्षा / Only education"
     },
     "answer": ["B"],
-    "explanation": "उत्तर प्रदेश सरकार ने 2021 में वन्यजीव कॉरिडोर संरक्षण के लिए विशेष पहल शुरू की।"
-  },
-  {
-    "id": 41,
-    "question": "संविधान के किस अनुच्छेद में राज्यपाल के विशेषाधिकारों का उल्लेख है? / Which article of the Constitution mentions the special powers of Governor?",
-    "options": {
-      "A": "अनुच्छेद 163 (Article 163)",
-      "B": "अनुच्छेद 356 (Article 356)",
-      "C": "अनुच्छेद 371 (Article 371)",
-      "D": "अनुच्छेद 368 (Article 368)"
-    },
-    "answer": ["A", "C"],
-    "explanation": "अनुच्छेद 163 राज्यपाल के मंत्रिपरिषद के साथ परामर्श संबंधी शक्तियों का उल्लेख करता है। अनुच्छेद 371 में कुछ राज्यों के विशेष प्रावधान हैं।"
-  },
-  {
-    "id": 42,
-    "question": "उत्तर प्रदेश में कौन सा राष्ट्रीय उद्यान 'Tiger Reserve' के रूप में घोषित किया गया है? / Which national park in Uttar Pradesh is declared as a Tiger Reserve?",
-    "options": {
-      "A": "कान्हा राष्ट्रीय उद्यान (Kanha National Park)",
-      "B": "काजीरंगा राष्ट्रीय उद्यान (Kaziranga National Park)",
-      "C": "दुधवा राष्ट्रीय उद्यान (Dudhwa National Park)",
-      "D": "संडरलैंड राष्ट्रीय उद्यान (Sundarbans National Park)"
-    },
-    "answer": ["C"],
-    "explanation": "उत्तर प्रदेश का दुधवा राष्ट्रीय उद्यान 1977 में 'Tiger Reserve' के रूप में घोषित किया गया।"
-  },
-  {
-    "id": 43,
-    "question": "भारत का पहला अंतरिक्ष अनुसंधान संगठन (ISRO) किस वर्ष स्थापित हुआ था? / In which year was India's first space research organisation (ISRO) established?",
-    "options": {
-      "A": "1962",
-      "B": "1969",
-      "C": "1972",
-      "D": "1958"
-    },
-    "answer": ["B"],
-    "explanation": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) की स्थापना 1969 में हुई थी।"
-  },
-  {
-    "id": 44,
-    "question": "भारत के किस संविधान संशोधन ने संविधान के अनुच्छेद 21A के माध्यम से शिक्षा को मूल अधिकार बनाया? / Which Constitutional Amendment made education a fundamental right through Article 21A?",
-    "options": {
-      "A": "86वां संशोधन (86th Amendment)",
-      "B": "42वां संशोधन (42nd Amendment)",
-      "C": "73वां संशोधन (73rd Amendment)",
-      "D": "44वां संशोधन (44th Amendment)"
-    },
-    "answer": ["A"],
-    "explanation": "86वें संविधान संशोधन (2002) के माध्यम से अनुच्छेद 21A जोड़ा गया, जिसने 6–14 वर्ष की आयु के बच्चों के लिए मुफ्त और अनिवार्य शिक्षा को मूल अधिकार बनाया।"
-  },
-  {
-    "id": 45,
-    "question": "कौन सा ग्रह सूर्य से सबसे दूर है? / Which planet is farthest from the Sun?",
-    "options": {
-      "A": "सूर्य (Sun)",
-      "B": "बृहस्पति (Jupiter)",
-      "C": "नेपच्यून (Neptune)",
-      "D": "सौरमंडल (Solar System)"
-    },
-    "answer": ["C"],
-    "explanation": "नेपच्यून सूर्य से आठवाँ ग्रह है और सौरमंडल में सबसे दूर है।"
-  },
-  {
-    "id": 46,
-    "question": "उत्तर प्रदेश का कौन सा जिला 'सुपरफास्ट ट्रेन हब' के लिए प्रसिद्ध है? / Which district of Uttar Pradesh is famous as a Superfast Train hub?",
-    "options": {
-      "A": "कानपुर (Kanpur)",
-      "B": "लखनऊ (Lucknow)",
-      "C": "वाराणसी (Varanasi)",
-      "D": "मेरठ (Meerut)"
-    },
-    "answer": ["B"],
-    "explanation": "लखनऊ रेलवे स्टेशन उत्तर प्रदेश में सुपरफास्ट और राजधानी ट्रेनों का प्रमुख हब है।"
-  },
-  {
-    "id": 47,
-    "question": "सुप्रीम कोर्ट ने हाल ही में किस मामले में महिला आरक्षण को मंजूरी दी? / Recently, in which case did the Supreme Court approve women reservation?",
-    "options": {
-      "A": "स्थानीय निकाय आरक्षण (Local Body Reservation)",
-      "B": "संसद महिला आरक्षण (Parliament Women Reservation)",
-      "C": "राज्य विधायिका आरक्षण (State Legislature Reservation)",
-      "D": "शैक्षणिक संस्थान आरक्षण (Educational Institution Reservation)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "Supreme Court ने महिलाओं के लिए स्थानीय निकाय और संसद आरक्षण के मामले में निर्णय दिए हैं, जिससे उनकी प्रतिनिधित्व बढ़ा।"
-  },
-  {
-    "id": 48,
-    "question": "भारत का पहला निजी क्षेत्र का अंतरिक्ष लॉन्च सफलतापूर्वक किया गया किस वर्ष में? / In which year was India's first private sector space launch successfully conducted?",
-    "options": {
-      "A": "2020",
-      "B": "2021",
-      "C": "2019",
-      "D": "2018"
-    },
-    "answer": ["B"],
-    "explanation": "भारत में 2021 में पहली बार निजी क्षेत्र की PSLV लॉन्चिंग सफलतापूर्वक हुई।"
-  },
-  {
-    "id": 49,
-    "question": "उत्तर प्रदेश का कौन सा शहर 'सोने की चिड़ी' के नाम से जाना जाता है? / Which city of Uttar Pradesh is known as 'Golden Bird'?",
-    "options": {
-      "A": "अयोध्या (Ayodhya)",
-      "B": "लखनऊ (Lucknow)",
-      "C": "काशी (Varanasi)",
-      "D": "प्रयागराज (Prayagraj)"
-    },
-    "answer": ["C"],
-    "explanation": "काशी (वाराणसी) को ऐतिहासिक और सांस्कृतिक महत्व के कारण 'सोने की चिड़ी' कहा जाता है।"
-  },
-  {
-    "id": 50,
-    "question": "भारतीय संविधान के किस भाग में राज्य के नीति-निर्देशक तत्व (DPSP) का उल्लेख है? / In which part of the Indian Constitution are Directive Principles of State Policy mentioned?",
-    "options": {
-      "A": "भाग IV (Part IV)",
-      "B": "भाग III (Part III)",
-      "C": "भाग V (Part V)",
-      "D": "भाग VI (Part VI)"
-    },
-    "answer": ["A"],
-    "explanation": "DPSP भारतीय संविधान के भाग IV में वर्णित हैं, जो राज्य की नीति निर्धारण में मार्गदर्शन करते हैं।"
-  },
-  {
-    "id": 51,
-    "question": "उत्तर प्रदेश का सबसे बड़ा बांध कौन सा है? / Which is the largest dam in Uttar Pradesh?",
-    "options": {
-      "A": "बैराबांध (Bara Dam)",
-      "B": "राजीव गांधी बांध (Rajiv Gandhi Dam)",
-      "C": "रानीपुर बांध (Rani Pur Dam)",
-      "D": "ब्रह्मपूर बांध (Brahmpur Dam)"
-    },
-    "answer": ["A"],
-    "explanation": "बैराबांध, प्रयागराज जिले में स्थित, उत्तर प्रदेश का सबसे बड़ा बांध है।"
-  },
-  {
-    "id": 52,
-    "question": "भारत में किस वर्ष 'नारी शक्ति के लिए 33% आरक्षण' लागू हुआ? / In which year was '33% reservation for women' implemented in India?",
-    "options": {
-      "A": "1992",
-      "B": "2001",
-      "C": "2009",
-      "D": "2010"
-    },
-    "answer": ["D"],
-    "explanation": "2010 में स्थानीय निकायों में महिलाओं के लिए 33% आरक्षण लागू किया गया।"
-  },
-  {
-    "id": 53,
-    "question": "उत्तर प्रदेश का कौन सा नगर विश्व प्रसिद्ध 'रेत-पत्थर' उद्योग के लिए जाना जाता है? / Which city of Uttar Pradesh is famous worldwide for 'sand-stone' industry?",
-    "options": {
-      "A": "सतना (Satna)",
-      "B": "भरतपुर (Bharatpur)",
-      "C": "मथुरा (Mathura)",
-      "D": "फतेहपुर (Fatehpur)"
-    },
-    "answer": ["D"],
-    "explanation": "फतेहपुर और आसपास के क्षेत्र रेत-पत्थर के उत्पादन और निर्माण के लिए प्रसिद्ध हैं।"
-  },
-  {
-    "id": 54,
-    "question": "भारतीय अर्थव्यवस्था में GVA (Gross Value Added) की गणना किस क्षेत्र से शुरू होती है? / In Indian economy, GVA (Gross Value Added) calculation starts from which sector?",
-    "options": {
-      "A": "कृषि (Agriculture)",
-      "B": "उद्योग (Industry)",
-      "C": "सेवा (Services)",
-      "D": "सभी क्षेत्र (All sectors)"
-    },
-    "answer": ["D"],
-    "explanation": "GVA सभी तीन प्रमुख क्षेत्रों (Agriculture, Industry, Services) के उत्पादन को जोड़कर गणना किया जाता है।"
-  },
-  {
-    "id": 55,
-    "question": "उत्तर प्रदेश का कौन सा नगर 'दुल्हन नगरी' के नाम से जाना जाता है? / Which city of Uttar Pradesh is known as 'Bride City'?",
-    "options": {
-      "A": "अयोध्या (Ayodhya)",
-      "B": "काशी (Varanasi)",
-      "C": "प्रयागराज (Prayagraj)",
-      "D": "मिर्जापुर (Mirzapur)"
-    },
-    "answer": ["C"],
-    "explanation": "प्रयागराज को ऐतिहासिक रूप से 'दुल्हन नगरी' कहा जाता है।"
-  },
-  {
-    "id": 56,
-    "question": "भारत में किस वर्ष से जीएसटी (GST) लागू हुआ? / From which year GST was implemented in India?",
-    "options": {
-      "A": "2016",
-      "B": "2017",
-      "C": "2018",
-      "D": "2015"
-    },
-    "answer": ["B"],
-    "explanation": "1 जुलाई 2017 से भारत में GST लागू किया गया।"
-  },
-  {
-    "id": 57,
-    "question": "संविधान के किस अनुच्छेद के तहत राष्ट्रपति या राज्यपाल आपातकाल घोषित कर सकते हैं? / Under which article can President or Governor declare Emergency?",
-    "options": {
-      "A": "अनुच्छेद 352 (Article 352)",
-      "B": "अनुच्छेद 356 (Article 356)",
-      "C": "अनुच्छेद 360 (Article 360)",
-      "D": "सभी विकल्प (All of the above)"
-    },
-    "answer": ["D"],
-    "explanation": "Article 352 – National Emergency, Article 356 – State Emergency, Article 360 – Financial Emergency।"
-  },
-  {
-    "id": 58,
-    "question": "उत्तर प्रदेश का कौन सा नगर 'चीकू और आम के बागान' के लिए प्रसिद्ध है? / Which city of Uttar Pradesh is famous for 'Chikoo and Mango orchards'?",
-    "options": {
-      "A": "अम्बेडकरनगर (Ambedkar Nagar)",
-      "B": "कन्नौज (Kannauj)",
-      "C": "अलीगढ़ (Aligarh)",
-      "D": "बुलंदशहर (Bulandshahr)"
-    },
-    "answer": ["A"],
-    "explanation": "अम्बेडकरनगर जिले में चीकू और आम के बड़े बागान हैं।"
-  },
-  {
-    "id": 59,
-    "question": "भारतीय इतिहास में 'ग्रेनिक युद्ध' का उल्लेख किसने किया है? / Who mentioned the 'Granic War' in Indian History?",
-    "options": {
-      "A": "प्लूटार्क (Plutarch)",
-      "B": "अरस्तू (Aristotle)",
-      "C": "हेरोडोटस (Herodotus)",
-      "D": "सून त्ज़ु (Sun Tzu)"
-    },
-    "answer": ["C"],
-    "explanation": "हेरोडोटस ने प्राचीन इतिहास में ग्रेनिक युद्ध का उल्लेख किया।"
-  },
-  {
-    "id": 60,
-    "question": "उत्तर प्रदेश की GDP में किस क्षेत्र का योगदान सबसे अधिक है? / Which sector contributes the most to Uttar Pradesh's GDP?",
-    "options": {
-      "A": "कृषि (Agriculture)",
-      "B": "उद्योग (Industry)",
-      "C": "सेवाएँ (Services)",
-      "D": "वित्तीय क्षेत्र (Financial Sector)"
-    },
-    "answer": ["C"],
-    "explanation": "UP की GDP में सेवा क्षेत्र का योगदान सबसे अधिक है, हालाँकि कृषि भी महत्वपूर्ण है।"
-  },
-  {
-    "id": 61,
-    "question": "कौन सा भारतीय वैज्ञानिक 'जीन एडिटिंग CRISPR' पर शोध के लिए प्रसिद्ध है? / Which Indian scientist is famous for research on gene editing CRISPR?",
-    "options": {
-      "A": "स्वामिनाथन (M. S. Swaminathan)",
-      "B": "जी. गोपालकृष्ण (G. Gopalakrishnan)",
-      "C": "संदीप मुखर्जी (Sandeep Mukherjee)",
-      "D": "नरेन्द्र मोदी (Narendra Modi)"
-    },
-    "answer": ["B"],
-    "explanation": "G. Gopalakrishnan ने जीन एडिटिंग और CRISPR तकनीक पर महत्वपूर्ण शोध किया।"
-  },
-  {
-    "id": 62,
-    "question": "उत्तर प्रदेश का कौन सा नगर 'सुगंधित तेल उद्योग' के लिए जाना जाता है? / Which city of Uttar Pradesh is famous for 'Aromatic Oil Industry'?",
-    "options": {
-      "A": "कन्नौज (Kannauj)",
-      "B": "फैजाबाद (Faizabad)",
-      "C": "लखनऊ (Lucknow)",
-      "D": "प्रयागराज (Prayagraj)"
-    },
-    "answer": ["A"],
-    "explanation": "कन्नौज को 'इत्र नगरी' कहा जाता है और यह सुगंधित तेल उद्योग के लिए प्रसिद्ध है।"
-  },
-  {
-    "id": 63,
-    "question": "भारतीय संविधान के किस अनुच्छेद के तहत राज्यों को विशेषाधिकार प्राप्त हैं? / Under which article of Indian Constitution states have special powers?",
-    "options": {
-      "A": "Article 356",
-      "B": "Article 371",
-      "C": "Article 370",
-      "D": "Article 368"
-    },
-    "answer": ["B", "C"],
-    "explanation": "Article 371 कुछ राज्यों को विशेष प्रावधान देता है। Article 370 जम्मू और कश्मीर के लिए था।"
-  },
-  {
-    "id": 64,
-    "question": "UP में कौन सा जलाशय बायोडाइवर्सिटी के लिए प्रसिद्ध है? / Which reservoir in UP is famous for biodiversity?",
-    "options": {
-      "A": "रायबरेली झील (Raebareli Lake)",
-      "B": "दुधवा जलाशय (Dudhwa Reservoir)",
-      "C": "बाराबंकी झील (Barabanki Lake)",
-      "D": "बरेली बांध (Bareilly Dam)"
-    },
-    "answer": ["B"],
-    "explanation": "दुधवा राष्ट्रीय उद्यान और जलाशय पक्षियों और अन्य जीव-जंतुओं के लिए महत्वपूर्ण बायोडाइवर्सिटी हब है।"
-  },
-  {
-    "id": 65,
-    "question": "भारत में किस वर्ष से पंचायती राज व्यवस्था लागू हुई? / Since which year Panchayati Raj system was implemented in India?",
-    "options": {
-      "A": "1959",
-      "B": "1962",
-      "C": "1977",
-      "D": "1992"
-    },
-    "answer": ["1959"],
-    "explanation": "1959 में राजस्थान में पहले पंचायती राज प्रायोगिक रूप से लागू किया गया।"
-  },
-  {
-    "id": 66,
-    "question": "उत्तर प्रदेश में कौन सा उद्योग 'हाथकरघा बुनाई' के लिए प्रसिद्ध है? / Which industry in UP is famous for 'Handloom weaving'?",
-    "options": {
-      "A": "कन्नौज (Kannauj)",
-      "B": "भदोही (Bhadohi)",
-      "C": "मेरठ (Meerut)",
-      "D": "फैजाबाद (Faizabad)"
-    },
-    "answer": ["B"],
-    "explanation": "भदोही जिले को 'भारत की कार्पेट राजधानी' और हाथकरघा बुनाई के लिए प्रसिद्ध माना जाता है।"
-  },
-  {
-    "id": 67,
-    "question": "भारत के किस नदी तट पर प्राचीन शहर वारणसी स्थित है? / On which river bank is the ancient city Varanasi located?",
-    "options": {
-      "A": "यमुना (Yamuna)",
-      "B": "गंगा (Ganga)",
-      "C": "सरयू (Saryu)",
-      "D": "गोमती (Gomti)"
-    },
-    "answer": ["B"],
-    "explanation": "वाराणसी गंगा नदी के तट पर स्थित है।"
-  },
-  {
-    "id": 68,
-    "question": "भारत का कौन सा राज्य 'सुपर फास्ट ट्रेन' के लिए प्रमुख केंद्र है? / Which state in India is a major hub for Superfast trains?",
-    "options": {
-      "A": "महाराष्ट्र (Maharashtra)",
-      "B": "उत्तर प्रदेश (Uttar Pradesh)",
-      "C": "तमिलनाडु (Tamil Nadu)",
-      "D": "पश्चिम बंगाल (West Bengal)"
-    },
-    "answer": ["B"],
-    "explanation": "उत्तर प्रदेश के लखनऊ और कानपुर रेलवे स्टेशन सुपरफास्ट ट्रेन नेटवर्क के प्रमुख केंद्र हैं।"
-  },
-  {
-    "id": 69,
-    "question": "कौन सा गैस उत्सर्जक प्रजातियों के लिए मुख्य कारण है जो ग्लोबल वार्मिंग को बढ़ाता है? / Which gas is a major contributor to global warming?",
-    "options": {
-      "A": "नाइट्रोजन ऑक्साइड (Nitrogen Oxide)",
-      "B": "कार्बन डाइऑक्साइड (Carbon Dioxide)",
-      "C": "हाइड्रोजन (Hydrogen)",
-      "D": "ऑक्सीजन (Oxygen)"
-    },
-    "answer": ["B"],
-    "explanation": "कार्बन डाइऑक्साइड (CO2) ग्रीनहाउस गैसों में प्रमुख है जो ग्लोबल वार्मिंग बढ़ाता है।"
-  },
-  {
-    "id": 70,
-    "question": "भारत के किस संविधान संशोधन ने पंचायती राज को मजबूती दी? / Which Constitutional Amendment strengthened Panchayati Raj in India?",
-    "options": {
-      "A": "73वां संशोधन (73rd Amendment)",
-      "B": "74वां संशोधन (74th Amendment)",
-      "C": "42वां संशोधन (42nd Amendment)",
-      "D": "86वां संशोधन (86th Amendment)"
-    },
-    "answer": ["A"],
-    "explanation": "73वें संविधान संशोधन (1992) ने पंचायती राज व्यवस्था को संवैधानिक मान्यता और मजबूती दी।"
-  },
-  {
-    "id": 71,
-    "question": "भारत में किस वर्ष 'Right to Education Act' लागू हुआ था? / In which year was the Right to Education Act implemented in India?",
-    "options": {
-      "A": "2007",
-      "B": "2009",
-      "C": "2010",
-      "D": "2012"
-    },
-    "answer": ["C"],
-    "explanation": "Right to Education Act भारत में 1 अप्रैल 2010 से लागू हुआ, जो 6 से 14 वर्ष तक के बच्चों के लिए अनिवार्य और मुफ्त शिक्षा सुनिश्चित करता है।"
-  },
-  {
-    "id": 72,
-    "question": "नैशनल ग्रीन ट्रिब्यूनल (NGT) का गठन किस वर्ष हुआ था? / In which year was the National Green Tribunal (NGT) constituted?",
-    "options": {
-      "A": "2010",
-      "B": "2012",
-      "C": "2015",
-      "D": "2008"
-    },
-    "answer": ["B"],
-    "explanation": "National Green Tribunal Act, 2010 के तहत NGT की स्थापना 2012 में हुई, जिसका उद्देश्य पर्यावरण संरक्षण और प्रदूषण नियंत्रण के मामलों का त्वरित निपटारा करना है।"
-  },
-  {
-    "id": 73,
-    "question": "उत्तर प्रदेश में सबसे बड़ा औद्योगिक क्षेत्र कौन सा है? / Which is the largest industrial area in Uttar Pradesh?",
-    "options": {
-      "A": "नोएडा (Noida)",
-      "B": "लखनऊ (Lucknow)",
-      "C": "ग़ाज़ियाबाद (Ghaziabad)",
-      "D": "कानपुर (Kanpur)"
-    },
-    "answer": ["A", "D"],
-    "explanation": "उत्तर प्रदेश में Noida और Kanpur सबसे बड़े औद्योगिक और IT hubs के रूप में जाने जाते हैं। Noida IT और electronics hub है, जबकि Kanpur traditional industries के लिए प्रसिद्ध है।"
-  },
-  {
-    "id": 74,
-    "question": "भारत में किस राज्य ने 2020 में 'Organic Farming Policy' लागू की? / Which Indian state implemented Organic Farming Policy in 2020?",
-    "options": {
-      "A": "उत्तर प्रदेश (Uttar Pradesh)",
-      "B": "राजस्थान (Rajasthan)",
-      "C": "महाराष्ट्र (Maharashtra)",
-      "D": "केरल (Kerala)"
-    },
-    "answer": ["A"],
-    "explanation": "उत्तर प्रदेश सरकार ने 2020 में organics खेती को बढ़ावा देने के लिए Organic Farming Policy लागू की, जिससे किसानों को तकनीकी और आर्थिक सहायता मिलती है।"
-  },
-  {
-    "id": 75,
-    "question": "संविधान के किस अनुच्छेद के तहत भारत के राष्ट्रपति को किसी भी कानून पर संज्ञान लेने का अधिकार है? / Under which Article of the Constitution does the President of India have the power to take cognizance of any law?",
-    "options": {
-      "A": "Article 72",
-      "B": "Article 74",
-      "C": "Article 356",
-      "D": "Article 368"
-    },
-    "answer": ["A"],
-    "explanation": "Article 72 के तहत राष्ट्रपति को संविधान और कानून के अनुरूप किसी भी बिल पर मंजूरी, अस्वीकृति या पुनर्विचार का अधिकार है।"
-  },
-  {
-    "id": 76,
-    "question": "गंगा नदी के किस हिस्से में 'Yamuna-Ganga Link Project' प्रस्तावित है? / In which section of the Ganga River is the Yamuna-Ganga Link Project proposed?",
-    "options": {
-      "A": "उत्तर प्रदेश का प्रयागराज क्षेत्र (Prayagraj, UP)",
-      "B": "हरिद्वार (Haridwar)",
-      "C": "वाराणसी (Varanasi)",
-      "D": "इलाहाबाद (Allahabad)"
-    },
-    "answer": ["A"],
-    "explanation": "Yamuna-Ganga Link Project का प्रस्ताव Prayagraj, UP क्षेत्र में है, ताकि पानी की कमी वाले क्षेत्रों में सिंचाई और drinking water सुविधा बढ़ाई जा सके।"
-  },
-  {
-    "id": 77,
-    "question": "भारत का पहला nuclear-powered submarine कौन सा था? / Which was India's first nuclear-powered submarine?",
-    "options": {
-      "A": "INS Chakra",
-      "B": "INS Arihant",
-      "C": "INS Kalvari",
-      "D": "INS Sindhughosh"
-    },
-    "answer": ["B"],
-    "explanation": "INS Arihant भारत का पहला indigenous nuclear-powered ballistic missile submarine है, जिसे 2009 में लॉन्च किया गया था।"
-  },
-  {
-    "id": 78,
-    "question": "भारत में किस वर्ष में GST लागू हुआ था? / In which year was GST implemented in India?",
-    "options": {
-      "A": "2015",
-      "B": "2016",
-      "C": "2017",
-      "D": "2018"
-    },
-    "answer": ["C"],
-    "explanation": "Goods and Services Tax (GST) भारत में 1 जुलाई 2017 से लागू हुआ, जिससे विभिन्न indirect taxes को एक single taxation system में शामिल किया गया।"
-  },
-  {
-    "id": 79,
-    "question": "उत्तर प्रदेश में कौन सा शहर 'Leather Industry Hub' के रूप में प्रसिद्ध है? / Which city in Uttar Pradesh is famous as Leather Industry Hub?",
-    "options": {
-      "A": "कानपुर (Kanpur)",
-      "B": "लखनऊ (Lucknow)",
-      "C": "मेरठ (Meerut)",
-      "D": "अलीगढ़ (Aligarh)"
-    },
-    "answer": ["A"],
-    "explanation": "कानपुर leather production और export के लिए India का प्रमुख hub है। यहाँ leather garments और footwear industry बहुत विकसित है।"
-  },
-  {
-    "id": 80,
-    "question": "किस राष्ट्रीय उद्यान में 'Royal Bengal Tiger' की सबसे बड़ी आबादी पाई जाती है? / In which national park is the highest population of Royal Bengal Tiger found?",
-    "options": {
-      "A": "संडरबंस (Sundarbans)",
-      "B": "काजीरंगा (Kaziranga)",
-      "C": "रणथंभौर (Ranthambore)",
-      "D": "सिमलीपाल (Simlipal)"
-    },
-    "answer": ["A"],
-    "explanation": "Royal Bengal Tiger की सबसे बड़ी आबादी भारत में Sundarbans National Park, West Bengal में पाई जाती है।"
-  },
-  {
-    "id": 81,
-    "question": "उत्तर प्रदेश में किस जिले को 'सिल्क उद्योग का केंद्र' कहा जाता है? / Which district in Uttar Pradesh is known as the center of silk industry?",
-    "options": {
-      "A": "कानपुर (Kanpur)",
-      "B": "बिलासपुर (Bilaspur)",
-      "C": "भदोही (Bhadohi)",
-      "D": "मिर्जापुर (Mirzapur)"
-    },
-    "answer": ["C"],
-    "explanation": "भदोही (Bhadohi) को भारत का 'Carpet City' और silk production का प्रमुख केंद्र माना जाता है।"
-  },
-  {
-    "id": 82,
-    "question": "किस भारतीय राज्य ने 2022 में 'Electric Vehicle Policy' लागू की? / Which Indian state implemented the Electric Vehicle Policy in 2022?",
-    "options": {
-      "A": "उत्तर प्रदेश (Uttar Pradesh)",
-      "B": "महाराष्ट्र (Maharashtra)",
-      "C": "तमिलनाडु (Tamil Nadu)",
-      "D": "कर्नाटक (Karnataka)"
-    },
-    "answer": ["A"],
-    "explanation": "उत्तर प्रदेश ने 2022 में EV policy लागू की, जिसका उद्देश्य EV manufacturing और adoption को बढ़ावा देना है।"
-  },
-  {
-    "id": 83,
-    "question": "संविधान के किस अनुच्छेद में Fundamental Duties का वर्णन है? / Under which Article of the Constitution are the Fundamental Duties described?",
-    "options": {
-      "A": "Article 51A",
-      "B": "Article 19",
-      "C": "Article 21",
-      "D": "Article 32"
-    },
-    "answer": ["A"],
-    "explanation": "Article 51A में Fundamental Duties का विवरण है, जो नागरिकों के कर्तव्य और देश के प्रति उत्तरदायित्व को बताता है।"
-  },
-  {
-    "id": 84,
-    "question": "भारत में सबसे लंबी रेल लाइन किसके बीच है? / Between which locations is the longest railway line in India?",
-    "options": {
-      "A": "डिब्रूगढ़ - कामाख्या (Dibrugarh-Kamakhya)",
-      "B": "काचीपुर - हावड़ा (Kachipur-Howrah)",
-      "C": "तमिलनाडु - दिल्ली (Chennai-Delhi)",
-      "D": "श्रीनगर - कश्मीर (Srinagar-Kashmir)"
-    },
-    "answer": ["A"],
-    "explanation": "डिब्रूगढ़ (Assam) से कामाख्या तक रेल लाइन भारत की सबसे लंबी continuous stretch railway line है।"
-  },
-  {
-    "id": 85,
-    "question": "उत्तर प्रदेश में किस जिले को 'तिलहन और गन्ना उत्पादन का केंद्र' कहा जाता है? / Which district in UP is known as the center for oilseeds and sugarcane production?",
-    "options": {
-      "A": "कुशीनगर (Kushinagar)",
-      "B": "गोंडा (Gonda)",
-      "C": "फैजाबाद (Ayodhya)",
-      "D": "कन्नौज (Kannauj)"
-    },
-    "answer": ["D"],
-    "explanation": "कन्नौज जिले को oilseeds और sugarcane के उत्पादन के लिए जाना जाता है। यह क्षेत्र traditional agriculture और sugar industry में प्रमुख है।"
-  },
-  {
-    "id": 86,
-    "question": "किस भारतीय शहर में 2022 में पहला 'Green Hydrogen Plant' स्थापित किया गया? / In which Indian city was the first Green Hydrogen Plant set up in 2022?",
-    "options": {
-      "A": "नोएडा (Noida)",
-      "B": "पिलानी (Pilani)",
-      "C": "कानपुर (Kanpur)",
-      "D": "लखनऊ (Lucknow)"
-    },
-    "answer": ["A"],
-    "explanation": "नोएडा में 2022 में भारत का पहला commercial Green Hydrogen Plant स्थापित किया गया, जो clean energy initiative का हिस्सा है।"
-  },
-  {
-    "id": 87,
-    "question": "उत्तर प्रदेश के किस जिले में Vindhyachal Thermal Power Station स्थित है? / In which district of UP is Vindhyachal Thermal Power Station located?",
-    "options": {
-      "A": "सिंगरौली (Singrauli)",
-      "B": "मीरजापुर (Mirzapur)",
-      "C": "भदोही (Bhadohi)",
-      "D": "सुल्तानपुर (Sultanpur)"
-    },
-    "answer": ["B"],
-    "explanation": "Vindhyachal Thermal Power Station मीरजापुर जिले में स्थित है और यह India का सबसे बड़ा thermal power complex है।"
-  },
-  {
-    "id": 88,
-    "question": "भारत में किस वर्ष में Insolvency and Bankruptcy Code लागू हुआ? / In which year was the Insolvency and Bankruptcy Code implemented in India?",
-    "options": {
-      "A": "2014",
-      "B": "2015",
-      "C": "2016",
-      "D": "2017"
-    },
-    "answer": ["C"],
-    "explanation": "Insolvency and Bankruptcy Code, 2016 को लागू किया गया, जिसका उद्देश्य NPA और corporate insolvency को सुलझाना है।"
-  },
-  {
-    "id": 89,
-    "question": "किस भारतीय राज्य ने 2021 में 'Organic Village Mission' की शुरुआत की? / Which Indian state started the Organic Village Mission in 2021?",
-    "options": {
-      "A": "उत्तर प्रदेश (Uttar Pradesh)",
-      "B": "राजस्थान (Rajasthan)",
-      "C": "मध्य प्रदेश (Madhya Pradesh)",
-      "D": "कर्नाटक (Karnataka)"
-    },
-    "answer": ["A"],
-    "explanation": "उत्तर प्रदेश में 2021 में Organic Village Mission शुरू किया गया, जिससे ग्राम स्तर पर organics खेती और sustainable agriculture को बढ़ावा दिया जा सके।"
-  },
-  {
-    "id": 90,
-    "question": "उत्तर प्रदेश में किस जिले को 'कुल्हड़ और मिट्टी के बर्तन उत्पादन का केंद्र' कहा जाता है? / Which district in UP is known as the center of clay pot production?",
-    "options": {
-      "A": "कानपुर (Kanpur)",
-      "B": "फतेहपुर (Fatehpur)",
-      "C": "मेरठ (Meerut)",
-      "D": "अम्बेडकरनगर (Ambedkarnagar)"
-    },
-    "answer": ["B"],
-    "explanation": "फतेहपुर जिले में traditional clay pots और kulhad production बहुत प्रसिद्ध है। यह district pottery और handicraft hub के रूप में जाना जाता है।"
-  },
-  {
-    "id": 91,
-    "question": "भारत का कौन सा शहर 'Silicon Valley of India' कहा जाता है? / Which city in India is called the Silicon Valley of India?",
-    "options": {
-      "A": "पुणे (Pune)",
-      "B": "बैंगलोर (Bangalore)",
-      "C": "हैदराबाद (Hyderabad)",
-      "D": "नोएडा (Noida)"
-    },
-    "answer": ["B"],
-    "explanation": "बैंगलोर IT और software hub के लिए जाना जाता है और इसे 'Silicon Valley of India' कहा जाता है।"
-  },
-  {
-    "id": 92,
-    "question": "उत्तर प्रदेश में कौन सा प्रमुख नदी घाटी क्षेत्र है जो fertile alluvial soil के लिए प्रसिद्ध है? / Which major river valley in UP is known for fertile alluvial soil?",
-    "options": {
-      "A": "गंगा घाटी (Ganga Valley)",
-      "B": "यमुना घाटी (Yamuna Valley)",
-      "C": "रामगंगा घाटी (Ramganga Valley)",
-      "D": "घाघरा घाटी (Ghaghara Valley)"
-    },
-    "answer": ["A", "B"],
-    "explanation": "UP की Ganga और Yamuna valleys बहुत fertile alluvial soil के लिए प्रसिद्ध हैं, जो खेती और sugarcane, wheat production में महत्वपूर्ण है।"
-  },
-  {
-    "id": 93,
-    "question": "किस वर्ष में भारत ने National Education Policy (NEP) को लागू किया? / In which year did India implement the National Education Policy (NEP)?",
-    "options": {
-      "A": "2018",
-      "B": "2019",
-      "C": "2020",
-      "D": "2021"
-    },
-    "answer": ["C"],
-    "explanation": "National Education Policy 2020 को लागू किया गया, जिसका उद्देश्य शिक्षा प्रणाली में reforms और skill development को बढ़ावा देना है।"
-  },
-  {
-    "id": 94,
-    "question": "भारत में किस वर्ष में National Data Governance Policy लागू हुई? / In which year was National Data Governance Policy implemented in India?",
-    "options": {
-      "A": "2018",
-      "B": "2020",
-      "C": "2022",
-      "D": "2021"
-    },
-    "answer": ["C"],
-    "explanation": "National Data Governance Policy 2022 में लागू की गई, जो data security, transparency और public use of government data पर केंद्रित है।"
-  },
-  {
-    "id": 95,
-    "question": "उत्तर प्रदेश में कौन सा शहर 'Brass and Handicraft Industry' के लिए प्रसिद्ध है? / Which city in UP is famous for Brass and Handicraft Industry?",
-    "options": {
-      "A": "लखनऊ (Lucknow)",
-      "B": "फतेहपुर (Fatehpur)",
-      "C": "मेरठ (Meerut)",
-      "D": "कानपुर (Kanpur)"
-    },
-    "answer": ["A"],
-    "explanation": "लखनऊ brass handicrafts, chikan embroidery और traditional handcrafts के लिए जाना जाता है।"
-  },
-  {
-    "id": 96,
-    "question": "भारत का पहला coastal nuclear power plant कहाँ स्थित है? / Where is India's first coastal nuclear power plant located?",
-    "options": {
-      "A": "कोयंबटूर (Kudankulam)",
-      "B": "तारापुर (Tarapur)",
-      "C": "काक्रपार (Kakrapar)",
-      "D": "सागर (Sagar)"
-    },
-    "answer": ["B"],
-    "explanation": "Tarapur nuclear power plant भारत का पहला coastal nuclear power plant है।"
-  },
-  {
-    "id": 97,
-    "question": "UP में कौन सा शहर 'Furniture and Wooden Craft Hub' के रूप में जाना जाता है? / Which city in UP is known as Furniture and Wooden Craft Hub?",
-    "options": {
-      "A": "मिर्जापुर (Mirzapur)",
-      "B": "कानपुर (Kanpur)",
-      "C": "फतेहपुर (Fatehpur)",
-      "D": "अम्बेडकरनगर (Ambedkarnagar)"
-    },
-    "answer": ["A"],
-    "explanation": "मिर्जापुर अपने wooden handicrafts और furniture industry के लिए प्रसिद्ध है।"
-  },
-  {
-    "id": 98,
-    "question": "किस नदी को 'Eastern Ganga' के नाम से भी जाना जाता है? / Which river is also known as the Eastern Ganga?",
-    "options": {
-      "A": "गंगा (Ganga)",
-      "B": "यमुना (Yamuna)",
-      "C": "घाघरा (Ghaghara)",
-      "D": "कोसी (Kosi)"
-    },
-    "answer": ["C"],
-    "explanation": "Ghaghara नदी को Eastern Ganga के नाम से भी जाना जाता है।"
-  },
-  {
-    "id": 99,
-    "question": "किस वर्ष में भारत ने National Hydrogen Mission की घोषणा की? / In which year did India announce the National Hydrogen Mission?",
-    "options": {
-      "A": "2020",
-      "B": "2021",
-      "C": "2022",
-      "D": "2023"
-    },
-    "answer": ["B"],
-    "explanation": "National Hydrogen Mission भारत में 2021 में लॉन्च की गई, जो clean energy और green hydrogen production पर केंद्रित है।"
-  },
-  {
-    "id": 100,
-    "question": "भारत में किस राज्य ने 2022 में 'Smart Village Initiative' की शुरुआत की? / Which Indian state started the Smart Village Initiative in 2022?",
-    "options": {
-      "A": "उत्तर प्रदेश (Uttar Pradesh)",
-      "B": "महाराष्ट्र (Maharashtra)",
-      "C": "राजस्थान (Rajasthan)",
-      "D": "कर्नाटक (Karnataka)"
-    },
-    "answer": ["A"],
-    "explanation": "उत्तर प्रदेश सरकार ने 2022 में Smart Village Initiative शुरू किया, जिससे rural development और digital infrastructure को बढ़ावा मिला।"
-  },
-  {
-    "id": 101,
-    "question": "भारतीय संविधान के अनुसार, राष्ट्रपति किस अवधि के लिए नियुक्त होता है? / According to Indian Constitution, what is the term of the President?",
-    "options": {
-      "A": "3 वर्ष (3 years)",
-      "B": "5 वर्ष (5 years)",
-      "C": "4 वर्ष (4 years)",
-      "D": "6 वर्ष (6 years)"
-    },
-    "answer": ["B"],
-    "explanation": "भारतीय संविधान के अनुच्छेद 56 के अनुसार, राष्ट्रपति की अवधि 5 वर्ष होती है।"
-  },
-  {
-    "id": 102,
-    "question": "उत्तर प्रदेश में किस नदी को 'उत्तर प्रदेश की जीवन रेखा' कहा जाता है? / Which river is called 'Lifeline of Uttar Pradesh'?",
-    "options": {
-      "A": "यमुना (Yamuna)",
-      "B": "गंगा (Ganga)",
-      "C": "सोन (Sone)",
-      "D": "घाघरा (Ghaghara)"
-    },
-    "answer": ["B"],
-    "explanation": "गंगा उत्तर प्रदेश की सबसे महत्वपूर्ण नदी है और कृषि एवं जल आपूर्ति के लिए जीवन रेखा मानी जाती है।"
-  },
-  {
-    "id": 103,
-    "question": "उत्तर प्रदेश के कितने जिले हैं? / How many districts are there in Uttar Pradesh?",
-    "options": {
-      "A": "75",
-      "B": "80",
-      "C": "75–80",
-      "D": "75–85"
-    },
-    "answer": ["B"],
-    "explanation": "वर्तमान में उत्तर प्रदेश में 80 जिले हैं।"
-  },
-  {
-    "id": 104,
-    "question": "भारत में पहली बार महिला राष्ट्रपति कौन बनीं? / Who became the first female President of India?",
-    "options": {
-      "A": "सोनिया गांधी (Sonia Gandhi)",
-      "B": "इंदिरा गांधी (Indira Gandhi)",
-      "C": "प्रतिभा पाटिल (Pratibha Patil)",
-      "D": "सुषमा स्वराज (Sushma Swaraj)"
-    },
-    "answer": ["C"],
-    "explanation": "प्रतिभा पाटिल भारत की पहली महिला राष्ट्रपति बनीं, 2007 में।"
-  },
-  {
-    "id": 105,
-    "question": "उत्तर प्रदेश में कौन सा प्रमुख खनिज पाया जाता है? / Which major mineral is found in Uttar Pradesh?",
-    "options": {
-      "A": "कोयला (Coal)",
-      "B": "सोन (Gold)",
-      "C": "कांस्य (Copper)",
-      "D": "लौह अयस्क (Iron Ore)"
-    },
-    "answer": ["A"],
-    "explanation": "उत्तर प्रदेश में सुल्तानपुर, बांदा और सोनभद्र क्षेत्रों में कोयला खनिज पाया जाता है।"
-  },
-  {
-    "id": 106,
-    "question": "2022 में भारत की GDP वृद्धि दर लगभग कितनी रही? / Approximate GDP growth rate of India in 2022?",
-    "options": {
-      "A": "8%",
-      "B": "6.5%",
-      "C": "7.2%",
-      "D": "5.5%"
-    },
-    "answer": ["C"],
-    "explanation": "विश्व बैंक और IMF के अनुसार, भारत की GDP 2022 में लगभग 7.2% रही।"
-  },
-  {
-    "id": 107,
-    "question": "उत्तर प्रदेश का कौन सा शहर 'सिल्क सिटी' के नाम से जाना जाता है? / Which city of UP is known as 'Silk City'?",
-    "options": {
-      "A": "वाराणसी (Varanasi)",
-      "B": "मुरादाबाद (Moradabad)",
-      "C": "भदोही (Bhadohi)",
-      "D": "कानपुर (Kanpur)"
-    },
-    "answer": ["C"],
-    "explanation": "भदोही को इसके विशिष्ट रेशमी वस्त्र उत्पादन के कारण 'सिल्क सिटी' कहा जाता है।"
-  },
-  {
-    "id": 108,
-    "question": "भारतीय संविधान में कुल कितने मूल अधिकार (Fundamental Rights) हैं? / How many Fundamental Rights are there in Indian Constitution?",
-    "options": {
-      "A": "6",
-      "B": "7",
-      "C": "5",
-      "D": "8"
-    },
-    "answer": ["B"],
-    "explanation": "भारतीय संविधान में अनुच्छेद 12–35 के तहत 7 मूल अधिकार (Fundamental Rights) दिए गए हैं।"
-  },
-  {
-    "id": 109,
-    "question": "UP में किस राष्ट्रीय उद्यान को 'ताड़ जंगल का घर' कहा जाता है? / Which national park in UP is known as 'Home of Palm Forest'?",
-    "options": {
-      "A": "कान्हा NP",
-      "B": "धौलीगंगा NP",
-      "C": "धामो NP",
-      "D": "धौलीगंगा NP"
-    },
-    "answer": ["C"],
-    "explanation": "धामो राष्ट्रीय उद्यान में ताड़ के जंगल प्रमुख हैं और इसे 'ताड़ जंगल का घर' कहा जाता है।"
-  },
-  {
-    "id": 110,
-    "question": "भारत का पहला अंतरिक्ष उपग्रह कौन सा था? / Which was the first Indian satellite?",
-    "options": {
-      "A": "आर्यभट्ट (Aryabhata)",
-      "B": "भास्कर (Bhaskara)",
-      "C": "INSAT-1",
-      "D": "IRS-1"
-    },
-    "answer": ["A"],
-    "explanation": "भारत का पहला उपग्रह 'आर्यभट्ट' 1975 में लॉन्च हुआ।"
-  },
-  {
-    "id": 111,
-    "question": "उत्तर प्रदेश में सबसे बड़ा बांध कौन सा है? / Which is the largest dam in Uttar Pradesh?",
-    "options": {
-      "A": "रामगढ़ बांध (Ramgarh Dam)",
-      "B": "रायबरेली बांध (Raibareli Dam)",
-      "C": "गौतमबुद्धनगर बांध (Gautambuddhnagar Dam)",
-      "D": "बैराज बांध (Bara Dam)"
-    },
-    "answer": ["A"],
-    "explanation": "रामगढ़ बांध उत्तर प्रदेश का सबसे बड़ा बांध है, जिसका उपयोग सिंचाई और जल आपूर्ति के लिए होता है।"
-  },
-  {
-    "id": 112,
-    "question": "भारत में संविधान सभा का निर्माण कब हुआ था? / When was the Constituent Assembly of India formed?",
-    "options": {
-      "A": "1946",
-      "B": "1947",
-      "C": "1950",
-      "D": "1945"
-    },
-    "answer": ["A"],
-    "explanation": "भारतीय संविधान सभा का गठन 9 दिसम्बर 1946 को हुआ था।"
-  },
-  {
-    "id": 113,
-    "question": "उत्तर प्रदेश का कौन सा शहर 'कांस्य नगरी' के नाम से जाना जाता है? / Which city of UP is known as 'Brass City'?",
-    "options": {
-      "A": "भदोही (Bhadohi)",
-      "B": "मुरादाबाद (Moradabad)",
-      "C": "कानपुर (Kanpur)",
-      "D": "लखनऊ (Lucknow)"
-    },
-    "answer": ["B"],
-    "explanation": "मुरादाबाद अपने विशेष कांस्य (Brass) उद्योग के लिए प्रसिद्ध है।"
-  },
-  {
-    "id": 114,
-    "question": "भारत में न्यूनतम आयु 18 वर्ष से शुरू होने वाले कौन से अधिकार हैं? / Which rights in India start from minimum age of 18 years?",
-    "options": {
-      "A": "मतदान का अधिकार (Right to vote)",
-      "B": "शिक्षा का अधिकार (Right to education)",
-      "C": "समानता का अधिकार (Right to equality)",
-      "D": "स्वास्थ्य का अधिकार (Right to health)"
-    },
-    "answer": ["A"],
-    "explanation": "भारतीय संविधान के अनुसार, 18 वर्ष की आयु से नागरिकों को मतदान का अधिकार प्राप्त होता है।"
-  },
-  {
-    "id": 115,
-    "question": "गंगा किन राज्यों से होकर बहती है? / Which states does Ganga flow through?",
-    "options": {
-      "A": "उत्तर प्रदेश, उत्तराखंड, बिहार, पश्चिम बंगाल (UP, Uttarakhand, Bihar, WB)",
-      "B": "मध्य प्रदेश, उत्तर प्रदेश, बिहार (MP, UP, Bihar)",
-      "C": "राजस्थान, यूपी, बिहार (Rajasthan, UP, Bihar)",
-      "D": "उत्तर प्रदेश, झारखंड, बंगाल (UP, Jharkhand, WB)"
-    },
-    "answer": ["A"],
-    "explanation": "गंगा नदी उत्तराखंड, उत्तर प्रदेश, बिहार और पश्चिम बंगाल से होकर बहती है।"
-  },
-  {
-    "id": 116,
-    "question": "भारत का पहला विज्ञान विश्वविद्यालय कौन सा था? / First science university of India?",
-    "options": {
-      "A": "इंडियन इंस्टीट्यूट ऑफ साइंस (IISc)",
-      "B": "जयपुर विश्वविद्यालय (University of Jaipur)",
-      "C": "अलीगढ़ मुस्लिम विश्वविद्यालय (AMU)",
-      "D": "दिल्ली विश्वविद्यालय (DU)"
-    },
-    "answer": ["A"],
-    "explanation": "इंडियन इंस्टीट्यूट ऑफ साइंस, बेंगलुरु भारत का पहला प्रमुख विज्ञान और शोध विश्वविद्यालय है।"
-  },
-  {
-    "id": 117,
-    "question": "UP में सबसे अधिक गन्ना उत्पादन किस जिले में होता है? / Which district of UP has highest sugarcane production?",
-    "options": {
-      "A": "कानपुर (Kanpur)",
-      "B": "कन्नौज (Kannauj)",
-      "C": "वाराणसी (Varanasi)",
-      "D": "सुलतानपुर (Sultanpur)"
-    },
-    "answer": ["B"],
-    "explanation": "कन्नौज जिला उत्तर प्रदेश में सबसे अधिक गन्ना उत्पादन वाला क्षेत्र है।"
-  },
-  {
-    "id": 118,
-    "question": "भारत का कौन सा शहर 'सिटी ऑफ जॉय' के रूप में प्रसिद्ध है? / Which city of India is known as 'City of Joy'?",
-    "options": {
-      "A": "कोलकाता (Kolkata)",
-      "B": "मुंबई (Mumbai)",
-      "C": "चेन्नई (Chennai)",
-      "D": "पुणे (Pune)"
-    },
-    "answer": ["A"],
-    "explanation": "कोलकाता को 'City of Joy' के नाम से जाना जाता है।"
-  },
-  {
-    "id": 119,
-    "question": "UP के किस जिले में राष्ट्रीय खेल अकादमी स्थित है? / Which district of UP hosts the National Sports Academy?",
-    "options": {
-      "A": "लखनऊ (Lucknow)",
-      "B": "कानपुर (Kanpur)",
-      "C": "नोएडा (Noida)",
-      "D": "मेरठ (Meerut)"
-    },
-    "answer": ["A"],
-    "explanation": "राष्ट्रीय खेल अकादमी लखनऊ में स्थित है।"
-  },
-  {
-    "id": 120,
-    "question": "भारत का कौन सा राज्य सबसे अधिक कॉफी उत्पादन करता है? / Which Indian state produces maximum coffee?",
-    "options": {
-      "A": "कर्नाटक (Karnataka)",
-      "B": "तमिलनाडु (Tamil Nadu)",
-      "C": "केरल (Kerala)",
-      "D": "असम (Assam)"
-    },
-    "answer": ["A"],
-    "explanation": "कर्नाटक भारत का सबसे बड़ा कॉफी उत्पादक राज्य है।"
-  },
-  {
-    "id": 121,
-    "question": "भारत के संविधान में किस अनुच्छेद में न्यायपालिका की स्वतंत्रता की बात की गई है? / Which Article mentions independence of judiciary?",
-    "options": {
-      "A": "अनुच्छेद 50 (Article 50)",
-      "B": "अनुच्छेद 51 (Article 51)",
-      "C": "अनुच्छेद 52 (Article 52)",
-      "D": "अनुच्छेद 53 (Article 53)"
-    },
-    "answer": ["A"],
-    "explanation": "अनुच्छेद 50 में न्यायपालिका की स्वतंत्रता और राज्य द्वारा न्यायपालिका के गठन का प्रावधान किया गया है।"
-  },
-  {
-    "id": 122,
-    "question": "विश्व का सबसे बड़ा नमक उत्पादन केंद्र कौन सा है? / Largest salt production center in world?",
-    "options": {
-      "A": "सामुद्रिक क्षेत्र (Sea coasts)",
-      "B": "इंडियन कोस्टल (Indian coast)",
-      "C": "गुजरात (Gujarat)",
-      "D": "राजस्थान (Rajasthan)"
-    },
-    "answer": ["C"],
-    "explanation": "गुजरात भारत और विश्व का सबसे बड़ा नमक उत्पादक राज्य है।"
-  },
-  {
-    "id": 123,
-    "question": "भारत में कितनी राष्ट्रीय राजमार्ग संख्या प्रणाली है? / Numbering system of National Highways in India?",
-    "options": {
-      "A": "100+",
-      "B": "200+",
-      "C": "300+",
-      "D": "500+"
-    },
-    "answer": ["C"],
-    "explanation": "भारत में राष्ट्रीय राजमार्गों की संख्या 300+ है और नई नंबरिंग प्रणाली लागू है।"
-  },
-  {
-    "id": 124,
-    "question": "उत्तर प्रदेश का कौन सा शहर तांबे के बर्तन बनाने के लिए प्रसिद्ध है? / Which city in UP is famous for copper utensils?",
-    "options": {
-      "A": "मुरादाबाद (Moradabad)",
-      "B": "लखनऊ (Lucknow)",
-      "C": "वाराणसी (Varanasi)",
-      "D": "कन्नौज (Kannauj)"
-    },
-    "answer": ["C"],
-    "explanation": "वाराणसी शहर अपने तांबे और पीतल के बर्तन निर्माण के लिए प्रसिद्ध है।"
-  },
-  {
-    "id": 125,
-    "question": "भारत का पहला परमाणु ऊर्जा संयंत्र कौन सा था? / First nuclear power plant in India?",
-    "options": {
-      "A": "तमिलनाडु (Trombay)",
-      "B": "काकड़ (Kakrapar)",
-      "C": "राणची (Ranchi)",
-      "D": "कुंदर (Kudankulam)"
-    },
-    "answer": ["A"],
-    "explanation": "तमिलनाडु के तारापुर के पास रॉम्बे में भारत का पहला परमाणु ऊर्जा संयंत्र स्थापित हुआ।"
-  },
-  {
-    "id": 126,
-    "question": "भारत में पहला अंतर्राष्ट्रीय हवाई अड्डा कौन सा था? / First international airport in India?",
-    "options": {
-      "A": "मुंबई (Mumbai)",
-      "B": "दिल्ली (Delhi)",
-      "C": "कोलकाता (Kolkata)",
-      "D": "चेन्नई (Chennai)"
-    },
-    "answer": ["A"],
-    "explanation": "मुंबई में छत्रपति शिवाजी अंतर्राष्ट्रीय हवाई अड्डा भारत का पहला अंतर्राष्ट्रीय हवाई अड्डा था।"
-  },
-  {
-    "id": 127,
-    "question": "UP का कौन सा शहर सिरेमिक उत्पादन के लिए प्रसिद्ध है? / Which city of UP is famous for ceramic production?",
-    "options": {
-      "A": "फर्रुखाबाद (Farrukhabad)",
-      "B": "कन्नौज (Kannauj)",
-      "C": "मुरादाबाद (Moradabad)",
-      "D": "लखनऊ (Lucknow)"
-    },
-    "answer": ["A"],
-    "explanation": "फर्रुखाबाद सिरेमिक और टाइल उत्पादन के लिए प्रसिद्ध है।"
-  },
-  {
-    "id": 128,
-    "question": "भारतीय संविधान में किस अनुच्छेद में राज्यपाल की शक्तियों का उल्लेख है? / Which Article mentions Governor powers?",
-    "options": {
-      "A": "अनुच्छेद 153 (Article 153)",
-      "B": "अनुच्छेद 154 (Article 154)",
-      "C": "अनुच्छेद 155 (Article 155)",
-      "D": "अनुच्छेद 156 (Article 156)"
-    },
-    "answer": ["B"],
-    "explanation": "अनुच्छेद 154 के तहत राज्यपाल की कार्यकारी शक्तियों का प्रावधान है।"
-  },
-  {
-    "id": 129,
-    "question": "भारत में किस नदी पर सबसे अधिक बांध बने हैं? / On which river in India are maximum dams constructed?",
-    "options": {
-      "A": "गंगा (Ganga)",
-      "B": "यमुना (Yamuna)",
-      "C": "सिंधु (Indus)",
-      "D": "गोदावरी (Godavari)"
-    },
-    "answer": ["A"],
-    "explanation": "गंगा नदी पर भारत में सबसे अधिक बांध और जल परियोजनाएं स्थित हैं।"
-  },
-  {
-    "id": 130,
-    "question": "UP में किस जिले को 'सिल्क हब' के रूप में जाना जाता है? / Which district of UP is known as 'Silk Hub'?",
-    "options": {
-      "A": "भदोही (Bhadohi)",
-      "B": "वाराणसी (Varanasi)",
-      "C": "कानपुर (Kanpur)",
-      "D": "लखनऊ (Lucknow)"
-    },
-    "answer": ["A"],
-    "explanation": "भदोही जिला अपने रेशमी वस्त्र उत्पादन के लिए 'Silk Hub' कहा जाता है।"
-  },
-  {
-    "id": 131,
-    "question": "भारत का कौन सा शहर 'सॉफ्टवेयर सिटी' के रूप में जाना जाता है? / Which Indian city is called 'Software City'?",
-    "options": {
-      "A": "बैंगलोर (Bangalore)",
-      "B": "पुणे (Pune)",
-      "C": "चेन्नई (Chennai)",
-      "D": "हैदराबाद (Hyderabad)"
-    },
-    "answer": ["A"],
-    "explanation": "बैंगलोर को भारत का 'सॉफ्टवेयर सिटी' कहा जाता है।"
-  },
-  {
-    "id": 132,
-    "question": "UP में कितने लोकसभा क्षेत्र हैं? / How many Lok Sabha constituencies are in UP?",
-    "options": {
-      "A": "80",
-      "B": "75",
-      "C": "85",
-      "D": "90"
-    },
-    "answer": ["A"],
-    "explanation": "उत्तर प्रदेश में कुल 80 लोकसभा क्षेत्र हैं।"
-  },
-  {
-    "id": 133,
-    "question": "भारत का पहला उपग्रह 'आर्यभट्ट' किस वर्ष में लॉन्च हुआ था? / Year of launch of India's first satellite Aryabhata?",
-    "options": {
-      "A": "1975",
-      "B": "1974",
-      "C": "1976",
-      "D": "1973"
-    },
-    "answer": ["A"],
-    "explanation": "'आर्यभट्ट' उपग्रह 19 अप्रैल 1975 को लॉन्च किया गया था।"
-  },
-  {
-    "id": 134,
-    "question": "UP का कौन सा शहर 'गुलाब नगरी' के नाम से प्रसिद्ध है? / Which city of UP is known as 'City of Roses'?",
-    "options": {
-      "A": "गोंडा (Gonda)",
-      "B": "बाराबंकी (Barabanki)",
-      "C": "कानपुर (Kanpur)",
-      "D": "मेरठ (Meerut)"
-    },
-    "answer": ["B"],
-    "explanation": "बाराबंकी को इसकी गुलाब की खेती और प्रसंस्करण के कारण 'गुलाब नगरी' कहा जाता है।"
-  },
-  {
-    "id": 135,
-    "question": "भारत का पहला महिला प्रधानमंत्री कौन थी? / First female Prime Minister of India?",
-    "options": {
-      "A": "इंदिरा गांधी (Indira Gandhi)",
-      "B": "सोनिया गांधी (Sonia Gandhi)",
-      "C": "प्रतिभा पाटिल (Pratibha Patil)",
-      "D": "सुशील कुमार शिंदे (Sushil Kumar Shinde)"
-    },
-    "answer": ["A"],
-    "explanation": "इंदिरा गांधी भारत की पहली महिला प्रधानमंत्री बनीं।"
-  },
-  {
-    "id": 136,
-    "question": "भारत का सबसे लंबा रेलवे पुल कौन सा है? / Longest railway bridge in India?",
-    "options": {
-      "A": "भागीरथी पुल (Bhagirathi Bridge)",
-      "B": "सोन नदी पुल (Son River Bridge)",
-      "C": "हावड़ा ब्रिज (Howrah Bridge)",
-      "D": "विक्टोरिया पुल (Victoria Bridge)"
-    },
-    "answer": ["B"],
-    "explanation": "सोन नदी पुल भारत का सबसे लंबा रेलवे पुल है।"
-  },
-  {
-    "id": 137,
-    "question": "UP में कितने विकास मंडल (Development Divisions) हैं? / How many development divisions are in UP?",
-    "options": {
-      "A": "18",
-      "B": "20",
-      "C": "16",
-      "D": "21"
-    },
-    "answer": ["A"],
-    "explanation": "उत्तर प्रदेश में 18 विकास मंडल हैं।"
-  },
-  {
-    "id": 138,
-    "question": "भारत का किस राज्य को 'सूरज की भूमि' कहा जाता है? / Which state of India is known as 'Land of the Sun'?",
-    "options": {
-      "A": "राजस्थान (Rajasthan)",
-      "B": "उत्तराखंड (Uttarakhand)",
-      "C": "गुजरात (Gujarat)",
-      "D": "मध्य प्रदेश (Madhya Pradesh)"
-    },
-    "answer": ["A"],
-    "explanation": "राजस्थान को इसके गर्म और शुष्क मौसम के कारण 'सूरज की भूमि' कहा जाता है।"
-  },
-  {
-    "id": 139,
-    "question": "भारत में पहला अंतरिक्ष विज्ञान संस्थान कहाँ स्थापित हुआ? / Where was the first space science institute of India established?",
-    "options": {
-      "A": "श्रीहरिकोटा (Sriharikota)",
-      "B": "बेंगलुरु (Bengaluru)",
-      "C": "तिरुवनंतपुरम (Thiruvananthapuram)",
-      "D": "दिल्ली (Delhi)"
-    },
-    "answer": ["B"],
-    "explanation": "इंडियन इंस्टीट्यूट ऑफ साइंस (IISc), बेंगलुरु में भारत का पहला अंतरिक्ष और विज्ञान शोध संस्थान स्थापित हुआ।"
-  },
-  {
-    "id": 140,
-    "question": "UP में किस जिले को 'गुलाबों की नगरी' कहा जाता है? / Which district of UP is known as 'City of Roses'?",
-    "options": {
-      "A": "बाराबंकी (Barabanki)",
-      "B": "मेरठ (Meerut)",
-      "C": "फर्रुखाबाद (Farrukhabad)",
-      "D": "लखनऊ (Lucknow)"
-    },
-    "answer": ["A"],
-    "explanation": "बाराबंकी जिले में गुलाबों की खेती और प्रसंस्करण के कारण इसे 'गुलाबों की नगरी' कहा जाता है।"
-  },
-  {
-    "id": 141,
-    "question": "भारत में सबसे बड़ा तटीय क्षेत्र कौन सा है? / Largest coastal state in India?",
-    "options": {
-      "A": "गुजरात (Gujarat)",
-      "B": "आंध्र प्रदेश (Andhra Pradesh)",
-      "C": "ओडिशा (Odisha)",
-      "D": "तमिलनाडु (Tamil Nadu)"
-    },
-    "answer": ["A"],
-    "explanation": "गुजरात का तटीय क्षेत्र सबसे बड़ा है, जो अरब सागर से जुड़ा है।"
-  },
-  {
-    "id": 142,
-    "question": "भारत में किस नदी पर सबसे अधिक जल विद्युत परियोजनाएँ हैं? / Which river in India has maximum hydroelectric projects?",
-    "options": {
-      "A": "सतलज (Sutlej)",
-      "B": "गोदावरी (Godavari)",
-      "C": "यमुना (Yamuna)",
-      "D": "सिन्धु (Indus)"
-    },
-    "answer": ["A"],
-    "explanation": "सतलज नदी पर सबसे अधिक जल विद्युत परियोजनाएँ स्थित हैं।"
-  },
-  {
-    "id": 143,
-    "question": "UP के किस जिले में पर्यटन स्थल 'अयोध्या' स्थित है? / Ayodhya is located in which district of UP?",
-    "options": {
-      "A": "फैजाबाद (Faizabad/Ayodhya)",
-      "B": "लखनऊ (Lucknow)",
-      "C": "सुलतानपुर (Sultanpur)",
-      "D": "बाराबंकी (Barabanki)"
-    },
-    "answer": ["A"],
-    "explanation": "अयोध्या शहर फैजाबाद जिले में स्थित है।"
-  },
-  {
-    "id": 144,
-    "question": "भारत का पहला हवाई जहाज सेवा कौन सी थी? / First airline service in India?",
-    "options": {
-      "A": "टाटा एयरलाइन (Tata Airlines)",
-      "B": "इंडियन एयरलाइंस (Indian Airlines)",
-      "C": "स्पाइसजेट (SpiceJet)",
-      "D": "एअर इंडिया (Air India)"
-    },
-    "answer": ["A"],
-    "explanation": "टाटा एयरलाइन भारत की पहली एयरलाइन सेवा थी, जो बाद में एयर इंडिया बनी।"
-  },
-  {
-    "id": 145,
-    "question": "भारत में सबसे बड़ा राज्य कौन सा है क्षेत्रफल के हिसाब से? / Largest state by area in India?",
-    "options": {
-      "A": "राजस्थान (Rajasthan)",
-      "B": "मध्य प्रदेश (Madhya Pradesh)",
-      "C": "महाराष्ट्र (Maharashtra)",
-      "D": "उत्तर प्रदेश (UP)"
-    },
-    "answer": ["A"],
-    "explanation": "राजस्थान क्षेत्रफल के हिसाब से भारत का सबसे बड़ा राज्य है।"
-  },
-  {
-    "id": 146,
-    "question": "UP का कौन सा शहर हस्तशिल्प और चिकनकारी कढ़ाई के लिए प्रसिद्ध है? / Which UP city is famous for Chikankari embroidery?",
-    "options": {
-      "A": "लखनऊ (Lucknow)",
-      "B": "कानपुर (Kanpur)",
-      "C": "भदोही (Bhadohi)",
-      "D": "वाराणसी (Varanasi)"
-    },
-    "answer": ["A"],
-    "explanation": "लखनऊ हस्तशिल्प और चिकनकारी कढ़ाई के लिए प्रसिद्ध है।"
-  },
-  {
-    "id": 147,
-    "question": "भारत का पहला अंतरिक्ष अनुसंधान संगठन कौन सा था? / First space research organization of India?",
-    "options": {
-      "A": "इसरो (ISRO)",
-      "B": "एनालॉज डिवीजन (Analog Division)",
-      "C": "वी.आर.टी (VRT)",
-      "D": "सत्यमेव संस्थान (Satyamev Institute)"
-    },
-    "answer": ["A"],
-    "explanation": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) भारत का प्रमुख अंतरिक्ष अनुसंधान संगठन है।"
-  },
-  {
-    "id": 148,
-    "question": "भारत में सबसे अधिक उत्पादन वाला शर्करा उत्पादक राज्य कौन सा है? / Top sugarcane producing state in India?",
-    "options": {
-      "A": "उत्तर प्रदेश (UP)",
-      "B": "महाराष्ट्र (Maharashtra)",
-      "C": "कर्नाटक (Karnataka)",
-      "D": "तमिलनाडु (Tamil Nadu)"
-    },
-    "answer": ["A"],
-    "explanation": "उत्तर प्रदेश भारत का सबसे बड़ा गन्ना उत्पादक राज्य है।"
-  },
-  {
-    "id": 149,
-    "question": "UP में सबसे अधिक भैंस पालन किस जिले में होता है? / District with highest buffalo population in UP?",
-    "options": {
-      "A": "अलीगढ़ (Aligarh)",
-      "B": "बाराबंकी (Barabanki)",
-      "C": "कन्नौज (Kannauj)",
-      "D": "कानपुर (Kanpur)"
-    },
-    "answer": ["A"],
-    "explanation": "अलीगढ़ जिला यूपी में भैंस पालन के लिए प्रसिद्ध है।"
-  },
-  {
-    "id": 150,
-    "question": "भारत का पहला विज्ञान संग्रहालय कहाँ स्थापित हुआ? / First science museum of India?",
-    "options": {
-      "A": "कोलकाता (Kolkata)",
-      "B": "दिल्ली (Delhi)",
-      "C": "बेंगलुरु (Bengaluru)",
-      "D": "मुंबई (Mumbai)"
-    },
-    "answer": ["A"],
-    "explanation": "कोलकाता में भारत का पहला विज्ञान संग्रहालय स्थापित हुआ।"
+    "explanation": "सूफी संतों का जीवन भक्ति, सेवा और प्रेम के मूल मंत्र पर आधारित था।"
   }
 ]
-
-
-
-
-
   
-
-
+ 
 
