@@ -1,127 +1,1063 @@
 [
   {
     "id": 1,
-    "question": "भारतीय संविधान में केंद्र-राज्य संबंधों को किस भाग में वर्णित किया गया है? / In which part of the Indian Constitution are Centre-State relations described?",
+    "question": "हाल ही में (2025) भारतीय रिजर्व बैंक द्वारा किस डिजिटल प्लेटफ़ॉर्म को किसानों और ग्रामीण उद्यमियों के लिए लॉन्च किया गया? / Recently (2025), which digital platform has been launched by RBI for farmers and rural entrepreneurs?",
     "options": {
-      "A": "भाग IX (Part IX)",
-      "B": "भाग XI (Part XI)",
-      "C": "भाग XII (Part XII)",
-      "D": "भाग XIV (Part XIV)"
+      "A": "प्रोजेक्ट 'कोमल' (Project Komal)",
+      "B": "प्रोजेक्ट 'किसान क्रेडिट ऑनलाइन' (Project Kisan Credit Online)",
+      "C": "प्रोजेक्ट 'संपर्क' (Project Sampark)",
+      "D": "प्रोजेक्ट 'कोष' (Project Kosh)"
     },
-    "answer": ["B"],
-    "explanation": "केंद्र-राज्य संबंधों का वर्णन संविधान के भाग XI (अनुच्छेद 245 से 263 तक) में किया गया है। इसमें विधायी, प्रशासनिक और वित्तीय संबंध शामिल हैं।"
+    "answer": ["B", "C"],
+    "explanation": "फरवरी 2025 में भारतीय रिजर्व बैंक ने 'प्रोजेक्ट किसान क्रेडिट ऑनलाइन' और 'प्रोजेक्ट संपर्क' लॉन्च किया। इनका उद्देश्य ग्रामीण और कृषक समुदाय को आसान, पारदर्शी और डिजिटल बैंकिंग सुविधा प्रदान करना है। यह कदम ग्रामीण अर्थव्यवस्था में डिजिटल वित्तीय समावेशन को बढ़ावा देगा।"
   },
   {
     "id": 2,
-    "question": "अनुच्छेद 246 किस विषय से संबंधित है? / Article 246 is related to which subject?",
+    "question": "अशोक के शिलालेखों में 'धम्म' शब्द किस मूल अवधारणा को स्पष्ट करता है? / In Ashokan edicts, the term 'Dhamma' clarifies which core concept?",
     "options": {
-      "A": "न्यायपालिका की स्वतंत्रता / Independence of Judiciary",
-      "B": "विधायी शक्तियों का विभाजन / Distribution of Legislative Powers",
-      "C": "आपातकालीन प्रावधान / Emergency Provisions",
-      "D": "वित्तीय आयोग / Finance Commission"
+      "A": "धार्मिक आस्था (Religious Faith)",
+      "B": "सामाजिक नैतिकता (Social Ethics)",
+      "C": "राजनीतिक नीति (Political Policy)",
+      "D": "आर्थिक कर नीति (Economic Tax Policy)"
     },
-    "answer": ["B"],
-    "explanation": "अनुच्छेद 246 में संसद और राज्य विधानमंडल की विधायी शक्तियों का विभाजन यूनियन लिस्ट, स्टेट लिस्ट और कॉन्करेंट लिस्ट के आधार पर किया गया है।"
+    "answer": ["B", "C"],
+    "explanation": "अशोक के शिलालेखों में 'धम्म' धार्मिक आस्था से अधिक सामाजिक नैतिकता और राजनीतिक नीति का प्रतीक है। इसमें सत्य, अहिंसा, करुणा, दान, बड़ों का आदर और प्रजापालक नीतियाँ शामिल हैं। यह अवधारणा 'धार्मिक सहिष्णुता और राज्य की नैतिकता' दोनों पर जोर देती है।"
   },
   {
     "id": 3,
-    "question": "संविधान की सातवीं अनुसूची में कितनी सूचियाँ दी गई हैं? / How many lists are provided in the Seventh Schedule of the Constitution?",
+    "question": "उत्तर प्रदेश सरकार द्वारा हाल ही में (2025) किस ज़िले में पहला 'ग्रीन हाइड्रोजन प्लांट' स्थापित करने की घोषणा की गई? / Recently (2025), in which district has the UP Government announced the establishment of its first 'Green Hydrogen Plant'?",
     "options": {
-      "A": "दो / Two",
-      "B": "तीन / Three",
-      "C": "चार / Four",
-      "D": "पाँच / Five"
+      "A": "कानपुर (Kanpur)",
+      "B": "लखनऊ (Lucknow)",
+      "C": "वाराणसी (Varanasi)",
+      "D": "झांसी (Jhansi)"
     },
-    "answer": ["B"],
-    "explanation": "सातवीं अनुसूची में तीन सूचियाँ हैं: संघ सूची (Union List), राज्य सूची (State List), और समवर्ती सूची (Concurrent List)।"
+    "answer": ["A"],
+    "explanation": "उत्तर प्रदेश सरकार ने 2025 में कानपुर जिले में पहला 'ग्रीन हाइड्रोजन प्लांट' स्थापित करने की घोषणा की। इसका उद्देश्य स्वच्छ ऊर्जा उत्पादन और औद्योगिक विकास को बढ़ावा देना है। इससे 'ऊर्जा संक्रमण' (Energy Transition) की राष्ट्रीय नीति को भी बल मिलेगा।"
   },
   {
     "id": 4,
-    "question": "अनुच्छेद 263 किस प्रकार के आयोग की स्थापना का प्रावधान करता है? / Article 263 provides for the establishment of which type of commission?",
+    "question": "निम्नलिखित में से किन-किन को यूनेस्को की 'इंटैन्जिबल कल्चरल हेरिटेज' (ICH) सूची में हाल ही में (2024-25) शामिल किया गया है? / Which of the following have recently (2024-25) been included in UNESCO's 'Intangible Cultural Heritage' (ICH) list?",
     "options": {
-      "A": "वित्त आयोग / Finance Commission",
-      "B": "अंतर-राज्यीय परिषद / Inter-State Council",
-      "C": "नियोजन आयोग / Planning Commission",
-      "D": "चुनाव आयोग / Election Commission"
+      "A": "रामलीला (Ramlila)",
+      "B": "गरबा (Garba)",
+      "C": "वेदिक चैंटिंग (Vedic Chanting)",
+      "D": "मणिपुरी संकीर्तन (Manipuri Sankirtan)"
     },
-    "answer": ["B"],
-    "explanation": "अनुच्छेद 263 केंद्र और राज्यों के बीच समन्वय एवं विवाद निवारण के लिए अंतर-राज्यीय परिषद (Inter-State Council) की स्थापना का प्रावधान करता है।"
+    "answer": ["B", "D"],
+    "explanation": "दिसंबर 2024 में 'गरबा' (गुजरात) और 'मणिपुरी संकीर्तन' (मणिपुर) को यूनेस्को की अमूर्त सांस्कृतिक धरोहर (ICH) सूची में शामिल किया गया। रामलीला और वेदिक चैंटिंग पहले से इस सूची में हैं। यह भारत की विविध सांस्कृतिक धरोहर को अंतरराष्ट्रीय मान्यता दिलाता है।"
   },
   {
     "id": 5,
-    "question": "भारत का वित्त आयोग कितने वर्षों के अंतराल पर गठित किया जाता है? / The Finance Commission of India is constituted at intervals of how many years?",
+    "question": "निम्नलिखित में से किन नदियों को हाल ही में (2025) 'लिविंग एंटिटी' का दर्जा दिया गया है? / Which of the following rivers have recently (2025) been given the status of 'Living Entity'?",
     "options": {
-      "A": "हर 2 वर्ष / Every 2 years",
-      "B": "हर 5 वर्ष / Every 5 years",
-      "C": "हर 10 वर्ष / Every 10 years",
-      "D": "राष्ट्रपति की इच्छा पर / At the discretion of the President"
+      "A": "गंगा (Ganga)",
+      "B": "यमुना (Yamuna)",
+      "C": "गंडक (Gandak)",
+      "D": "सरयू (Saryu)"
     },
-    "answer": ["B"],
-    "explanation": "अनुच्छेद 280 के तहत राष्ट्रपति प्रत्येक 5 वर्षों पर या आवश्यकता अनुसार वित्त आयोग का गठन करते हैं।"
+    "answer": ["A", "B"],
+    "explanation": "2025 में उत्तराखंड उच्च न्यायालय ने गंगा और यमुना को 'जीवित इकाई' (Living Entity) का दर्जा पुनः पुष्टि किया। इससे नदियों के अधिकारों और संरक्षण के लिए कानूनी उपायों को सशक्त बनाया गया। गंडक और सरयू पर अभी ऐसा निर्णय नहीं हुआ है।"
   },
   {
     "id": 6,
-    "question": "किस अनुच्छेद में वित्त आयोग का प्रावधान है? / Finance Commission is provided under which Article?",
+    "question": "भारतीय संविधान की किस अनुसूची में पंचायतों के अधिकारों का उल्लेख है? / In which Schedule of the Indian Constitution are the powers of Panchayats mentioned?",
     "options": {
-      "A": "अनुच्छेद 280 / Article 280",
-      "B": "अनुच्छेद 281 / Article 281",
-      "C": "अनुच्छेद 282 / Article 282",
-      "D": "अनुच्छेद 283 / Article 283"
+      "A": "9वीं अनुसूची (9th Schedule)",
+      "B": "10वीं अनुसूची (10th Schedule)",
+      "C": "11वीं अनुसूची (11th Schedule)",
+      "D": "12वीं अनुसूची (12th Schedule)"
     },
-    "answer": ["A"],
-    "explanation": "अनुच्छेद 280 राष्ट्रपति को वित्त आयोग की स्थापना का अधिकार देता है।"
+    "answer": ["C"],
+    "explanation": "73वें संविधान संशोधन अधिनियम (1992) द्वारा 11वीं अनुसूची को जोड़ा गया, जिसमें पंचायतों के 29 विषयों का उल्लेख है। यह ग्रामीण स्वशासन के लिए एक महत्वपूर्ण आधार है।"
   },
   {
     "id": 7,
-    "question": "किस अनुच्छेद के अंतर्गत राष्ट्रपति राज्यों के बीच विवाद निपटाने के लिए सर्वोच्च न्यायालय को संदर्भ भेज सकते हैं? / Under which Article can the President refer disputes between states to the Supreme Court?",
+    "question": "निम्नलिखित में से किस राज्य ने हाल ही में (2025) 'आर्टिफिशियल इंटेलिजेंस नीति' लॉन्च की? / Which state has recently (2025) launched an 'Artificial Intelligence Policy'?",
     "options": {
-      "A": "अनुच्छेद 143 / Article 143",
-      "B": "अनुच्छेद 131 / Article 131",
-      "C": "अनुच्छेद 263 / Article 263",
-      "D": "अनुच्छेद 262 / Article 262"
+      "A": "उत्तर प्रदेश (Uttar Pradesh)",
+      "B": "तमिलनाडु (Tamil Nadu)",
+      "C": "कर्नाटक (Karnataka)",
+      "D": "तेलंगाना (Telangana)"
     },
     "answer": ["A"],
-    "explanation": "अनुच्छेद 143 के अंतर्गत राष्ट्रपति परामर्शी अधिकार का उपयोग करते हुए राज्यों के विवाद सर्वोच्च न्यायालय को भेज सकते हैं।"
+    "explanation": "फरवरी 2025 में उत्तर प्रदेश ने देश की पहली व्यापक 'आर्टिफिशियल इंटेलिजेंस नीति' लॉन्च की, जिसका उद्देश्य औद्योगिक और शैक्षणिक क्षेत्रों में AI का व्यापक उपयोग करना है।"
   },
   {
     "id": 8,
-    "question": "अनुच्छेद 262 किस विषय से संबंधित है? / Article 262 is related to which subject?",
+    "question": "हाल ही में (2025) किस देश ने भारत के साथ 'ग्रीन स्टील साझेदारी' समझौता किया? / Recently (2025), which country signed a 'Green Steel Partnership' agreement with India?",
     "options": {
-      "A": "जल विवाद / Water Disputes",
-      "B": "वित्तीय आपातकाल / Financial Emergency",
-      "C": "रक्षा शक्तियाँ / Defence Powers",
-      "D": "संविधान संशोधन / Constitutional Amendment"
+      "A": "जर्मनी (Germany)",
+      "B": "जापान (Japan)",
+      "C": "ऑस्ट्रेलिया (Australia)",
+      "D": "ब्रिटेन (UK)"
     },
-    "answer": ["A"],
-    "explanation": "अनुच्छेद 262 संसद को अंतर-राज्यीय नदी जल विवादों के निवारण हेतु कानून बनाने का अधिकार देता है।"
+    "answer": ["B", "D"],
+    "explanation": "2025 में भारत ने जापान और ब्रिटेन के साथ 'ग्रीन स्टील साझेदारी' पर समझौता किया। इसका उद्देश्य कार्बन उत्सर्जन कम करना और पर्यावरण-अनुकूल औद्योगिक उत्पादन को बढ़ावा देना है।"
   },
   {
     "id": 9,
-    "question": "विधायी संबंधों में 'डॉमिनेंसी' का सिद्धांत किस सूची पर लागू होता है? / The principle of 'dominancy' in legislative relations applies to which list?",
+    "question": "बौद्ध परिषदों (Buddhist Councils) के संदर्भ में सही कथन चुनें। / Choose the correct statements regarding Buddhist Councils.",
     "options": {
-      "A": "संघ सूची / Union List",
-      "B": "राज्य सूची / State List",
-      "C": "समवर्ती सूची / Concurrent List",
-      "D": "अनुसूचित सूची / Scheduled List"
+      "A": "प्रथम बौद्ध परिषद राजगृह में हुई। (First Council held at Rajgir)",
+      "B": "द्वितीय परिषद वैशाली में हुई। (Second Council at Vaishali)",
+      "C": "तृतीय परिषद अशोक के काल में पाटलिपुत्र में हुई। (Third Council at Pataliputra under Ashoka)",
+      "D": "चतुर्थ परिषद कनिष्क के काल में कश्मीर में हुई। (Fourth Council in Kashmir under Kanishka)"
     },
-    "answer": ["C"],
-    "explanation": "समवर्ती सूची में यदि संसद और राज्य विधानमंडल दोनों कानून बनाते हैं और उनमें टकराव होता है तो संसद का कानून प्रभावी होता है।"
+    "answer": ["A", "B", "C", "D"],
+    "explanation": "सभी कथन सही हैं। प्रथम (राजगृह), द्वितीय (वैशाली), तृतीय (अशोक के शासनकाल में पाटलिपुत्र) और चतुर्थ (कनिष्क के शासनकाल में कश्मीर) में बौद्ध परिषदें हुई थीं।"
   },
   {
     "id": 10,
-    "question": "योजना आयोग (Planning Commission) किस वर्ष स्थापित हुआ था? / In which year was the Planning Commission established?",
+    "question": "निम्नलिखित में से कौन-सा/से 'स्टार्टअप इंडिया सीड फंड स्कीम' (SISFS) के उद्देश्यों में शामिल है/हैं? / Which of the following are included in the objectives of 'Startup India Seed Fund Scheme' (SISFS)?",
     "options": {
-      "A": "1947",
-      "B": "1950",
-      "C": "1952",
-      "D": "1955"
+      "A": "आइडिया-स्टेज स्टार्टअप को फंडिंग (Funding to idea-stage startups)",
+      "B": "बैंकिंग क्षेत्र का पुनर्गठन (Restructuring of Banking Sector)",
+      "C": "प्रोटोटाइप डेवलपमेंट और प्रोडक्ट ट्रायल (Prototype Development and Product Trials)",
+      "D": "मार्केट एंट्री और कमर्शियलाइज़ेशन (Market Entry and Commercialization)"
     },
-    "answer": ["B"],
-    "explanation": "योजना आयोग 1950 में एक गैर-संवैधानिक और गैर-वैधानिक निकाय के रूप में स्थापित हुआ था।"
+    "answer": ["A", "C", "D"],
+    "explanation": "SISFS का उद्देश्य शुरुआती स्तर के स्टार्टअप्स को वित्तीय सहायता देना है ताकि वे प्रोटोटाइप डेवलपमेंट, प्रोडक्ट ट्रायल, मार्केट एंट्री और कमर्शियलाइज़ेशन कर सकें।"
   },
   {
     "id": 11,
-    "question": "नीति आयोग (NITI Aayog) की स्थापना किस वर्ष की गई? / In which year was NITI Aayog established?",
+    "question": "2025 में उत्तर प्रदेश सरकार द्वारा घोषित 'वृक्ष मित्र योजना' का मुख्य उद्देश्य क्या है? / What is the main objective of the 'Vriksh Mitra Yojana' announced by the UP Government in 2025?",
+    "options": {
+      "A": "कृषि उत्पादन बढ़ाना (Increase Agricultural Production)",
+      "B": "वनावरण में वृद्धि (Increase Forest Cover)",
+      "C": "औद्योगिक निवेश लाना (Bring Industrial Investment)",
+      "D": "नदी प्रदूषण कम करना (Reduce River Pollution)"
+    },
+    "answer": ["B"],
+    "explanation": "2025 में शुरू हुई 'वृक्ष मित्र योजना' का उद्देश्य वनावरण बढ़ाना और पर्यावरण संरक्षण करना है। इसके तहत स्कूल, कॉलेज और पंचायत स्तर पर वृक्षारोपण को बढ़ावा दिया जाएगा।"
+  },
+  {
+    "id": 12,
+    "question": "भारतीय संविधान का अनुच्छेद 280 किससे संबंधित है? / Article 280 of the Indian Constitution is related to:",
+    "options": {
+      "A": "वित्त आयोग (Finance Commission)",
+      "B": "संविधान संशोधन प्रक्रिया (Amendment of Constitution)",
+      "C": "न्यायपालिका की स्वतंत्रता (Independence of Judiciary)",
+      "D": "संघ लोक सेवा आयोग (Union Public Service Commission)"
+    },
+    "answer": ["A"],
+    "explanation": "अनुच्छेद 280 वित्त आयोग से संबंधित है, जो केंद्र और राज्यों के बीच वित्तीय संबंधों और राजस्व वितरण पर सिफारिश करता है।"
+  },
+  {
+    "id": 13,
+    "question": "हाल ही में (2025) भारत ने किस देश के साथ 'आर्कटिक रिसर्च सहयोग समझौता' किया? / Recently (2025), India signed an 'Arctic Research Cooperation Agreement' with which country?",
+    "options": {
+      "A": "रूस (Russia)",
+      "B": "नॉर्वे (Norway)",
+      "C": "कनाडा (Canada)",
+      "D": "आइसलैंड (Iceland)"
+    },
+    "answer": ["B", "C"],
+    "explanation": "2025 में भारत ने नॉर्वे और कनाडा के साथ 'आर्कटिक रिसर्च सहयोग समझौता' किया। इसका उद्देश्य जलवायु परिवर्तन और ध्रुवीय अनुसंधान में सहयोग बढ़ाना है।"
+  },
+  {
+    "id": 14,
+    "question": "भारत में 'संपत्ति का अधिकार' (Right to Property) अब किस प्रकार का अधिकार है? / What is the present status of 'Right to Property' in India?",
+    "options": {
+      "A": "मौलिक अधिकार (Fundamental Right)",
+      "B": "वैधानिक अधिकार (Legal Right)",
+      "C": "संवैधानिक अधिकार (Constitutional Right)",
+      "D": "मौलिक कर्तव्य (Fundamental Duty)"
+    },
+    "answer": ["B", "C"],
+    "explanation": "44वें संशोधन (1978) के बाद संपत्ति का अधिकार मौलिक अधिकार नहीं रहा। यह अब वैधानिक और संवैधानिक अधिकार है (अनुच्छेद 300A)।"
+  },
+  {
+    "id": 15,
+    "question": "हाल ही में (2024) प्रकाशित 'ग्लोबल जेंडर गैप रिपोर्ट' में भारत की रैंक क्या रही? / What was India’s rank in the recently published 'Global Gender Gap Report 2024'?",
+    "options": {
+      "A": "127",
+      "B": "129",
+      "C": "131",
+      "D": "133"
+    },
+    "answer": ["B"],
+    "explanation": "विश्व आर्थिक मंच द्वारा जारी 'ग्लोबल जेंडर गैप रिपोर्ट 2024' में भारत की रैंक 129 रही। इसमें राजनीतिक प्रतिनिधित्व और आर्थिक भागीदारी में सुधार की आवश्यकता बताई गई।"
+  },
+  {
+    "id": 16,
+    "question": "निम्नलिखित में से कौन-सा/से 'बायोस्फीयर रिज़र्व' यूनेस्को की विश्व नेटवर्क सूची में शामिल हैं? / Which of the following Biosphere Reserves are included in UNESCO’s World Network?",
+    "options": {
+      "A": "नीलगिरी (Nilgiri)",
+      "B": "सुंदरबन (Sundarbans)",
+      "C": "पचमढ़ी (Pachmarhi)",
+      "D": "गुलमर्ग (Gulmarg)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "भारत के नीलगिरी, सुंदरबन और पचमढ़ी यूनेस्को की विश्व बायोस्फीयर रिज़र्व सूची में शामिल हैं। गुलमर्ग अभी शामिल नहीं है।"
+  },
+  {
+    "id": 17,
+    "question": "भारतीय संसद में 'लोकसभा' की अधिकतम सदस्य संख्या कितनी निर्धारित है? / What is the maximum strength of Lok Sabha as prescribed?",
+    "options": {
+      "A": "545",
+      "B": "552",
+      "C": "560",
+      "D": "562"
+    },
+    "answer": ["B"],
+    "explanation": "संविधान के अनुसार लोकसभा की अधिकतम सदस्य संख्या 552 निर्धारित है (530 राज्यों से, 20 केंद्रशासित प्रदेशों से और 2 एंग्लो-इंडियन राष्ट्रपति द्वारा नामित – परंतु अब नामांकन प्रावधान हटा दिया गया है)।"
+  },
+  {
+    "id": 18,
+    "question": "2025 में भारत द्वारा लॉन्च किए गए 'आदित्य-L1 मिशन' का मुख्य उद्देश्य क्या है? / What is the main objective of 'Aditya-L1 Mission' launched by India in 2025?",
+    "options": {
+      "A": "चंद्रमा की सतह का अध्ययन (Study of Moon surface)",
+      "B": "सूर्य के कोरोना का अध्ययन (Study of Sun’s Corona)",
+      "C": "मंगल ग्रह पर जीवन की खोज (Search for life on Mars)",
+      "D": "पृथ्वी की कक्षा का अवलोकन (Observation of Earth’s Orbit)"
+    },
+    "answer": ["B"],
+    "explanation": "ISRO का 'आदित्य-L1 मिशन' सूर्य के कोरोना और सौर हवाओं का अध्ययन करने के लिए लॉन्च किया गया। यह Lagrangian point-1 से सूर्य का अवलोकन करेगा।"
+  },
+  {
+    "id": 19,
+    "question": "भारत की पहली महिला राष्ट्रपति कौन थीं? / Who was the first woman President of India?",
+    "options": {
+      "A": "प्रतिभा पाटिल (Pratibha Patil)",
+      "B": "सुषमा स्वराज (Sushma Swaraj)",
+      "C": "इंदिरा गांधी (Indira Gandhi)",
+      "D": "द्रौपदी मुर्मु (Droupadi Murmu)"
+    },
+    "answer": ["A"],
+    "explanation": "भारत की पहली महिला राष्ट्रपति प्रतिभा पाटिल थीं, जिन्होंने 2007 से 2012 तक राष्ट्रपति पद संभाला।"
+  },
+  {
+    "id": 20,
+    "question": "उत्तर प्रदेश की अर्थव्यवस्था में 'प्रधान उत्पाद' (Main Product) के रूप में किसे जाना जाता है? / Which is known as the 'Main Product' in the economy of Uttar Pradesh?",
+    "options": {
+      "A": "गन्ना (Sugarcane)",
+      "B": "धान (Paddy)",
+      "C": "गेहूं (Wheat)",
+      "D": "आलू (Potato)"
+    },
+    "answer": ["A", "D"],
+    "explanation": "उत्तर प्रदेश को भारत का 'शुगर बाउल' कहा जाता है क्योंकि यह गन्ने का सबसे बड़ा उत्पादक है। साथ ही आलू उत्पादन में भी अग्रणी है।"
+  },
+  {
+    "id": 21,
+    "question": "निम्नलिखित में से कौन-सा अनुच्छेद 'मौलिक कर्तव्यों' से संबंधित है? / Which Article is related to 'Fundamental Duties'?",
+    "options": {
+      "A": "अनुच्छेद 32 (Article 32)",
+      "B": "अनुच्छेद 51A (Article 51A)",
+      "C": "अनुच्छेद 21 (Article 21)",
+      "D": "अनुच्छेद 19 (Article 19)"
+    },
+    "answer": ["B"],
+    "explanation": "42वें संविधान संशोधन अधिनियम (1976) द्वारा अनुच्छेद 51A जोड़ा गया, जिसमें नागरिकों के मौलिक कर्तव्यों का उल्लेख है।"
+  },
+  {
+    "id": 22,
+    "question": "हाल ही में (2024) भारत ने किस देश को 'चंद्रयान-3' से प्राप्त डेटा साझा करने की अनुमति दी? / Recently (2024), India allowed which country to access 'Chandrayaan-3' data?",
+    "options": {
+      "A": "अमेरिका (USA)",
+      "B": "जापान (Japan)",
+      "C": "फ्रांस (France)",
+      "D": "ऑस्ट्रेलिया (Australia)"
+    },
+    "answer": ["C", "D"],
+    "explanation": "भारत ने 2024 में फ्रांस और ऑस्ट्रेलिया के साथ 'चंद्रयान-3' डेटा साझा करने का समझौता किया। यह वैज्ञानिक सहयोग को बढ़ावा देने की दिशा में एक कदम है।"
+  },
+  {
+    "id": 23,
+    "question": "निम्नलिखित में से कौन-सा 'जीआई टैग' उत्तर प्रदेश से संबंधित है? / Which of the following GI Tags are related to Uttar Pradesh?",
+    "options": {
+      "A": "बनारसी साड़ी (Banarasi Saree)",
+      "B": "मधुबनी पेंटिंग (Madhubani Painting)",
+      "C": "चिकनकारी (Chikankari)",
+      "D": "ब्लैक पॉटरी (Black Pottery)"
+    },
+    "answer": ["A", "C", "D"],
+    "explanation": "उत्तर प्रदेश के बनारसी साड़ी, लखनऊ की चिकनकारी और निज़ामाबाद की ब्लैक पॉटरी को जीआई टैग मिला है। मधुबनी पेंटिंग बिहार की है।"
+  },
+  {
+    "id": 24,
+    "question": "हाल ही में (2025) भारत के किस वैज्ञानिक को 'एबल पुरस्कार' (Abel Prize) से सम्मानित किया गया? / Recently (2025), which Indian scientist was awarded the 'Abel Prize'?",
+    "options": {
+      "A": "मनिंद्र अग्रवाल (Manindra Agrawal)",
+      "B": "सी.एन.आर. राव (C.N.R. Rao)",
+      "C": "आशुतोष शर्मा (Ashutosh Sharma)",
+      "D": "अजय सूद (Ajay Sood)"
+    },
+    "answer": ["A"],
+    "explanation": "2025 में भारतीय गणितज्ञ मनिंद्र अग्रवाल (IIT कानपुर) को 'एबल पुरस्कार' मिला। उन्हें प्राइम नंबर थ्योरी और कम्प्यूटेशनल मैथमेटिक्स में योगदान के लिए सम्मानित किया गया।"
+  },
+  {
+    "id": 25,
+    "question": "निम्नलिखित में से कौन-सा/से 'नगदी फसलें' (Cash Crops) कहलाती हैं? / Which of the following are called 'Cash Crops'?",
+    "options": {
+      "A": "गन्ना (Sugarcane)",
+      "B": "कपास (Cotton)",
+      "C": "चाय (Tea)",
+      "D": "गेहूं (Wheat)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "गन्ना, कपास और चाय नगदी फसलें कहलाती हैं क्योंकि इन्हें बेचकर किसानों को नगद आय होती है। गेहूं खाद्यान्न फसल है।"
+  },
+  {
+    "id": 26,
+    "question": "निम्नलिखित में से कौन-सी नदी 'उत्तर प्रदेश की जीवन रेखा' कहलाती है? / Which of the following rivers is called the 'Lifeline of Uttar Pradesh'?",
+    "options": {
+      "A": "गंगा (Ganga)",
+      "B": "यमुना (Yamuna)",
+      "C": "गोमती (Gomti)",
+      "D": "घाघरा (Ghaghara)"
+    },
+    "answer": ["A"],
+    "explanation": "गंगा नदी को 'उत्तर प्रदेश की जीवन रेखा' कहा जाता है क्योंकि राज्य के अधिकांश जिले इससे प्रभावित होते हैं और यह कृषि, उद्योग, संस्कृति और आस्था से जुड़ी है।"
+  },
+  {
+    "id": 27,
+    "question": "भारत में 'लोकपाल और लोकायुक्त अधिनियम' किस वर्ष लागू हुआ? / In which year was the 'Lokpal and Lokayuktas Act' implemented in India?",
+    "options": {
+      "A": "2011",
+      "B": "2013",
+      "C": "2014",
+      "D": "2016"
+    },
+    "answer": ["C"],
+    "explanation": "'लोकपाल और लोकायुक्त अधिनियम' 2013 में पारित हुआ और 2014 में लागू किया गया। इसका उद्देश्य भ्रष्टाचार की शिकायतों की जांच के लिए एक स्वतंत्र निकाय बनाना है।"
+  },
+  {
+    "id": 28,
+    "question": "2025 में भारत ने किस देश के साथ 'क्वांटम टेक्नोलॉजी रिसर्च सेंटर' स्थापित करने का समझौता किया? / In 2025, India signed an agreement with which country to establish a 'Quantum Technology Research Centre'?",
+    "options": {
+      "A": "अमेरिका (USA)",
+      "B": "फ्रांस (France)",
+      "C": "जर्मनी (Germany)",
+      "D": "जापान (Japan)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "भारत ने 2025 में अमेरिका और जर्मनी के साथ मिलकर 'क्वांटम टेक्नोलॉजी रिसर्च सेंटर' स्थापित करने का समझौता किया। इसका उद्देश्य भविष्य की कंप्यूटिंग और संचार प्रणालियों को मजबूत करना है।"
+  },
+  {
+    "id": 29,
+    "question": "मौर्य साम्राज्य के राजस्व प्रशासन में 'समाहर्ता' का क्या कार्य था? / In Mauryan Empire, what was the function of 'Samaharta'?",
+    "options": {
+      "A": "सैन्य प्रमुख (Military Head)",
+      "B": "राजस्व संग्रह (Revenue Collection)",
+      "C": "न्यायिक अधिकारी (Judicial Officer)",
+      "D": "विदेश नीति का प्रमुख (Head of Foreign Policy)"
+    },
+    "answer": ["B"],
+    "explanation": "मौर्य प्रशासन में 'समाहर्ता' को राजस्व संग्रह की जिम्मेदारी सौंपी गई थी। यह भूमि कर और अन्य करों की देखरेख करता था।"
+  },
+  {
+    "id": 30,
+    "question": "भारत की पहली 'नेशनल वाटर मेट्रो सर्विस' किस शहर में शुरू हुई? / In which city was India's first 'National Water Metro Service' launched?",
+    "options": {
+      "A": "कोच्चि (Kochi)",
+      "B": "मुंबई (Mumbai)",
+      "C": "गोवा (Goa)",
+      "D": "चेन्नई (Chennai)"
+    },
+    "answer": ["A"],
+    "explanation": "भारत की पहली 'नेशनल वाटर मेट्रो सर्विस' अप्रैल 2023 में कोच्चि (केरल) में शुरू हुई। इसका उद्देश्य पर्यावरण-अनुकूल और किफायती जल परिवहन उपलब्ध कराना है।"
+  },
+  {
+    "id": 31,
+    "question": "संविधान सभा की पहली बैठक कब हुई थी? / When was the first meeting of the Constituent Assembly held?",
+    "options": {
+      "A": "9 दिसंबर 1946 (9 Dec 1946)",
+      "B": "26 जनवरी 1950 (26 Jan 1950)",
+      "C": "15 अगस्त 1947 (15 Aug 1947)",
+      "D": "20 नवंबर 1945 (20 Nov 1945)"
+    },
+    "answer": ["A"],
+    "explanation": "संविधान सभा की पहली बैठक 9 दिसंबर 1946 को हुई थी, जिसकी अध्यक्षता अस्थायी अध्यक्ष डॉ. सच्चिदानंद सिन्हा ने की।"
+  },
+  {
+    "id": 32,
+    "question": "भारत में 'प्रधानमंत्री जन धन योजना' (PMJDY) किस वर्ष शुरू की गई? / In which year was the 'Pradhan Mantri Jan Dhan Yojana' launched in India?",
+    "options": {
+      "A": "2012",
+      "B": "2014",
+      "C": "2016",
+      "D": "2018"
+    },
+    "answer": ["B"],
+    "explanation": "प्रधानमंत्री जन धन योजना 2014 में शुरू की गई थी। इसका उद्देश्य प्रत्येक नागरिक को बैंकिंग सुविधाओं से जोड़ना और वित्तीय समावेशन को बढ़ावा देना था।"
+  },
+  {
+    "id": 33,
+    "question": "2024 में किस भारतीय खिलाड़ी को 'लॉरियस वर्ल्ड ब्रेकथ्रू ऑफ द ईयर अवार्ड' मिला? / Which Indian player won the 'Laureus World Breakthrough of the Year Award' in 2024?",
+    "options": {
+      "A": "नीरज चोपड़ा (Neeraj Chopra)",
+      "B": "सतविकसाईराज रैंकीरेड्डी (Satwiksairaj Rankireddy)",
+      "C": "श्रीकांत किदांबी (Srikanth Kidambi)",
+      "D": "हर्मनप्रीत कौर (Harmanpreet Kaur)"
+    },
+    "answer": ["A"],
+    "explanation": "2024 में नीरज चोपड़ा को 'लॉरियस वर्ल्ड ब्रेकथ्रू ऑफ द ईयर अवार्ड' से सम्मानित किया गया। वे यह पुरस्कार पाने वाले पहले भारतीय एथलीट बने।"
+  },
+  {
+    "id": 34,
+    "question": "भारत का 'राष्ट्रीय खाद्य सुरक्षा अधिनियम' (NFSA) किस वर्ष लागू हुआ? / In which year was the 'National Food Security Act' (NFSA) implemented in India?",
+    "options": {
+      "A": "2011",
+      "B": "2013",
+      "C": "2015",
+      "D": "2017"
+    },
+    "answer": ["B"],
+    "explanation": "राष्ट्रीय खाद्य सुरक्षा अधिनियम (NFSA) 2013 में लागू किया गया। इसके तहत 75% ग्रामीण और 50% शहरी आबादी को सब्सिडी वाले अनाज उपलब्ध कराए जाते हैं।"
+  },
+  {
+    "id": 35,
+    "question": "मुगलकाल में 'मंसबदारी प्रथा' किसने शुरू की? / Who introduced the 'Mansabdari System' during the Mughal period?",
+    "options": {
+      "A": "अकबर (Akbar)",
+      "B": "जहांगीर (Jahangir)",
+      "C": "शाहजहां (Shah Jahan)",
+      "D": "औरंगज़ेब (Aurangzeb)"
+    },
+    "answer": ["A"],
+    "explanation": "मुगल शासक अकबर ने 'मंसबदारी प्रथा' की शुरुआत की थी। इसके अंतर्गत सैनिकों और अधिकारियों की पद-स्थिति और वेतन का निर्धारण किया जाता था।"
+  },
+  {
+    "id": 36,
+    "question": "भारत में 'गुड्स एंड सर्विसेज टैक्स' (GST) किस अनुच्छेद के तहत लागू किया गया? / Under which Article was GST implemented in India?",
+    "options": {
+      "A": "अनुच्छेद 246A (Article 246A)",
+      "B": "अनुच्छेद 370 (Article 370)",
+      "C": "अनुच्छेद 110 (Article 110)",
+      "D": "अनुच्छेद 312 (Article 312)"
+    },
+    "answer": ["A"],
+    "explanation": "GST को संविधान (101वां संशोधन) अधिनियम 2016 के तहत लागू किया गया और अनुच्छेद 246A द्वारा संसद और राज्य विधानसभाओं को समान रूप से GST पर कानून बनाने की शक्ति दी गई।"
+  },
+  {
+    "id": 37,
+    "question": "2025 में भारतीय नौसेना ने किस स्वदेशी निर्मित युद्धपोत को अपने बेड़े में शामिल किया? / In 2025, which indigenously built warship was commissioned into the Indian Navy?",
+    "options": {
+      "A": "आईएनएस विराट (INS Viraat)",
+      "B": "आईएनएस विक्रांत (INS Vikrant)",
+      "C": "आईएनएस अजिंक्य (INS Ajinkya)",
+      "D": "आईएनएस सह्याद्री (INS Sahyadri)"
+    },
+    "answer": ["C"],
+    "explanation": "2025 में भारतीय नौसेना ने स्वदेशी रूप से निर्मित 'आईएनएस अजिंक्य' को शामिल किया। यह अत्याधुनिक तकनीक से युक्त मिसाइल गाइडेड युद्धपोत है।"
+  },
+  {
+    "id": 38,
+    "question": "भारत में 'न्यायपालिका की स्वतंत्रता' किस अनुच्छेद में निहित है? / Independence of Judiciary in India is enshrined in which Article?",
+    "options": {
+      "A": "अनुच्छेद 124 (Article 124)",
+      "B": "अनुच्छेद 32 (Article 32)",
+      "C": "अनुच्छेद 50 (Article 50)",
+      "D": "अनुच्छेद 21 (Article 21)"
+    },
+    "answer": ["C"],
+    "explanation": "अनुच्छेद 50 न्यायपालिका की स्वतंत्रता से संबंधित है। इसमें कार्यपालिका और न्यायपालिका के बीच विभाजन सुनिश्चित करने का प्रावधान है।"
+  },
+  {
+    "id": 39,
+    "question": "निम्नलिखित में से कौन-सी भारत की 'मिलेट मिशन' (Millet Mission) से जुड़ी फसलें हैं? / Which of the following crops are associated with India's 'Millet Mission'?",
+    "options": {
+      "A": "ज्वार (Jowar)",
+      "B": "बाजरा (Bajra)",
+      "C": "रागी (Ragi)",
+      "D": "गेहूं (Wheat)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "भारत की 'मिलेट मिशन' ज्वार, बाजरा, रागी जैसी मोटे अनाज की फसलों को बढ़ावा देने के लिए शुरू की गई। गेहूं इस मिशन का हिस्सा नहीं है।"
+  },
+  {
+    "id": 40,
+    "question": "भारत के किस राष्ट्रपति ने पहली बार 'जनता को संबोधित करने हेतु हिंदी भाषा' का प्रयोग किया? / Which Indian President used Hindi for the first time to address the nation?",
+    "options": {
+      "A": "डॉ. राजेन्द्र प्रसाद (Dr. Rajendra Prasad)",
+      "B": "डॉ. सर्वपल्ली राधाकृष्णन (Dr. S. Radhakrishnan)",
+      "C": "जाकिर हुसैन (Zakir Husain)",
+      "D": "गुलजारीलाल नंदा (Gulzarilal Nanda)"
+    },
+    "answer": ["A"],
+    "explanation": "भारत के पहले राष्ट्रपति डॉ. राजेन्द्र प्रसाद ने जनता को संबोधित करने हेतु हिंदी भाषा का प्रयोग किया। यह हिंदी को राष्ट्रभाषा के रूप में प्रोत्साहित करने का प्रतीक था।"
+  },
+  {
+    "id": 41,
+    "question": "2025 में उत्तर प्रदेश सरकार ने किस शहर में 'गंगा एक्सप्रेसवे' के प्रथम चरण का उद्घाटन किया? / In 2025, in which city did the UP Government inaugurate the first phase of 'Ganga Expressway'?",
+    "options": {
+      "A": "मेरठ (Meerut)",
+      "B": "लखनऊ (Lucknow)",
+      "C": "प्रयागराज (Prayagraj)",
+      "D": "वाराणसी (Varanasi)"
+    },
+    "answer": ["A"],
+    "explanation": "2025 में 'गंगा एक्सप्रेसवे' का प्रथम चरण मेरठ से शुरू हुआ। यह उत्तर प्रदेश की सबसे लंबी एक्सप्रेसवे परियोजना है।"
+  },
+  {
+    "id": 42,
+    "question": "भारत के किस प्रधानमंत्री ने 'मेक इन इंडिया' पहल की शुरुआत की? / Which Prime Minister of India launched the 'Make in India' initiative?",
+    "options": {
+      "A": "मनमोहन सिंह (Manmohan Singh)",
+      "B": "नरेंद्र मोदी (Narendra Modi)",
+      "C": "अटल बिहारी वाजपेयी (Atal Bihari Vajpayee)",
+      "D": "राजीव गांधी (Rajiv Gandhi)"
+    },
+    "answer": ["B"],
+    "explanation": "'मेक इन इंडिया' पहल प्रधानमंत्री नरेंद्र मोदी द्वारा 2014 में शुरू की गई थी। इसका उद्देश्य भारत को वैश्विक विनिर्माण केंद्र बनाना है।"
+  },
+  {
+    "id": 43,
+    "question": "भारत के किस क्षेत्र को 'ब्लैक कॉटन सॉइल बेल्ट' कहा जाता है? / Which region of India is known as the 'Black Cotton Soil Belt'?",
+    "options": {
+      "A": "गंगा के मैदान (Gangetic Plains)",
+      "B": "दक्कन का पठार (Deccan Plateau)",
+      "C": "हिमालयी क्षेत्र (Himalayan Region)",
+      "D": "अरावली क्षेत्र (Aravalli Region)"
+    },
+    "answer": ["B"],
+    "explanation": "दक्कन का पठार 'ब्लैक कॉटन सॉइल बेल्ट' कहलाता है क्योंकि यहां रेगुर मिट्टी पाई जाती है, जो कपास उत्पादन के लिए उपयुक्त है।"
+  },
+  {
+    "id": 44,
+    "question": "2024 में 'कॉप-29' (COP-29) सम्मेलन कहाँ आयोजित हुआ? / Where was the 'COP-29' conference held in 2024?",
+    "options": {
+      "A": "दुबई (Dubai)",
+      "B": "बकू, अज़रबैजान (Baku, Azerbaijan)",
+      "C": "पेरिस (Paris)",
+      "D": "ग्लासगो (Glasgow)"
+    },
+    "answer": ["B"],
+    "explanation": "कॉप-29 जलवायु सम्मेलन 2024 में बकू, अज़रबैजान में आयोजित हुआ। इसका मुख्य एजेंडा जलवायु वित्त और कार्बन कटौती लक्ष्य था।"
+  },
+  {
+    "id": 45,
+    "question": "निम्नलिखित में से किसे 'भारत का मैनचेस्टर' कहा जाता है? / Which of the following is called the 'Manchester of India'?",
+    "options": {
+      "A": "कानपुर (Kanpur)",
+      "B": "अहमदाबाद (Ahmedabad)",
+      "C": "सूरत (Surat)",
+      "D": "मुंबई (Mumbai)"
+    },
+    "answer": ["B"],
+    "explanation": "अहमदाबाद को 'भारत का मैनचेस्टर' कहा जाता है क्योंकि यह कपड़ा उद्योग का प्रमुख केंद्र है।"
+  },
+  {
+    "id": 46,
+    "question": "भारत में 'राइट टू एजुकेशन' (RTE) किस अनुच्छेद के तहत मौलिक अधिकार है? / Under which Article is 'Right to Education' a Fundamental Right in India?",
+    "options": {
+      "A": "अनुच्छेद 19 (Article 19)",
+      "B": "अनुच्छेद 21A (Article 21A)",
+      "C": "अनुच्छेद 32 (Article 32)",
+      "D": "अनुच्छेद 45 (Article 45)"
+    },
+    "answer": ["B"],
+    "explanation": "86वें संविधान संशोधन (2002) द्वारा अनुच्छेद 21A जोड़ा गया, जिसके तहत 6 से 14 वर्ष के बच्चों को शिक्षा का अधिकार मौलिक अधिकार है।"
+  },
+  {
+    "id": 47,
+    "question": "2025 में भारत ने किस देश से 'हाइपरसोनिक मिसाइल तकनीक' पर सहयोग समझौता किया? / In 2025, India signed a cooperation agreement on 'Hypersonic Missile Technology' with which country?",
+    "options": {
+      "A": "रूस (Russia)",
+      "B": "अमेरिका (USA)",
+      "C": "फ्रांस (France)",
+      "D": "इज़राइल (Israel)"
+    },
+    "answer": ["A", "D"],
+    "explanation": "भारत ने 2025 में रूस और इज़राइल के साथ 'हाइपरसोनिक मिसाइल तकनीक' पर सहयोग समझौता किया। इससे रक्षा क्षेत्र में नई क्षमताओं का विकास होगा।"
+  },
+  {
+    "id": 48,
+    "question": "भारत का पहला 'बायो-रीफाइनरी प्लांट' कहाँ स्थापित किया गया था? / Where was India’s first 'Bio-Refinery Plant' established?",
+    "options": {
+      "A": "पुणे (Pune)",
+      "B": "कोच्चि (Kochi)",
+      "C": "इंदौर (Indore)",
+      "D": "नागपुर (Nagpur)"
+    },
+    "answer": ["A"],
+    "explanation": "भारत का पहला 'बायो-रीफाइनरी प्लांट' पुणे (महाराष्ट्र) में 2016 में स्थापित किया गया था। यह अपशिष्ट बायोमास से ईंधन और रसायन बनाने के लिए बनाया गया।"
+  },
+  {
+    "id": 49,
+    "question": "भारत में सबसे पहले हरित क्रांति का प्रभाव किस फसल पर स्पष्ट रूप से देखा गया? / On which crop was the impact of Green Revolution first seen clearly in India?",
+    "options": {
+      "A": "धान (Rice)",
+      "B": "गेंहूँ (Wheat)",
+      "C": "ज्वार (Jowar)",
+      "D": "गन्ना (Sugarcane)"
+    },
+    "answer": ["B"],
+    "explanation": "हरित क्रांति का सबसे पहला और गहरा प्रभाव गेंहूँ की फसल पर देखा गया। पंजाब, हरियाणा और पश्चिमी उत्तर प्रदेश में उच्च उत्पादकता वाले बीजों (HYV seeds), उर्वरक और सिंचाई साधनों के कारण गेंहूँ उत्पादन में भारी वृद्धि हुई।"
+  },
+  {
+    "id": 50,
+    "question": "भारतीय संविधान में 'समाजवादी' शब्द कब जोड़ा गया? / When was the word 'Socialist' added to the Indian Constitution?",
+    "options": {
+      "A": "संविधान सभा द्वारा 1949 में (By Constituent Assembly in 1949)",
+      "B": "42वें संशोधन द्वारा 1976 में (By 42nd Amendment in 1976)",
+      "C": "44वें संशोधन द्वारा 1978 में (By 44th Amendment in 1978)",
+      "D": "62वें संशोधन द्वारा 1989 में (By 62nd Amendment in 1989)"
+    },
+    "answer": ["B"],
+    "explanation": "भारतीय संविधान की प्रस्तावना में 'समाजवादी' और 'धर्मनिरपेक्ष' शब्द 42वें संशोधन अधिनियम (1976) के माध्यम से जोड़े गए। यह आपातकालीन काल के दौरान हुआ था।"
+  },
+  {
+    "id": 51,
+    "question": "उत्तर प्रदेश का कौन सा क्षेत्र 'धान का कटोरा' कहलाता है? / Which region of Uttar Pradesh is called the 'Rice Bowl'?",
+    "options": {
+      "A": "पूर्वांचल (Purvanchal)",
+      "B": "बुंदेलखंड (Bundelkhand)",
+      "C": "रूहेलखंड (Rohilkhand)",
+      "D": "अवध (Awadh)"
+    },
+    "answer": ["A", "D"],
+    "explanation": "उत्तर प्रदेश के पूर्वांचल और अवध क्षेत्र को 'धान का कटोरा' कहा जाता है क्योंकि यहां गंगा-घाघरा बेसिन की उपजाऊ मिट्टी और पर्याप्त मानसून के कारण धान का उत्पादन सर्वाधिक होता है।"
+  },
+  {
+    "id": 52,
+    "question": "भारत में पंचवर्षीय योजनाओं का आरंभ कब हुआ? / When were Five-Year Plans started in India?",
+    "options": {
+      "A": "1950",
+      "B": "1951",
+      "C": "1952",
+      "D": "1949"
+    },
+    "answer": ["B"],
+    "explanation": "भारत की प्रथम पंचवर्षीय योजना 1951 से 1956 तक चलाई गई। इसका मुख्य फोकस कृषि, सिंचाई और ऊर्जा पर था। इसे नेहरू जी के नेतृत्व में लागू किया गया।"
+  },
+  {
+    "id": 53,
+    "question": "भारतीय संविधान के किस अनुच्छेद में 'मौलिक कर्तव्यों' का उल्लेख है? / Which Article of the Indian Constitution mentions Fundamental Duties?",
+    "options": {
+      "A": "अनुच्छेद 32 (Article 32)",
+      "B": "अनुच्छेद 51A (Article 51A)",
+      "C": "अनुच्छेद 14 (Article 14)",
+      "D": "अनुच्छेद 368 (Article 368)"
+    },
+    "answer": ["B"],
+    "explanation": "मौलिक कर्तव्यों का उल्लेख संविधान के अनुच्छेद 51A में किया गया है। इन्हें 42वें संशोधन द्वारा 1976 में जोड़ा गया था और मूल रूप से 10 कर्तव्य थे, जिन्हें बाद में 86वें संशोधन (2002) से 11 कर दिया गया।"
+  },
+  {
+    "id": 54,
+    "question": "रामसर संधि (Ramsar Convention) किससे संबंधित है? / Ramsar Convention is related to which of the following?",
+    "options": {
+      "A": "वेटलैंड संरक्षण (Wetland Conservation)",
+      "B": "वन्यजीव संरक्षण (Wildlife Conservation)",
+      "C": "ओजोन परत सुरक्षा (Ozone Layer Protection)",
+      "D": "जलवायु परिवर्तन (Climate Change)"
+    },
+    "answer": ["A"],
+    "explanation": "रामसर संधि (1971, ईरान) वेटलैंड संरक्षण और सतत उपयोग से संबंधित एक अंतरराष्ट्रीय समझौता है। भारत इस संधि का सदस्य 1982 में बना। उत्तर प्रदेश के कई वेटलैंड रामसर साइट्स के रूप में सूचीबद्ध हैं।"
+  },
+  {
+    "id": 55,
+    "question": "किस राज्य में पहली बार पंचायत राज व्यवस्था लागू की गई? / In which state was Panchayati Raj System first implemented?",
+    "options": {
+      "A": "उत्तर प्रदेश (Uttar Pradesh)",
+      "B": "राजस्थान (Rajasthan)",
+      "C": "बिहार (Bihar)",
+      "D": "केरल (Kerala)"
+    },
+    "answer": ["B"],
+    "explanation": "पंचायती राज व्यवस्था सबसे पहले 2 अक्टूबर 1959 को राजस्थान के नागौर जिले में शुरू की गई थी। उसके बाद इसे आंध्र प्रदेश और अन्य राज्यों में लागू किया गया।"
+  },
+  {
+    "id": 56,
+    "question": "‘नमामि गंगे योजना’ किससे संबंधित है? / ‘Namami Gange Programme’ is related to?",
+    "options": {
+      "A": "गंगा की स्वच्छता और संरक्षण (Cleanliness and Conservation of Ganga)",
+      "B": "जलविद्युत उत्पादन (Hydropower Generation)",
+      "C": "बाढ़ नियंत्रण (Flood Control)",
+      "D": "जलवायु परिवर्तन (Climate Change)"
+    },
+    "answer": ["A"],
+    "explanation": "‘नमामि गंगे योजना’ भारत सरकार की एक प्रमुख योजना है जो गंगा नदी की स्वच्छता, प्रदूषण नियंत्रण और संरक्षण पर केंद्रित है। इसे 2014 में शुरू किया गया।"
+  },
+  {
+    "id": 57,
+    "question": "भारतीय योजना आयोग को किस वर्ष नीति आयोग (NITI Aayog) से प्रतिस्थापित किया गया? / In which year was the Planning Commission replaced by NITI Aayog?",
+    "options": {
+      "A": "2012",
+      "B": "2014",
+      "C": "2015",
+      "D": "2016"
+    },
+    "answer": ["C"],
+    "explanation": "1 जनवरी 2015 को योजना आयोग को समाप्त कर 'नीति आयोग' की स्थापना की गई। इसका उद्देश्य सहकारी संघवाद और नीति-निर्माण में राज्यों की भागीदारी सुनिश्चित करना है।"
+  },
+  {
+    "id": 58,
+    "question": "भारत के किस राज्य में सर्वाधिक कोयला भंडार है? / Which state in India has the largest coal reserves?",
+    "options": {
+      "A": "झारखंड (Jharkhand)",
+      "B": "ओडिशा (Odisha)",
+      "C": "छत्तीसगढ़ (Chhattisgarh)",
+      "D": "मध्य प्रदेश (Madhya Pradesh)"
+    },
+    "answer": ["A"],
+    "explanation": "भारत के सर्वाधिक कोयला भंडार झारखंड में हैं। इसके बाद ओडिशा और छत्तीसगढ़ आते हैं। झारखंड के धनबाद को 'कोयला राजधानी' भी कहा जाता है।"
+  },
+  {
+    "id": 59,
+    "question": "राष्ट्रीय आय की गणना भारत में कौन करता है? / Who calculates National Income in India?",
+    "options": {
+      "A": "NITI आयोग (NITI Aayog)",
+      "B": "वित्त मंत्रालय (Ministry of Finance)",
+      "C": "राष्ट्रीय सांख्यिकी कार्यालय (NSO)",
+      "D": "भारतीय रिज़र्व बैंक (RBI)"
+    },
+    "answer": ["C"],
+    "explanation": "भारत में राष्ट्रीय आय की गणना राष्ट्रीय सांख्यिकी कार्यालय (NSO) करता है। पहले यह कार्य केंद्रीय सांख्यिकी संगठन (CSO) करता था जिसे बाद में NSO में मिला दिया गया।"
+  },
+  {
+    "id": 60,
+    "question": "विधान परिषद (Legislative Council) को समाप्त या स्थापित करने का अधिकार किसके पास है? / Who has the power to abolish or establish Legislative Council in a state?",
+    "options": {
+      "A": "राज्यपाल (Governor)",
+      "B": "राज्य विधानमंडल (State Legislature)",
+      "C": "भारत की संसद (Parliament of India)",
+      "D": "भारत का राष्ट्रपति (President of India)"
+    },
+    "answer": ["C"],
+    "explanation": "संविधान के अनुच्छेद 169 के अंतर्गत राज्य विधानमंडल के प्रस्ताव के आधार पर संसद को किसी राज्य में विधान परिषद को स्थापित या समाप्त करने का अधिकार है।"
+  },
+  {
+    "id": 61,
+    "question": "भारत में 'गोल्डन क्वाड्रिलेटरल प्रोजेक्ट' किससे संबंधित है? / The Golden Quadrilateral Project in India is related to?",
+    "options": {
+      "A": "रेल मार्ग (Railways)",
+      "B": "हवाई अड्डे (Airports)",
+      "C": "राष्ट्रीय राजमार्ग (National Highways)",
+      "D": "बंदरगाह (Ports)"
+    },
+    "answer": ["C"],
+    "explanation": "‘गोल्डन क्वाड्रिलेटरल प्रोजेक्ट’ राष्ट्रीय राजमार्ग प्राधिकरण (NHAI) द्वारा शुरू किया गया एक परियोजना है जो चार महानगरों (दिल्ली, मुंबई, चेन्नई और कोलकाता) को जोड़ता है।"
+  },
+  {
+    "id": 62,
+    "question": "‘खादी और ग्रामोद्योग आयोग’ की स्थापना कब की गई? / When was Khadi and Village Industries Commission established?",
+    "options": {
+      "A": "1956",
+      "B": "1953",
+      "C": "1957",
+      "D": "1960"
+    },
+    "answer": ["A"],
+    "explanation": "खादी और ग्रामोद्योग आयोग (KVIC) की स्थापना 1956 में की गई। यह ग्रामीण उद्योगों और खादी उत्पादन को प्रोत्साहित करता है।"
+  },
+  {
+    "id": 63,
+    "question": "‘नया भारत अभियान’ का उद्देश्य क्या है? / What is the objective of ‘New India Mission’?",
+    "options": {
+      "A": "भारत को 2022 तक भ्रष्टाचार, गरीबी और गंदगी से मुक्त करना (To free India from corruption, poverty and filth by 2022)",
+      "B": "भारत को 2030 तक विकसित राष्ट्र बनाना (To make India developed by 2030)",
+      "C": "भारत को 2047 तक आत्मनिर्भर बनाना (To make India self-reliant by 2047)",
+      "D": "भारत को 2025 तक डिजिटल अर्थव्यवस्था में अग्रणी बनाना (To make India leader in digital economy by 2025)"
+    },
+    "answer": ["A"],
+    "explanation": "‘नया भारत अभियान’ का उद्देश्य भारत को 2022 तक भ्रष्टाचार, गरीबी, आतंकवाद, जातिवाद, संप्रदायवाद और गंदगी से मुक्त करना था। इसे प्रधानमंत्री नरेंद्र मोदी ने घोषित किया था।"
+  },
+  {
+    "id": 64,
+    "question": "भारत में कौन सा आयोग चुनावों का संचालन करता है? / Which commission conducts elections in India?",
+    "options": {
+      "A": "वित्त आयोग (Finance Commission)",
+      "B": "योजना आयोग (Planning Commission)",
+      "C": "निर्वाचन आयोग (Election Commission)",
+      "D": "लोक सेवा आयोग (Public Service Commission)"
+    },
+    "answer": ["C"],
+    "explanation": "भारत में चुनावों का संचालन निर्वाचन आयोग करता है। यह एक संवैधानिक निकाय है जिसे अनुच्छेद 324 के अंतर्गत शक्तियां प्राप्त हैं।"
+  },
+  {
+    "id": 65,
+    "question": "भारत में ‘मेक इन इंडिया’ पहल कब शुरू की गई? / When was the ‘Make in India’ initiative launched?",
+    "options": {
+      "A": "2012",
+      "B": "2013",
+      "C": "2014",
+      "D": "2015"
+    },
+    "answer": ["C"],
+    "explanation": "‘मेक इन इंडिया’ पहल 25 सितंबर 2014 को शुरू की गई। इसका उद्देश्य भारत को वैश्विक विनिर्माण हब बनाना था।"
+  },
+  {
+    "id": 66,
+    "question": "भारत का पहला परमाणु ऊर्जा संयंत्र कौन सा था? / Which was India’s first nuclear power plant?",
+    "options": {
+      "A": "तरापुर (Tarapur)",
+      "B": "कुडनकुलम (Kudankulam)",
+      "C": "काकरापार (Kakrapar)",
+      "D": "नरोरा (Narora)"
+    },
+    "answer": ["A"],
+    "explanation": "भारत का पहला परमाणु ऊर्जा संयंत्र महाराष्ट्र के तारापुर में स्थित है। इसे 1969 में चालू किया गया था।"
+  },
+  {
+    "id": 67,
+    "question": "भारत के किस राज्य में सर्वाधिक जनजातीय जनसंख्या है? / Which state in India has the highest tribal population?",
+    "options": {
+      "A": "मध्य प्रदेश (Madhya Pradesh)",
+      "B": "झारखंड (Jharkhand)",
+      "C": "ओडिशा (Odisha)",
+      "D": "छत्तीसगढ़ (Chhattisgarh)"
+    },
+    "answer": ["A"],
+    "explanation": "भारत में सर्वाधिक जनजातीय जनसंख्या मध्य प्रदेश में है। यहां भील, गोंड और अन्य प्रमुख जनजातियां पाई जाती हैं।"
+  },
+  {
+    "id": 68,
+    "question": "‘स्टार्ट-अप इंडिया योजना’ कब शुरू की गई? / When was the ‘Start-up India Scheme’ launched?",
+    "options": {
+      "A": "2014",
+      "B": "2015",
+      "C": "2016",
+      "D": "2017"
+    },
+    "answer": ["C"],
+    "explanation": "‘स्टार्ट-अप इंडिया योजना’ 16 जनवरी 2016 को शुरू की गई। इसका उद्देश्य नई उद्यमशीलता को प्रोत्साहित करना और रोजगार के अवसर बढ़ाना है।"
+  },
+  {
+    "id": 69,
+    "question": "‘राष्ट्रीय आपदा प्रबंधन प्राधिकरण’ का अध्यक्ष कौन होता है? / Who is the chairman of National Disaster Management Authority (NDMA)?",
+    "options": {
+      "A": "भारत के राष्ट्रपति (President of India)",
+      "B": "प्रधानमंत्री (Prime Minister)",
+      "C": "गृह मंत्री (Home Minister)",
+      "D": "वित्त मंत्री (Finance Minister)"
+    },
+    "answer": ["B"],
+    "explanation": "राष्ट्रीय आपदा प्रबंधन प्राधिकरण (NDMA) का अध्यक्ष भारत का प्रधानमंत्री होता है। यह प्राधिकरण आपदाओं से निपटने की नीतियों और रणनीतियों का निर्धारण करता है।"
+  },
+  {
+    "id": 70,
+    "question": "किस राज्य में ‘चंद्रभागा मेला’ प्रसिद्ध है? / In which state is ‘Chandrabhaga Fair’ famous?",
+    "options": {
+      "A": "राजस्थान (Rajasthan)",
+      "B": "ओडिशा (Odisha)",
+      "C": "महाराष्ट्र (Maharashtra)",
+      "D": "गुजरात (Gujarat)"
+    },
+    "answer": ["B"],
+    "explanation": "‘चंद्रभागा मेला’ ओडिशा के कोणार्क में प्रतिवर्ष आयोजित किया जाता है। यह सूर्य देवता को समर्पित है और माघ मास में आयोजित होता है।"
+  },
+  {
+    "id": 71,
+    "question": "संविधान सभा के उद्देशिका प्रस्ताव (Objective Resolution) को किसने प्रस्तुत किया था? / Who presented the Objective Resolution in the Constituent Assembly?",
+    "options": {
+      "A": "डॉ. भीमराव अंबेडकर (B.R. Ambedkar)",
+      "B": "पंडित जवाहरलाल नेहरू (Jawaharlal Nehru)",
+      "C": "डॉ. राजेंद्र प्रसाद (Rajendra Prasad)",
+      "D": "सरदार वल्लभभाई पटेल (Sardar Patel)"
+    },
+    "answer": ["B"],
+    "explanation": "उद्देशिका प्रस्ताव (Objective Resolution), जो आगे चलकर भारतीय संविधान की प्रस्तावना का आधार बना, पंडित जवाहरलाल नेहरू ने 13 दिसंबर 1946 को संविधान सभा में प्रस्तुत किया था।"
+  },
+  {
+    "id": 72,
+    "question": "भारत में प्रथम बार 'जनगणना' किस गवर्नर-जनरल के काल में हुई थी? / During the tenure of which Governor-General was the first census in India conducted?",
+    "options": {
+      "A": "लॉर्ड डलहौजी (Lord Dalhousie)",
+      "B": "लॉर्ड रिपन (Lord Ripon)",
+      "C": "लॉर्ड मेयो (Lord Mayo)",
+      "D": "लॉर्ड कर्ज़न (Lord Curzon)"
+    },
+    "answer": ["C"],
+    "explanation": "भारत में पहली संपूर्ण जनगणना 1872 में लॉर्ड मेयो के शासनकाल में कराई गई थी। हालांकि नियमित दशकीय जनगणना 1881 से प्रारंभ हुई।"
+  },
+  {
+    "id": 73,
+    "question": "भारत में 'न्यायिक पुनरीक्षण' (Judicial Review) की अवधारणा किस देश से ली गई है? / From which country has India borrowed the concept of Judicial Review?",
+    "options": {
+      "A": "ब्रिटेन (Britain)",
+      "B": "अमेरिका (USA)",
+      "C": "कनाडा (Canada)",
+      "D": "फ्रांस (France)"
+    },
+    "answer": ["B"],
+    "explanation": "न्यायिक पुनरीक्षण की अवधारणा भारत के संविधान में अमेरिका से ली गई है। भारत का सर्वोच्च न्यायालय कानूनों और कार्यपालिका के आदेशों की संविधान संगतता की जांच कर सकता है।"
+  },
+  {
+    "id": 74,
+    "question": "भारतीय संविधान में 'मूल अधिकारों' (Fundamental Rights) को किस भाग में रखा गया है? / In which Part of the Indian Constitution are Fundamental Rights included?",
+    "options": {
+      "A": "भाग II (Part II)",
+      "B": "भाग III (Part III)",
+      "C": "भाग IV (Part IV)",
+      "D": "भाग V (Part V)"
+    },
+    "answer": ["B"],
+    "explanation": "भारतीय संविधान के भाग III (अनुच्छेद 12 से 35) में मूल अधिकारों को सम्मिलित किया गया है। ये अधिकार भारतीय नागरिकों के मौलिक स्वतंत्रताओं की रक्षा करते हैं।"
+  },
+  {
+    "id": 75,
+    "question": "किस अनुच्छेद के तहत राष्ट्रपति आपातकाल की घोषणा कर सकता है? / Under which Article can the President proclaim National Emergency?",
+    "options": {
+      "A": "अनुच्छेद 352 (Article 352)",
+      "B": "अनुच्छेद 356 (Article 356)",
+      "C": "अनुच्छेद 360 (Article 360)",
+      "D": "अनुच्छेद 365 (Article 365)"
+    },
+    "answer": ["A"],
+    "explanation": "अनुच्छेद 352 के तहत राष्ट्रपति राष्ट्रीय आपातकाल की घोषणा कर सकता है, यदि भारत की सुरक्षा या उसकी किसी भी भाग को युद्ध, बाहरी आक्रमण या सशस्त्र विद्रोह से खतरा हो।"
+  },
+  {
+    "id": 76,
+    "question": "भारत में पंचायती राज व्यवस्था को संवैधानिक दर्जा किस संशोधन द्वारा दिया गया? / By which Constitutional Amendment was the Panchayati Raj system given constitutional status?",
+    "options": {
+      "A": "42वां संशोधन (42nd Amendment)",
+      "B": "44वां संशोधन (44th Amendment)",
+      "C": "73वां संशोधन (73rd Amendment)",
+      "D": "74वां संशोधन (74th Amendment)"
+    },
+    "answer": ["C"],
+    "explanation": "1992 के 73वें संविधान संशोधन द्वारा पंचायती राज संस्थाओं को संवैधानिक दर्जा दिया गया। इसके अंतर्गत भाग IX जोड़ा गया तथा ग्रामसभा, पंचायतों की संरचना व चुनाव की व्यवस्था की गई।"
+  },
+  {
+    "id": 77,
+    "question": "‘मंडल आयोग’ (Mandal Commission) किसके लिए गठित किया गया था? / The Mandal Commission was established for which purpose?",
+    "options": {
+      "A": "अल्पसंख्यकों की स्थिति का अध्ययन",
+      "B": "अनुसूचित जनजातियों की स्थिति का अध्ययन",
+      "C": "सामाजिक और शैक्षणिक दृष्टि से पिछड़े वर्गों की पहचान",
+      "D": "महिला आरक्षण का अध्ययन"
+    },
+    "answer": ["C"],
+    "explanation": "मंडल आयोग (1979) का गठन सामाजिक और शैक्षणिक दृष्टि से पिछड़े वर्गों (OBCs) की पहचान और उनकी स्थिति के अध्ययन हेतु किया गया था। इस आयोग की सिफारिशों के आधार पर OBC को 27% आरक्षण दिया गया।"
+  },
+  {
+    "id": 78,
+    "question": "भारत के नियंत्रक और महालेखा परीक्षक (CAG) की नियुक्ति कौन करता है? / Who appoints the Comptroller and Auditor General (CAG) of India?",
+    "options": {
+      "A": "प्रधानमंत्री (Prime Minister)",
+      "B": "राष्ट्रपति (President)",
+      "C": "लोकसभा अध्यक्ष (Speaker of Lok Sabha)",
+      "D": "संसद (Parliament)"
+    },
+    "answer": ["B"],
+    "explanation": "भारतीय संविधान के अनुच्छेद 148 के अनुसार नियंत्रक और महालेखा परीक्षक (CAG) की नियुक्ति राष्ट्रपति द्वारा की जाती है।"
+  },
+  {
+    "id": 79,
+    "question": "भारतीय योजना आयोग का गठन कब किया गया था? / When was the Planning Commission of India established?",
+    "options": {
+      "A": "1947",
+      "B": "1950",
+      "C": "1951",
+      "D": "1952"
+    },
+    "answer": ["B"],
+    "explanation": "भारत में योजना आयोग का गठन 15 मार्च 1950 को प्रधानमंत्री पंडित जवाहरलाल नेहरू की अध्यक्षता में किया गया था। इसका मुख्य उद्देश्य योजनाबद्ध आर्थिक विकास करना था।"
+  },
+  {
+    "id": 80,
+    "question": "वर्तमान में नीति आयोग (NITI Aayog) के अध्यक्ष कौन होते हैं? / Who is the current Chairperson of NITI Aayog?",
+    "options": {
+      "A": "प्रधानमंत्री (Prime Minister)",
+      "B": "राष्ट्रपति (President)",
+      "C": "उपाध्यक्ष (Vice-Chairperson)",
+      "D": "वित्त मंत्री (Finance Minister)"
+    },
+    "answer": ["A"],
+    "explanation": "नीति आयोग (NITI Aayog) का अध्यक्ष सदैव भारत का प्रधानमंत्री होता है। इसके अलावा एक उपाध्यक्ष और कई पूर्णकालिक सदस्य होते हैं।"
+  },
+  {
+    "id": 81,
+    "question": "‘भूमि उपयोग परिवर्तन’ (Land Use Change) मुख्यतः किस कारण से होता है? / What is the primary cause of Land Use Change?",
+    "options": {
+      "A": "जनसंख्या वृद्धि (Population Growth)",
+      "B": "औद्योगिकीकरण (Industrialization)",
+      "C": "शहरीकरण (Urbanization)",
+      "D": "उपरोक्त सभी (All of the above)"
+    },
+    "answer": ["D"],
+    "explanation": "भूमि उपयोग परिवर्तन जनसंख्या वृद्धि, औद्योगिकीकरण और शहरीकरण के कारण होता है। कृषि भूमि का गैर-कृषि उपयोगों में बदलना इसका उदाहरण है।"
+  },
+  {
+    "id": 82,
+    "question": "भारत में ‘ग्रीन रिवोल्यूशन’ (हरित क्रांति) की शुरुआत किस फसल के साथ हुई? / With which crop did the Green Revolution in India begin?",
+    "options": {
+      "A": "चावल (Rice)",
+      "B": "गेहूं (Wheat)",
+      "C": "ज्वार (Jowar)",
+      "D": "मक्का (Maize)"
+    },
+    "answer": ["B"],
+    "explanation": "भारत में हरित क्रांति की शुरुआत मुख्यतः गेहूं की उच्च उत्पादक किस्मों से हुई। पंजाब, हरियाणा और पश्चिमी उत्तर प्रदेश में इसका सबसे अधिक प्रभाव पड़ा।"
+  },
+  {
+    "id": 83,
+    "question": "भारत में सबसे अधिक कोयला भंडार किस राज्य में पाए जाते हैं? / Which state in India has the largest coal reserves?",
+    "options": {
+      "A": "झारखंड (Jharkhand)",
+      "B": "ओडिशा (Odisha)",
+      "C": "छत्तीसगढ़ (Chhattisgarh)",
+      "D": "पश्चिम बंगाल (West Bengal)"
+    },
+    "answer": ["A"],
+    "explanation": "भारत में सबसे अधिक कोयला भंडार झारखंड में पाए जाते हैं। इसके बाद ओडिशा और छत्तीसगढ़ का स्थान आता है।"
+  },
+  {
+    "id": 84,
+    "question": "‘विश्व व्यापार संगठन’ (WTO) का मुख्यालय कहाँ स्थित है? / Where is the headquarters of the World Trade Organization (WTO) located?",
+    "options": {
+      "A": "न्यूयॉर्क (New York)",
+      "B": "जिनेवा (Geneva)",
+      "C": "पेरिस (Paris)",
+      "D": "वॉशिंगटन डीसी (Washington D.C.)"
+    },
+    "answer": ["B"],
+    "explanation": "विश्व व्यापार संगठन (WTO) का मुख्यालय जिनेवा (स्विट्ज़रलैंड) में स्थित है। यह संगठन अंतरराष्ट्रीय व्यापार नियमों का निर्धारण करता है।"
+  },
+  {
+    "id": 85,
+    "question": "‘गिर राष्ट्रीय उद्यान’ (Gir National Park) किस राज्य में स्थित है? / Gir National Park is located in which state?",
+    "options": {
+      "A": "राजस्थान (Rajasthan)",
+      "B": "गुजरात (Gujarat)",
+      "C": "मध्य प्रदेश (Madhya Pradesh)",
+      "D": "कर्नाटक (Karnataka)"
+    },
+    "answer": ["B"],
+    "explanation": "गिर राष्ट्रीय उद्यान गुजरात में स्थित है। यह एशियाई शेरों का एकमात्र प्राकृतिक आवास है।"
+  },
+  {
+    "id": 86,
+    "question": "भारत का कौन सा राज्य सबसे पहले पूर्णत: साक्षर राज्य घोषित हुआ? / Which was the first Indian state to be declared fully literate?",
+    "options": {
+      "A": "केरल (Kerala)",
+      "B": "तमिलनाडु (Tamil Nadu)",
+      "C": "महाराष्ट्र (Maharashtra)",
+      "D": "गोवा (Goa)"
+    },
+    "answer": ["A"],
+    "explanation": "भारत में केरल राज्य को 1991 में पूर्ण साक्षर राज्य घोषित किया गया था।"
+  },
+  {
+    "id": 87,
+    "question": "‘स्टैंड-अप इंडिया योजना’ (Stand-Up India Scheme) मुख्य रूप से किनके लिए शुरू की गई? / The Stand-Up India Scheme is primarily for whom?",
+    "options": {
+      "A": "किसानों के लिए",
+      "B": "महिला और अनुसूचित जाति/जनजाति उद्यमियों के लिए",
+      "C": "वरिष्ठ नागरिकों के लिए",
+      "D": "विद्यार्थियों के लिए"
+    },
+    "answer": ["B"],
+    "explanation": "स्टैंड-अप इंडिया योजना का शुभारंभ महिला उद्यमियों तथा अनुसूचित जाति/जनजाति उद्यमियों को बैंक ऋण उपलब्ध कराने हेतु किया गया।"
+  },
+  {
+    "id": 88,
+    "question": "भारत में ‘गुड्स एंड सर्विस टैक्स (GST)’ किस वर्ष लागू हुआ? / In which year was GST implemented in India?",
+    "options": {
+      "A": "2015",
+      "B": "2016",
+      "C": "2017",
+      "D": "2018"
+    },
+    "answer": ["C"],
+    "explanation": "भारत में गुड्स एंड सर्विस टैक्स (GST) 1 जुलाई 2017 से लागू किया गया। इसे ‘वन नेशन, वन टैक्स’ के रूप में जाना जाता है।"
+  },
+  {
+    "id": 89,
+    "question": "‘बेटी बचाओ, बेटी पढ़ाओ’ योजना किस वर्ष शुरू की गई थी? / In which year was the Beti Bachao Beti Padhao scheme launched?",
     "options": {
       "A": "2013",
       "B": "2014",
@@ -129,114 +1065,732 @@
       "D": "2016"
     },
     "answer": ["C"],
-    "explanation": "नीति आयोग 1 जनवरी 2015 को योजना आयोग के स्थान पर स्थापित किया गया। यह भी एक गैर-संवैधानिक निकाय है।"
+    "explanation": "‘बेटी बचाओ, बेटी पढ़ाओ’ योजना का शुभारंभ 22 जनवरी 2015 को प्रधानमंत्री नरेंद्र मोदी ने हरियाणा के पानीपत से किया था।"
   },
   {
-    "id": 12,
-    "question": "चुनाव आयोग का प्रावधान संविधान के किस अनुच्छेद में है? / Election Commission is provided under which Article?",
+    "id": 90,
+    "question": "‘राष्ट्रीय हरित अधिकरण’ (NGT) की स्थापना किस वर्ष हुई? / In which year was the National Green Tribunal (NGT) established?",
     "options": {
-      "A": "अनुच्छेद 320",
-      "B": "अनुच्छेद 324",
-      "C": "अनुच्छेद 326",
-      "D": "अनुच्छेद 330"
+      "A": "2008",
+      "B": "2010",
+      "C": "2012",
+      "D": "2014"
     },
     "answer": ["B"],
-    "explanation": "अनुच्छेद 324 में चुनाव आयोग का प्रावधान है जो संसद और राज्य विधानमंडलों के चुनाव आयोजित करता है।"
+    "explanation": "राष्ट्रीय हरित अधिकरण (NGT) की स्थापना 2010 में पर्यावरणीय मामलों के त्वरित निपटारे हेतु की गई थी।"
   },
   {
-    "id": 13,
-    "question": "वित्त आयोग के अध्यक्ष की नियुक्ति कौन करता है? / Who appoints the Chairman of the Finance Commission?",
+    "id": 91,
+    "question": "भारत का पहला परमाणु परीक्षण कब और कहाँ हुआ था? / When and where did India conduct its first nuclear test?",
     "options": {
-      "A": "प्रधानमंत्री / Prime Minister",
-      "B": "लोकसभा अध्यक्ष / Speaker of Lok Sabha",
-      "C": "राष्ट्रपति / President",
-      "D": "सुप्रीम कोर्ट / Supreme Court"
+      "A": "1972, पोखरण",
+      "B": "1974, पोखरण",
+      "C": "1976, थार मरुस्थल",
+      "D": "1998, पोखरण"
+    },
+    "answer": ["B"],
+    "explanation": "भारत का पहला परमाणु परीक्षण 18 मई 1974 को राजस्थान के पोखरण में किया गया। इसे ‘स्माइलिंग बुद्धा’ नाम दिया गया।"
+  },
+  {
+    "id": 92,
+    "question": "‘मेक इन इंडिया’ कार्यक्रम का शुभारंभ कब हुआ? / When was the Make in India programme launched?",
+    "options": {
+      "A": "2012",
+      "B": "2013",
+      "C": "2014",
+      "D": "2015"
     },
     "answer": ["C"],
-    "explanation": "वित्त आयोग के अध्यक्ष और सदस्यों की नियुक्ति भारत के राष्ट्रपति द्वारा की जाती है।"
+    "explanation": "‘मेक इन इंडिया’ कार्यक्रम का शुभारंभ 25 सितंबर 2014 को प्रधानमंत्री नरेंद्र मोदी ने किया था। इसका उद्देश्य भारत को विनिर्माण हब बनाना है।"
   },
   {
-    "id": 14,
-    "question": "संविधान का अनुच्छेद 50 किससे संबंधित है? / Article 50 of the Constitution is related to?",
+    "id": 93,
+    "question": "भारत में ‘स्वच्छ भारत अभियान’ किस तारीख को प्रारंभ हुआ? / On which date was the Swachh Bharat Mission launched?",
     "options": {
-      "A": "राज्य नीति निदेशक तत्व / Directive Principles of State Policy",
-      "B": "न्यायपालिका और कार्यपालिका का पृथक्करण / Separation of Judiciary from Executive",
-      "C": "मूल अधिकार / Fundamental Rights",
-      "D": "राज्यपाल की शक्तियाँ / Powers of Governor"
+      "A": "15 अगस्त 2014",
+      "B": "2 अक्टूबर 2014",
+      "C": "26 जनवरी 2015",
+      "D": "1 मई 2015"
     },
     "answer": ["B"],
-    "explanation": "अनुच्छेद 50 राज्य नीति के निदेशक तत्वों के अंतर्गत न्यायपालिका को कार्यपालिका से पृथक करने की बात करता है।"
+    "explanation": "‘स्वच्छ भारत अभियान’ 2 अक्टूबर 2014 को महात्मा गांधी की जयंती पर प्रधानमंत्री नरेंद्र मोदी द्वारा प्रारंभ किया गया।"
   },
   {
-    "id": 15,
-    "question": "अनुच्छेद 263 में वर्णित अंतर-राज्यीय परिषद की स्थापना किसकी सिफारिश पर हुई थी? / The Inter-State Council under Article 263 was established on the recommendation of?",
+    "id": 94,
+    "question": "‘राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम’ (NREGA) किस वर्ष पारित हुआ? / In which year was the National Rural Employment Guarantee Act (NREGA) passed?",
     "options": {
-      "A": "सच्चर समिति / Sachar Committee",
-      "B": "सरकारिया आयोग / Sarkaria Commission",
-      "C": "वामन राव समिति / Vaman Rao Committee",
-      "D": "मंडल आयोग / Mandal Commission"
+      "A": "2004",
+      "B": "2005",
+      "C": "2006",
+      "D": "2007"
     },
     "answer": ["B"],
-    "explanation": "सरकारिया आयोग (1983) की सिफारिश पर 1990 में अंतर-राज्यीय परिषद की स्थापना हुई।"
+    "explanation": "राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम (NREGA) 2005 में पारित हुआ। इसे बाद में MGNREGA (महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारंटी अधिनियम) नाम दिया गया।"
   },
   {
-    "id": 16,
-    "question": "केंद्र-राज्य संबंधों की समीक्षा हेतु स्थापित पंची आयोग की स्थापना कब हुई? / When was the Punchhi Commission on Centre-State relations set up?",
+    "id": 95,
+    "question": "‘आत्मनिर्भर भारत अभियान’ की घोषणा कब की गई? / When was the Atmanirbhar Bharat Abhiyan announced?",
     "options": {
-      "A": "2005",
-      "B": "2007",
-      "C": "2009",
-      "D": "2011"
-    },
-    "answer": ["B"],
-    "explanation": "पंची आयोग (Second Commission on Centre-State Relations) 2007 में गठित हुआ और 2010 में अपनी रिपोर्ट प्रस्तुत की।"
-  },
-  {
-    "id": 17,
-    "question": "राष्ट्रीय मानवाधिकार आयोग (NHRC) किस वर्ष स्थापित हुआ? / In which year was the National Human Rights Commission (NHRC) established?",
-    "options": {
-      "A": "1991",
-      "B": "1992",
-      "C": "1993",
-      "D": "1994"
+      "A": "2018",
+      "B": "2019",
+      "C": "2020",
+      "D": "2021"
     },
     "answer": ["C"],
-    "explanation": "NHRC की स्थापना 12 अक्टूबर 1993 को 'मानवाधिकार संरक्षण अधिनियम 1993' के अंतर्गत की गई।"
+    "explanation": "आत्मनिर्भर भारत अभियान की घोषणा मई 2020 में COVID-19 महामारी के दौरान प्रधानमंत्री नरेंद्र मोदी ने की थी।"
   },
   {
-    "id": 18,
-    "question": "किस आयोग को 'संविधान की आत्मा' कहा जाता है? / Which commission is called the 'Soul of the Constitution'?",
+    "id": 96,
+    "question": "‘अमृत भारत स्टेशन योजना’ किससे संबंधित है? / The Amrit Bharat Station Scheme is related to what?",
     "options": {
-      "A": "वित्त आयोग / Finance Commission",
-      "B": "चुनाव आयोग / Election Commission",
-      "C": "योजना आयोग / Planning Commission",
-      "D": "लोक सेवा आयोग / Public Service Commission"
+      "A": "रेलवे स्टेशनों के पुनर्विकास से",
+      "B": "स्मार्ट शहरों के निर्माण से",
+      "C": "हवाई अड्डों के आधुनिकीकरण से",
+      "D": "बंदरगाहों के विकास से"
+    },
+    "answer": ["A"],
+    "explanation": "अमृत भारत स्टेशन योजना भारतीय रेलवे स्टेशनों के पुनर्विकास एवं आधुनिकीकरण से संबंधित है। इसका उद्देश्य यात्रियों की सुविधाओं को उन्नत करना है।"
+  },
+  {
+    "id": 97,
+    "question": "उत्तर प्रदेश की किस प्रमुख नदियों में से हाल ही में (2025) जल गुणवत्ता सुधार के लिए विशेष योजना शुरू की गई है? / Which major rivers of Uttar Pradesh have recently (2025) been targeted for water quality improvement projects?",
+    "options": {
+      "A": "गंगा (Ganga)",
+      "B": "यमुना (Yamuna)",
+      "C": "सरयू (Saryu)",
+      "D": "घाघरा (Ghaghara)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "2025 में उत्तर प्रदेश सरकार ने गंगा और यमुना में जल गुणवत्ता सुधार के लिए विशेष योजना शुरू की। इस पहल का उद्देश्य प्रदूषण नियंत्रण, औद्योगिक कचरे का प्रबंधन और नदी पारिस्थितिकी सुधार है। सरयू और घाघरा में भी योजनाएँ हैं, लेकिन अभी प्राथमिक फोकस गंगा और यमुना पर है।"
+  },
+  {
+    "id": 98,
+    "question": "UP के किस जिले में 2025 में पहला स्मार्ट एग्रीकल्चर हब स्थापित किया गया? / In which district of UP was the first Smart Agriculture Hub established in 2025?",
+    "options": {
+      "A": "कानपुर (Kanpur)",
+      "B": "लखनऊ (Lucknow)",
+      "C": "मेरठ (Meerut)",
+      "D": "आगरा (Agra)"
+    },
+    "answer": ["C"],
+    "explanation": "मेरठ जिले में 2025 में पहला स्मार्ट एग्रीकल्चर हब स्थापित किया गया। यह हब किसानों को डिजिटल कृषि उपकरण, डेटा एनालिटिक्स और स्मार्ट खेती के लिए प्रशिक्षण प्रदान करता है।"
+  },
+  {
+    "id": 99,
+    "question": "UP में हाल ही में (2025) कौन-सा कृषि-उत्पादन केंद्र 'राज्य का जैविक कृषि केंद्र' घोषित किया गया? / Which agricultural production center in UP was recently (2025) declared as 'State Organic Agriculture Center'?",
+    "options": {
+      "A": "वाराणसी (Varanasi)",
+      "B": "मथुरा (Mathura)",
+      "C": "सहारनपुर (Saharanpur)",
+      "D": "फिरोजाबाद (Firozabad)"
+    },
+    "answer": ["C"],
+    "explanation": "सहारनपुर जिले को 2025 में 'राज्य का जैविक कृषि केंद्र' घोषित किया गया। इसका उद्देश्य जैविक खेती को बढ़ावा देना और किसानों को नई तकनीकों में प्रशिक्षित करना है।"
+  },
+  {
+    "id": 100,
+    "question": "निम्नलिखित में से कौन-से UP के जिले 2025 में जल संरक्षण और हरित ऊर्जा के लिए 'ग्रीन ज़ोन' के रूप में चुने गए? / Which of the following districts of UP have been selected as 'Green Zones' for water conservation and green energy in 2025?",
+    "options": {
+      "A": "सुल्तानपुर (Sultanpur)",
+      "B": "महराजगंज (Maharajganj)",
+      "C": "कन्नौज (Kannauj)",
+      "D": "बुलंदशहर (Bulandshahr)"
+    },
+    "answer": ["B", "C"],
+    "explanation": "2025 में महाराजगंज और कन्नौज को जल संरक्षण और हरित ऊर्जा के लिए 'ग्रीन ज़ोन' घोषित किया गया। इसमें सौर ऊर्जा उत्पादन, जल पुनर्चक्रण और हरित कृषि को बढ़ावा देने के उपाय शामिल हैं।"
+  },
+  {
+    "id": 101,
+    "question": "UP में किस जिले को 2025 में 'इनोवेशन हब' के रूप में राज्य सरकार ने विकसित किया है? / Which district in UP has been developed as an 'Innovation Hub' by the state government in 2025?",
+    "options": {
+      "A": "लखनऊ (Lucknow)",
+      "B": "नोएडा (Noida)",
+      "C": "गोरखपुर (Gorakhpur)",
+      "D": "अलीगढ़ (Aligarh)"
     },
     "answer": ["B"],
-    "explanation": "डॉ. राजेन्द्र प्रसाद ने चुनाव आयोग को 'संविधान की आत्मा' कहा था।"
+    "explanation": "नोएडा को 2025 में 'इनोवेशन हब' के रूप में विकसित किया गया। यह हब स्टार्टअप, टेक्नोलॉजी और डिजिटल इनोवेशन को बढ़ावा देने के लिए बनाया गया है। लखनऊ और गोरखपुर में भी प्रौद्योगिकी केंद्र हैं, लेकिन नोएडा को विशेष राज्य मान्यता प्राप्त है।"
   },
   {
-    "id": 19,
-    "question": "लोकसभा व राज्यसभा की लोक लेखा समिति (PAC) किस प्रकार का निकाय है? / PAC of Lok Sabha and Rajya Sabha is what type of body?",
+    "id": 102,
+    "question": "UP में 2025 में किस जिले को 'कृषि विश्वविद्यालय मॉडल' के तहत स्मार्ट फसल प्रणाली लागू करने के लिए चुना गया? / Which district in UP was selected in 2025 to implement smart crop systems under the 'Agriculture University Model'?",
     "options": {
-      "A": "संवैधानिक / Constitutional",
-      "B": "वैधानिक / Statutory",
-      "C": "अधिसूचित / Notified",
-      "D": "गैर-संवैधानिक / Non-Constitutional"
+      "A": "कानपुर (Kanpur)",
+      "B": "मेरठ (Meerut)",
+      "C": "फर्रुखाबाद (Farrukhabad)",
+      "D": "वाराणसी (Varanasi)"
+    },
+    "answer": ["A", "D"],
+    "explanation": "कानपुर और वाराणसी दोनों जिलों में कृषि विश्वविद्यालय मॉडल के तहत स्मार्ट फसल प्रणाली लागू की गई। इसका उद्देश्य किसानों को तकनीकी मदद देना और कृषि उत्पादकता बढ़ाना है।"
+  },
+  {
+    "id": 103,
+    "question": "UP में 2025 में किस जिले में 'सौर ऊर्जा पार्क' का विस्तार किया गया? / In which district of UP was the 'Solar Energy Park' expanded in 2025?",
+    "options": {
+      "A": "अयोध्या (Ayodhya)",
+      "B": "कन्नौज (Kannauj)",
+      "C": "सहारनपुर (Saharanpur)",
+      "D": "बाराबंकी (Barabanki)"
+    },
+    "answer": ["B", "C"],
+    "explanation": "कन्नौज और सहारनपुर में सौर ऊर्जा पार्क का विस्तार किया गया। इस पहल से स्थानीय बिजली उत्पादन बढ़ा और हरित ऊर्जा को बढ़ावा मिला।"
+  },
+  {
+    "id": 104,
+    "question": "उत्तर प्रदेश में 2025 में किस जिले को 'इको-टूरिज्म हब' के रूप में विकसित किया गया? / Which district in Uttar Pradesh was developed as an 'Eco-Tourism Hub' in 2025?",
+    "options": {
+      "A": "चित्रकूट (Chitrakoot)",
+      "B": "बांदा (Banda)",
+      "C": "फर्रुखाबाद (Farrukhabad)",
+      "D": "सुल्तानपुर (Sultanpur)"
+    },
+    "answer": ["A"],
+    "explanation": "चित्रकूट को 2025 में 'इको-टूरिज्म हब' के रूप में विकसित किया गया। यह स्थल प्राकृतिक सुंदरता और धार्मिक पर्यटन दोनों को जोड़ता है, जिससे स्थानीय रोजगार और पर्यटन आय बढ़ी है।"
+  },
+  {
+    "id": 105,
+    "question": "UP में हाल ही में (2025) किस जिले में बायोगैस संयंत्रों का नेटवर्क स्थापित किया गया? / In which district of UP has a biogas plant network been recently established (2025)?",
+    "options": {
+      "A": "कानपुर (Kanpur)",
+      "B": "लखीमपुर (Lakhimpur)",
+      "C": "गोंडा (Gonda)",
+      "D": "बाराबंकी (Barabanki)"
+    },
+    "answer": ["B", "C"],
+    "explanation": "लखीमपुर और गोंडा जिलों में बायोगैस संयंत्रों का नेटवर्क स्थापित किया गया। यह किसानों को अपशिष्ट प्रबंधन में मदद करता है और स्वच्छ ऊर्जा उत्पादन को बढ़ावा देता है।"
+  },
+  {
+    "id": 106,
+    "question": "उत्तर प्रदेश में 2025 में किस जिले में 'डिजिटल कृषि मंडी' शुरू की गई? / In which district of Uttar Pradesh was the 'Digital Agriculture Market' launched in 2025?",
+    "options": {
+      "A": "मेरठ (Meerut)",
+      "B": "मथुरा (Mathura)",
+      "C": "फैजाबाद (Faizabad)",
+      "D": "सहारनपुर (Saharanpur)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "मेरठ और मथुरा में 2025 में डिजिटल कृषि मंडी शुरू की गई। इसका उद्देश्य किसानों को सीधे खरीदारों तक पहुंच देना और मध्यस्थता को कम करना है।"
+  },
+  {
+    "id": 107,
+    "question": "UP में 2025 में कौन-से जिले 'क्लाइमेट स्मार्ट एग्रीकल्चर' के लिए चुने गए हैं? / Which districts in UP have been selected for 'Climate Smart Agriculture' in 2025?",
+    "options": {
+      "A": "अलीगढ़ (Aligarh)",
+      "B": "सुल्तानपुर (Sultanpur)",
+      "C": "हरदोई (Hardoi)",
+      "D": "फतेहपुर (Fatehpur)"
+    },
+    "answer": ["B", "C", "D"],
+    "explanation": "सुल्तानपुर, हरदोई और फतेहपुर को 2025 में क्लाइमेट स्मार्ट एग्रीकल्चर के लिए चुना गया। इसमें जल प्रबंधन, सूखा सहिष्णु फसल और पर्यावरणीय तकनीकें शामिल हैं।"
+  },
+  {
+    "id": 108,
+    "question": "UP में 2025 में किस जिले में 'स्मार्ट शहरी जल प्रबंधन योजना' लागू की गई? / In which district of UP was the 'Smart Urban Water Management Scheme' implemented in 2025?",
+    "options": {
+      "A": "लखनऊ (Lucknow)",
+      "B": "कानपुर (Kanpur)",
+      "C": "नोएडा (Noida)",
+      "D": "मेरठ (Meerut)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "लखनऊ और नोएडा में स्मार्ट शहरी जल प्रबंधन योजना लागू की गई। इसका उद्देश्य जल आपूर्ति, अपशिष्ट जल पुनर्चक्रण और स्मार्ट मॉनिटरिंग सिस्टम को बढ़ावा देना है।"
+  },
+  {
+    "id": 109,
+    "question": "UP में हाल ही में 2025 में किस जिले को 'सौर ऊर्जा और पवन ऊर्जा संयोजन केंद्र' घोषित किया गया? / Which district in UP has recently been declared as 'Solar and Wind Energy Hub' in 2025?",
+    "options": {
+      "A": "कन्नौज (Kannauj)",
+      "B": "सहारनपुर (Saharanpur)",
+      "C": "बाराबंकी (Barabanki)",
+      "D": "अलीगढ़ (Aligarh)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "कन्नौज और सहारनपुर को 2025 में सौर और पवन ऊर्जा संयोजन केंद्र के रूप में घोषित किया गया। इसका उद्देश्य नवीकरणीय ऊर्जा उत्पादन को बढ़ावा देना और बिजली आपूर्ति में स्थिरता लाना है।"
+  },
+  {
+    "id": 110,
+    "question": "UP में 2025 में किस जिले में 'बायोफर्टिलाइजर उत्पादन केंद्र' स्थापित किया गया? / In which district of UP was a 'Biofertilizer Production Center' established in 2025?",
+    "options": {
+      "A": "फर्रुखाबाद (Farrukhabad)",
+      "B": "महोबा (Mahoba)",
+      "C": "सुल्तानपुर (Sultanpur)",
+      "D": "कुशीनगर (Kushinagar)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "फर्रुखाबाद और सुल्तानपुर जिलों में बायोफर्टिलाइजर उत्पादन केंद्र स्थापित किए गए। ये केंद्र किसानों को जैविक खाद उपलब्ध कराते हैं और रासायनिक उर्वरक पर निर्भरता कम करते हैं।"
+  },
+  {
+    "id": 111,
+    "question": "UP में हाल ही में 2025 में किस जिले को 'कृषि डेटा सेंटर' के रूप में विकसित किया गया? / Which district in UP was recently developed as an 'Agriculture Data Center' in 2025?",
+    "options": {
+      "A": "मेरठ (Meerut)",
+      "B": "लखनऊ (Lucknow)",
+      "C": "कानपुर (Kanpur)",
+      "D": "फतेहपुर (Fatehpur)"
+    },
+    "answer": ["B", "C"],
+    "explanation": "लखनऊ और कानपुर को 2025 में कृषि डेटा सेंटर के रूप में विकसित किया गया। इसका उद्देश्य किसानों के लिए फसल डेटा, बाजार मूल्य और तकनीकी जानकारी उपलब्ध कराना है।"
+  },
+  {
+    "id": 112,
+    "question": "UP में हाल ही में 2025 में किस जिले में 'स्मार्ट पोल्ट्री फार्म नेटवर्क' स्थापित किया गया? / In which district of UP was the 'Smart Poultry Farm Network' established in 2025?",
+    "options": {
+      "A": "मेरठ (Meerut)",
+      "B": "सहारनपुर (Saharanpur)",
+      "C": "आगरा (Agra)",
+      "D": "कुशीनगर (Kushinagar)"
+    },
+    "answer": ["C", "D"],
+    "explanation": "आगरा और कुशीनगर में 2025 में स्मार्ट पोल्ट्री फार्म नेटवर्क स्थापित किया गया। इसका उद्देश्य उत्पादन बढ़ाना, रोग नियंत्रण करना और पोल्ट्री प्रबंधन को डिजिटल बनाना है।"
+  },
+  {
+    "id": 113,
+    "question": "UP में हाल ही में 2025 में किस जिले में 'स्मार्ट मछली पालन परियोजना' शुरू की गई? / In which district of UP was the 'Smart Fisheries Project' started in 2025?",
+    "options": {
+      "A": "बाराबंकी (Barabanki)",
+      "B": "फर्रुखाबाद (Farrukhabad)",
+      "C": "गोंडा (Gonda)",
+      "D": "कन्नौज (Kannauj)"
+    },
+    "answer": ["B", "C"],
+    "explanation": "फर्रुखाबाद और गोंडा में 2025 में स्मार्ट मछली पालन परियोजना शुरू की गई। यह परियोजना आधुनिक तकनीक और फीड प्रबंधन के जरिए मछली उत्पादन बढ़ाने पर केंद्रित है।"
+  },
+  {
+    "id": 114,
+    "question": "UP में हाल ही में 2025 में किस जिले को 'स्मार्ट हरित बाजार योजना' के तहत विकसित किया गया? / Which district in UP was developed under the 'Smart Green Market Scheme' in 2025?",
+    "options": {
+      "A": "मथुरा (Mathura)",
+      "B": "सुल्तानपुर (Sultanpur)",
+      "C": "कानपुर (Kanpur)",
+      "D": "फतेहपुर (Fatehpur)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "मथुरा और कानपुर को 2025 में स्मार्ट हरित बाजार योजना के तहत विकसित किया गया। इसका उद्देश्य कृषि उत्पादों की बिक्री को डिजिटल बनाना और किसानों की आय बढ़ाना है।"
+  },
+  {
+    "id": 115,
+    "question": "UP में 2025 में किस जिले में 'कृषि वॉटर हार्वेस्टिंग योजना' लागू की गई? / In which district of UP was the 'Agriculture Water Harvesting Scheme' implemented in 2025?",
+    "options": {
+      "A": "सुल्तानपुर (Sultanpur)",
+      "B": "हरदोई (Hardoi)",
+      "C": "फर्रुखाबाद (Farrukhabad)",
+      "D": "गोंडा (Gonda)"
+    },
+    "answer": ["B", "D"],
+    "explanation": "हरदोई और गोंडा जिलों में 2025 में कृषि वॉटर हार्वेस्टिंग योजना लागू की गई। इसका उद्देश्य वर्षा जल संचयन और सिंचाई क्षमता बढ़ाना है।"
+  },
+  {
+    "id": 116,
+    "question": "UP में हाल ही में 2025 में किस जिले में 'स्मार्ट फूड प्रोसेसिंग हब' विकसित किया गया? / In which district of UP was the 'Smart Food Processing Hub' developed in 2025?",
+    "options": {
+      "A": "लखनऊ (Lucknow)",
+      "B": "नोएडा (Noida)",
+      "C": "अलीगढ़ (Aligarh)",
+      "D": "मेरठ (Meerut)"
+    },
+    "answer": ["C", "D"],
+    "explanation": "अलीगढ़ और मेरठ में 2025 में स्मार्ट फूड प्रोसेसिंग हब विकसित किया गया। इसका उद्देश्य स्थानीय कृषि उत्पादों का प्रोसेसिंग और मूल्यवर्धन करना है।"
+  },
+  {
+    "id": 117,
+    "question": "UP में हाल ही में 2025 में किस जिले में 'स्मार्ट सॉयल हेल्थ परियोजना' शुरू की गई? / In which district of UP was the 'Smart Soil Health Project' started in 2025?",
+    "options": {
+      "A": "कानपुर (Kanpur)",
+      "B": "फर्रुखाबाद (Farrukhabad)",
+      "C": "सुल्तानपुर (Sultanpur)",
+      "D": "गोंडा (Gonda)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "कानपुर, फर्रुखाबाद और सुल्तानपुर में 2025 में स्मार्ट सॉयल हेल्थ परियोजना शुरू की गई। इसका उद्देश्य मिट्टी की उर्वरता की जांच करना और किसानों को वैज्ञानिक उपाय सुझाना है।"
+  },
+  {
+    "id": 118,
+    "question": "UP में हाल ही में 2025 में किस जिले को 'स्मार्ट हाइड्रोपोनिक्स फार्मिंग हब' घोषित किया गया? / Which district in UP was declared as 'Smart Hydroponics Farming Hub' in 2025?",
+    "options": {
+      "A": "मेरठ (Meerut)",
+      "B": "नोएडा (Noida)",
+      "C": "लखनऊ (Lucknow)",
+      "D": "अलीगढ़ (Aligarh)"
+    },
+    "answer": ["B", "D"],
+    "explanation": "नोएडा और अलीगढ़ को 2025 में स्मार्ट हाइड्रोपोनिक्स फार्मिंग हब घोषित किया गया। यह आधुनिक खेती तकनीक और पानी बचाने वाली विधियों के लिए केंद्रित है।"
+  },
+  {
+    "id": 119,
+    "question": "UP में 2025 में किस जिले में 'स्मार्ट पोल्ट्री और डेयरी इंटीग्रेशन प्रोजेक्ट' लागू किया गया? / In which district of UP was the 'Smart Poultry and Dairy Integration Project' implemented in 2025?",
+    "options": {
+      "A": "सहारनपुर (Saharanpur)",
+      "B": "मेरठ (Meerut)",
+      "C": "आगरा (Agra)",
+      "D": "कुशीनगर (Kushinagar)"
+    },
+    "answer": ["C", "D"],
+    "explanation": "आगरा और कुशीनगर में 2025 में स्मार्ट पोल्ट्री और डेयरी इंटीग्रेशन प्रोजेक्ट लागू किया गया। इसका उद्देश्य पोल्ट्री और डेयरी प्रोडक्शन को संयुक्त रूप से प्रबंधित करना और उत्पादन बढ़ाना है।"
+  },
+  {
+    "id": 120,
+    "question": "UP में 2025 में किस जिले को 'स्मार्ट फिशरीज और जल कृषि हब' के रूप में विकसित किया गया? / Which district in UP was developed as 'Smart Fisheries and Aquaculture Hub' in 2025?",
+    "options": {
+      "A": "फर्रुखाबाद (Farrukhabad)",
+      "B": "गोंडा (Gonda)",
+      "C": "कन्नौज (Kannauj)",
+      "D": "सुल्तानपुर (Sultanpur)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "फर्रुखाबाद और गोंडा जिलों को 2025 में स्मार्ट फिशरीज और जल कृषि हब के रूप में विकसित किया गया। यह परियोजना आधुनिक मछली पालन तकनीक, जल प्रबंधन और उत्पादकता बढ़ाने पर केंद्रित है।"
+  },
+  {
+    "id": 121,
+    "question": "उत्तर प्रदेश में 2025 में किस जिले में 'स्मार्ट सॉयल हेल्थ परियोजना' शुरू की गई? / In which district of Uttar Pradesh was the 'Smart Soil Health Project' started in 2025?",
+    "options": {
+      "A": "कानपुर (Kanpur)",
+      "B": "फर्रुखाबाद (Farrukhabad)",
+      "C": "सुल्तानपुर (Sultanpur)",
+      "D": "गोंडा (Gonda)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "कानपुर, फर्रुखाबाद और सुल्तानपुर में 2025 में स्मार्ट सॉयल हेल्थ परियोजना शुरू की गई। इसका उद्देश्य मिट्टी की उर्वरता की जांच करना और किसानों को वैज्ञानिक उपाय सुझाना है।"
+  },
+  {
+    "id": 122,
+    "question": "उत्तर प्रदेश में 2025 में किस जिले में 'स्मार्ट हाइड्रोपोनिक्स फार्मिंग हब' घोषित किया गया? / Which district in Uttar Pradesh was declared as 'Smart Hydroponics Farming Hub' in 2025?",
+    "options": {
+      "A": "मेरठ (Meerut)",
+      "B": "नोएडा (Noida)",
+      "C": "लखनऊ (Lucknow)",
+      "D": "अलीगढ़ (Aligarh)"
+    },
+    "answer": ["B", "D"],
+    "explanation": "नोएडा और अलीगढ़ को 2025 में स्मार्ट हाइड्रोपोनिक्स फार्मिंग हब घोषित किया गया। यह आधुनिक खेती तकनीक और पानी बचाने वाली विधियों के लिए केंद्रित है।"
+  },
+  {
+    "id": 123,
+    "question": "उत्तर प्रदेश में 2025 में किस जिले में 'स्मार्ट पोल्ट्री और डेयरी इंटीग्रेशन प्रोजेक्ट' लागू किया गया? / In which district of Uttar Pradesh was the 'Smart Poultry and Dairy Integration Project' implemented in 2025?",
+    "options": {
+      "A": "सहारनपुर (Saharanpur)",
+      "B": "मेरठ (Meerut)",
+      "C": "आगरा (Agra)",
+      "D": "कुशीनगर (Kushinagar)"
+    },
+    "answer": ["C", "D"],
+    "explanation": "आगरा और कुशीनगर में 2025 में स्मार्ट पोल्ट्री और डेयरी इंटीग्रेशन प्रोजेक्ट लागू किया गया। इसका उद्देश्य पोल्ट्री और डेयरी प्रोडक्शन को संयुक्त रूप से प्रबंधित करना और उत्पादन बढ़ाना है।"
+  },
+  {
+    "id": 124,
+    "question": "उत्तर प्रदेश में 2025 में किस जिले में 'स्मार्ट फिशरीज और जल कृषि हब' के रूप में विकसित किया गया? / Which district in Uttar Pradesh was developed as 'Smart Fisheries and Aquaculture Hub' in 2025?",
+    "options": {
+      "A": "फर्रुखाबाद (Farrukhabad)",
+      "B": "गोंडा (Gonda)",
+      "C": "कन्नौज (Kannauj)",
+      "D": "सुल्तानपुर (Sultanpur)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "फर्रुखाबाद और गोंडा जिलों को 2025 में स्मार्ट फिशरीज और जल कृषि हब के रूप में विकसित किया गया। यह परियोजना आधुनिक मछली पालन तकनीक, जल प्रबंधन और उत्पादकता बढ़ाने पर केंद्रित है।"
+  },
+  {
+    "id": 125,
+    "question": "उत्तर प्रदेश में 2025 में किस जिले में 'स्मार्ट हरित बाजार योजना' के तहत विकसित किया गया? / Which district in Uttar Pradesh was developed under the 'Smart Green Market Scheme' in 2025?",
+    "options": {
+      "A": "मथुरा (Mathura)",
+      "B": "सुल्तानपुर (Sultanpur)",
+      "C": "कानपुर (Kanpur)",
+      "D": "फतेहपुर (Fatehpur)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "मथुरा और कानपुर को 2025 में स्मार्ट हरित बाजार योजना के तहत विकसित किया गया। इसका उद्देश्य कृषि उत्पादों की बिक्री को डिजिटल बनाना और किसानों की आय बढ़ाना है।"
+  },
+  {
+    "id": 126,
+    "question": "उत्तर प्रदेश में 2025 में किस जिले में 'कृषि वॉटर हार्वेस्टिंग योजना' लागू की गई? / In which district of Uttar Pradesh was the 'Agriculture Water Harvesting Scheme' implemented in 2025?",
+    "options": {
+      "A": "सुल्तानपुर (Sultanpur)",
+      "B": "हरदोई (Hardoi)",
+      "C": "फर्रुखाबाद (Farrukhabad)",
+      "D": "गोंडा (Gonda)"
+    },
+    "answer": ["B", "D"],
+    "explanation": "हरदोई और गोंडा जिलों में 2025 में कृषि वॉटर हार्वेस्टिंग योजना लागू की गई। इसका उद्देश्य वर्षा जल संचयन और सिंचाई क्षमता बढ़ाना है।"
+  },
+  {
+    "id": 127,
+    "question": "उत्तर प्रदेश में 2025 में किस जिले में 'स्मार्ट फूड प्रोसेसिंग हब' विकसित किया गया? / Which district in Uttar Pradesh was developed as 'Smart Food Processing Hub' in 2025?",
+    "options": {
+      "A": "लखनऊ (Lucknow)",
+      "B": "नोएडा (Noida)",
+      "C": "अलीगढ़ (Aligarh)",
+      "D": "मेरठ (Meerut)"
+    },
+    "answer": ["C", "D"],
+    "explanation": "अलीगढ़ और मेरठ में 2025 में स्मार्ट फूड प्रोसेसिंग हब विकसित किया गया। इसका उद्देश्य स्थानीय कृषि उत्पादों का प्रोसेसिंग और मूल्यवर्धन करना है।"
+  },
+  {
+    "id": 128,
+    "question": "उत्तर प्रदेश में 2025 में किस जिले में 'स्मार्ट सॉयल हेल्थ परियोजना' शुरू की गई? / In which district of Uttar Pradesh was the 'Smart Soil Health Project' started in 2025?",
+    "options": {
+      "A": "कानपुर (Kanpur)",
+      "B": "फर्रुखाबाद (Farrukhabad)",
+      "C": "सुल्तानपुर (Sultanpur)",
+      "D": "गोंडा (Gonda)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "कानपुर, फर्रुखाबाद और सुल्तानपुर में 2025 में स्मार्ट सॉयल हेल्थ परियोजना शुरू की गई। इसका उद्देश्य मिट्टी की उर्वरता की जांच करना और किसानों को वैज्ञानिक उपाय सुझाना है।"
+  },
+  {
+    "id": 129,
+    "question": "उत्तर प्रदेश में 2025 में किस जिले में 'स्मार्ट हाइड्रोपोनिक्स फार्मिंग हब' घोषित किया गया? / Which district in Uttar Pradesh was declared as 'Smart Hydroponics Farming Hub' in 2025?",
+    "options": {
+      "A": "मेरठ (Meerut)",
+      "B": "नोएडा (Noida)",
+      "C": "लखनऊ (Lucknow)",
+      "D": "अलीगढ़ (Aligarh)"
+    },
+    "answer": ["B", "D"],
+    "explanation": "नोएडा और अलीगढ़ को 2025 में स्मार्ट हाइड्रोपोनिक्स फार्मिंग हब घोषित किया गया। यह आधुनिक खेती तकनीक और पानी बचाने वाली विधियों के लिए केंद्रित है।"
+  },
+  {
+    "id": 130,
+    "question": "उत्तर प्रदेश में 2025 में किस जिले में 'स्मार्ट पोल्ट्री और डेयरी इंटीग्रेशन प्रोजेक्ट' लागू किया गया? / In which district of Uttar Pradesh was the 'Smart Poultry and Dairy Integration Project' implemented in 2025?",
+    "options": {
+      "A": "सहारनपुर (Saharanpur)",
+      "B": "मेरठ (Meerut)",
+      "C": "आगरा (Agra)",
+      "D": "कुशीनगर (Kushinagar)"
+    },
+    "answer": ["C", "D"],
+    "explanation": "आगरा और कुशीनगर में 2025 में स्मार्ट पोल्ट्री और डेयरी इंटीग्रेशन प्रोजेक्ट लागू किया गया। इसका उद्देश्य पोल्ट्री और डेयरी प्रोडक्शन को संयुक्त रूप से प्रबंधित करना और उत्पादन बढ़ाना है।"
+  },
+  {
+    "id": 131,
+    "question": "उत्तर प्रदेश में 2025 में किस जिले में 'स्मार्ट फिशरीज और जल कृषि हब' के रूप में विकसित किया गया? / Which district in Uttar Pradesh was developed as 'Smart Fisheries and Aquaculture Hub' in 2025?",
+    "options": {
+      "A": "फर्रुखाबाद (Farrukhabad)",
+      "B": "गोंडा (Gonda)",
+      "C": "कन्नौज (Kannauj)",
+      "D": "सुल्तानपुर (Sultanpur)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "फर्रुखाबाद और गोंडा जिलों को 2025 में स्मार्ट फिशरीज और जल कृषि हब के रूप में विकसित किया गया। यह परियोजना आधुनिक मछली पालन तकनीक, जल प्रबंधन और उत्पादकता बढ़ाने पर केंद्रित है।"
+  },
+  {
+    "id": 132,
+    "question": "उत्तर प्रदेश में 2025 में किस जिले में 'स्मार्ट हरित बाजार योजना' के तहत विकसित किया गया? / Which district in Uttar Pradesh was developed under the 'Smart Green Market Scheme' in 2025?",
+    "options": {
+      "A": "मथुरा (Mathura)",
+      "B": "सुल्तानपुर (Sultanpur)",
+      "C": "कानपुर (Kanpur)",
+      "D": "फतेहपुर (Fatehpur)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "मथुरा और कानपुर को 2025 में स्मार्ट हरित बाजार योजना के तहत विकसित किया गया।"
+  },
+  {
+    "id": 134,
+    "question": "भारत में 'मेक इन इंडिया' अभियान की शुरुआत किस वर्ष हुई थी?",
+    "options": {
+      "A": "2012",
+      "B": "2014",
+      "C": "2016",
+      "D": "2018"
+    },
+    "answer": ["B"],
+    "explanation": "प्रधानमंत्री नरेंद्र मोदी ने 2014 में 'मेक इन इंडिया' अभियान की शुरुआत की थी, जिसका उद्देश्य भारत को वैश्विक विनिर्माण केंद्र बनाना है।"
+  },
+  {
+    "id": 135,
+    "question": "भारत में 'प्रधानमंत्री जन धन योजना' की शुरुआत किस वर्ष हुई थी?",
+    "options": {
+      "A": "2012",
+      "B": "2014",
+      "C": "2016",
+      "D": "2018"
+    },
+    "answer": ["B"],
+    "explanation": "प्रधानमंत्री नरेंद्र मोदी ने 2014 में 'प्रधानमंत्री जन धन योजना' की शुरुआत की थी, जिसका उद्देश्य वित्तीय समावेशन को बढ़ावा देना है।"
+  },
+  {
+    "id": 136,
+    "question": "भारत में 'स्वच्छ भारत मिशन' की शुरुआत किस वर्ष हुई थी?",
+    "options": {
+      "A": "2012",
+      "B": "2014",
+      "C": "2016",
+      "D": "2018"
+    },
+    "answer": ["B"],
+    "explanation": "प्रधानमंत्री नरेंद्र मोदी ने 2014 में 'स्वच्छ भारत मिशन' की शुरुआत की थी, जिसका उद्देश्य भारत को स्वच्छ और खुले में शौच से मुक्त बनाना है।"
+  },
+  {
+    "id": 137,
+    "question": "भारत में 'उज्ज्वला योजना' की शुरुआत किस वर्ष हुई थी?",
+    "options": {
+      "A": "2012",
+      "B": "2014",
+      "C": "2016",
+      "D": "2018"
+    },
+    "answer": ["C"],
+    "explanation": "प्रधानमंत्री नरेंद्र मोदी ने 2016 में 'उज्ज्वला योजना' की शुरुआत की थी, जिसका उद्देश्य गरीब महिलाओं को रसोई गैस कनेक्शन प्रदान करना है।"
+  },
+  {
+    "id": 138,
+    "question": "भारत में 'प्रधानमंत्री आवास योजना' की शुरुआत किस वर्ष हुई थी?",
+    "options": {
+      "A": "2012",
+      "B": "2014",
+      "C": "2016",
+      "D": "2018"
+    },
+    "answer": ["B"],
+    "explanation": "प्रधानमंत्री नरेंद्र मोदी ने 2014 में 'प्रधानमंत्री आवास योजना' की शुरुआत की थी, जिसका उद्देश्य हर गरीब को पक्का घर प्रदान करना है।"
+  },
+  {
+    "id": 139,
+    "question": "भारत में 'प्रधानमंत्री फसल बीमा योजना' की शुरुआत किस वर्ष हुई थी?",
+    "options": {
+      "A": "2012",
+      "B": "2014",
+      "C": "2016",
+      "D": "2018"
+    },
+    "answer": ["C"],
+    "explanation": "भारत सरकार ने 2016 में 'प्रधानमंत्री फसल बीमा योजना' की शुरुआत की थी, जिसका उद्देश्य किसानों को फसल नुकसान से सुरक्षा प्रदान करना है।"
+  },
+  {
+    "id": 140,
+    "question": "भारत में 'प्रधानमंत्री मुद्रा योजना' की शुरुआत किस वर्ष हुई थी?",
+    "options": {
+      "A": "2012",
+      "B": "2014",
+      "C": "2016",
+      "D": "2018"
+    },
+    "answer": ["B"],
+    "explanation": "प्रधानमंत्री नरेंद्र मोदी ने 2015 में 'प्रधानमंत्री मुद्रा योजना' की शुरुआत की थी, जिसका उद्देश्य छोटे और मझोले उद्यमियों को वित्तीय सहायता प्रदान करना है।"
+  },
+  {
+    "id": 141,
+    "question": "भारत में 'प्रधानमंत्री श्रम योगी मानधन योजना' की शुरुआत किस वर्ष हुई थी?",
+    "options": {
+      "A": "2012",
+      "B": "2014",
+      "C": "2016",
+      "D": "2018"
     },
     "answer": ["D"],
-    "explanation": "लोक लेखा समिति (PAC) गैर-संवैधानिक लेकिन संसदीय परंपरा से गठित समिति है।"
+    "explanation": "भारत सरकार ने 2019 में 'प्रधानमंत्री श्रम योगी मानधन योजना' की शुरुआत की थी, जिसका उद्देश्य असंगठित क्षेत्र के श्रमिकों को पेंशन प्रदान करना है।"
   },
   {
-    "id": 20,
-    "question": "अनुच्छेद 280 के अनुसार वित्त आयोग की सिफारिशों को कौन स्वीकार करता है? / Who accepts the recommendations of the Finance Commission under Article 280?",
+    "id": 142,
+    "question": "भारत में 'प्रधानमंत्री किसान सम्मान निधि योजना' की शुरुआत किस वर्ष हुई थी?",
     "options": {
-      "A": "प्रधानमंत्री / Prime Minister",
-      "B": "संसद / Parliament",
-      "C": "राष्ट्रपति / President",
-      "D": "कैबिनेट / Cabinet"
+      "A": "2012",
+      "B": "2014",
+      "C": "2016",
+      "D": "2019"
+    },
+    "answer": ["D"],
+    "explanation": "भारत सरकार ने 2019 में 'प्रधानमंत्री किसान सम्मान निधि योजना' की शुरुआत की थी, जिसका उद्देश्य किसानों को आय सहायता प्रदान करना है।"
+  },
+  {
+    "id": 143,
+    "question": "भारत में 'प्रधानमंत्री जन आरोग्य योजना' की शुरुआत किस वर्ष हुई थी?",
+    "options": {
+      "A": "2012",
+      "B": "2014",
+      "C": "2016",
+      "D": "2018"
     },
     "answer": ["C"],
-    "explanation": "वित्त आयोग की सिफारिशें राष्ट्रपति को सौंपी जाती हैं और राष्ट्रपति उन्हें संसद में प्रस्तुत करते हैं।"
+    "explanation": "भारत सरकार ने 2018 में 'प्रधानमंत्री जन आरोग्य योजना' की शुरुआत की थी, जिसका उद्देश्य गरीबों को स्वास्थ्य बीमा प्रदान करना है।"
+  },
+  {
+    "id": 144,
+    "question": "भारत में 'प्रधानमंत्री कौशल विकास योजना' की शुरुआत किस वर्ष हुई थी?",
+    "options": {
+      "A": "2012",
+      "B": "2014",
+      "C": "2016",
+      "D": "2018"
+    },
+    "answer": ["B"],
+    "explanation": "भारत सरकार ने 2015 में 'प्रधानमंत्री कौशल विकास योजना' की शुरुआत की थी, जिसका उद्देश्य युवाओं को कौशल प्रशिक्षण प्रदान करना है।"
+  },
+  {
+    "id": 145,
+    "question": "भारत में 'प्रधानमंत्री उज्ज्वला योजना' की शुरुआत किस वर्ष हुई थी?",
+    "options": {
+      "A": "2012",
+      "B": "2014",
+      "C": "2016",
+      "D": "2018"
+    },
+    "answer": ["C"],
+    "explanation": "भारत सरकार ने 2016 में 'प्रधानमंत्री उज्ज्वला योजना' की शुरुआत की थी, जिसका उद्देश्य गरीब महिलाओं को रसोई गैस कनेक्शन प्रदान करना है।"
+  },
+  {
+    "id": 146,
+    "question": "भारत में 'प्रधानमंत्री ग्राम सड़क योजना' की शुरुआत किस वर्ष हुई थी?",
+    "options": {
+      "A": "2012",
+      "B": "2014",
+      "C": "2016",
+      "D": "2018"
+    },
+    "answer": ["B"],
+    "explanation": "भारत सरकार ने 2014 में 'प्रधानमंत्री ग्राम सड़क योजना' की शुरुआत की थी, जिसका उद्देश्य ग्रामीण क्षेत्रों में सड़क संपर्क बढ़ाना है।"
+  },
+  {
+    "id": 147,
+    "question": "भारत में 'प्रधानमंत्री अन्न योजना' की शुरुआत किस वर्ष हुई थी?",
+    "options": {
+      "A": "2012",
+      "B": "2014",
+      "C": "2016",
+      "D": "2018"
+    },
+    "answer": ["C"],
+    "explanation": "भारत सरकार ने 2016 में 'प्रधानमंत्री अन्न योजना' की शुरुआत की थी, जिसका उद्देश्य गरीबों को सस्ता अनाज प्रदान करना है।"
+  },
+  {
+    "id": 148,
+    "question": "भारत में 'प्रधानमंत्री स्वनिधि योजना' की शुरुआत किस वर्ष हुई थी?",
+    "options": {
+      "A": "2012",
+      "B": "2014",
+      "C": "2016",
+      "D": "2020"
+    },
+    "answer": ["D"],
+    "explanation": "भारत सरकार ने 2020 में 'प्रधानमंत्री स्वनिधि योजना' की शुरुआत की थी, जिसका उद्देश्य सड़क विक्रेताओं को वित्तीय सहायता प्रदान करना है।"
+  },
+  {
+    "id": 149,
+    "question": "भारत में 'प्रधानमंत्री आत्मनिर्भर योजना' की शुरुआत किस वर्ष हुई थी?",
+    "options": {
+      "A": "2012",
+      "B": "2014",
+      "C": "2016",
+      "D": "2020"
+    },
+    "answer": ["D"],
+    "explanation": "भारत सरकार ने 2020 में 'प्रधानमंत्री आत्मनिर्भर योजना' की शुरुआत की थी, जिसका उद्देश्य आत्मनिर्भर भारत का निर्माण करना है।"
+  },
+  {
+    "id": 150,
+    "question": "भारत में 'प्रधानमंत्री डिजिटल साक्षरता योजना' की शुरुआत किस वर्ष हुई थी?",
+    "options": {
+      "A": "2012",
+      "B": "2014",
+      "C": "2016",
+      "D": "2018"
+    },
+    "answer": ["C"],
+    "explanation": "भारत सरकार ने 2018 में 'प्रधानमंत्री डिजिटल साक्षरता योजना' की शुरुआत की थी, जिसका उद्देश्य ग्रामीण क्षेत्रों में डिजिटल साक्षरता बढ़ाना है।"
   }
 ]
+
+
+  
+  
+
+
