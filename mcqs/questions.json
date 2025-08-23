@@ -1,483 +1,242 @@
 [
   {
     "id": 1,
-    "question": "मुनशी प्रेमचंद की प्रमुख रचनाएँ कौन-कौन सी हैं? / Which are the major works of Munshi Premchand?",
+    "question": "भारतीय संविधान में केंद्र-राज्य संबंधों को किस भाग में वर्णित किया गया है? / In which part of the Indian Constitution are Centre-State relations described?",
     "options": {
-      "A": "गोदान / Godaan",
-      "B": "रंगभूमि / Rangbhoomi",
-      "C": "गबन / Gaban",
-      "D": "मधुशाला / Madhushala"
+      "A": "भाग IX (Part IX)",
+      "B": "भाग XI (Part XI)",
+      "C": "भाग XII (Part XII)",
+      "D": "भाग XIV (Part XIV)"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "मुनशी प्रेमचंद की प्रमुख रचनाएँ गोदान, रंगभूमि, गबन हैं, मधुशाला हरिवंश राय बच्चन की कृति है।"
+    "answer": ["B"],
+    "explanation": "केंद्र-राज्य संबंधों का वर्णन संविधान के भाग XI (अनुच्छेद 245 से 263 तक) में किया गया है। इसमें विधायी, प्रशासनिक और वित्तीय संबंध शामिल हैं।"
   },
   {
     "id": 2,
-    "question": "महादेवी वर्मा किस साहित्यिक आन्दोलन से जुड़ी थीं? / Mahadevi Verma was associated with which literary movement?",
+    "question": "अनुच्छेद 246 किस विषय से संबंधित है? / Article 246 is related to which subject?",
     "options": {
-      "A": "छायावाद / Chhayavaad",
-      "B": "आधुनिकवाद / Modernism",
-      "C": "रियलिज़्म / Realism",
-      "D": "प्रगतिशील / Progressive"
+      "A": "न्यायपालिका की स्वतंत्रता / Independence of Judiciary",
+      "B": "विधायी शक्तियों का विभाजन / Distribution of Legislative Powers",
+      "C": "आपातकालीन प्रावधान / Emergency Provisions",
+      "D": "वित्तीय आयोग / Finance Commission"
     },
-    "answer": ["A"],
-    "explanation": "महादेवी वर्मा छायावाद काल की प्रमुख कवयित्री थीं।"
+    "answer": ["B"],
+    "explanation": "अनुच्छेद 246 में संसद और राज्य विधानमंडल की विधायी शक्तियों का विभाजन यूनियन लिस्ट, स्टेट लिस्ट और कॉन्करेंट लिस्ट के आधार पर किया गया है।"
   },
   {
     "id": 3,
-    "question": "रवींद्रनाथ टैगोर की विश्वप्रसिद्ध कृति कौन-सी है? / Which is the world-famous work of Rabindranath Tagore?",
+    "question": "संविधान की सातवीं अनुसूची में कितनी सूचियाँ दी गई हैं? / How many lists are provided in the Seventh Schedule of the Constitution?",
     "options": {
-      "A": "गीतांजलि / Gitanjali",
-      "B": "गोदान / Godaan",
-      "C": "चंद्रकांता / Chandrakanta",
-      "D": "साकेत / Saket"
+      "A": "दो / Two",
+      "B": "तीन / Three",
+      "C": "चार / Four",
+      "D": "पाँच / Five"
     },
-    "answer": ["A"],
-    "explanation": "गीतांजलि रवींद्रनाथ टैगोर की विश्वप्रसिद्ध काव्य-कृति है।"
+    "answer": ["B"],
+    "explanation": "सातवीं अनुसूची में तीन सूचियाँ हैं: संघ सूची (Union List), राज्य सूची (State List), और समवर्ती सूची (Concurrent List)।"
   },
   {
     "id": 4,
-    "question": "सूर्यकांत त्रिपाठी 'निराला' के प्रसिद्ध उपन्यास और कविताएँ कौन-कौन सी हैं? / Famous works of Suryakant Tripathi 'Nirala'?",
+    "question": "अनुच्छेद 263 किस प्रकार के आयोग की स्थापना का प्रावधान करता है? / Article 263 provides for the establishment of which type of commission?",
     "options": {
-      "A": "राम की शक्ति पूजा / Ram Ki Shakti Puja",
-      "B": "सरोज स्मृति / Saroj Smriti",
-      "C": "चंद्रकांता / Chandrakanta",
-      "D": "कोश / Kosh"
+      "A": "वित्त आयोग / Finance Commission",
+      "B": "अंतर-राज्यीय परिषद / Inter-State Council",
+      "C": "नियोजन आयोग / Planning Commission",
+      "D": "चुनाव आयोग / Election Commission"
     },
-    "answer": ["A", "B"],
-    "explanation": "निराला की प्रमुख काव्य कृतियाँ राम की शक्ति पूजा और सरोज स्मृति हैं।"
+    "answer": ["B"],
+    "explanation": "अनुच्छेद 263 केंद्र और राज्यों के बीच समन्वय एवं विवाद निवारण के लिए अंतर-राज्यीय परिषद (Inter-State Council) की स्थापना का प्रावधान करता है।"
   },
   {
     "id": 5,
-    "question": "आधुनिक हिंदी के प्रमुख कहानीकार कौन हैं? / Who are the major modern Hindi story writers?",
+    "question": "भारत का वित्त आयोग कितने वर्षों के अंतराल पर गठित किया जाता है? / The Finance Commission of India is constituted at intervals of how many years?",
     "options": {
-      "A": "मुनशी प्रेमचंद / Munshi Premchand",
-      "B": "राजेंद्र यादव / Rajendra Yadav",
-      "C": "फणीश्वर नाथ 'रेणु' / Phanishwar Nath 'Renu'",
-      "D": "सूर्यकांत त्रिपाठी 'निराला' / Suryakant Tripathi 'Nirala'"
+      "A": "हर 2 वर्ष / Every 2 years",
+      "B": "हर 5 वर्ष / Every 5 years",
+      "C": "हर 10 वर्ष / Every 10 years",
+      "D": "राष्ट्रपति की इच्छा पर / At the discretion of the President"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "प्रेमचंद, राजेंद्र यादव और रेणु आधुनिक हिंदी कहानी के प्रमुख लेखक हैं।"
+    "answer": ["B"],
+    "explanation": "अनुच्छेद 280 के तहत राष्ट्रपति प्रत्येक 5 वर्षों पर या आवश्यकता अनुसार वित्त आयोग का गठन करते हैं।"
   },
   {
     "id": 6,
-    "question": "फणीश्वर नाथ 'रेणु' का प्रसिद्ध उपन्यास कौन-सा है? / Famous novel of Phanishwar Nath 'Renu'?",
+    "question": "किस अनुच्छेद में वित्त आयोग का प्रावधान है? / Finance Commission is provided under which Article?",
     "options": {
-      "A": "मैला आँचल / Maila Anchal",
-      "B": "गोदान / Godaan",
-      "C": "राग दरबारी / Raag Darbari",
-      "D": "नदी के द्वीप / Nadi Ke Dweep"
+      "A": "अनुच्छेद 280 / Article 280",
+      "B": "अनुच्छेद 281 / Article 281",
+      "C": "अनुच्छेद 282 / Article 282",
+      "D": "अनुच्छेद 283 / Article 283"
     },
     "answer": ["A"],
-    "explanation": "फणीश्वर नाथ 'रेणु' का प्रसिद्ध उपन्यास मैला आँचल है।"
+    "explanation": "अनुच्छेद 280 राष्ट्रपति को वित्त आयोग की स्थापना का अधिकार देता है।"
   },
   {
     "id": 7,
-    "question": "राजेंद्र यादव किस साहित्यिक आन्दोलन से जुड़े थे? / Rajendra Yadav was associated with which literary movement?",
+    "question": "किस अनुच्छेद के अंतर्गत राष्ट्रपति राज्यों के बीच विवाद निपटाने के लिए सर्वोच्च न्यायालय को संदर्भ भेज सकते हैं? / Under which Article can the President refer disputes between states to the Supreme Court?",
     "options": {
-      "A": "प्रगतिशील / Progressive",
-      "B": "आधुनिक / Modern",
-      "C": "छायावादी / Chhayavaad",
-      "D": "रूमानी / Romantic"
+      "A": "अनुच्छेद 143 / Article 143",
+      "B": "अनुच्छेद 131 / Article 131",
+      "C": "अनुच्छेद 263 / Article 263",
+      "D": "अनुच्छेद 262 / Article 262"
     },
     "answer": ["A"],
-    "explanation": "राजेंद्र यादव प्रगतिशील लेखक संघ से जुड़े थे।"
+    "explanation": "अनुच्छेद 143 के अंतर्गत राष्ट्रपति परामर्शी अधिकार का उपयोग करते हुए राज्यों के विवाद सर्वोच्च न्यायालय को भेज सकते हैं।"
   },
   {
     "id": 8,
-    "question": "निर्मला श्रीवास्तव और अज्ञेय के योगदान किस क्षेत्र में प्रमुख हैं? / Major contributions of Nirmala Srivastava and Agyeya?",
+    "question": "अनुच्छेद 262 किस विषय से संबंधित है? / Article 262 is related to which subject?",
     "options": {
-      "A": "काव्य / Poetry",
-      "B": "उपन्यास / Novels",
-      "C": "संगीत / Music",
-      "D": "नाटक / Drama"
+      "A": "जल विवाद / Water Disputes",
+      "B": "वित्तीय आपातकाल / Financial Emergency",
+      "C": "रक्षा शक्तियाँ / Defence Powers",
+      "D": "संविधान संशोधन / Constitutional Amendment"
     },
     "answer": ["A"],
-    "explanation": "अज्ञेय और निर्मला श्रीवास्तव आधुनिक हिंदी काव्य में प्रमुख योगदान देने वाले कवि हैं।"
+    "explanation": "अनुच्छेद 262 संसद को अंतर-राज्यीय नदी जल विवादों के निवारण हेतु कानून बनाने का अधिकार देता है।"
   },
   {
     "id": 9,
-    "question": "अज्ञेय का वास्तविक नाम क्या था? / What was the real name of Agyeya?",
+    "question": "विधायी संबंधों में 'डॉमिनेंसी' का सिद्धांत किस सूची पर लागू होता है? / The principle of 'dominancy' in legislative relations applies to which list?",
     "options": {
-      "A": "सत्यकान्त त्रिपाठी / Satyakant Tripathi",
-      "B": "सूर्यकांत त्रिपाठी / Suryakant Tripathi",
-      "C": "मुनशी प्रेमचंद / Munshi Premchand",
-      "D": "राजेंद्र यादव / Rajendra Yadav"
+      "A": "संघ सूची / Union List",
+      "B": "राज्य सूची / State List",
+      "C": "समवर्ती सूची / Concurrent List",
+      "D": "अनुसूचित सूची / Scheduled List"
     },
-    "answer": ["A"],
-    "explanation": "अज्ञेय का वास्तविक नाम सत्यकान्त त्रिपाठी था।"
+    "answer": ["C"],
+    "explanation": "समवर्ती सूची में यदि संसद और राज्य विधानमंडल दोनों कानून बनाते हैं और उनमें टकराव होता है तो संसद का कानून प्रभावी होता है।"
   },
   {
     "id": 10,
-    "question": "सुमित्रानंदन पंत की प्रमुख शैली कौन-सी है? / Major style of Sumitranandan Pant?",
+    "question": "योजना आयोग (Planning Commission) किस वर्ष स्थापित हुआ था? / In which year was the Planning Commission established?",
     "options": {
-      "A": "छायावादी / Chhayavaadi",
-      "B": "आधुनिक / Modern",
-      "C": "प्रगतिशील / Progressive",
-      "D": "रूमानी / Romantic"
+      "A": "1947",
+      "B": "1950",
+      "C": "1952",
+      "D": "1955"
     },
-    "answer": ["A"],
-    "explanation": "सुमित्रानंदन पंत छायावादी काव्य के प्रमुख कवि हैं।"
+    "answer": ["B"],
+    "explanation": "योजना आयोग 1950 में एक गैर-संवैधानिक और गैर-वैधानिक निकाय के रूप में स्थापित हुआ था।"
   },
   {
     "id": 11,
-    "question": "किशन देव नारायण की प्रमुख काव्य रचनाएँ कौन-सी हैं? / Major works of Kishan Dev Narayan?",
+    "question": "नीति आयोग (NITI Aayog) की स्थापना किस वर्ष की गई? / In which year was NITI Aayog established?",
     "options": {
-      "A": "प्रेमगीत / Premgeet",
-      "B": "सांझी / Saanjhi",
-      "C": "गोदान / Godaan",
-      "D": "राग दरबारी / Raag Darbari"
+      "A": "2013",
+      "B": "2014",
+      "C": "2015",
+      "D": "2016"
     },
-    "answer": ["A", "B"],
-    "explanation": "किशन देव नारायण की प्रमुख रचनाएँ प्रेमगीत और सांझी हैं।"
+    "answer": ["C"],
+    "explanation": "नीति आयोग 1 जनवरी 2015 को योजना आयोग के स्थान पर स्थापित किया गया। यह भी एक गैर-संवैधानिक निकाय है।"
   },
   {
     "id": 12,
-    "question": "राग दरबारी के लेखक कौन हैं? / Who is the author of Raag Darbari?",
+    "question": "चुनाव आयोग का प्रावधान संविधान के किस अनुच्छेद में है? / Election Commission is provided under which Article?",
     "options": {
-      "A": "श्रीलाल शुक्ल / Shrilal Shukla",
-      "B": "मुनशी प्रेमचंद / Munshi Premchand",
-      "C": "फणीश्वर नाथ 'रेणु' / Phanishwar Nath 'Renu'",
-      "D": "राजेंद्र यादव / Rajendra Yadav"
+      "A": "अनुच्छेद 320",
+      "B": "अनुच्छेद 324",
+      "C": "अनुच्छेद 326",
+      "D": "अनुच्छेद 330"
     },
-    "answer": ["A"],
-    "explanation": "राग दरबारी के लेखक श्रीलाल शुक्ल हैं।"
+    "answer": ["B"],
+    "explanation": "अनुच्छेद 324 में चुनाव आयोग का प्रावधान है जो संसद और राज्य विधानमंडलों के चुनाव आयोजित करता है।"
   },
   {
     "id": 13,
-    "question": "महादेवी वर्मा की प्रमुख काव्य कृति कौन-सी है? / Major poetic work of Mahadevi Verma?",
+    "question": "वित्त आयोग के अध्यक्ष की नियुक्ति कौन करता है? / Who appoints the Chairman of the Finance Commission?",
     "options": {
-      "A": "यामा / Yama",
-      "B": "गीतांजलि / Gitanjali",
-      "C": "गोदान / Godaan",
-      "D": "साकेत / Saket"
+      "A": "प्रधानमंत्री / Prime Minister",
+      "B": "लोकसभा अध्यक्ष / Speaker of Lok Sabha",
+      "C": "राष्ट्रपति / President",
+      "D": "सुप्रीम कोर्ट / Supreme Court"
     },
-    "answer": ["A"],
-    "explanation": "महादेवी वर्मा की प्रमुख काव्य कृति यामा है।"
+    "answer": ["C"],
+    "explanation": "वित्त आयोग के अध्यक्ष और सदस्यों की नियुक्ति भारत के राष्ट्रपति द्वारा की जाती है।"
   },
   {
     "id": 14,
-    "question": "सूर्यकांत त्रिपाठी 'निराला' का वास्तविक योगदान किस क्षेत्र में प्रमुख है? / Main contribution of Suryakant Tripathi 'Nirala'?",
+    "question": "संविधान का अनुच्छेद 50 किससे संबंधित है? / Article 50 of the Constitution is related to?",
     "options": {
-      "A": "काव्य / Poetry",
-      "B": "उपन्यास / Novel",
-      "C": "नाटक / Drama",
-      "D": "कहानी / Story"
+      "A": "राज्य नीति निदेशक तत्व / Directive Principles of State Policy",
+      "B": "न्यायपालिका और कार्यपालिका का पृथक्करण / Separation of Judiciary from Executive",
+      "C": "मूल अधिकार / Fundamental Rights",
+      "D": "राज्यपाल की शक्तियाँ / Powers of Governor"
     },
-    "answer": ["A"],
-    "explanation": "निराला का प्रमुख योगदान हिंदी काव्य में है।"
+    "answer": ["B"],
+    "explanation": "अनुच्छेद 50 राज्य नीति के निदेशक तत्वों के अंतर्गत न्यायपालिका को कार्यपालिका से पृथक करने की बात करता है।"
   },
   {
     "id": 15,
-    "question": "आधुनिक हिंदी कहानी में किसका योगदान महत्वपूर्ण माना जाता है? / Whose contribution is considered significant in modern Hindi story writing?",
+    "question": "अनुच्छेद 263 में वर्णित अंतर-राज्यीय परिषद की स्थापना किसकी सिफारिश पर हुई थी? / The Inter-State Council under Article 263 was established on the recommendation of?",
     "options": {
-      "A": "मुनशी प्रेमचंद / Munshi Premchand",
-      "B": "राजेंद्र यादव / Rajendra Yadav",
-      "C": "फणीश्वर नाथ 'रेणु' / Phanishwar Nath 'Renu'",
-      "D": "महादेवी वर्मा / Mahadevi Verma"
+      "A": "सच्चर समिति / Sachar Committee",
+      "B": "सरकारिया आयोग / Sarkaria Commission",
+      "C": "वामन राव समिति / Vaman Rao Committee",
+      "D": "मंडल आयोग / Mandal Commission"
     },
-    "answer": ["A", "B", "C"],
-    "explanation": "प्रेमचंद, राजेंद्र यादव और रेणु आधुनिक हिंदी कहानी के प्रमुख लेखक हैं।"
+    "answer": ["B"],
+    "explanation": "सरकारिया आयोग (1983) की सिफारिश पर 1990 में अंतर-राज्यीय परिषद की स्थापना हुई।"
   },
   {
     "id": 16,
-    "question": "राजेंद्र यादव का प्रसिद्ध उपन्यास कौन-सा है? / Famous novel of Rajendra Yadav?",
+    "question": "केंद्र-राज्य संबंधों की समीक्षा हेतु स्थापित पंची आयोग की स्थापना कब हुई? / When was the Punchhi Commission on Centre-State relations set up?",
     "options": {
-      "A": "हंसते हुए लोग / Haste Hue Log",
-      "B": "मैला आँचल / Maila Anchal",
-      "C": "गोदान / Godaan",
-      "D": "राग दरबारी / Raag Darbari"
+      "A": "2005",
+      "B": "2007",
+      "C": "2009",
+      "D": "2011"
     },
-    "answer": ["A"],
-    "explanation": "राजेंद्र यादव का प्रसिद्ध उपन्यास हंसते हुए लोग है।"
+    "answer": ["B"],
+    "explanation": "पंची आयोग (Second Commission on Centre-State Relations) 2007 में गठित हुआ और 2010 में अपनी रिपोर्ट प्रस्तुत की।"
   },
   {
     "id": 17,
-    "question": "फणीश्वर नाथ 'रेणु' किस क्षेत्र के ग्रामीण जीवन को प्रमुखता से चित्रित करते हैं? / Which life does Phanishwar Nath 'Renu' mostly depict?",
+    "question": "राष्ट्रीय मानवाधिकार आयोग (NHRC) किस वर्ष स्थापित हुआ? / In which year was the National Human Rights Commission (NHRC) established?",
     "options": {
-      "A": "ग्रामीण / Rural",
-      "B": "शहरी / Urban",
-      "C": "महानगरीय / Metropolitan",
-      "D": "प्राचीन / Ancient"
+      "A": "1991",
+      "B": "1992",
+      "C": "1993",
+      "D": "1994"
     },
-    "answer": ["A"],
-    "explanation": "रेणु की कहानियाँ ग्रामीण जीवन की वास्तविक झलक प्रस्तुत करती हैं।"
+    "answer": ["C"],
+    "explanation": "NHRC की स्थापना 12 अक्टूबर 1993 को 'मानवाधिकार संरक्षण अधिनियम 1993' के अंतर्गत की गई।"
   },
   {
     "id": 18,
-    "question": "अज्ञेय किस प्रकार के साहित्य में प्रख्यात थे? / In which literature was Agyeya famous?",
+    "question": "किस आयोग को 'संविधान की आत्मा' कहा जाता है? / Which commission is called the 'Soul of the Constitution'?",
     "options": {
-      "A": "काव्य / Poetry",
-      "B": "उपन्यास / Novel",
-      "C": "नाटक / Drama",
-      "D": "कहानी / Story"
+      "A": "वित्त आयोग / Finance Commission",
+      "B": "चुनाव आयोग / Election Commission",
+      "C": "योजना आयोग / Planning Commission",
+      "D": "लोक सेवा आयोग / Public Service Commission"
     },
-    "answer": ["A"],
-    "explanation": "अज्ञेय आधुनिक हिंदी काव्य के प्रमुख कवि थे।"
+    "answer": ["B"],
+    "explanation": "डॉ. राजेन्द्र प्रसाद ने चुनाव आयोग को 'संविधान की आत्मा' कहा था।"
   },
   {
     "id": 19,
-    "question": "सुमित्रानंदन पंत की छायावादी रचनाओं में प्रमुख विषय क्या हैं? / Major themes in Sumitranandan Pant's Chhayavaadi works?",
+    "question": "लोकसभा व राज्यसभा की लोक लेखा समिति (PAC) किस प्रकार का निकाय है? / PAC of Lok Sabha and Rajya Sabha is what type of body?",
     "options": {
-      "A": "प्रकृति / Nature",
-      "B": "भावनाएँ / Emotions",
-      "C": "सामाजिक मुद्दे / Social Issues",
-      "D": "इतिहास / History"
+      "A": "संवैधानिक / Constitutional",
+      "B": "वैधानिक / Statutory",
+      "C": "अधिसूचित / Notified",
+      "D": "गैर-संवैधानिक / Non-Constitutional"
     },
-    "answer": ["A", "B"],
-    "explanation": "सुमित्रानंदन पंत की छायावादी रचनाओं में प्रकृति और भावनाएँ प्रमुख विषय हैं।"
+    "answer": ["D"],
+    "explanation": "लोक लेखा समिति (PAC) गैर-संवैधानिक लेकिन संसदीय परंपरा से गठित समिति है।"
   },
   {
     "id": 20,
-    "question": "आधुनिक हिंदी के लेखक अज्ञेय का वास्तविक नाम क्या था? / Real name of modern Hindi writer Agyeya?",
+    "question": "अनुच्छेद 280 के अनुसार वित्त आयोग की सिफारिशों को कौन स्वीकार करता है? / Who accepts the recommendations of the Finance Commission under Article 280?",
     "options": {
-      "A": "सत्यकान्त त्रिपाठी / Satyakant Tripathi",
-      "B": "सूर्यकांत त्रिपाठी / Suryakant Tripathi",
-      "C": "राजेंद्र यादव / Rajendra Yadav",
-      "D": "मुनशी प्रेमचंद / Munshi Premchand"
+      "A": "प्रधानमंत्री / Prime Minister",
+      "B": "संसद / Parliament",
+      "C": "राष्ट्रपति / President",
+      "D": "कैबिनेट / Cabinet"
     },
-    "answer": ["A"],
-    "explanation": "अज्ञेय का वास्तविक नाम सत्यकान्त त्रिपाठी था।"
-  },
-  {
-    "id": 21,
-    "question": "मुंशी प्रेमचंद को किस शैली का प्रमुख लेखक माना जाता है?",
-    "options": {
-      "A": "वास्तविकता प्रधान कहानी",
-      "B": "रोमांटिक कविता",
-      "C": "इतिहास आधारित निबंध",
-      "D": "प्रयोगात्मक साहित्य"
-    },
-    "answer": ["A"],
-    "explanation": "मुंशी प्रेमचंद को सामाजिक और यथार्थवादी कहानियों के लिए जाना जाता है।"
-  },
-  {
-    "id": 22,
-    "question": "महादेवी वर्मा को हिंदी साहित्य में किसका प्रतिनिधित्वकर्ता माना जाता है?",
-    "options": {
-      "A": "छायावाद",
-      "B": "आधुनिकवाद",
-      "C": "रियलिज्म",
-      "D": "प्रायोगिक कविता"
-    },
-    "answer": ["A"],
-    "explanation": "महादेवी वर्मा छायावादी कविताओं की प्रमुख लेखिका मानी जाती हैं।"
-  },
-  {
-    "id": 23,
-    "question": "सुमित्रानंदन पंत की कविताओं में कौन सा तत्व प्रमुख रूप से दिखाई देता है?",
-    "options": {
-      "A": "प्रकृति प्रेम",
-      "B": "राजनीतिक आलोचना",
-      "C": "धार्मिक उपदेश",
-      "D": "साइंस फिक्शन"
-    },
-    "answer": ["A"],
-    "explanation": "सुमित्रानंदन पंत की कविताओं में प्रकृति प्रेम और सौंदर्य की झलक स्पष्ट रूप से दिखती है।"
-  },
-  {
-    "id": 24,
-    "question": "सूर्यकांत त्रिपाठी 'निराला' को किस साहित्यिक आंदोलन से जोड़ा जाता है?",
-    "options": {
-      "A": "छायावाद",
-      "B": "आधुनिक हिंदी कविता",
-      "C": "प्रगतिशील आंदोलन",
-      "D": "आधुनिक कहानी"
-    },
-    "answer": ["B"],
-    "explanation": "सूर्यकांत त्रिपाठी 'निराला' आधुनिक हिंदी कविता के अग्रणी कवियों में से हैं।"
-  },
-  {
-    "id": 25,
-    "question": "हरिवंश राय बच्चन की प्रमुख कृति कौन सी है?",
-    "options": {
-      "A": "मधुशाला",
-      "B": "गोदान",
-      "C": "गबन",
-      "D": "राग दरबारी"
-    },
-    "answer": ["A"],
-    "explanation": "हरिवंश राय बच्चन की 'मधुशाला' उनकी सबसे प्रसिद्ध कृति है।"
-  },
-  {
-    "id": 26,
-    "question": "राजेंद्र यादव को हिंदी साहित्य में किसका अग्रणी लेखक माना जाता है?",
-    "options": {
-      "A": "आधुनिक कहानी",
-      "B": "छायावादी कविता",
-      "C": "इतिहास लेखन",
-      "D": "प्रगतिशील कविता"
-    },
-    "answer": ["A"],
-    "explanation": "राजेंद्र यादव आधुनिक हिंदी कहानी के प्रमुख लेखक माने जाते हैं।"
-  },
-  {
-    "id": 27,
-    "question": "महादेवी वर्मा की कौन सी कृति छायावादी कविता का उत्कृष्ट उदाहरण है?",
-    "options": {
-      "A": "यामा",
-      "B": "गोदान",
-      "C": "मधुशाला",
-      "D": "राग दरबारी"
-    },
-    "answer": ["A"],
-    "explanation": "'यामा' महादेवी वर्मा की छायावादी काव्य कृति है।"
-  },
-  {
-    "id": 28,
-    "question": "सुमित्रानंदन पंत का जन्मकाल कौन सा था?",
-    "options": {
-      "A": "1887-1960",
-      "B": "1900-1980",
-      "C": "1890-1950",
-      "D": "1870-1940"
-    },
-    "answer": ["A"],
-    "explanation": "सुमित्रानंदन पंत का जन्म 1900 नहीं बल्कि 1900 के आसपास के समय में हुआ, लेकिन सटीक वर्ष 1900 से थोड़ा पहले 1900-1887 का काल देखा जाता है।"
-  },
-  {
-    "id": 29,
-    "question": "मुंशी प्रेमचंद की कहानी 'गोदान' का मुख्य विषय क्या है?",
-    "options": {
-      "A": "किसानों का जीवन और सामाजिक अन्याय",
-      "B": "राजनीतिक क्रांति",
-      "C": "युवाओं का प्रेम",
-      "D": "धार्मिक अनुष्ठान"
-    },
-    "answer": ["A"],
-    "explanation": "'गोदान' में भारतीय किसानों के जीवन और उनके सामाजिक एवं आर्थिक संघर्षों का यथार्थ चित्रण किया गया है।"
-  },
-  {
-    "id": 30,
-    "question": "सूर्यकांत त्रिपाठी 'निराला' की कविता में प्रमुखता किस तत्व की दिखाई देती है?",
-    "options": {
-      "A": "आधुनिकता और स्वतंत्रता की भावना",
-      "B": "पुरानी परंपरा का संरक्षण",
-      "C": "ऐतिहासिक घटनाओं का विवरण",
-      "D": "प्राकृतिक आपदाएँ"
-    },
-    "answer": ["A"],
-    "explanation": "निराला की कविता में स्वतंत्रता, नवीनता और आधुनिकता की झलक प्रमुख रूप से मिलती है।"
-  },
-  {
-    "id": 31,
-    "question": "हरिवंश राय बच्चन की कविताओं में प्रमुख भाव कौन सा है?",
-    "options": {
-      "A": "आनंद और जीवन के सुख",
-      "B": "दुःख और विलाप",
-      "C": "राजनीतिक आलोचना",
-      "D": "प्राकृतिक चित्रण"
-    },
-    "answer": ["A"],
-    "explanation": "हरिवंश राय बच्चन की कविताओं में जीवन के सुख और आनंद का भाव स्पष्ट रूप से दिखाई देता है।"
-  },
-  {
-    "id": 32,
-    "question": "राजेंद्र यादव ने आधुनिक हिंदी कहानी में क्या नवीनता लाई?",
-    "options": {
-      "A": "सामाजिक यथार्थ और नारी जीवन का चित्रण",
-      "B": "पुरानी कथाओं का पुनर्लेखन",
-      "C": "इतिहास आधारित कथाएँ",
-      "D": "धार्मिक उपदेश"
-    },
-    "answer": ["A"],
-    "explanation": "राजेंद्र यादव ने सामाजिक यथार्थ और नारी जीवन की गहन समस्याओं को आधुनिक कहानी में प्रमुख बनाया।"
-  },
-  {
-    "id": 33,
-    "question": "महादेवी वर्मा की 'नीड़' काव्य कृति किस विषय पर आधारित है?",
-    "options": {
-      "A": "साधुता और मानव जीवन का अंतर्दर्शन",
-      "B": "प्राकृतिक सौंदर्य",
-      "C": "ऐतिहासिक घटनाएँ",
-      "D": "राजनीतिक आंदोलन"
-    },
-    "answer": ["A"],
-    "explanation": "'नीड़' में मानव जीवन, साधुता और आत्मा के अनुभव को चित्रित किया गया है।"
-  },
-  {
-    "id": 34,
-    "question": "सुमित्रानंदन पंत को किस क्षेत्र की कविताओं के लिए प्रसिद्धि मिली?",
-    "options": {
-      "A": "प्रकृति और ग्रामीण जीवन",
-      "B": "शहरी जीवन",
-      "C": "राजनीतिक आंदोलन",
-      "D": "धार्मिक अनुष्ठान"
-    },
-    "answer": ["A"],
-    "explanation": "सुमित्रानंदन पंत की कविताओं में प्राकृतिक सौंदर्य और ग्रामीण जीवन का चित्रण प्रमुख है।"
-  },
-  {
-    "id": 35,
-    "question": "मुंशी प्रेमचंद ने कितनी प्रमुख कहानियों और उपन्यासों की रचना की?",
-    "options": {
-      "A": "लगभग 200 से अधिक",
-      "B": "लगभग 50",
-      "C": "लगभग 100",
-      "D": "लगभग 20"
-    },
-    "answer": ["A"],
-    "explanation": "मुंशी प्रेमचंद ने लगभग 200 से अधिक कहानियाँ और उपन्यास लिखे।"
-  },
-  {
-    "id": 36,
-    "question": "सूर्यकांत त्रिपाठी 'निराला' की प्रमुख कविता कौन सी है?",
-    "options": {
-      "A": "विविधा",
-      "B": "सरोज-संवाद",
-      "C": "सरोजिनी",
-      "D": "राम की कविता"
-    },
-    "answer": ["A"],
-    "explanation": "'विविधा' निराला की प्रमुख कविता है जिसमें आधुनिकता और भावनाओं का मिश्रण मिलता है।"
-  },
-  {
-    "id": 37,
-    "question": "हरिवंश राय बच्चन ने किस माध्यम में साहित्य की लोकप्रियता बढ़ाई?",
-    "options": {
-      "A": "कविता और गीत",
-      "B": "उपन्यास",
-      "C": "नाटक",
-      "D": "निबंध"
-    },
-    "answer": ["A"],
-    "explanation": "हरिवंश राय बच्चन ने कविता और गीतों के माध्यम से साहित्य में लोकप्रियता बढ़ाई।"
-  },
-  {
-    "id": 38,
-    "question": "राजेंद्र यादव ने नारी जीवन की किस स्थिति को प्रमुखता दी?",
-    "options": {
-      "A": "सामाजिक संघर्ष और स्वतंत्रता की खोज",
-      "B": "धार्मिक पंथ",
-      "C": "शहरी जीवन की चुनौतियाँ",
-      "D": "शिक्षा का विस्तार"
-    },
-    "answer": ["A"],
-    "explanation": "राजेंद्र यादव ने अपनी कहानियों में नारी जीवन के सामाजिक संघर्ष और स्वतंत्रता की खोज को प्रमुखता दी।"
-  },
-  {
-    "id": 39,
-    "question": "महादेवी वर्मा ने कौन सा पुरस्कार प्राप्त किया?",
-    "options": {
-      "A": "भारत सरकार का साहित्य अकादमी पुरस्कार",
-      "B": "नोबेल पुरस्कार",
-      "C": "साहित्य फाउंडेशन सम्मान",
-      "D": "केंद्रीय विश्वविद्यालय सम्मान"
-    },
-    "answer": ["A"],
-    "explanation": "महादेवी वर्मा को भारत सरकार का साहित्य अकादमी पुरस्कार प्राप्त हुआ।"
-  },
-  {
-    "id": 40,
-    "question": "सुमित्रानंदन पंत की रचनाओं में किस प्रकार का भाव प्रमुख है?",
-    "options": {
-      "A": "उत्साह और जीवन का आनंद",
-      "B": "दुःख और विरह",
-      "C": "राजनीतिक जागरूकता",
-      "D": "ऐतिहासिक विवरण"
-    },
-    "answer": ["A"],
-    "explanation": "सुमित्रानंदन पंत की कविताओं में उत्साह और जीवन के आनंद का भाव प्रमुख रूप से दिखाई देता है।"
+    "answer": ["C"],
+    "explanation": "वित्त आयोग की सिफारिशें राष्ट्रपति को सौंपी जाती हैं और राष्ट्रपति उन्हें संसद में प्रस्तुत करते हैं।"
   }
 ]
-
