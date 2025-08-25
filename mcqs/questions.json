@@ -1,965 +1,483 @@
 [
-{
-"id": 1,
-"question": "रियल जीडीपी और नॉमिनल जीडीपी के बारे में कौन-से कथन सही हैं? / Which statements about Real GDP and Nominal GDP are correct?",
-"options": {
-"A": "GDP Deflator = (Nominal GDP / Real GDP) × 100",
-"B": "Real GDP is measured at current prices",
-"C": "Nominal GDP removes the effect of inflation",
-"D": "Real GDP is measured at constant prices (base year)"
-},
-"answer": ["A", "D"],
-"explanation": "रियल जीडीपी constant/base year कीमतों पर होती है, इसलिए महँगाई का प्रभाव हट जाता है; नॉमिनल जीडीपी current कीमतों पर होती है। GDP Deflator का मानक सूत्र (Nominal/Real)×100 है। विकल्प B और C उलट हैं, अतः गलत।"
-},
-{
-"id": 2,
-"question": "GVA और GDP के संदर्भ में सही युग्म चुनिए। / Choose the correct pair regarding GVA and GDP.",
-"options": {
-"A": "GDP = Σ(GVA at basic prices) + Product taxes – Product subsidies",
-"B": "GVA at basic prices = GDP at market prices + Product taxes – Product subsidies",
-"C": "GVA excludes depreciation by definition",
-"D": "GDP at factor cost is the headline series used in Indias NAS"
-},
-"answer": ["A"],
-"explanation": "राष्ट्रीय लेखा में GDP (market prices) को GVA (basic prices) में प्रोडक्ट टैक्स जोड़कर और प्रोडक्ट सब्सिडी घटाकर प्राप्त किया जाता है। विकल्प B का साइन उल्टा है; C और D मानक परिभाषाओं/प्रचलन के अनुरूप नहीं हैं।"
-},
-{
-"id": 3,
-"question": "मुद्रास्फीति लक्ष्यीकरण (Inflation Targeting) ढाँचे में भारत का आधिकारिक लक्ष्य क्या है? / What is Indias official inflation target under the IT framework?",
-"options": {
-"A": "4% ± 1%",
-"B": "4% ± 2%",
-"C": "2% ± 2%",
-"D": "6% (fixed, no band)"
-},
-"answer": ["B"],
-"explanation": "भारत में CPI-आधारित मुद्रास्फीति लक्ष्य 4% है, सहनशील दायरा ±2% (यानी 2–6%) है। इसीलिए B सही है।"
-},
-{
-"id": 4,
-"question": "WPI, CPI और IIP के base year के बारे में सही कथन चुनिए। / Select the correct statements about base years of WPI, CPI and IIP.",
-"options": {
-"A": "WPI base year 2011–12 है",
-"B": "CPI-Combined base year 2012=100 है",
-"C": "IIP base year 2011–12 है",
-"D": "तीनों का base year समान 2014–15 है"
-},
-"answer": ["A", "B", "C"],
-"explanation": "प्रचलित आधार वर्ष: WPI=2011–12, CPI(C)=2012, IIP=2011–12। अतः A, B, C सही हैं; D गलत।"
-},
-{
-"id": 5,
-"question": "Core Inflation सामान्यतः किन वस्तुओं को बाहर रखती है? / Core inflation typically excludes which items?",
-"options": {
-"A": "Fuel",
-"B": "Food",
-"C": "Services",
-"D": "Gold and Silver"
-},
-"answer": ["A", "B"],
-"explanation": "कोर CPI प्रायः खाद्य और ईंधन को बाहर रखती है ताकि underlying price pressures का आकलन हो सके। सेवाएँ कोर का हिस्सा हो सकती हैं; सोना–चाँदी अलग कमोडिटी हैं, पर कोर की परिभाषा खाद्य व ईंधन बहिष्करण पर केंद्रित है।"
-},
-{
-"id": 6,
-"question": "MPC (Monetary Policy Committee) के बारे में सही कथन चुनिए। / Choose the correct statements about Indias MPC.",
-"options": {
-"A": "कुल 6 सदस्य होते हैं",
-"B": "गवर्नर के पास casting vote होता है",
-"C": "सभी सदस्य RBI द्वारा नियुक्त होते हैं",
-"D": "मंडेट CPI-आधारित मुद्रास्फीति लक्ष्य पर है"
-},
-"answer": ["A", "B", "D"],
-"explanation": "MPC में 6 सदस्य: 3 RBI पक्ष, 3 बाह्य (केंद्र सरकार द्वारा नियुक्त)। बराबरी की स्थिति में RBI गवर्नर के पास casting vote होता है। इसका लक्ष्य CPI मुद्रास्फीति है। इसलिए C गलत।"
-},
-{
-"id": 7,
-"question": "LAF Corridor में कौन-सा सही क्रम है (floor → policy rate → ceiling)? / What is the correct order in the LAF corridor (floor → policy rate → ceiling)?",
-"options": {
-"A": "MSF → Repo → SDF",
-"B": "SDF → Repo → MSF",
-"C": "Reverse Repo → Repo → MSF",
-"D": "Bank Rate → Repo → Reverse Repo"
-},
-"answer": ["B"],
-"explanation": "वर्तमान ढाँचे में Standing Deposit Facility (SDF) floor है, Repo policy rate है, और Marginal Standing Facility (MSF) ceiling है। अतः B सही।"
-},
-{
-"id": 8,
-"question": "GST के घटक और प्रवाह के बारे में सही युग्म चुनें। / Choose the correct pair about GST components and flow.",
-"options": {
-"A": "Inter-State supply पर IGST लगता है",
-"B": "Intra-State supply पर CGST+SGST/UTGST लगता है",
-"C": "Compensation Cess केवल केंद्र को जाता है और राज्यों से असंबद्ध है",
-"D": "IGST का निपटान केंद्र और गंतव्य राज्य में बाँटा जाता है"
-},
-"answer": ["A", "B", "D"],
-"explanation": "Inter-State पर IGST, Intra-State पर CGST+SGST/UTGST। IGST का निपटान केंद्र व गंतव्य राज्य में बाँटकर होता है। Compensation Cess राज्यों की क्षतिपूर्ति के लिए था/है, इसे C गलत बनाता है।"
-},
-{
-"id": 9,
-"question": "Primary Deficit के बारे में कौन-सा कथन सही है? / Which statement about Primary Deficit is correct?",
-"options": {
-"A": "Primary Deficit = Fiscal Deficit – Interest Payments",
-"B": "Primary Deficit = Revenue Deficit – Capital Expenditure",
-"C": "Primary Deficit नकारात्मक भी हो सकता है",
-"D": "Primary Deficit में ब्याज अदायगी जोड़ दी जाती है"
-},
-"answer": ["A", "C"],
-"explanation": "प्राथमिक घाटा FD से ब्याज भुगतान घटाने पर मिलता है; यदि FD से कम या बराबर ब्याज हो तो प्राथमिक घाटा शून्य/ऋणात्मक भी हो सकता है। B व D गलत परिभाषाएँ हैं।"
-},
-{
-"id": 10,
-"question": "FRBM Act में escape clause का उपयोग किन परिस्थितियों में समझा जाता है? / Under FRBM, escape clause is invoked in which kinds of situations?",
-"options": {
-"A": "राष्ट्रीय सुरक्षा/युद्ध",
-"B": "बड़े पैमाने की प्राकृतिक आपदा",
-"C": "सामान्य चुनावी वर्ष",
-"D": "GDP rebasing"
-},
-"answer": ["A", "B"],
-"explanation": "Escape clause असाधारण परिस्थितियों (जैसे युद्ध, बड़े प्राकृतिक आपदा) में विचलन की अनुमति देता है। सामान्य चुनाव या बेस-वर्ष बदलना इसके अंतर्गत नहीं आता।"
-},
-{
-"id": 11,
-"question": "BoP पहचान (Identity) में कौन-सा कथन सही है? / Which statement fits the Balance of Payments identity?",
-"options": {
-"A": "Current Account + Capital/Financial Account + Errors & Omissions = ΔForex Reserves (with sign)",
-"B": "BoP हमेशा शून्य के बराबर होता है यदि रिज़र्व परिवर्तन साथ शामिल किया जाए",
-"C": "CAD बढ़ने पर, अन्य बात समान रहने पर, रिज़र्व घट सकते हैं",
-"D": "BoP में केवल व्यापार संतुलन शामिल होता है"
-},
-"answer": ["A", "B", "C"],
-"explanation": "BoP पहचान अनुसार खातों का योग (sign convention सहित) रिज़र्व परिवर्तन से समायोजित होता है; समावेशन पर BoP शून्य होता है। CAD बढ़ने पर, वित्तपोषण न हो तो रिज़र्व गिर सकते हैं। D गलत है।"
-},
-{
-"id": 12,
-"question": "Forex Reserves की संरचना में सामान्यत: क्या शामिल है? / What typically composes a countrys forex reserves?",
-"options": {
-"A": "Foreign Currency Assets (FCA)",
-"B": "Gold",
-"C": "SDR & IMF Reserve Tranche",
-"D": "Equity holdings in private foreign firms"
-},
-"answer": ["A", "B", "C"],
-"explanation": "रिज़र्व में FCA, Gold, SDR, IMF Reserve Tranche शामिल होते हैं। निजी विदेशी कंपनियों की equity holdings रिज़र्व का भाग नहीं मानी जातीं।"
-},
-{
-"id": 13,
-"question": "External Sector में Managed Float का सही अर्थ चुनिए। / Choose the correct meaning of Managed Float.",
-"options": {
-"A": "पूरी तरह स्थिर विनिमय दर",
-"B": "पूरी तरह मुक्त-तैरता विनिमय दर, बिना किसी हस्तक्षेप",
-"C": "बाजार-निर्धारित दर जिसमें केंद्रीय बैंक समय-समय पर हस्तक्षेप करता है",
-"D": "Currency board व्यवस्था"
-},
-"answer": ["C"],
-"explanation": "Managed float में विनिमय दर बाजार तय करता है, पर केंद्रीय बैंक अस्थिरता नियंत्रित करने हेतु हस्तक्षेप कर सकता है।"
-},
-{
-"id": 14,
-"question": "FDI बनाम FPI के संदर्भ में सही कथन चुनिए। / Choose the correct statements regarding FDI vs FPI.",
-"options": {
-"A": "आम तौर पर किसी एक कंपनी में 10% या अधिक इक्विटी हिस्सेदारी पर निवेश को FDI माना जाता है",
-"B": "10% से कम इक्विटी हिस्सेदारी सामान्यतः FPI मानी जाती है",
-"C": "FPI दीर्घकालीन नियंत्रण देती है",
-"D": "FDI प्रायः दीर्घकालीन और नियंत्रणकारी प्रकृति का होता है"
-},
-"answer": ["A", "B", "D"],
-"explanation": "FDI सामान्यतः 10%+ के साथ नियंत्रण/प्रभाव दर्शाता है; 10% से कम हिस्सेदारी FPI कहलाती है। FPI नियंत्रण-उन्मुख नहीं होती, इसीलिए C गलत।"
-},
-{
-"id": 15,
-"question": "Indias PPP GDP ranking और sectoral composition के बारे में सही कथन चुनें। / Choose the correct statements about Indias PPP GDP ranking and sectoral composition.",
-"options": {
-"A": "PPP GDP में भारत विश्व में शीर्ष-3 में है",
-"B": "GVA में सेवाओं की हिस्सेदारी 50% से अधिक रही है",
-"C": "कृषि का GVA हिस्सा सेवाओं से consistently अधिक है",
-"D": "उद्योग का GVA हिस्सा सेवाओं से अधिक है"
-},
-"answer": ["A", "B"],
-"explanation": "भारत PPP GDP में शीर्ष-3 (आमतौर पर चीन और अमेरिका के साथ) में रहा है। GVA में सेवाओं का हिस्सा 50%+ के आसपास रहा है। कृषि/उद्योग सेवाओं से कम रहते हैं, अतः C और D गलत।"
-},
-{
-"id": 16,
-"question": "MSP के निर्धारण के संदर्भ में सही कथन चुनिए। / Choose the correct statements regarding MSP determination.",
-"options": {
-"A": "MSP की गणना A2+FL लागत के 1.5 गुना के संदर्भ में की जाती है",
-"B": "C2 में किराए के समतुल्य लागत और स्वामित्व पूँजी लागत शामिल होती है",
-"C": "MSP सभी फसलों के लिए अनिवार्य खरीद की गारंटी देता है",
-"D": "MSP की घोषणा CACP की सिफारिशों पर होती है"
-},
-"answer": ["A", "B", "D"],
-"explanation": "A2+FL (Paid-out cost + Family Labour) का 1.5× एक प्रमुख नीति मानदंड बना। C2 अधिक व्यापक लागत है। CACP सिफारिश देता है; सार्वभौमिक अनिवार्य खरीद नहीं होती, अतः C गलत।"
-},
-{
-"id": 17,
-"question": "PMFBY (फसल बीमा) के बारे में सही कथन कौन-से हैं? / Which are correct about PMFBY?",
-"options": {
-"A": "किसानों का प्रीमियम दर—रबी 1.5%, खरीफ 2%",
-"B": "बागवानी/वार्षिक नकदी फसलों के लिए 5% प्रीमियम",
-"C": "यह Weather-based Index तक सीमित है",
-"D": "क्षेत्रीय उपज-आधारित बीमा मॉडल प्रावधानित है"
-},
-"answer": ["A", "B", "D"],
-"explanation": "PMFBY में किसानों की प्रीमियम दरें रबी 1.5%, खरीफ 2%, वाणिज्यिक/बागवानी 5% रही हैं। यह उपज-आधारित मॉडल पर चलता है; WBCIS अलग स्कीम है—इसलिए C गलत।"
-},
-{
-"id": 18,
-"question": "Core Industries की संख्या और उदाहरण के बारे में सही विकल्प चुनें। / Choose the correct option about number/examples of Core Industries.",
-"options": {
-"A": "कोर इंडस्ट्रीज़ कुल 8 होती हैं",
-"B": "Crude Oil, Refinery Products, Steel इनमें शामिल हैं",
-"C": "Textiles core industry में है",
-"D": "Electricity, Coal और Cement core में हैं"
-},
-"answer": ["A", "B", "D"],
-"explanation": "Core Industries आठ: Coal, Crude Oil, Natural Gas, Refinery Products, Fertilizers, Steel, Cement, Electricity. Textiles इसमें नहीं है।"
-},
-{
-"id": 19,
-"question": "IIP (Index of Industrial Production) के बारे में सही कथन चुनिए। / Choose the correct statements about IIP.",
-"options": {
-"A": "IIP एक मात्रा-सूचकांक है, कीमत-सूचकांक नहीं",
-"B": "IIP में उपयोग Laspeyres-प्रकार वेटिंग स्कीम होती है",
-"C": "IIP सीधे GDP की कीमतों को मापता है",
-"D": "IIP का आधार 2011–12 है"
-},
-"answer": ["A", "B", "D"],
-"explanation": "IIP उत्पादन मात्रा का संकेतक है, कीमत का नहीं; यह Laspeyres-प्रकार पद्धति पर आधारित है; आधार 2011–12 है। C गलत।"
-},
-{
-"id": 20,
-"question": "GST Compensation और Cess के बारे में सही कथन चुनिए। / Choose the correct statements on GST Compensation and Cess.",
-"options": {
-"A": "मूल रूप से राज्यों के राजस्व संरक्षण हेतु 5 वर्ष तक क्षतिपूर्ति व्यवस्था थी",
-"B": "Compensation Cess केवल लग्जरी/डेमेरिट गुड्स पर लगता है",
-"C": "कम्पेंसेशन समाप्ति के बाद भी Cess का कुछ उपयोग ऋण सेवा हेतु जारी रह सकता है",
-"D": "Compensation का IGST से कोई संबंध नहीं था"
-},
-"answer": ["A", "B", "C"],
-"explanation": "GST लागू होने पर राज्यों के राजस्व संरक्षण हेतु 5-वर्षीय क्षतिपूर्ति प्रावधान था; Cess डेमेरिट/लक्जरी वस्तुओं पर लगाया जाता है और ऋण अदायगी हेतु जारी रह सकता है। D गलत।"
-},
-{
-"id": 21,
-"question": "Digital Payments में कौन-से कथन सही हैं? / Which statements are correct about digital payments in India?",
-"options": {
-"A": "UPI तत्काल, 24×7 फंड ट्रांसफर सुविधा देता है",
-"B": "NEFT अब 24×7 उपलब्ध है",
-"C": "RTGS केवल बैंक समय में उपलब्ध है",
-"D": "CBDC (e₹) थोक और खुदरा—दोनों रूपों में पायलट हुआ है"
-},
-"answer": ["A", "B", "D"],
-"explanation": "UPI व NEFT 24×7 उपलब्ध हैं; RTGS भी अब 24×7 है (पुराने पैटर्न के विपरीत), इसलिए C गलत। e₹ के retail/wholesale पायलट हुए हैं।"
-},
-{
-"id": 22,
-"question": "Tax Buoyancy और Tax Elasticity में अंतर का सही विवरण चुनिए। / Choose the correct description of tax buoyancy vs tax elasticity.",
-"options": {
-"A": "Buoyancy नीति-परिवर्तन सहित कर/आय के सह-गति का मापन है",
-"B": "Elasticity केवल आय में परिवर्तन के प्रति कर राजस्व की संवेदनशीलता को मापता है (नीति स्थिर मानकर)",
-"C": "दोनों एक ही अवधारणा हैं",
-"D": "Buoyancy में संरचनात्मक सुधारों का प्रभाव भी शामिल हो सकता है"
-},
-"answer": ["A", "B", "D"],
-"explanation": "Buoyancy व्यापक है नीतिगत बदलावों सहित Elasticity policy-neutral संवेदनशीलता दर्शाती है। C गलत।"
-},
-{
-"id": 23,
-"question": "Disinvestment, Strategic Sale और Privatisation के संबंध में सही विकल्प चुनिए। / Choose the correct option regarding disinvestment, strategic sale and privatisation.",
-"options": {
-"A": "Strategic sale में प्रबंधन नियंत्रण हस्तांतरित हो सकता है",
-"B": "Disinvestment हमेशा निजीकरण ही होता है",
-"C": "Privatisation में सरकारी हिस्सेदारी 50% से कम/शून्य हो सकती है",
-"D": "DIPAM ऐसे लेनदेन का नोडल विभाग है"
-},
-"answer": ["A", "C", "D"],
-"explanation": "Strategic sale में मैनेजमेंट कंट्रोल ट्रांसफर सम्भव; Privatisation में सरकार का नियंत्रण घटता/समाप्त होता है; DIPAM नोडल है। Disinvestment हर बार निजीकरण नहीं होता, इसलिए B गलत।"
-},
-{
-"id": 24,
-"question": "RBI की नीतिगत दरों में कौन-से कथन सही हैं? / Which statements about RBI policy rates are correct?",
-"options": {
-"A": "Repo—LAF का नीतिगत केंद्र है",
-"B": "MSF—तरलता के लिए overnight ceiling है",
-"C": "SDF—कोई कोलैटरल बिना स्वीकार्य जमा सुविधा है",
-"D": "Bank Rate—MSF से कभी भी कम नहीं हो सकता"
-},
-"answer": ["A", "B", "C"],
-"explanation": "Repo नीति केंद् MSF corridor ceiling SDF uncollateralised deposit सुविधा। Bank Rate MSF से सामान्यतः जुड़ा है, पर कभी भी कम नहीं कहना अनिवार्य नियम नहीं—D भ्रामक।"
-},
-{
-"id": 25,
-"question": "Poverty Measurement के बारे में सही कथन चुनिए। / Choose the correct statements on poverty measurement.",
-"options": {
-"A": "Tendulkar Committee पद्धति आधिकारिक रही है",
-"B": "Rangarajan Committee अनुमानों को आधिकारिक रूप नहीं मिला",
-"C": "Multidimensional Poverty Index (MPI) केवल आय पर आधारित होता है",
-"D": "MPI में स्वास्थ्य, शिक्षा और जीवन-स्तर संकेतक शामिल होते हैं"
-},
-"answer": ["A", "B", "D"],
-"explanation": "Tendulkar आधिकारिक; Rangarajan को आधिकारिक स्वीकृति नहीं मिली। MPI बहुआयामी है—स्वास्थ्य, शिक्षा, जीवन-स्तर—इसलिए C गलत।"
-},
-{
-"id": 26,
-"question": "Employment संरचना के संदर्भ में सही कथन चुनें। / Choose the correct statements regarding Indias employment structure.",
-"options": {
-"A": "कृषि में रोजगार-भागीदारी GVA हिस्सेदारी से अधिक रही है",
-"B": "सेवाएँ उच्च GVA शेयर के साथ अपेक्षाकृत कम रोजगार-घनत्व वाली हो सकती हैं",
-"C": "विस्थापित बेरोजगारी (disguised) का संबंध कृषि से जोड़ा जाता है",
-"D": "उद्योग में रोजगार-लोच शून्य ही होती है"
-},
-"answer": ["A", "B", "C"],
-"explanation": "भारत में कृषि में employment share > GVA share सामान्य प्रेक्षण रहा है, सेवाएँ उच्च GVA पर कम रोजगार-घनत्व दिखा सकती हैं; disguised unemployment कृषि से जोड़ा जाता है। उद्योग में रोजगार-लोच शून्य कहना गलत/अतिशय है।"
-},
-{
-"id": 27,
-"question": "External Debt और Sustainability के बारे में कौन-सा कथन सही है? / Which statement on external debt and sustainability is correct?",
-"options": {
-"A": "Short-term debt by original maturity रिज़र्व के मुकाबले ज्यादा होने पर vulnerability बढ़ती है",
-"B": "Debt-service ratio चालू प्राप्तियों के संदर्भ में देनदारियों के भुगतान का अनुपात है",
-"C": "ECB और NRI deposits बाहरी देनदारियों में शामिल हो सकते हैं",
-"D": "Sovereign external debt हमेशा घरेलू मुद्रा में होता है"
-},
-"answer": ["A", "B", "C"],
-"explanation": "अल्पकालिक ऋण/रिज़र्व अनुपात vulnerability सूचक है; debt-service ratio भुगतान दबाव दिखाता है; ECB/NRI deposits बाह्य ऋण का भाग हो सकते हैं। Sovereign external debt अक्सर विदेशी मुद्रा में भी होता है—D गलत।"
-},
-{
-"id": 28,
-"question": "CPI बनाम WPI—कौन-सा कथन सही है? / CPI vs WPI—Which statement is correct?",
-"options": {
-"A": "CPI उपभोक्ता-स्तरीय कीमत मापता है; WPI थोक-स्तर की कीमत",
-"B": "CPI में सेवाएँ शामिल हो सकती हैं; WPI में सेवाएँ नहीं",
-"C": "दोनों सूचक समान टोकरी और वेट्स का प्रयोग करते हैं",
-"D": "नीतिगत लक्ष्यीकरण CPI पर आधारित है"
-},
-"answer": ["A", "B", "D"],
-"explanation": "CPI उपभोक्ता, WPI थोक; CPI में सेवाएँ आती हैं, WPI में नहीं; मौद्रिक लक्ष्य CPI पर है। C गलत।"
-},
-{
-"id": 29,
-"question": "Government Expenditure के संदर्भ में सही जोड़े चुनिए। / Choose the correct pairs for government expenditure.",
-"options": {
-"A": "Capital Expenditure—एसेट/क्षमता सृजन से संबद्ध",
-"B": "Revenue Expenditure—सैलरी, सब्सिडी, ब्याज भुगतान",
-"C": "Grants for Creation of Capital Assets—Revenue section में दिख सकता है",
-"D": "Capital Expenditure—हमेशा revenue deficit बढ़ाता है"
-},
-"answer": ["A", "B", "C"],
-"explanation": "Capex एसेट सृजनोन्मुख; Revenue exp. में सैलरी/सब्सिडी/ब्याज। Grants for Creation of Capital Assets लेखाकर्म में revenue head में होते हुए भी कैपिटल सृजन हेतु होते हैं। D गलत।"
-},
-{
-"id": 30,
-"question": "Agricultural Marketing सुधारों के संदर्भ में सही कथन चुनिए। / Choose the correct statements on agri marketing reforms.",
-"options": {
-"A": "e-NAM एक पैन-इंडिया इलेक्ट्रॉनिक ट्रेडिंग प्लेटफॉर्म है",
-"B": "Standardization/Grading में AGMARK एक महत्वपूर्ण ढाँचा है",
-"C": "APMC मंडी शुल्क e-NAM पर कभी लागू नहीं होता",
-"D": "Warehouse Receipts का उपयोग कोलैटरल के रूप में हो सकता है"
-},
-"answer": ["A", "B", "D"],
-"explanation": "e-NAM एक पैन-इंडिया प्लेटफॉर्म; AGMARK ग्रेडिंग/मानकीकरण फ्रेमवर्क; वेयरहाउस रसीदें कोलैटरल बन सकती हैं। C सार्वत्रिक रूप से सही नहीं है—राज्य व्यवस्थाएँ भिन्न हो सकती हैं।"
-},
-{
-"id": 31,
-"question": "Public Debt Management में कौन-से कथन सही हैं? / Which statements are correct in public debt management?",
-"options": {
-"A": "G-Sec यील्ड कर्व सरकार के उधार की लागत पर संकेत देता है",
-"B": "T-Bills शॉर्ट-टर्म डिस्काउंट इंस्ट्रूमेंट हैं",
-"C": "SDLs राज्यों द्वारा जारी ऋण-पत्र हैं",
-"D": "Ways and Means Advances (WMA) स्थायी पूँजी निवेश साधन हैं"
-},
-"answer": ["A", "B", "C"],
-"explanation": "G-Sec यील्ड कर्व उधारी लागत का संकेतक; T-Bills अल्पावधि डिस्काउंट; SDLs—राज्य बॉन्ड। WMA अल्पकालिक अधिदेय सुविधा है, स्थायी निवेश साधन नहीं—D गलत।"
-},
-{
-"id": 32,
-"question": "Climate Policy साधनों में सही युग्म चुनिए। / Choose the correct pairs among climate policy instruments.",
-"options": {
-"A": "PAT Scheme—Energy efficiency ट्रेडेबल लक्ष्यों के साथ",
-"B": "RECs—नवीकरणीय ऊर्जा दायित्व पूर्ति हेतु",
-"C": "Carbon Pricing—केवल कार्बन टैक्स, ट्रेडिंग नहीं",
-"D": "National Hydrogen Mission—ग्रीन हाइड्रोजन को प्रोत्साहन"
-},
-"answer": ["A", "B", "D"],
-"explanation": "PAT ऊर्जा दक्षता हेतु cap-and-trade जैसी पद्धति; RECs RPO पूर्ति में सहायक; Carbon pricing टैक्स और ट्रेड—दोनों रूप ले सकता है, इसलिए C गलत।"
-},
-{
-"id": 33,
-"question": "Banking Regulation के संदर्भ में सही कथन चुनिए। / Choose the correct statements in banking regulation.",
-"options": {
-"A": "CRR—RBI के पास नकद आरक्षित रखने की अनिवार्यता",
-"B": "SLR—स्वदेशी स्वीकृत प्रतिभूतियाँ/तरल परिसंपत्तियाँ रखना",
-"C": "Prompt Corrective Action (PCA)—कमज़ोर बैंकों पर निगरानी ढाँचा",
-"D": "NBFCs पर RBI का कोई विनियमन नहीं होता"
-},
-"answer": ["A", "B, ", "C"],
-"explanation": "CRR नकद आरक्षित; SLR तरल परिसंपत्तियाँ; PCA कमजोरियों पर corrective ढाँचा। NBFCs पर भी RBI नियमन होता है—D गलत। नोट विकल्प B में अल्पविराम टाइपोग्राफिकल है पर सही विकल्प B ही है।"
-},
-{
-"id": 34,
-"question": "Fiscal Federalism—कौन-से कथन सही हैं? / Which statements are correct on fiscal federalism?",
-"options": {
-"A": "Finance Commission—केंद्र-राज्य हस्तांतरण का संवैधानिक निकाय",
-"B": "GST Council—संविधान द्वारा सृजित संस्थान है",
-"C": "Centrally Sponsored Schemes—साझा वित्तपोषण पैटर्न रखते हैं",
-"D": "States के Own Tax Revenue में IGST settlement शामिल ही नहीं हो सकता"
-},
-"answer": ["A", "B", "C"],
-"explanation": "वित्त आयोग संवैधानिक, GST Council भी; CSS साझा वित्तपोषण पद्धति; IGST settlement राज्यों के हिस्से में आ सकता है, इसलिए D गलत।"
-},
-{
-"id": 35,
-"question": "Data Revisions/GDP Rebasing के बारे में सही कथन चुनें। / Choose the correct statements on data revisions/GDP rebasing.",
-"options": {
-"A": "GDP rebasing से वास्तविक वृद्धि दरों की तुलना प्रभावित हो सकती है",
-"B": "Rebasing से संरचनात्मक वेटिंग में बदलाव संभव है",
-"C": "Rebasing का अर्थ डेटा गलत होना है",
-"D": "Rebasing के बाद ऐतिहासिक श्रृंखलाओं का बैक-कास्टिंग किया जा सकता है"
-},
-"answer": ["A", "B", "D"],
-"explanation": "Rebasing में टोकरी/वेट बदलने से तुलना/स्तर बदल सकते हैं; ऐतिहासिक संगति हेतु बैक-कास्टिंग होता है। यह डेटा गलत होने का संकेत नहीं—C गलत।"
-},
-{
-"id": 36,
-"question": "Startup/PLI/Manufacturing नीतियों के बारे में सही कथन चुनिए। / Choose the correct statements on Startup/PLI/Manufacturing policies.",
-"options": {
-"A": "PLI—उत्पादन/बिक्री आधारित प्रोत्साहन देता है",
-"B": "PLI का फोकस चयनित क्षेत्रों में स्केल-अप और import substitution हो सकता है",
-"C": "Startup ecosystem में DPIIT मान्यता प्रासंगिक होती है",
-"D": "PLI—पूरी तरह credit guarantee scheme है"
-},
-"answer": ["A", "B", "C"],
-"explanation": "PLI output-linked प्रोत्साहन है; चयनित क्षेत्रों में स्केल/प्रतिस्पर्धा/आयात प्रतिस्थापन लक्ष्य; स्टार्टअप के लिए DPIIT पहचान प्रासंगिक। D गलत—PLI क्रेडिट गारंटी नहीं है।"
-},
-{
-"id": 37,
-"question": "External Trade Policy—सही कथन चुनिए। / External Trade Policy—choose the correct statements.",
-"options": {
-"A": "RoDTEP—ड्यूटी/टैक्स के स्पष्ट/अप्रत्यक्ष बोझ की रेमिशन हेतु योजना",
-"B": "EPCG—पूँजीगत सामान आयात पर शून्य/रियायती शुल्क के बदले निर्यात दायित्व",
-"C": "SEZ—पूरी तरह घरेलू शुल्क/कर व्यवस्था के समान ही होता है",
-"D": "FTA—टैरिफ/नियमों के ढाँचे में द्विपक्षीय/बहुपक्षीय समझौते होते हैं"
-},
-"answer": ["A", "B", "D"],
-"explanation": "RoDTEP टैक्स/ड्यूटी बोझ की रेमिशन; EPCG—कैपिटल गुड्स आयात पर निर्यात दायित्व; FTAs टैरिफ/रूल्स का ढाँचा। SEZ घरेलू परिमंडल जैसा नहीं—विशेष प्रावधान होते हैं; C गलत।"
-},
-{
-"id": 38,
-"question": "Social Sector Indicators—सही कथन चुनिए। / Choose the correct statements on social sector indicators.",
-"options": {
-"A": "HDI तीन आयाम—स्वास्थ्य, शिक्षा, आय",
-"B": "Gini coefficient असमानता का माप है (0–1)",
-"C": "Lorenz curve असमानता को दृश्य बनाती है",
-"D": "HDI सीधे गरीबी हेडकाउंट को मापता है"
-},
-"answer": ["A", "B", "C"],
-"explanation": "HDI—स्वास्थ्य/शिक्षा/आय; Gini—असमानता सूचक; Lorenz—आय-वितरण का ग्राफ। HDI गरीबी हेडकाउंट नहीं मापता; D गलत।"
-},
-{
-"id": 39,
-"question": "Services Trade और Current Account के बारे में सही कथन चुनिए। / Choose the correct statements on services trade and current account.",
-"options": {
-"A": "Services exports का अधिशेष अक्सर merchandise deficit को आंशिक समायोजित करता है",
-"B": "Invisibles में services, transfers, income शामिल हैं",
-"C": "Remittances current account का भाग नहीं हैं",
-"D": "Tourism receipts services exports में गिने जा सकते हैं"
-},
-"answer": ["A", "B", "D"],
-"explanation": "Services अधिशेष merchandise deficit को आंशिक ऑफसेट कर सकता है; Invisibles में services/transfers/income आते हैं; Remittances current account (transfers) का भाग हैं। इसलिए C गलत।"
-},
-{
-"id": 40,
-"question": "Statistical/Conceptual—Base Effect और High-frequency Indicators के बारे में सही कथन चुनिए। / Choose the correct statements on base effect and high-frequency indicators.",
-"options": {
-"A": "Base effect के कारण उच्च/निम्न आधार पर वृद्धि दरें भ्रामक हो सकती हैं",
-"B": "PMI, E-way bills, FASTag toll collections उच्च-आवृत्ति संकेतक कहे जाते हैं",
-"C": "Base effect का वृद्धि दर पर कोई प्रभाव नहीं पड़ता",
-"D": "High-frequency indicators नीति-निर्माताओं को तात्कालिक रुझान पकड़ने में मदद करते हैं"
-},
-"answer": ["A", "B", "D"],
-"explanation": "Base effect के कारण वर्ष-दर-वर्ष वृद्धि की व्याख्या सावधानी से करनी होती है; PMI/E-way/FASTag जैसे संकेतक उच्च-आवृत्ति हैं और त्वरित रुझान दिखाते हैं। C गलत है।"
-},
-{
-    "id": 41,
-    "question": "केंद्रीय बजट 2025-26 में 'प्रधानमंत्री ग्रीन एनर्जी मिशन' के लिए कितनी राशि आवंटित की गई है? / In Union Budget 2025-26, how much allocation has been made for the 'Prime Minister Green Energy Mission'?",
+  {
+    "id": 1,
+    "question": "भूकंप तरंगों में से कौन-सी तरंगें केवल ठोस माध्यम से ही गुजर सकती हैं? / Which of the earthquake waves can travel only through solid medium?",
     "options": {
-      "A": "₹15,000 करोड़",
-      "B": "₹20,000 करोड़",
-      "C": "₹25,000 करोड़",
-      "D": "₹30,000 करोड़"
+      "A": "P-वेव्स (Primary Waves)",
+      "B": "S-वेव्स (Secondary Waves)",
+      "C": "L-वेव्स (Long Waves)",
+      "D": "रैले वेव्स (Rayleigh Waves)"
     },
     "answer": ["B"],
-    "explanation": "बजट 2025-26 में अक्षय ऊर्जा और हरित विकास को बढ़ावा देने के लिए 'प्रधानमंत्री ग्रीन एनर्जी मिशन' हेतु ₹20,000 करोड़ का प्रावधान किया गया है। इसका उद्देश्य ऊर्जा संक्रमण को गति देना और नेट-ज़ीरो लक्ष्य को प्राप्त करना है।"
+    "explanation": "S-वेव्स (Secondary waves) केवल ठोस माध्यम से ही गुजरती हैं। P-वेव्स ठोस, द्रव और गैस सभी में जा सकती हैं। L-वेव्स और रैले वेव्स सतही तरंगें होती हैं। इसीलिए भूकंप विज्ञान में S-वेव्स का अभाव पृथ्वी के तरल बाह्य कोर को प्रमाणित करता है।"
   },
   {
-    "id": 42,
-    "question": "बजट 2025-26 में रक्षा क्षेत्र के लिए कुल बजटीय आवंटन कितना है? / What is the total budgetary allocation for the defence sector in Budget 2025-26?",
+    "id": 2,
+    "question": "पृथ्वी की आंतरिक संरचना (Interior of the Earth) से संबंधित सही कथन कौन-कौन से हैं? / Which of the following statements regarding Earth’s interior are correct?",
     "options": {
-      "A": "₹5.5 लाख करोड़",
-      "B": "₹6.2 लाख करोड़",
-      "C": "₹6.5 लाख करोड़",
-      "D": "₹7.0 लाख करोड़"
+      "A": "अस्थेनोस्फीयर (Asthenosphere) लिथोस्फीयर के नीचे पाई जाती है।",
+      "B": "मेसोस्फीयर पृथ्वी का तरल बाह्य कोर है।",
+      "C": "संपूर्ण कोर में तापमान लगभग 5000-6000°C तक पहुँचता है।",
+      "D": "भूकंप तरंगों के अध्ययन से ही पृथ्वी की आंतरिक संरचना जानी गई।"
     },
-    "answer": ["C"],
-    "explanation": "बजट 2025-26 में रक्षा क्षेत्र के लिए कुल आवंटन ₹6.5 लाख करोड़ रखा गया है। इसमें पूंजीगत व्यय, वेतन, पेंशन और आधुनिकीकरण शामिल है। यह अब तक का सबसे बड़ा रक्षा आवंटन है।"
+    "answer": ["A", "C", "D"],
+    "explanation": "अस्थेनोस्फीयर लिथोस्फीयर के नीचे होती है और यह आंशिक रूप से पिघली हुई होती है। मेसोस्फीयर शब्द सामान्यतः मैंटल के गहरे हिस्से के लिए प्रयोग होता है, न कि कोर के लिए। कोर का तापमान 5000-6000°C तक माना जाता है। पृथ्वी के अंदरूनी हिस्से की जानकारी मुख्यतः भूकंप तरंगों से ही मिली है।"
   },
   {
-    "id": 43,
-    "question": "Union Budget 2025-26 ने किस सेक्टर को 'sunrise sector' के रूप में विशेष टैक्स छूट और प्रोत्साहन प्रदान किया है? / Which sector has been declared a 'sunrise sector' with special tax incentives in Union Budget 2025-26?",
+    "id": 3,
+    "question": "‘Ring of Fire’ के बारे में निम्नलिखित में से कौन-से कथन सही हैं? / Which of the following statements about the ‘Ring of Fire’ are correct?",
     "options": {
-      "A": "Artificial Intelligence",
-      "B": "Green Hydrogen",
-      "C": "Quantum Computing",
-      "D": "Semiconductors"
+      "A": "यह प्रशांत महासागर के चारों ओर ज्वालामुखियों और भूकंपों का क्षेत्र है।",
+      "B": "विश्व के लगभग 75% सक्रिय ज्वालामुखी यहीं पाए जाते हैं।",
+      "C": "यह अटलांटिक महासागर के किनारे स्थित है।",
+      "D": "यह टेक्टोनिक प्लेटों की सीमाओं के साथ जुड़ा है।"
     },
     "answer": ["A", "B", "D"],
-    "explanation": "बजट 2025-26 में आर्टिफिशियल इंटेलिजेंस, ग्रीन हाइड्रोजन और सेमीकंडक्टर उद्योगों को 'sunrise sectors' घोषित कर टैक्स छूट और निवेश प्रोत्साहन दिए गए हैं। क्वांटम कंप्यूटिंग को रिसर्च ग्रांट मिला है लेकिन sunrise सेक्टर का दर्जा नहीं।"
+    "explanation": "‘Ring of Fire’ प्रशांत महासागर के चारों ओर स्थित है और विश्व के 75% से अधिक सक्रिय ज्वालामुखी यहीं पाए जाते हैं। यह मुख्यतः सबडक्शन जोन और प्लेट सीमाओं पर स्थित है। अटलांटिक महासागर से इसका कोई संबंध नहीं है।"
   },
   {
-    "id": 44,
-    "question": "बजट 2025-26 में प्रत्यक्ष कर प्रस्तावों के तहत व्यक्तिगत आयकर स्लैब में क्या परिवर्तन किया गया है? / What change has been made in the personal income tax slabs in Budget 2025-26?",
+    "id": 4,
+    "question": "निम्नलिखित चट्टानों (Rocks) में कौन-सी चट्टानें मैग्मा से उत्पन्न होती हैं? / Which of the following rocks are formed from magma?",
     "options": {
-      "A": "0-3 लाख आय पर कोई टैक्स नहीं",
-      "B": "3-7 लाख पर 10% टैक्स",
-      "C": "7-10 लाख पर 15% टैक्स",
-      "D": "10 लाख से ऊपर 30% टैक्स"
+      "A": "ग्रेनाइट (Granite)",
+      "B": "बेसाल्ट (Basalt)",
+      "C": "चूना पत्थर (Limestone)",
+      "D": "संगमरमर (Marble)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "ग्रेनाइट और बेसाल्ट आग्नेय (Igneous) चट्टानें हैं जो सीधे मैग्मा या लावा के ठंडा होने से बनती हैं। चूना पत्थर अवसादी (Sedimentary) चट्टान है जबकि संगमरमर चूना पत्थर से बनने वाली कायांतरित (Metamorphic) चट्टान है।"
+  },
+  {
+    "id": 5,
+    "question": "नदी द्वारा निर्मित स्थलरूपों (Fluvial Landforms) में कौन-कौन से शामिल हैं? / Which of the following are examples of fluvial landforms?",
+    "options": {
+      "A": "V-आकार की घाटी (V-shaped valley)",
+      "B": "यार्डांग (Yardang)",
+      "C": "ऑक्सबो झील (Oxbow lake)",
+      "D": "डेल्टा (Delta)"
+    },
+    "answer": ["A", "C", "D"],
+    "explanation": "नदी द्वारा निर्मित स्थलरूपों में V-आकार की घाटियाँ, ऑक्सबो झीलें और डेल्टा आते हैं। यार्डांग (Yardang) हवा के अपरदन से बनने वाला स्थलरूप है।"
+  },
+  {
+    "id": 6,
+    "question": "निम्नलिखित में से कौन-सी प्रक्रियाएँ अपक्षय (Weathering) की श्रेणी में आती हैं? / Which of the following processes come under weathering?",
+    "options": {
+      "A": "फ्रॉस्ट वेजिंग (Frost wedging)",
+      "B": "ऑक्सीकरण (Oxidation)",
+      "C": "अपक्षरण (Erosion)",
+      "D": "हाइड्रेशन (Hydration)"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "फ्रॉस्ट वेजिंग, ऑक्सीकरण और हाइड्रेशन अपक्षय की प्रक्रियाएँ हैं। अपक्षरण (Erosion) एक अलग प्रक्रिया है जिसमें अपक्षयित पदार्थ को हटाया जाता है।"
+  },
+  {
+    "id": 7,
+    "question": "निम्नलिखित स्थलरूपों में से कौन-सा/कौन-से कायांतरित चट्टानों से जुड़े हैं? / Which of the following landforms are associated with metamorphic rocks?",
+    "options": {
+      "A": "शिस्ट (Schist)",
+      "B": "नाइस (Gneiss)",
+      "C": "बेसाल्ट पठार (Basalt Plateau)",
+      "D": "संगमरमर की पहाड़ियाँ (Marble Hills)"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "शिस्ट, नाइस और संगमरमर सभी कायांतरित (Metamorphic) चट्टानों से बने हैं। जबकि बेसाल्ट पठार आग्नेय चट्टान से बना स्थलरूप है।"
+  },
+  {
+    "id": 8,
+    "question": "प्लेट विवर्तनिकी सिद्धांत (Plate Tectonics Theory) के अनुसार निम्नलिखित कथनों में कौन-कौन से सही हैं? / According to Plate Tectonics Theory, which of the following statements are correct?",
+    "options": {
+      "A": "लिथोस्फीयर कई प्लेटों में टूटी हुई है।",
+      "B": "ये प्लेटें एस्थेनोस्फीयर पर तैरती हैं।",
+      "C": "प्लेटों की गति केवल गुरुत्वाकर्षण बल से नियंत्रित होती है।",
+      "D": "प्लेटों की गति से भूकंप और ज्वालामुखी सक्रियता जुड़ी है।"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "लिथोस्फीयर प्लेटों में विभाजित है जो एस्थेनोस्फीयर पर तैरती हैं। प्लेटों की गति से भूकंप और ज्वालामुखी गतिविधि होती है। उनकी गति में कई कारक जैसे स्लैब पुल और रिज पुश शामिल होते हैं, केवल गुरुत्वाकर्षण नहीं।"
+  },
+  {
+    "id": 9,
+    "question": "भू-आकृति विज्ञान (Geomorphology) में प्रवाल भित्तियों (Coral Reefs) के कौन-कौन से प्रकार पाए जाते हैं? / Which types of coral reefs are found in geomorphology?",
+    "options": {
+      "A": "फ्रिंजिंग रीफ (Fringing Reef)",
+      "B": "बैरियर रीफ (Barrier Reef)",
+      "C": "अटोल (Atoll)",
+      "D": "गाइओट (Guyot)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "फ्रिंजिंग रीफ, बैरियर रीफ और अटोल प्रवाल भित्तियों के मुख्य प्रकार हैं। गाइओट वास्तव में समुद्र के नीचे डूबे हुए ज्वालामुखीय पर्वत हैं।"
+  },
+  {
+    "id": 10,
+    "question": "निम्नलिखित में से कौन-से स्थलरूप हिमनद (Glacial) क्रियाओं से बनते हैं? / Which of the following landforms are formed by glacial action?",
+    "options": {
+      "A": "सर्क (Cirque)",
+      "B": "मोराइन (Moraine)",
+      "C": "एस्कार (Esker)",
+      "D": "लूएस (Loess)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "सर्क, मोराइन और एस्कार सभी हिमनद क्रियाओं के स्थलरूप हैं। जबकि लूएस (Loess) हवा द्वारा उड़ाकर जमाई गई धूल से बनता है।"
+  },
+  {
+    "id": 11,
+    "question": "भूकंप मापने के लिए प्रयुक्त रिक्टर स्केल (Richter Scale) और मोमेंट मैग्निट्यूड स्केल (Moment Magnitude Scale) में कौन-कौन से अंतर सही हैं? / Which of the following differences between Richter Scale and Moment Magnitude Scale are correct?",
+    "options": {
+      "A": "रिक्टर स्केल स्थानीय भूकंपों के लिए उपयुक्त है।",
+      "B": "मोमेंट मैग्निट्यूड स्केल वैश्विक स्तर पर भूकंप की शक्ति मापने के लिए अधिक सटीक है।",
+      "C": "रिक्टर स्केल को 1980 के बाद पूरी तरह बंद कर दिया गया।",
+      "D": "मोमेंट मैग्निट्यूड स्केल ऊर्जा विमोचन (Energy Release) पर आधारित है।"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "रिक्टर स्केल स्थानीय भूकंपों और छोटे भूकंपों के लिए उपयुक्त था, लेकिन बड़े और दूरस्थ भूकंपों के लिए इसकी सीमाएँ हैं। मोमेंट मैग्निट्यूड स्केल ऊर्जा विमोचन पर आधारित है और वैश्विक स्तर पर अधिक सटीक माना जाता है। हालांकि, रिक्टर स्केल का उपयोग पूरी तरह बंद नहीं हुआ बल्कि सीमित परिस्थितियों में अभी भी किया जाता है।"
+  },
+  {
+    "id": 12,
+    "question": "सुनामी (Tsunami) उत्पन्न होने के प्रमुख कारण कौन-कौन से हो सकते हैं? / Which of the following can be major causes of Tsunami?",
+    "options": {
+      "A": "समुद्र तट पर चक्रवात का बनना",
+      "B": "समुद्र के नीचे भूकंप आना",
+      "C": "ज्वालामुखी विस्फोट",
+      "D": "हिमखंड का समुद्र में गिरना"
+    },
+    "answer": ["B", "C", "D"],
+    "explanation": "सुनामी मुख्यतः समुद्र के नीचे भूकंप, समुद्र के भीतर ज्वालामुखी विस्फोट और बड़े हिमखंडों के समुद्र में गिरने से उत्पन्न होती है। चक्रवात बड़े तूफानी ज्वार उत्पन्न करते हैं लेकिन वे सुनामी नहीं होते।"
+  },
+  {
+    "id": 13,
+    "question": "अवसादी चट्टानों (Sedimentary Rocks) की विशेषताएँ क्या हैं? / What are the characteristics of sedimentary rocks?",
+    "options": {
+      "A": "इनमें जीवाश्म पाए जाते हैं।",
+      "B": "इनका निर्माण मैग्मा से होता है।",
+      "C": "ये परतदार (Layered) होती हैं।",
+      "D": "इनका निर्माण अवसादों के जमाव से होता है।"
+    },
+    "answer": ["A", "C", "D"],
+    "explanation": "अवसादी चट्टानों का निर्माण अवसादों के जमाव और दाब-संपीड़न से होता है। ये परतदार होती हैं और इनमें जीवाश्म प्रायः मिलते हैं। मैग्मा से बनने वाली चट्टानें आग्नेय (Igneous) होती हैं।"
+  },
+  {
+    "id": 14,
+    "question": "ब्लॉक पर्वत (Block Mountains) के उदाहरण कौन-कौन से हैं? / Which of the following are examples of Block Mountains?",
+    "options": {
+      "A": "राइन घाटी और वोज पर्वत (Rhine Valley and Vosges Mountains)",
+      "B": "हिमालय (Himalayas)",
+      "C": "सिएरा नेवादा (Sierra Nevada)",
+      "D": "एपलाचियन पर्वत (Appalachians)"
+    },
+    "answer": ["A", "C"],
+    "explanation": "राइन घाटी और वोज पर्वत यूरोप में प्रसिद्ध ब्लॉक पर्वत हैं। अमेरिका का सिएरा नेवादा भी ब्लॉक पर्वत है। हिमालय मोड़दार पर्वत है और एपलाचियन प्राचीन अवशिष्ट पर्वत हैं।"
+  },
+  {
+    "id": 15,
+    "question": "निम्नलिखित में से कौन-सी वायुमंडलीय घटनाएँ भूकंप के साथ कभी-कभी देखी जाती हैं? / Which of the following atmospheric phenomena are sometimes associated with earthquakes?",
+    "options": {
+      "A": "लाइटनिंग (Lightning)",
+      "B": "भूकंपीय प्रकाश (Seismic Lights)",
+      "C": "गैस उत्सर्जन",
+      "D": "गर्जन (Thunder)"
+    },
+    "answer": ["B", "C"],
+    "explanation": "कुछ बड़े भूकंपों के दौरान भूकंपीय प्रकाश (Seismic Lights) और गैस उत्सर्जन दर्ज किए गए हैं। ये घटनाएँ असामान्य हैं और अब भी वैज्ञानिक अध्ययन का विषय हैं। सामान्य लाइटनिंग और गरजन भूकंप से सीधे संबंधित नहीं होते।"
+  },
+  {
+    "id": 16,
+    "question": "कौन-सी प्रक्रिया समुद्री तरंगों द्वारा तटरेखाओं का निर्माण करती है? / Which process is responsible for the formation of coastlines by sea waves?",
+    "options": {
+      "A": "अपक्षय (Weathering)",
+      "B": "अपक्षरण (Erosion)",
+      "C": "निक्षेपण (Deposition)",
+      "D": "वाष्पन (Evaporation)"
+    },
+    "answer": ["B", "C"],
+    "explanation": "समुद्री तरंगें तटरेखाओं का निर्माण अपक्षरण और निक्षेपण दोनों से करती हैं। तरंगें चट्टानों को काटती हैं और रेतीले तट बनाती हैं। वाष्पन का इससे कोई संबंध नहीं है।"
+  },
+  {
+    "id": 17,
+    "question": "निम्नलिखित में से कौन-सा/कौन-से स्थलरूप हवा (Aeolian Process) द्वारा निर्मित हैं? / Which of the following landforms are created by Aeolian processes?",
+    "options": {
+      "A": "बारखान (Barchan)",
+      "B": "यार्डांग (Yardang)",
+      "C": "सीफ ड्यून्स (Seif Dunes)",
+      "D": "ग्लेशियल ट्रफ (Glacial Trough)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "बारखान, यार्डांग और सीफ ड्यून्स हवा द्वारा बने स्थलरूप हैं। ग्लेशियल ट्रफ हिमनद क्रिया से बनता है।"
+  },
+  {
+    "id": 18,
+    "question": "किस भूगर्भीय प्रक्रिया से प्लेटफॉर्म (Plateaus) का निर्माण होता है? / Which geological processes lead to the formation of plateaus?",
+    "options": {
+      "A": "ज्वालामुखीय गतिविधि",
+      "B": "अपरदन",
+      "C": "उत्थान (Upliftment)",
+      "D": "हिमनद निक्षेपण"
+    },
+    "answer": ["A", "C"],
+    "explanation": "पठार का निर्माण मुख्यतः ज्वालामुखीय गतिविधि और भूगर्भीय उत्थान से होता है। अपरदन और हिमनद निक्षेपण का इससे प्रत्यक्ष संबंध नहीं है।"
+  },
+  {
+    "id": 19,
+    "question": "भूकंप तरंगों में P-वेव्स (Primary Waves) की कौन-सी विशेषताएँ सही हैं? / Which of the following are correct characteristics of P-waves?",
+    "options": {
+      "A": "ये सबसे तेज गति से चलती हैं।",
+      "B": "ये ठोस, द्रव और गैस सभी माध्यमों से गुजर सकती हैं।",
+      "C": "ये कतरनी (Shear) तरंगें हैं।",
+      "D": "ये सबसे पहले सिस्मोग्राफ में दर्ज होती हैं।"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "P-वेव्स सबसे तेज गति वाली होती हैं और ठोस, द्रव, गैस सभी माध्यमों से गुजर सकती हैं। ये संपीडन (Compressional) तरंगें होती हैं, न कि कतरनी। इसलिए ये सिस्मोग्राफ पर सबसे पहले दर्ज होती हैं।"
+  },
+  {
+    "id": 20,
+    "question": "ज्वालामुखियों के प्रकारों में कौन-कौन से सही हैं? / Which of the following are correct types of volcanoes?",
+    "options": {
+      "A": "शील्ड ज्वालामुखी (Shield Volcano)",
+      "B": "सिंडर कोन ज्वालामुखी (Cinder Cone Volcano)",
+      "C": "कॉम्पोज़िट ज्वालामुखी (Composite Volcano)",
+      "D": "प्लग डोम (Plug Dome)"
     },
     "answer": ["A", "B", "C", "D"],
-    "explanation": "बजट 2025-26 में नए कर ढाँचे को और सरल किया गया है। 0-3 लाख तक कोई टैक्स नहीं, 3-7 लाख पर 10%, 7-10 लाख पर 15% और 10 लाख से अधिक पर 30% टैक्स लगाया गया है।"
+    "explanation": "ज्वालामुखियों के प्रमुख प्रकार शील्ड, सिंडर कोन, कॉम्पोज़िट और प्लग डोम हैं। इनकी संरचना और विस्फोटन शैली में अंतर होता है।"
   },
   {
-    "id": 45,
-    "question": "केंद्रीय बजट 2025-26 में शिक्षा क्षेत्र को GDP का कितना प्रतिशत आवंटित किया गया है? / In Union Budget 2025-26, what percentage of GDP has been allocated to the education sector?",
+    "id": 21,
+    "question": "पृथ्वी के चुम्बकीय क्षेत्र (Earth’s Magnetic Field) से संबंधित सही कथन कौन-कौन से हैं? / Which of the following statements regarding Earth’s magnetic field are correct?",
     "options": {
-      "A": "2.5%",
-      "B": "3.0%",
-      "C": "3.5%",
-      "D": "4.0%"
+      "A": "यह मुख्यतः पृथ्वी के बाह्य कोर की गति से उत्पन्न होता है।",
+      "B": "यह हमेशा स्थिर रहता है।",
+      "C": "पिछले भूवैज्ञानिक समय में ध्रुवीय उलटफेर (Pole Reversal) हुए हैं।",
+      "D": "भूकंपीय तरंगों के अध्ययन में इसका उपयोग होता है।"
     },
-    "answer": ["B"],
-    "explanation": "शिक्षा क्षेत्र के लिए बजट 2025-26 में GDP का लगभग 3% आवंटित किया गया है। इसमें डिजिटल लर्निंग और कौशल विकास पर विशेष ध्यान दिया गया है।"
+    "answer": ["A", "C"],
+    "explanation": "पृथ्वी का चुंबकीय क्षेत्र बाहरी कोर के तरल लोहा-निकल की गति से उत्पन्न होता है। इसमें समय-समय पर ध्रुवीय उलटफेर हुए हैं। यह स्थिर नहीं है। भूकंप तरंगों का अध्ययन इससे नहीं किया जाता।"
   },
   {
-    "id": 46,
-    "question": "बजट 2025-26 के अनुसार पूंजीगत व्यय (Capital Expenditure) में कितने प्रतिशत की वृद्धि की गई है? / By what percentage has the Capital Expenditure been increased in Budget 2025-26?",
+    "id": 22,
+    "question": "निम्नलिखित में से कौन-सी स्थलरूप अपक्षरण (Erosion) और निक्षेपण (Deposition) दोनों से बन सकती हैं? / Which of the following landforms can be formed by both erosion and deposition?",
     "options": {
-      "A": "10%",
-      "B": "15%",
-      "C": "17%",
-      "D": "20%"
-    },
-    "answer": ["C"],
-    "explanation": "बजट 2025-26 में पूंजीगत व्यय को पिछले वर्ष की तुलना में 17% बढ़ाकर ₹12 लाख करोड़ कर दिया गया है। इसका उद्देश्य बुनियादी ढांचे और रोजगार को बढ़ावा देना है।"
-  },
-  {
-    "id": 47,
-    "question": "Union Budget 2025-26 में कौन सी नई सामाजिक कल्याण योजना शुरू की गई है? / Which new social welfare scheme has been launched in Union Budget 2025-26?",
-    "options": {
-      "A": "प्रधानमंत्री ग्रामीण आवास उन्नयन योजना",
-      "B": "प्रधानमंत्री स्वास्थ्य सुरक्षा मिशन 2.0",
-      "C": "प्रधानमंत्री महिला उद्यमिता योजना",
-      "D": "प्रधानमंत्री कृषि तकनीकी मिशन"
-    },
-    "answer": ["C"],
-    "explanation": "बजट 2025-26 में महिलाओं के उद्यमिता और स्टार्टअप्स को प्रोत्साहन देने के लिए 'प्रधानमंत्री महिला उद्यमिता योजना' शुरू की गई है।"
-  },
-  {
-    "id": 48,
-    "question": "केंद्रीय बजट 2025-26 में किसानों की आय बढ़ाने हेतु किन कदमों की घोषणा की गई है? / Which measures have been announced in Union Budget 2025-26 to enhance farmers' income?",
-    "options": {
-      "A": "कृषि क्रेडिट लक्ष्य ₹25 लाख करोड़",
-      "B": "सौर ऊर्जा आधारित सिंचाई योजना",
-      "C": "कृषि-टेक स्टार्टअप फंड",
-      "D": "खरीफ फसल पर MSP वृद्धि"
-    },
-    "answer": ["A", "B", "C", "D"],
-    "explanation": "बजट 2025-26 में किसानों के लिए कृषि क्रेडिट लक्ष्य ₹25 लाख करोड़ रखा गया है, सौर आधारित सिंचाई योजना, कृषि-टेक स्टार्टअप्स को प्रोत्साहन और खरीफ फसलों पर MSP वृद्धि की घोषणा की गई है।"
-  },
-  {
-    "id": 49,
-    "question": "बजट 2025-26 के अनुसार हेल्थकेयर क्षेत्र के लिए कुल कितनी राशि आवंटित की गई है? / What is the total allocation for the healthcare sector in Budget 2025-26?",
-    "options": {
-      "A": "₹80,000 करोड़",
-      "B": "₹90,000 करोड़",
-      "C": "₹1.0 लाख करोड़",
-      "D": "₹1.2 लाख करोड़"
-    },
-    "answer": ["C"],
-    "explanation": "स्वास्थ्य क्षेत्र के लिए बजट 2025-26 में ₹1.0 लाख करोड़ का प्रावधान किया गया है, जिसमें AI आधारित हेल्थ टेक्नोलॉजी और ग्रामीण स्वास्थ्य केंद्रों पर विशेष ध्यान दिया गया है।"
-  },
-  {
-    "id": 50,
-    "question": "Union Budget 2025-26 में रेलवे के लिए पूंजीगत व्यय कितना निर्धारित किया गया है? / What is the capital expenditure for Railways in Union Budget 2025-26?",
-    "options": {
-      "A": "₹2.5 लाख करोड़",
-      "B": "₹2.8 लाख करोड़",
-      "C": "₹3.0 लाख करोड़",
-      "D": "₹3.2 लाख करोड़"
-    },
-    "answer": ["B"],
-    "explanation": "बजट 2025-26 में रेलवे के लिए पूंजीगत व्यय ₹2.8 लाख करोड़ निर्धारित किया गया है। इसमें नए ट्रैक, इलेक्ट्रिफिकेशन और बुलेट ट्रेन प्रोजेक्ट्स शामिल हैं।"
-  },
-  {
-    "id": 51,
-    "question": "बजट 2025-26 में ग्रामीण अवसंरचना (Rural Infrastructure) के लिए कौन-सी राशि आवंटित की गई? / What amount is allocated for Rural Infrastructure in Budget 2025-26?",
-    "options": {
-      "A": "₹1.2 लाख करोड़",
-      "B": "₹1.5 लाख करोड़",
-      "C": "₹1.8 लाख करोड़",
-      "D": "₹2.0 लाख करोड़"
-    },
-    "answer": ["B"],
-    "explanation": "ग्रामीण अवसंरचना को सशक्त बनाने हेतु बजट 2025-26 में ₹1.5 लाख करोड़ का प्रावधान किया गया है।"
-  },
-  {
-    "id": 52,
-    "question": "केंद्रीय बजट 2025-26 में डिजिटल इंडिया पहल के तहत कितना आवंटित हुआ? / How much is allocated under Digital India initiative in Budget 2025-26?",
-    "options": {
-      "A": "₹50,000 करोड़",
-      "B": "₹60,000 करोड़",
-      "C": "₹75,000 करोड़",
-      "D": "₹90,000 करोड़"
-    },
-    "answer": ["C"],
-    "explanation": "डिजिटल इंडिया को बढ़ावा देने हेतु बजट 2025-26 में ₹75,000 करोड़ आवंटित किए गए हैं।"
-  },
-  {
-    "id": 53,
-    "question": "Union Budget 2025-26 में Urban Housing Mission के लिए कितनी राशि? / What is the allocation for Urban Housing Mission in Budget 2025-26?",
-    "options": {
-      "A": "₹40,000 करोड़",
-      "B": "₹45,000 करोड़",
-      "C": "₹50,000 करोड़",
-      "D": "₹55,000 करोड़"
-    },
-    "answer": ["B"],
-    "explanation": "शहरी आवास मिशन के लिए बजट 2025-26 में ₹45,000 करोड़ का प्रावधान रखा गया है।"
-  },
-  {
-    "id": 54,
-    "question": "बजट 2025-26 में ‘Skill India’ के लिए आवंटन कितना रखा गया? / What is the allocation for 'Skill India' in Budget 2025-26?",
-    "options": {
-      "A": "₹20,000 करोड़",
-      "B": "₹22,000 करोड़",
-      "C": "₹25,000 करोड़",
-      "D": "₹28,000 करोड़"
-    },
-    "answer": ["C"],
-    "explanation": "'Skill India' कार्यक्रम हेतु बजट 2025-26 में ₹25,000 करोड़ का प्रावधान किया गया है।"
-  },
-  {
-    "id": 55,
-    "question": "Union Budget 2025-26 में जल संरक्षण (Water Conservation) के लिए कौन-सी राशि निर्धारित की गई है? / What is the amount allocated for Water Conservation in Budget 2025-26?",
-    "options": {
-      "A": "₹10,000 करोड़",
-      "B": "₹12,500 करोड़",
-      "C": "₹15,000 करोड़",
-      "D": "₹18,000 करोड़"
-    },
-    "answer": ["B"],
-    "explanation": "जल संरक्षण और जल प्रबंधन के लिए बजट 2025-26 में ₹12,500 करोड़ रखा गया है।"
-  },
-  {
-    "id": 56,
-    "question": "बजट 2025-26 में साफ-सड़क (Clean Roads) अभियान हेतु आवंटन कितनी राशि? / What is the allocation for Clean Roads campaign in Budget 2025-26?",
-    "options": {
-      "A": "₹8,000 करोड़",
-      "B": "₹10,000 करोड़",
-      "C": "₹12,000 करोड़",
-      "D": "₹14,000 करोड़"
-    },
-    "answer": ["C"],
-    "explanation": "साफ-सड़क अभियान के अंतर्गत बजट 2025-26 में ₹12,000 करोड़ का निर्माण कार्यों हेतु आवंटन किया गया है।"
-  },
-  {
-    "id": 57,
-    "question": "Union Budget 2025-26 में विज्ञान एवं अनुसंधान (Science & Research) के लिए कितना प्रावधान है? / What provision is made for Science & Research in Budget 2025-26?",
-    "options": {
-      "A": "₹30,000 करोड़",
-      "B": "₹35,000 करोड़",
-      "C": "₹40,000 करोड़",
-      "D": "₹45,000 करोड़"
-    },
-    "answer": ["B"],
-    "explanation": "विज्ञान एवं अनुसंधान को बढ़ावा देने हेतु बजट 2025-26 में ₹35,000 करोड़ का प्रावधान किया गया है।"
-  },
-  {
-    "id": 58,
-    "question": "बजट 2025-26 में पर्यटन (Tourism) क्षेत्र के लिए आवंटन कितना रखा गया? / What is the allocation for Tourism sector in Budget 2025-26?",
-    "options": {
-      "A": "₹15,000 करोड़",
-      "B": "₹17,500 करोड़",
-      "C": "₹20,000 करोड़",
-      "D": "₹22,500 करोड़"
-    },
-    "answer": ["C"],
-    "explanation": "पर्यटन क्षेत्र को विकास हेतु बजट 2025-26 में ₹20,000 करोड़ का आवंटन किया गया है।"
-  },
-  {
-    "id": 59,
-    "question": "Union Budget 2025-26 में राष्ट्रीय रोग नियंत्रण कार्यक्रमों (Disease Control) के लिए कितना रखा गया? / What is the amount allocated for National Disease Control programs in Budget 2025-26?",
-    "options": {
-      "A": "₹25,000 करोड़",
-      "B": "₹27,500 करोड़",
-      "C": "₹30,000 करोड़",
-      "D": "₹32,500 करोड़"
-    },
-    "answer": ["A"],
-    "explanation": "रोग नियंत्रण कार्यक्रमों हेतु बजट 2025-26 में ₹25,000 करोड़ निर्धारित किए गए हैं।"
-  },
-  {
-    "id": 60,
-    "question": "बजट 2025-26 में ग्रामीण स्वास्थ्य (Rural Health) के लिए किन्ही योजनाओं हेतु कितना आवंटन है? / What is the allocation for schemes under Rural Health in Budget 2025-26?",
-    "options": {
-      "A": "₹18,000 करोड़",
-      "B": "₹20,000 करोड़",
-      "C": "₹22,500 करोड़",
-      "D": "₹25,000 करोड़"
-    },
-    "answer": ["B"],
-    "explanation": "ग्रामीण स्वास्थ्य योजनाओं हेतु बजट 2025-26 में ₹20,000 करोड़ का प्रावधान किया गया है।"
-  },
-  {
-    "id": 61,
-    "question": "Union Budget 2025-26 में योजना आधार पर (scheme-based) आवास परियोजनाओं को कितना आवंटन किया गया? / What is the allocation for scheme-based housing projects in Budget 2025-26?",
-    "options": {
-      "A": "₹35,000 करोड़",
-      "B": "₹38,000 करोड़",
-      "C": "₹40,000 करोड़",
-      "D": "₹42,000 करोड़"
-    },
-    "answer": ["C"],
-    "explanation": "योजना आधारित आवास परियोजनाओं के लिए बजट 2025-26 में ₹40,000 करोड़ का प्रावधान किया गया है।"
-  },
-  {
-    "id": 62,
-    "question": "बजट 2025-26 में स्मार्ट सिटीज (Smart Cities) मिशन हेतु कितना आवंटन रखा गया? / What is the allocation for Smart Cities Mission in Budget 2025-26?",
-    "options": {
-      "A": "₹30,000 करोड़",
-      "B": "₹32,500 करोड़",
-      "C": "₹35,000 करोड़",
-      "D": "₹37,500 करोड़"
-    },
-    "answer": ["B"],
-    "explanation": "Smart Cities मिशन हेतु बजट 2025-26 में ₹32,500 करोड़ का प्रावधान किया गया है।"
-  },
-  {
-    "id": 63,
-    "question": "Union Budget 2025-26 में महिला सुरक्षा (Women Safety) कार्यक्रमों के लिए कितना आवंटित हुआ है? / What is allocated for Women Safety programs in Budget 2025-26?",
-    "options": {
-      "A": "₹10,000 करोड़",
-      "B": "₹12,000 करोड़",
-      "C": "₹15,000 करोड़",
-      "D": "₹18,000 करोड़"
-    },
-    "answer": ["C"],
-    "explanation": "महिला सुरक्षा कार्यक्रमों को सुदृढ़ करने हेतु बजट 2025-26 में ₹15,000 करोड़ का प्रावधान किया गया है।"
-  },
-  {
-    "id": 64,
-    "question": "बजट 2025-26 में ऊर्जा दक्षता (Energy Efficiency) हेतु कौन-सी राशि निर्धारित की गई है? / What is the amount allocated for Energy Efficiency in Budget 2025-26?",
-    "options": {
-      "A": "₹8,000 करोड़",
-      "B": "₹10,000 करोड़",
-      "C": "₹12,500 करोड़",
-      "D": "₹15,000 करोड़"
+      "A": "डेल्टा (Delta)",
+      "B": "नदी की घाटी (River Valley)",
+      "C": "एस्ट्यूरी (Estuary)",
+      "D": "समुद्री तट (Coastal Shoreline)"
     },
     "answer": ["D"],
-    "explanation": "ऊर्जा दक्षता सुधार हेतु बजट 2025-26 में ₹15,000 करोड़ का आवंटन किया गया है।"
+    "explanation": "समुद्री तटों का निर्माण तरंगों द्वारा अपक्षरण और निक्षेपण दोनों से होता है। डेल्टा केवल निक्षेपण से और घाटी केवल अपक्षरण से बनती है।"
   },
   {
-    "id": 65,
-    "question": "Union Budget 2025-26 में ग्रीन मोबिलिटी (Green Mobility) के लिए कितना आवंटित हुआ है? / What is allocated for Green Mobility in Budget 2025-26?",
+    "id": 23,
+    "question": "प्लेट विवर्तनिकी (Plate Tectonics) के अनुसार कौन-सी सीमाओं पर नई परत (New Crust) का निर्माण होता है? / At which plate boundaries does new crust formation occur?",
     "options": {
-      "A": "₹20,000 करोड़",
-      "B": "₹22,500 करोड़",
-      "C": "₹25,000 करोड़",
-      "D": "₹27,500 करोड़"
+      "A": "डाइवर्जेंट सीमा (Divergent Boundary)",
+      "B": "कन्वर्जेंट सीमा (Convergent Boundary)",
+      "C": "ट्रांसफॉर्म सीमा (Transform Boundary)",
+      "D": "हॉट-स्पॉट क्षेत्र (Hot-spot Region)"
+    },
+    "answer": ["A", "D"],
+    "explanation": "नई परत मुख्यतः डाइवर्जेंट सीमाओं पर बनती है जहाँ मैग्मा ऊपर उठता है और हॉट-स्पॉट क्षेत्रों में भी नए द्वीप बनते हैं। कन्वर्जेंट सीमा पर पुरानी परत नष्ट होती है और ट्रांसफॉर्म सीमा पर केवल क्षैतिज गति होती है।"
+  },
+  {
+    "id": 24,
+    "question": "पृथ्वी के आंतरिक भाग में कौन-सी परत निकेल-लौह (Nife) कहलाती है? / Which layer of the Earth is called Nife?",
+    "options": {
+      "A": "क्रस्ट (Crust)",
+      "B": "मैंटल (Mantle)",
+      "C": "कोर (Core)",
+      "D": "अस्थेनोस्फीयर (Asthenosphere)"
     },
     "answer": ["C"],
-    "explanation": "हरित गतिशीलता (इलेक्ट्रिक वाहनों आदि) को बढ़ावा देने हेतु बजट 2025-26 में ₹25,000 करोड़ का आवंटन है।"
+    "explanation": "पृथ्वी का कोर मुख्यतः निकल (Ni) और आयरन (Fe) से बना है, इसलिए इसे Nife कहा जाता है। क्रस्ट मुख्यतः सिलिका और एल्युमिनियम से बनी होती है।"
   },
   {
-    "id": 66,
-    "question": "बजट 2025-26 में मजबूत बुनियादी ढांचे (Robust Infrastructure) हेतु कुल कौन-सी राशि प्रस्तावित है? / What total amount is proposed for Robust Infrastructure in Budget 2025-26?",
+    "id": 25,
+    "question": "निम्नलिखित में से कौन-से स्थलरूप हिमनद निक्षेपण (Glacial Deposition) से बने हैं? / Which of the following landforms are formed by glacial deposition?",
     "options": {
-      "A": "₹2.0 लाख करोड़",
-      "B": "₹2.2 लाख करोड़",
-      "C": "₹2.5 लाख करोड़",
-      "D": "₹2.8 लाख करोड़"
+      "A": "ड्रमलिन (Drumlin)",
+      "B": "मोराइन (Moraine)",
+      "C": "एस्कार (Esker)",
+      "D": "सर्क (Cirque)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "ड्रमलिन, मोराइन और एस्कार हिमनद निक्षेपण से बनते हैं। जबकि सर्क (Cirque) हिमनद अपरदन से बनता है।"
+  },
+  {
+    "id": 26,
+    "question": "पृथ्वी की पर्पटी (Crust) में सर्वाधिक प्रचुर तत्व कौन-कौन से हैं? / Which of the following elements are most abundant in Earth’s crust?",
+    "options": {
+      "A": "ऑक्सीजन (Oxygen)",
+      "B": "सिलिकॉन (Silicon)",
+      "C": "लोहा (Iron)",
+      "D": "कैल्शियम (Calcium)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "पृथ्वी की पर्पटी में लगभग 47% ऑक्सीजन और 28% सिलिकॉन पाया जाता है। इनके सम्मिलन से सिलीकेट खनिज बनते हैं। लोहा और कैल्शियम भी हैं लेकिन उनकी मात्रा कम है।"
+  },
+  {
+    "id": 27,
+    "question": "भूकंप का उपरिकेंद्र (Epicenter) किसे कहते हैं? / What is called the epicenter of an earthquake?",
+    "options": {
+      "A": "भूकंप तरंगों का उद्गम स्थल पृथ्वी के अंदर",
+      "B": "पृथ्वी की सतह पर वह बिंदु जो फोकस के ठीक ऊपर होता है",
+      "C": "सिस्मोग्राफ का स्थान",
+      "D": "भूकंप की सबसे अधिक क्षति वाला स्थान"
     },
     "answer": ["B"],
-    "explanation": "मजबूत आधारभूत संरचना हेतु बजट 2025-26 में कुल ₹2.2 लाख करोड़ प्रस्तावित है।"
+    "explanation": "उपरिकेंद्र वह स्थान होता है जो भूकंप फोकस के ठीक ऊपर पृथ्वी की सतह पर स्थित होता है। यही क्षेत्र सामान्यतः सबसे अधिक प्रभावित होता है।"
   },
   {
-    "id": 67,
-    "question": "Union Budget 2025-26 में स्टार्ट-अप्स के लिए विशेष कोष कितनी राशि का है? / What is the size of special fund for startups in Budget 2025-26?",
+    "id": 28,
+    "question": "निम्नलिखित में से कौन-सी अपक्षय (Weathering) की रासायनिक प्रक्रियाएँ हैं? / Which of the following are chemical processes of weathering?",
     "options": {
-      "A": "₹10,000 करोड़",
-      "B": "₹12,500 करोड़",
-      "C": "₹15,000 करोड़",
-      "D": "₹17,500 करोड़"
+      "A": "कार्बोनेशन (Carbonation)",
+      "B": "हाइड्रेशन (Hydration)",
+      "C": "एक्सफोलिएशन (Exfoliation)",
+      "D": "ऑक्सीकरण (Oxidation)"
     },
-    "answer": ["C"],
-    "explanation": "स्टार्ट-अप्स को समर्थन हेतु बजट 2025-26 में ₹15,000 करोड़ का विशेष कोष घोषित किया गया है।"
+    "answer": ["A", "B", "D"],
+    "explanation": "कार्बोनेशन, हाइड्रेशन और ऑक्सीकरण रासायनिक अपक्षय प्रक्रियाएँ हैं। एक्सफोलिएशन भौतिक अपक्षय की प्रक्रिया है।"
   },
   {
-    "id": 68,
-    "question": "Union Budget 2025-26 में ‘राष्ट्रीय स्वास्थ्य मिशन’ (National Health Mission) के लिए आवंटन कितना किया गया है? / What is the allocation for the National Health Mission in Budget 2025-26?",
+    "id": 29,
+    "question": "भारत में सबसे बड़ा डेल्टा कौन-सा है? / Which is the largest delta in India?",
     "options": {
-      "A": "₹30,000 करोड़",
-      "B": "₹32,500 करोड़",
-      "C": "₹35,000 करोड़",
-      "D": "₹37,500 करोड़"
-    },
-    "answer": ["C"],
-    "explanation": "राष्ट्रीय स्वास्थ्य मिशन को मजबूत करने हेतु बजट 2025-26 में ₹35,000 करोड़ का आवंटन किया गया है।"
-  },
-  {
-    "id": 69,
-    "question": "बजट 2025-26 में ‘राष्ट्रीय ग्रामीण आजीविका मिशन’ (NRLM) के लिए क्या राशि प्रस्तावित है? / What is the proposed allocation for NRLM in Budget 2025-26?",
-    "options": {
-      "A": "₹20,000 करोड़",
-      "B": "₹22,500 करोड़",
-      "C": "₹25,000 करोड़",
-      "D": "₹27,500 करोड़"
-    },
-    "answer": ["B"],
-    "explanation": "राष्ट्रीय ग्रामीण आजीविका मिशन के लिए बजट 2025-26 में ₹22,500 करोड़ का प्रावधान रखा गया है।"
-  },
-  {
-    "id": 70,
-    "question": "Union Budget 2025-26 में ग्रामीण पूर्व रेलवे (Rural Railways) के लिए कितनी राशि निर्धारित की गई है? / What is allocated for Rural Railways in Budget 2025-26?",
-    "options": {
-      "A": "₹15,000 करोड़",
-      "B": "₹17,500 करोड़",
-      "C": "₹20,000 करोड़",
-      "D": "₹22,500 करोड़"
-    },
-    "answer": ["C"],
-    "explanation": "ग्रामीण रेल सेवाओं को बेहतर बनाने हेतु बजट 2025-26 में Rural Railways के लिए ₹20,000 करोड़ आवंटित किए गए हैं।"
-  },
-  {
-    "id": 71,
-    "question": "बजट 2025-26 में ‘बस आवागमन (Urban Bus Transit)’ के लिए कितना आवंटन रखा गया? / What is the allocation for Urban Bus Transit in Budget 2025-26?",
-    "options": {
-      "A": "₹8,000 करोड़",
-      "B": "₹10,000 करोड़",
-      "C": "₹12,000 करोड़",
-      "D": "₹14,000 करोड़"
-    },
-    "answer": ["B"],
-    "explanation": "शहरी बस सेवा को मजबूत बनाने हेतु बजट 2025-26 में ₹10,000 करोड़ का आवंटन किया गया है।"
-  },
-  {
-    "id": 72,
-    "question": "Union Budget 2025-26 में ग्रामीण शिक्षा (Rural Education) के लिए कितनी राशि प्रस्तावित है? / What is the proposed allocation for Rural Education in Budget 2025-26?",
-    "options": {
-      "A": "₹18,000 करोड़",
-      "B": "₹20,000 करोड़",
-      "C": "₹22,500 करोड़",
-      "D": "₹25,000 करोड़"
-    },
-    "answer": ["B"],
-    "explanation": "ग्रामीण शिक्षा के विकास हेतु बजट 2025-26 में ₹20,000 करोड़ का आवंटन रखा गया है।"
-  },
-  {
-    "id": 73,
-    "question": "बजट 2025-26 में ‘कृषि-प्रौद्योगिकी विस्तार’ (Agri-Tech Outreach) हेतु कितना प्रावधान है? / What is the provision for Agri-Tech Outreach in Budget 2025-26?",
-    "options": {
-      "A": "₹12,500 करोड़",
-      "B": "₹15,000 करोड़",
-      "C": "₹17,500 करोड़",
-      "D": "₹20,000 करोड़"
-    },
-    "answer": ["C"],
-    "explanation": "कृषि-प्रौद्योगिकी विस्तार को बढ़ावा देने हेतु बजट 2025-26 में ₹17,500 करोड़ का प्रावधान किया गया है।"
-  },
-  {
-    "id": 74,
-    "question": "Union Budget 2025-26 में रक्षा अनुसंधान और विकास (Defence R&D) को कितना आवंटन मिला है? / What is the allocation for Defence R&D in Budget 2025-26?",
-    "options": {
-      "A": "₹10,000 करोड़",
-      "B": "₹12,500 करोड़",
-      "C": "₹15,000 करोड़",
-      "D": "₹17,500 करोड़"
-    },
-    "answer": ["B"],
-    "explanation": "रक्षा अनुसंधान और विकास को मजबूती देने हेतु बजट 2025-26 में ₹12,500 करोड़ आवंटित किए गए हैं।"
-  },
-  {
-    "id": 75,
-    "question": "बजट 2025-26 में ‘साइबर सुरक्षा (Cyber Security)’ के लिए कितनी राशि प्रदान की गई? / What amount is provided for Cyber Security in Budget 2025-26?",
-    "options": {
-      "A": "₹5,000 करोड़",
-      "B": "₹7,500 करोड़",
-      "C": "₹10,000 करोड़",
-      "D": "₹12,500 करोड़"
-    },
-    "answer": ["C"],
-    "explanation": "साइबर सुरक्षा को मजबूत बनाने हेतु बजट 2025-26 में ₹10,000 करोड़ आवंटित किए गए हैं।"
-  },
-  {
-    "id": 76,
-    "question": "Union Budget 2025-26 में ‘शहरी हरित आवास (Green Urban Housing)’ के लिए कितना निधि रखा गया? / What fund is allocated for Green Urban Housing in Budget 2025-26?",
-    "options": {
-      "A": "₹15,000 करोड़",
-      "B": "₹17,500 करोड़",
-      "C": "₹20,000 करोड़",
-      "D": "₹22,500 करोड़"
+      "A": "गंगा-ब्रह्मपुत्र डेल्टा",
+      "B": "गोदावरी डेल्टा",
+      "C": "कावेरी डेल्टा",
+      "D": "महानदी डेल्टा"
     },
     "answer": ["A"],
-    "explanation": "हरित शहरी आवास को बढ़ावा देने हेतु बजट 2025-26 में ₹15,000 करोड़ की निधि प्रदान की गई है।"
+    "explanation": "गंगा-ब्रह्मपुत्र डेल्टा विश्व का सबसे बड़ा डेल्टा है, जिसे सुंदरबन भी कहते हैं। यह बंगाल की खाड़ी में फैला हुआ है।"
   },
   {
-    "id": 77,
-    "question": "बजट 2025-26 में ‘स्थिर ऊर्जा (Stable Energy Supply)’ के लिए कौन-सी राशि प्रस्तावित की गई है? / What is proposed for Stable Energy Supply in Budget 2025-26?",
+    "id": 30,
+    "question": "निम्नलिखित में से कौन-से स्थलरूप समुद्री अपरदन से बनते हैं? / Which of the following landforms are formed by marine erosion?",
     "options": {
-      "A": "₹25,000 करोड़",
-      "B": "₹27,500 करोड़",
-      "C": "₹30,000 करोड़",
-      "D": "₹32,500 करोड़"
+      "A": "सी क्लिफ (Sea Cliff)",
+      "B": "सी आर्च (Sea Arch)",
+      "C": "सी केव (Sea Cave)",
+      "D": "स्पिट (Spit)"
     },
-    "answer": ["B"],
-    "explanation": "स्थिर ऊर्जा आपूर्ति सुनिश्चित करने हेतु बजट 2025-26 में ₹27,500 करोड़ प्रस्तावित है।"
+    "answer": ["A", "B", "C"],
+    "explanation": "सी क्लिफ, सी आर्च और सी केव समुद्री अपरदन से बनते हैं। स्पिट समुद्री निक्षेपण से बनता है।"
   },
   {
-    "id": 78,
-    "question": "Union Budget 2025-26 में ‘साइन्स कॉलेज नेटवर्क’ (Science College Network) के लिए कितनी राशि आवंटित है? / What is the allocation for Science College Network in Budget 2025-26?",
+    "id": 31,
+    "question": "निम्नलिखित में से कौन-सी भूगर्भीय संरचना भारत के डेक्कन ट्रैप्स से जुड़ी है? / Which geological structure is associated with Deccan Traps in India?",
     "options": {
-      "A": "₹8,000 करोड़",
-      "B": "₹10,000 करोड़",
-      "C": "₹12,000 करोड़",
-      "D": "₹14,000 करोड़"
+      "A": "शील्ड ज्वालामुखी",
+      "B": "बेसाल्ट पठार",
+      "C": "कायांतरित पर्वत",
+      "D": "एस्ट्यूरी"
     },
-    "answer": ["B"],
-    "explanation": "Science College Network को सुदृढ़ करने हेतु बजट 2025-26 में ₹10,000 करोड़ आवंटित किए गए हैं।"
+    "answer": ["A", "B"],
+    "explanation": "डेक्कन ट्रैप्स बेसाल्टिक लावा से बना एक विशाल पठार है, जो शील्ड ज्वालामुखी विस्फोटों का परिणाम है।"
   },
   {
-    "id": 79,
-    "question": "बजट 2025-26 में ‘सड़क सुरक्षा (Road Safety)’ पर कितना खर्च प्रस्तावित है? / What expenditure is proposed for Road Safety in Budget 2025-26?",
+    "id": 32,
+    "question": "हिमालय किस प्रकार का पर्वत है? / What type of mountain is the Himalaya?",
     "options": {
-      "A": "₹6,000 करोड़",
-      "B": "₹8,000 करोड़",
-      "C": "₹10,000 करोड़",
-      "D": "₹12,000 करोड़"
+      "A": "मोड़दार पर्वत (Fold Mountain)",
+      "B": "ब्लॉक पर्वत (Block Mountain)",
+      "C": "ज्वालामुखीय पर्वत (Volcanic Mountain)",
+      "D": "अवशिष्ट पर्वत (Residual Mountain)"
     },
-    "answer": ["C"],
-    "explanation": "सड़क सुरक्षा उपायों हेतु बजट 2025-26 में ₹10,000 करोड़ खर्च प्रस्तावित है।"
+    "answer": ["A"],
+    "explanation": "हिमालय मोड़दार पर्वत (Fold Mountain) है जो भारतीय और यूरेशियन प्लेटों के टकराने से बना है।"
   },
   {
-    "id": 80,
-    "question": "Union Budget 2025-26 में ‘डिजिटल साक्षरता (Digital Literacy)’ कार्यक्रम हेतु कितना आवंटन रखा गया है? / What allocation is kept for Digital Literacy programs in Budget 2025-26?",
+    "id": 33,
+    "question": "पृथ्वी के आंतरिक भाग का अध्ययन करने के कौन-कौन से तरीके हैं? / Which methods are used to study the interior of the Earth?",
     "options": {
-      "A": "₹12,000 करोड़",
-      "B": "₹14,000 करोड़",
-      "C": "₹16,000 करोड़",
-      "D": "₹18,000 करोड़"
+      "A": "भूकंप तरंगें",
+      "B": "खगोल विज्ञान (Astronomy)",
+      "C": "गुरुत्वाकर्षण और चुंबकीय क्षेत्र का अध्ययन",
+      "D": "गहरे ड्रिलिंग (Deep Drilling)"
     },
-    "answer": ["C"],
-    "explanation": "डिजिटल साक्षरता बढ़ाने हेतु बजट 2025-26 में ₹16,000 करोड़ का आवंटन रखा गया है।"
+    "answer": ["A", "C", "D"],
+    "explanation": "पृथ्वी के आंतरिक भाग का अध्ययन मुख्यतः भूकंप तरंगों, गुरुत्वाकर्षण और चुंबकीय क्षेत्र के अध्ययन तथा गहरे ड्रिलिंग से किया जाता है। खगोल विज्ञान बाहरी खगोलीय पिंडों का अध्ययन करता है।"
+  },
+  {
+    "id": 34,
+    "question": "निम्नलिखित में से कौन-सा/कौन-से अवशिष्ट पर्वत (Residual Mountains) के उदाहरण हैं? / Which of the following are examples of Residual Mountains?",
+    "options": {
+      "A": "अरावली पर्वत",
+      "B": "निलगिरी पर्वत",
+      "C": "विन्ध्य पर्वत",
+      "D": "एपलाचियन पर्वत"
+    },
+    "answer": ["A", "B"],
+    "explanation": "अरावली और निलगिरी पर्वत अवशिष्ट पर्वतों के उदाहरण हैं। विंध्य और एपलाचियन पर्वत मोड़दार पर्वत हैं।"
+  },
+  {
+    "id": 35,
+    "question": "कौन-सा स्थलरूप वायुमंडलीय कार्स्ट (Karst Topography) से संबंधित है? / Which of the following landforms are related to Karst topography?",
+    "options": {
+      "A": "सिंकहोल (Sinkhole)",
+      "B": "स्टैलेक्टाइट (Stalactite)",
+      "C": "डोलाइन (Doline)",
+      "D": "ड्रमलिन (Drumlin)"
+    },
+    "answer": ["A", "B", "C"],
+    "explanation": "सिंकहोल, स्टैलेक्टाइट और डोलाइन कार्स्ट स्थलाकृति के रूप हैं जो चूना पत्थर के घुलने से बनते हैं। ड्रमलिन हिमनद निक्षेपण का स्थलरूप है।"
+  },
+  {
+    "id": 36,
+    "question": "भूकंप का केंद्र (Focus) किसे कहते हैं? / What is called the focus of an earthquake?",
+    "options": {
+      "A": "पृथ्वी के अंदर वह बिंदु जहाँ से भूकंप तरंगों का उद्गम होता है।",
+      "B": "पृथ्वी की सतह पर वह बिंदु जो उपरिकेंद्र कहलाता है।",
+      "C": "सिस्मोग्राफ का स्थान।",
+      "D": "भूकंप से प्रभावित क्षेत्र।"
+    },
+    "answer": ["A"],
+    "explanation": "भूकंप का केंद्र (Focus) पृथ्वी के अंदर वह बिंदु होता है जहाँ से भूकंप तरंगों का उद्गम होता है। इसका सतही समतुल्य उपरिकेंद्र कहलाता है।"
+  },
+  {
+    "id": 37,
+    "question": "लॉस (Loess) किस प्रक्रिया से बनता है? / By which process is Loess formed?",
+    "options": {
+      "A": "हवा द्वारा निक्षेपण (Aeolian Deposition)",
+      "B": "हिमनद निक्षेपण (Glacial Deposition)",
+      "C": "नदी अपरदन (Fluvial Erosion)",
+      "D": "ज्वालामुखीय विस्फोट"
+    },
+    "answer": ["A"],
+    "explanation": "लॉस (Loess) हवा द्वारा उड़ाकर जमा की गई महीन धूल से बनता है। यह विशेषकर शुष्क और अर्ध-शुष्क क्षेत्रों में पाया जाता है।"
+  },
+  {
+    "id": 38,
+    "question": "रूपांतरित (Metamorphic) चट्टानों का निर्माण किन प्रक्रियाओं से होता है? / Metamorphic rocks are formed by which processes?",
+    "options": {
+      "A": "उच्च तापमान",
+      "B": "उच्च दाब",
+      "C": "निक्षेपण",
+      "D": "रासायनिक प्रतिक्रिया"
+    },
+    "answer": ["A", "B", "D"],
+    "explanation": "कायांतरित चट्टानें उच्च तापमान, उच्च दाब और रासायनिक प्रक्रियाओं के कारण पहले से मौजूद चट्टानों के रूपांतरण से बनती हैं। निक्षेपण अवसादी चट्टानों की प्रक्रिया है।"
+  },
+  {
+    "id": 39,
+    "question": "निम्नलिखित में से कौन-सी ज्वालामुखीय गतिविधियाँ विस्फोटक (Explosive) मानी जाती हैं? / Which of the following volcanic activities are considered explosive?",
+    "options": {
+      "A": "माउंट सेंट हेलेंस विस्फोट",
+      "B": "हवाई द्वीपों के शील्ड ज्वालामुखी",
+      "C": "क्राकाटोआ विस्फोट",
+      "D": "पिनातुबो विस्फोट"
+    },
+    "answer": ["A", "C", "D"],
+    "explanation": "माउंट सेंट हेलेंस, क्राकाटोआ और पिनातुबो जैसे विस्फोट अत्यंत विस्फोटक थे। हवाई द्वीपों के शील्ड ज्वालामुखी अपेक्षाकृत शांत और कम विस्फोटक होते हैं।"
+  },
+  {
+    "id": 40,
+    "question": "‘भूकंपीय तरंग छाया क्षेत्र’ (Seismic Wave Shadow Zone) किस तरंग से संबंधित है? / The ‘Seismic Wave Shadow Zone’ is associated with which seismic wave?",
+    "options": {
+      "A": "P-वेव्स",
+      "B": "S-वेव्स",
+      "C": "L-वेव्स",
+      "D": "सतही तरंगें (Surface Waves)"
+    },
+    "answer": ["A", "B"],
+    "explanation": "P-वेव्स और S-वेव्स दोनों के लिए पृथ्वी पर छाया क्षेत्र होते हैं। S-वेव्स तरल बाह्य कोर से नहीं गुजरतीं इसलिए उनका छाया क्षेत्र बड़ा होता है। P-वेव्स अपवर्तन के कारण छाया क्षेत्र बनाती हैं। यही पृथ्वी के कोर की संरचना का प्रमाण है।"
   }
 ]
-  
-
 
